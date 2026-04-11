@@ -1,13 +1,17 @@
 "use client";
 
 import GlobeHero from "./GlobeHero";
+import type { Region } from "@/types";
 
 const clamp = (n: number, min: number, max: number) =>
   Math.max(min, Math.min(max, n));
 
-type Props = { progress: number };
+type Props = {
+  progress: number;
+  onRegionClick?: (region: Region) => void;
+};
 
-export default function Hero({ progress }: Props) {
+export default function Hero({ progress, onRegionClick }: Props) {
   const headlineOpacity = clamp(1 - progress / 0.2, 0, 1);
   const headlineY = -progress * 40;
 
@@ -34,7 +38,7 @@ export default function Hero({ progress }: Props) {
       />
 
       <div
-        className="absolute inset-x-0 top-[18vh] z-0 px-6 text-center pointer-events-none"
+        className="absolute inset-x-0 top-[24vh] md:top-[18vh] z-0 px-6 text-center pointer-events-none"
         style={{
           opacity: headlineOpacity,
           transform: `translateY(${headlineY}px)`,
@@ -45,7 +49,7 @@ export default function Hero({ progress }: Props) {
           xmlns="http://www.w3.org/2000/svg"
           fill="none"
           viewBox="0 0 14 14"
-          className="mx-auto mb-6 w-12 h-12 md:w-14 md:h-14 text-ink"
+          className="mx-auto mb-4 md:mb-6 w-10 h-10 md:w-14 md:h-14 text-ink"
           aria-hidden
         >
           <path
@@ -55,7 +59,7 @@ export default function Hero({ progress }: Props) {
             clipRule="evenodd"
           />
         </svg>
-        <h1 className="text-5xl md:text-6xl font-semibold tracking-tight text-ink text-balance leading-[1.05]">
+        <h1 className="text-3xl sm:text-5xl md:text-6xl font-semibold tracking-tight text-ink leading-[1.1] md:leading-[1.05]">
           Tracking AI policies
           <br />
           in your hometown
@@ -72,7 +76,11 @@ export default function Hero({ progress }: Props) {
         }}
       >
         <div className="w-[78vh] h-[78vh] aspect-square">
-          <GlobeHero phi={phi} lockLambda={lockLambda} />
+          <GlobeHero
+            phi={phi}
+            lockLambda={lockLambda}
+            onRegionClick={onRegionClick}
+          />
         </div>
       </div>
     </section>

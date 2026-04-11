@@ -92,15 +92,12 @@ export default function SummaryBar() {
       </div>
 
       {/* Stats */}
-      <div className="flex items-baseline justify-between mb-4 text-base">
-        <div>
-          <span className="font-semibold text-ink">{restrictingCount}</span>
-          <span className="text-muted">
-            {" "}
-            of {totalStates} states restricting or considering restrictions
-          </span>
+      <div className="flex flex-col gap-1 sm:flex-row sm:items-baseline sm:justify-between sm:gap-4 mb-4 text-sm sm:text-base">
+        <div className="text-muted leading-snug">
+          <span className="font-semibold text-ink">{restrictingCount}</span> of{" "}
+          {totalStates} states restricting or considering restrictions
         </div>
-        <div className="text-muted">
+        <div className="text-muted leading-snug sm:text-right">
           <span className="font-semibold text-ink">{incentivesCount}</span>{" "}
           states with incentives
         </div>
@@ -150,7 +147,9 @@ export default function SummaryBar() {
           </div>
         ) : (
           <p className="text-xs text-muted">
-            Hover over a segment to see which states fall into each category.
+            <span className="hidden sm:inline">Hover over</span>
+            <span className="sm:hidden">Tap</span> a segment to see which states
+            fall into each category.
           </p>
         )}
       </div>

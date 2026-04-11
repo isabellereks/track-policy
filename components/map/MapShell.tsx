@@ -1,6 +1,12 @@
 "use client";
 
-import { useMemo, useRef, useState, type MutableRefObject } from "react";
+import {
+  useMemo,
+  useRef,
+  useState,
+  useSyncExternalStore,
+  type MutableRefObject,
+} from "react";
 import {
   REGION_LABEL,
   REGION_ORDER,
@@ -73,8 +79,14 @@ export default function MapShell({
   // can drive map navigation when the user clicks a row.
   if (navigateRef) navigateRef.current = navigateTo;
 
-  const handleSelectEntity = (geoId: string) =>
+  const handleSelectEntity = (geoId: string) => {
     navigateTo({ ...current, selectedGeoId: geoId });
+    // Clicking a country while the panel is collapsed to the Dynamic Island
+    // expands it back to the full square so the user can read the details.
+    if (panelSize === "min") {
+      setExplicitPanelSize("md");
+    }
+  };
 
   const handleRegionChange = (next: Region) =>
     navigateTo({ region: next, naView: "countries", selectedGeoId: null });
@@ -139,8 +151,35 @@ export default function MapShell({
   const regionIdx = REGION_ORDER.indexOf(region);
 
   const zoomT = Math.max(0, Math.min(1, (revealProgress - 0.55) / 0.45));
-  const mapScale = 0.88 + zoomT * 0.12;
+  const baseMapScale = 0.88 + zoomT * 0.12;
   const chromeOpacity = Math.max(0, Math.min(1, (revealProgress - 0.85) / 0.12));
+
+  // Panel state lives here so the map can react to it. The panel defaults
+  // to the expanded `md` shape on every viewport — users on mobile can still
+  // collapse it to the Dynamic Island via the drag-down gesture. Their
+  // explicit choice (if any) takes precedence over the default.
+  const isMobileViewport = useSyncExternalStore(
+    (callback) => {
+      if (typeof window === "undefined") return () => {};
+      const mq = window.matchMedia("(max-width: 1023px)");
+      mq.addEventListener("change", callback);
+      return () => mq.removeEventListener("change", callback);
+    },
+    () =>
+      typeof window !== "undefined"
+        ? window.matchMedia("(max-width: 1023px)").matches
+        : false,
+    () => false,
+  );
+  const [explicitPanelSize, setExplicitPanelSize] = useState<
+    "min" | "md" | null
+  >(null);
+  const panelSize: "min" | "md" = explicitPanelSize ?? "md";
+
+  // When the panel is collapsed to the Dynamic Island, the map gets a little
+  // extra zoom so it fills the freed-up space. Expanding the panel returns
+  // the map to its baseline scale.
+  const panelExtraZoom = panelSize === "min" ? 1.55 : 1.0;
 
   // Touch swipe between regions (mobile only)
   const swipeRef = useRef<{
@@ -189,19 +228,29 @@ export default function MapShell({
 
   return (
     <div className="fixed inset-0 bg-white overflow-hidden z-0">
-      {/* Scaled zoom wrapper — the rail zooms from ~0.78 to 1.0 during the hero blend. */}
+      {/* Outer wrapper — animated extra zoom driven by panel state.
+          Inner wrapper — scroll-driven base zoom (snaps with scroll). */}
       <div
         className="absolute inset-0"
         style={{
-          transform: `scale(${mapScale})`,
+          transform: `scale(${panelExtraZoom})`,
           transformOrigin: "center center",
           willChange: "transform",
           touchAction: "pan-y",
+          transition: "transform 500ms cubic-bezier(0.5, 1.55, 0.4, 1)",
         }}
         onPointerDown={onMapPointerDown}
         onPointerUp={onMapPointerUp}
         onPointerCancel={() => (swipeRef.current = null)}
         onClickCapture={onMapClickCapture}
+      >
+      <div
+        className="absolute inset-0"
+        style={{
+          transform: `scale(${baseMapScale})`,
+          transformOrigin: "center center",
+          willChange: "transform",
+        }}
       >
         {/* Sliding region rail — all three regions rendered side-by-side. */}
         <div
@@ -211,7 +260,7 @@ export default function MapShell({
           {REGION_ORDER.map((r) => (
           <div
             key={r}
-            className="w-full h-full flex-shrink-0 flex items-center justify-center pb-[28vh] lg:pb-0"
+            className="w-full h-full flex-shrink-0 flex items-center justify-center pb-[40vh] lg:pb-0"
           >
             {r === "na" && naView === "countries" && (
               <NorthAmericaMap
@@ -250,19 +299,22 @@ export default function MapShell({
         ))}
         </div>
       </div>
-
-      {/* Floating side panel overlay — bottom sheet on small screens, left sidebar on lg+ */}
-      <div
-        className="absolute z-30 inset-x-4 bottom-32 lg:inset-x-auto lg:bottom-auto lg:top-6 lg:left-6 lg:max-h-[calc(100vh-96px)]"
-        style={{ opacity: chromeOpacity, pointerEvents: chromeOpacity < 0.5 ? "none" : "auto" }}
-      >
-        <SidePanel
-          entity={selectedEntity}
-          breadcrumbItems={breadcrumbItems}
-          showViewStatesButton={showViewStatesButton}
-          onViewStates={handleViewStates}
-        />
       </div>
+
+      {/* Floating side panel — self-positioned via its own state. */}
+      <SidePanel
+        entity={selectedEntity}
+        breadcrumbItems={breadcrumbItems}
+        showViewStatesButton={showViewStatesButton}
+        onViewStates={handleViewStates}
+        onClose={() =>
+          navigateTo({ ...current, selectedGeoId: null })
+        }
+        visibility={chromeOpacity}
+        size={panelSize}
+        onSizeChange={setExplicitPanelSize}
+        isMobileViewport={isMobileViewport}
+      />
 
       {/* Top-right history nav (back / forward) */}
       <div

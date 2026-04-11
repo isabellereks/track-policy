@@ -3,7 +3,7 @@ import {
   type Dimension,
   type ImpactTag,
 } from "@/types";
-import { DIMENSION_PASTEL_VAR, DIMENSION_TAGS } from "@/lib/dimensions";
+import { DIMENSION_COLOR, DIMENSION_TAGS } from "@/lib/dimensions";
 
 const DIMENSION_GROUPS: { dimension: Exclude<Dimension, "overall">; label: string }[] =
   [
@@ -38,7 +38,7 @@ export default function NuanceLegend() {
       <div className="flex flex-col gap-5">
         {DIMENSION_GROUPS.map(({ dimension, label }) => {
           const tags = uniq(DIMENSION_TAGS[dimension]);
-          const dotColor = DIMENSION_PASTEL_VAR[dimension];
+          const dotColor = DIMENSION_COLOR[dimension];
           return (
             <div key={dimension}>
               <div className="text-[13px] font-medium text-muted tracking-tight mb-2">

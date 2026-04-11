@@ -9,7 +9,7 @@ import AIOverview from "@/components/sections/AIOverview";
 import NuanceLegend from "@/components/sections/NuanceLegend";
 import LegislationTable from "@/components/sections/LegislationTable";
 import { useScrollProgress } from "@/lib/use-scroll-progress";
-import type { Dimension, ViewTarget } from "@/types";
+import type { Dimension, Region, ViewTarget } from "@/types";
 
 export default function Page() {
   const progress = useScrollProgress();
@@ -21,6 +21,35 @@ export default function Page() {
     window.scrollTo({ top: 0, behavior: "smooth" });
   };
 
+  const handleGlobeRegionClick = (region: Region) => {
+    // Update the map state first — the map is already mounted under the hero,
+    // so by the time the user scrolls into view it's already on the right
+    // region. Then run a custom RAF-driven scroll so the reveal animation
+    // plays slowly and smoothly, with an ease-out curve instead of the
+    // browser's default (which is both too fast and not tunable).
+    navigateRef.current?.({
+      region,
+      naView: "countries",
+      selectedGeoId: null,
+    });
+    if (typeof window === "undefined") return;
+    const targetY = window.innerHeight * 2.2;
+    const startY = window.scrollY;
+    const distance = targetY - startY;
+    if (Math.abs(distance) < 1) return;
+    const duration = 1800;
+    const startTime = performance.now();
+    // ease-out quart — strong, smooth deceleration
+    const ease = (t: number) => 1 - Math.pow(1 - t, 4);
+    const step = (now: number) => {
+      const elapsed = now - startTime;
+      const t = Math.min(1, elapsed / duration);
+      window.scrollTo(0, startY + distance * ease(t));
+      if (t < 1) requestAnimationFrame(step);
+    };
+    requestAnimationFrame(step);
+  };
+
   return (
     <>
       <MapShell
@@ -28,7 +57,7 @@ export default function Page() {
         dimension={dimension}
         navigateRef={navigateRef}
       />
-      <Hero progress={progress} />
+      <Hero progress={progress} onRegionClick={handleGlobeRegionClick} />
       <div className="h-[400vh]" aria-hidden />
 
       <section className="relative z-10 bg-white">

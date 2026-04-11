@@ -1,7 +1,7 @@
 "use client";
 
 import { DIMENSION_LABEL, type Dimension } from "@/types";
-import { DIMENSION_PASTEL_VAR } from "@/lib/dimensions";
+import { DIMENSION_COLOR, DIMENSION_TEXT } from "@/lib/dimensions";
 
 interface DimensionToggleProps {
   dimension: Dimension;
@@ -28,25 +28,34 @@ export default function DimensionToggle({
       <div className="flex flex-wrap gap-2">
         {DIMENSIONS.map((d) => {
           const active = d === dimension;
-          const pastel =
-            d === "overall" ? null : DIMENSION_PASTEL_VAR[d];
+          let activeStyle: React.CSSProperties | undefined;
+          if (active) {
+            if (d === "overall") {
+              activeStyle = {
+                backgroundColor: "#1D1D1F",
+                borderColor: "#1D1D1F",
+                color: "#FFFFFF",
+              };
+            } else {
+              activeStyle = {
+                backgroundColor: DIMENSION_COLOR[d],
+                borderColor: DIMENSION_COLOR[d],
+                color: DIMENSION_TEXT[d],
+              };
+            }
+          }
           return (
             <button
               key={d}
               type="button"
               onClick={() => onChange(d)}
-              className={`inline-flex items-center gap-2 rounded-full px-4 py-2 text-xs font-medium transition-colors ${
+              style={activeStyle}
+              className={`inline-flex items-center rounded-full border px-4 py-2 text-xs font-medium transition-colors ${
                 active
-                  ? "bg-ink text-white"
-                  : "border border-black/[.06] text-muted hover:text-ink"
+                  ? "border-transparent"
+                  : "border-black/[.06] text-muted hover:text-ink"
               }`}
             >
-              {active && pastel && (
-                <span
-                  className="w-1.5 h-1.5 rounded-full"
-                  style={{ backgroundColor: pastel }}
-                />
-              )}
               {DIMENSION_LABEL[d]}
             </button>
           );
