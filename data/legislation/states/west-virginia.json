@@ -1,0 +1,249 @@
+{
+  "state": "West Virginia",
+  "stateCode": "WV",
+  "region": "na",
+  "stance": "concerning",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "West Virginia has 12 bills tracked in 2025–2026. 1 is already enacted. 1 relates to moratoriums or prohibitions.",
+  "legislation": [
+    {
+      "id": "wv-hb4832",
+      "billCode": "HB4832",
+      "title": "Relating to the use of state water resources",
+      "summary": "The purpose of this bill is to require that all high impact data centers report water use to the Department of Environmental Projection as part of the Water Resource Protection and Management Act's water use monitoring requirements, authorizes the Department of Environmental P...",
+      "stage": "Committee",
+      "impactTags": [
+        "water-consumption"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-26",
+      "partyOrigin": "D",
+      "sourceUrl": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4832&year=2026&sessiontype=RS&btype=bill",
+      "legiscanUrl": "https://legiscan.com/WV/bill/HB4832/2026",
+      "legiscanId": 2093407,
+      "sponsors": [
+        "Evan Hansen",
+        "Kayla Young",
+        "Anitra Hamilton",
+        "John Williams"
+      ]
+    },
+    {
+      "id": "wv-hb4770",
+      "billCode": "HB4770",
+      "title": "Establishing limitations on the use of artificial intelligence and artificial intelligence technology to deliver mental health care, with exceptions for administrative support functions",
+      "summary": "The purpose of this bill is to establish regulations governing the use of artificial intelligence in the administration and delivery of mental health care in West Virginia.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-23",
+      "partyOrigin": "R",
+      "sourceUrl": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4770&year=2026&sessiontype=RS&btype=bill",
+      "legiscanUrl": "https://legiscan.com/WV/bill/HB4770/2026",
+      "legiscanId": 2091789,
+      "sponsors": [
+        "Evan Worrell",
+        "Michael Hite",
+        "Mickey Petitto"
+      ]
+    },
+    {
+      "id": "wv-sb498",
+      "billCode": "SB498",
+      "title": "Relating to pornography access for minors",
+      "summary": "The purpose of this bill is to prohibit the distribution and display of pornographic material to minors through online platforms, to establish strict age verification protocols, and to impose severe penalties on entities that fail to comply.",
+      "stage": "Committee",
+      "impactTags": [
+        "child-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-19",
+      "partyOrigin": "R",
+      "sourceUrl": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=498&year=2026&sessiontype=RS&btype=bill",
+      "legiscanUrl": "https://legiscan.com/WV/bill/SB498/2026",
+      "legiscanId": 2085573,
+      "sponsors": [
+        "Patricia Rucker",
+        "Amy Nichole Grady",
+        "Brian Helton",
+        "Rollan Roberts"
+      ]
+    },
+    {
+      "id": "wv-hb5551",
+      "billCode": "HB5551",
+      "title": "Protecting State Licensing and ID Act",
+      "summary": "The purpose of this bill is to safeguard state sovereignty and the citizens of the state by protecting non-REAL ID compliant licenses and identification cards.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-16",
+      "partyOrigin": "R",
+      "sourceUrl": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5551&year=2026&sessiontype=RS&btype=bill",
+      "legiscanUrl": "https://legiscan.com/WV/bill/HB5551/2026",
+      "legiscanId": 2117278,
+      "sponsors": [
+        "Laura Kimble",
+        "Chris Anders",
+        "Tresa Howell",
+        "Margitta Mazzocchi"
+      ]
+    },
+    {
+      "id": "wv-hb4854",
+      "billCode": "HB4854",
+      "title": "Prohibiting the state or any political subdivision from subsidizing any data center in West Virginia",
+      "summary": "The purpose of this bill is to prohibit the state or any political subdivision from subsidizing any data center in West Virginia.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-28",
+      "partyOrigin": "R",
+      "sourceUrl": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4854&year=2026&sessiontype=RS&btype=bill",
+      "legiscanUrl": "https://legiscan.com/WV/bill/HB4854/2026",
+      "legiscanId": 2095566,
+      "sponsors": [
+        "Henry Dillon"
+      ]
+    },
+    {
+      "id": "wv-hb4948",
+      "billCode": "HB4948",
+      "title": "To create a buffer zone between a data center and residence, school or house of worship",
+      "summary": "The purpose of this bill is to establish a minimum 500-foot buffer zone between the construction or establishment of a data center and a residence or school or house of worship.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-29",
+      "partyOrigin": "R",
+      "sourceUrl": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4948&year=2026&sessiontype=RS&btype=bill",
+      "legiscanUrl": "https://legiscan.com/WV/bill/HB4948/2026",
+      "legiscanId": 2101590,
+      "sponsors": [
+        "Chris Anders",
+        "Larry Kump",
+        "Ian Masters",
+        "Laura Kimble"
+      ]
+    },
+    {
+      "id": "wv-hb5034",
+      "billCode": "HB5034",
+      "title": "Relating to biometric privacy",
+      "summary": "The purpose of this bill is to create the West Virginia Genomic Information Privacy Act of 2026, requiring biometric privacy; requiring an entity to provide consumer information regarding the collection, use, and disclosure of genetic data; providing for limitations and exclus...",
+      "stage": "Committee",
+      "impactTags": [
+        "data-privacy"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-02",
+      "partyOrigin": "R",
+      "sourceUrl": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5034&year=2026&sessiontype=RS&btype=bill",
+      "legiscanUrl": "https://legiscan.com/WV/bill/HB5034/2026",
+      "legiscanId": 2103345,
+      "sponsors": [
+        "Laura Kimble",
+        "Chris Anders",
+        "Bill Ridenour",
+        "Margitta Mazzocchi"
+      ]
+    },
+    {
+      "id": "wv-hb4592",
+      "billCode": "HB4592",
+      "title": "Relating to college campus safety",
+      "summary": "The purpose of this bill is to modify school safety mapping data to include colleges and universities.",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-14",
+      "partyOrigin": "R",
+      "sourceUrl": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4592&year=2026&sessiontype=RS&btype=bill",
+      "legiscanUrl": "https://legiscan.com/WV/bill/HB4592/2026",
+      "legiscanId": 2086363,
+      "sponsors": [
+        "Michael Hornby",
+        "Josh Holstein",
+        "Jarred Cannon",
+        "Kathie Crouse"
+      ]
+    },
+    {
+      "id": "wv-hb4598",
+      "billCode": "HB4598",
+      "title": "Change Audit Log for annual subscription with Secretary of State",
+      "summary": "The purpose of this bill is to update the voter list information for noncommercial use by requiring the inclusion of change audit data as part of the information provided in the voter lists for the election cycle subscription service.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-20",
+      "partyOrigin": "R",
+      "sourceUrl": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4598&year=2026&sessiontype=RS&btype=bill",
+      "legiscanUrl": "https://legiscan.com/WV/bill/HB4598/2026",
+      "legiscanId": 2086506,
+      "sponsors": [
+        "Tresa Howell",
+        "Roland Jennings",
+        "Rick Hillenbrand",
+        "Dana Ferrell"
+      ]
+    },
+    {
+      "id": "wv-sb88",
+      "billCode": "SB88",
+      "title": "Relating to community air monitoring programs",
+      "summary": "The purpose of this bill is to institute community air monitoring programs, define the data collected, and describe how that data is used.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-14",
+      "partyOrigin": "R",
+      "sourceUrl": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=88&year=2026&sessiontype=RS&btype=bill",
+      "legiscanUrl": "https://legiscan.com/WV/bill/SB88/2026",
+      "legiscanId": 2079537,
+      "sponsors": [
+        "Eric Tarr",
+        "Darren Thorne"
+      ]
+    },
+    {
+      "id": "wv-hb5611",
+      "billCode": "HB5611",
+      "title": "Certified Microgrid Program",
+      "summary": "The purpose of this bill to clarify the management of data centers in growth counties with majority karst hydrogeology.",
+      "stage": "Committee",
+      "impactTags": [
+        "economic-development"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-16",
+      "partyOrigin": "R",
+      "sourceUrl": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5611&year=2026&sessiontype=RS&btype=bill",
+      "legiscanUrl": "https://legiscan.com/WV/bill/HB5611/2026",
+      "legiscanId": 2117316,
+      "sponsors": [
+        "Joe Funkhouser",
+        "Bill Ridenour"
+      ]
+    },
+    {
+      "id": "wv-sb658",
+      "billCode": "SB658",
+      "title": "Relating to certified microgrid district projects and certified high impact data center projects",
+      "summary": "The purpose of this bill is to restore local control and regulatory authority over certified microgrid districts and certified data centers to counties and municipalities in the state.",
+      "stage": "Committee",
+      "impactTags": [
+        "local-control"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-29",
+      "partyOrigin": "D",
+      "sourceUrl": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=658&year=2026&sessiontype=RS&btype=bill",
+      "legiscanUrl": "https://legiscan.com/WV/bill/SB658/2026",
+      "legiscanId": 2101566,
+      "sponsors": [
+        "Joey Garcia"
+      ]
+    }
+  ]
+}

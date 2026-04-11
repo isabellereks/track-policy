@@ -1,0 +1,237 @@
+{
+  "state": "Arizona",
+  "stateCode": "AZ",
+  "region": "na",
+  "stance": "concerning",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "Arizona has 12 bills tracked in 2025–2026. 1 relates to moratoriums or prohibitions. 1 offers incentives or exemptions.",
+  "legislation": [
+    {
+      "id": "az-sb1815",
+      "billCode": "SB1815",
+      "title": "Personal data; consumers; controllers; requirements",
+      "summary": "Personal data; consumers; controllers; requirements",
+      "stage": "Filed",
+      "impactTags": [
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-02-09",
+      "partyOrigin": "D",
+      "sourceUrl": "https://apps.azleg.gov/BillStatus/BillOverview/85485",
+      "legiscanUrl": "https://legiscan.com/AZ/bill/SB1815/2026",
+      "legiscanId": 2104304,
+      "sponsors": [
+        "Lauren Kuby"
+      ]
+    },
+    {
+      "id": "az-hb2592",
+      "billCode": "HB2592",
+      "title": "Artificial intelligence; state agencies; rules",
+      "summary": "Artificial intelligence; state agencies; rules",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-26",
+      "partyOrigin": "R",
+      "sourceUrl": "https://apps.azleg.gov/BillStatus/BillOverview/84376",
+      "legiscanUrl": "https://legiscan.com/AZ/bill/HB2592/2026",
+      "legiscanId": 2082269,
+      "sponsors": [
+        "Justin Wilmeth"
+      ]
+    },
+    {
+      "id": "az-hb2957",
+      "billCode": "HB2957",
+      "title": "Driver license; enhanced; mobile; prohibition",
+      "summary": "Driver license; enhanced; mobile; prohibition",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-26",
+      "partyOrigin": "R",
+      "sourceUrl": "https://apps.azleg.gov/BillStatus/BillOverview/85125",
+      "legiscanUrl": "https://legiscan.com/AZ/bill/HB2957/2026",
+      "legiscanId": 2097528,
+      "sponsors": [
+        "Lisa Fink",
+        "Walter Blackman",
+        "Rachel Keshel",
+        "Michele Pena"
+      ]
+    },
+    {
+      "id": "az-sb1790",
+      "billCode": "SB1790",
+      "title": "Personal data collection; business; requirements",
+      "summary": "Personal data collection; business; requirements",
+      "stage": "Filed",
+      "impactTags": [
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-02-09",
+      "partyOrigin": "D",
+      "sourceUrl": "https://apps.azleg.gov/BillStatus/BillOverview/85459",
+      "legiscanUrl": "https://legiscan.com/AZ/bill/SB1790/2026",
+      "legiscanId": 2103934,
+      "sponsors": [
+        "Lauren Kuby",
+        "Theresa Hatathlie",
+        "Brian Garcia",
+        "Aaron Marquez"
+      ]
+    },
+    {
+      "id": "az-hb2738",
+      "billCode": "HB2738",
+      "title": "Cost responsibility agreements; data centers",
+      "summary": "Cost responsibility agreements; data centers",
+      "stage": "Filed",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-20",
+      "partyOrigin": "D",
+      "sourceUrl": "https://apps.azleg.gov/BillStatus/BillOverview/84585",
+      "legiscanUrl": "https://legiscan.com/AZ/bill/HB2738/2026",
+      "legiscanId": 2082618,
+      "sponsors": [
+        "Quanta Crews",
+        "Lorena Austin",
+        "Brian Garcia",
+        "Christopher Mathis"
+      ]
+    },
+    {
+      "id": "az-hb2119",
+      "billCode": "HB2119",
+      "title": "Computer data center; application; deadline",
+      "summary": "Computer data center; application; deadline",
+      "stage": "Filed",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-12",
+      "partyOrigin": "R",
+      "sourceUrl": "https://apps.azleg.gov/BillStatus/BillOverview/83749",
+      "legiscanUrl": "https://legiscan.com/AZ/bill/HB2119/2026",
+      "legiscanId": 2064937,
+      "sponsors": [
+        "Neal Carter"
+      ]
+    },
+    {
+      "id": "az-sb1799",
+      "billCode": "SB1799",
+      "title": "Commerce authority; tax incentives; certification",
+      "summary": "Commerce authority; tax incentives; certification",
+      "stage": "Filed",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-05",
+      "partyOrigin": "D",
+      "sourceUrl": "https://apps.azleg.gov/BillStatus/BillOverview/85469",
+      "legiscanUrl": "https://legiscan.com/AZ/bill/SB1799/2026",
+      "legiscanId": 2103792,
+      "sponsors": [
+        "Denise Epstein"
+      ]
+    },
+    {
+      "id": "az-sb1471",
+      "billCode": "SB1471",
+      "title": "School mapping data; requirements; accessibility",
+      "summary": "School mapping data; requirements; accessibility",
+      "stage": "Floor",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-03",
+      "partyOrigin": "R",
+      "sourceUrl": "https://apps.azleg.gov/BillStatus/BillOverview/85062",
+      "legiscanUrl": "https://legiscan.com/AZ/bill/SB1471/2026",
+      "legiscanId": 2094675,
+      "sponsors": [
+        "Javan Mesnard"
+      ]
+    },
+    {
+      "id": "az-hb2737",
+      "billCode": "HB2737",
+      "title": "Chatbot regulations; personal data; requirements",
+      "summary": "Chatbot regulations; personal data; requirements",
+      "stage": "Filed",
+      "impactTags": [
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-01-20",
+      "partyOrigin": "D",
+      "sourceUrl": "https://apps.azleg.gov/BillStatus/BillOverview/84582",
+      "legiscanUrl": "https://legiscan.com/AZ/bill/HB2737/2026",
+      "legiscanId": 2083119,
+      "sponsors": [
+        "Quanta Crews",
+        "Cesar Aguilar",
+        "Sarah Liguori",
+        "Christopher Mathis"
+      ]
+    },
+    {
+      "id": "az-hb2033",
+      "billCode": "HB2033",
+      "title": "Statewide assessment; written form; requirements",
+      "summary": "Statewide assessment; written form; requirements",
+      "stage": "Committee",
+      "impactTags": [
+        "property-values"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-26",
+      "partyOrigin": "R",
+      "sourceUrl": "https://apps.azleg.gov/BillStatus/BillOverview/83574",
+      "legiscanUrl": "https://legiscan.com/AZ/bill/HB2033/2026",
+      "legiscanId": 2056025,
+      "sponsors": [
+        "Lisa Fink"
+      ]
+    },
+    {
+      "id": "az-hb2032",
+      "billCode": "HB2032",
+      "title": "Statewide assessment; testing window; revisions",
+      "summary": "Statewide assessment; testing window; revisions",
+      "stage": "Committee",
+      "impactTags": [
+        "property-values"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-24",
+      "partyOrigin": "R",
+      "sourceUrl": "https://apps.azleg.gov/BillStatus/BillOverview/83573",
+      "legiscanUrl": "https://legiscan.com/AZ/bill/HB2032/2026",
+      "legiscanId": 2056078,
+      "sponsors": [
+        "Lisa Fink"
+      ]
+    },
+    {
+      "id": "az-hb2174",
+      "billCode": "HB2174",
+      "title": "Insurance; modeling and data organizations",
+      "summary": "Insurance; modeling and data organizations",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-24",
+      "partyOrigin": "R",
+      "sourceUrl": "https://apps.azleg.gov/BillStatus/BillOverview/83837",
+      "legiscanUrl": "https://legiscan.com/AZ/bill/HB2174/2026",
+      "legiscanId": 2069671,
+      "sponsors": [
+        "David Livingston",
+        "Walter Blackman"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1320 @@
+[
+  {
+    "id": "tom-mcclintock",
+    "name": "Tom McClintock",
+    "role": "Representative",
+    "party": "R-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Budget",
+      "Natural Resources"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.75,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "doug-lamalfa",
+    "name": "Doug LaMalfa",
+    "role": "Representative",
+    "party": "R-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Agriculture",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.7,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "kevin-kiley",
+    "name": "Kevin Kiley",
+    "role": "Representative · Judiciary",
+    "party": "R-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Education and Workforce",
+      "Judiciary"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.7,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "jay-obernolte",
+    "name": "Jay Obernolte",
+    "role": "Representative · Science, Space, and Technology",
+    "party": "R-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Natural Resources",
+      "Science, Space, and Technology"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.65,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "darrell-issa",
+    "name": "Darrell Issa",
+    "role": "Representative · Judiciary",
+    "party": "R-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Foreign Affairs",
+      "Judiciary"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.65,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "young-kim",
+    "name": "Young Kim",
+    "role": "Representative",
+    "party": "R-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Foreign Affairs",
+      "Financial Services"
+    ],
+    "stance": "favorable",
+    "quote": "Korean immigrant who focuses on Asian-American issues and strong anti-China foreign policy",
+    "techRegScore": 0.6,
+    "lobbying": {
+      "topIndustries": [
+        "Technology with $210K",
+        "Defense with $185K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 62,
+      "education": "University of Southern California (BA)",
+      "careerBeforePolitics": "California State Assembly staffer, small business owner"
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "pete-aguilar",
+    "name": "Pete Aguilar",
+    "role": "Representative · Democratic Caucus Chair",
+    "party": "D-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Appropriations"
+    ],
+    "stance": "concerning",
+    "quote": "Bridge-building Latino leader focused on infrastructure and economic development",
+    "techRegScore": 0.6,
+    "lobbying": {
+      "topIndustries": [
+        "Transportation $380K",
+        "Agriculture $295K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 45,
+      "education": "BA University of Redlands, MBA University of Redlands",
+      "careerBeforePolitics": "City councilman, mayor of Redlands, business owner"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "john-duarte",
+    "name": "John Duarte",
+    "role": "Representative",
+    "party": "R-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Agriculture",
+      "Natural Resources"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.6,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "toss-up"
+  },
+  {
+    "id": "david-valadao",
+    "name": "David Valadao",
+    "role": "Representative",
+    "party": "R-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Agriculture",
+      "Appropriations"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.6,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "toss-up"
+  },
+  {
+    "id": "ken-calvert",
+    "name": "Ken Calvert",
+    "role": "Representative",
+    "party": "R-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Appropriations"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.6,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "michelle-steel",
+    "name": "Michelle Steel",
+    "role": "Representative",
+    "party": "R-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Ways and Means",
+      "Education and Labor"
+    ],
+    "stance": "review",
+    "techRegScore": 0.55,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "josh-harder",
+    "name": "Josh Harder",
+    "role": "Representative",
+    "party": "D-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Agriculture",
+      "Education and Workforce"
+    ],
+    "stance": "review",
+    "techRegScore": 0.5,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "toss-up"
+  },
+  {
+    "id": "mike-garcia",
+    "name": "Mike Garcia",
+    "role": "Representative",
+    "party": "R-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Appropriations",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "review",
+    "quote": "Navy pilot turned swing-district Republican defending purple territory",
+    "techRegScore": 0.45,
+    "lobbying": {
+      "topIndustries": [
+        "Defense contractors $285K",
+        "Oil & gas $180K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 48,
+      "education": "BS Naval Academy, MS Georgetown",
+      "careerBeforePolitics": "Navy fighter pilot, defense contractor executive"
+    },
+    "seatSafety": "toss-up"
+  },
+  {
+    "id": "ami-bera",
+    "name": "Ami Bera",
+    "role": "Representative · Science, Space, and Technology",
+    "party": "D-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Foreign Affairs",
+      "Science, Space, and Technology"
+    ],
+    "stance": "review",
+    "techRegScore": 0.45,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "vince-fong",
+    "name": "Vince Fong",
+    "role": "Representative",
+    "party": "R-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Natural Resources",
+      "Budget"
+    ],
+    "stance": "review",
+    "techRegScore": 0.45,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "gil-cisneros",
+    "name": "Gil Cisneros",
+    "role": "Representative",
+    "party": "D-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Veterans' Affairs"
+    ],
+    "stance": "review",
+    "techRegScore": 0.42,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "mike-thompson",
+    "name": "Mike Thompson",
+    "role": "Representative",
+    "party": "D-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Ways and Means"
+    ],
+    "stance": "review",
+    "techRegScore": 0.4,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "john-garamendi",
+    "name": "John Garamendi",
+    "role": "Representative",
+    "party": "D-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "review",
+    "techRegScore": 0.4,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "jim-costa",
+    "name": "Jim Costa",
+    "role": "Representative",
+    "party": "D-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Agriculture",
+      "Natural Resources"
+    ],
+    "stance": "review",
+    "techRegScore": 0.4,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "scott-peters",
+    "name": "Scott Peters",
+    "role": "Representative · Energy and Commerce",
+    "party": "D-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce",
+      "Budget"
+    ],
+    "stance": "review",
+    "techRegScore": 0.4,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "nanette-diaz-barrag-n",
+    "name": "Nanette Diaz Barragán",
+    "role": "Representative · Energy and Commerce",
+    "party": "D-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce",
+      "Homeland Security"
+    ],
+    "stance": "review",
+    "techRegScore": 0.4,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "grace-napolitano",
+    "name": "Grace Napolitano",
+    "role": "Representative",
+    "party": "D-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Natural Resources",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "none",
+    "techRegScore": 0.38,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "ro-khanna",
+    "name": "Ro Khanna",
+    "role": "Representative",
+    "party": "D-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Oversight"
+    ],
+    "stance": "none",
+    "quote": "Tech-savvy progressive who bridges Silicon Valley and populism",
+    "techRegScore": 0.35,
+    "lobbying": {
+      "topIndustries": [
+        "Technology $340K",
+        "Securities & Investment $285K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 48,
+      "education": "BA University of Chicago, JD Yale Law",
+      "careerBeforePolitics": "Technology lawyer, Obama administration official"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "doris-matsui",
+    "name": "Doris Matsui",
+    "role": "Representative · Energy and Commerce",
+    "party": "D-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce"
+    ],
+    "stance": "none",
+    "techRegScore": 0.35,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "adam-schiff",
+    "name": "Adam Schiff",
+    "role": "Representative · Judiciary",
+    "party": "D-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Judiciary",
+      "Intelligence"
+    ],
+    "stance": "none",
+    "techRegScore": 0.35,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "lou-correa",
+    "name": "Lou Correa",
+    "role": "Representative · Homeland Security",
+    "party": "D-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Homeland Security",
+      "Veterans' Affairs"
+    ],
+    "stance": "none",
+    "techRegScore": 0.35,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "norma-torres",
+    "name": "Norma Torres",
+    "role": "Representative",
+    "party": "D-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Appropriations",
+      "Rules"
+    ],
+    "stance": "none",
+    "techRegScore": 0.34,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "linda-s-nchez",
+    "name": "Linda Sánchez",
+    "role": "Representative",
+    "party": "D-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Ways and Means",
+      "Ethics"
+    ],
+    "stance": "none",
+    "techRegScore": 0.33,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "tony-c-rdenas",
+    "name": "Tony Cárdenas",
+    "role": "Representative · Energy and Commerce",
+    "party": "D-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce",
+      "Veterans' Affairs"
+    ],
+    "stance": "none",
+    "techRegScore": 0.32,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "ted-lieu",
+    "name": "Ted Lieu",
+    "role": "Representative · Judiciary",
+    "party": "D-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Judiciary",
+      "Science and Technology"
+    ],
+    "stance": "none",
+    "techRegScore": 0.32,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "mark-takano",
+    "name": "Mark Takano",
+    "role": "Representative",
+    "party": "D-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Veterans' Affairs",
+      "Education and Labor"
+    ],
+    "stance": "none",
+    "techRegScore": 0.31,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "jared-huffman",
+    "name": "Jared Huffman",
+    "role": "Representative",
+    "party": "D-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Natural Resources",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "none",
+    "techRegScore": 0.3,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "mark-desaulnier",
+    "name": "Mark DeSaulnier",
+    "role": "Representative",
+    "party": "D-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Education and Workforce",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "none",
+    "techRegScore": 0.3,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "jimmy-panetta",
+    "name": "Jimmy Panetta",
+    "role": "Representative",
+    "party": "D-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Agriculture",
+      "Ways and Means"
+    ],
+    "stance": "none",
+    "techRegScore": 0.3,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "raul-ruiz",
+    "name": "Raul Ruiz",
+    "role": "Representative · Energy and Commerce",
+    "party": "D-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce"
+    ],
+    "stance": "none",
+    "techRegScore": 0.3,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "toss-up"
+  },
+  {
+    "id": "laura-friedman",
+    "name": "Laura Friedman",
+    "role": "Representative",
+    "party": "D-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Transportation and Infrastructure",
+      "Natural Resources"
+    ],
+    "stance": "none",
+    "techRegScore": 0.3,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "sydney-kamlager-dove",
+    "name": "Sydney Kamlager-Dove",
+    "role": "Representative",
+    "party": "D-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Natural Resources",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "none",
+    "techRegScore": 0.3,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "robert-garcia",
+    "name": "Robert Garcia",
+    "role": "Representative · Homeland Security",
+    "party": "D-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Homeland Security",
+      "Science, Space, and Technology"
+    ],
+    "stance": "none",
+    "techRegScore": 0.3,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "mike-levin",
+    "name": "Mike Levin",
+    "role": "Representative",
+    "party": "D-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Natural Resources",
+      "Veterans' Affairs"
+    ],
+    "stance": "none",
+    "techRegScore": 0.3,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "juan-vargas",
+    "name": "Juan Vargas",
+    "role": "Representative",
+    "party": "D-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Foreign Affairs",
+      "Financial Services"
+    ],
+    "stance": "none",
+    "techRegScore": 0.3,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "jimmy-gomez",
+    "name": "Jimmy Gomez",
+    "role": "Representative",
+    "party": "D-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Oversight and Reform",
+      "Ways and Means"
+    ],
+    "stance": "none",
+    "techRegScore": 0.28,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "alex-padilla",
+    "name": "Alex Padilla",
+    "role": "Senator · Judiciary",
+    "party": "D-CA",
+    "state": "CA",
+    "chamber": "senate",
+    "committees": [
+      "Judiciary",
+      "Environment",
+      "Budget",
+      "Homeland Security"
+    ],
+    "stance": "none",
+    "quote": "Immigration advocate, Latino representation, climate champion",
+    "techRegScore": 0.25,
+    "lobbying": {
+      "topIndustries": [
+        "TV/Movies/Music: $1.8M",
+        "Internet: $1.2M",
+        "Securities & Investment: $950K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 51,
+      "education": "MIT (BS Mechanical Engineering)",
+      "careerBeforePolitics": "Engineer, Los Angeles city councilman, California Secretary of State"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "adam-schiff",
+    "name": "Adam Schiff",
+    "role": "Senator · Judiciary",
+    "party": "D-CA",
+    "state": "CA",
+    "chamber": "senate",
+    "committees": [
+      "Judiciary",
+      "Intelligence"
+    ],
+    "stance": "none",
+    "quote": "Leading Trump impeachment efforts and Intelligence Committee work",
+    "techRegScore": 0.25,
+    "lobbying": {
+      "topIndustries": [
+        "Technology $2.1M",
+        "Entertainment $1.8M",
+        "Securities & Investment $1.6M"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 64,
+      "education": "JD from Harvard Law School, BA from Stanford University",
+      "careerBeforePolitics": "Federal prosecutor, served 24 years in House including as Intelligence Committee Chair"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "nancy-pelosi",
+    "name": "Nancy Pelosi",
+    "role": "Representative",
+    "party": "D-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [],
+    "stance": "none",
+    "techRegScore": 0.25,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "lateefah-simon",
+    "name": "Lateefah Simon",
+    "role": "Representative · Judiciary",
+    "party": "D-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Judiciary",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "none",
+    "techRegScore": 0.25,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "eric-swalwell",
+    "name": "Eric Swalwell",
+    "role": "Representative · Judiciary",
+    "party": "D-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Judiciary",
+      "Homeland Security"
+    ],
+    "stance": "none",
+    "techRegScore": 0.25,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "salud-carbajal",
+    "name": "Salud Carbajal",
+    "role": "Representative",
+    "party": "D-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "none",
+    "techRegScore": 0.25,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "katie-porter",
+    "name": "Katie Porter",
+    "role": "Representative",
+    "party": "D-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Financial Services",
+      "Natural Resources"
+    ],
+    "stance": "none",
+    "techRegScore": 0.25,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "sara-jacobs",
+    "name": "Sara Jacobs",
+    "role": "Representative",
+    "party": "D-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Foreign Affairs",
+      "Armed Services"
+    ],
+    "stance": "none",
+    "techRegScore": 0.25,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "julia-brownley",
+    "name": "Julia Brownley",
+    "role": "Representative",
+    "party": "D-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Transportation and Infrastructure",
+      "Veterans' Affairs"
+    ],
+    "stance": "none",
+    "techRegScore": 0.22,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "kevin-mullin",
+    "name": "Kevin Mullin",
+    "role": "Representative",
+    "party": "D-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Natural Resources",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "none",
+    "techRegScore": 0.2,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "zoe-lofgren",
+    "name": "Zoe Lofgren",
+    "role": "Representative · Judiciary",
+    "party": "D-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Judiciary",
+      "House Administration"
+    ],
+    "stance": "none",
+    "techRegScore": 0.18,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "anna-eshoo",
+    "name": "Anna Eshoo",
+    "role": "Representative · Energy and Commerce",
+    "party": "D-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce"
+    ],
+    "stance": "none",
+    "techRegScore": 0.15,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "maxine-waters",
+    "name": "Maxine Waters",
+    "role": "Representative · Ranking Member, Financial Services Committee",
+    "party": "D-CA",
+    "state": "CA",
+    "chamber": "house",
+    "committees": [
+      "Financial Services"
+    ],
+    "stance": "none",
+    "quote": "Fearless confrontation of Wall Street and Trump administration",
+    "techRegScore": 0.1,
+    "lobbying": {
+      "topIndustries": [
+        "finance with $125K",
+        "real estate with $98K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 86,
+      "education": "California State University Los Angeles",
+      "careerBeforePolitics": "Head Start supervisor, California State Assembly"
+    },
+    "seatSafety": "safe"
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "id": "peter-welch",
+    "name": "Peter Welch",
+    "role": "Senator · Judiciary",
+    "party": "D-VT",
+    "state": "VT",
+    "chamber": "senate",
+    "committees": [
+      "Agriculture",
+      "Judiciary",
+      "Rules"
+    ],
+    "stance": "none",
+    "quote": "Vermont progressive with 16 years House experience and focus on rural issues",
+    "techRegScore": 0.25,
+    "lobbying": {
+      "topIndustries": [
+        "Agriculture $320K",
+        "Labor unions $290K",
+        "Environmental groups $180K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 76,
+      "education": "College of the Holy Cross (BA), University of California Berkeley (JD)",
+      "careerBeforePolitics": "Lawyer, Vermont State Senate for 6 years, 16 years in U.S. House"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "bernie-sanders",
+    "name": "Bernie Sanders",
+    "role": "Senator · Energy",
+    "party": "I-VT",
+    "state": "VT",
+    "chamber": "senate",
+    "committees": [
+      "HELP",
+      "Budget",
+      "Energy",
+      "Veterans Affairs"
+    ],
+    "stance": "none",
+    "quote": "Democratic socialist focused on economic inequality and Medicare for All",
+    "techRegScore": 0.15,
+    "lobbying": {
+      "topIndustries": [
+        "Labor Unions: $180K",
+        "Healthcare: $85K",
+        "Environment: $75K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 83,
+      "education": "BA University of Chicago",
+      "careerBeforePolitics": "Carpenter, writer, filmmaker, mayor of Burlington 1981-1989, House Rep 1991-2007"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "becca-balint",
+    "name": "Becca Balint",
+    "role": "Representative",
+    "party": "D-VT",
+    "state": "VT",
+    "chamber": "house",
+    "committees": [
+      "Budget",
+      "Education and the Workforce"
+    ],
+    "stance": "none",
+    "techRegScore": 0.12,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  }
+]

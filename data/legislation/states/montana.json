@@ -1,0 +1,214 @@
+{
+  "state": "Montana",
+  "stateCode": "MT",
+  "region": "na",
+  "stance": "review",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "Montana has 12 bills tracked in 2025–2026. 9 are already enacted.",
+  "legislation": [
+    {
+      "id": "mt-hb388",
+      "billCode": "HB388",
+      "title": "Create pregnancy center autonomy and rights of expression act",
+      "summary": "Create pregnancy center autonomy and rights of expression act",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-05-01",
+      "partyOrigin": "R",
+      "sourceUrl": "https://bills.legmt.gov/#/laws/bill/2/LC2052",
+      "legiscanUrl": "https://legiscan.com/MT/bill/HB388/2025",
+      "legiscanId": 1955314,
+      "sponsors": [
+        "Amy Regier"
+      ]
+    },
+    {
+      "id": "mt-hb178",
+      "billCode": "HB178",
+      "title": "Limit government use of AI systems",
+      "summary": "Limit government use of AI systems",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-05-05",
+      "partyOrigin": "R",
+      "sourceUrl": "https://bills.legmt.gov/#/laws/bill/2/LC1339",
+      "legiscanUrl": "https://legiscan.com/MT/bill/HB178/2025",
+      "legiscanId": 1912107,
+      "sponsors": [
+        "Braxton Mitchell"
+      ]
+    },
+    {
+      "id": "mt-sb540",
+      "billCode": "SB540",
+      "title": "Revise taxation of class 17 property",
+      "summary": "Revise taxation of class 17 property",
+      "stage": "Dead",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-05-23",
+      "partyOrigin": "R",
+      "sourceUrl": "https://bills.legmt.gov/#/laws/bill/2/LC0982",
+      "legiscanUrl": "https://legiscan.com/MT/bill/SB540/2025",
+      "legiscanId": 2013834,
+      "sponsors": [
+        "Becky Beard"
+      ]
+    },
+    {
+      "id": "mt-hb424",
+      "billCode": "HB424",
+      "title": "Revise taxes for class 17 data center property",
+      "summary": "Revise taxes for class 17 data center property",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-05-13",
+      "partyOrigin": "R",
+      "sourceUrl": "https://bills.legmt.gov/#/laws/bill/2/LC3009",
+      "legiscanUrl": "https://legiscan.com/MT/bill/HB424/2025",
+      "legiscanId": 1961755,
+      "sponsors": [
+        "Katie Zolnikov"
+      ]
+    },
+    {
+      "id": "mt-hj46",
+      "billCode": "HJ46",
+      "title": "Study resolution on data centers",
+      "summary": "Study resolution on data centers",
+      "stage": "Dead",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-05-22",
+      "partyOrigin": "R",
+      "sourceUrl": "https://bills.legmt.gov/#/laws/bill/2/LC0933",
+      "legiscanUrl": "https://legiscan.com/MT/bill/HJ46/2025",
+      "legiscanId": 2020412,
+      "sponsors": [
+        "Tom Millett"
+      ]
+    },
+    {
+      "id": "mt-sb212",
+      "billCode": "SB212",
+      "title": "Creating the Right to Compute Act and requiring shutdowns of AI controlled critical infrastructure",
+      "summary": "Creating the Right to Compute Act and requiring shutdowns of AI controlled critical infrastructure",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-04-16",
+      "partyOrigin": "R",
+      "sourceUrl": "https://bills.legmt.gov/#/laws/bill/2/LC0292",
+      "legiscanUrl": "https://legiscan.com/MT/bill/SB212/2025",
+      "legiscanId": 1941091,
+      "sponsors": [
+        "Daniel Zolnikov"
+      ]
+    },
+    {
+      "id": "mt-hj4",
+      "billCode": "HJ4",
+      "title": "Interim study of artificial intelligence",
+      "summary": "Interim study of artificial intelligence",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-04-22",
+      "partyOrigin": "R",
+      "sourceUrl": "https://bills.legmt.gov/#/laws/bill/2/LC1493",
+      "legiscanUrl": "https://legiscan.com/MT/bill/HJ4/2025",
+      "legiscanId": 1916250,
+      "sponsors": [
+        "Gary Parry"
+      ]
+    },
+    {
+      "id": "mt-hb556",
+      "billCode": "HB556",
+      "title": "Generally revise usage of artificial intelligence in certain health insurance",
+      "summary": "Generally revise usage of artificial intelligence in certain health insurance",
+      "stage": "Dead",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-05-20",
+      "partyOrigin": "D",
+      "sourceUrl": "https://bills.legmt.gov/#/laws/bill/2/LC3970",
+      "legiscanUrl": "https://legiscan.com/MT/bill/HB556/2025",
+      "legiscanId": 1974033,
+      "sponsors": [
+        "Jill Cohenour"
+      ]
+    },
+    {
+      "id": "mt-sb25",
+      "billCode": "SB25",
+      "title": "Revise election laws regarding disclosure requirements for the use of AI in elections",
+      "summary": "Revise election laws regarding disclosure requirements for the use of AI in elections",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-05-08",
+      "partyOrigin": "D",
+      "sourceUrl": "https://bills.legmt.gov/#/laws/bill/2/LC0229",
+      "legiscanUrl": "https://legiscan.com/MT/bill/SB25/2025",
+      "legiscanId": 1895954,
+      "sponsors": [
+        "Janet Ellis"
+      ]
+    },
+    {
+      "id": "mt-hb532",
+      "billCode": "HB532",
+      "title": "Generally revise laws related to abuse, neglect, and exploitation of incapacitated persons and vulnerable adults",
+      "summary": "Generally revise laws related to abuse, neglect, and exploitation of incapacitated persons and vulnerable adults",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-05-08",
+      "partyOrigin": "R",
+      "sourceUrl": "https://bills.legmt.gov/#/laws/bill/2/LC3437",
+      "legiscanUrl": "https://legiscan.com/MT/bill/HB532/2025",
+      "legiscanId": 1973244,
+      "sponsors": [
+        "Bill Mercer"
+      ]
+    },
+    {
+      "id": "mt-hb10",
+      "billCode": "HB10",
+      "title": "Long-range information technology appropriations",
+      "summary": "Long-range information technology appropriations",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-05-13",
+      "partyOrigin": "R",
+      "sourceUrl": "https://bills.legmt.gov/#/laws/bill/2/LC0715",
+      "legiscanUrl": "https://legiscan.com/MT/bill/HB10/2025",
+      "legiscanId": 1896111,
+      "sponsors": [
+        "John Fitzpatrick"
+      ]
+    },
+    {
+      "id": "mt-hb173",
+      "billCode": "HB173",
+      "title": "Revise definition of victim in youth court act",
+      "summary": "Revise definition of victim in youth court act",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-04-17",
+      "partyOrigin": "R",
+      "sourceUrl": "https://bills.legmt.gov/#/laws/bill/2/LC1502",
+      "legiscanUrl": "https://legiscan.com/MT/bill/HB173/2025",
+      "legiscanId": 1911657,
+      "sponsors": [
+        "Neil Duram"
+      ]
+    }
+  ]
+}

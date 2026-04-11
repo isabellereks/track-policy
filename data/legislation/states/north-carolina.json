@@ -1,0 +1,251 @@
+{
+  "state": "North Carolina",
+  "stateCode": "NC",
+  "region": "na",
+  "stance": "concerning",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "North Carolina has 12 bills tracked in 2025–2026. 3 are already enacted. 1 relates to moratoriums or prohibitions.",
+  "legislation": [
+    {
+      "id": "nc-s133",
+      "billCode": "S133",
+      "title": "NCCCS LMS/NCLDS",
+      "summary": "NCCCS LMS/NCLDS",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-07-03",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.ncleg.gov/BillLookUp/2025/S133",
+      "legiscanUrl": "https://legiscan.com/NC/bill/S133/2025",
+      "legiscanId": 1979362,
+      "sponsors": [
+        "Michael Lee",
+        "Brad Overcash",
+        "Kevin Corbin",
+        "Amy Galey"
+      ]
+    },
+    {
+      "id": "nc-s747",
+      "billCode": "S747",
+      "title": "AI Learning Agenda",
+      "summary": "AI Learning Agenda",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-03-25",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.ncleg.gov/BillLookUp/2025/S747",
+      "legiscanUrl": "https://legiscan.com/NC/bill/S747/2025",
+      "legiscanId": 2014434,
+      "sponsors": [
+        "DeAndrea Salvador",
+        "Val Applewhite",
+        "Woodson Bradley",
+        "Natalie Murdock"
+      ]
+    },
+    {
+      "id": "nc-h805",
+      "billCode": "H805",
+      "title": "Prevent Sexual Exploitation/Women and Minors",
+      "summary": "Prevent Sexual Exploitation/Women and Minors",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-07-29",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.ncleg.gov/BillLookUp/2025/H805",
+      "legiscanUrl": "https://legiscan.com/NC/bill/H805/2025",
+      "legiscanId": 2020969,
+      "sponsors": [
+        "Neal Jackson",
+        "Sarah Stevens",
+        "Jennifer Balkcom",
+        "Jonathan Almond"
+      ]
+    },
+    {
+      "id": "nc-h1002",
+      "billCode": "H1002",
+      "title": "Rate Payer Protection Act",
+      "summary": "Rate Payer Protection Act",
+      "stage": "Committee",
+      "impactTags": [
+        "energy-rates"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-04-10",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.ncleg.gov/BillLookUp/2025/H1002",
+      "legiscanUrl": "https://legiscan.com/NC/bill/H1002/2025",
+      "legiscanId": 2022666,
+      "sponsors": [
+        "Mary Harrison",
+        "Donnie Loftis",
+        "Maria Cervania",
+        "Eric Ager"
+      ]
+    },
+    {
+      "id": "nc-h698",
+      "billCode": "H698",
+      "title": "Center for Missing Persons to Highway Patrol",
+      "summary": "Center for Missing Persons to Highway Patrol",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-05-08",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.ncleg.gov/BillLookUp/2025/H698",
+      "legiscanUrl": "https://legiscan.com/NC/bill/H698/2025",
+      "legiscanId": 2018701,
+      "sponsors": [
+        "Charles Miller",
+        "Reece Pyrtle",
+        "Donnie Loftis",
+        "Ben Moss"
+      ]
+    },
+    {
+      "id": "nc-h819",
+      "billCode": "H819",
+      "title": "DIT Agency Bill",
+      "summary": "DIT Agency Bill",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-06-25",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.ncleg.gov/BillLookUp/2025/H819",
+      "legiscanUrl": "https://legiscan.com/NC/bill/H819/2025",
+      "legiscanId": 2021202,
+      "sponsors": [
+        "Jake Johnson",
+        "Hugh Blackwell",
+        "Zack Forde-Hawkins",
+        "Matthew Winslow"
+      ]
+    },
+    {
+      "id": "nc-h638",
+      "billCode": "H638",
+      "title": "Equit. Escalation of Electricity Demand Act",
+      "summary": "Equit. Escalation of Electricity Demand Act",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-04-01",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.ncleg.gov/BillLookUp/2025/H638",
+      "legiscanUrl": "https://legiscan.com/NC/bill/H638/2025",
+      "legiscanId": 2017695,
+      "sponsors": [
+        "Donnie Loftis",
+        "Bill Ward",
+        "Steve Tyson",
+        "Dudley Greene"
+      ]
+    },
+    {
+      "id": "nc-s509",
+      "billCode": "S509",
+      "title": "Health Information Exchange Act Revisions",
+      "summary": "Health Information Exchange Act Revisions",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-03-25",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.ncleg.gov/BillLookUp/2025/S509",
+      "legiscanUrl": "https://legiscan.com/NC/bill/S509/2025",
+      "legiscanId": 2013869,
+      "sponsors": [
+        "Ralph Hise",
+        "Jim Burgin",
+        "Gale Adcock"
+      ]
+    },
+    {
+      "id": "nc-h74",
+      "billCode": "H74",
+      "title": "House Budget Technical Corrections",
+      "summary": "House Budget Technical Corrections",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-05-15",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.ncleg.gov/BillLookUp/2025/H74",
+      "legiscanUrl": "https://legiscan.com/NC/bill/H74/2025",
+      "legiscanId": 1963467,
+      "sponsors": [
+        "Donny Lambeth",
+        "Dean Arp",
+        "Larry Strickland",
+        "Kyle Hall"
+      ]
+    },
+    {
+      "id": "nc-s735",
+      "billCode": "S735",
+      "title": "AI Innovation Trust Fund",
+      "summary": "AI Innovation Trust Fund",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-03-25",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.ncleg.gov/BillLookUp/2025/S735",
+      "legiscanUrl": "https://legiscan.com/NC/bill/S735/2025",
+      "legiscanId": 2014277,
+      "sponsors": [
+        "DeAndrea Salvador",
+        "Michael Garrett",
+        "Natalie Murdock",
+        "Val Applewhite"
+      ]
+    },
+    {
+      "id": "nc-h375",
+      "billCode": "H375",
+      "title": "AI/Ban Deceptive Ads",
+      "summary": "AI/Ban Deceptive Ads",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-03-11",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.ncleg.gov/BillLookUp/2025/H375",
+      "legiscanUrl": "https://legiscan.com/NC/bill/H375/2025",
+      "legiscanId": 2000124,
+      "sponsors": [
+        "Harry Warren",
+        "Robert Davis",
+        "Mike Schietzelt",
+        "John Blust"
+      ]
+    },
+    {
+      "id": "nc-h934",
+      "billCode": "H934",
+      "title": "AI Regulatory Reform Act",
+      "summary": "AI Regulatory Reform Act",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-04-10",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.ncleg.gov/BillLookUp/2025/H934",
+      "legiscanUrl": "https://legiscan.com/NC/bill/H934/2025",
+      "legiscanId": 2022736,
+      "sponsors": [
+        "Jake Johnson",
+        "Jeff Zenger",
+        "Zack Forde-Hawkins",
+        "Vernetta Alston"
+      ]
+    }
+  ]
+}

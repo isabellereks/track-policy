@@ -1,0 +1,253 @@
+[
+  {
+    "id": "lauren-boebert",
+    "name": "Lauren Boebert",
+    "role": "Representative",
+    "party": "R-CO",
+    "state": "CO",
+    "chamber": "house",
+    "committees": [
+      "Natural Resources"
+    ],
+    "stance": "favorable",
+    "quote": "Gun rights advocacy and theatrical opposition to Democratic policies",
+    "techRegScore": 0.75,
+    "lobbying": {
+      "topIndustries": [
+        "Oil & Gas with $52,000",
+        "Agriculture with $41,000"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 38,
+      "education": "GED recipient, did not attend college",
+      "careerBeforePolitics": "Restaurant owner (Shooters Grill), oil field worker"
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "doug-lamborn",
+    "name": "Doug Lamborn",
+    "role": "Representative",
+    "party": "R-CO",
+    "state": "CO",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Natural Resources"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.68,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "jeff-hurd",
+    "name": "Jeff Hurd",
+    "role": "Representative",
+    "party": "R-CO",
+    "state": "CO",
+    "chamber": "house",
+    "committees": [
+      "Agriculture",
+      "Natural Resources"
+    ],
+    "stance": "review",
+    "techRegScore": 0.42,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "john-hickenlooper",
+    "name": "John Hickenlooper",
+    "role": "Senator · Commerce",
+    "party": "D-CO",
+    "state": "CO",
+    "chamber": "senate",
+    "committees": [
+      "Commerce",
+      "Energy and Natural Resources",
+      "Health Education Labor and Pensions"
+    ],
+    "stance": "none",
+    "quote": "Former governor, pro-business Democrat, craft beer entrepreneur",
+    "techRegScore": 0.35,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "jason-crow",
+    "name": "Jason Crow",
+    "role": "Representative · Intelligence",
+    "party": "D-CO",
+    "state": "CO",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Intelligence"
+    ],
+    "stance": "none",
+    "techRegScore": 0.32,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "michael-bennet",
+    "name": "Michael Bennet",
+    "role": "Senator · Intelligence",
+    "party": "D-CO",
+    "state": "CO",
+    "chamber": "senate",
+    "committees": [
+      "Finance",
+      "Agriculture",
+      "Intelligence"
+    ],
+    "stance": "none",
+    "quote": "Pragmatic dealmaker who focuses on fiscal responsibility within Democratic ranks",
+    "techRegScore": 0.3,
+    "lobbying": {
+      "topIndustries": [
+        "Securities & Investment $890K",
+        "Real Estate $445K",
+        "Oil & Gas $298K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 60,
+      "education": "BA Wesleyan University, JD Yale Law School",
+      "careerBeforePolitics": "Attorney, businessman, superintendent of Denver Public Schools"
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "joe-neguse",
+    "name": "Joe Neguse",
+    "role": "Representative · Judiciary",
+    "party": "D-CO",
+    "state": "CO",
+    "chamber": "house",
+    "committees": [
+      "Judiciary",
+      "Natural Resources"
+    ],
+    "stance": "none",
+    "techRegScore": 0.28,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "yadira-caraveo",
+    "name": "Yadira Caraveo",
+    "role": "Representative",
+    "party": "D-CO",
+    "state": "CO",
+    "chamber": "house",
+    "committees": [
+      "Agriculture",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "none",
+    "techRegScore": 0.28,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "toss-up"
+  },
+  {
+    "id": "diana-degette",
+    "name": "Diana DeGette",
+    "role": "Representative · Energy and Commerce",
+    "party": "D-CO",
+    "state": "CO",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce",
+      "Natural Resources"
+    ],
+    "stance": "none",
+    "techRegScore": 0.25,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "brittany-pettersen",
+    "name": "Brittany Pettersen",
+    "role": "Representative · Science, Space, and Technology",
+    "party": "D-CO",
+    "state": "CO",
+    "chamber": "house",
+    "committees": [
+      "Education and Labor",
+      "Science, Space, and Technology"
+    ],
+    "stance": "none",
+    "techRegScore": 0.25,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  }
+]

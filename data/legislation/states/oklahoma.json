@@ -1,0 +1,232 @@
+{
+  "state": "Oklahoma",
+  "stateCode": "OK",
+  "region": "na",
+  "stance": "concerning",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "Oklahoma has 12 bills tracked in 2025–2026. 1 is already enacted. 1 relates to moratoriums or prohibitions.",
+  "legislation": [
+    {
+      "id": "ok-hb4194",
+      "billCode": "HB4194",
+      "title": "Data centers; Data Center Decommissioning Act; proper decommissioning; Oklahoma Corporation Commission; financial assurance; effective date.",
+      "summary": "Data centers; Data Center Decommissioning Act; proper decommissioning; Oklahoma Corporation Commission; financial assurance; effective date.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-02",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.oklegislature.gov/BillInfo.aspx?Bill=hb4194&Session=2600",
+      "legiscanUrl": "https://legiscan.com/OK/bill/HB4194/2026",
+      "legiscanId": 2082909,
+      "sponsors": [
+        "Mark Chapman"
+      ]
+    },
+    {
+      "id": "ok-sb1734",
+      "billCode": "SB1734",
+      "title": "Schools; creating the Oklahoma Responsible Technology in Schools Act; requiring development of guidance for use of artificial intelligence and emerging technologies. Effective date. Emergency.",
+      "summary": "Schools; creating the Oklahoma Responsible Technology in Schools Act; requiring development of guidance for use of artificial intelligence and emerging technologies. Effective date. Emergency.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-24",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.oklegislature.gov/BillInfo.aspx?Bill=sb1734&Session=2600",
+      "legiscanUrl": "https://legiscan.com/OK/bill/SB1734/2026",
+      "legiscanId": 2079134,
+      "sponsors": [
+        "Ally Seifried",
+        "Anthony Moore"
+      ]
+    },
+    {
+      "id": "ok-hb3621",
+      "billCode": "HB3621",
+      "title": "State government; Oklahoma State Data Center; Legislative Service Bureau; responsibilities; effective date.",
+      "summary": "State government; Oklahoma State Data Center; Legislative Service Bureau; responsibilities; effective date.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-17",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.oklegislature.gov/BillInfo.aspx?Bill=hb3621&Session=2600",
+      "legiscanUrl": "https://legiscan.com/OK/bill/HB3621/2026",
+      "legiscanId": 2080842,
+      "sponsors": [
+        "Mark Lawson",
+        "Kristen Thompson",
+        "Brian Hill"
+      ]
+    },
+    {
+      "id": "ok-hb3394",
+      "billCode": "HB3394",
+      "title": "Hyperscale data centers; Oklahoma Hyperscale Data Center Directory Act; Oklahoma Corporation Commission; directory; electrical utilities; water providers; effective date.",
+      "summary": "Hyperscale data centers; Oklahoma Hyperscale Data Center Directory Act; Oklahoma Corporation Commission; directory; electrical utilities; water providers; effective date.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-02",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.oklegislature.gov/BillInfo.aspx?Bill=hb3394&Session=2600",
+      "legiscanUrl": "https://legiscan.com/OK/bill/HB3394/2026",
+      "legiscanId": 2079244,
+      "sponsors": [
+        "Amanda Clinton"
+      ]
+    },
+    {
+      "id": "ok-hb1863",
+      "billCode": "HB1863",
+      "title": "Children; Children's Code; multidisciplinary child abuse team; review; functions; secure database; protocol; Commission on Children and Youth; requirements; rules; codification; effective date.",
+      "summary": "Children; Children's Code; multidisciplinary child abuse team; review; functions; secure database; protocol; Commission on Children and Youth; requirements; rules; codification; effective date.",
+      "stage": "Enacted",
+      "impactTags": [
+        "child-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-05-27",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.oklegislature.gov/BillInfo.aspx?Bill=hb1863&Session=2600",
+      "legiscanUrl": "https://legiscan.com/OK/bill/HB1863/2026",
+      "legiscanId": 2048079,
+      "sponsors": [
+        "Eric Roberts",
+        "Dave Rader"
+      ]
+    },
+    {
+      "id": "ok-hb3711",
+      "billCode": "HB3711",
+      "title": "Schools; School District Transparency Act; instructional expenditure disclosures on district website; bond proposals, and bond guarantee applications; effective date; emergency.",
+      "summary": "Schools; School District Transparency Act; instructional expenditure disclosures on district website; bond proposals, and bond guarantee applications; effective date; emergency.",
+      "stage": "Committee",
+      "impactTags": [
+        "nda-transparency"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-25",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.oklegislature.gov/BillInfo.aspx?Bill=hb3711&Session=2600",
+      "legiscanUrl": "https://legiscan.com/OK/bill/HB3711/2026",
+      "legiscanId": 2080580,
+      "sponsors": [
+        "Chad Caldwell",
+        "Adam Pugh",
+        "Mark Lepak"
+      ]
+    },
+    {
+      "id": "ok-sb675",
+      "billCode": "SB675",
+      "title": "Oklahoma Law Enforcement Telecommunication Systems Division; authorizing the Department of Public Safety to provide certain information to Oklahoma Turnpike Authority. Effective date.",
+      "summary": "Oklahoma Law Enforcement Telecommunication Systems Division; authorizing the Department of Public Safety to provide certain information to Oklahoma Turnpike Authority. Effective date.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-03-26",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.oklegislature.gov/BillInfo.aspx?Bill=sb675&Session=2600",
+      "legiscanUrl": "https://legiscan.com/OK/bill/SB675/2026",
+      "legiscanId": 2049438,
+      "sponsors": [
+        "Darcy Jech",
+        "Carl Newton"
+      ]
+    },
+    {
+      "id": "ok-hb2992",
+      "billCode": "HB2992",
+      "title": "Corporation Commission; creating the Data Center Customer Protection Act of 2026; effective date; emergency.",
+      "summary": "Corporation Commission; creating the Data Center Customer Protection Act of 2026; effective date; emergency.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-24",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.oklegislature.gov/BillInfo.aspx?Bill=hb2992&Session=2600",
+      "legiscanUrl": "https://legiscan.com/OK/bill/HB2992/2026",
+      "legiscanId": 2068470,
+      "sponsors": [
+        "Brad Boles",
+        "Grant Green",
+        "Cyndi Munson",
+        "Mickey Dollens"
+      ]
+    },
+    {
+      "id": "ok-hb4287",
+      "billCode": "HB4287",
+      "title": "Prisons and reformatories; Oklahoma Department of Corrections; electronic record; Oklahoma State Data Center; census geography; effective date.",
+      "summary": "Prisons and reformatories; Oklahoma Department of Corrections; electronic record; Oklahoma State Data Center; census geography; effective date.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-02",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.oklegislature.gov/BillInfo.aspx?Bill=hb4287&Session=2600",
+      "legiscanUrl": "https://legiscan.com/OK/bill/HB4287/2026",
+      "legiscanId": 2083320,
+      "sponsors": [
+        "Andy Fugate"
+      ]
+    },
+    {
+      "id": "ok-hb3620",
+      "billCode": "HB3620",
+      "title": "The 2030 Census; 2030 Census Complete Count Committee; duties and responsibilities; State Data Center; report; effective date.",
+      "summary": "The 2030 Census; 2030 Census Complete Count Committee; duties and responsibilities; State Data Center; report; effective date.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-17",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.oklegislature.gov/BillInfo.aspx?Bill=hb3620&Session=2600",
+      "legiscanUrl": "https://legiscan.com/OK/bill/HB3620/2026",
+      "legiscanId": 2080644,
+      "sponsors": [
+        "Mark Lawson",
+        "Kristen Thompson"
+      ]
+    },
+    {
+      "id": "ok-sb1619",
+      "billCode": "SB1619",
+      "title": "Nondisclosure agreements; prohibiting municipalities from entering into certain agreements; providing certain exceptions.",
+      "summary": "Nondisclosure agreements; prohibiting municipalities from entering into certain agreements; providing certain exceptions.",
+      "stage": "Committee",
+      "impactTags": [
+        "nda-transparency"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-02",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.oklegislature.gov/BillInfo.aspx?Bill=sb1619&Session=2600",
+      "legiscanUrl": "https://legiscan.com/OK/bill/SB1619/2026",
+      "legiscanId": 2073933,
+      "sponsors": [
+        "Warren Hamilton",
+        "Jim Olsen"
+      ]
+    },
+    {
+      "id": "ok-sb1350",
+      "billCode": "SB1350",
+      "title": "Oklahoma Department of Commerce; making an appropriation; identifying source of funds. Emergency.",
+      "summary": "Oklahoma Department of Commerce; making an appropriation; identifying source of funds. Emergency.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-02",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.oklegislature.gov/BillInfo.aspx?Bill=sb1350&Session=2600",
+      "legiscanUrl": "https://legiscan.com/OK/bill/SB1350/2026",
+      "legiscanId": 2061327,
+      "sponsors": [
+        "Bill Coleman"
+      ]
+    }
+  ]
+}

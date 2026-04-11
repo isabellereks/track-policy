@@ -1,0 +1,404 @@
+[
+  {
+    "id": "marjorie-taylor-greene",
+    "name": "Marjorie Taylor Greene",
+    "role": "Representative · Homeland Security",
+    "party": "R-GA",
+    "state": "GA",
+    "chamber": "house",
+    "committees": [
+      "Oversight",
+      "Homeland Security"
+    ],
+    "stance": "favorable",
+    "quote": "Inflammatory rhetoric and conspiracy theories, MAGA movement champion",
+    "techRegScore": 0.8,
+    "lobbying": {
+      "topIndustries": [
+        "Small business with $45,000",
+        "Real estate with $38,000"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 50,
+      "education": "BA University of Georgia",
+      "careerBeforePolitics": "CrossFit gym owner and construction company executive"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "rick-allen",
+    "name": "Rick Allen",
+    "role": "Representative",
+    "party": "R-GA",
+    "state": "GA",
+    "chamber": "house",
+    "committees": [
+      "Agriculture",
+      "Education and Labor"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.78,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "rich-mccormick",
+    "name": "Rich McCormick",
+    "role": "Representative",
+    "party": "R-GA",
+    "state": "GA",
+    "chamber": "house",
+    "committees": [
+      "Foreign Affairs",
+      "Armed Services"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.77,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "a-drew-ferguson",
+    "name": "A. Drew Ferguson",
+    "role": "Representative",
+    "party": "R-GA",
+    "state": "GA",
+    "chamber": "house",
+    "committees": [
+      "Ways and Means",
+      "Budget"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.76,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "mike-collins",
+    "name": "Mike Collins",
+    "role": "Representative",
+    "party": "R-GA",
+    "state": "GA",
+    "chamber": "house",
+    "committees": [
+      "Transportation and Infrastructure",
+      "Oversight and Reform"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.76,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "austin-scott",
+    "name": "Austin Scott",
+    "role": "Representative",
+    "party": "R-GA",
+    "state": "GA",
+    "chamber": "house",
+    "committees": [
+      "Agriculture",
+      "Armed Services"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.75,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "barry-loudermilk",
+    "name": "Barry Loudermilk",
+    "role": "Representative · Science, Space, and Technology",
+    "party": "R-GA",
+    "state": "GA",
+    "chamber": "house",
+    "committees": [
+      "House Administration",
+      "Science, Space, and Technology"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.74,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "buddy-carter",
+    "name": "Buddy Carter",
+    "role": "Representative · Energy and Commerce",
+    "party": "R-GA",
+    "state": "GA",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce",
+      "Budget"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.73,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "andrew-clyde",
+    "name": "Andrew Clyde",
+    "role": "Representative",
+    "party": "R-GA",
+    "state": "GA",
+    "chamber": "house",
+    "committees": [
+      "Oversight and Reform",
+      "Budget"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.71,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "raphael-warnock",
+    "name": "Raphael Warnock",
+    "role": "Senator · Commerce",
+    "party": "D-GA",
+    "state": "GA",
+    "chamber": "senate",
+    "committees": [
+      "Banking",
+      "Agriculture",
+      "Commerce",
+      "Joint Economic"
+    ],
+    "stance": "none",
+    "quote": "Baptist preacher, civil rights advocate, Martin Luther King Jr.'s former pulpit",
+    "techRegScore": 0.35,
+    "lobbying": {
+      "topIndustries": [
+        "Lawyers/Law Firms: $1.2M",
+        "Securities & Investment: $890K",
+        "TV/Movies/Music: $650K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 55,
+      "education": "Morehouse College (BA Psychology), Union Theological Seminary (MDiv, PhD)",
+      "careerBeforePolitics": "Baptist minister, senior pastor at Ebenezer Baptist Church (MLK's former church)"
+    },
+    "seatSafety": "toss-up"
+  },
+  {
+    "id": "sanford-bishop",
+    "name": "Sanford Bishop",
+    "role": "Representative",
+    "party": "D-GA",
+    "state": "GA",
+    "chamber": "house",
+    "committees": [
+      "Agriculture",
+      "Appropriations"
+    ],
+    "stance": "none",
+    "techRegScore": 0.31,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "jon-ossoff",
+    "name": "Jon Ossoff",
+    "role": "Senator · Judiciary",
+    "party": "D-GA",
+    "state": "GA",
+    "chamber": "senate",
+    "committees": [
+      "Judiciary",
+      "Banking",
+      "Homeland Security",
+      "Rules"
+    ],
+    "stance": "none",
+    "quote": "Youngest senator, investigative journalism background, anti-corruption focus",
+    "techRegScore": 0.3,
+    "lobbying": {
+      "topIndustries": [
+        "Securities & Investment: $1.1M",
+        "TV/Movies/Music: $780K",
+        "Lawyers/Law Firms: $650K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 37,
+      "education": "Georgetown University (BS Foreign Service), London School of Economics (MSc)",
+      "careerBeforePolitics": "Documentary filmmaker, investigative journalist, CEO of media company"
+    },
+    "seatSafety": "toss-up"
+  },
+  {
+    "id": "david-scott",
+    "name": "David Scott",
+    "role": "Representative",
+    "party": "D-GA",
+    "state": "GA",
+    "chamber": "house",
+    "committees": [
+      "Agriculture",
+      "Financial Services"
+    ],
+    "stance": "none",
+    "techRegScore": 0.27,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "lucy-mcbath",
+    "name": "Lucy McBath",
+    "role": "Representative · Judiciary",
+    "party": "D-GA",
+    "state": "GA",
+    "chamber": "house",
+    "committees": [
+      "Judiciary",
+      "Education and Labor"
+    ],
+    "stance": "none",
+    "techRegScore": 0.24,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "hank-johnson",
+    "name": "Hank Johnson",
+    "role": "Representative · Judiciary",
+    "party": "D-GA",
+    "state": "GA",
+    "chamber": "house",
+    "committees": [
+      "Judiciary",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "none",
+    "techRegScore": 0.18,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "nikema-williams",
+    "name": "Nikema Williams",
+    "role": "Representative",
+    "party": "D-GA",
+    "state": "GA",
+    "chamber": "house",
+    "committees": [
+      "Financial Services",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "none",
+    "techRegScore": 0.16,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  }
+]

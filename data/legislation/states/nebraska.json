@@ -1,0 +1,218 @@
+{
+  "state": "Nebraska",
+  "stateCode": "NE",
+  "region": "na",
+  "stance": "review",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "Nebraska has 12 bills tracked in 2025–2026. 5 are already enacted.",
+  "legislation": [
+    {
+      "id": "ne-lb1111",
+      "billCode": "LB1111",
+      "title": "Require an annual data center load report to the Nebraska Power Review Board, provide powers and duties for public power suppliers, allow and require regulation of data centers, and change provisions relating to regulation of cryptocurrency mining operations",
+      "summary": "Require an annual data center load report to the Nebraska Power Review Board, provide powers and duties for public power suppliers, allow and require regulation of data centers, and change provisions relating to regulation of cryptocurrency mining operations",
+      "stage": "Committee",
+      "impactTags": [
+        "grid-capacity"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-16",
+      "sourceUrl": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=63375",
+      "legiscanUrl": "https://legiscan.com/NE/bill/LB1111/2025",
+      "legiscanId": 2084164,
+      "sponsors": [
+        "Machaela Cavanaugh"
+      ]
+    },
+    {
+      "id": "ne-lb642",
+      "billCode": "LB642",
+      "title": "Adopt the Artificial Intelligence Consumer Protection Act",
+      "summary": "Adopt the Artificial Intelligence Consumer Protection Act",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-01-22",
+      "sourceUrl": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=58992",
+      "legiscanUrl": "https://legiscan.com/NE/bill/LB642/2025",
+      "legiscanId": 1935238,
+      "sponsors": [
+        "Eliot Bostar"
+      ]
+    },
+    {
+      "id": "ne-lb729",
+      "billCode": "LB729",
+      "title": "Adopt the Biometric Autonomy Liberty Law",
+      "summary": "Adopt the Biometric Autonomy Liberty Law",
+      "stage": "Dead",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-09",
+      "sourceUrl": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=62639",
+      "legiscanUrl": "https://legiscan.com/NE/bill/LB729/2025",
+      "legiscanId": 2066630,
+      "sponsors": [
+        "Kathleen Kauth"
+      ]
+    },
+    {
+      "id": "ne-lb48",
+      "billCode": "LB48",
+      "title": "Establish a Family Resource and Juvenile Assessment Center Pilot Program",
+      "summary": "Establish a Family Resource and Juvenile Assessment Center Pilot Program",
+      "stage": "Enacted",
+      "impactTags": [
+        "property-values"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-06-06",
+      "sourceUrl": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=59016",
+      "legiscanUrl": "https://legiscan.com/NE/bill/LB48/2025",
+      "legiscanId": 1909354,
+      "sponsors": [
+        "Terrell McKinney"
+      ]
+    },
+    {
+      "id": "ne-lb1010",
+      "billCode": "LB1010",
+      "title": "Adopt the Large Load Customer Regulation Act, provide for eminent domain relating to energy storage and regulation and taxation of energy storage resources, and change provisions relating to cryptocurrency mining operations and data centers",
+      "summary": "Adopt the Large Load Customer Regulation Act, provide for eminent domain relating to energy storage and regulation and taxation of energy storage resources, and change provisions relating to cryptocurrency mining operations and data centers",
+      "stage": "Enacted",
+      "impactTags": [
+        "grid-capacity"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-10",
+      "sourceUrl": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=63217",
+      "legiscanUrl": "https://legiscan.com/NE/bill/LB1010/2025",
+      "legiscanId": 2072357,
+      "sponsors": [
+        "Tom Brandt"
+      ]
+    },
+    {
+      "id": "ne-lb613",
+      "billCode": "LB613",
+      "title": "Change provisions relating to the disclosure of tax information to municipalities",
+      "summary": "Change provisions relating to the disclosure of tax information to municipalities",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-06-06",
+      "sourceUrl": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=59758",
+      "legiscanUrl": "https://legiscan.com/NE/bill/LB613/2025",
+      "legiscanId": 1934223,
+      "sponsors": [
+        "Bob Andersen"
+      ]
+    },
+    {
+      "id": "ne-lb1185",
+      "billCode": "LB1185",
+      "title": "Adopt the Conversational Artificial Intelligence Safety Act",
+      "summary": "Adopt the Conversational Artificial Intelligence Safety Act",
+      "stage": "Committee",
+      "impactTags": [
+        "ai-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-21",
+      "sourceUrl": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=63873",
+      "legiscanUrl": "https://legiscan.com/NE/bill/LB1185/2025",
+      "legiscanId": 2088052,
+      "sponsors": [
+        "Eliot Bostar"
+      ]
+    },
+    {
+      "id": "ne-lb525",
+      "billCode": "LB525",
+      "title": "Adopt the Agricultural Data Privacy Act and the Conversational Artificial Intelligence Safety Act",
+      "summary": "Adopt the Agricultural Data Privacy Act and the Conversational Artificial Intelligence Safety Act",
+      "stage": "Enacted",
+      "impactTags": [
+        "ai-safety",
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-04-10",
+      "sourceUrl": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=59601",
+      "legiscanUrl": "https://legiscan.com/NE/bill/LB525/2025",
+      "legiscanId": 1934423,
+      "sponsors": [
+        "Michael Jacobson"
+      ]
+    },
+    {
+      "id": "ne-lb1083",
+      "billCode": "LB1083",
+      "title": "Adopt the Transparency in Artificial Intelligence Risk Management Act, create a fund, and change provisions relating to records which may be withheld from the public",
+      "summary": "Adopt the Transparency in Artificial Intelligence Risk Management Act, create a fund, and change provisions relating to records which may be withheld from the public",
+      "stage": "Committee",
+      "impactTags": [
+        "nda-transparency",
+        "ai-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-15",
+      "sourceUrl": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=63049",
+      "legiscanUrl": "https://legiscan.com/NE/bill/LB1083/2025",
+      "legiscanId": 2081898,
+      "sponsors": [
+        "Tanya Storer"
+      ]
+    },
+    {
+      "id": "ne-lb204",
+      "billCode": "LB204",
+      "title": "Adopt the Biometric Autonomy Liberty Law",
+      "summary": "Adopt the Biometric Autonomy Liberty Law",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-01-14",
+      "sourceUrl": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=58083",
+      "legiscanUrl": "https://legiscan.com/NE/bill/LB204/2025",
+      "legiscanId": 1917326,
+      "sponsors": [
+        "Kathleen Kauth"
+      ]
+    },
+    {
+      "id": "ne-lb376",
+      "billCode": "LB376",
+      "title": "Change and eliminate programs and services administered by the Department of Health and Human Services, eliminate various reporting requirements, and change and eliminate powers and duties of the Board of Emergency Medical Services, the Division of Children and Family Services, the Nebraska State Patrol, and the Director of Motor Vehicles",
+      "summary": "Change and eliminate programs and services administered by the Department of Health and Human Services, eliminate various reporting requirements, and change and eliminate powers and duties of the Board of Emergency Medical Services, the Division of Children and Family Services...",
+      "stage": "Enacted",
+      "impactTags": [
+        "child-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-06-06",
+      "sourceUrl": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=59307",
+      "legiscanUrl": "https://legiscan.com/NE/bill/LB376/2025",
+      "legiscanId": 1923721,
+      "sponsors": [
+        "Health and Human Services Committee"
+      ]
+    },
+    {
+      "id": "ne-lb210",
+      "billCode": "LB210",
+      "title": "Provide for fees and assessments for participation and use of the prescription drug monitoring program and the designated health information exchange",
+      "summary": "Provide for fees and assessments for participation and use of the prescription drug monitoring program and the designated health information exchange",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-01-14",
+      "sourceUrl": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=59490",
+      "legiscanUrl": "https://legiscan.com/NE/bill/LB210/2025",
+      "legiscanId": 1917366,
+      "sponsors": [
+        "Merv Riepe"
+      ]
+    }
+  ]
+}

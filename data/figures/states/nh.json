@@ -1,0 +1,109 @@
+[
+  {
+    "id": "chris-pappas",
+    "name": "Chris Pappas",
+    "role": "Representative",
+    "party": "D-NH",
+    "state": "NH",
+    "chamber": "house",
+    "committees": [
+      "Transportation and Infrastructure",
+      "Veterans' Affairs"
+    ],
+    "stance": "review",
+    "techRegScore": 0.45,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "toss-up"
+  },
+  {
+    "id": "jeanne-shaheen",
+    "name": "Jeanne Shaheen",
+    "role": "Senator",
+    "party": "D-NH",
+    "state": "NH",
+    "chamber": "senate",
+    "committees": [
+      "Appropriations",
+      "Armed Services",
+      "Foreign Relations"
+    ],
+    "stance": "review",
+    "quote": "Foreign policy hawk focused on Russia and women's rights globally",
+    "techRegScore": 0.4,
+    "lobbying": {
+      "topIndustries": [
+        "Healthcare: $420K",
+        "Defense: $380K",
+        "Energy: $290K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 77,
+      "education": "BA Shippensburg University, graduate work University of Mississippi",
+      "careerBeforePolitics": "High school teacher, small business owner, New Hampshire Governor 1997-2003"
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "maggie-hassan",
+    "name": "Maggie Hassan",
+    "role": "Senator · Homeland Security",
+    "party": "D-NH",
+    "state": "NH",
+    "chamber": "senate",
+    "committees": [
+      "Finance",
+      "HELP",
+      "Homeland Security"
+    ],
+    "stance": "review",
+    "quote": "Pragmatic moderate who survived the closest Senate race of 2022",
+    "techRegScore": 0.4,
+    "lobbying": {
+      "topIndustries": [
+        "Healthcare: $380K",
+        "Technology: $310K",
+        "Pharmaceuticals: $250K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 66,
+      "education": "BA Brown University, JD Northeastern University",
+      "careerBeforePolitics": "Corporate attorney, advocate for disability rights, New Hampshire Governor 2013-2017"
+    },
+    "seatSafety": "toss-up"
+  },
+  {
+    "id": "annie-kuster",
+    "name": "Annie Kuster",
+    "role": "Representative · Energy and Commerce",
+    "party": "D-NH",
+    "state": "NH",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce"
+    ],
+    "stance": "review",
+    "techRegScore": 0.38,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  }
+]

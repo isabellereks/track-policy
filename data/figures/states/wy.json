@@ -1,0 +1,86 @@
+[
+  {
+    "id": "harriet-hageman",
+    "name": "Harriet Hageman",
+    "role": "Representative · Judiciary",
+    "party": "R-WY",
+    "state": "WY",
+    "chamber": "house",
+    "committees": [
+      "Judiciary",
+      "Natural Resources"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.78,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "cynthia-lummis",
+    "name": "Cynthia Lummis",
+    "role": "Senator · Commerce",
+    "party": "R-WY",
+    "state": "WY",
+    "chamber": "senate",
+    "committees": [
+      "Banking",
+      "Commerce",
+      "Environment"
+    ],
+    "stance": "favorable",
+    "quote": "Rancher-senator who champions cryptocurrency, opposes climate regulations, and defends Wyoming's energy economy",
+    "techRegScore": 0.76,
+    "lobbying": {
+      "topIndustries": [
+        "Oil & gas $690K",
+        "Mining $510K",
+        "Securities & investment $380K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 70,
+      "education": "BS University of Wyoming, JD University of Wyoming College of Law",
+      "careerBeforePolitics": "Rancher, lawyer, Wyoming State Treasurer 1999-2007, U.S. House 2009-2017"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "john-barrasso",
+    "name": "John Barrasso",
+    "role": "Senator · Majority Whip",
+    "party": "R-WY",
+    "state": "WY",
+    "chamber": "senate",
+    "committees": [
+      "Energy",
+      "Foreign Relations",
+      "Indian Affairs"
+    ],
+    "stance": "favorable",
+    "quote": "Fierce defender of fossil fuel industry and opponent of climate regulations",
+    "techRegScore": 0.71,
+    "lobbying": {
+      "topIndustries": [
+        "Oil & Gas: $1.3M",
+        "Mining: $445K",
+        "Electric Utilities: $389K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 72,
+      "education": "BS Georgetown University, MD Georgetown Medical School",
+      "careerBeforePolitics": "Orthopedic surgeon for 25 years, Wyoming state senator"
+    },
+    "seatSafety": "safe"
+  }
+]

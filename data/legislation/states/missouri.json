@@ -1,0 +1,221 @@
+{
+  "state": "Missouri",
+  "stateCode": "MO",
+  "region": "na",
+  "stance": "review",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "Missouri has 12 bills tracked in 2025–2026.",
+  "legislation": [
+    {
+      "id": "mo-hb1810",
+      "billCode": "HB1810",
+      "title": "Specifies that the department of health and senior services shall not deny trauma center status to a hospital based on its distance from another trauma center",
+      "summary": "Specifies that the department of health and senior services shall not deny trauma center status to a hospital based on its distance from another trauma center",
+      "stage": "Filed",
+      "impactTags": [
+        "residential-proximity"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-07",
+      "partyOrigin": "D",
+      "sourceUrl": "https://house.mo.gov/Bill.aspx?bill=HB1810&year=2026&code=R",
+      "legiscanUrl": "https://legiscan.com/MO/bill/HB1810/2026",
+      "legiscanId": 2054727,
+      "sponsors": [
+        "Pattie Mansur"
+      ]
+    },
+    {
+      "id": "mo-sb1455",
+      "billCode": "SB1455",
+      "title": "Creates provisions relating to artificial intelligence chatbots",
+      "summary": "Creates provisions relating to artificial intelligence chatbots",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-07",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.senate.mo.gov/BillTracking/Bills/Billinformation?year=2026&billid=27964",
+      "legiscanUrl": "https://legiscan.com/MO/bill/SB1455/2026",
+      "legiscanId": 2060537,
+      "sponsors": [
+        "Brad Hudson"
+      ]
+    },
+    {
+      "id": "mo-hb1805",
+      "billCode": "HB1805",
+      "title": "Specifies that the department of health and senior services shall not deny trauma center status to a hospital based on its distance from another trauma center",
+      "summary": "Specifies that the department of health and senior services shall not deny trauma center status to a hospital based on its distance from another trauma center",
+      "stage": "Filed",
+      "impactTags": [
+        "residential-proximity"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-07",
+      "partyOrigin": "D",
+      "sourceUrl": "https://house.mo.gov/Bill.aspx?bill=HB1805&year=2026&code=R",
+      "legiscanUrl": "https://legiscan.com/MO/bill/HB1805/2026",
+      "legiscanId": 2054948,
+      "sponsors": [
+        "Mark Sharp"
+      ]
+    },
+    {
+      "id": "mo-sb1527",
+      "billCode": "SB1527",
+      "title": "Repeals provisions relating to the Infection Control Advisory Panel",
+      "summary": "Repeals provisions relating to the Infection Control Advisory Panel",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-08",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.senate.mo.gov/BillTracking/Bills/Billinformation?year=2026&billid=216214",
+      "legiscanUrl": "https://legiscan.com/MO/bill/SB1527/2026",
+      "legiscanId": 2068840,
+      "sponsors": [
+        "Jamie Burger"
+      ]
+    },
+    {
+      "id": "mo-hb2670",
+      "billCode": "HB2670",
+      "title": "Modifies provisions relating to public health programs",
+      "summary": "Modifies provisions relating to public health programs",
+      "stage": "Filed",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-07",
+      "partyOrigin": "R",
+      "sourceUrl": "https://house.mo.gov/Bill.aspx?bill=HB2670&year=2026&code=R",
+      "legiscanUrl": "https://legiscan.com/MO/bill/HB2670/2026",
+      "legiscanId": 2065280,
+      "sponsors": [
+        "Tara Peters"
+      ]
+    },
+    {
+      "id": "mo-hb3390",
+      "billCode": "HB3390",
+      "title": "Creates new provisions related to the construction of data centers",
+      "summary": "Creates new provisions related to the construction of data centers",
+      "stage": "Filed",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-24",
+      "partyOrigin": "R",
+      "sourceUrl": "https://house.mo.gov/Bill.aspx?bill=HB3390&year=2026&code=R",
+      "legiscanUrl": "https://legiscan.com/MO/bill/HB3390/2026",
+      "legiscanId": 2122818,
+      "sponsors": [
+        "Scott Cupps"
+      ]
+    },
+    {
+      "id": "mo-sb1692",
+      "billCode": "SB1692",
+      "title": "Modifies provisions relating to abortion",
+      "summary": "Modifies provisions relating to abortion",
+      "stage": "Filed",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-19",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.senate.mo.gov/BillTracking/Bills/Billinformation?year=2026&billid=5552596",
+      "legiscanUrl": "https://legiscan.com/MO/bill/SB1692/2026",
+      "legiscanId": 2120035,
+      "sponsors": [
+        "Patty Lewis"
+      ]
+    },
+    {
+      "id": "mo-hb2239",
+      "billCode": "HB2239",
+      "title": "Creates the Artificial Intelligence Data Center Environmental Accountability Act",
+      "summary": "Creates the Artificial Intelligence Data Center Environmental Accountability Act",
+      "stage": "Filed",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-07",
+      "partyOrigin": "D",
+      "sourceUrl": "https://house.mo.gov/Bill.aspx?bill=HB2239&year=2026&code=R",
+      "legiscanUrl": "https://legiscan.com/MO/bill/HB2239/2026",
+      "legiscanId": 2057249,
+      "sponsors": [
+        "Marty Murray"
+      ]
+    },
+    {
+      "id": "mo-hb3258",
+      "billCode": "HB3258",
+      "title": "Creates new provisions relating to employment practices involving warehouse distribution centers",
+      "summary": "Creates new provisions relating to employment practices involving warehouse distribution centers",
+      "stage": "Filed",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-10",
+      "partyOrigin": "D",
+      "sourceUrl": "https://house.mo.gov/Bill.aspx?bill=HB3258&year=2026&code=R",
+      "legiscanUrl": "https://legiscan.com/MO/bill/HB3258/2026",
+      "legiscanId": 2113233,
+      "sponsors": [
+        "Eric Woods"
+      ]
+    },
+    {
+      "id": "mo-hb2032",
+      "billCode": "HB2032",
+      "title": "Establishes age verification measures for companion chatbots",
+      "summary": "Establishes age verification measures for companion chatbots",
+      "stage": "Committee",
+      "impactTags": [
+        "child-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-07",
+      "partyOrigin": "R",
+      "sourceUrl": "https://house.mo.gov/Bill.aspx?bill=HB2032&year=2026&code=R",
+      "legiscanUrl": "https://legiscan.com/MO/bill/HB2032/2026",
+      "legiscanId": 2054847,
+      "sponsors": [
+        "Melissa Schmidt",
+        "Mike Jones"
+      ]
+    },
+    {
+      "id": "mo-sb1012",
+      "billCode": "SB1012",
+      "title": "Creates new provisions relating to artificial intelligence",
+      "summary": "Creates new provisions relating to artificial intelligence",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-07",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=469",
+      "legiscanUrl": "https://legiscan.com/MO/bill/SB1012/2026",
+      "legiscanId": 2055528,
+      "sponsors": [
+        "Joe Nicola"
+      ]
+    },
+    {
+      "id": "mo-hb1747",
+      "billCode": "HB1747",
+      "title": "Allows a person to bring a cause of action against another person or entity for damages for failing to state certain content is generated or modified using artificial intelligence",
+      "summary": "Allows a person to bring a cause of action against another person or entity for damages for failing to state certain content is generated or modified using artificial intelligence",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-07",
+      "partyOrigin": "R",
+      "sourceUrl": "https://house.mo.gov/Bill.aspx?bill=HB1747&year=2026&code=R",
+      "legiscanUrl": "https://legiscan.com/MO/bill/HB1747/2026",
+      "legiscanId": 2055043,
+      "sponsors": [
+        "Scott Miller"
+      ]
+    }
+  ]
+}

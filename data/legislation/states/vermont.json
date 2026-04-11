@@ -1,0 +1,235 @@
+{
+  "state": "Vermont",
+  "stateCode": "VT",
+  "region": "na",
+  "stance": "concerning",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "Vermont has 12 bills tracked in 2025–2026. 1 is already enacted. 1 relates to moratoriums or prohibitions.",
+  "legislation": [
+    {
+      "id": "vt-h0727",
+      "billCode": "H0727",
+      "title": "An act relating to sustainable data center deployment",
+      "summary": "An act relating to sustainable data center deployment",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-31",
+      "sourceUrl": "https://legislature.vermont.gov/bill/status/2026/H.727",
+      "legiscanUrl": "https://legiscan.com/VT/bill/H0727/2025",
+      "legiscanId": 2087040,
+      "sponsors": [
+        "Laura Sibilia"
+      ]
+    },
+    {
+      "id": "vt-h0816",
+      "billCode": "H0816",
+      "title": "An act relating to regulating the use of artificial intelligence in the provision of mental health services",
+      "summary": "An act relating to regulating the use of artificial intelligence in the provision of mental health services",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-18",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legislature.vermont.gov/bill/status/2026/H.816",
+      "legiscanUrl": "https://legiscan.com/VT/bill/H0816/2025",
+      "legiscanId": 2100382,
+      "sponsors": [
+        "Daisy Berbeco",
+        "Angela Arsenault",
+        "Monique Priestley"
+      ]
+    },
+    {
+      "id": "vt-s0205",
+      "billCode": "S0205",
+      "title": "An act relating to a temporary moratorium on AI data centers and a report on the construction and operation of AI data centers in Vermont",
+      "summary": "An act relating to a temporary moratorium on AI data centers and a report on the construction and operation of AI data centers in Vermont",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-06",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legislature.vermont.gov/bill/status/2026/S.205",
+      "legiscanUrl": "https://legiscan.com/VT/bill/S0205/2025",
+      "legiscanId": 2065810,
+      "sponsors": [
+        "Rebecca White",
+        "Seth Bongartz",
+        "Ruth Hardy",
+        "Joseph Major"
+      ]
+    },
+    {
+      "id": "vt-h0382",
+      "billCode": "H0382",
+      "title": "An act relating to data collection in the criminal justice system",
+      "summary": "An act relating to data collection in the criminal justice system",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-02-26",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legislature.vermont.gov/bill/status/2026/H.382",
+      "legiscanUrl": "https://legiscan.com/VT/bill/H0382/2025",
+      "legiscanId": 1982822,
+      "sponsors": [
+        "Kevin Christie"
+      ]
+    },
+    {
+      "id": "vt-h0814",
+      "billCode": "H0814",
+      "title": "An act relating to neurological rights and the use of artificial intelligence technology in health and human services",
+      "summary": "An act relating to neurological rights and the use of artificial intelligence technology in health and human services",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-18",
+      "partyOrigin": "B",
+      "sourceUrl": "https://legislature.vermont.gov/bill/status/2026/H.814",
+      "legiscanUrl": "https://legiscan.com/VT/bill/H0814/2025",
+      "legiscanId": 2097980,
+      "sponsors": [
+        "Brian Cina",
+        "Daisy Berbeco",
+        "Elizabeth Burrows",
+        "Wendy Critchlow"
+      ]
+    },
+    {
+      "id": "vt-h0341",
+      "billCode": "H0341",
+      "title": "An act relating to creating oversight and safety standards for developers and deployers of inherently dangerous artificial intelligence systems",
+      "summary": "An act relating to creating oversight and safety standards for developers and deployers of inherently dangerous artificial intelligence systems",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-02-25",
+      "partyOrigin": "B",
+      "sourceUrl": "https://legislature.vermont.gov/bill/status/2026/H.341",
+      "legiscanUrl": "https://legiscan.com/VT/bill/H0341/2025",
+      "legiscanId": 1981655,
+      "sponsors": [
+        "Monique Priestley",
+        "Angela Arsenault",
+        "Daisy Berbeco",
+        "Esme Cole"
+      ]
+    },
+    {
+      "id": "vt-h0821",
+      "billCode": "H0821",
+      "title": "An act relating to artificial intelligence",
+      "summary": "An act relating to artificial intelligence",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-29",
+      "partyOrigin": "B",
+      "sourceUrl": "https://legislature.vermont.gov/bill/status/2026/H.821",
+      "legiscanUrl": "https://legiscan.com/VT/bill/H0821/2025",
+      "legiscanId": 2101287,
+      "sponsors": [
+        "Brian Cina",
+        "Angela Arsenault",
+        "Elizabeth Burrows",
+        "Wendy Critchlow"
+      ]
+    },
+    {
+      "id": "vt-h0792",
+      "billCode": "H0792",
+      "title": "An act relating to liability standards for developers and deployers of artificial intelligence systems",
+      "summary": "An act relating to liability standards for developers and deployers of artificial intelligence systems",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-28",
+      "partyOrigin": "B",
+      "sourceUrl": "https://legislature.vermont.gov/bill/status/2026/H.792",
+      "legiscanUrl": "https://legiscan.com/VT/bill/H0792/2025",
+      "legiscanId": 2094379,
+      "sponsors": [
+        "Monique Priestley",
+        "Daisy Berbeco",
+        "Elizabeth Burrows",
+        "Esme Cole"
+      ]
+    },
+    {
+      "id": "vt-h0365",
+      "billCode": "H0365",
+      "title": "An act relating to the regulation of social media platforms and artificial intelligence systems",
+      "summary": "An act relating to the regulation of social media platforms and artificial intelligence systems",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-02-26",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legislature.vermont.gov/bill/status/2026/H.365",
+      "legiscanUrl": "https://legiscan.com/VT/bill/H0365/2025",
+      "legiscanId": 1982851,
+      "sponsors": [
+        "Angela Arsenault",
+        "Edye Graning"
+      ]
+    },
+    {
+      "id": "vt-h0776",
+      "billCode": "H0776",
+      "title": "An act relating to the use of artificial intelligence in health care coverage decisions",
+      "summary": "An act relating to the use of artificial intelligence in health care coverage decisions",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-27",
+      "partyOrigin": "B",
+      "sourceUrl": "https://legislature.vermont.gov/bill/status/2026/H.776",
+      "legiscanUrl": "https://legiscan.com/VT/bill/H0776/2025",
+      "legiscanId": 2093374,
+      "sponsors": [
+        "Monique Priestley",
+        "Elizabeth Burrows",
+        "Ela Chapin",
+        "Esme Cole"
+      ]
+    },
+    {
+      "id": "vt-h0027",
+      "billCode": "H0027",
+      "title": "An act relating to the Domestic Violence Fatality Review Commission",
+      "summary": "An act relating to the Domestic Violence Fatality Review Commission",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-05-20",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legislature.vermont.gov/bill/status/2026/H.27",
+      "legiscanUrl": "https://legiscan.com/VT/bill/H0027/2025",
+      "legiscanId": 1908400,
+      "sponsors": [
+        "Martin LaLonde",
+        "Kate Nugent"
+      ]
+    },
+    {
+      "id": "vt-h0855",
+      "billCode": "H0855",
+      "title": "An act relating to defenses in civil actions based on harm caused by artificial intelligence",
+      "summary": "An act relating to defenses in civil actions based on harm caused by artificial intelligence",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-03",
+      "partyOrigin": "R",
+      "sourceUrl": "https://legislature.vermont.gov/bill/status/2026/H.855",
+      "legiscanUrl": "https://legiscan.com/VT/bill/H0855/2025",
+      "legiscanId": 2103381,
+      "sponsors": [
+        "Zachary Harvey"
+      ]
+    }
+  ]
+}

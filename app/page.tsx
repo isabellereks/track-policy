@@ -1,6 +1,7 @@
 "use client";
 
 import { useRef, useState } from "react";
+import Link from "next/link";
 import Hero from "@/components/hero/Hero";
 import MapShell from "@/components/map/MapShell";
 import SummaryBar from "@/components/sections/SummaryBar";
@@ -123,9 +124,18 @@ export default function Page() {
         <div className="max-w-5xl mx-auto px-8 py-10 flex flex-wrap items-center justify-between gap-4 text-xs text-muted">
           <span>Track Policy</span>
           <div className="flex gap-6">
-            <span>About</span>
-            <span>Methodology</span>
-            <span>Contact</span>
+            <Link href="/about" className="hover:text-ink transition-colors">
+              About
+            </Link>
+            <Link
+              href="/methodology"
+              className="hover:text-ink transition-colors"
+            >
+              Methodology
+            </Link>
+            <Link href="/contact" className="hover:text-ink transition-colors">
+              Contact
+            </Link>
           </div>
           <span>
             Inspired by{" "}

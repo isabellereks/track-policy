@@ -1,0 +1,224 @@
+{
+  "state": "Nevada",
+  "stateCode": "NV",
+  "region": "na",
+  "stance": "review",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "Nevada has 12 bills tracked in 2025–2026. 5 are already enacted.",
+  "legislation": [
+    {
+      "id": "nv-ab226",
+      "billCode": "AB226",
+      "title": "Revises provisions relating to economic development. (BDR 32-690)",
+      "summary": "AN ACT relating to taxation; requiring an application for certain transferable tax credits and certain tax abatements to contain a certification that the applicant agrees to submit a community benefits agreement and collaborate with the community in which the business is locat...",
+      "stage": "Dead",
+      "impactTags": [
+        "economic-development"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-06-10",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12228/Overview",
+      "legiscanUrl": "https://legiscan.com/NV/bill/AB226/2025",
+      "legiscanId": 1954989,
+      "sponsors": [
+        "Erica Mosca"
+      ]
+    },
+    {
+      "id": "nv-ab315",
+      "billCode": "AB315",
+      "title": "Requires applications to participate in Medicaid as a provider to be accompanied by a certain verification. (BDR 38-659)",
+      "summary": "AN ACT relating to Medicaid; requiring an application to participate in Medicaid as a provider to be accompanied with a verification of the identity and signature of the applicant; establishing the means by which the identity and signature of an applicant may be established; a...",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-06-03",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12400/Overview",
+      "legiscanUrl": "https://legiscan.com/NV/bill/AB315/2025",
+      "legiscanId": 1987319,
+      "sponsors": [
+        "Rebecca Edgeworth",
+        "AngelaTaylor"
+      ]
+    },
+    {
+      "id": "nv-ab77",
+      "billCode": "AB77",
+      "title": "Revises provisions governing tax abatements for certain businesses. (BDR 32-282)",
+      "summary": "AN ACT relating to taxation; revising criteria governing the approval of an application for certain partial abatements of taxes; authorizing the Office of Economic Development to deny an application for certain partial abatements of taxes if the Office determines that the deni...",
+      "stage": "Dead",
+      "impactTags": [
+        "economic-development"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-04-12",
+      "sourceUrl": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11897/Overview",
+      "legiscanUrl": "https://legiscan.com/NV/bill/AB77/2025",
+      "legiscanId": 1892654,
+      "sponsors": [
+        "Revenue"
+      ]
+    },
+    {
+      "id": "nv-sb403",
+      "billCode": "SB403",
+      "title": "Revises provisions relating to education. (BDR 34-611)",
+      "summary": "AN ACT relating to education; creating the Subcommittee on Metrics of the Commission on Innovation and Excellence in Education; revising provisions governing competency-based learning; authorizing an alternative schedule for public schools; authorizing local educational agenci...",
+      "stage": "Dead",
+      "impactTags": [
+        "economic-development"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-06-03",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12720/Overview",
+      "legiscanUrl": "https://legiscan.com/NV/bill/SB403/2025",
+      "legiscanId": 2009422,
+      "sponsors": [
+        "Marilyn Dondero Loop",
+        "Nicole Cannizzaro",
+        "Michelee Cruz-Crawford",
+        "Fabian Donate"
+      ]
+    },
+    {
+      "id": "nv-ab1",
+      "billCode": "AB1",
+      "title": "Revises provisions relating to governmental administration. (BDR 19-22)",
+      "summary": "AN ACT relating to governmental administration; providing that a meeting between an agency or officer of the Executive Department of the State Government and the Legislature concerning certain topics relating to cybersecurity is not subject to the Open Meeting Law; prohibiting...",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-11-20",
+      "sourceUrl": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/Bill/12988/Overview",
+      "legiscanUrl": "https://legiscan.com/NV/bill/AB1/2025/X1",
+      "legiscanId": 2052392,
+      "sponsors": [
+        "Health and Wellness"
+      ]
+    },
+    {
+      "id": "nv-ab432",
+      "billCode": "AB432",
+      "title": "Revises provisions relating to governmental administration. (BDR 19-551)",
+      "summary": "AN ACT relating to governmental administration; creating and setting forth the duties of the Security Operations Center within the Office of the Chief Information Officer within the Office of the Governor; creating the Account for the Security Operations Center and prescribing...",
+      "stage": "Dead",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-06-03",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12631/Overview",
+      "legiscanUrl": "https://legiscan.com/NV/bill/AB432/2025",
+      "legiscanId": 2006511,
+      "sponsors": [
+        "Thaddeus Yurek"
+      ]
+    },
+    {
+      "id": "nv-sb119",
+      "billCode": "SB119",
+      "title": "Revises provisions relating to the NV Grow Program. (BDR S-81)",
+      "summary": "AN ACT relating to economic development; requiring certain reporting relating to the NV Grow Program; requiring the Division of Small Business and Entrepreneurship Development of the College of Southern Nevada to develop, create and oversee the Program; revising certain qualif...",
+      "stage": "Enacted",
+      "impactTags": [
+        "economic-development"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-06-11",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12032/Overview",
+      "legiscanUrl": "https://legiscan.com/NV/bill/SB119/2025",
+      "legiscanId": 1942130,
+      "sponsors": [
+        "Dina Neal"
+      ]
+    },
+    {
+      "id": "nv-ab389",
+      "billCode": "AB389",
+      "title": "Revises provisions relating to education. (BDR 34-1056)",
+      "summary": "AN ACT relating to education; revising provisions governing the submission of data and metrics on the performance and progress of pupils; revising provisions governing the automated system of accountability information for Nevada; requiring the Commission on Innovation and Exc...",
+      "stage": "Dead",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-06-03",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12554/Overview",
+      "legiscanUrl": "https://legiscan.com/NV/bill/AB389/2025",
+      "legiscanId": 1999895,
+      "sponsors": [
+        "Selena Torres-Fossett"
+      ]
+    },
+    {
+      "id": "nv-sb495",
+      "billCode": "SB495",
+      "title": "Revises provisions relating to health care. (BDR 40-1037)",
+      "summary": "AN ACT relating to health care; revising requirements governing the electronic maintenance, transmittal and exchange of health information; making revisions relating to emergency medical care; prescribing certain requirements to expedite the credentialing and privileging of pr...",
+      "stage": "Dead",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-06-03",
+      "sourceUrl": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12939/Overview",
+      "legiscanUrl": "https://legiscan.com/NV/bill/SB495/2025",
+      "legiscanId": 2031601,
+      "sponsors": [
+        "Health and Human Services"
+      ]
+    },
+    {
+      "id": "nv-ab339",
+      "billCode": "AB339",
+      "title": "Creates the Office of Children's Mental and Behavioral Health within the Office of the Director of the Department of Health and Human Services. (BDR 39-358)",
+      "summary": "AN ACT relating to mental health; revising the duties of the Commission on Behavioral Health; creating the Office of Children's Mental and Behavioral Health within the Office of the Director of the Department of Health and Human Services; requiring certain entities to coordina...",
+      "stage": "Dead",
+      "impactTags": [
+        "child-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-06-03",
+      "sourceUrl": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12431/Overview",
+      "legiscanUrl": "https://legiscan.com/NV/bill/AB339/2025",
+      "legiscanId": 1989916,
+      "sponsors": [
+        "Health and Human Services"
+      ]
+    },
+    {
+      "id": "nv-ab406",
+      "billCode": "AB406",
+      "title": "Makes various changes relating to health. (BDR 34-674)",
+      "summary": "AN ACT relating to health; prohibiting certain uses of artificial intelligence in public schools; requiring the Department of Education to develop a policy concerning certain uses of artificial intelligence; imposing certain restrictions relating to the marketing and programmi...",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-06-06",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12575/Overview",
+      "legiscanUrl": "https://legiscan.com/NV/bill/AB406/2025",
+      "legiscanId": 1999738,
+      "sponsors": [
+        "Jovan Jackson",
+        "Hanadi Nadeem"
+      ]
+    },
+    {
+      "id": "nv-ab325",
+      "billCode": "AB325",
+      "title": "Revises provisions relating to artificial intelligence. (BDR 36-393)",
+      "summary": "AN ACT relating to artificial intelligence; defining artificial intelligence in the context of emergency management; requiring emergency management plans prepared by the Governor and each plan adopted by a state or local governmental agency to include provisions ensuring that ...",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-05-30",
+      "sourceUrl": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12417/Overview",
+      "legiscanUrl": "https://legiscan.com/NV/bill/AB325/2025",
+      "legiscanId": 1989648,
+      "sponsors": [
+        "Government Affairs"
+      ]
+    }
+  ]
+}

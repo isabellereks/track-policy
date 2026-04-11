@@ -1,0 +1,277 @@
+[
+  {
+    "id": "jim-banks",
+    "name": "Jim Banks",
+    "role": "Senator",
+    "party": "R-IN",
+    "state": "IN",
+    "chamber": "senate",
+    "committees": [
+      "Armed Services",
+      "Banking",
+      "Veterans Affairs"
+    ],
+    "stance": "favorable",
+    "quote": "Trump loyalist and culture war champion from the House Freedom Caucus",
+    "techRegScore": 0.78,
+    "lobbying": {
+      "topIndustries": [
+        "Defense contractors $450K",
+        "Manufacturing $380K",
+        "Agriculture $320K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 45,
+      "education": "Indiana University (B.A. Political Science), Grace College and Seminary (M.B.A.)",
+      "careerBeforePolitics": "Construction company executive, county commissioner"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "jim-banks",
+    "name": "Jim Banks",
+    "role": "Representative",
+    "party": "R-IN",
+    "state": "IN",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Education and Workforce"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.75,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "erin-houchin",
+    "name": "Erin Houchin",
+    "role": "Representative",
+    "party": "R-IN",
+    "state": "IN",
+    "chamber": "house",
+    "committees": [
+      "Financial Services"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.73,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "greg-pence",
+    "name": "Greg Pence",
+    "role": "Representative · Energy and Commerce",
+    "party": "R-IN",
+    "state": "IN",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.71,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "rudy-yakym",
+    "name": "Rudy Yakym",
+    "role": "Representative",
+    "party": "R-IN",
+    "state": "IN",
+    "chamber": "house",
+    "committees": [
+      "Budget",
+      "Ways and Means"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.7,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "victoria-spartz",
+    "name": "Victoria Spartz",
+    "role": "Representative · Judiciary",
+    "party": "R-IN",
+    "state": "IN",
+    "chamber": "house",
+    "committees": [
+      "Judiciary",
+      "Ways and Means"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.69,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "larry-bucshon",
+    "name": "Larry Bucshon",
+    "role": "Representative · Energy and Commerce",
+    "party": "R-IN",
+    "state": "IN",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.68,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "todd-young",
+    "name": "Todd Young",
+    "role": "Senator · Commerce",
+    "party": "R-IN",
+    "state": "IN",
+    "chamber": "senate",
+    "committees": [
+      "Finance",
+      "Commerce",
+      "Foreign Relations",
+      "Small Business"
+    ],
+    "stance": "review",
+    "quote": "Foreign policy hawk and innovation advocate who emphasizes America's technological competitiveness with China",
+    "techRegScore": 0.55,
+    "lobbying": {
+      "topIndustries": [
+        "Defense $685K",
+        "Manufacturing $545K",
+        "Pharmaceuticals $485K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 52,
+      "education": "Naval Academy (B.S.), University of London (M.A. American Politics), Indiana University (J.D.)",
+      "careerBeforePolitics": "U.S. Navy officer, attorney, business consultant, House of Representatives (2011-2017)"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "frank-mrvan",
+    "name": "Frank Mrvan",
+    "role": "Representative",
+    "party": "D-IN",
+    "state": "IN",
+    "chamber": "house",
+    "committees": [
+      "Transportation and Infrastructure",
+      "Veterans' Affairs"
+    ],
+    "stance": "none",
+    "techRegScore": 0.31,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "randolph-ruiz",
+    "name": "Randolph Ruiz",
+    "role": "Representative",
+    "party": "D-IN",
+    "state": "IN",
+    "chamber": "house",
+    "committees": [
+      "Agriculture",
+      "Small Business"
+    ],
+    "stance": "none",
+    "techRegScore": 0.28,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "toss-up"
+  },
+  {
+    "id": "andre-carson",
+    "name": "Andre Carson",
+    "role": "Representative · Intelligence",
+    "party": "D-IN",
+    "state": "IN",
+    "chamber": "house",
+    "committees": [
+      "Intelligence",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "none",
+    "techRegScore": 0.25,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  }
+]

@@ -1,0 +1,233 @@
+{
+  "state": "New Jersey",
+  "stateCode": "NJ",
+  "region": "na",
+  "stance": "concerning",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "New Jersey has 12 bills tracked in 2025–2026. 1 relates to moratoriums or prohibitions. 1 offers incentives or exemptions.",
+  "legislation": [
+    {
+      "id": "nj-s3379",
+      "billCode": "S3379",
+      "title": "Requires data center owners and operators to submit semi-annual water and energy usage reports to BPU.",
+      "summary": "Requires data center owners and operators to submit semi-annual water and energy usage reports to BPU.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-23",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/S3379",
+      "legiscanUrl": "https://legiscan.com/NJ/bill/S3379/2026",
+      "legiscanId": 2109445,
+      "sponsors": [
+        "Teresa Ruiz",
+        "Raj Mukherji",
+        "Patrick Diegnan",
+        "James Beach"
+      ]
+    },
+    {
+      "id": "nj-s2860",
+      "billCode": "S2860",
+      "title": "Establishes Artificial Intelligence Apprenticeship Program and artificial intelligence apprenticeship tax credit program.",
+      "summary": "Establishes Artificial Intelligence Apprenticeship Program and artificial intelligence apprenticeship tax credit program.",
+      "stage": "Committee",
+      "impactTags": [
+        "tax-incentives"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-13",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/S2860",
+      "legiscanUrl": "https://legiscan.com/NJ/bill/S2860/2026",
+      "legiscanId": 2074754,
+      "sponsors": [
+        "Angela Mcknight",
+        "Raj Mukherji"
+      ]
+    },
+    {
+      "id": "nj-a4163",
+      "billCode": "A4163",
+      "title": "Provides civil penalties for campaign advertisements containing \"deepfake\" misrepresentations of candidates.",
+      "summary": "Provides civil penalties for campaign advertisements containing \"deepfake\" misrepresentations of candidates.",
+      "stage": "Committee",
+      "impactTags": [
+        "deepfake-regulation"
+      ],
+      "category": "synthetic-media",
+      "updatedDate": "2026-02-19",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A4163",
+      "legiscanUrl": "https://legiscan.com/NJ/bill/A4163/2026",
+      "legiscanId": 2115902,
+      "sponsors": [
+        "Carol Murphy"
+      ]
+    },
+    {
+      "id": "nj-a759",
+      "billCode": "A759",
+      "title": "Requires AG to study law enforcement use of facial recognition technology and issue report with recommendations for Statewide policy.",
+      "summary": "Requires AG to study law enforcement use of facial recognition technology and issue report with recommendations for Statewide policy.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-criminal-justice",
+      "updatedDate": "2026-01-13",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A759",
+      "legiscanUrl": "https://legiscan.com/NJ/bill/A759/2026",
+      "legiscanId": 2097817,
+      "sponsors": [
+        "Al Abdelaziz",
+        "Verlina Reynolds-Jackson",
+        "Ellen Park"
+      ]
+    },
+    {
+      "id": "nj-a2297",
+      "billCode": "A2297",
+      "title": "Establishes certain data privacy protection requirements for consumer health data, health care providers, and patients.",
+      "summary": "Establishes certain data privacy protection requirements for consumer health data, health care providers, and patients.",
+      "stage": "Committee",
+      "impactTags": [
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-01-13",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A2297",
+      "legiscanUrl": "https://legiscan.com/NJ/bill/A2297/2026",
+      "legiscanId": 2099443,
+      "sponsors": [
+        "Margie Donlon"
+      ]
+    },
+    {
+      "id": "nj-s2969",
+      "billCode": "S2969",
+      "title": "Establishes certain data privacy protection requirements for consumer health data, health care providers, and patients.",
+      "summary": "Establishes certain data privacy protection requirements for consumer health data, health care providers, and patients.",
+      "stage": "Committee",
+      "impactTags": [
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-01-13",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/S2969",
+      "legiscanUrl": "https://legiscan.com/NJ/bill/S2969/2026",
+      "legiscanId": 2075900,
+      "sponsors": [
+        "Raj Mukherji"
+      ]
+    },
+    {
+      "id": "nj-s2305",
+      "billCode": "S2305",
+      "title": "Requires vehicle manufacturers to provide real-time access to motor vehicle data to vehicle owners and representatives.",
+      "summary": "Requires vehicle manufacturers to provide real-time access to motor vehicle data to vehicle owners and representatives.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-13",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/S2305",
+      "legiscanUrl": "https://legiscan.com/NJ/bill/S2305/2026",
+      "legiscanId": 2077395,
+      "sponsors": [
+        "John McKeon"
+      ]
+    },
+    {
+      "id": "nj-a2531",
+      "billCode": "A2531",
+      "title": "Requires vehicle manufacturers to provide real-time access to motor vehicle data to vehicle owners and representatives.",
+      "summary": "Requires vehicle manufacturers to provide real-time access to motor vehicle data to vehicle owners and representatives.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-13",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A2531",
+      "legiscanUrl": "https://legiscan.com/NJ/bill/A2531/2026",
+      "legiscanId": 2098648,
+      "sponsors": [
+        "Rosy Bagolie"
+      ]
+    },
+    {
+      "id": "nj-s2316",
+      "billCode": "S2316",
+      "title": "Requires registration of data brokers and prohibits brokering of certain health records.",
+      "summary": "Requires registration of data brokers and prohibits brokering of certain health records.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-13",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/S2316",
+      "legiscanUrl": "https://legiscan.com/NJ/bill/S2316/2026",
+      "legiscanId": 2076393,
+      "sponsors": [
+        "John McKeon"
+      ]
+    },
+    {
+      "id": "nj-a4096",
+      "billCode": "A4096",
+      "title": "Requires data center owners and operators to submit semi-annual water and energy usage reports to BPU.",
+      "summary": "Requires data center owners and operators to submit semi-annual water and energy usage reports to BPU.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-19",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A4096",
+      "legiscanUrl": "https://legiscan.com/NJ/bill/A4096/2026",
+      "legiscanId": 2115159,
+      "sponsors": [
+        "Michael Venezia",
+        "Shama Haider",
+        "Rosy Bagolie"
+      ]
+    },
+    {
+      "id": "nj-a4696",
+      "billCode": "A4696",
+      "title": "Requires owner or operator of data center to submit water and energy usage report to BPU.",
+      "summary": "Requires owner or operator of data center to submit water and energy usage report to BPU.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-16",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A4696",
+      "legiscanUrl": "https://legiscan.com/NJ/bill/A4696/2026",
+      "legiscanId": 2131957,
+      "sponsors": [
+        "Eliana Marin",
+        "Carmen Morales"
+      ]
+    },
+    {
+      "id": "nj-s2274",
+      "billCode": "S2274",
+      "title": "Requires owner or operator of data center to submit water and energy usage report to BPU.",
+      "summary": "Requires owner or operator of data center to submit water and energy usage report to BPU.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-13",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/S2274",
+      "legiscanUrl": "https://legiscan.com/NJ/bill/S2274/2026",
+      "legiscanId": 2076430,
+      "sponsors": [
+        "Teresa Ruiz",
+        "Renee Burgess",
+        "John McKeon"
+      ]
+    }
+  ]
+}

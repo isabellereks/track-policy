@@ -1,0 +1,248 @@
+{
+  "state": "Colorado",
+  "stateCode": "CO",
+  "region": "na",
+  "stance": "concerning",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "Colorado has 12 bills tracked in 2025–2026. 1 is already enacted. 1 relates to moratoriums or prohibitions.",
+  "legislation": [
+    {
+      "id": "co-sb102",
+      "billCode": "SB102",
+      "title": "Large-Load Data Centers",
+      "summary": "Concerning measures to ensure accountability for large-load data centers.",
+      "stage": "Committee",
+      "impactTags": [
+        "grid-capacity"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-11",
+      "partyOrigin": "D",
+      "sourceUrl": "https://leg.colorado.gov/bills/SB26-102",
+      "legiscanUrl": "https://legiscan.com/CO/bill/SB102/2026",
+      "legiscanId": 2114686,
+      "sponsors": [
+        "Cathy Kipp",
+        "Kyle Brown"
+      ]
+    },
+    {
+      "id": "co-hb1049",
+      "billCode": "HB1049",
+      "title": "Prohibit Use of Personally Identifying Feature",
+      "summary": "Concerning prohibiting the use of another individual's personally identifying feature without permission.",
+      "stage": "Dead",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-12",
+      "partyOrigin": "R",
+      "sourceUrl": "https://leg.colorado.gov/bills/HB26-1049",
+      "legiscanUrl": "https://legiscan.com/CO/bill/HB1049/2026",
+      "legiscanId": 2079805,
+      "sponsors": [
+        "Scott Bottoms",
+        "Mark Baisley"
+      ]
+    },
+    {
+      "id": "co-sb071",
+      "billCode": "SB071",
+      "title": "Use of Surveillance Technology by Law Enforcement",
+      "summary": "Concerning the regulation of law enforcement surveillance technologies to protect citizens.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-28",
+      "partyOrigin": "R",
+      "sourceUrl": "https://leg.colorado.gov/bills/SB26-071",
+      "legiscanUrl": "https://legiscan.com/CO/bill/SB071/2026",
+      "legiscanId": 2101418,
+      "sponsors": [
+        "Lynda Zamora Wilson"
+      ]
+    },
+    {
+      "id": "co-hb1030",
+      "billCode": "HB1030",
+      "title": "Data Center & Utility Modernization",
+      "summary": "Concerning facilitation of data center development while supporting utility resources, and, in connection therewith, creating the \"Colorado Data Center Workforce, Clean Energy, Grid Modernization, and Consumer and Environmental Protection Act\".",
+      "stage": "Committee",
+      "impactTags": [
+        "renewable-energy",
+        "grid-capacity",
+        "job-creation"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-14",
+      "partyOrigin": "D",
+      "sourceUrl": "https://leg.colorado.gov/bills/HB26-1030",
+      "legiscanUrl": "https://legiscan.com/CO/bill/HB1030/2026",
+      "legiscanId": 2079907,
+      "sponsors": [
+        "Monica Duran",
+        "Alex Valdez",
+        "Kyle Mullica"
+      ]
+    },
+    {
+      "id": "co-hb1263",
+      "billCode": "HB1263",
+      "title": "Conversational Artificial Intelligence Service Operator Requirements",
+      "summary": "Concerning requirements for an operator of a conversational artificial intelligence service.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-19",
+      "partyOrigin": "B",
+      "sourceUrl": "https://leg.colorado.gov/bills/HB26-1263",
+      "legiscanUrl": "https://legiscan.com/CO/bill/HB1263/2026",
+      "legiscanId": 2121012,
+      "sponsors": [
+        "Sean Camacho",
+        "Javier Mabrey",
+        "John Carson",
+        "Iman Jodeh"
+      ]
+    },
+    {
+      "id": "co-hb1195",
+      "billCode": "HB1195",
+      "title": "Psychotherapy Artificial Intelligence Restrictions",
+      "summary": "Concerning restrictions on the use of artificial intelligence relating to psychotherapy services.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-11",
+      "partyOrigin": "D",
+      "sourceUrl": "https://leg.colorado.gov/bills/HB26-1195",
+      "legiscanUrl": "https://legiscan.com/CO/bill/HB1195/2026",
+      "legiscanId": 2114499,
+      "sponsors": [
+        "Javier Mabrey",
+        "Gretchen Rydin",
+        "Judith Amabile",
+        "Kyle Mullica"
+      ]
+    },
+    {
+      "id": "co-hb1180",
+      "billCode": "HB1180",
+      "title": "Sunset Business Intelligence Center Advisory Board",
+      "summary": "Concerning the continuation of the business intelligence center advisory board, and, in connection therewith, implementing the recommendation of the department of regulatory agencies' 2025 sunset report by repealing the advisory board.",
+      "stage": "Floor",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-02",
+      "partyOrigin": "B",
+      "sourceUrl": "https://leg.colorado.gov/bills/HB26-1180",
+      "legiscanUrl": "https://legiscan.com/CO/bill/HB1180/2026",
+      "legiscanId": 2111852,
+      "sponsors": [
+        "Ryan Gonzalez",
+        "Bob Marshall",
+        "Nick Hinrichsen",
+        "Chad Clifford"
+      ]
+    },
+    {
+      "id": "co-hb1113",
+      "billCode": "HB1113",
+      "title": "Modifications to Elections",
+      "summary": "Concerning modifications to laws regarding elections.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-06",
+      "partyOrigin": "D",
+      "sourceUrl": "https://leg.colorado.gov/bills/HB26-1113",
+      "legiscanUrl": "https://legiscan.com/CO/bill/HB1113/2026",
+      "legiscanId": 2107328,
+      "sponsors": [
+        "Emily Sirota",
+        "Jenny Willford",
+        "Katie Wallace",
+        "Michael Weissman"
+      ]
+    },
+    {
+      "id": "co-hb1039",
+      "billCode": "HB1039",
+      "title": "Adding Municipal Jails to County Jail Oversight Requirements",
+      "summary": "Concerning requirements for municipal jails.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-10",
+      "partyOrigin": "B",
+      "sourceUrl": "https://leg.colorado.gov/bills/HB26-1039",
+      "legiscanUrl": "https://legiscan.com/CO/bill/HB1039/2026",
+      "legiscanId": 2079981,
+      "sponsors": [
+        "Michael Carter",
+        "Naquetta Ricks",
+        "Iman Jodeh",
+        "Michael Weissman"
+      ]
+    },
+    {
+      "id": "co-hb1265",
+      "billCode": "HB1265",
+      "title": "Law Enforcement National Electronic Tracing System & Share Program",
+      "summary": "Concerning a law enforcement agency's use of the United States bureau of alcohol, tobacco, firearms, and explosives' national electronic tracing system.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-12",
+      "partyOrigin": "D",
+      "sourceUrl": "https://leg.colorado.gov/bills/HB26-1265",
+      "legiscanUrl": "https://legiscan.com/CO/bill/HB1265/2026",
+      "legiscanId": 2121082,
+      "sponsors": [
+        "Chad Clifford",
+        "Manny Rutinel",
+        "William Lindstedt",
+        "Katie Wallace"
+      ]
+    },
+    {
+      "id": "co-hb1136",
+      "billCode": "HB1136",
+      "title": "Create Department of Personnel Program Pathways to Public Service",
+      "summary": "Concerning the creation of the pathways to public service program in the department of personnel.",
+      "stage": "Floor",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-02",
+      "partyOrigin": "D",
+      "sourceUrl": "https://leg.colorado.gov/bills/HB26-1136",
+      "legiscanUrl": "https://legiscan.com/CO/bill/HB1136/2026",
+      "legiscanId": 2108134,
+      "sponsors": [
+        "Meghan Lukens",
+        "Matthew Martinez",
+        "William Lindstedt",
+        "Katie Wallace"
+      ]
+    },
+    {
+      "id": "co-hb1173",
+      "billCode": "HB1173",
+      "title": "Capital Construction Information Technology",
+      "summary": "Concerning funding for capital construction information technology, and making supplemental appropriations in connection therewith.",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-26",
+      "partyOrigin": "B",
+      "sourceUrl": "https://leg.colorado.gov/bills/HB26-1173",
+      "legiscanUrl": "https://legiscan.com/CO/bill/HB1173/2026",
+      "legiscanId": 2111270,
+      "sponsors": [
+        "Emily Sirota",
+        "Jeff Bridges",
+        "Kyle Brown",
+        "Rick Taggart"
+      ]
+    }
+  ]
+}

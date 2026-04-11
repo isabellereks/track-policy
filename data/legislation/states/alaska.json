@@ -1,0 +1,231 @@
+{
+  "state": "Alaska",
+  "stateCode": "AK",
+  "region": "na",
+  "stance": "review",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "Alaska has 12 bills tracked in 2025–2026. 2 are already enacted.",
+  "legislation": [
+    {
+      "id": "ak-sb250",
+      "billCode": "SB250",
+      "title": "Data Centers, Utilities",
+      "summary": "An Act relating to data centers; and relating to utility service for data centers.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-18",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB250",
+      "legiscanUrl": "https://legiscan.com/AK/bill/SB250/2025",
+      "legiscanId": 2118926,
+      "sponsors": [
+        "Loki Tobin"
+      ]
+    },
+    {
+      "id": "ak-sjr12",
+      "billCode": "SJR12",
+      "title": "Noaa Buoy Outages",
+      "summary": "Noaa Buoy Outages",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-07-30",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SJR12",
+      "legiscanUrl": "https://legiscan.com/AK/bill/SJR12/2025",
+      "legiscanId": 1985212,
+      "sponsors": [
+        "Forrest Dunbar"
+      ]
+    },
+    {
+      "id": "ak-sb2",
+      "billCode": "SB2",
+      "title": "Ai, Deepfakes, Cybersecurity, Data Xfers",
+      "summary": "An Act relating to disclosure of election-related deepfakes; relating to use of artificial intelligence by state agencies; and relating to transfer of data about individuals between state agencies.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-01-22",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB2",
+      "legiscanUrl": "https://legiscan.com/AK/bill/SB2/2025",
+      "legiscanId": 1912439,
+      "sponsors": [
+        "Shelley Hughes"
+      ]
+    },
+    {
+      "id": "ak-hcr3",
+      "billCode": "HCR3",
+      "title": "Ai Legislative Task Force",
+      "summary": "Ai Legislative Task Force",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-02-26",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HCR3",
+      "legiscanUrl": "https://legiscan.com/AK/bill/HCR3/2025",
+      "legiscanId": 1984991,
+      "sponsors": [
+        "George Rauscher",
+        "Mia Costello",
+        "Ky Holland"
+      ]
+    },
+    {
+      "id": "ak-hb360",
+      "billCode": "HB360",
+      "title": "State Apprenticeshp Office; Council",
+      "summary": "An Act relating to apprenticeship programs; establishing a state apprenticeship office; and establishing the Alaska Apprenticeship Advisory Council.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-23",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB360",
+      "legiscanUrl": "https://legiscan.com/AK/bill/HB360/2025",
+      "legiscanId": 2122380,
+      "sponsors": [
+        "Mia Costello"
+      ]
+    },
+    {
+      "id": "ak-hb57",
+      "billCode": "HB57",
+      "title": "Schools: Comm. Devices/class Size/funding",
+      "summary": "An Act relating to maximum classroom sizes in public schools; relating to education reports; relating to charter schools; relating to student transportation funding; relating to secondary school vocational and technical instruction funding; relating to the base student allocat...",
+      "stage": "Enacted",
+      "impactTags": [
+        "job-creation",
+        "child-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-07-30",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB57",
+      "legiscanUrl": "https://legiscan.com/AK/bill/HB57/2025",
+      "legiscanId": 1934839,
+      "sponsors": [
+        "William Fields",
+        "Andrew Josephson",
+        "Calvin Schrage",
+        "Ashley Carrick"
+      ]
+    },
+    {
+      "id": "ak-sb33",
+      "billCode": "SB33",
+      "title": "Synthetic Media: Liability; Elections",
+      "summary": "An Act relating to defamation claims based on the use of synthetic media; relating to the use of synthetic media in electioneering communications; and providing for an effective date.",
+      "stage": "Committee",
+      "impactTags": [
+        "deepfake-regulation"
+      ],
+      "category": "synthetic-media",
+      "updatedDate": "2025-01-22",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB33",
+      "legiscanUrl": "https://legiscan.com/AK/bill/SB33/2025",
+      "legiscanId": 1912476,
+      "sponsors": [
+        "Mike Cronk"
+      ]
+    },
+    {
+      "id": "ak-hb96",
+      "billCode": "HB96",
+      "title": "Home Care Employment Standards Adv Board",
+      "summary": "An Act establishing the Home Care Employment Standards Advisory Board; relating to payment for personal care services; and providing for an effective date.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-02-12",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB96",
+      "legiscanUrl": "https://legiscan.com/AK/bill/HB96/2025",
+      "legiscanId": 1967556,
+      "sponsors": [
+        "Mike Prax",
+        "William Fields",
+        "Charles Kopp",
+        "Nellie Jimmie"
+      ]
+    },
+    {
+      "id": "ak-sb121",
+      "billCode": "SB121",
+      "title": "Health Insurance Allowable Charges",
+      "summary": "An Act relating to settlement of health insurance claims; relating to allowable charges for health care services or supplies; and providing for an effective date.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-03-05",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB121",
+      "legiscanUrl": "https://legiscan.com/AK/bill/SB121/2025",
+      "legiscanId": 1992457,
+      "sponsors": [
+        "Catherine Giessel"
+      ]
+    },
+    {
+      "id": "ak-hb327",
+      "billCode": "HB327",
+      "title": "Rename Pfd Resource Dividend",
+      "summary": "An Act relating to dividends for state residents; relating to the dividend fund; and providing for an effective date.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-23",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB327",
+      "legiscanUrl": "https://legiscan.com/AK/bill/HB327/2025",
+      "legiscanId": 2122503,
+      "sponsors": [
+        "Rebecca Schwanke"
+      ]
+    },
+    {
+      "id": "ak-sb154",
+      "billCode": "SB154",
+      "title": "Home Care Employment Standards Adv Board",
+      "summary": "An Act establishing the Home Care Employment Standards Advisory Board; relating to payment for personal care services; and providing for an effective date.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-04-02",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB154",
+      "legiscanUrl": "https://legiscan.com/AK/bill/SB154/2025",
+      "legiscanId": 2019211,
+      "sponsors": [
+        "Robert Yundt",
+        "Forrest Dunbar",
+        "Jesse Bjorkman",
+        "Catherine Giessel"
+      ]
+    },
+    {
+      "id": "ak-hb358",
+      "billCode": "HB358",
+      "title": "Career And Technical Education Grants",
+      "summary": "An Act establishing the career and technical education mobility grant program; relating to pre-apprenticeship and work-based learning opportunities for secondary school students; and providing for an effective date.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-23",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB358",
+      "legiscanUrl": "https://legiscan.com/AK/bill/HB358/2025",
+      "legiscanId": 2122415,
+      "sponsors": [
+        "Bill Elam",
+        "Kevin McCabe"
+      ]
+    }
+  ]
+}

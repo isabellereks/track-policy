@@ -1,0 +1,229 @@
+{
+  "state": "Louisiana",
+  "stateCode": "LA",
+  "region": "na",
+  "stance": "concerning",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "Louisiana has 12 bills tracked in 2025–2026. 3 relate to moratoriums or prohibitions.",
+  "legislation": [
+    {
+      "id": "la-hb1206",
+      "billCode": "HB1206",
+      "title": "Provides relative to permitting and reporting of water usage at data centers",
+      "summary": "Provides relative to permitting and reporting of water usage at data centers",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-31",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=HB1206&sbi=y",
+      "legiscanUrl": "https://legiscan.com/LA/bill/HB1206/2026",
+      "legiscanId": 2139959,
+      "sponsors": [
+        "Joy Walters"
+      ]
+    },
+    {
+      "id": "la-sb246",
+      "billCode": "SB246",
+      "title": "Establishes requirements for health insurance issuers using artificial intelligence or automated decision systems. (8/1/26)",
+      "summary": "Establishes requirements for health insurance issuers using artificial intelligence or automated decision systems. (8/1/26)",
+      "stage": "Committee",
+      "impactTags": [
+        "algorithmic-transparency"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-26",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=SB246&sbi=y",
+      "legiscanUrl": "https://legiscan.com/LA/bill/SB246/2026",
+      "legiscanId": 2125880,
+      "sponsors": [
+        "W. Jay Luneau",
+        "Regina Barrow"
+      ]
+    },
+    {
+      "id": "la-sb346",
+      "billCode": "SB346",
+      "title": "Prohibits the use of deepfake material against students enrolled in K-12. (8/1/26)",
+      "summary": "Prohibits the use of deepfake material against students enrolled in K-12. (8/1/26)",
+      "stage": "Committee",
+      "impactTags": [
+        "deepfake-regulation"
+      ],
+      "category": "synthetic-media",
+      "updatedDate": "2026-02-27",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=SB346&sbi=y",
+      "legiscanUrl": "https://legiscan.com/LA/bill/SB346/2026",
+      "legiscanId": 2127071,
+      "sponsors": [
+        "Regina Barrow"
+      ]
+    },
+    {
+      "id": "la-hb922",
+      "billCode": "HB922",
+      "title": "Provides relative to increases for certain utility rates",
+      "summary": "Provides relative to increases for certain utility rates",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-27",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=HB922&sbi=y",
+      "legiscanUrl": "https://legiscan.com/LA/bill/HB922/2026",
+      "legiscanId": 2127129,
+      "sponsors": [
+        "Rodney Schamerhorn",
+        "Wilford Carter"
+      ]
+    },
+    {
+      "id": "la-sb274",
+      "billCode": "SB274",
+      "title": "Provides for lead hazard risk assessments for certain child care facilities and prekindergarten programs. (8/1/26) (RE INCREASE SG EX See Note)",
+      "summary": "Provides for lead hazard risk assessments for certain child care facilities and prekindergarten programs. (8/1/26) (RE INCREASE SG EX See Note)",
+      "stage": "Committee",
+      "impactTags": [
+        "child-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-27",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=SB274&sbi=y",
+      "legiscanUrl": "https://legiscan.com/LA/bill/SB274/2026",
+      "legiscanId": 2126289,
+      "sponsors": [
+        "Rick Edmonds"
+      ]
+    },
+    {
+      "id": "la-hb821",
+      "billCode": "HB821",
+      "title": "Provides for the establishment of the Louisiana Center for Safe Schools within the Louisiana Commission on Law Enforcement and Administration of Criminal Justice (EG +$250,000 GF EX See Note)",
+      "summary": "Provides for the establishment of the Louisiana Center for Safe Schools within the Louisiana Commission on Law Enforcement and Administration of Criminal Justice (EG +$250,000 GF EX See Note)",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-27",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=HB821&sbi=y",
+      "legiscanUrl": "https://legiscan.com/LA/bill/HB821/2026",
+      "legiscanId": 2126564,
+      "sponsors": [
+        "Jack McFarland"
+      ]
+    },
+    {
+      "id": "la-hb632",
+      "billCode": "HB632",
+      "title": "Provides relative to information sharing for the purposes of Louisiana's Foundational Integrated Research System for Transformation (LA FIRST)",
+      "summary": "Provides relative to information sharing for the purposes of Louisiana's Foundational Integrated Research System for Transformation (LA FIRST)",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-27",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=HB632&sbi=y",
+      "legiscanUrl": "https://legiscan.com/LA/bill/HB632/2026",
+      "legiscanId": 2126336,
+      "sponsors": [
+        "Annie Spell"
+      ]
+    },
+    {
+      "id": "la-hb734",
+      "billCode": "HB734",
+      "title": "Creates a consumer bill of rights regarding artificial intelligence",
+      "summary": "Creates a consumer bill of rights regarding artificial intelligence",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-27",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=HB734&sbi=y",
+      "legiscanUrl": "https://legiscan.com/LA/bill/HB734/2026",
+      "legiscanId": 2126472,
+      "sponsors": [
+        "Josh Carlson",
+        "Daryl Deshotel",
+        "Laurie Schlegel",
+        "Kim Carver"
+      ]
+    },
+    {
+      "id": "la-hb119",
+      "billCode": "HB119",
+      "title": "Provides relative to unlawful conduct involving images of another person created by artificial intelligence (RE SEE FISC NOTE GF EX)",
+      "summary": "Provides relative to unlawful conduct involving images of another person created by artificial intelligence (RE SEE FISC NOTE GF EX)",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-31",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=HB119&sbi=y",
+      "legiscanUrl": "https://legiscan.com/LA/bill/HB119/2026",
+      "legiscanId": 2116827,
+      "sponsors": [
+        "Bryan Fontenot",
+        "Alonzo Knox"
+      ]
+    },
+    {
+      "id": "la-hb639",
+      "billCode": "HB639",
+      "title": "Requires disclosure of the use of artificial intelligence in telephone campaign communications",
+      "summary": "Requires disclosure of the use of artificial intelligence in telephone campaign communications",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-27",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=HB639&sbi=y",
+      "legiscanUrl": "https://legiscan.com/LA/bill/HB639/2026",
+      "legiscanId": 2126197,
+      "sponsors": [
+        "Mike Bayham"
+      ]
+    },
+    {
+      "id": "la-hb1184",
+      "billCode": "HB1184",
+      "title": "Prohibits public contracts with entities owned or controlled by foreign adversaries for the provision of artificial intelligence technology",
+      "summary": "Prohibits public contracts with entities owned or controlled by foreign adversaries for the provision of artificial intelligence technology",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-31",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=HB1184&sbi=y",
+      "legiscanUrl": "https://legiscan.com/LA/bill/HB1184/2026",
+      "legiscanId": 2139936,
+      "sponsors": [
+        "Josh Carlson"
+      ]
+    },
+    {
+      "id": "la-sb42",
+      "billCode": "SB42",
+      "title": "Prohibits using artificial intelligence to create child sexual abuse materials. (8/1/26)",
+      "summary": "Prohibits using artificial intelligence to create child sexual abuse materials. (8/1/26)",
+      "stage": "Committee",
+      "impactTags": [
+        "child-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-24",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=SB42&sbi=y",
+      "legiscanUrl": "https://legiscan.com/LA/bill/SB42/2026",
+      "legiscanId": 2112921,
+      "sponsors": [
+        "Rick Edmonds",
+        "Blake Miguez"
+      ]
+    }
+  ]
+}

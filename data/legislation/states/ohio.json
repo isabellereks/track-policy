@@ -1,0 +1,262 @@
+{
+  "state": "Ohio",
+  "stateCode": "OH",
+  "region": "na",
+  "stance": "concerning",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "Ohio has 12 bills tracked in 2025–2026. 4 relate to moratoriums or prohibitions. 1 offers incentives or exemptions.",
+  "legislation": [
+    {
+      "id": "oh-sb374",
+      "billCode": "SB374",
+      "title": "Prohibit new data center sales tax exemptions",
+      "summary": "To amend section 122.175 of the Revised Code to prohibit new data center sales tax exemptions from being granted.",
+      "stage": "Filed",
+      "impactTags": [
+        "tax-incentives"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-11",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.legislature.ohio.gov/legislation/136/sb374",
+      "legiscanUrl": "https://legiscan.com/OH/bill/SB374/2025",
+      "legiscanId": 2132321,
+      "sponsors": [
+        "Kent Smith",
+        "Louis Blessing",
+        "Nickie Antonio",
+        "Willis Blackshear"
+      ]
+    },
+    {
+      "id": "oh-hb628",
+      "billCode": "HB628",
+      "title": "License artificial intelligence risk mitigation organizations",
+      "summary": "To enact sections 3755.01, 3755.02, 3755.03, 3755.04, 3755.041, 3755.05, 3755.06, 3755.07, 3755.08, 3755.09, 3755.091, 3755.10, 3755.11, and 3755.12 of the Revised Code to create an independent verification organization license for verifying artificial intelligence risk mitiga...",
+      "stage": "Filed",
+      "impactTags": [
+        "ai-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-12-11",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.legislature.ohio.gov/legislation/136/hb628",
+      "legiscanUrl": "https://legiscan.com/OH/bill/HB628/2025",
+      "legiscanId": 2058716,
+      "sponsors": [
+        "Ty Mathews",
+        "Kellie Deeter",
+        "Tex Fischer",
+        "Thomas Hall"
+      ]
+    },
+    {
+      "id": "oh-hb185",
+      "billCode": "HB185",
+      "title": "Regards an individual's persona usage; prohibit certain deepfakes",
+      "summary": "To amend sections 2741.01, 2741.02, 2741.05, 2741.06, 2741.09, and 2905.11 and to enact sections 2742.01, 2742.02, 2742.03, and 2742.04 of the Revised Code to make changes to the law relating to the unauthorized use of an individual's persona and to prohibit certain unauthoriz...",
+      "stage": "Filed",
+      "impactTags": [
+        "deepfake-regulation"
+      ],
+      "category": "synthetic-media",
+      "updatedDate": "2025-03-19",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.legislature.ohio.gov/legislation/136/hb185",
+      "legiscanUrl": "https://legiscan.com/OH/bill/HB185/2025",
+      "legiscanId": 2011530,
+      "sponsors": [
+        "Adam Mathews",
+        "Ty Mathews"
+      ]
+    },
+    {
+      "id": "oh-hb807",
+      "billCode": "HB807",
+      "title": "Prohibit selling sensitive personal data for profit",
+      "summary": "To amend sections 1347.01, 1347.10, and 1347.99 and to enact section 1347.072 of the Revised Code to prohibit various government and private entities from selling sensitive personal data to a data broker or private entity with the intent of generating profit, unless used for a...",
+      "stage": "Filed",
+      "impactTags": [
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-03-31",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.legislature.ohio.gov/legislation/136/hb807",
+      "legiscanUrl": "https://legiscan.com/OH/bill/HB807/2025",
+      "legiscanId": 2139696,
+      "sponsors": [
+        "Christine Cockley",
+        "Tristan Rader",
+        "Munira Abdullahi",
+        "Sean Brennan"
+      ]
+    },
+    {
+      "id": "oh-hb646",
+      "billCode": "HB646",
+      "title": "Create the Data Center Study Commission",
+      "summary": "To create the Data Center Study Commission.",
+      "stage": "Floor",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-18",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.legislature.ohio.gov/legislation/136/hb646",
+      "legiscanUrl": "https://legiscan.com/OH/bill/HB646/2025",
+      "legiscanId": 2077670,
+      "sponsors": [
+        "Gary Click",
+        "Kellie Deeter",
+        "Munira Abdullahi",
+        "Tim Barhorst"
+      ]
+    },
+    {
+      "id": "oh-sb19",
+      "billCode": "SB19",
+      "title": "Regards academic intervention, math improvement and intervention",
+      "summary": "To amend sections 3301.0714, 3302.03, 3314.03, 3317.25, 3324.10, and 3326.11; to enact new section 3313.6032 and sections 3302.131, 3302.132, 3313.6034, 3313.6035, 3319.2214, and 3319.2311; and to repeal section 3313.6032 of the Revised Code with regard to academic interventio...",
+      "stage": "Floor",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-11-19",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.legislature.ohio.gov/legislation/136/sb19",
+      "legiscanUrl": "https://legiscan.com/OH/bill/SB19/2025",
+      "legiscanId": 1937109,
+      "sponsors": [
+        "Andrew Brenner",
+        "Brian Chavez",
+        "Jerry Cirino",
+        "Theresa Gavarone"
+      ]
+    },
+    {
+      "id": "oh-hb455",
+      "billCode": "HB455",
+      "title": "Regards the operation of public schools and the DEW",
+      "summary": "To amend sections 109.57, 109.803, 124.011, 133.06, 135.142, 135.143, 149.41, 2915.092, 2921.44, 3301.07, 3301.079, 3301.0710, 3301.0711, 3301.0712, 3301.0714, 3301.0715, 3301.0716, 3301.0730, 3301.111, 3301.12, 3301.45, 3301.52, 3302.01, 3302.02, 3302.021, 3302.03, 3302.034, ...",
+      "stage": "Floor",
+      "impactTags": [
+        "job-creation"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-11-19",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.legislature.ohio.gov/legislation/136/hb455",
+      "legiscanUrl": "https://legiscan.com/OH/bill/HB455/2025",
+      "legiscanId": 2044413,
+      "sponsors": [
+        "Gayle Manning",
+        "Adam Bird",
+        "Sean Brennan",
+        "Gary Click"
+      ]
+    },
+    {
+      "id": "oh-hb710",
+      "billCode": "HB710",
+      "title": "Prohibit public support, limit construction of, new data centers",
+      "summary": "To amend section 163.01 and to enact sections 9.71, 9.711, and 4933.71 of the Revised Code to prohibit public support for, and limit the construction of, new data centers.",
+      "stage": "Filed",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-24",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.legislature.ohio.gov/legislation/136/hb710",
+      "legiscanUrl": "https://legiscan.com/OH/bill/HB710/2025",
+      "legiscanId": 2123772,
+      "sponsors": [
+        "Steve Demetriou",
+        "Heidi Workman"
+      ]
+    },
+    {
+      "id": "oh-sb378",
+      "billCode": "SB378",
+      "title": "Enact the Responsible Water Use by Data Centers Act",
+      "summary": "To amend sections 1521.01 and 1521.99 and to enact sections 9.72 and 1521.232 of the Revised Code regarding the withdrawal and consumptive use of water by data centers and to name the act the Responsible Water Use by Data Centers Act.",
+      "stage": "Filed",
+      "impactTags": [
+        "water-consumption"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-16",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.legislature.ohio.gov/legislation/136/sb378",
+      "legiscanUrl": "https://legiscan.com/OH/bill/SB378/2025",
+      "legiscanId": 2134320,
+      "sponsors": [
+        "Willis Blackshear",
+        "Casey Weinstein",
+        "Kent Smith"
+      ]
+    },
+    {
+      "id": "oh-hb706",
+      "billCode": "HB706",
+      "title": "Impose certain minimum requirements on data center customers",
+      "summary": "To enact sections 4934.01, 4934.02, 4934.03, 4934.04, 4934.05, 4934.06, 4934.07, 4934.08, 4934.09, 4934.10, 4934.11, and 4934.12 of the Revised Code to impose certain minimum requirements on data center customers in the state.",
+      "stage": "Filed",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-17",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.legislature.ohio.gov/legislation/136/hb706",
+      "legiscanUrl": "https://legiscan.com/OH/bill/HB706/2025",
+      "legiscanId": 2118217,
+      "sponsors": [
+        "Tristan Rader",
+        "David Thomas",
+        "Munira Abdullahi",
+        "Sean Brennan"
+      ]
+    },
+    {
+      "id": "oh-sb381",
+      "billCode": "SB381",
+      "title": "Require PUCO approval to connect data centers to electrical grid",
+      "summary": "To enact sections 4908.01, 4908.02, 4908.021, 4908.022, 4908.023, 4908.03, 4908.031, 4908.032, 4908.033, 4908.034, 4908.04, 4908.041, 4908.042, 4908.05, 4908.051, 4908.052, 4908.053, and 4908.06 of the Revised Code to require the Public Utility Commission's approval of agreeme...",
+      "stage": "Filed",
+      "impactTags": [
+        "grid-capacity"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-19",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.legislature.ohio.gov/legislation/136/sb381",
+      "legiscanUrl": "https://legiscan.com/OH/bill/SB381/2025",
+      "legiscanId": 2136140,
+      "sponsors": [
+        "Casey Weinstein",
+        "Willis Blackshear",
+        "Hearcel Craig",
+        "William DeMora"
+      ]
+    },
+    {
+      "id": "oh-hb784",
+      "billCode": "HB784",
+      "title": "Require data center water consumption reports",
+      "summary": "To enact sections 9.484 and 1521.301 of the Revised Code to require data centers to report monthly and yearly water consumption and to prohibit data centers from including water consumption information in nondisclosure agreements with political subdivisions.",
+      "stage": "Filed",
+      "impactTags": [
+        "water-consumption",
+        "nda-transparency"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-24",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.legislature.ohio.gov/legislation/136/hb784",
+      "legiscanUrl": "https://legiscan.com/OH/bill/HB784/2025",
+      "legiscanId": 2137916,
+      "sponsors": [
+        "Christine Cockley",
+        "Crystal Lett",
+        "Munira Abdullahi",
+        "Joseph Miller"
+      ]
+    }
+  ]
+}

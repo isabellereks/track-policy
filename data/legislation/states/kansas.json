@@ -1,0 +1,225 @@
+{
+  "state": "Kansas",
+  "stateCode": "KS",
+  "region": "na",
+  "stance": "restrictive",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "Kansas has 12 bills tracked in 2025–2026. 4 are already enacted. 4 relate to moratoriums or prohibitions. 3 offer incentives or exemptions.",
+  "legislation": [
+    {
+      "id": "ks-sb526",
+      "billCode": "SB526",
+      "title": "Requiring data centers to be located on land that was zoned for industrial or manufacturing uses or was not zoned on July 1, 2025, to qualify for the sales tax exemption for qualified data centers.",
+      "summary": "Requiring data centers to be located on land that was zoned for industrial or manufacturing uses or was not zoned on July 1, 2025, to qualify for the sales tax exemption for qualified data centers.",
+      "stage": "Committee",
+      "impactTags": [
+        "tax-incentives"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-04",
+      "sourceUrl": "https://kslegislature.gov/li/b2025_26/measures/sb526/",
+      "legiscanUrl": "https://legiscan.com/KS/bill/SB526/2025",
+      "legiscanId": 2129289,
+      "sponsors": [
+        "Assessment and Taxation"
+      ]
+    },
+    {
+      "id": "ks-hb2313",
+      "billCode": "HB2313",
+      "title": "Senate Substitute for HB 2313 by Committee on Federal and State Affairs - Prohibiting the use of the artificial intelligence platform DeepSeek and other artificial intelligence platforms controlled by a country of concern on state-owned devices and on any state network and the use of genetic sequencers or operational software used for genetic analysis that is produced in a foreign adversary.",
+      "summary": "Senate Substitute for HB 2313 by Committee on Federal and State Affairs - Prohibiting the use of the artificial intelligence platform DeepSeek and other artificial intelligence platforms controlled by a country of concern on state-owned devices and on any state network and the...",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-04-10",
+      "sourceUrl": "https://kslegislature.gov/li/b2025_26/measures/hb2313/",
+      "legiscanUrl": "https://legiscan.com/KS/bill/HB2313/2025",
+      "legiscanId": 1959326,
+      "sponsors": [
+        "Federal and State Affairs"
+      ]
+    },
+    {
+      "id": "ks-sb51",
+      "billCode": "SB51",
+      "title": "House Substitute for SB 51 by Committee on Legislative Modernization - Authorizing the chief information security officer to receive audit reports, updating statutes related to services provided by the chief information technology officer and authorizing the office of information technology services to provide certain services to political subdivisions and hospitals.",
+      "summary": "House Substitute for SB 51 by Committee on Legislative Modernization - Authorizing the chief information security officer to receive audit reports, updating statutes related to services provided by the chief information technology officer and authorizing the office of informat...",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-02-20",
+      "sourceUrl": "https://kslegislature.gov/li/b2025_26/measures/sb51/",
+      "legiscanUrl": "https://legiscan.com/KS/bill/SB51/2025",
+      "legiscanId": 1931363,
+      "sponsors": [
+        "Legislative Modernization"
+      ]
+    },
+    {
+      "id": "ks-sb98",
+      "billCode": "SB98",
+      "title": "Providing a sales tax exemption for the construction or remodeling of a qualified data center in Kansas and the purchase of data center equipment, eligible data center costs and certain labor costs to qualified firms that commit to a minimum investment of at least $250,000,000 and meet new Kansas jobs and other requirements.",
+      "summary": "Providing a sales tax exemption for the construction or remodeling of a qualified data center in Kansas and the purchase of data center equipment, eligible data center costs and certain labor costs to qualified firms that commit to a minimum investment of at least $250,000,000...",
+      "stage": "Enacted",
+      "impactTags": [
+        "tax-incentives",
+        "economic-development"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-04-11",
+      "partyOrigin": "R",
+      "sourceUrl": "https://kslegislature.gov/li/b2025_26/measures/sb98/",
+      "legiscanUrl": "https://legiscan.com/KS/bill/SB98/2025",
+      "legiscanId": 1946546,
+      "sponsors": [
+        "Tim Shallenburger"
+      ]
+    },
+    {
+      "id": "ks-sb531",
+      "billCode": "SB531",
+      "title": "Prohibiting the development or operation of any new large load data center in a county that has had a drought emergency declared for such county pursuant to the Kansas emergency management act within the preceding three years.",
+      "summary": "Prohibiting the development or operation of any new large load data center in a county that has had a drought emergency declared for such county pursuant to the Kansas emergency management act within the preceding three years.",
+      "stage": "Committee",
+      "impactTags": [
+        "grid-capacity"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-09",
+      "sourceUrl": "https://kslegislature.gov/li/b2025_26/measures/sb531/",
+      "legiscanUrl": "https://legiscan.com/KS/bill/SB531/2025",
+      "legiscanId": 2131327,
+      "sponsors": [
+        "Federal and State Affairs"
+      ]
+    },
+    {
+      "id": "ks-hb2329",
+      "billCode": "HB2329",
+      "title": "Changing the name of juvenile crisis intervention centers to juvenile stabilization centers, modifying the intake criteria for such centers, prohibiting certain rules and regulations for such centers, modifying the treatment and services provided by such centers, increasing the cumulative detention limit for juvenile offenders and criminal penalties for juvenile offenders who use a firearm in the commission of an offense or who are repeat offenders, providing for increased placement of offenders in non-foster home beds in youth residential facilities, requiring the secretary of corrections to pay for the costs associated with such placements, authorizing the secretary to make expenditures from the evidence-based programs account of the state general fund moneys to contract for such beds and transferring moneys from such account of the state general fund to the department for children and families to provide juvenile stabilization services.",
+      "summary": "Changing the name of juvenile crisis intervention centers to juvenile stabilization centers, modifying the intake criteria for such centers, prohibiting certain rules and regulations for such centers, modifying the treatment and services provided by such centers, increasing th...",
+      "stage": "Enacted",
+      "impactTags": [
+        "residential-proximity",
+        "child-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-09",
+      "sourceUrl": "https://kslegislature.gov/li/b2025_26/measures/hb2329/",
+      "legiscanUrl": "https://legiscan.com/KS/bill/HB2329/2025",
+      "legiscanId": 1962315,
+      "sponsors": [
+        "Corrections and Juvenile Justice"
+      ]
+    },
+    {
+      "id": "ks-sb400",
+      "billCode": "SB400",
+      "title": "Requiring data centers to use closed-loop cooling systems to mitigate water consumption.",
+      "summary": "Requiring data centers to use closed-loop cooling systems to mitigate water consumption.",
+      "stage": "Committee",
+      "impactTags": [
+        "water-consumption"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-27",
+      "sourceUrl": "https://kslegislature.gov/li/b2025_26/measures/sb400/",
+      "legiscanUrl": "https://legiscan.com/KS/bill/SB400/2025",
+      "legiscanId": 2094944,
+      "sponsors": [
+        "Utilities"
+      ]
+    },
+    {
+      "id": "ks-sb405",
+      "billCode": "SB405",
+      "title": "Making it unlawful for a person to knowingly train artificial intelligence to encourage or support suicide or the unlawful killing of another person, provide emotional support, develop emotional relationships, act as a healthcare professional, simulate humans or encourage isolation.",
+      "summary": "Making it unlawful for a person to knowingly train artificial intelligence to encourage or support suicide or the unlawful killing of another person, provide emotional support, develop emotional relationships, act as a healthcare professional, simulate humans or encourage isol...",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-28",
+      "sourceUrl": "https://kslegislature.gov/li/b2025_26/measures/sb405/",
+      "legiscanUrl": "https://legiscan.com/KS/bill/SB405/2025",
+      "legiscanId": 2100899,
+      "sponsors": [
+        "Federal and State Affairs"
+      ]
+    },
+    {
+      "id": "ks-hb2183",
+      "billCode": "HB2183",
+      "title": "Modifying elements in the crimes of sexual exploitation of a child, unlawful transmission of a visual depiction of a child and breach of privacy to prohibit certain acts related to visual depictions in which the person depicted is indistinguishable from a real child, morphed from a real child's image or generated without any actual child involvement, provide an exception for cable services in the crime of breach of privacy and prohibit dissemination of certain items that appear to depict or purport to depict an identifiable person.",
+      "summary": "Modifying elements in the crimes of sexual exploitation of a child, unlawful transmission of a visual depiction of a child and breach of privacy to prohibit certain acts related to visual depictions in which the person depicted is indistinguishable from a real child, morphed f...",
+      "stage": "Enacted",
+      "impactTags": [
+        "grid-capacity",
+        "child-safety",
+        "data-privacy"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-06",
+      "sourceUrl": "https://kslegislature.gov/li/b2025_26/measures/hb2183/",
+      "legiscanUrl": "https://legiscan.com/KS/bill/HB2183/2025",
+      "legiscanId": 1948632,
+      "sponsors": [
+        "Judiciary"
+      ]
+    },
+    {
+      "id": "ks-hb2664",
+      "billCode": "HB2664",
+      "title": "Establishing the private energy campus and industrial host-site electric generation act to authorize the provision of energy services to private enterprises located on a private energy campus.",
+      "summary": "Establishing the private energy campus and industrial host-site electric generation act to authorize the provision of energy services to private enterprises located on a private energy campus.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-03",
+      "partyOrigin": "R",
+      "sourceUrl": "https://kslegislature.gov/li/b2025_26/measures/hb2664/",
+      "legiscanUrl": "https://legiscan.com/KS/bill/HB2664/2025",
+      "legiscanId": 2105100,
+      "sponsors": [
+        "Lance Neelly",
+        "David Buehler",
+        "Timothy Johnson",
+        "Pat Proctor"
+      ]
+    },
+    {
+      "id": "ks-hb2475",
+      "billCode": "HB2475",
+      "title": "Providing a sales tax exemption for purchases made by radical life inc.",
+      "summary": "Providing a sales tax exemption for purchases made by radical life inc.",
+      "stage": "Committee",
+      "impactTags": [
+        "tax-incentives"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-20",
+      "sourceUrl": "https://kslegislature.gov/li/b2025_26/measures/hb2475/",
+      "legiscanUrl": "https://legiscan.com/KS/bill/HB2475/2025",
+      "legiscanId": 2087018,
+      "sponsors": [
+        "Taxation"
+      ]
+    },
+    {
+      "id": "ks-hb2366",
+      "billCode": "HB2366",
+      "title": "Expanding the scope of practice of naturopathic doctors, specifying continuing education requirements, increasing the required amount of professional liability insurance and modifying certain provisions relating to the licensure and regulations of naturopathic doctors.",
+      "summary": "Expanding the scope of practice of naturopathic doctors, specifying continuing education requirements, increasing the required amount of professional liability insurance and modifying certain provisions relating to the licensure and regulations of naturopathic doctors.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-02-07",
+      "sourceUrl": "https://kslegislature.gov/li/b2025_26/measures/hb2366/",
+      "legiscanUrl": "https://legiscan.com/KS/bill/HB2366/2025",
+      "legiscanId": 1962573,
+      "sponsors": [
+        "Health and Human Services"
+      ]
+    }
+  ]
+}

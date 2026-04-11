@@ -1,0 +1,220 @@
+{
+  "state": "Massachusetts",
+  "stateCode": "MA",
+  "region": "na",
+  "stance": "review",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "Massachusetts has 12 bills tracked in 2025–2026. 1 is already enacted.",
+  "legislation": [
+    {
+      "id": "ma-s50",
+      "billCode": "S50",
+      "title": "Establishing a career-to-education data center",
+      "summary": "For legislation to establish a career-to-education data center within the Executive Office of Technology Services and Security. Advanced Information Technology, the Internet and Cybersecurity.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-02-27",
+      "partyOrigin": "D",
+      "sourceUrl": "https://malegislature.gov/Bills/194/S50",
+      "legiscanUrl": "https://legiscan.com/MA/bill/S50/2025",
+      "legiscanId": 1997265,
+      "sponsors": [
+        "Pavel Payano"
+      ]
+    },
+    {
+      "id": "ma-h97",
+      "billCode": "H97",
+      "title": "Protecting consumers in interactions with artificial intelligence systems",
+      "summary": "Relative to consumers interactions with artificial intelligence systems. Advanced Information Technology, the Internet and Cybersecurity.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-02-27",
+      "partyOrigin": "D",
+      "sourceUrl": "https://malegislature.gov/Bills/194/H97",
+      "legiscanUrl": "https://legiscan.com/MA/bill/H97/2025",
+      "legiscanId": 2000828,
+      "sponsors": [
+        "David Rogers",
+        "Andres Vargas"
+      ]
+    },
+    {
+      "id": "ma-h4640",
+      "billCode": "H4640",
+      "title": "To implement the recommendations of the special commission on facial recognition technology",
+      "summary": "To implement the recommendations of the special commission on facial recognition technology",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-criminal-justice",
+      "updatedDate": "2025-10-23",
+      "sourceUrl": "https://malegislature.gov/Bills/194/H4640",
+      "legiscanUrl": "https://legiscan.com/MA/bill/H4640/2025",
+      "legiscanId": 2047297,
+      "sponsors": [
+        "Joint Committee on the Judiciary"
+      ]
+    },
+    {
+      "id": "ma-h630",
+      "billCode": "H630",
+      "title": "Establishing an education-to-career data center",
+      "summary": "For legislation to establish a education-to-career data center. Education.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-02-27",
+      "partyOrigin": "D",
+      "sourceUrl": "https://malegislature.gov/Bills/194/H630",
+      "legiscanUrl": "https://legiscan.com/MA/bill/H630/2025",
+      "legiscanId": 2001692,
+      "sponsors": [
+        "Kate Lipper-Garabedian",
+        "Manny Cruz"
+      ]
+    },
+    {
+      "id": "ma-h1356",
+      "billCode": "H1356",
+      "title": "Relative to transparency of hospital and health system finances",
+      "summary": "Relative to hospital and health system finances. Health Care Financing.",
+      "stage": "Committee",
+      "impactTags": [
+        "nda-transparency"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-02-27",
+      "partyOrigin": "D",
+      "sourceUrl": "https://malegislature.gov/Bills/194/H1356",
+      "legiscanUrl": "https://legiscan.com/MA/bill/H1356/2025",
+      "legiscanId": 2003180,
+      "sponsors": [
+        "Mark Cusack"
+      ]
+    },
+    {
+      "id": "ma-s909",
+      "billCode": "S909",
+      "title": "Empowering patients and entrepreneurs with real transparency on cost",
+      "summary": "For legislation to empower patients and entrepreneurs with real transparency on cost. Health Care Financing.",
+      "stage": "Committee",
+      "impactTags": [
+        "nda-transparency"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-02-27",
+      "partyOrigin": "R",
+      "sourceUrl": "https://malegislature.gov/Bills/194/S909",
+      "legiscanUrl": "https://legiscan.com/MA/bill/S909/2025",
+      "legiscanId": 1997098,
+      "sponsors": [
+        "Bruce Tarr"
+      ]
+    },
+    {
+      "id": "ma-h4530",
+      "billCode": "H4530",
+      "title": "Making appropriations for fiscal year 2025 to provide for supplementing certain existing appropriations and for certain other activities and projects",
+      "summary": "Making appropriations for fiscal year 2025 to provide for supplementing certain existing appropriations and for certain other activities and projects",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-09-22",
+      "sourceUrl": "https://malegislature.gov/Bills/194/H4530",
+      "legiscanUrl": "https://legiscan.com/MA/bill/H4530/2025",
+      "legiscanId": 2044124,
+      "sponsors": [
+        "House Committee on Ways and Means"
+      ]
+    },
+    {
+      "id": "ma-h495",
+      "billCode": "H495",
+      "title": "Reducing emissions from artificial intelligence",
+      "summary": "Relative to reducing emissions from artificial intelligence. Economic Development and Emerging Technologies.",
+      "stage": "Committee",
+      "impactTags": [
+        "carbon-emissions",
+        "economic-development"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-02-27",
+      "partyOrigin": "D",
+      "sourceUrl": "https://malegislature.gov/Bills/194/H495",
+      "legiscanUrl": "https://legiscan.com/MA/bill/H495/2025",
+      "legiscanId": 2001551,
+      "sponsors": [
+        "David Rogers"
+      ]
+    },
+    {
+      "id": "ma-s46",
+      "billCode": "S46",
+      "title": "Relative to the use of artificial intelligence and other software tools in healthcare decision-making",
+      "summary": "For legislation relative to the use of artificial intelligence and other software tools in healthcare decision-making. Advanced Information Technology, the Internet and Cybersecurity.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-02-27",
+      "partyOrigin": "D",
+      "sourceUrl": "https://malegislature.gov/Bills/194/S46",
+      "legiscanUrl": "https://legiscan.com/MA/bill/S46/2025",
+      "legiscanId": 1997130,
+      "sponsors": [
+        "Michael Moore"
+      ]
+    },
+    {
+      "id": "ma-s2632",
+      "billCode": "S2632",
+      "title": "Relative to the use of artificial intelligence and other software tools in healthcare decision-making",
+      "summary": "For legislation relative to the use of artificial intelligence and other software tools in healthcare decision-making, report the accompanying bill (Senate, No. 2632).",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-10-16",
+      "sourceUrl": "https://malegislature.gov/Bills/194/S2632",
+      "legiscanUrl": "https://legiscan.com/MA/bill/S2632/2025",
+      "legiscanId": 2046647,
+      "sponsors": [
+        "Advanced Information Technology, the Internet and Cybersecurity"
+      ]
+    },
+    {
+      "id": "ma-h81",
+      "billCode": "H81",
+      "title": "Relative to artificial intelligence disclosure",
+      "summary": "Relative to artificial intelligence disclosures. Advanced Information Technology, the Internet and Cybersecurity.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-02-27",
+      "partyOrigin": "R",
+      "sourceUrl": "https://malegislature.gov/Bills/194/H81",
+      "legiscanUrl": "https://legiscan.com/MA/bill/H81/2025",
+      "legiscanId": 2004206,
+      "sponsors": [
+        "Steven Howitt"
+      ]
+    },
+    {
+      "id": "ma-s1053",
+      "billCode": "S1053",
+      "title": "To implement the recommendations of the special commission on facial recognition technology",
+      "summary": "For legislation to implement the recommendations of the special commission on facial recognition technology. The Judiciary.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-criminal-justice",
+      "updatedDate": "2025-02-27",
+      "partyOrigin": "D",
+      "sourceUrl": "https://malegislature.gov/Bills/194/S1053",
+      "legiscanUrl": "https://legiscan.com/MA/bill/S1053/2025",
+      "legiscanId": 1998186,
+      "sponsors": [
+        "Cynthia Creem"
+      ]
+    }
+  ]
+}

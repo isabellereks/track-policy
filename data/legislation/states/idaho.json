@@ -1,0 +1,219 @@
+{
+  "state": "Idaho",
+  "stateCode": "ID",
+  "region": "na",
+  "stance": "review",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "Idaho has 12 bills tracked in 2025–2026. 5 are already enacted. 3 offer incentives or exemptions.",
+  "legislation": [
+    {
+      "id": "id-h0609",
+      "billCode": "H0609",
+      "title": "Amends existing law to revise a sales tax exemption for data center equipment and to revise a property tax exemption for certain capital investments.",
+      "summary": "TAXATION -- Amends existing law to revise a sales tax exemption for data center equipment and to revise a property tax exemption for certain capital investments.",
+      "stage": "Committee",
+      "impactTags": [
+        "property-values",
+        "tax-incentives"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-09",
+      "sourceUrl": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0609/",
+      "legiscanUrl": "https://legiscan.com/ID/bill/H0609/2026",
+      "legiscanId": 2111805,
+      "sponsors": [
+        "Revenue and Taxation Committee"
+      ]
+    },
+    {
+      "id": "id-h0820",
+      "billCode": "H0820",
+      "title": "Amends existing law to revise a sales tax exemption for data center equipment and to revise a certain property tax exemption for certain capital investments.",
+      "summary": "TAXATION -- Amends existing law to revise a sales tax exemption for data center equipment and to revise a certain property tax exemption for certain capital investments.",
+      "stage": "Committee",
+      "impactTags": [
+        "property-values",
+        "tax-incentives"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-04",
+      "sourceUrl": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0820/",
+      "legiscanUrl": "https://legiscan.com/ID/bill/H0820/2026",
+      "legiscanId": 2129456,
+      "sponsors": [
+        "Revenue and Taxation Committee"
+      ]
+    },
+    {
+      "id": "id-h0897",
+      "billCode": "H0897",
+      "title": "Amends existing law to revise a sales tax exemption for data center equipment and to revise a certain property tax exemption for certain capital investments.",
+      "summary": "TAXATION -- Amends existing law to revise a sales tax exemption for data center equipment and to revise a certain property tax exemption for certain capital investments.",
+      "stage": "Committee",
+      "impactTags": [
+        "property-values",
+        "tax-incentives"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-23",
+      "sourceUrl": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0897/",
+      "legiscanUrl": "https://legiscan.com/ID/bill/H0897/2026",
+      "legiscanId": 2133689,
+      "sponsors": [
+        "Ways and Means Committee"
+      ]
+    },
+    {
+      "id": "id-h0895",
+      "billCode": "H0895",
+      "title": "Adds to existing law to establish limitations on consumptive use of water for cooling certain data centers.",
+      "summary": "DATA CENTERS -- Adds to existing law to establish limitations on consumptive use of water for cooling certain data centers.",
+      "stage": "Enacted",
+      "impactTags": [
+        "water-consumption"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-02",
+      "sourceUrl": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0895/",
+      "legiscanUrl": "https://legiscan.com/ID/bill/H0895/2026",
+      "legiscanId": 2133774,
+      "sponsors": [
+        "Ways and Means Committee"
+      ]
+    },
+    {
+      "id": "id-s1227",
+      "billCode": "S1227",
+      "title": "Adds to existing law to establish provisions regarding generative artificial intelligence in public education.",
+      "summary": "EDUCATION -- Adds to existing law to establish provisions regarding generative artificial intelligence in public education.",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-19",
+      "sourceUrl": "https://legislature.idaho.gov/sessioninfo/2026/legislation/S1227/",
+      "legiscanUrl": "https://legiscan.com/ID/bill/S1227/2026",
+      "legiscanId": 2090168,
+      "sponsors": [
+        "Education Committee"
+      ]
+    },
+    {
+      "id": "id-h0687",
+      "billCode": "H0687",
+      "title": "Adds to existing law to establish provisions regarding unbiased artificial intelligence in state government purchasing.",
+      "summary": "PROCUREMENT -- Adds to existing law to establish provisions regarding unbiased artificial intelligence in state government purchasing.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-government",
+      "updatedDate": "2026-03-02",
+      "sourceUrl": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0687/",
+      "legiscanUrl": "https://legiscan.com/ID/bill/H0687/2026",
+      "legiscanId": 2117670,
+      "sponsors": [
+        "Judiciary, Rules and Administration Committee"
+      ]
+    },
+    {
+      "id": "id-s1297",
+      "billCode": "S1297",
+      "title": "Adds to existing law to establish the Conversational AI Safety Act.",
+      "summary": "ARTIFICIAL INTELLIGENCE -- Adds to existing law to establish the Conversational AI Safety Act.",
+      "stage": "Enacted",
+      "impactTags": [
+        "ai-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-31",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legislature.idaho.gov/sessioninfo/2026/legislation/S1297/",
+      "legiscanUrl": "https://legiscan.com/ID/bill/S1297/2026",
+      "legiscanId": 2116911,
+      "sponsors": [
+        "State Affairs Committee",
+        "Brooke Green"
+      ]
+    },
+    {
+      "id": "id-h0744",
+      "billCode": "H0744",
+      "title": "Adds to existing law to establish provisions regarding the capture or use of biometric identifiers.",
+      "summary": "BIOMETRIC IDENTIFIERS -- Adds to existing law to establish provisions regarding the capture or use of biometric identifiers.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-20",
+      "sourceUrl": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0744/",
+      "legiscanUrl": "https://legiscan.com/ID/bill/H0744/2026",
+      "legiscanId": 2121106,
+      "sponsors": [
+        "Ways and Means Committee"
+      ]
+    },
+    {
+      "id": "id-h0942",
+      "billCode": "H0942",
+      "title": "Relates to the appropriation from the Idaho Millennium Income Fund for fiscal year 2027.",
+      "summary": "APPROPRIATIONS -- MILLENNIUM INCOME FUND -- Relates to the appropriation from the Idaho Millennium Income Fund for fiscal year 2027.",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-02",
+      "sourceUrl": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0942/",
+      "legiscanUrl": "https://legiscan.com/ID/bill/H0942/2026",
+      "legiscanId": 2137557,
+      "sponsors": [
+        "Appropriations Committee"
+      ]
+    },
+    {
+      "id": "id-h0866",
+      "billCode": "H0866",
+      "title": "Relates to the maintenance appropriation to the Constitutional Officers for fiscal year 2027.",
+      "summary": "APPROPRIATIONS -- CONSTITUTIONAL OFFICERS -- Relates to the maintenance appropriation to the Constitutional Officers for fiscal year 2027.",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-25",
+      "sourceUrl": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0866/",
+      "legiscanUrl": "https://legiscan.com/ID/bill/H0866/2026",
+      "legiscanId": 2132368,
+      "sponsors": [
+        "Appropriations Committee"
+      ]
+    },
+    {
+      "id": "id-h0917",
+      "billCode": "H0917",
+      "title": "Adds to existing law to require the use of AI to review administrative rules annually.",
+      "summary": "RULES -- Adds to existing law to require the use of AI to review administrative rules annually.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-17",
+      "sourceUrl": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0917/",
+      "legiscanUrl": "https://legiscan.com/ID/bill/H0917/2026",
+      "legiscanId": 2135116,
+      "sponsors": [
+        "Ways and Means Committee"
+      ]
+    },
+    {
+      "id": "id-s1264",
+      "billCode": "S1264",
+      "title": "Adds to existing law to establish the Idaho Rural Health Transformation Fund and the Rural Health Transformation Committee.",
+      "summary": "RURAL HEALTH TRANSFORMATION -- Adds to existing law to establish the Idaho Rural Health Transformation Fund and the Rural Health Transformation Committee.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-30",
+      "partyOrigin": "R",
+      "sourceUrl": "https://legislature.idaho.gov/sessioninfo/2026/legislation/S1264/",
+      "legiscanUrl": "https://legiscan.com/ID/bill/S1264/2026",
+      "legiscanId": 2110665,
+      "sponsors": [
+        "Health and Welfare Committee",
+        "Julie VanOrden"
+      ]
+    }
+  ]
+}

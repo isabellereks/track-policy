@@ -1,0 +1,26 @@
+[
+  {
+    "id": "eleanor-holmes-norton",
+    "name": "Eleanor Holmes Norton",
+    "role": "Representative",
+    "party": "D-DC",
+    "state": "DC",
+    "chamber": "house",
+    "committees": [
+      "Oversight and Accountability",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "concerning",
+    "techRegScore": 0.82,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  }
+]

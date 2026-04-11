@@ -1,0 +1,252 @@
+{
+  "state": "Washington",
+  "stateCode": "WA",
+  "region": "na",
+  "stance": "review",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "Washington has 12 bills tracked in 2025–2026. 3 are already enacted. 4 offer incentives or exemptions.",
+  "legislation": [
+    {
+      "id": "wa-sb6231",
+      "billCode": "SB6231",
+      "title": "Revised for engrossed: Removing a tax exemption for the replacement of equipment for data centers.",
+      "summary": "Revised for engrossed: Removing a tax exemption for the replacement of equipment for data centers.",
+      "stage": "Enacted",
+      "impactTags": [
+        "tax-incentives"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-01",
+      "partyOrigin": "D",
+      "sourceUrl": "https://app.leg.wa.gov/billsummary?BillNumber=6231&Year=2025&Initiative=false",
+      "legiscanUrl": "https://legiscan.com/WA/bill/SB6231/2025",
+      "legiscanId": 2086120,
+      "sponsors": [
+        "Noel Frame",
+        "Robert Hasegawa"
+      ]
+    },
+    {
+      "id": "wa-sb6284",
+      "billCode": "SB6284",
+      "title": "Providing consumer protections for artificial intelligence systems.",
+      "summary": "Providing consumer protections for artificial intelligence systems.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-22",
+      "partyOrigin": "B",
+      "sourceUrl": "https://app.leg.wa.gov/billsummary?BillNumber=6284&Year=2025&Initiative=false",
+      "legiscanUrl": "https://legiscan.com/WA/bill/SB6284/2025",
+      "legiscanId": 2088980,
+      "sponsors": [
+        "Marko Liias",
+        "Matt Boehnke",
+        "Sharon Shewmake",
+        "Paul Harris"
+      ]
+    },
+    {
+      "id": "wa-sb5637",
+      "billCode": "SB5637",
+      "title": "Promoting student access to information about media literacy and civic education.",
+      "summary": "Promoting student access to information about media literacy and civic education.",
+      "stage": "Committee",
+      "impactTags": [
+        "child-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-03-12",
+      "partyOrigin": "R",
+      "sourceUrl": "https://app.leg.wa.gov/billsummary?BillNumber=5637&Year=2025&Initiative=false",
+      "legiscanUrl": "https://legiscan.com/WA/bill/SB5637/2025",
+      "legiscanId": 1950935,
+      "sponsors": [
+        "Phil Fortunato"
+      ]
+    },
+    {
+      "id": "wa-sb5431",
+      "billCode": "SB5431",
+      "title": "Modifying tax and revenue laws in a manner that is not estimated to affect state or local tax collections.",
+      "summary": "Modifying tax and revenue laws in a manner that is not estimated to affect state or local tax collections.",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-05-20",
+      "partyOrigin": "B",
+      "sourceUrl": "https://app.leg.wa.gov/billsummary?BillNumber=5431&Year=2025&Initiative=false",
+      "legiscanUrl": "https://legiscan.com/WA/bill/SB5431/2025",
+      "legiscanId": 1932136,
+      "sponsors": [
+        "Mark Schoesler",
+        "June Robinson",
+        "Perry Dozier",
+        "T'wina Nobles"
+      ]
+    },
+    {
+      "id": "wa-hb2708",
+      "billCode": "HB2708",
+      "title": "Removing a tax exemption for the replacement of equipment for data centers.",
+      "summary": "Removing a tax exemption for the replacement of equipment for data centers.",
+      "stage": "Committee",
+      "impactTags": [
+        "tax-incentives"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-30",
+      "partyOrigin": "D",
+      "sourceUrl": "https://app.leg.wa.gov/billsummary?BillNumber=2708&Year=2025&Initiative=false",
+      "legiscanUrl": "https://legiscan.com/WA/bill/HB2708/2025",
+      "legiscanId": 2102202,
+      "sponsors": [
+        "April Berg",
+        "Chipalo Street",
+        "Cindy Ryu",
+        "Lisa Parshley"
+      ]
+    },
+    {
+      "id": "wa-hb2655",
+      "billCode": "HB2655",
+      "title": "Providing a retail sales and use tax exemption for the construction and equipping of new data centers located in a county east of the Cascades that borders another state and has a population of at least 500,000.",
+      "summary": "Providing a retail sales and use tax exemption for the construction and equipping of new data centers located in a county east of the Cascades that borders another state and has a population of at least 500,000.",
+      "stage": "Committee",
+      "impactTags": [
+        "tax-incentives"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-26",
+      "partyOrigin": "B",
+      "sourceUrl": "https://app.leg.wa.gov/billsummary?BillNumber=2655&Year=2025&Initiative=false",
+      "legiscanUrl": "https://legiscan.com/WA/bill/HB2655/2025",
+      "legiscanId": 2092560,
+      "sponsors": [
+        "Timm Ormsby",
+        "Mike Volz",
+        "Alex Ybarra",
+        "April Berg"
+      ]
+    },
+    {
+      "id": "wa-hb2502",
+      "billCode": "HB2502",
+      "title": "Improving local government funding by removing certain sales and use tax exemptions.",
+      "summary": "Improving local government funding by removing certain sales and use tax exemptions.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-15",
+      "partyOrigin": "D",
+      "sourceUrl": "https://app.leg.wa.gov/billsummary?BillNumber=2502&Year=2025&Initiative=false",
+      "legiscanUrl": "https://legiscan.com/WA/bill/HB2502/2025",
+      "legiscanId": 2080009,
+      "sponsors": [
+        "Sharon Wylie",
+        "Lisa Parshley",
+        "Shaun Scott",
+        "Natasha Hill"
+      ]
+    },
+    {
+      "id": "wa-hb2515",
+      "billCode": "HB2515",
+      "title": "Addressing emerging large energy use facilities.",
+      "summary": "Addressing emerging large energy use facilities.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-14",
+      "partyOrigin": "D",
+      "sourceUrl": "https://app.leg.wa.gov/billsummary?BillNumber=2515&Year=2025&Initiative=false",
+      "legiscanUrl": "https://legiscan.com/WA/bill/HB2515/2025",
+      "legiscanId": 2079750,
+      "sponsors": [
+        "Beth Doglio",
+        "Alex Ramel",
+        "Sharon Wylie",
+        "Chris Stearns"
+      ]
+    },
+    {
+      "id": "wa-hb1476",
+      "billCode": "HB1476",
+      "title": "Delaying the rebasing of the nursing home payment rates to 2028.",
+      "summary": "Delaying the rebasing of the nursing home payment rates to 2028.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-01-21",
+      "partyOrigin": "D",
+      "sourceUrl": "https://app.leg.wa.gov/billsummary?BillNumber=1476&Year=2025&Initiative=false",
+      "legiscanUrl": "https://legiscan.com/WA/bill/HB1476/2025",
+      "legiscanId": 1930240,
+      "sponsors": [
+        "Timm Ormsby"
+      ]
+    },
+    {
+      "id": "wa-sb6184",
+      "billCode": "SB6184",
+      "title": "Updating the office of homeless youth program provisions.",
+      "summary": "Updating the office of homeless youth program provisions.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-10",
+      "partyOrigin": "D",
+      "sourceUrl": "https://app.leg.wa.gov/billsummary?BillNumber=6184&Year=2025&Initiative=false",
+      "legiscanUrl": "https://legiscan.com/WA/bill/SB6184/2025",
+      "legiscanId": 2083092,
+      "sponsors": [
+        "Claire Wilson",
+        "T'wina Nobles",
+        "Rebecca Saldana",
+        "Yasmin Trudeau"
+      ]
+    },
+    {
+      "id": "wa-sb5395",
+      "billCode": "SB5395",
+      "title": "Making improvements to transparency and accountability in the prior authorization determination process.",
+      "summary": "Making improvements to transparency and accountability in the prior authorization determination process.",
+      "stage": "Enacted",
+      "impactTags": [
+        "nda-transparency"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-23",
+      "partyOrigin": "B",
+      "sourceUrl": "https://app.leg.wa.gov/billsummary?BillNumber=5395&Year=2025&Initiative=false",
+      "legiscanUrl": "https://legiscan.com/WA/bill/SB5395/2025",
+      "legiscanId": 1930459,
+      "sponsors": [
+        "Tina Orwall",
+        "Ron Muzzall",
+        "Robert Hasegawa",
+        "Liz Lovelett"
+      ]
+    },
+    {
+      "id": "wa-sb5810",
+      "billCode": "SB5810",
+      "title": "Making 2025-2027 fiscal biennium operating appropriations and 2023-2025 fiscal biennium second supplemental operating appropriations.",
+      "summary": "Making 2025-2027 fiscal biennium operating appropriations and 2023-2025 fiscal biennium second supplemental operating appropriations.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-04-15",
+      "partyOrigin": "R",
+      "sourceUrl": "https://app.leg.wa.gov/billsummary?BillNumber=5810&Year=2025&Initiative=false",
+      "legiscanUrl": "https://legiscan.com/WA/bill/SB5810/2025",
+      "legiscanId": 2023840,
+      "sponsors": [
+        "Chris Gildon",
+        "Nikki Torres",
+        "Matt Boehnke",
+        "Leonard Christian"
+      ]
+    }
+  ]
+}

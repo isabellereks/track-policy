@@ -1,0 +1,150 @@
+[
+  {
+    "id": "tom-cotton",
+    "name": "Tom Cotton",
+    "role": "Senator · Intelligence",
+    "party": "R-AR",
+    "state": "AR",
+    "chamber": "senate",
+    "committees": [
+      "Armed Services",
+      "Intelligence",
+      "Judiciary"
+    ],
+    "stance": "favorable",
+    "quote": "The most hawkish foreign policy voice in the Senate",
+    "techRegScore": 0.72,
+    "lobbying": {
+      "topIndustries": [
+        "Defense Aerospace $892,000",
+        "Securities & Investment $678,000",
+        "Oil & Gas $534,000"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 47,
+      "education": "Harvard College (BA), Harvard Law School (JD)",
+      "careerBeforePolitics": "Army infantry officer, attorney at Gibson Dunn, management consultant at McKinsey"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "john-boozman",
+    "name": "John Boozman",
+    "role": "Senator",
+    "party": "R-AR",
+    "state": "AR",
+    "chamber": "senate",
+    "committees": [
+      "Appropriations",
+      "Agriculture"
+    ],
+    "stance": "review",
+    "quote": "Agricultural policy and veterans affairs",
+    "techRegScore": 0.45,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "french-hill",
+    "name": "French Hill",
+    "role": "Representative",
+    "party": "R-AR",
+    "state": "AR",
+    "chamber": "house",
+    "committees": [
+      "Financial Services"
+    ],
+    "stance": "review",
+    "techRegScore": 0.45,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "steve-womack",
+    "name": "Steve Womack",
+    "role": "Representative",
+    "party": "R-AR",
+    "state": "AR",
+    "chamber": "house",
+    "committees": [
+      "Appropriations"
+    ],
+    "stance": "review",
+    "techRegScore": 0.4,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "rick-crawford",
+    "name": "Rick Crawford",
+    "role": "Representative",
+    "party": "R-AR",
+    "state": "AR",
+    "chamber": "house",
+    "committees": [
+      "Agriculture",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "none",
+    "techRegScore": 0.35,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "bruce-westerman",
+    "name": "Bruce Westerman",
+    "role": "Representative",
+    "party": "R-AR",
+    "state": "AR",
+    "chamber": "house",
+    "committees": [
+      "Natural Resources"
+    ],
+    "stance": "none",
+    "techRegScore": 0.35,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  }
+]

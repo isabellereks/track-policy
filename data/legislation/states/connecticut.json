@@ -1,0 +1,245 @@
+{
+  "state": "Connecticut",
+  "stateCode": "CT",
+  "region": "na",
+  "stance": "review",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "Connecticut has 12 bills tracked in 2025–2026. 1 offers incentives or exemptions.",
+  "legislation": [
+    {
+      "id": "ct-sb00092",
+      "billCode": "SB00092",
+      "title": "An Act Establishing Additional Protections For Warehouse Workers.",
+      "summary": "To implement the Governor's budget recommendations.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-05",
+      "sourceUrl": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00092&which_year=2026",
+      "legiscanUrl": "https://legiscan.com/CT/bill/SB00092/2026",
+      "legiscanId": 2107905,
+      "sponsors": []
+    },
+    {
+      "id": "ct-sb00005",
+      "billCode": "SB00005",
+      "title": "An Act Concerning Online Safety.",
+      "summary": "To (1) establish (A) various requirements concerning artificial intelligence, artificial intelligence systems, artificial intelligence technologies, artificial intelligence companions and automated employment-related decision processes, (B) an Artificial Intelligence Policy Of...",
+      "stage": "Committee",
+      "impactTags": [
+        "job-creation",
+        "economic-development"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-04",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00005&which_year=2026",
+      "legiscanUrl": "https://legiscan.com/CT/bill/SB00005/2026",
+      "legiscanId": 2106638,
+      "sponsors": [
+        "General Law Committee",
+        "Martin Looney",
+        "Robert Duff",
+        "Saud Anwar"
+      ]
+    },
+    {
+      "id": "ct-sb00004",
+      "billCode": "SB00004",
+      "title": "An Act Concerning Consumer Privacy And Protection.",
+      "summary": "To (1) provide for the registration of data brokers, (2) require the Commissioner of Consumer Protection to establish an accessible deletion mechanism program, (3) require manufacturers to affix tariff cost estimates to new automobiles, (4) require disclosures regarding the us...",
+      "stage": "Committee",
+      "impactTags": [
+        "energy-rates",
+        "algorithmic-transparency",
+        "data-privacy"
+      ],
+      "category": "ai-criminal-justice",
+      "updatedDate": "2026-02-04",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00004&which_year=2026",
+      "legiscanUrl": "https://legiscan.com/CT/bill/SB00004/2026",
+      "legiscanId": 2106705,
+      "sponsors": [
+        "General Law Committee",
+        "Martin Looney",
+        "Robert Duff",
+        "Saud Anwar"
+      ]
+    },
+    {
+      "id": "ct-sb00220",
+      "billCode": "SB00220",
+      "title": "An Act Concerning Student Literacy.",
+      "summary": "To establish and provide reading instruction and supports to all students in grades four to nine who are below proficient in reading.",
+      "stage": "Committee",
+      "impactTags": [
+        "child-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-18",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00220&which_year=2026",
+      "legiscanUrl": "https://legiscan.com/CT/bill/SB00220/2026",
+      "legiscanId": 2118338,
+      "sponsors": [
+        "Education Committee",
+        "Antonio Felipe",
+        "Geraldo Reyes",
+        "Anthony Nolan"
+      ]
+    },
+    {
+      "id": "ct-sb00289",
+      "billCode": "SB00289",
+      "title": "An Act Concerning Funding Of The Quality Metrics Program For Nursing Homes.",
+      "summary": "To implement the Department of Social Services' quality metrics program for nursing homes.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-19",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00289&which_year=2026",
+      "legiscanUrl": "https://legiscan.com/CT/bill/SB00289/2026",
+      "legiscanId": 2120218,
+      "sponsors": [
+        "Aging Committee",
+        "Jane Garibay",
+        "Mary Fortier",
+        "Jan Hochadel"
+      ]
+    },
+    {
+      "id": "ct-sb00307",
+      "billCode": "SB00307",
+      "title": "An Act Concerning The Department Of Economic And Community Development's Recommendations For Revisions To The Commerce Statutes.",
+      "summary": "To implement the Department of Economic and Community Development's recommendations for revisions to the commerce statutes, including (1) removing references to certain Department of Economic and Community Development offices, (2) repealing or modifying certain reporting requi...",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-26",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00307&which_year=2026",
+      "legiscanUrl": "https://legiscan.com/CT/bill/SB00307/2026",
+      "legiscanId": 2124435,
+      "sponsors": [
+        "Commerce Committee",
+        "Savet Constantine"
+      ]
+    },
+    {
+      "id": "ct-sb00245",
+      "billCode": "SB00245",
+      "title": "An Act Eliminating Certain Tax Incentives For Data Centers.",
+      "summary": "To eliminate certain tax incentives for data centers in the state.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-19",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00245&which_year=2026",
+      "legiscanUrl": "https://legiscan.com/CT/bill/SB00245/2026",
+      "legiscanId": 2119266,
+      "sponsors": [
+        "Energy and Technology Committee",
+        "Steven Winter",
+        "William Buckbee",
+        "Nick Gauthier"
+      ]
+    },
+    {
+      "id": "ct-sb00417",
+      "billCode": "SB00417",
+      "title": "An Act Requiring The Department Of Economic And Community Development To Develop A Plan To Establish An Artificial Intelligence Small Business Program.",
+      "summary": "To require the Department of Economic and Community Development to develop a plan to establish an artificial intelligence small business program.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-05",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00417&which_year=2026",
+      "legiscanUrl": "https://legiscan.com/CT/bill/SB00417/2026",
+      "legiscanId": 2129160,
+      "sponsors": [
+        "Commerce Committee",
+        "Kerry Szeps Wood",
+        "Savet Constantine"
+      ]
+    },
+    {
+      "id": "ct-hb05514",
+      "billCode": "HB05514",
+      "title": "An Act Concerning Various Revisions To The Public Health Statutes.",
+      "summary": "To make various revisions to the public health statutes.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-05",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=HB05514&which_year=2026",
+      "legiscanUrl": "https://legiscan.com/CT/bill/HB05514/2026",
+      "legiscanId": 2129223,
+      "sponsors": [
+        "Public Health Committee",
+        "Nick Menapace",
+        "Julie Kushner"
+      ]
+    },
+    {
+      "id": "ct-hb05497",
+      "billCode": "HB05497",
+      "title": "An Act Establishing A Task Force To Study The Effects Of Artificial Intelligence On The Trades Industry.",
+      "summary": "To establish a task force to study the effects of the use of artificial intelligence on the trades industry and require the Commissioner of Public Health to study the feasibility of establishing a certified nursing assistant training program.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-05",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=HB05497&which_year=2026",
+      "legiscanUrl": "https://legiscan.com/CT/bill/HB05497/2026",
+      "legiscanId": 2129357,
+      "sponsors": [
+        "Labor and Public Employees Committee",
+        "Brian Lanoue",
+        "Nick Gauthier",
+        "Nick Menapace"
+      ]
+    },
+    {
+      "id": "ct-sb00086",
+      "billCode": "SB00086",
+      "title": "An Act Addressing Innovations In And The Responsible Use Of Artificial Intelligence.",
+      "summary": "To implement the Governor's budget recommendations.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-05",
+      "sourceUrl": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00086&which_year=2026",
+      "legiscanUrl": "https://legiscan.com/CT/bill/SB00086/2026",
+      "legiscanId": 2107947,
+      "sponsors": []
+    },
+    {
+      "id": "ct-sb00435",
+      "billCode": "SB00435",
+      "title": "An Act Concerning Automated Decision Systems Protections For Employees.",
+      "summary": "To establish various requirements concerning the use of automated employment-related decision systems and artificial intelligence technologies.",
+      "stage": "Committee",
+      "impactTags": [
+        "algorithmic-transparency"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-05",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00435&which_year=2026",
+      "legiscanUrl": "https://legiscan.com/CT/bill/SB00435/2026",
+      "legiscanId": 2129365,
+      "sponsors": [
+        "Labor and Public Employees Committee",
+        "Nick Gauthier",
+        "Kaitlyn Shake",
+        "Nick Menapace"
+      ]
+    }
+  ]
+}

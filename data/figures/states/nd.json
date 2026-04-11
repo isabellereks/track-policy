@@ -1,0 +1,87 @@
+[
+  {
+    "id": "kevin-cramer",
+    "name": "Kevin Cramer",
+    "role": "Senator",
+    "party": "R-ND",
+    "state": "ND",
+    "chamber": "senate",
+    "committees": [
+      "Armed Services",
+      "Banking",
+      "Environment",
+      "Veterans Affairs"
+    ],
+    "stance": "favorable",
+    "quote": "North Dakota energy industry champion and reliable conservative vote",
+    "techRegScore": 0.68,
+    "lobbying": {
+      "topIndustries": [
+        "Oil & Gas $1.2M",
+        "Agribusiness $890K",
+        "Securities & Investment $720K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 63,
+      "education": "BA Concordia College, MA University of Mary",
+      "careerBeforePolitics": "Talk radio host and economic development official"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "john-hoeven",
+    "name": "John Hoeven",
+    "role": "Senator · Energy",
+    "party": "R-ND",
+    "state": "ND",
+    "chamber": "senate",
+    "committees": [
+      "Appropriations",
+      "Agriculture",
+      "Energy",
+      "Indian Affairs"
+    ],
+    "stance": "favorable",
+    "quote": "Former banker turned pragmatic conservative focused on energy and agriculture",
+    "techRegScore": 0.65,
+    "lobbying": {
+      "topIndustries": [
+        "Oil & Gas: $892,000",
+        "Agribusiness: $567,000",
+        "Commercial Banks: $445,000"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 67,
+      "education": "Dartmouth College (BA), Northwestern Kellogg (MBA)",
+      "careerBeforePolitics": "Bank executive at First Western Bank & Trust, served as North Dakota Governor"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "kelly-armstrong",
+    "name": "Kelly Armstrong",
+    "role": "Representative · Energy and Commerce",
+    "party": "R-ND",
+    "state": "ND",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.64,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  }
+]

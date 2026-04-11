@@ -1,0 +1,79 @@
+[
+  {
+    "id": "lisa-blunt-rochester",
+    "name": "Lisa Blunt Rochester",
+    "role": "Representative · Energy and Commerce",
+    "party": "D-DE",
+    "state": "DE",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce"
+    ],
+    "stance": "concerning",
+    "techRegScore": 0.72,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "tom-carper",
+    "name": "Tom Carper",
+    "role": "Senator",
+    "party": "D-DE",
+    "state": "DE",
+    "chamber": "senate",
+    "committees": [
+      "Environment and Public Works",
+      "Finance"
+    ],
+    "stance": "none",
+    "quote": "Environmental policy and government reform",
+    "techRegScore": 0.38,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "lisa-blunt-rochester",
+    "name": "Lisa Blunt Rochester",
+    "role": "Senator",
+    "party": "D-DE",
+    "state": "DE",
+    "chamber": "senate",
+    "committees": [
+      "Finance",
+      "Agriculture"
+    ],
+    "stance": "none",
+    "quote": "Delaware's first Black senator and corporate-friendly progressive",
+    "techRegScore": 0.3,
+    "lobbying": {
+      "topIndustries": [
+        "Financial services $920K",
+        "Healthcare $680K",
+        "Chemicals $440K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 61,
+      "education": "Fairleigh Dickinson University (BA), University of Delaware (MEd)",
+      "careerBeforePolitics": "Delaware Secretary of Labor, CEO of Metropolitan Wilmington Urban League, 8 years in U.S. House"
+    },
+    "seatSafety": "safe"
+  }
+]

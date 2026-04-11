@@ -1,0 +1,254 @@
+{
+  "state": "Rhode Island",
+  "stateCode": "RI",
+  "region": "na",
+  "stance": "review",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "Rhode Island has 12 bills tracked in 2025–2026. 2 offer incentives or exemptions.",
+  "legislation": [
+    {
+      "id": "ri-s2776",
+      "billCode": "S2776",
+      "title": "Requires that certain data centers requiring large amounts of electricity be required to fund the cost of necessary infrastructure improvements to supply such electricity.",
+      "summary": "PUBLIC UTILITIES AND CARRIERS -- PUBLIC UTILITIES COMMISSION - Requires that certain data centers requiring large amounts of electricity be required to fund the cost of necessary infrastructure improvements to supply such electricity.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-04",
+      "partyOrigin": "D",
+      "sourceUrl": "https://status.rilegislature.gov/",
+      "legiscanUrl": "https://legiscan.com/RI/bill/S2776/2026",
+      "legiscanId": 2128822,
+      "sponsors": [
+        "Louis Dipalma",
+        "Frank Ciccone",
+        "John Burke",
+        "Lori Urso"
+      ]
+    },
+    {
+      "id": "ri-h7119",
+      "billCode": "H7119",
+      "title": "Requires DOA provide inventory of all state agencies using artificial intelligence (AI); establishes a 13 member permanent commission to monitor the use of AI in state government and makes recommendations for state government policy and other decisions.",
+      "summary": "STATE AFFAIRS AND GOVERNMENT -- ARTIFICIAL INTELLIGENCE ACCOUNTABILITY ACT - Requires DOA provide inventory of all state agencies using artificial intelligence (AI); establishes a 13 member permanent commission to monitor the use of AI in state government and makes recommendat...",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-15",
+      "partyOrigin": "D",
+      "sourceUrl": "https://status.rilegislature.gov/",
+      "legiscanUrl": "https://legiscan.com/RI/bill/H7119/2026",
+      "legiscanId": 2083234,
+      "sponsors": [
+        "John Lombardi",
+        "Raymond Hull",
+        "Enrique Sanchez",
+        "Cherie Cruz"
+      ]
+    },
+    {
+      "id": "ri-h7331",
+      "billCode": "H7331",
+      "title": "Requires that certain data centers requiring large amounts of electricity be required to fund the cost of necessary infrastructure improvements to supply such electricity.",
+      "summary": "PUBLIC UTILITIES AND CARRIERS -- PUBLIC UTILITIES COMMISSION - Requires that certain data centers requiring large amounts of electricity be required to fund the cost of necessary infrastructure improvements to supply such electricity.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-28",
+      "partyOrigin": "D",
+      "sourceUrl": "https://status.rilegislature.gov/",
+      "legiscanUrl": "https://legiscan.com/RI/bill/H7331/2026",
+      "legiscanId": 2096099,
+      "sponsors": [
+        "Brian Kennedy",
+        "Samuel Azzinaro",
+        "Hagan McEntee",
+        "Teresa Tanzi"
+      ]
+    },
+    {
+      "id": "ri-s2346",
+      "billCode": "S2346",
+      "title": "Establishes property, tangible, sales and use tax exemptions as incentives for the location of qualified data centers in Rhode Island.",
+      "summary": "STATE AFFAIRS AND GOVERNMENT -- RHODE ISLAND COMMERCE CORPORATION - Establishes property, tangible, sales and use tax exemptions as incentives for the location of qualified data centers in Rhode Island.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-30",
+      "partyOrigin": "D",
+      "sourceUrl": "https://status.rilegislature.gov/",
+      "legiscanUrl": "https://legiscan.com/RI/bill/S2346/2026",
+      "legiscanId": 2102608,
+      "sponsors": [
+        "Louis Dipalma",
+        "Frank Ciccone",
+        "Robert Britto",
+        "Hanna Gallo"
+      ]
+    },
+    {
+      "id": "ri-h7695",
+      "billCode": "H7695",
+      "title": "Establishes property, tangible, sales and use tax exemptions as incentives for the location of qualified data centers in Rhode Island.",
+      "summary": "STATE AFFAIRS AND GOVERNMENT -- RHODE ISLAND COMMERCE CORPORATION - Establishes property, tangible, sales and use tax exemptions as incentives for the location of qualified data centers in Rhode Island.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-11",
+      "partyOrigin": "D",
+      "sourceUrl": "https://status.rilegislature.gov/",
+      "legiscanUrl": "https://legiscan.com/RI/bill/H7695/2026",
+      "legiscanId": 2114328,
+      "sponsors": [
+        "David Bennett",
+        "John Edwards",
+        "Evan Shanley",
+        "Robert Phillips"
+      ]
+    },
+    {
+      "id": "ri-h7364",
+      "billCode": "H7364",
+      "title": "Requires employers to provide each employee of a warehouse distribution center, upon hire, with written description of quotas applicable to the employee within defined time periods and adverse employment action for failure to meet the quota.",
+      "summary": "LABOR AND LABOR RELATIONS -- WAREHOUSE WORKER PROTECTION ACT - Requires employers to provide each employee of a warehouse distribution center, upon hire, with written description of quotas applicable to the employee within defined time periods and adverse employment action for...",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-28",
+      "partyOrigin": "D",
+      "sourceUrl": "https://status.rilegislature.gov/",
+      "legiscanUrl": "https://legiscan.com/RI/bill/H7364/2026",
+      "legiscanId": 2099290,
+      "sponsors": [
+        "Evan Shanley",
+        "Scott Slater",
+        "David Bennett",
+        "Robert Craven"
+      ]
+    },
+    {
+      "id": "ri-s2010",
+      "billCode": "S2010",
+      "title": "Promotes transparency and accountability in the use of artificial intelligence by health insurers to manage coverage and claims.",
+      "summary": "INSURANCE -- THE TRANSPARENCY AND ACCOUNTABILITY IN ARTIFICIAL INTELLIGENCE USE BY HEALTH INSURERS TO MANAGE COVERAGE AND CLAIMS ACT - Promotes transparency and accountability in the use of artificial intelligence by health insurers to manage coverage and claims.",
+      "stage": "Committee",
+      "impactTags": [
+        "nda-transparency"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-09",
+      "partyOrigin": "D",
+      "sourceUrl": "https://status.rilegislature.gov/",
+      "legiscanUrl": "https://legiscan.com/RI/bill/S2010/2026",
+      "legiscanId": 2069496,
+      "sponsors": [
+        "Linda Ujifusa",
+        "Victoria Gu",
+        "Frank Ciccone",
+        "Valarie Lawson"
+      ]
+    },
+    {
+      "id": "ri-h7190",
+      "billCode": "H7190",
+      "title": "Promotes transparency and accountability in the use of artificial intelligence by health insurers to manage coverage and claims.",
+      "summary": "INSURANCE -- THE TRANSPARENCY AND ACCOUNTABILITY IN ARTIFICIAL INTELLIGENCE USE BY HEALTH INSURERS TO MANAGE COVERAGE AND CLAIMS ACT - Promotes transparency and accountability in the use of artificial intelligence by health insurers to manage coverage and claims.",
+      "stage": "Committee",
+      "impactTags": [
+        "nda-transparency"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-21",
+      "partyOrigin": "D",
+      "sourceUrl": "https://status.rilegislature.gov/",
+      "legiscanUrl": "https://legiscan.com/RI/bill/H7190/2026",
+      "legiscanId": 2088233,
+      "sponsors": [
+        "Susan Donovan",
+        "Brandon Potter",
+        "Tina Spears",
+        "Rebecca Kislak"
+      ]
+    },
+    {
+      "id": "ri-s2197",
+      "billCode": "S2197",
+      "title": "Establishes regulations regarding the use of artificial intelligence in mental health care treatments.",
+      "summary": "BEHAVIORAL HEALTHCARE, DEVELOPMENTAL DISABILITIES AND HOSPITALS -- OVERSIGHT OF ARTIFICIAL INTELLIGENCE TECHNOLOGY IN MENTAL HEALTH CARE ACT - Establishes regulations regarding the use of artificial intelligence in mental health care treatments.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-23",
+      "partyOrigin": "B",
+      "sourceUrl": "https://status.rilegislature.gov/",
+      "legiscanUrl": "https://legiscan.com/RI/bill/S2197/2026",
+      "legiscanId": 2091875,
+      "sponsors": [
+        "Lori Urso",
+        "David Tikoian",
+        "Samuel Zurier",
+        "John Burke"
+      ]
+    },
+    {
+      "id": "ri-h7349",
+      "billCode": "H7349",
+      "title": "Establishes regulations regarding the use of artificial intelligence in mental health care treatments.",
+      "summary": "BEHAVIORAL HEALTHCARE, DEVELOPMENTAL DISABILITIES AND HOSPITALS -- OVERSIGHT OF ARTIFICIAL INTELLIGENCE TECHNOLOGY IN MENTAL HEALTH CARE ACT - Establishes regulations regarding the use of artificial intelligence in mental health care treatments.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-28",
+      "partyOrigin": "D",
+      "sourceUrl": "https://status.rilegislature.gov/",
+      "legiscanUrl": "https://legiscan.com/RI/bill/H7349/2026",
+      "legiscanId": 2097101,
+      "sponsors": [
+        "Tina Spears",
+        "Lauren Carson",
+        "Mary Messier",
+        "June Speakman"
+      ]
+    },
+    {
+      "id": "ri-s2195",
+      "billCode": "S2195",
+      "title": "Creates additional safety features for AI companion technology that include addressing suicidal ideation, potential physical harm or financial harm to others expressed by a user. It also requires notification the AI companion does not have human emotions.",
+      "summary": "COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS -- ARTIFICIAL INTELLIGENCE COMPANION MODELS - Creates additional safety features for AI companion technology that include addressing suicidal ideation, potential physical harm or financial harm to others expressed by a user. It a...",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-23",
+      "partyOrigin": "B",
+      "sourceUrl": "https://status.rilegislature.gov/",
+      "legiscanUrl": "https://legiscan.com/RI/bill/S2195/2026",
+      "legiscanId": 2091516,
+      "sponsors": [
+        "Lori Urso",
+        "Victoria Gu",
+        "Louis Dipalma",
+        "Thomas Paolino"
+      ]
+    },
+    {
+      "id": "ri-h7350",
+      "billCode": "H7350",
+      "title": "Creates additional safety features for AI companion technology that include addressing suicidal ideation, potential physical harm or financial harm to others expressed by a user. It also requires notification the AI companion does not have human emotions.",
+      "summary": "COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS -- ARTIFICIAL INTELLIGENCE COMPANION MODELS - Creates additional safety features for AI companion technology that include addressing suicidal ideation, potential physical harm or financial harm to others expressed by a user. It a...",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-28",
+      "partyOrigin": "D",
+      "sourceUrl": "https://status.rilegislature.gov/",
+      "legiscanUrl": "https://legiscan.com/RI/bill/H7350/2026",
+      "legiscanId": 2097038,
+      "sponsors": [
+        "Tina Spears",
+        "Lauren Carson",
+        "Mary Messier",
+        "June Speakman"
+      ]
+    }
+  ]
+}

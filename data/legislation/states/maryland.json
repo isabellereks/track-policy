@@ -1,0 +1,249 @@
+{
+  "state": "Maryland",
+  "stateCode": "MD",
+  "region": "na",
+  "stance": "concerning",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "Maryland has 12 bills tracked in 2025–2026. 1 relates to moratoriums or prohibitions. 1 offers incentives or exemptions.",
+  "legislation": [
+    {
+      "id": "md-hb293",
+      "billCode": "HB293",
+      "title": "Maryland Longitudinal Data System Center - External Data Sharing With Third-Party Data Centers for Multistate Reporting - Authorization",
+      "summary": "Authorizing the Governing Board of the Maryland Longitudinal Data System Center to provide certain student and workforce data to a third-party data center under certain circumstances; requiring each third-party data center to agree to comply with certain requirements relating ...",
+      "stage": "Floor",
+      "impactTags": [
+        "job-creation",
+        "child-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-09",
+      "sourceUrl": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0293?ys=2026RS",
+      "legiscanUrl": "https://legiscan.com/MD/bill/HB293/2026",
+      "legiscanId": 2070741,
+      "sponsors": [
+        "Ways and Means"
+      ]
+    },
+    {
+      "id": "md-sb597",
+      "billCode": "SB597",
+      "title": "Higher Education - Maryland Artificial Intelligence Partnership",
+      "summary": "Establishing the Maryland Artificial Intelligence Partnership in the University System of Maryland to provide a single nexus for certain stakeholders in artificial intelligence initiatives to advance artificial intelligence in the State; establishing the Artificial Intelligenc...",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-23",
+      "partyOrigin": "B",
+      "sourceUrl": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0597?ys=2026RS",
+      "legiscanUrl": "https://legiscan.com/MD/bill/SB597/2026",
+      "legiscanId": 2108370,
+      "sponsors": [
+        "Katie Hester",
+        "Dalya Attar",
+        "Benjamin Brooks",
+        "Brian Feldman"
+      ]
+    },
+    {
+      "id": "md-hb756",
+      "billCode": "HB756",
+      "title": "Law Enforcement - Use of Facial Recognition Technology - Images Captured in Dwelling Interior",
+      "summary": "Authorizing the use of facial recognition technology by law enforcement to investigate the commission or attempted commission of certain crimes if the image used by facial recognition technology was captured in the interior of a dwelling.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-criminal-justice",
+      "updatedDate": "2026-02-04",
+      "partyOrigin": "D",
+      "sourceUrl": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0756?ys=2026RS",
+      "legiscanUrl": "https://legiscan.com/MD/bill/HB756/2026",
+      "legiscanId": 2107083,
+      "sponsors": [
+        "Frank Conaway"
+      ]
+    },
+    {
+      "id": "md-sb56",
+      "billCode": "SB56",
+      "title": "Maryland Longitudinal Data System Center - External Data Sharing With Third-Party Data Centers for Multistate Reporting - Authorization",
+      "summary": "Authorizing the Governing Board of the Maryland Longitudinal Data System Center to provide certain student and workforce data to a third-party data center under certain circumstances; requiring each third-party data center to agree to comply with certain requirements relating ...",
+      "stage": "Floor",
+      "impactTags": [
+        "job-creation",
+        "child-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-09",
+      "sourceUrl": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0056?ys=2026RS",
+      "legiscanUrl": "https://legiscan.com/MD/bill/SB56/2026",
+      "legiscanId": 2070623,
+      "sponsors": [
+        "Education, Energy, and the Environment"
+      ]
+    },
+    {
+      "id": "md-hb1411",
+      "billCode": "HB1411",
+      "title": "Data Center Planning and Transparency Act",
+      "summary": "Requiring an owner or operator of a large-scale data center to submit a disclosure report to certain State and local agencies and elected officials under certain circumstances; specifying the contents of the disclosure report; requiring the Department of the Environment to pub...",
+      "stage": "Committee",
+      "impactTags": [
+        "nda-transparency"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-13",
+      "partyOrigin": "D",
+      "sourceUrl": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1411?ys=2026RS",
+      "legiscanUrl": "https://legiscan.com/MD/bill/HB1411/2026",
+      "legiscanId": 2116371,
+      "sponsors": [
+        "Sheila Ruth"
+      ]
+    },
+    {
+      "id": "md-hb560",
+      "billCode": "HB560",
+      "title": "Sales and Use Tax and Property Tax - Exemptions for Data Centers - Repeal",
+      "summary": "Repealing an exemption from the sales and use tax for certain sales of certain personal property for use at certain qualified data centers under certain circumstances; and repealing the authorization for a governing body of a county or municipal corporation to reduce or elimin...",
+      "stage": "Committee",
+      "impactTags": [
+        "property-values"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-28",
+      "partyOrigin": "D",
+      "sourceUrl": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0560?ys=2026RS",
+      "legiscanUrl": "https://legiscan.com/MD/bill/HB560/2026",
+      "legiscanId": 2095428,
+      "sponsors": [
+        "Julie Palakovich Carr",
+        "Gabriel Acevero",
+        "Heather Bagnall",
+        "Regina Boyce"
+      ]
+    },
+    {
+      "id": "md-hb1534",
+      "billCode": "HB1534",
+      "title": "Data Centers - Standards for Operation and Siting",
+      "summary": "Requiring an owner or operator of a data center to comply with certain standards under certain circumstances; requiring the Department of the Environment to establish by regulation certain sound and vibration controls and requirements for backup power generation for data cente...",
+      "stage": "Committee",
+      "impactTags": [
+        "noise-vibration",
+        "local-zoning"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-13",
+      "partyOrigin": "R",
+      "sourceUrl": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1534?ys=2026RS",
+      "legiscanUrl": "https://legiscan.com/MD/bill/HB1534/2026",
+      "legiscanId": 2116446,
+      "sponsors": [
+        "April Fleming Miller"
+      ]
+    },
+    {
+      "id": "md-sb992",
+      "billCode": "SB992",
+      "title": "Public Utilities - Large Load Customers - Registration and Demand Response Program",
+      "summary": "Requiring a certain large load customer to register with the Public Service Commission before interconnecting with the electric system; establishing the requirements for the registration of a large load customer; requiring that a certain data center be eligible for and conside...",
+      "stage": "Committee",
+      "impactTags": [
+        "grid-capacity",
+        "tax-incentives"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-19",
+      "partyOrigin": "B",
+      "sourceUrl": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0992?ys=2026RS",
+      "legiscanUrl": "https://legiscan.com/MD/bill/SB992/2026",
+      "legiscanId": 2125989,
+      "sponsors": [
+        "Katie Hester",
+        "Brian Feldman",
+        "Karen Lewis Young",
+        "Charles Sydnor"
+      ]
+    },
+    {
+      "id": "md-sb427",
+      "billCode": "SB427",
+      "title": "Property Taxes - Authority of Counties to Establish a Subclass and Set a Special Rate for Personal Property of Data Centers",
+      "summary": "Authorizing the Mayor and City Council of Baltimore City or the governing body of a county to establish, by law, a subclass of personal property consisting of all the personal property of certain qualified data centers and set a special personal property tax rate for the subcl...",
+      "stage": "Committee",
+      "impactTags": [
+        "energy-rates",
+        "property-values"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-30",
+      "partyOrigin": "D",
+      "sourceUrl": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0427?ys=2026RS",
+      "legiscanUrl": "https://legiscan.com/MD/bill/SB427/2026",
+      "legiscanId": 2102479,
+      "sponsors": [
+        "Karen Lewis Young"
+      ]
+    },
+    {
+      "id": "md-hb1595",
+      "billCode": "HB1595",
+      "title": "Property Taxes - Authority of Counties to Establish a Subclass and Set a Special Rate for Personal Property of Data Centers",
+      "summary": "Authorizing the Mayor and City Council of Baltimore City or the governing body of a county to establish, by law, a subclass of personal property consisting of all the personal property of certain qualified data centers and set a special personal property tax rate for the subcl...",
+      "stage": "Committee",
+      "impactTags": [
+        "energy-rates",
+        "property-values"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-15",
+      "partyOrigin": "B",
+      "sourceUrl": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1595?ys=2026RS",
+      "legiscanUrl": "https://legiscan.com/MD/bill/HB1595/2026",
+      "legiscanId": 2118702,
+      "sponsors": [
+        "Kevin Hornberger",
+        "Julie Palakovich Carr"
+      ]
+    },
+    {
+      "id": "md-hb326",
+      "billCode": "HB326",
+      "title": "Education - Maryland Center for School Safety - Anonymous Reporting System",
+      "summary": "Requiring the Maryland Center for School Safety to develop and administer an anonymous reporting system to receive information related to a school or student safety concern; requiring the Center to develop operational guidelines and procedures, and to provide training relative...",
+      "stage": "Committee",
+      "impactTags": [
+        "child-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-23",
+      "partyOrigin": "D",
+      "sourceUrl": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0326?ys=2026RS",
+      "legiscanUrl": "https://legiscan.com/MD/bill/HB326/2026",
+      "legiscanId": 2083581,
+      "sponsors": [
+        "Eric Ebersole"
+      ]
+    },
+    {
+      "id": "md-hb120",
+      "billCode": "HB120",
+      "title": "Moratorium on Construction of New Data Centers - Co-Location and Generation Contingency",
+      "summary": "Prohibiting a person from constructing a data center in the State; prohibiting a unit of State or local government from approving a proposal for the construction of a data center in the State; providing for the termination of the Act if the General Assembly enacts legislation ...",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-14",
+      "partyOrigin": "R",
+      "sourceUrl": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0120?ys=2026RS",
+      "legiscanUrl": "https://legiscan.com/MD/bill/HB120/2026",
+      "legiscanId": 2070792,
+      "sponsors": [
+        "Mark Fisher",
+        "Brian Chisholm",
+        "Matt Morgan",
+        "Kathy Szeliga"
+      ]
+    }
+  ]
+}

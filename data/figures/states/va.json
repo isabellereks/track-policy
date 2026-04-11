@@ -1,0 +1,327 @@
+[
+  {
+    "id": "don-beyer",
+    "name": "Don Beyer",
+    "role": "Representative · Science, Space, and Technology",
+    "party": "D-VA",
+    "state": "VA",
+    "chamber": "house",
+    "committees": [
+      "Ways and Means",
+      "Science, Space, and Technology"
+    ],
+    "stance": "concerning",
+    "techRegScore": 0.78,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "bobby-scott",
+    "name": "Bobby Scott",
+    "role": "Representative · Judiciary",
+    "party": "D-VA",
+    "state": "VA",
+    "chamber": "house",
+    "committees": [
+      "Education and Workforce",
+      "Judiciary"
+    ],
+    "stance": "concerning",
+    "techRegScore": 0.75,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "gerry-connolly",
+    "name": "Gerry Connolly",
+    "role": "Representative",
+    "party": "D-VA",
+    "state": "VA",
+    "chamber": "house",
+    "committees": [
+      "Oversight and Accountability",
+      "Foreign Affairs"
+    ],
+    "stance": "concerning",
+    "techRegScore": 0.75,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "jennifer-mcclellan",
+    "name": "Jennifer McClellan",
+    "role": "Representative · Energy and Commerce",
+    "party": "D-VA",
+    "state": "VA",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce"
+    ],
+    "stance": "concerning",
+    "techRegScore": 0.72,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "jennifer-wexton",
+    "name": "Jennifer Wexton",
+    "role": "Representative · Science, Space, and Technology",
+    "party": "D-VA",
+    "state": "VA",
+    "chamber": "house",
+    "committees": [
+      "Science, Space, and Technology",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "concerning",
+    "techRegScore": 0.72,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "eugene-vindman",
+    "name": "Eugene Vindman",
+    "role": "Representative · Science, Space, and Technology",
+    "party": "D-VA",
+    "state": "VA",
+    "chamber": "house",
+    "committees": [
+      "Foreign Affairs",
+      "Science, Space, and Technology"
+    ],
+    "stance": "concerning",
+    "techRegScore": 0.68,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "toss-up"
+  },
+  {
+    "id": "robert-wittman",
+    "name": "Robert Wittman",
+    "role": "Representative",
+    "party": "R-VA",
+    "state": "VA",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Natural Resources"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.65,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "jennifer-kiggans",
+    "name": "Jennifer Kiggans",
+    "role": "Representative",
+    "party": "R-VA",
+    "state": "VA",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Veterans' Affairs"
+    ],
+    "stance": "review",
+    "techRegScore": 0.58,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "mark-warner",
+    "name": "Mark Warner",
+    "role": "Senator · Intelligence",
+    "party": "D-VA",
+    "state": "VA",
+    "chamber": "senate",
+    "committees": [
+      "Intelligence",
+      "Banking",
+      "Finance",
+      "Budget",
+      "Rules"
+    ],
+    "stance": "review",
+    "quote": "Tech-savvy dealmaker who bridges Democrats and business community",
+    "techRegScore": 0.45,
+    "lobbying": {
+      "topIndustries": [
+        "Securities & Investment: $850K",
+        "Telecommunications: $620K",
+        "Technology: $580K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 70,
+      "education": "BA George Washington University, JD Harvard Law School",
+      "careerBeforePolitics": "Founded cell phone company Nextel, venture capitalist, Virginia Governor 2002-2006"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "morgan-griffith",
+    "name": "Morgan Griffith",
+    "role": "Representative · Energy and Commerce",
+    "party": "R-VA",
+    "state": "VA",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce"
+    ],
+    "stance": "review",
+    "techRegScore": 0.45,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "tim-kaine",
+    "name": "Tim Kaine",
+    "role": "Senator",
+    "party": "D-VA",
+    "state": "VA",
+    "chamber": "senate",
+    "committees": [
+      "Armed Services",
+      "Foreign Relations",
+      "HELP",
+      "Budget"
+    ],
+    "stance": "review",
+    "quote": "Bipartisan dealmaking and foreign policy expertise as former VP nominee",
+    "techRegScore": 0.4,
+    "lobbying": {
+      "topIndustries": [
+        "Defense contractors $1.3M",
+        "Lawyers/Law firms $890K",
+        "Health professionals $680K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 66,
+      "education": "University of Missouri (BA), Harvard Law School (JD)",
+      "careerBeforePolitics": "Civil rights lawyer, Richmond mayor, Virginia governor"
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "ben-cline",
+    "name": "Ben Cline",
+    "role": "Representative · Judiciary",
+    "party": "R-VA",
+    "state": "VA",
+    "chamber": "house",
+    "committees": [
+      "Judiciary",
+      "Budget"
+    ],
+    "stance": "none",
+    "techRegScore": 0.35,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "bob-good",
+    "name": "Bob Good",
+    "role": "Representative",
+    "party": "R-VA",
+    "state": "VA",
+    "chamber": "house",
+    "committees": [
+      "Education and Workforce",
+      "Budget"
+    ],
+    "stance": "none",
+    "techRegScore": 0.25,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  }
+]

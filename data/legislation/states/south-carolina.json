@@ -1,0 +1,253 @@
+{
+  "state": "South Carolina",
+  "stateCode": "SC",
+  "region": "na",
+  "stance": "review",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "South Carolina has 12 bills tracked in 2025–2026. 1 is already enacted.",
+  "legislation": [
+    {
+      "id": "sc-s0867",
+      "billCode": "S0867",
+      "title": "Data Center Development",
+      "summary": "Amend The South Carolina Code Of Laws So As To Enact The \"data Center Development Act\"; By Adding Section 49-35-10 So As To Define Terms Pertaining To Data Center Development; By Adding Section 49-35-20 So As To Establish The Data Center Development Office In The Department Of...",
+      "stage": "Committee",
+      "impactTags": [
+        "environmental-review",
+        "noise-vibration",
+        "local-zoning"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-29",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.scstatehouse.gov/billsearch.php?billnumbers=0867&session=126&summary=B",
+      "legiscanUrl": "https://legiscan.com/SC/bill/S0867/2025",
+      "legiscanId": 2101843,
+      "sponsors": [
+        "Thomas Davis",
+        "Joshua Kimbrell",
+        "Billy Garrett",
+        "Ed Sutton"
+      ]
+    },
+    {
+      "id": "sc-s0963",
+      "billCode": "S0963",
+      "title": "Artificial intelligence, consumer protection",
+      "summary": "Amend The South Carolina Code Of Laws By Enacting The \"consumer Protections In Interactions With Artificial Intelligence Systems Act\" By Adding Chapter 31 To Title 37 So As To, Among Other Things, Prohibit Algorithmic Discrimination Arising From The Use Of High-risk Artificial...",
+      "stage": "Committee",
+      "impactTags": [
+        "algorithmic-transparency"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-26",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.scstatehouse.gov/billsearch.php?billnumbers=0963&session=126&summary=B",
+      "legiscanUrl": "https://legiscan.com/SC/bill/S0963/2025",
+      "legiscanId": 2125203,
+      "sponsors": [
+        "Matthew Leber"
+      ]
+    },
+    {
+      "id": "sc-h3064",
+      "billCode": "H3064",
+      "title": "Autopsy photographs",
+      "summary": "Amend The South Carolina Code Of Laws By Amending Section 17-5-535, Relating To Persons Authorized To View Photographs And Videos Of An Autopsy, So As To Restructure The Circumstances Under Which Photographs And Videos Of An Autopsy May Be Disseminated.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-01-14",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.scstatehouse.gov/billsearch.php?billnumbers=3064&session=126&summary=B",
+      "legiscanUrl": "https://legiscan.com/SC/bill/H3064/2025",
+      "legiscanId": 1895376,
+      "sponsors": [
+        "Todd Rutherford"
+      ]
+    },
+    {
+      "id": "sc-s0902",
+      "billCode": "S0902",
+      "title": "Data Centers",
+      "summary": "Amend The South Carolina Code Of Laws So As To Enact The \"data Center Siting Act\"; By Adding Section 58-44-10 So As To Define Terms Pertaining To Data Center Siting; By Adding Section 58-44-20 So As To Require A Certificate Issued By The Public Service Commission Before A Data...",
+      "stage": "Committee",
+      "impactTags": [
+        "environmental-review",
+        "noise-vibration",
+        "local-zoning"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-02-10",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.scstatehouse.gov/billsearch.php?billnumbers=0902&session=126&summary=B",
+      "legiscanUrl": "https://legiscan.com/SC/bill/S0902/2025",
+      "legiscanId": 2113185,
+      "sponsors": [
+        "Luke Rankin",
+        "Tameika Devine"
+      ]
+    },
+    {
+      "id": "sc-s0784",
+      "billCode": "S0784",
+      "title": "Energy",
+      "summary": "Amend The South Carolina Code Of Laws By Amending Section 58-37-20, Relating To The Public Service Commission, So As To Provide For Demand-side Pilot Programs; By Amending Section 58-37-120, Relating To Applications For Permit, So As To Require A Public Comment Period For Any ...",
+      "stage": "Committee",
+      "impactTags": [
+        "tax-incentives"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-13",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.scstatehouse.gov/billsearch.php?billnumbers=0784&session=126&summary=B",
+      "legiscanUrl": "https://legiscan.com/SC/bill/S0784/2025",
+      "legiscanId": 2072871,
+      "sponsors": [
+        "Shane Massey",
+        "George Campsen",
+        "Michael Johnson",
+        "Ed Sutton"
+      ]
+    },
+    {
+      "id": "sc-s0724",
+      "billCode": "S0724",
+      "title": "Commercial Data Center Water Usage Report",
+      "summary": "Amend The South Carolina Code Of Laws By Adding Section 58-27-835 So As To Require Commercial Data Centers That Consume Three Million Gallons Of Water On A Monthly Basis To Annually Report Their Water Usage To The Department Of Environmental Services, To Provide Penalties, And...",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-13",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.scstatehouse.gov/billsearch.php?billnumbers=0724&session=126&summary=B",
+      "legiscanUrl": "https://legiscan.com/SC/bill/S0724/2025",
+      "legiscanId": 2058315,
+      "sponsors": [
+        "Allen Blackmon",
+        "Ed Sutton"
+      ]
+    },
+    {
+      "id": "sc-h5484",
+      "billCode": "H5484",
+      "title": "Energy Affordability Act",
+      "summary": "Amend The South Carolina Code Of Laws By Enacting The \"energy Affordability Act\" By Amending Section 58-37-20, Relating To The Public Service Commission, So As To Provide For Demand-side Pilot Programs; By Amending Section 58-37-120, Relating To Applications For Permit, So As ...",
+      "stage": "Committee",
+      "impactTags": [
+        "tax-incentives"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-01",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.scstatehouse.gov/billsearch.php?billnumbers=5484&session=126&summary=B",
+      "legiscanUrl": "https://legiscan.com/SC/bill/H5484/2025",
+      "legiscanId": 2140456,
+      "sponsors": [
+        "Jermaine Johnson"
+      ]
+    },
+    {
+      "id": "sc-h5179",
+      "billCode": "H5179",
+      "title": "School Mapping Data Program",
+      "summary": "Amend The South Carolina Code Of Laws By Adding Section 59-101-440 So As To Create The School Mapping Data Program Within The State Law Enforcement Division For The Purpose Of Facilitating Efficient Emergency Responses In Public Institutions Of Higher Learning By Public Safety...",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-04",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.scstatehouse.gov/billsearch.php?billnumbers=5179&session=126&summary=B",
+      "legiscanUrl": "https://legiscan.com/SC/bill/H5179/2025",
+      "legiscanId": 2115107,
+      "sponsors": [
+        "Shannon Erickson",
+        "Timothy McGinnis",
+        "Kambrell Garvin",
+        "Hamilton Grant"
+      ]
+    },
+    {
+      "id": "sc-s0268",
+      "billCode": "S0268",
+      "title": "Children and Social Media",
+      "summary": "Amend The South Carolina Code Of Laws By Adding Chapter 80 To Title 39 So As To Provide That A Covered Online Service Shall Take Care In The Use Of A Minor's Personal Data And In The Design And Implementation Of The Service To Prevent Harm To Minors, To Provide That The Online...",
+      "stage": "Committee",
+      "impactTags": [
+        "child-safety",
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2025-05-01",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.scstatehouse.gov/billsearch.php?billnumbers=0268&session=126&summary=B",
+      "legiscanUrl": "https://legiscan.com/SC/bill/S0268/2025",
+      "legiscanId": 1944096,
+      "sponsors": [
+        "Sean Bennett",
+        "Matthew Leber",
+        "Carlisle Kennedy"
+      ]
+    },
+    {
+      "id": "sc-h4583",
+      "billCode": "H4583",
+      "title": "The South Carolina Data Center Responsibility Act",
+      "summary": "Amend The South Carolina Code Of Laws So As To Enact The \"south Carolina Data Center Responsibility Act\"; And By Adding Chapter 81 To Title 39 So As To Ensure That Data Centers Operating In South Carolina Do So Responsibly, Sustainably, And Without Burdening Taxpayers.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-13",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.scstatehouse.gov/billsearch.php?billnumbers=4583&session=126&summary=B",
+      "legiscanUrl": "https://legiscan.com/SC/bill/H4583/2025",
+      "legiscanId": 2059885,
+      "sponsors": [
+        "April Cromer",
+        "Lee Gilreath",
+        "Melissa Oremus",
+        "William Chumley"
+      ]
+    },
+    {
+      "id": "sc-h3431",
+      "billCode": "H3431",
+      "title": "South Carolina Social Media Regulation Act",
+      "summary": "Amend The South Carolina Code Of Laws By Adding Chapter 80 To Title 39 So As To Provide That A Covered Online Service Shall Exercise Reasonable Care In The Use Of Minors' Personal Data, To Provide For Certain Requirements For Covered Online Services, To Restrict The Amount Of ...",
+      "stage": "Enacted",
+      "impactTags": [
+        "child-safety",
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-02-06",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.scstatehouse.gov/billsearch.php?billnumbers=3431&session=126&summary=B",
+      "legiscanUrl": "https://legiscan.com/SC/bill/H3431/2025",
+      "legiscanId": 1895182,
+      "sponsors": [
+        "Weston Newton",
+        "Christopher Wooten",
+        "Thomas Pope",
+        "David Martin"
+      ]
+    },
+    {
+      "id": "sc-s0447",
+      "billCode": "S0447",
+      "title": "License plate reader system",
+      "summary": "Amend The South Carolina Code Of Laws By Adding Section 23-1-235 So As To Define Terms Related To License Plate Reader Systems, To Provide That Only Certain Entities May Use An Automatic License Plate Reader System, And To Provide Guidelines For The Ways In Which Information O...",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-03-12",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.scstatehouse.gov/billsearch.php?billnumbers=0447&session=126&summary=B",
+      "legiscanUrl": "https://legiscan.com/SC/bill/S0447/2025",
+      "legiscanId": 2004771,
+      "sponsors": [
+        "Brian Adams"
+      ]
+    }
+  ]
+}

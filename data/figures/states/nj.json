@@ -1,0 +1,349 @@
+[
+  {
+    "id": "jeff-van-drew",
+    "name": "Jeff Van Drew",
+    "role": "Representative · Judiciary",
+    "party": "R-NJ",
+    "state": "NJ",
+    "chamber": "house",
+    "committees": [
+      "Judiciary",
+      "Homeland Security"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.65,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "christopher-smith",
+    "name": "Christopher Smith",
+    "role": "Representative",
+    "party": "R-NJ",
+    "state": "NJ",
+    "chamber": "house",
+    "committees": [
+      "Foreign Affairs",
+      "Veterans' Affairs"
+    ],
+    "stance": "review",
+    "techRegScore": 0.55,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "thomas-kean-jr",
+    "name": "Thomas Kean Jr.",
+    "role": "Representative · Science, Space, and Technology",
+    "party": "R-NJ",
+    "state": "NJ",
+    "chamber": "house",
+    "committees": [
+      "Foreign Affairs",
+      "Science, Space, and Technology"
+    ],
+    "stance": "review",
+    "techRegScore": 0.5,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "toss-up"
+  },
+  {
+    "id": "josh-gottheimer",
+    "name": "Josh Gottheimer",
+    "role": "Representative · Homeland Security",
+    "party": "D-NJ",
+    "state": "NJ",
+    "chamber": "house",
+    "committees": [
+      "Financial Services",
+      "Homeland Security"
+    ],
+    "stance": "review",
+    "techRegScore": 0.45,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "andy-kim",
+    "name": "Andy Kim",
+    "role": "Representative",
+    "party": "D-NJ",
+    "state": "NJ",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Foreign Affairs"
+    ],
+    "stance": "review",
+    "techRegScore": 0.4,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "mikie-sherrill",
+    "name": "Mikie Sherrill",
+    "role": "Representative · Science, Space, and Technology",
+    "party": "D-NJ",
+    "state": "NJ",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Science, Space, and Technology"
+    ],
+    "stance": "review",
+    "techRegScore": 0.4,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "cory-booker",
+    "name": "Cory Booker",
+    "role": "Senator · Judiciary",
+    "party": "D-NJ",
+    "state": "NJ",
+    "chamber": "senate",
+    "committees": [
+      "Judiciary",
+      "Foreign Relations",
+      "Small Business",
+      "Environment"
+    ],
+    "stance": "none",
+    "quote": "Charismatic progressive advocate focused on criminal justice reform and social equity",
+    "techRegScore": 0.35,
+    "lobbying": {
+      "topIndustries": [
+        "Securities & Investment: $445K",
+        "Pharmaceuticals: $315K",
+        "Lawyers/Law Firms: $285K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 55,
+      "education": "BA Stanford University, Rhodes Scholar Oxford University, JD Yale Law School",
+      "careerBeforePolitics": "Lawyer, Newark City Councilman, Mayor of Newark (2006-2013)"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "andy-kim",
+    "name": "Andy Kim",
+    "role": "Senator",
+    "party": "D-NJ",
+    "state": "NJ",
+    "chamber": "senate",
+    "committees": [
+      "Foreign Relations",
+      "Armed Services"
+    ],
+    "stance": "none",
+    "quote": "Foreign policy expertise and pragmatic approach to governance",
+    "techRegScore": 0.35,
+    "lobbying": {
+      "topIndustries": [
+        "Defense Contractors $1.1M",
+        "Pharmaceuticals $950K",
+        "Technology $880K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 42,
+      "education": "PhD in International Relations from Oxford (Rhodes Scholar), BA from University of Chicago",
+      "careerBeforePolitics": "National Security Council staffer, Pentagon strategic planner, served three House terms"
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "donald-norcross",
+    "name": "Donald Norcross",
+    "role": "Representative",
+    "party": "D-NJ",
+    "state": "NJ",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Education and Labor"
+    ],
+    "stance": "none",
+    "techRegScore": 0.35,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "frank-pallone-jr",
+    "name": "Frank Pallone Jr.",
+    "role": "Representative · Energy and Commerce",
+    "party": "D-NJ",
+    "state": "NJ",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce"
+    ],
+    "stance": "none",
+    "techRegScore": 0.3,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "rob-menendez",
+    "name": "Rob Menendez",
+    "role": "Representative · Homeland Security",
+    "party": "D-NJ",
+    "state": "NJ",
+    "chamber": "house",
+    "committees": [
+      "Homeland Security",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "none",
+    "techRegScore": 0.25,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "bill-pascrell-jr",
+    "name": "Bill Pascrell Jr.",
+    "role": "Representative · Judiciary",
+    "party": "D-NJ",
+    "state": "NJ",
+    "chamber": "house",
+    "committees": [
+      "Ways and Means",
+      "Judiciary"
+    ],
+    "stance": "none",
+    "techRegScore": 0.25,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "donald-payne-jr",
+    "name": "Donald Payne Jr.",
+    "role": "Representative · Homeland Security",
+    "party": "D-NJ",
+    "state": "NJ",
+    "chamber": "house",
+    "committees": [
+      "Homeland Security",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "none",
+    "techRegScore": 0.25,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "bonnie-watson-coleman",
+    "name": "Bonnie Watson Coleman",
+    "role": "Representative · Homeland Security",
+    "party": "D-NJ",
+    "state": "NJ",
+    "chamber": "house",
+    "committees": [
+      "Homeland Security",
+      "Appropriations"
+    ],
+    "stance": "none",
+    "techRegScore": 0.2,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  }
+]

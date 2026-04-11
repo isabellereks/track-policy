@@ -1,0 +1,261 @@
+[
+  {
+    "id": "josh-hawley",
+    "name": "Josh Hawley",
+    "role": "Senator · Judiciary",
+    "party": "R-MO",
+    "state": "MO",
+    "chamber": "senate",
+    "committees": [
+      "Judiciary",
+      "Commerce",
+      "Homeland Security",
+      "Small Business"
+    ],
+    "stance": "favorable",
+    "quote": "National conservative star who challenges Big Tech while championing working-class populism",
+    "techRegScore": 0.82,
+    "lobbying": {
+      "topIndustries": [
+        "Securities & Investment $680K",
+        "Real Estate $520K",
+        "Health Professionals $490K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 45,
+      "education": "BA Stanford University, JD Yale Law School",
+      "careerBeforePolitics": "Law professor, Missouri Attorney General, Supreme Court clerk"
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "eric-burlison",
+    "name": "Eric Burlison",
+    "role": "Representative · Science, Space, and Technology",
+    "party": "R-MO",
+    "state": "MO",
+    "chamber": "house",
+    "committees": [
+      "Oversight and Accountability",
+      "Science, Space, and Technology"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.78,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "eric-schmitt",
+    "name": "Eric Schmitt",
+    "role": "Senator · Commerce",
+    "party": "R-MO",
+    "state": "MO",
+    "chamber": "senate",
+    "committees": [
+      "Armed Services",
+      "Commerce",
+      "Judiciary",
+      "Joint Economic"
+    ],
+    "stance": "favorable",
+    "quote": "Former Attorney General known for fighting Big Tech and federal overreach",
+    "techRegScore": 0.75,
+    "lobbying": {
+      "topIndustries": [
+        "Real Estate $210,000",
+        "Securities & Investment $185,000",
+        "Oil & Gas $155,000"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 49,
+      "education": "Truman State University (B.A.), Saint Louis University School of Law (J.D.)",
+      "careerBeforePolitics": "Attorney, Missouri State Treasurer, Missouri Attorney General"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "jason-smith",
+    "name": "Jason Smith",
+    "role": "Representative · House Ways and Means Committee Chair",
+    "party": "R-MO",
+    "state": "MO",
+    "chamber": "house",
+    "committees": [
+      "Ways and Means"
+    ],
+    "stance": "favorable",
+    "quote": "Tax policy expertise and fiscal conservative leadership",
+    "techRegScore": 0.74,
+    "lobbying": {
+      "topIndustries": [
+        "Finance with $245K",
+        "Real Estate with $156K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 44,
+      "education": "University of Missouri, Oklahoma City University School of Law",
+      "careerBeforePolitics": "Attorney, family farm operations"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "mark-alford",
+    "name": "Mark Alford",
+    "role": "Representative",
+    "party": "R-MO",
+    "state": "MO",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Agriculture"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.74,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "sam-graves",
+    "name": "Sam Graves",
+    "role": "Representative · House Transportation and Infrastructure Committee Chair",
+    "party": "R-MO",
+    "state": "MO",
+    "chamber": "house",
+    "committees": [
+      "Transportation"
+    ],
+    "stance": "favorable",
+    "quote": "Bipartisan infrastructure dealmaking and aviation expertise",
+    "techRegScore": 0.69,
+    "lobbying": {
+      "topIndustries": [
+        "Transportation with $198K",
+        "Agriculture with $142K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 61,
+      "education": "University of Missouri-Columbia",
+      "careerBeforePolitics": "Farm equipment dealer, pilot, Missouri General Assembly"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "blaine-luetkemeyer",
+    "name": "Blaine Luetkemeyer",
+    "role": "Representative",
+    "party": "R-MO",
+    "state": "MO",
+    "chamber": "house",
+    "committees": [
+      "Financial Services",
+      "Small Business"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.67,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "ann-wagner",
+    "name": "Ann Wagner",
+    "role": "Representative",
+    "party": "R-MO",
+    "state": "MO",
+    "chamber": "house",
+    "committees": [
+      "Financial Services",
+      "Foreign Affairs"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.61,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "emanuel-cleaver",
+    "name": "Emanuel Cleaver",
+    "role": "Representative",
+    "party": "D-MO",
+    "state": "MO",
+    "chamber": "house",
+    "committees": [
+      "Financial Services"
+    ],
+    "stance": "none",
+    "techRegScore": 0.28,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "cori-bush",
+    "name": "Cori Bush",
+    "role": "Representative · Judiciary",
+    "party": "D-MO",
+    "state": "MO",
+    "chamber": "house",
+    "committees": [
+      "Judiciary",
+      "Oversight and Accountability"
+    ],
+    "stance": "none",
+    "techRegScore": 0.18,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  }
+]

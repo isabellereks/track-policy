@@ -8,14 +8,26 @@ import { STANCE_HEX } from "./map-utils";
 export const DIMENSION_TAGS: Record<Exclude<Dimension, "overall">, ImpactTag[]> =
   {
     environmental: [
-      "national-park",
-      "water",
-      "emissions",
-      "environmental-study",
+      "water-consumption",
+      "carbon-emissions",
+      "protected-land",
+      "environmental-review",
+      "renewable-energy",
     ],
-    energy: ["grid-strain", "rate-hikes", "renewable-mandate"],
-    community: ["noise", "local-control"],
-    "land-use": ["agricultural-land", "national-park", "zoning"],
+    energy: ["grid-capacity", "energy-rates", "water-infrastructure"],
+    community: [
+      "noise-vibration",
+      "local-zoning",
+      "local-control",
+      "residential-proximity",
+      "property-values",
+    ],
+    "land-use": [
+      "protected-land",
+      "local-zoning",
+      "residential-proximity",
+      "property-values",
+    ],
   };
 
 /**

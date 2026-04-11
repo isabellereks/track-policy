@@ -1,0 +1,131 @@
+[
+  {
+    "id": "ben-ray-luj-n",
+    "name": "Ben Ray Luján",
+    "role": "Senator · Commerce",
+    "party": "D-NM",
+    "state": "NM",
+    "chamber": "senate",
+    "committees": [
+      "Commerce",
+      "Health Education Labor and Pensions",
+      "Indian Affairs"
+    ],
+    "stance": "none",
+    "quote": "Digital divide and broadband access advocacy",
+    "techRegScore": 0.32,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "martin-heinrich",
+    "name": "Martin Heinrich",
+    "role": "Senator · Energy",
+    "party": "D-NM",
+    "state": "NM",
+    "chamber": "senate",
+    "committees": [
+      "Appropriations",
+      "Armed Services",
+      "Energy",
+      "Intelligence"
+    ],
+    "stance": "none",
+    "quote": "Pragmatic environmentalist who balances New Mexico's energy interests with climate goals",
+    "techRegScore": 0.3,
+    "lobbying": {
+      "topIndustries": [
+        "Oil & Gas: $180K",
+        "Defense Aerospace: $165K",
+        "Electric Utilities: $145K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 53,
+      "education": "BS Mechanical Engineering University of Missouri, MS University of New Mexico",
+      "careerBeforePolitics": "Software entrepreneur, founded Cottonwood Gulch Foundation outdoor education nonprofit"
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "melanie-stansbury",
+    "name": "Melanie Stansbury",
+    "role": "Representative · Science, Space, and Technology",
+    "party": "D-NM",
+    "state": "NM",
+    "chamber": "house",
+    "committees": [
+      "Natural Resources",
+      "Science, Space, and Technology"
+    ],
+    "stance": "none",
+    "techRegScore": 0.28,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "teresa-leger-fernandez",
+    "name": "Teresa Leger Fernandez",
+    "role": "Representative",
+    "party": "D-NM",
+    "state": "NM",
+    "chamber": "house",
+    "committees": [
+      "Education and Labor",
+      "Natural Resources"
+    ],
+    "stance": "none",
+    "techRegScore": 0.25,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "gabe-vasquez",
+    "name": "Gabe Vasquez",
+    "role": "Representative · Science, Space, and Technology",
+    "party": "D-NM",
+    "state": "NM",
+    "chamber": "house",
+    "committees": [
+      "Agriculture",
+      "Science, Space, and Technology"
+    ],
+    "stance": "none",
+    "techRegScore": 0.25,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "toss-up"
+  }
+]

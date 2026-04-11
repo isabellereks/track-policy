@@ -1,0 +1,477 @@
+[
+  {
+    "id": "scott-perry",
+    "name": "Scott Perry",
+    "role": "Representative",
+    "party": "R-PA",
+    "state": "PA",
+    "chamber": "house",
+    "committees": [
+      "Foreign Affairs",
+      "Oversight"
+    ],
+    "stance": "favorable",
+    "quote": "Freedom Caucus member and election skeptic with confrontational style",
+    "techRegScore": 0.8,
+    "lobbying": {
+      "topIndustries": [
+        "manufacturing with $95K",
+        "agriculture with $78K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 62,
+      "education": "Penn State mechanical engineering",
+      "careerBeforePolitics": "Mechanical engineer, small business owner"
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "guy-reschenthaler",
+    "name": "Guy Reschenthaler",
+    "role": "Representative · Judiciary",
+    "party": "R-PA",
+    "state": "PA",
+    "chamber": "house",
+    "committees": [
+      "Appropriations",
+      "Judiciary"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.75,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "dan-meuser",
+    "name": "Dan Meuser",
+    "role": "Representative",
+    "party": "R-PA",
+    "state": "PA",
+    "chamber": "house",
+    "committees": [
+      "Education and Workforce",
+      "Veterans' Affairs"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.7,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "john-joyce",
+    "name": "John Joyce",
+    "role": "Representative · Energy and Commerce",
+    "party": "R-PA",
+    "state": "PA",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.7,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "dave-mccormick",
+    "name": "Dave McCormick",
+    "role": "Senator",
+    "party": "R-PA",
+    "state": "PA",
+    "chamber": "senate",
+    "committees": [
+      "Banking",
+      "Armed Services",
+      "Agriculture"
+    ],
+    "stance": "favorable",
+    "quote": "Former hedge fund CEO and West Point graduate with extensive national security background",
+    "techRegScore": 0.66,
+    "lobbying": {
+      "topIndustries": [
+        "Securities & Investment: $2.8M",
+        "Defense Aerospace: $1.9M",
+        "Commercial Banks: $1.1M"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 59,
+      "education": "BS from West Point, PhD in International Relations from Princeton, MBA from Wharton",
+      "careerBeforePolitics": "Army Airborne Ranger, McKinsey consultant, Treasury Under Secretary, CEO of Bridgewater Associates hedge fund"
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "lloyd-smucker",
+    "name": "Lloyd Smucker",
+    "role": "Representative",
+    "party": "R-PA",
+    "state": "PA",
+    "chamber": "house",
+    "committees": [
+      "Education and Workforce",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.65,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "mike-kelly",
+    "name": "Mike Kelly",
+    "role": "Representative",
+    "party": "R-PA",
+    "state": "PA",
+    "chamber": "house",
+    "committees": [
+      "Oversight and Accountability",
+      "Ways and Means"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.65,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "glenn-thompson",
+    "name": "Glenn Thompson",
+    "role": "Representative",
+    "party": "R-PA",
+    "state": "PA",
+    "chamber": "house",
+    "committees": [
+      "Agriculture",
+      "Education and Workforce"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.6,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "brian-fitzpatrick",
+    "name": "Brian Fitzpatrick",
+    "role": "Representative · Intelligence",
+    "party": "R-PA",
+    "state": "PA",
+    "chamber": "house",
+    "committees": [
+      "Intelligence",
+      "Ethics"
+    ],
+    "stance": "review",
+    "quote": "Most bipartisan Republican in House, former FBI agent who works across the aisle constantly",
+    "techRegScore": 0.5,
+    "lobbying": {
+      "topIndustries": [
+        "Healthcare with $245K",
+        "Finance with $190K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 51,
+      "education": "LaSalle University (BA, JD), Penn State (MBA)",
+      "careerBeforePolitics": "FBI Special Agent, federal prosecutor"
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "chrissy-houlahan",
+    "name": "Chrissy Houlahan",
+    "role": "Representative",
+    "party": "D-PA",
+    "state": "PA",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Small Business"
+    ],
+    "stance": "review",
+    "techRegScore": 0.4,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "susan-wild",
+    "name": "Susan Wild",
+    "role": "Representative",
+    "party": "D-PA",
+    "state": "PA",
+    "chamber": "house",
+    "committees": [
+      "Education and Workforce",
+      "Foreign Affairs"
+    ],
+    "stance": "none",
+    "techRegScore": 0.35,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "toss-up"
+  },
+  {
+    "id": "matt-cartwright",
+    "name": "Matt Cartwright",
+    "role": "Representative",
+    "party": "D-PA",
+    "state": "PA",
+    "chamber": "house",
+    "committees": [
+      "Appropriations"
+    ],
+    "stance": "none",
+    "techRegScore": 0.35,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "toss-up"
+  },
+  {
+    "id": "john-fetterman",
+    "name": "John Fetterman",
+    "role": "Senator",
+    "party": "D-PA",
+    "state": "PA",
+    "chamber": "senate",
+    "committees": [
+      "Agriculture",
+      "Banking",
+      "Environment"
+    ],
+    "stance": "none",
+    "quote": "Hoodie-wearing progressive who defied stroke recovery odds and supports Israel",
+    "techRegScore": 0.3,
+    "lobbying": {
+      "topIndustries": [
+        "Labor unions $850K",
+        "Real estate $420K",
+        "Securities & investment $380K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 54,
+      "education": "Albright College (BA), University of Connecticut (MBA), Harvard Kennedy School (MPP)",
+      "careerBeforePolitics": "Mayor of Braddock for 13 years, community organizer, worked with AmeriCorps"
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "chris-deluzio",
+    "name": "Chris Deluzio",
+    "role": "Representative",
+    "party": "D-PA",
+    "state": "PA",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Veterans' Affairs"
+    ],
+    "stance": "none",
+    "techRegScore": 0.3,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "madeleine-dean",
+    "name": "Madeleine Dean",
+    "role": "Representative · Judiciary",
+    "party": "D-PA",
+    "state": "PA",
+    "chamber": "house",
+    "committees": [
+      "Financial Services",
+      "Judiciary"
+    ],
+    "stance": "none",
+    "techRegScore": 0.3,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "brendan-boyle",
+    "name": "Brendan Boyle",
+    "role": "Representative",
+    "party": "D-PA",
+    "state": "PA",
+    "chamber": "house",
+    "committees": [
+      "Budget",
+      "Ways and Means"
+    ],
+    "stance": "none",
+    "techRegScore": 0.25,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "dwight-evans",
+    "name": "Dwight Evans",
+    "role": "Representative",
+    "party": "D-PA",
+    "state": "PA",
+    "chamber": "house",
+    "committees": [
+      "Agriculture",
+      "Small Business",
+      "Ways and Means"
+    ],
+    "stance": "none",
+    "techRegScore": 0.25,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "mary-gay-scanlon",
+    "name": "Mary Gay Scanlon",
+    "role": "Representative · Judiciary",
+    "party": "D-PA",
+    "state": "PA",
+    "chamber": "house",
+    "committees": [
+      "Judiciary",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "none",
+    "techRegScore": 0.25,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "summer-lee",
+    "name": "Summer Lee",
+    "role": "Representative · Space, Science, and Technology",
+    "party": "D-PA",
+    "state": "PA",
+    "chamber": "house",
+    "committees": [
+      "Oversight and Accountability",
+      "Space, Science, and Technology"
+    ],
+    "stance": "none",
+    "techRegScore": 0.2,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  }
+]

@@ -1,0 +1,227 @@
+{
+  "state": "Texas",
+  "stateCode": "TX",
+  "region": "na",
+  "stance": "review",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "Texas has 12 bills tracked in 2025–2026. 5 are already enacted. 2 offer incentives or exemptions.",
+  "legislation": [
+    {
+      "id": "tx-sb1343",
+      "billCode": "SB1343",
+      "title": "Relating to the notice requirements of a data broker registration statement and Internet website.",
+      "summary": "Relating to the notice requirements of a data broker registration statement and Internet website.",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-06-20",
+      "partyOrigin": "B",
+      "sourceUrl": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB1343",
+      "legiscanUrl": "https://legiscan.com/TX/bill/SB1343/2025",
+      "legiscanId": 1973475,
+      "sponsors": [
+        "Nathan Johnson",
+        "Cesar Blanco",
+        "Caroline Harris Davila"
+      ]
+    },
+    {
+      "id": "tx-hr616",
+      "billCode": "HR616",
+      "title": "Honoring Donald K. Stephens for his work as the founder and president emeritus of Mercy Ships.",
+      "summary": "Honoring Donald K. Stephens for his work as the founder and president emeritus of Mercy Ships.",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-04-01",
+      "partyOrigin": "R",
+      "sourceUrl": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HR616",
+      "legiscanUrl": "https://legiscan.com/TX/bill/HR616/2025",
+      "legiscanId": 2011508,
+      "sponsors": [
+        "Cole Hefner"
+      ]
+    },
+    {
+      "id": "tx-hr1444",
+      "billCode": "HR1444",
+      "title": "Commemorating the 10th anniversary of the Día de Los Muertos performances by Round Rock Ballet Folklórico.",
+      "summary": "Commemorating the 10th anniversary of the Día de Los Muertos performances by Round Rock Ballet Folklórico.",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-06-01",
+      "partyOrigin": "D",
+      "sourceUrl": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HR1444",
+      "legiscanUrl": "https://legiscan.com/TX/bill/HR1444/2025",
+      "legiscanId": 2034228,
+      "sponsors": [
+        "John Bucy"
+      ]
+    },
+    {
+      "id": "tx-sb2121",
+      "billCode": "SB2121",
+      "title": "Relating to the regulation of certain business entities that act as data brokers.",
+      "summary": "Relating to the regulation of certain business entities that act as data brokers.",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-06-20",
+      "partyOrigin": "B",
+      "sourceUrl": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB2121",
+      "legiscanUrl": "https://legiscan.com/TX/bill/SB2121/2025",
+      "legiscanId": 1996370,
+      "sponsors": [
+        "Nathan Johnson",
+        "Keith Bell"
+      ]
+    },
+    {
+      "id": "tx-hb5228",
+      "billCode": "HB5228",
+      "title": "Relating to the collection of certain incident-based data reported to the Texas Commission on Law Enforcement.",
+      "summary": "Relating to the collection of certain incident-based data reported to the Texas Commission on Law Enforcement.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-05-15",
+      "partyOrigin": "B",
+      "sourceUrl": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB5228",
+      "legiscanUrl": "https://legiscan.com/TX/bill/HB5228/2025",
+      "legiscanId": 2007325,
+      "sponsors": [
+        "Charlene Ward Johnson",
+        "Ann Johnson",
+        "Jeff Leach",
+        "Lauren Ashley Simmons"
+      ]
+    },
+    {
+      "id": "tx-hb3963",
+      "billCode": "HB3963",
+      "title": "Relating to an early childhood integrated data system.",
+      "summary": "Relating to an early childhood integrated data system.",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-06-20",
+      "partyOrigin": "B",
+      "sourceUrl": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB3963",
+      "legiscanUrl": "https://legiscan.com/TX/bill/HB3963/2025",
+      "legiscanId": 1993659,
+      "sponsors": [
+        "Giovanni Capriglione",
+        "Salman Bhojani",
+        "Lacey Hull",
+        "Angela Paxton"
+      ]
+    },
+    {
+      "id": "tx-sb2888",
+      "billCode": "SB2888",
+      "title": "Relating to the temporary sales and use tax exemptions for certain tangible personal property related to data centers and large data center projects.",
+      "summary": "Relating to the temporary sales and use tax exemptions for certain tangible personal property related to data centers and large data center projects.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-03-14",
+      "partyOrigin": "D",
+      "sourceUrl": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB2888",
+      "legiscanUrl": "https://legiscan.com/TX/bill/SB2888/2025",
+      "legiscanId": 2008115,
+      "sponsors": [
+        "Molly Cook"
+      ]
+    },
+    {
+      "id": "tx-hb636",
+      "billCode": "HB636",
+      "title": "Relating to the implementation of a statewide homeless data sharing network to share real-time data on homelessness.",
+      "summary": "Relating to the implementation of a statewide homeless data sharing network to share real-time data on homelessness.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-05-16",
+      "partyOrigin": "D",
+      "sourceUrl": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB636",
+      "legiscanUrl": "https://legiscan.com/TX/bill/HB636/2025",
+      "legiscanId": 1891459,
+      "sponsors": [
+        "Armando Walle",
+        "Cassandra Garcia Hernandez"
+      ]
+    },
+    {
+      "id": "tx-hb2083",
+      "billCode": "HB2083",
+      "title": "Relating to the use of automatic license plate reader systems.",
+      "summary": "Relating to the use of automatic license plate reader systems.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-01-24",
+      "partyOrigin": "D",
+      "sourceUrl": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2083",
+      "legiscanUrl": "https://legiscan.com/TX/bill/HB2083/2025",
+      "legiscanId": 1940402,
+      "sponsors": [
+        "John Bucy"
+      ]
+    },
+    {
+      "id": "tx-hb2874",
+      "billCode": "HB2874",
+      "title": "Relating to the inclusion of provenance data on content shared on social media platforms.",
+      "summary": "Relating to the inclusion of provenance data on content shared on social media platforms.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-02-14",
+      "partyOrigin": "B",
+      "sourceUrl": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2874",
+      "legiscanUrl": "https://legiscan.com/TX/bill/HB2874/2025",
+      "legiscanId": 1971072,
+      "sponsors": [
+        "Suleman Lalani",
+        "Oscar Longoria",
+        "Claudia Ordaz Perez",
+        "Todd Hunter"
+      ]
+    },
+    {
+      "id": "tx-sb2194",
+      "billCode": "SB2194",
+      "title": "Relating to an early childhood integrated data system.",
+      "summary": "Relating to an early childhood integrated data system.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-03-11",
+      "partyOrigin": "R",
+      "sourceUrl": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB2194",
+      "legiscanUrl": "https://legiscan.com/TX/bill/SB2194/2025",
+      "legiscanId": 1999683,
+      "sponsors": [
+        "Angela Paxton"
+      ]
+    },
+    {
+      "id": "tx-sb2222",
+      "billCode": "SB2222",
+      "title": "Relating to an exemption from ad valorem taxation of the total appraised value of real property used as a data center and the tangible personal property used by the data center to meet the data center's demand for energy.",
+      "summary": "Relating to an exemption from ad valorem taxation of the total appraised value of real property used as a data center and the tangible personal property used by the data center to meet the data center's demand for energy.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-03-11",
+      "partyOrigin": "R",
+      "sourceUrl": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB2222",
+      "legiscanUrl": "https://legiscan.com/TX/bill/SB2222/2025",
+      "legiscanId": 1999799,
+      "sponsors": [
+        "Tan Parker"
+      ]
+    }
+  ]
+}

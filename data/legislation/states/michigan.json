@@ -1,0 +1,249 @@
+{
+  "state": "Michigan",
+  "stateCode": "MI",
+  "region": "na",
+  "stance": "concerning",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "Michigan has 12 bills tracked in 2025–2026. 2 relate to moratoriums or prohibitions.",
+  "legislation": [
+    {
+      "id": "mi-sb0198",
+      "billCode": "SB0198",
+      "title": "Occupations: vehicles, dealers, and repair facilities; requirements for automobile dealer data collection; provide for. Creates new act.",
+      "summary": "Occupations: vehicles, dealers, and repair facilities; requirements for automobile dealer data collection; provide for. Creates new act.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-28",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0198",
+      "legiscanUrl": "https://legiscan.com/MI/bill/SB0198/2025",
+      "legiscanId": 2011578,
+      "sponsors": [
+        "Samir Singh"
+      ]
+    },
+    {
+      "id": "mi-sb0760",
+      "billCode": "SB0760",
+      "title": "Trade: business regulation; availability of companion chatbots to minors; prohibit. Creates new act.",
+      "summary": "Trade: business regulation; availability of companion chatbots to minors; prohibit. Creates new act.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-12-17",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0760",
+      "legiscanUrl": "https://legiscan.com/MI/bill/SB0760/2025",
+      "legiscanId": 2059480,
+      "sponsors": [
+        "Dayna Polehanki",
+        "Erika Geiss"
+      ]
+    },
+    {
+      "id": "mi-hb4261",
+      "billCode": "HB4261",
+      "title": "State management: funds; public safety and violence prevention fund; create. Amends title & sec. 2 of 2000 PA 489 (MCL 12.252) & adds secs. 11a & 11b. TIE BAR WITH: HB 4260'25",
+      "summary": "State management: funds; public safety and violence prevention fund; create. Amends title & sec. 2 of 2000 PA 489 (MCL 12.252) & adds secs. 11a & 11b. TIE BAR WITH: HB 4260'25",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-04-22",
+      "partyOrigin": "B",
+      "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4261",
+      "legiscanUrl": "https://legiscan.com/MI/bill/HB4261/2025",
+      "legiscanId": 2010318,
+      "sponsors": [
+        "Alabas Farhat",
+        "Stephanie Young",
+        "Angela Witwer",
+        "Jason Hoskins"
+      ]
+    },
+    {
+      "id": "mi-sb0359",
+      "billCode": "SB0359",
+      "title": "Consumer protection: privacy; personal data privacy act; create. Creates new act.",
+      "summary": "Consumer protection: privacy; personal data privacy act; create. Creates new act.",
+      "stage": "Committee",
+      "impactTags": [
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2025-06-05",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0359",
+      "legiscanUrl": "https://legiscan.com/MI/bill/SB0359/2025",
+      "legiscanId": 2035569,
+      "sponsors": [
+        "Rosemary Bayer",
+        "Stephanie Chang",
+        "Mary Cavanagh",
+        "Erika Geiss"
+      ]
+    },
+    {
+      "id": "mi-hb5769",
+      "billCode": "HB5769",
+      "title": "Consumer protection: privacy; reproductive health data privacy act; create. Creates new act.",
+      "summary": "Consumer protection: privacy; reproductive health data privacy act; create. Creates new act.",
+      "stage": "Committee",
+      "impactTags": [
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-03-19",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5769",
+      "legiscanUrl": "https://legiscan.com/MI/bill/HB5769/2025",
+      "legiscanId": 2136170,
+      "sponsors": [
+        "Mai Xiong",
+        "Morgan Foreman",
+        "Reggie Miller",
+        "Sharon MacDonell"
+      ]
+    },
+    {
+      "id": "mi-sb0645",
+      "billCode": "SB0645",
+      "title": "Economic development: other; use tax act; amend to reflect elimination of the Michigan strategic fund. Amends sec. 4cc of 1937 PA 94 (MCL 205.94cc). TIE BAR WITH: SB 0631'25",
+      "summary": "Economic development: other; use tax act; amend to reflect elimination of the Michigan strategic fund. Amends sec. 4cc of 1937 PA 94 (MCL 205.94cc). TIE BAR WITH: SB 0631'25",
+      "stage": "Committee",
+      "impactTags": [
+        "economic-development"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-10-30",
+      "partyOrigin": "R",
+      "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0645",
+      "legiscanUrl": "https://legiscan.com/MI/bill/SB0645/2025",
+      "legiscanId": 2051212,
+      "sponsors": [
+        "Thomas Albert"
+      ]
+    },
+    {
+      "id": "mi-sb0643",
+      "billCode": "SB0643",
+      "title": "Economic development: other; general sales tax act; amend to reflect elimination of the Michigan strategic fund. Amends sec. 4ee of 1933 PA 167 (MCL 205.54ee). TIE BAR WITH: SB 0631'25",
+      "summary": "Economic development: other; general sales tax act; amend to reflect elimination of the Michigan strategic fund. Amends sec. 4ee of 1933 PA 167 (MCL 205.54ee). TIE BAR WITH: SB 0631'25",
+      "stage": "Committee",
+      "impactTags": [
+        "tax-incentives",
+        "economic-development"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-10-30",
+      "partyOrigin": "R",
+      "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0643",
+      "legiscanUrl": "https://legiscan.com/MI/bill/SB0643/2025",
+      "legiscanId": 2051181,
+      "sponsors": [
+        "Thomas Albert"
+      ]
+    },
+    {
+      "id": "mi-sb0758",
+      "billCode": "SB0758",
+      "title": "Communications: internet; Michigan kids code act; create. Creates new act. TIE BAR WITH: SB 0759'25",
+      "summary": "Communications: internet; Michigan kids code act; create. Creates new act. TIE BAR WITH: SB 0759'25",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-12-17",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0758",
+      "legiscanUrl": "https://legiscan.com/MI/bill/SB0758/2025",
+      "legiscanId": 2059487,
+      "sponsors": [
+        "Kevin Hertel",
+        "Mallory McMorrow",
+        "Erika Geiss"
+      ]
+    },
+    {
+      "id": "mi-hb5579",
+      "billCode": "HB5579",
+      "title": "Labor: fair employment practices; use of electronic monitoring or automated decisions tools by an employer; prohibit except for certain purposes. Creates new act.",
+      "summary": "Labor: fair employment practices; use of electronic monitoring or automated decisions tools by an employer; prohibit except for certain purposes. Creates new act.",
+      "stage": "Committee",
+      "impactTags": [
+        "algorithmic-transparency"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-24",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5579",
+      "legiscanUrl": "https://legiscan.com/MI/bill/HB5579/2025",
+      "legiscanId": 2123032,
+      "sponsors": [
+        "Penelope Tsernoglou",
+        "Stephen Wooden",
+        "Matt Koleszar",
+        "Cynthia Neeley"
+      ]
+    },
+    {
+      "id": "mi-hb4037",
+      "billCode": "HB4037",
+      "title": "Records: health; health information exchange; establish certain requirements to operate a health data utility. Amends secs. 2501 & 2505 of 1978 PA 368 (MCL 333.2501 & 333.2505) & adds sec. 2508.",
+      "summary": "Records: health; health information exchange; establish certain requirements to operate a health data utility. Amends secs. 2501 & 2505 of 1978 PA 368 (MCL 333.2501 & 333.2505) & adds sec. 2508.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-01-29",
+      "partyOrigin": "B",
+      "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4037",
+      "legiscanUrl": "https://legiscan.com/MI/bill/HB4037/2025",
+      "legiscanId": 1946420,
+      "sponsors": [
+        "Julie Rogers",
+        "Curtis VanderWall",
+        "Stephen Wooden",
+        "John Roth"
+      ]
+    },
+    {
+      "id": "mi-hb5493",
+      "billCode": "HB5493",
+      "title": "Law enforcement: other; guidelines for use of registration plate reader systems; provide for. Creates new act. TIE BAR WITH: HB 5492'26",
+      "summary": "Law enforcement: other; guidelines for use of registration plate reader systems; provide for. Creates new act. TIE BAR WITH: HB 5492'26",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-29",
+      "partyOrigin": "B",
+      "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5493",
+      "legiscanUrl": "https://legiscan.com/MI/bill/HB5493/2025",
+      "legiscanId": 2101942,
+      "sponsors": [
+        "Jimmie Wilson",
+        "Douglas Wozniak",
+        "Donavan McKinney",
+        "Sharon MacDonell"
+      ]
+    },
+    {
+      "id": "mi-hb4149",
+      "billCode": "HB4149",
+      "title": "Education: school districts; certain information on the school district's, intermediate school district's, or public school academy's website; require a school district, an intermediate school district, or a public school academy to post. Amends 1976 PA 451 (MCL 380.1 - 380.1852) by adding sec. 1280h.",
+      "summary": "Education: school districts; certain information on the school district's, intermediate school district's, or public school academy's website; require a school district, an intermediate school district, or a public school academy to post. Amends 1976 PA 451 (MCL 380.1 - 380.18...",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-03-20",
+      "partyOrigin": "R",
+      "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4149",
+      "legiscanUrl": "https://legiscan.com/MI/bill/HB4149/2025",
+      "legiscanId": 1986223,
+      "sponsors": [
+        "Tom Kuhn",
+        "Donni Steele",
+        "Bill Schuette",
+        "Jay DeBoyer"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "state": "Indiana",
+  "stateCode": "IN",
+  "region": "na",
+  "stance": "review",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "Indiana has 12 bills tracked in 2025–2026. 4 are already enacted.",
+  "legislation": [
+    {
+      "id": "in-sb0083",
+      "billCode": "SB0083",
+      "title": "Various utility matters.",
+      "summary": "Various utility matters. Provides that a transaction involving the sale of utility service, as reflected in the total amount billed by a utility in a customer bill that is issued after December 31, 2026, is exempt from the state gross retail tax. Provides that this exemption a...",
+      "stage": "Committee",
+      "impactTags": [
+        "energy-rates",
+        "residential-proximity",
+        "tax-incentives"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-12-08",
+      "partyOrigin": "D",
+      "sourceUrl": "https://iga.in.gov/legislative/2026/bills/senate/83/details",
+      "legiscanUrl": "https://legiscan.com/IN/bill/SB0083/2026",
+      "legiscanId": 2056672,
+      "sponsors": [
+        "Fady Qaddoura"
+      ]
+    },
+    {
+      "id": "in-hb1271",
+      "billCode": "HB1271",
+      "title": "Payment of health claims.",
+      "summary": "Payment of health claims. Requires a hospital to: (1) disclose information concerning payment assistance programs; (2) post signs concerning the programs in specified locations of the hospital; and (3) make information concerning the programs available to individuals through t...",
+      "stage": "Enacted",
+      "impactTags": [
+        "energy-rates"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-04",
+      "partyOrigin": "B",
+      "sourceUrl": "https://iga.in.gov/legislative/2026/bills/house/1271/details",
+      "legiscanUrl": "https://legiscan.com/IN/bill/HB1271/2026",
+      "legiscanId": 2065548,
+      "sponsors": [
+        "Julie McGuire",
+        "Lori Goss-Reaves",
+        "Martin Carbaugh",
+        "Victoria Garcia Wilburn"
+      ]
+    },
+    {
+      "id": "in-hb1178",
+      "billCode": "HB1178",
+      "title": "Minor access to social media.",
+      "summary": "Minor access to social media. Provides that a social media provider that meets specified conditions (provider) may not create an account for an individual who is less than 14 years of age (minor) unless the provider receives verifiable parental consent to creation of the accou...",
+      "stage": "Committee",
+      "impactTags": [
+        "child-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-05",
+      "partyOrigin": "R",
+      "sourceUrl": "https://iga.in.gov/legislative/2026/bills/house/1178/details",
+      "legiscanUrl": "https://legiscan.com/IN/bill/HB1178/2026",
+      "legiscanId": 2065133,
+      "sponsors": [
+        "Joanna King",
+        "Robert Behning",
+        "Jake Teshka"
+      ]
+    },
+    {
+      "id": "in-hb1333",
+      "billCode": "HB1333",
+      "title": "Land use and development.",
+      "summary": "Land use and development. Requires a development that is sited on land: (1) in an area zoned agricultural; and (2) comprised of certain capability classes of soils; to be a permitted use. Extends governmental immunity to a private entity or nonprofit entity that has executed c...",
+      "stage": "Committee",
+      "impactTags": [
+        "local-zoning",
+        "tax-incentives"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-03",
+      "partyOrigin": "R",
+      "sourceUrl": "https://iga.in.gov/legislative/2026/bills/house/1333/details",
+      "legiscanUrl": "https://legiscan.com/IN/bill/HB1333/2026",
+      "legiscanId": 2065736,
+      "sponsors": [
+        "Kendell Culp",
+        "Jim Pressel",
+        "Craig Haggard",
+        "Eric Koch"
+      ]
+    },
+    {
+      "id": "in-hb1358",
+      "billCode": "HB1358",
+      "title": "Indiana department of health.",
+      "summary": "Indiana department of health. Changes the statewide standing order for the dispensing of a smoking cessation product to a tobacco, vaping, or nicotine cessation product. Amends the date by which a hospital must submit the hospital's fiscal report and patient information report...",
+      "stage": "Enacted",
+      "impactTags": [
+        "child-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-04",
+      "partyOrigin": "B",
+      "sourceUrl": "https://iga.in.gov/legislative/2026/bills/house/1358/details",
+      "legiscanUrl": "https://legiscan.com/IN/bill/HB1358/2026",
+      "legiscanId": 2066964,
+      "sponsors": [
+        "Bradford Barrett",
+        "Joanna King",
+        "Lori Goss-Reaves",
+        "Gregory Porter"
+      ]
+    },
+    {
+      "id": "in-hb1043",
+      "billCode": "HB1043",
+      "title": "Data center water regulation.",
+      "summary": "Data center water regulation. Defines \"data center\". Prohibits a person from operating a data center in Indiana without obtaining a consumption permit from the department of natural resources (department). Sets forth information that must be included in a consumption permit ap...",
+      "stage": "Committee",
+      "impactTags": [
+        "water-consumption"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-12-02",
+      "partyOrigin": "B",
+      "sourceUrl": "https://iga.in.gov/legislative/2026/bills/house/1043/details",
+      "legiscanUrl": "https://legiscan.com/IN/bill/HB1043/2026",
+      "legiscanId": 2055884,
+      "sponsors": [
+        "Alex Burton",
+        "Matt Commons"
+      ]
+    },
+    {
+      "id": "in-sb0079",
+      "billCode": "SB0079",
+      "title": "Data center development.",
+      "summary": "Data center development. Requires the Indiana utility regulatory commission (commission) to establish a working group to: (1) determine an estimate of the future electricity demands of the data center industry in Indiana; and (2) report to the general assembly regarding the wo...",
+      "stage": "Committee",
+      "impactTags": [
+        "property-values"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-12-08",
+      "partyOrigin": "B",
+      "sourceUrl": "https://iga.in.gov/legislative/2026/bills/senate/79/details",
+      "legiscanUrl": "https://legiscan.com/IN/bill/SB0079/2026",
+      "legiscanId": 2056628,
+      "sponsors": [
+        "J.D. Ford",
+        "Spencer Deery"
+      ]
+    },
+    {
+      "id": "in-hb1106",
+      "billCode": "HB1106",
+      "title": "Various family matters.",
+      "summary": "Various family matters. Allows a provider to remain eligible to receive a voucher payment until a final determination is made that the provider's license or eligibility is no longer in good standing. Provides that a child care center is exempt from licensure if the child care ...",
+      "stage": "Committee",
+      "impactTags": [
+        "child-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-05",
+      "partyOrigin": "R",
+      "sourceUrl": "https://iga.in.gov/legislative/2026/bills/house/1106/details",
+      "legiscanUrl": "https://legiscan.com/IN/bill/HB1106/2026",
+      "legiscanId": 2061478,
+      "sponsors": [
+        "Ethan Manning"
+      ]
+    },
+    {
+      "id": "in-sb0004",
+      "billCode": "SB0004",
+      "title": "Various fiscal matters.",
+      "summary": "Various fiscal matters. Requires the legislative services agency to perform a fiscal impact analysis for all executive orders issued by the governor within seven days of an order's issuance. (Under current law, this requirement only applies to a governor's declaration of a dis...",
+      "stage": "Enacted",
+      "impactTags": [
+        "property-values",
+        "economic-development",
+        "child-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-05",
+      "partyOrigin": "B",
+      "sourceUrl": "https://iga.in.gov/legislative/2026/bills/senate/4/details",
+      "legiscanUrl": "https://legiscan.com/IN/bill/SB0004/2026",
+      "legiscanId": 2068520,
+      "sponsors": [
+        "Ryan Mishler",
+        "Chris Garten",
+        "Gary Byrne",
+        "Lonnie Randolph"
+      ]
+    },
+    {
+      "id": "in-sb0236",
+      "billCode": "SB0236",
+      "title": "Abortion inducing drugs and abortion reports.",
+      "summary": "Abortion inducing drugs and abortion reports. Modifies the definitions of \"abortion\" and \"abortion inducing drug\". Amends the information required to be reported to the Indiana department of health (state department) concerning an abortion complication. Requires the state depa...",
+      "stage": "Committee",
+      "impactTags": [
+        "child-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-28",
+      "partyOrigin": "R",
+      "sourceUrl": "https://iga.in.gov/legislative/2026/bills/senate/236/details",
+      "legiscanUrl": "https://legiscan.com/IN/bill/SB0236/2026",
+      "legiscanId": 2068855,
+      "sponsors": [
+        "Tyler Johnson",
+        "Elizabeth Brown",
+        "Blake Doriot",
+        "Stacey Donato"
+      ]
+    },
+    {
+      "id": "in-hb1004",
+      "billCode": "HB1004",
+      "title": "Various education matters.",
+      "summary": "Various education matters. Makes changes to various education provisions concerning the following: (1) Certain school corporation accounting requirements. (2) The \"nonpublic school\" definition. (3) Recodification and state board of education (state board) transition provisions...",
+      "stage": "Enacted",
+      "impactTags": [
+        "property-values",
+        "economic-development",
+        "child-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-04",
+      "partyOrigin": "R",
+      "sourceUrl": "https://iga.in.gov/legislative/2026/bills/house/1004/details",
+      "legiscanUrl": "https://legiscan.com/IN/bill/HB1004/2026",
+      "legiscanId": 2068176,
+      "sponsors": [
+        "Robert Behning",
+        "Julie McGuire",
+        "Hunter Smith",
+        "Tyler Johnson"
+      ]
+    },
+    {
+      "id": "in-hb1201",
+      "billCode": "HB1201",
+      "title": "Various mental health and insurance matters.",
+      "summary": "Various mental health and insurance matters. Prohibits the use of an artificial intelligence system to impersonate or act as a substitute for a licensed mental health professional. Requires the department of insurance to contract with an objective third party to verify that he...",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-05",
+      "partyOrigin": "R",
+      "sourceUrl": "https://iga.in.gov/legislative/2026/bills/house/1201/details",
+      "legiscanUrl": "https://legiscan.com/IN/bill/HB1201/2026",
+      "legiscanId": 2065139,
+      "sponsors": [
+        "Elizabeth Rowray",
+        "Becky Cash",
+        "Cindy Ledbetter",
+        "Lori Goss-Reaves"
+      ]
+    }
+  ]
+}

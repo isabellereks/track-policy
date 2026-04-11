@@ -1,0 +1,159 @@
+[
+  {
+    "id": "mike-lee",
+    "name": "Mike Lee",
+    "role": "Senator · Judiciary",
+    "party": "R-UT",
+    "state": "UT",
+    "chamber": "senate",
+    "committees": [
+      "Judiciary",
+      "Commerce",
+      "Energy",
+      "Joint Economic"
+    ],
+    "stance": "favorable",
+    "quote": "Constitutional scholar and strict constructionist with libertarian leanings",
+    "techRegScore": 0.78,
+    "lobbying": {
+      "topIndustries": [
+        "Technology: $780K",
+        "Energy: $650K",
+        "Real Estate: $480K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 53,
+      "education": "Brigham Young University (BA Political Science), BYU Law School (JD)",
+      "careerBeforePolitics": "Supreme Court clerk for Justice Samuel Alito, federal prosecutor, private practice"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "burgess-owens",
+    "name": "Burgess Owens",
+    "role": "Representative · Judiciary",
+    "party": "R-UT",
+    "state": "UT",
+    "chamber": "house",
+    "committees": [
+      "Education and Labor",
+      "Judiciary"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.75,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "celeste-maloy",
+    "name": "Celeste Maloy",
+    "role": "Representative",
+    "party": "R-UT",
+    "state": "UT",
+    "chamber": "house",
+    "committees": [
+      "Oversight and Reform",
+      "Natural Resources"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.72,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "john-curtis",
+    "name": "John Curtis",
+    "role": "Senator · Energy",
+    "party": "R-UT",
+    "state": "UT",
+    "chamber": "senate",
+    "committees": [
+      "Energy",
+      "Commerce",
+      "Foreign Relations"
+    ],
+    "stance": "favorable",
+    "quote": "Business-minded Republican who breaks with party on climate issues",
+    "techRegScore": 0.71,
+    "lobbying": {
+      "topIndustries": [
+        "Technology $520K",
+        "Energy $480K",
+        "Real Estate $390K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 64,
+      "education": "Brigham Young University (B.S. Business Management)",
+      "careerBeforePolitics": "Software company CEO, Provo mayor for 8 years"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "blake-moore",
+    "name": "Blake Moore",
+    "role": "Representative",
+    "party": "R-UT",
+    "state": "UT",
+    "chamber": "house",
+    "committees": [
+      "Budget",
+      "Natural Resources"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.68,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "john-curtis",
+    "name": "John Curtis",
+    "role": "Representative · Energy and Commerce",
+    "party": "R-UT",
+    "state": "UT",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce",
+      "Foreign Affairs"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.62,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  }
+]

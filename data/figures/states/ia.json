@@ -1,0 +1,159 @@
+[
+  {
+    "id": "chuck-grassley",
+    "name": "Chuck Grassley",
+    "role": "Senator · President Pro Tempore",
+    "party": "R-IA",
+    "state": "IA",
+    "chamber": "senate",
+    "committees": [
+      "Judiciary",
+      "Finance",
+      "Agriculture",
+      "Budget"
+    ],
+    "stance": "favorable",
+    "quote": "Folksy Iowa farmer who asks tough questions and champions government oversight",
+    "techRegScore": 0.72,
+    "lobbying": {
+      "topIndustries": [
+        "Pharmaceuticals: $743K",
+        "Agriculture: $612K",
+        "Insurance: $445K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 91,
+      "education": "BA Northern Iowa, graduate studies University of Iowa (no degree)",
+      "careerBeforePolitics": "Farmer, machinist, Iowa House and Assembly member"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "randy-feenstra",
+    "name": "Randy Feenstra",
+    "role": "Representative",
+    "party": "R-IA",
+    "state": "IA",
+    "chamber": "house",
+    "committees": [
+      "Agriculture",
+      "Ways and Means"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.71,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "joni-ernst",
+    "name": "Joni Ernst",
+    "role": "Senator · Commerce",
+    "party": "R-IA",
+    "state": "IA",
+    "chamber": "senate",
+    "committees": [
+      "Armed Services",
+      "Agriculture",
+      "Commerce",
+      "Small Business"
+    ],
+    "stance": "favorable",
+    "quote": "Iowa farm background and military service, practical conservative approach",
+    "techRegScore": 0.64,
+    "lobbying": {
+      "topIndustries": [
+        "Agribusiness $743,000",
+        "Defense Aerospace $567,000",
+        "Insurance $445,000"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 54,
+      "education": "Iowa State University (BS Psychology), Columbus State University (MBA)",
+      "careerBeforePolitics": "Auditor of Montgomery County, Iowa National Guard officer, logistics company management"
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "ashley-hinson",
+    "name": "Ashley Hinson",
+    "role": "Representative",
+    "party": "R-IA",
+    "state": "IA",
+    "chamber": "house",
+    "committees": [
+      "Appropriations"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.62,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "mariannette-miller-meeks",
+    "name": "Mariannette Miller-Meeks",
+    "role": "Representative · Energy and Commerce",
+    "party": "R-IA",
+    "state": "IA",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce",
+      "Veterans' Affairs"
+    ],
+    "stance": "review",
+    "techRegScore": 0.58,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "toss-up"
+  },
+  {
+    "id": "zach-nunn",
+    "name": "Zach Nunn",
+    "role": "Representative · Homeland Security",
+    "party": "R-IA",
+    "state": "IA",
+    "chamber": "house",
+    "committees": [
+      "Homeland Security",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "review",
+    "techRegScore": 0.56,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "toss-up"
+  }
+]

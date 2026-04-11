@@ -1,0 +1,110 @@
+[
+  {
+    "id": "jack-reed",
+    "name": "Jack Reed",
+    "role": "Senator · Ranking Member, Armed Services Committee",
+    "party": "D-RI",
+    "state": "RI",
+    "chamber": "senate",
+    "committees": [
+      "Armed Services",
+      "Appropriations",
+      "Banking"
+    ],
+    "stance": "review",
+    "quote": "Defense expertise and institutional knowledge as senior Armed Services member",
+    "techRegScore": 0.4,
+    "lobbying": {
+      "topIndustries": [
+        "Defense Contractors $3.2M",
+        "Banking $2.8M",
+        "Maritime Industries $1.4M"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 75,
+      "education": "JD from Harvard Law School, MS from Harvard Kennedy School, BS from West Point",
+      "careerBeforePolitics": "Army paratrooper officer, lawyer, served 12 years in House"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "seth-magaziner",
+    "name": "Seth Magaziner",
+    "role": "Representative",
+    "party": "D-RI",
+    "state": "RI",
+    "chamber": "house",
+    "committees": [
+      "Financial Services"
+    ],
+    "stance": "none",
+    "techRegScore": 0.28,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "sheldon-whitehouse",
+    "name": "Sheldon Whitehouse",
+    "role": "Senator · Judiciary",
+    "party": "D-RI",
+    "state": "RI",
+    "chamber": "senate",
+    "committees": [
+      "Judiciary",
+      "Finance",
+      "Budget",
+      "Environment"
+    ],
+    "stance": "none",
+    "quote": "Leading Senate investigations into dark money and climate change denial",
+    "techRegScore": 0.25,
+    "lobbying": {
+      "topIndustries": [
+        "Environmental groups $850K",
+        "Legal services $720K",
+        "Securities & Investment $680K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 69,
+      "education": "Yale University (BA), University of Virginia Law School (JD)",
+      "careerBeforePolitics": "US Attorney for Rhode Island, private practice attorney"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "gabe-amo",
+    "name": "Gabe Amo",
+    "role": "Representative",
+    "party": "D-RI",
+    "state": "RI",
+    "chamber": "house",
+    "committees": [
+      "Foreign Affairs",
+      "Oversight and Accountability"
+    ],
+    "stance": "none",
+    "techRegScore": 0.22,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  }
+]

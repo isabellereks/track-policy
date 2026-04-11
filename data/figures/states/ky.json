@@ -1,0 +1,209 @@
+[
+  {
+    "id": "james-comer",
+    "name": "James Comer",
+    "role": "Representative · House Oversight Committee Chair",
+    "party": "R-KY",
+    "state": "KY",
+    "chamber": "house",
+    "committees": [
+      "Oversight"
+    ],
+    "stance": "favorable",
+    "quote": "Aggressive oversight investigations targeting Biden administration",
+    "techRegScore": 0.72,
+    "lobbying": {
+      "topIndustries": [
+        "Agriculture with $125K",
+        "Real Estate with $89K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 52,
+      "education": "Western Kentucky University",
+      "careerBeforePolitics": "Farmer, state legislator, Kentucky Agriculture Commissioner"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "morgan-mcgarvey",
+    "name": "Morgan McGarvey",
+    "role": "Representative · Energy and Commerce",
+    "party": "D-KY",
+    "state": "KY",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce"
+    ],
+    "stance": "concerning",
+    "techRegScore": 0.72,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "mitch-mcconnell",
+    "name": "Mitch McConnell",
+    "role": "Senator",
+    "party": "R-KY",
+    "state": "KY",
+    "chamber": "senate",
+    "committees": [
+      "Appropriations",
+      "Rules"
+    ],
+    "stance": "favorable",
+    "quote": "Master tactician and institutional conservative focused on judicial appointments",
+    "techRegScore": 0.63,
+    "lobbying": {
+      "topIndustries": [
+        "Securities & Investment: $2.1M",
+        "Insurance: $1.4M",
+        "Health Products: $891K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 82,
+      "education": "BA University of Louisville, JD University of Kentucky",
+      "careerBeforePolitics": "Attorney, legislative aide, Jefferson County Judge/Executive"
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "hal-rogers",
+    "name": "Hal Rogers",
+    "role": "Representative",
+    "party": "R-KY",
+    "state": "KY",
+    "chamber": "house",
+    "committees": [
+      "Appropriations"
+    ],
+    "stance": "review",
+    "techRegScore": 0.45,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "andy-barr",
+    "name": "Andy Barr",
+    "role": "Representative",
+    "party": "R-KY",
+    "state": "KY",
+    "chamber": "house",
+    "committees": [
+      "Financial Services"
+    ],
+    "stance": "review",
+    "techRegScore": 0.42,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "brett-guthrie",
+    "name": "Brett Guthrie",
+    "role": "Representative · Energy and Commerce",
+    "party": "R-KY",
+    "state": "KY",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce"
+    ],
+    "stance": "review",
+    "techRegScore": 0.4,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "thomas-massie",
+    "name": "Thomas Massie",
+    "role": "Representative · Judiciary",
+    "party": "R-KY",
+    "state": "KY",
+    "chamber": "house",
+    "committees": [
+      "Rules",
+      "Judiciary"
+    ],
+    "stance": "none",
+    "quote": "Principled libertarian who votes against leadership on foreign interventions",
+    "techRegScore": 0.35,
+    "lobbying": {
+      "topIndustries": [
+        "agriculture with $67K",
+        "manufacturing with $45K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 53,
+      "education": "MIT (BS, MS Electrical Engineering)",
+      "careerBeforePolitics": "Entrepreneur, inventor, technology company founder"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "rand-paul",
+    "name": "Rand Paul",
+    "role": "Senator · Homeland Security",
+    "party": "R-KY",
+    "state": "KY",
+    "chamber": "senate",
+    "committees": [
+      "Foreign Relations",
+      "HELP",
+      "Homeland Security",
+      "Small Business"
+    ],
+    "stance": "none",
+    "quote": "Libertarian purist who opposes government overreach from all directions",
+    "techRegScore": 0.25,
+    "lobbying": {
+      "topIndustries": [
+        "Healthcare: $890K",
+        "Energy: $650K",
+        "Agriculture: $420K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 61,
+      "education": "Baylor University (BS Biology), Duke University School of Medicine (MD)",
+      "careerBeforePolitics": "Ophthalmologist, founded own medical practice"
+    },
+    "seatSafety": "safe"
+  }
+]

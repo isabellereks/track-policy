@@ -1,0 +1,185 @@
+[
+  {
+    "id": "chris-murphy",
+    "name": "Chris Murphy",
+    "role": "Senator",
+    "party": "D-CT",
+    "state": "CT",
+    "chamber": "senate",
+    "committees": [
+      "Foreign Relations",
+      "Appropriations",
+      "HELP"
+    ],
+    "stance": "none",
+    "quote": "Leading gun control advocate after Sandy Hook, foreign policy dove with progressive domestic agenda",
+    "techRegScore": 0.35,
+    "lobbying": {
+      "topIndustries": [
+        "Insurance: $285K",
+        "Securities & Investment: $245K",
+        "Real Estate: $195K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 51,
+      "education": "BA Williams College, JD University of Connecticut School of Law",
+      "careerBeforePolitics": "Lawyer, Connecticut House (1999-2003), US House (2007-2013)"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "jim-himes",
+    "name": "Jim Himes",
+    "role": "Representative · Intelligence",
+    "party": "D-CT",
+    "state": "CT",
+    "chamber": "house",
+    "committees": [
+      "Financial Services",
+      "Intelligence"
+    ],
+    "stance": "none",
+    "techRegScore": 0.35,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "jahana-hayes",
+    "name": "Jahana Hayes",
+    "role": "Representative",
+    "party": "D-CT",
+    "state": "CT",
+    "chamber": "house",
+    "committees": [
+      "Agriculture",
+      "Education and the Workforce"
+    ],
+    "stance": "none",
+    "techRegScore": 0.28,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "rosa-delauro",
+    "name": "Rosa DeLauro",
+    "role": "Representative · Chairwoman, Appropriations Committee",
+    "party": "D-CT",
+    "state": "CT",
+    "chamber": "house",
+    "committees": [
+      "Appropriations"
+    ],
+    "stance": "none",
+    "quote": "Fierce advocate for food safety and women's health with distinctive purple hair",
+    "techRegScore": 0.25,
+    "lobbying": {
+      "topIndustries": [
+        "healthcare with $145K",
+        "defense with $132K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 81,
+      "education": "Marymount College, London School of Economics",
+      "careerBeforePolitics": "Public relations, political strategist"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "joe-courtney",
+    "name": "Joe Courtney",
+    "role": "Representative",
+    "party": "D-CT",
+    "state": "CT",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Education and the Workforce"
+    ],
+    "stance": "none",
+    "techRegScore": 0.25,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "john-larson",
+    "name": "John Larson",
+    "role": "Representative",
+    "party": "D-CT",
+    "state": "CT",
+    "chamber": "house",
+    "committees": [
+      "Ways and Means"
+    ],
+    "stance": "none",
+    "techRegScore": 0.22,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "richard-blumenthal",
+    "name": "Richard Blumenthal",
+    "role": "Senator · Judiciary",
+    "party": "D-CT",
+    "state": "CT",
+    "chamber": "senate",
+    "committees": [
+      "Judiciary",
+      "Armed Services",
+      "Commerce",
+      "Veterans Affairs"
+    ],
+    "stance": "none",
+    "quote": "Aggressive questioner in hearings and consumer protection advocate",
+    "techRegScore": 0.2,
+    "lobbying": {
+      "topIndustries": [
+        "Insurance $1.1M",
+        "Securities & Investment $892K",
+        "Real Estate $445K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 78,
+      "education": "BA Harvard College, JD Yale Law School",
+      "careerBeforePolitics": "Attorney General of Connecticut for 20 years, Marine Corps Reserves"
+    },
+    "seatSafety": "safe"
+  }
+]

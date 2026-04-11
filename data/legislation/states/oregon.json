@@ -1,0 +1,222 @@
+{
+  "state": "Oregon",
+  "stateCode": "OR",
+  "region": "na",
+  "stance": "review",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "Oregon has 12 bills tracked in 2025–2026. 10 are already enacted.",
+  "legislation": [
+    {
+      "id": "or-hb4053",
+      "billCode": "HB4053",
+      "title": "Relating to emergency medical services; and prescribing an effective date.",
+      "summary": "The Act makes an EMS Program Fund and changes the name of a committee. The Act tells OHA to make minimum education requirements for EMS providers. The Act also makes a subcommittee. (Flesch Readability Score: 61.1). Establishes the Emergency Medical Services Program Fund. Chan...",
+      "stage": "Enacted",
+      "impactTags": [
+        "child-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-06",
+      "partyOrigin": "D",
+      "sourceUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4053",
+      "legiscanUrl": "https://legiscan.com/OR/bill/HB4053/2026",
+      "legiscanId": 2101459,
+      "sponsors": [
+        "Dacia Grayber",
+        "Tom Andersen",
+        "Ben Bowman",
+        "Paul Evans"
+      ]
+    },
+    {
+      "id": "or-sb1546",
+      "billCode": "SB1546",
+      "title": "Relating to artificial intelligence companions.",
+      "summary": "Tells those who make AI software to tell users that the users are talking to software, not a human. Tells them they must try to prevent users from getting output that causes suicidal feelings or thoughts. (Flesch Readability Score: 71.0). Requires operators of artificial intel...",
+      "stage": "Enacted",
+      "impactTags": [
+        "child-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-06",
+      "sourceUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1546",
+      "legiscanUrl": "https://legiscan.com/OR/bill/SB1546/2026",
+      "legiscanId": 2101544,
+      "sponsors": []
+    },
+    {
+      "id": "or-hb4039",
+      "billCode": "HB4039",
+      "title": "Relating to medical assistance; and declaring an emergency.",
+      "summary": "The Act requires OHA to change the way it sets rates for CCOs. The Act adds steps that OHA must take before making new rules. (Flesch Readability Score: 92.6). [Digest: The Act requires OHA to change the way it sets rates for CCOs. The Act adds steps that OHA must take before ...",
+      "stage": "Enacted",
+      "impactTags": [
+        "energy-rates"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-06",
+      "sourceUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4039",
+      "legiscanUrl": "https://legiscan.com/OR/bill/HB4039/2026",
+      "legiscanId": 2101136,
+      "sponsors": []
+    },
+    {
+      "id": "or-hb4103",
+      "billCode": "HB4103",
+      "title": "Relating to artificial intelligence.",
+      "summary": "The Act makes a commission on AI to look at the state's use of AI. The Act also tells DAS to hire a person to make a privacy, data protection and AI plan for the state. (Flesch Readability Score: 80.4). [Digest: The Act makes a commission on AI to be a central resource on usin...",
+      "stage": "Dead",
+      "impactTags": [
+        "data-privacy"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-06",
+      "partyOrigin": "B",
+      "sourceUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4103",
+      "legiscanUrl": "https://legiscan.com/OR/bill/HB4103/2026",
+      "legiscanId": 2101106,
+      "sponsors": [
+        "Sue Rieke Smith",
+        "Lisa Reynolds",
+        "Daniel Nguyen",
+        "Tom Andersen"
+      ]
+    },
+    {
+      "id": "or-hb4036",
+      "billCode": "HB4036",
+      "title": "Relating to affordable housing; and declaring an emergency.",
+      "summary": "This Act sets up a bond fund to preserve low-cost housing and requires OHCS to report on low-cost housing barriers. (Flesch Readability Score: 63.8). Establishes the Housing Opportunity, Longevity and Durability Fund to deposit Article XI-Q bonds to be used by the Housing and ...",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-07",
+      "sourceUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4036",
+      "legiscanUrl": "https://legiscan.com/OR/bill/HB4036/2026",
+      "legiscanId": 2101244,
+      "sponsors": []
+    },
+    {
+      "id": "or-hb4070",
+      "billCode": "HB4070",
+      "title": "Relating to health care; and prescribing an effective date.",
+      "summary": "The Act makes changes to laws about mental health and substance use disorder treatment. The Act changes a law about quality reviews of CCOs. The Act says who can be reimbursed for telehealth services. (Flesch Readability Score: 70.9). [Digest: The Act makes changes to laws rel...",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-06",
+      "sourceUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4070",
+      "legiscanUrl": "https://legiscan.com/OR/bill/HB4070/2026",
+      "legiscanId": 2101624,
+      "sponsors": []
+    },
+    {
+      "id": "or-sb1501",
+      "billCode": "SB1501",
+      "title": "Relating to the Moda Center; and declaring an emergency.",
+      "summary": "The Act allows DAS to enter into agreements to own and operate the Moda Center. The Act sends certain tax revenue to a fund to pay for costs of the Moda Center. (Flesch Readability Score: 68.9). Authorizes the Oregon Department of Administrative Services to enter into agreemen...",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-06",
+      "partyOrigin": "D",
+      "sourceUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1501",
+      "legiscanUrl": "https://legiscan.com/OR/bill/SB1501/2026",
+      "legiscanId": 2111803,
+      "sponsors": [
+        "Rob Wagner",
+        "Lew Frederick",
+        "Katherine Lieber",
+        "Ben Bowman"
+      ]
+    },
+    {
+      "id": "or-hb4156",
+      "billCode": "HB4156",
+      "title": "Relating to medical assistance reimbursement of emergency medical services; and declaring an emergency.",
+      "summary": "The Act makes changes to the program for paying for GEMT services. (Flesch Readability Score: 81.8). Modifies the requirements for Medicaid supplemental reimbursements paid to emergency medical services providers. Declares an emergency, effective on passage.",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-06",
+      "partyOrigin": "B",
+      "sourceUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4156",
+      "legiscanUrl": "https://legiscan.com/OR/bill/HB4156/2026",
+      "legiscanId": 2101412,
+      "sponsors": [
+        "Gregory Smith",
+        "Dacia Grayber",
+        "Vikki Breese-Iverson",
+        "Lew Frederick"
+      ]
+    },
+    {
+      "id": "or-sb5701",
+      "billCode": "SB5701",
+      "title": "Relating to state financial administration; and declaring an emergency.",
+      "summary": "The Act changes law relating to borrowing by the state for certain projects. (Flesch Readability Score: 63.4). [Digest: The Act changes lottery bonds from prior sessions. (Flesch Readability Score: 61.2).] Modifies amounts authorized for issuance of debt instruments for the bi...",
+      "stage": "Enacted",
+      "impactTags": [
+        "child-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-07",
+      "sourceUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB5701",
+      "legiscanUrl": "https://legiscan.com/OR/bill/SB5701/2026",
+      "legiscanId": 2111541,
+      "sponsors": [
+        "Ways and Means"
+      ]
+    },
+    {
+      "id": "or-hb4003",
+      "billCode": "HB4003",
+      "title": "Relating to medical assistance; declaring an emergency.",
+      "summary": "The Act changes how OHA decides which health services are covered in the state Medicaid program. (Flesch Readability Score: 63.6). Removes provisions relating to the use of the prioritized list of health services in the state medical assistance program. Requires the Oregon Hea...",
+      "stage": "Dead",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-06",
+      "partyOrigin": "D",
+      "sourceUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4003",
+      "legiscanUrl": "https://legiscan.com/OR/bill/HB4003/2026",
+      "legiscanId": 2101076,
+      "sponsors": [
+        "Robert Nosse"
+      ]
+    },
+    {
+      "id": "or-hb4084",
+      "billCode": "HB4084",
+      "title": "Relating to economic development; and prescribing an effective date.",
+      "summary": "The Act would set up a Joint Permitting Council to run a fast track permit program. The Act would direct certain state agencies to publish a list of certain permits that can be issued by the agencies. The Act would adjust certain requirements of the enterprise zone program and...",
+      "stage": "Enacted",
+      "impactTags": [
+        "tax-incentives",
+        "economic-development"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-06",
+      "sourceUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4084",
+      "legiscanUrl": "https://legiscan.com/OR/bill/HB4084/2026",
+      "legiscanId": 2101284,
+      "sponsors": []
+    },
+    {
+      "id": "or-hb4066",
+      "billCode": "HB4066",
+      "title": "Relating to education; and declaring an emergency.",
+      "summary": "Changes laws related to the OHSU board, school board stipends, the ICEOMC, rules of ODE, school district budgets, a study by PSU and lamps used by ESDs. (Flesch Readability Score: 63.4). [Digest: Changes laws related to the OHSU board, stipends for ESDs and school districts, t...",
+      "stage": "Enacted",
+      "impactTags": [
+        "child-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-06",
+      "sourceUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4066",
+      "legiscanUrl": "https://legiscan.com/OR/bill/HB4066/2026",
+      "legiscanId": 2101081,
+      "sponsors": []
+    }
+  ]
+}

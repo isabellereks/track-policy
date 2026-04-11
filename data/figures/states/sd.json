@@ -1,0 +1,87 @@
+[
+  {
+    "id": "john-thune",
+    "name": "John Thune",
+    "role": "Senator · Majority Leader",
+    "party": "R-SD",
+    "state": "SD",
+    "chamber": "senate",
+    "committees": [
+      "Finance",
+      "Commerce",
+      "Agriculture"
+    ],
+    "stance": "favorable",
+    "quote": "Pragmatic conservative leader who can work across the aisle when needed",
+    "techRegScore": 0.68,
+    "lobbying": {
+      "topIndustries": [
+        "Securities & Investment: $892K",
+        "Insurance: $654K",
+        "Agriculture: $543K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 63,
+      "education": "BA Biola University, MBA University of South Dakota",
+      "careerBeforePolitics": "Congressional aide, small business owner in sports marketing"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "mike-rounds",
+    "name": "Mike Rounds",
+    "role": "Senator · Intelligence",
+    "party": "R-SD",
+    "state": "SD",
+    "chamber": "senate",
+    "committees": [
+      "Armed Services",
+      "Banking",
+      "Intelligence",
+      "Veterans Affairs"
+    ],
+    "stance": "favorable",
+    "quote": "Former governor who brings executive experience and agricultural expertise to the Senate",
+    "techRegScore": 0.65,
+    "lobbying": {
+      "topIndustries": [
+        "Agriculture $485K",
+        "Insurance $425K",
+        "Defense $380K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 70,
+      "education": "South Dakota State University (B.S. Political Science)",
+      "careerBeforePolitics": "Insurance and real estate executive, owned Rounds & Associates insurance agency"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "dusty-johnson",
+    "name": "Dusty Johnson",
+    "role": "Representative",
+    "party": "R-SD",
+    "state": "SD",
+    "chamber": "house",
+    "committees": [
+      "Transportation and Infrastructure",
+      "Agriculture"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.62,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  }
+]

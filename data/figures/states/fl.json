@@ -1,0 +1,741 @@
+[
+  {
+    "id": "ashley-moody",
+    "name": "Ashley Moody",
+    "role": "Senator · Judiciary",
+    "party": "R-FL",
+    "state": "FL",
+    "chamber": "senate",
+    "committees": [
+      "Judiciary",
+      "Commerce",
+      "Homeland Security"
+    ],
+    "stance": "favorable",
+    "quote": "Former Florida Attorney General with strong law enforcement credentials",
+    "techRegScore": 0.76,
+    "lobbying": {
+      "topIndustries": [
+        "Legal services $420K",
+        "Real Estate $380K",
+        "Agriculture $350K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 49,
+      "education": "University of Florida (B.A.), University of Florida Levin College of Law (J.D.)",
+      "careerBeforePolitics": "Federal prosecutor, judge, Florida Attorney General (2019-2025)"
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "matt-gaetz",
+    "name": "Matt Gaetz",
+    "role": "Representative · Judiciary",
+    "party": "R-FL",
+    "state": "FL",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Judiciary"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.75,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "cory-mills",
+    "name": "Cory Mills",
+    "role": "Representative",
+    "party": "R-FL",
+    "state": "FL",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Foreign Affairs"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.75,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "bill-posey",
+    "name": "Bill Posey",
+    "role": "Representative · Science, Space, and Technology",
+    "party": "R-FL",
+    "state": "FL",
+    "chamber": "house",
+    "committees": [
+      "Financial Services",
+      "Science, Space, and Technology"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.75,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "greg-steube",
+    "name": "Greg Steube",
+    "role": "Representative · Judiciary",
+    "party": "R-FL",
+    "state": "FL",
+    "chamber": "house",
+    "committees": [
+      "Judiciary",
+      "Foreign Affairs"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.75,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "kat-cammack",
+    "name": "Kat Cammack",
+    "role": "Representative · Homeland Security",
+    "party": "R-FL",
+    "state": "FL",
+    "chamber": "house",
+    "committees": [
+      "Agriculture",
+      "Homeland Security"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.72,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "rick-scott",
+    "name": "Rick Scott",
+    "role": "Senator · Commerce",
+    "party": "R-FL",
+    "state": "FL",
+    "chamber": "senate",
+    "committees": [
+      "Armed Services",
+      "Commerce",
+      "Budget",
+      "Homeland Security"
+    ],
+    "stance": "favorable",
+    "quote": "Wealthy former governor focused on fiscal conservatism and business-friendly policies",
+    "techRegScore": 0.71,
+    "lobbying": {
+      "topIndustries": [
+        "Health Professionals $1.8M",
+        "Securities & Investment $1.4M",
+        "Real Estate $980K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 72,
+      "education": "BS University of Missouri-Kansas City, JD Southern Methodist University",
+      "careerBeforePolitics": "Healthcare CEO (HCA, Columbia), venture capitalist, Florida Governor"
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "aaron-bean",
+    "name": "Aaron Bean",
+    "role": "Representative",
+    "party": "R-FL",
+    "state": "FL",
+    "chamber": "house",
+    "committees": [
+      "Education and the Workforce",
+      "Small Business"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.7,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "michael-waltz",
+    "name": "Michael Waltz",
+    "role": "Representative · Intelligence",
+    "party": "R-FL",
+    "state": "FL",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Foreign Affairs",
+      "Intelligence"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.7,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "daniel-webster",
+    "name": "Daniel Webster",
+    "role": "Representative",
+    "party": "R-FL",
+    "state": "FL",
+    "chamber": "house",
+    "committees": [
+      "Natural Resources",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.7,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "scott-franklin",
+    "name": "Scott Franklin",
+    "role": "Representative",
+    "party": "R-FL",
+    "state": "FL",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.7,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "john-rutherford",
+    "name": "John Rutherford",
+    "role": "Representative",
+    "party": "R-FL",
+    "state": "FL",
+    "chamber": "house",
+    "committees": [
+      "Appropriations"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.68,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "laurel-lee",
+    "name": "Laurel Lee",
+    "role": "Representative · Judiciary",
+    "party": "R-FL",
+    "state": "FL",
+    "chamber": "house",
+    "committees": [
+      "Judiciary",
+      "House Administration"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.68,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "neal-dunn",
+    "name": "Neal Dunn",
+    "role": "Representative · Science, Space, and Technology",
+    "party": "R-FL",
+    "state": "FL",
+    "chamber": "house",
+    "committees": [
+      "Science, Space, and Technology",
+      "Veterans' Affairs"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.65,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "gus-bilirakis",
+    "name": "Gus Bilirakis",
+    "role": "Representative · Energy and Commerce",
+    "party": "R-FL",
+    "state": "FL",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.65,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "brian-mast",
+    "name": "Brian Mast",
+    "role": "Representative",
+    "party": "R-FL",
+    "state": "FL",
+    "chamber": "house",
+    "committees": [
+      "Foreign Affairs",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.65,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "carlos-gimenez",
+    "name": "Carlos Gimenez",
+    "role": "Representative · Homeland Security",
+    "party": "R-FL",
+    "state": "FL",
+    "chamber": "house",
+    "committees": [
+      "Homeland Security",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.62,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "anna-paulina-luna",
+    "name": "Anna Paulina Luna",
+    "role": "Representative",
+    "party": "R-FL",
+    "state": "FL",
+    "chamber": "house",
+    "committees": [
+      "Oversight",
+      "Natural Resources"
+    ],
+    "stance": "favorable",
+    "quote": "Social media-savvy MAGA firebrand and military veteran",
+    "techRegScore": 0.6,
+    "lobbying": {
+      "topIndustries": [
+        "defense aerospace with $156K",
+        "real estate with $98K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 35,
+      "education": "University of West Florida (BA)",
+      "careerBeforePolitics": "Air Force intelligence, political consultant"
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "vern-buchanan",
+    "name": "Vern Buchanan",
+    "role": "Representative",
+    "party": "R-FL",
+    "state": "FL",
+    "chamber": "house",
+    "committees": [
+      "Ways and Means"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.6,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "maria-elvira-salazar",
+    "name": "Maria Elvira Salazar",
+    "role": "Representative",
+    "party": "R-FL",
+    "state": "FL",
+    "chamber": "house",
+    "committees": [
+      "Foreign Affairs",
+      "Small Business"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.6,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "toss-up"
+  },
+  {
+    "id": "byron-donalds",
+    "name": "Byron Donalds",
+    "role": "Representative",
+    "party": "R-FL",
+    "state": "FL",
+    "chamber": "house",
+    "committees": [
+      "Financial Services",
+      "Oversight"
+    ],
+    "stance": "review",
+    "quote": "Rising MAGA star and frequent media defender of Trump",
+    "techRegScore": 0.55,
+    "lobbying": {
+      "topIndustries": [
+        "securities & investment with $245K",
+        "insurance with $210K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 45,
+      "education": "Florida State University (BA), Florida A&M (MBA)",
+      "careerBeforePolitics": "Insurance and financial services, Florida state house"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "carlos-gim-nez",
+    "name": "Carlos Giménez",
+    "role": "Representative · Homeland Security",
+    "party": "R-FL",
+    "state": "FL",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Homeland Security"
+    ],
+    "stance": "review",
+    "techRegScore": 0.42,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "kathy-castor",
+    "name": "Kathy Castor",
+    "role": "Representative · Energy and Commerce",
+    "party": "D-FL",
+    "state": "FL",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce"
+    ],
+    "stance": "none",
+    "techRegScore": 0.38,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "debbie-wasserman-schultz",
+    "name": "Debbie Wasserman Schultz",
+    "role": "Representative",
+    "party": "D-FL",
+    "state": "FL",
+    "chamber": "house",
+    "committees": [
+      "Appropriations"
+    ],
+    "stance": "none",
+    "quote": "Former DNC Chair with strong pro-Israel stance and party establishment ties",
+    "techRegScore": 0.35,
+    "lobbying": {
+      "topIndustries": [
+        "healthcare with $185K",
+        "defense with $165K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 58,
+      "education": "University of Florida",
+      "careerBeforePolitics": "Aide to Peter Deutsch, Florida Legislature"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "darren-soto",
+    "name": "Darren Soto",
+    "role": "Representative · Energy and Commerce",
+    "party": "D-FL",
+    "state": "FL",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce"
+    ],
+    "stance": "none",
+    "techRegScore": 0.3,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "jared-moskowitz",
+    "name": "Jared Moskowitz",
+    "role": "Representative",
+    "party": "D-FL",
+    "state": "FL",
+    "chamber": "house",
+    "committees": [
+      "Foreign Affairs",
+      "Oversight and Accountability"
+    ],
+    "stance": "none",
+    "techRegScore": 0.3,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "lois-frankel",
+    "name": "Lois Frankel",
+    "role": "Representative",
+    "party": "D-FL",
+    "state": "FL",
+    "chamber": "house",
+    "committees": [
+      "Appropriations"
+    ],
+    "stance": "none",
+    "techRegScore": 0.25,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "sheila-cherfilus-mccormick",
+    "name": "Sheila Cherfilus-McCormick",
+    "role": "Representative",
+    "party": "D-FL",
+    "state": "FL",
+    "chamber": "house",
+    "committees": [
+      "Foreign Affairs",
+      "Veterans' Affairs"
+    ],
+    "stance": "none",
+    "techRegScore": 0.22,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "frederica-wilson",
+    "name": "Frederica Wilson",
+    "role": "Representative",
+    "party": "D-FL",
+    "state": "FL",
+    "chamber": "house",
+    "committees": [
+      "Education and the Workforce",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "none",
+    "techRegScore": 0.2,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "maxwell-frost",
+    "name": "Maxwell Frost",
+    "role": "Representative · Science, Space, and Technology",
+    "party": "D-FL",
+    "state": "FL",
+    "chamber": "house",
+    "committees": [
+      "Oversight and Accountability",
+      "Science, Space, and Technology"
+    ],
+    "stance": "none",
+    "techRegScore": 0.15,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  }
+]

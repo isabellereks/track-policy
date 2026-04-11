@@ -1,0 +1,256 @@
+{
+  "state": "Pennsylvania",
+  "stateCode": "PA",
+  "region": "na",
+  "stance": "concerning",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "Pennsylvania has 12 bills tracked in 2025–2026. 1 is already enacted. 1 relates to moratoriums or prohibitions. 1 offers incentives or exemptions.",
+  "legislation": [
+    {
+      "id": "pa-hb2198",
+      "billCode": "HB2198",
+      "title": "Repealing provisions relating to Computer Data Center Equipment Incentive Program.",
+      "summary": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, repealing provisions relating to Computer Data Center Equipment Incentive Program.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-05",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb2198",
+      "legiscanUrl": "https://legiscan.com/PA/bill/HB2198/2025",
+      "legiscanId": 2107851,
+      "sponsors": [
+        "Gregory Vitali",
+        "Benjamin Waxman",
+        "Robert Freeman",
+        "Tarah Probst"
+      ]
+    },
+    {
+      "id": "pa-hb1942",
+      "billCode": "HB1942",
+      "title": "Providing for prohibition on surveillance pricing; and imposing penalties.",
+      "summary": "An Act providing for prohibition on surveillance pricing; and imposing penalties.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-10-16",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb1942",
+      "legiscanUrl": "https://legiscan.com/PA/bill/HB1942/2025",
+      "legiscanId": 2046249,
+      "sponsors": [
+        "Danilo Burgos",
+        "Emily Kinkead",
+        "Manuel Guzman",
+        "Carol Hill-Evans"
+      ]
+    },
+    {
+      "id": "pa-sb939",
+      "billCode": "SB939",
+      "title": "Establishing the Office of Transformation and Opportunity and the Artificial Intelligence, Data Center and Emerging Technology Regulatory Sandbox Program; and providing for powers and duties of office and for permits for high impact data centers that have their own power.",
+      "summary": "Establishing the Office of Transformation and Opportunity and the Artificial Intelligence, Data Center and Emerging Technology Regulatory Sandbox Program; and providing for powers and duties of office and for permits for high impact data centers that have their own power.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-07-14",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.palegis.us/legislation/bills/2025/sb939",
+      "legiscanUrl": "https://legiscan.com/PA/bill/SB939/2025",
+      "legiscanId": 2039357,
+      "sponsors": [
+        "Greg Rothman",
+        "Tracy Pennycuick",
+        "Elder Vogel"
+      ]
+    },
+    {
+      "id": "pa-hb2151",
+      "billCode": "HB2151",
+      "title": "Providing for data center ordinance assistance.",
+      "summary": "An Act amending Title 53 (Municipalities Generally) of the Pennsylvania Consolidated Statutes, providing for data center ordinance assistance.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-20",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb2151",
+      "legiscanUrl": "https://legiscan.com/PA/bill/HB2151/2025",
+      "legiscanId": 2086447,
+      "sponsors": [
+        "Kyle Donahue",
+        "Kyle Mullins",
+        "Benjamin Waxman",
+        "James Prokopiak"
+      ]
+    },
+    {
+      "id": "pa-sb411",
+      "billCode": "SB411",
+      "title": "Further providing for definitions; providing for Statewide stroke registry; and making an editorial change .",
+      "summary": "An Act amending the act of May 29, 2012 (P.L.549, No.54), known as the Stroke System of Care Act, further providing for definitions; providing for Statewide stroke registry; and making an editorial change .",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-06-30",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.palegis.us/legislation/bills/2025/sb411",
+      "legiscanUrl": "https://legiscan.com/PA/bill/SB411/2025",
+      "legiscanId": 1996588,
+      "sponsors": [
+        "Elder Vogel",
+        "Camera Bartolotta",
+        "John Kane",
+        "Vincent Hughes"
+      ]
+    },
+    {
+      "id": "pa-hb1834",
+      "billCode": "HB1834",
+      "title": "Providing for the regulation of commercial data centers; imposing duties on the Pennsylvania Public Utility Commission, the Department of Human Services and the Pennsylvania Energy Development Authority; establishing the Data Center Low-Income Home Energy Assistance Program Enhancement Account and the Pennsylvania Energy Independence Account; providing for clean firm energy requirements, contract filing, commission review, disclosure requirements, backup generation standards, curtailment standards and certification and expedited interconnection for commercial data centers bringing incremental clean firm energy resources; and imposing penalties.",
+      "summary": "An Act providing for the regulation of commercial data centers; imposing duties on the Pennsylvania Public Utility Commission, the Department of Human Services and the Pennsylvania Energy Development Authority; establishing the Data Center Low-Income Home Energy Assistance Pro...",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-24",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb1834",
+      "legiscanUrl": "https://legiscan.com/PA/bill/HB1834/2025",
+      "legiscanId": 2043019,
+      "sponsors": [
+        "Robert Matzie",
+        "John Inglis",
+        "Daniel Deasy",
+        "Ed Neilson"
+      ]
+    },
+    {
+      "id": "pa-hb2150",
+      "billCode": "HB2150",
+      "title": "Providing for annual reporting of energy consumption and water consumption by data centers; and imposing a penalty.",
+      "summary": "An Act providing for annual reporting of energy consumption and water consumption by data centers; and imposing a penalty.",
+      "stage": "Committee",
+      "impactTags": [
+        "water-consumption"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-20",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb2150",
+      "legiscanUrl": "https://legiscan.com/PA/bill/HB2150/2025",
+      "legiscanId": 2086598,
+      "sponsors": [
+        "Kyle Mullins",
+        "Kyle Donahue",
+        "Benjamin Waxman",
+        "James Prokopiak"
+      ]
+    },
+    {
+      "id": "pa-hb2246",
+      "billCode": "HB2246",
+      "title": "In water resources planning, further providing for State water plan and providing for covered data centers; and promulgating regulations.",
+      "summary": "An Act amending Title 27 (Environmental Resources) of the Pennsylvania Consolidated Statutes, in water resources planning, further providing for State water plan and providing for covered data centers; and promulgating regulations.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-25",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb2246",
+      "legiscanUrl": "https://legiscan.com/PA/bill/HB2246/2025",
+      "legiscanId": 2123295,
+      "sponsors": [
+        "Joseph Webster",
+        "Benjamin Waxman",
+        "James Prokopiak",
+        "Carol Hill-Evans"
+      ]
+    },
+    {
+      "id": "pa-sb991",
+      "billCode": "SB991",
+      "title": "Providing for a permitting process for data center siting; and imposing powers and duties on the Department of Environmental Protection.",
+      "summary": "An Act providing for a permitting process for data center siting; and imposing powers and duties on the Department of Environmental Protection.",
+      "stage": "Committee",
+      "impactTags": [
+        "local-zoning"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2025-09-05",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.palegis.us/legislation/bills/2025/sb991",
+      "legiscanUrl": "https://legiscan.com/PA/bill/SB991/2025",
+      "legiscanId": 2043443,
+      "sponsors": [
+        "Camera Bartolotta",
+        "Patrick Stefano",
+        "Elder Vogel",
+        "Judith Ward"
+      ]
+    },
+    {
+      "id": "pa-sb293",
+      "billCode": "SB293",
+      "title": "Providing for a report on artificial intelligence in the workforce; and imposing duties on the Department of Labor and Industry and Department of Community and Economic Development.",
+      "summary": "An Act providing for a report on artificial intelligence in the workforce; and imposing duties on the Department of Labor and Industry and Department of Community and Economic Development.",
+      "stage": "Committee",
+      "impactTags": [
+        "job-creation",
+        "economic-development"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-05-12",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.palegis.us/legislation/bills/2025/sb293",
+      "legiscanUrl": "https://legiscan.com/PA/bill/SB293/2025",
+      "legiscanId": 2030536,
+      "sponsors": [
+        "Vincent Hughes",
+        "Kristin Phillips-Hill",
+        "Steven Santarsiero",
+        "Christine Tartaglione"
+      ]
+    },
+    {
+      "id": "pa-hb1993",
+      "billCode": "HB1993",
+      "title": "Providing for the use of artificial intelligence in mental health therapy and for enforcement.",
+      "summary": "An Act providing for the use of artificial intelligence in mental health therapy and for enforcement.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-10-24",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb1993",
+      "legiscanUrl": "https://legiscan.com/PA/bill/HB1993/2025",
+      "legiscanId": 2047301,
+      "sponsors": [
+        "Melissa Shusterman",
+        "Tarah Probst",
+        "Christopher Pielli",
+        "Carol Hill-Evans"
+      ]
+    },
+    {
+      "id": "pa-hb1533",
+      "billCode": "HB1533",
+      "title": "In culpability, providing for liability for deployment of artificial intelligence system.",
+      "summary": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in culpability, providing for liability for deployment of artificial intelligence system.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-05-30",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb1533",
+      "legiscanUrl": "https://legiscan.com/PA/bill/HB1533/2025",
+      "legiscanId": 2034685,
+      "sponsors": [
+        "Kristine Howard",
+        "Christopher Pielli",
+        "Ben Sanchez",
+        "Carol Hill-Evans"
+      ]
+    }
+  ]
+}

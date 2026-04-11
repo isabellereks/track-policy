@@ -1,0 +1,414 @@
+[
+  {
+    "id": "jim-jordan",
+    "name": "Jim Jordan",
+    "role": "Representative · Judiciary Committee Chair",
+    "party": "R-OH",
+    "state": "OH",
+    "chamber": "house",
+    "committees": [
+      "Judiciary"
+    ],
+    "stance": "favorable",
+    "quote": "Aggressive questioner who became Trump's fiercest defender in Congress",
+    "techRegScore": 0.82,
+    "lobbying": {
+      "topIndustries": [
+        "agriculture with $87,000",
+        "small_business with $65,000"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 60,
+      "education": "B.A. University of Wisconsin, M.A. Ohio State University, J.D. Capital University Law School",
+      "careerBeforePolitics": "Wrestling coach, Ohio General Assembly"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "warren-davidson",
+    "name": "Warren Davidson",
+    "role": "Representative",
+    "party": "R-OH",
+    "state": "OH",
+    "chamber": "house",
+    "committees": [
+      "Financial Services"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.8,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "bernie-moreno",
+    "name": "Bernie Moreno",
+    "role": "Senator · Commerce",
+    "party": "R-OH",
+    "state": "OH",
+    "chamber": "senate",
+    "committees": [
+      "Banking",
+      "Commerce",
+      "Homeland Security"
+    ],
+    "stance": "favorable",
+    "quote": "Colombian immigrant turned luxury car dealer who embraces Trump-style politics",
+    "techRegScore": 0.71,
+    "lobbying": {
+      "topIndustries": [
+        "Automotive: $1.8M",
+        "Technology: $1.1M",
+        "Cryptocurrency: $892K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 57,
+      "education": "University of Michigan (business degree)",
+      "careerBeforePolitics": "Built luxury car dealership empire, founded blockchain technology companies"
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "bob-latta",
+    "name": "Bob Latta",
+    "role": "Representative · Energy and Commerce",
+    "party": "R-OH",
+    "state": "OH",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.7,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "max-miller",
+    "name": "Max Miller",
+    "role": "Representative · Science, Space, and Technology",
+    "party": "R-OH",
+    "state": "OH",
+    "chamber": "house",
+    "committees": [
+      "Agriculture",
+      "Science, Space, and Technology"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.7,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "mike-carey",
+    "name": "Mike Carey",
+    "role": "Representative",
+    "party": "R-OH",
+    "state": "OH",
+    "chamber": "house",
+    "committees": [
+      "Oversight and Accountability",
+      "Small Business"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.7,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "brad-wenstrup",
+    "name": "Brad Wenstrup",
+    "role": "Representative · Intelligence",
+    "party": "R-OH",
+    "state": "OH",
+    "chamber": "house",
+    "committees": [
+      "Intelligence",
+      "Ways and Means"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.65,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "bill-johnson",
+    "name": "Bill Johnson",
+    "role": "Representative · Energy and Commerce",
+    "party": "R-OH",
+    "state": "OH",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.65,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "mike-turner",
+    "name": "Mike Turner",
+    "role": "Representative · Intelligence",
+    "party": "R-OH",
+    "state": "OH",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Intelligence"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.65,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "troy-balderson",
+    "name": "Troy Balderson",
+    "role": "Representative · Energy and Commerce",
+    "party": "R-OH",
+    "state": "OH",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.65,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "david-joyce",
+    "name": "David Joyce",
+    "role": "Representative",
+    "party": "R-OH",
+    "state": "OH",
+    "chamber": "house",
+    "committees": [
+      "Appropriations"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.6,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "sherrod-brown",
+    "name": "Sherrod Brown",
+    "role": "Senator",
+    "party": "D-OH",
+    "state": "OH",
+    "chamber": "senate",
+    "committees": [
+      "Banking",
+      "Agriculture"
+    ],
+    "stance": "none",
+    "quote": "Pro-worker trade policy champion",
+    "techRegScore": 0.35,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "toss-up"
+  },
+  {
+    "id": "greg-landsman",
+    "name": "Greg Landsman",
+    "role": "Representative",
+    "party": "D-OH",
+    "state": "OH",
+    "chamber": "house",
+    "committees": [
+      "Education and Workforce",
+      "Veterans' Affairs"
+    ],
+    "stance": "none",
+    "techRegScore": 0.35,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "marcy-kaptur",
+    "name": "Marcy Kaptur",
+    "role": "Representative",
+    "party": "D-OH",
+    "state": "OH",
+    "chamber": "house",
+    "committees": [
+      "Appropriations"
+    ],
+    "stance": "none",
+    "techRegScore": 0.35,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "emilia-sykes",
+    "name": "Emilia Sykes",
+    "role": "Representative",
+    "party": "D-OH",
+    "state": "OH",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Oversight and Accountability"
+    ],
+    "stance": "none",
+    "techRegScore": 0.35,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "toss-up"
+  },
+  {
+    "id": "shontel-brown",
+    "name": "Shontel Brown",
+    "role": "Representative",
+    "party": "D-OH",
+    "state": "OH",
+    "chamber": "house",
+    "committees": [
+      "Oversight and Accountability",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "none",
+    "techRegScore": 0.3,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "joyce-beatty",
+    "name": "Joyce Beatty",
+    "role": "Representative",
+    "party": "D-OH",
+    "state": "OH",
+    "chamber": "house",
+    "committees": [
+      "Financial Services",
+      "Select Committee on Strategic Competition"
+    ],
+    "stance": "none",
+    "techRegScore": 0.25,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  }
+]

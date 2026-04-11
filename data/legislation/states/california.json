@@ -1,0 +1,228 @@
+{
+  "state": "California",
+  "stateCode": "CA",
+  "region": "na",
+  "stance": "review",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "California has 12 bills tracked in 2025–2026. 4 are already enacted.",
+  "legislation": [
+    {
+      "id": "ca-sb361",
+      "billCode": "SB361",
+      "title": "Data brokers: data collection and deletion.",
+      "summary": "An act to amend Sections 1798.99.82, 1798.99.84, and 1798.99.86 of the Civil Code, relating to privacy.",
+      "stage": "Enacted",
+      "impactTags": [
+        "data-privacy"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-10-08",
+      "partyOrigin": "D",
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB361",
+      "legiscanUrl": "https://legiscan.com/CA/bill/SB361/2025",
+      "legiscanId": 1970450,
+      "sponsors": [
+        "Josh Becker"
+      ]
+    },
+    {
+      "id": "ca-sb813",
+      "billCode": "SB813",
+      "title": "California AI Standards and Safety Commission: independent verification organizations.",
+      "summary": "An act to add Chapter 14 (commencing with Section 8898) to Division 1 of Title 2 of the Government Code, relating to artificial intelligence.",
+      "stage": "Floor",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-27",
+      "partyOrigin": "D",
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB813",
+      "legiscanUrl": "https://legiscan.com/CA/bill/SB813/2025",
+      "legiscanId": 1980543,
+      "sponsors": [
+        "Jerry McNerney"
+      ]
+    },
+    {
+      "id": "ca-ab621",
+      "billCode": "AB621",
+      "title": "Deepfake pornography.",
+      "summary": "An act to amend Section 1708.86 of the Civil Code, relating to the internet.",
+      "stage": "Enacted",
+      "impactTags": [
+        "deepfake-regulation"
+      ],
+      "category": "synthetic-media",
+      "updatedDate": "2025-10-13",
+      "partyOrigin": "B",
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB621",
+      "legiscanUrl": "https://legiscan.com/CA/bill/AB621/2025",
+      "legiscanId": 1970409,
+      "sponsors": [
+        "Rebecca Bauer-Kahan",
+        "Marc Berman",
+        "Juan Alanis",
+        "Isaac Bryan"
+      ]
+    },
+    {
+      "id": "ca-ab1883",
+      "billCode": "AB1883",
+      "title": "Workplace surveillance tools.",
+      "summary": "An act to add Part 5.8 (commencing with Section 1580) to Division 2 of the Labor Code, relating to employment.",
+      "stage": "Committee",
+      "impactTags": [
+        "ai-in-employment"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-12",
+      "partyOrigin": "D",
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1883",
+      "legiscanUrl": "https://legiscan.com/CA/bill/AB1883/2025",
+      "legiscanId": 2116265,
+      "sponsors": [
+        "Isaac Bryan"
+      ]
+    },
+    {
+      "id": "ca-sb660",
+      "billCode": "SB660",
+      "title": "California Health and Human Services Data Exchange Framework.",
+      "summary": "An act to amend Section 130290 of, and to add Section 130291 to, the Health and Safety Code, relating to the California Health and Human Services Data Exchange Framework.",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-10-03",
+      "partyOrigin": "D",
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB660",
+      "legiscanUrl": "https://legiscan.com/CA/bill/SB660/2025",
+      "legiscanId": 1978893,
+      "sponsors": [
+        "Caroline Menjivar",
+        "Rebecca Bauer-Kahan"
+      ]
+    },
+    {
+      "id": "ca-ab93",
+      "billCode": "AB93",
+      "title": "Water resources: data centers.",
+      "summary": "An act to add Sections 16000.4 and 16100.4 to the Business and Professions Code, and to add Section 10609.35 to the Water Code, relating to water.",
+      "stage": "Dead",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-10-11",
+      "partyOrigin": "D",
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB93",
+      "legiscanUrl": "https://legiscan.com/CA/bill/AB93/2025",
+      "legiscanId": 1904793,
+      "sponsors": [
+        "Diane Papan"
+      ]
+    },
+    {
+      "id": "ca-ab2092",
+      "billCode": "AB2092",
+      "title": "Early Childhood Integrated Data System.",
+      "summary": "An act to add Section 10209.9 to the Welfare and Institutions Code, relating to early learning and care.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-18",
+      "partyOrigin": "D",
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB2092",
+      "legiscanUrl": "https://legiscan.com/CA/bill/AB2092/2025",
+      "legiscanId": 2119619,
+      "sponsors": [
+        "Mia Bonta"
+      ]
+    },
+    {
+      "id": "ca-ab2619",
+      "billCode": "AB2619",
+      "title": "Water resources: data centers.",
+      "summary": "An act to add Sections 16000.4 and 16100.4 to the Business and Professions Code, and to amend Sections 10632 and 10632.1 of, and to add Section 10609.1 to, the Water Code, relating to water.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-20",
+      "partyOrigin": "D",
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB2619",
+      "legiscanUrl": "https://legiscan.com/CA/bill/AB2619/2025",
+      "legiscanId": 2121696,
+      "sponsors": [
+        "Diane Papan"
+      ]
+    },
+    {
+      "id": "ca-ab777",
+      "billCode": "AB777",
+      "title": "Food assistance: disasters: utilities.",
+      "summary": "An act to add Chapter 10 (commencing with Section 8410) to Division 4.1 of the Public Utilities Code, and to add Section 18917.2 to the Welfare and Institutions Code, relating to public social services.",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-10-13",
+      "partyOrigin": "D",
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB777",
+      "legiscanUrl": "https://legiscan.com/CA/bill/AB777/2025",
+      "legiscanId": 1974494,
+      "sponsors": [
+        "Celeste Rodriguez",
+        "Henry Stern"
+      ]
+    },
+    {
+      "id": "ca-sb223",
+      "billCode": "SB223",
+      "title": "The Wildfire Smoke and Health Outcomes Data Act.",
+      "summary": "An act to add Chapter 2 (commencing with Section 107260) to Part 2 of Division 104 of the Health and Safety Code, relating to public health.",
+      "stage": "Dead",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-02",
+      "partyOrigin": "B",
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB223",
+      "legiscanUrl": "https://legiscan.com/CA/bill/SB223/2025",
+      "legiscanId": 1943415,
+      "sponsors": [
+        "Marie Alvarado-Gil",
+        "Juan Alanis",
+        "Carl DeMaio",
+        "Stan Ellis"
+      ]
+    },
+    {
+      "id": "ca-ab222",
+      "billCode": "AB222",
+      "title": "Data centers: power usage effectiveness: cost shifts.",
+      "summary": "An act to add Section 25302.9 to the Public Resources Code, and to add and repeal Section 913.18 of the Public Utilities Code, relating to energy.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-06-02",
+      "partyOrigin": "D",
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB222",
+      "legiscanUrl": "https://legiscan.com/CA/bill/AB222/2025",
+      "legiscanId": 1908207,
+      "sponsors": [
+        "Rebecca Bauer-Kahan"
+      ]
+    },
+    {
+      "id": "ca-sb691",
+      "billCode": "SB691",
+      "title": "Body-worn cameras: policies.",
+      "summary": "An act to amend Section 832.18 of the Penal Code, relating to body-worn cameras.",
+      "stage": "Floor",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-27",
+      "partyOrigin": "D",
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB691",
+      "legiscanUrl": "https://legiscan.com/CA/bill/SB691/2025",
+      "legiscanId": 1980421,
+      "sponsors": [
+        "Aisha Wahab"
+      ]
+    }
+  ]
+}

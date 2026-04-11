@@ -1,0 +1,247 @@
+{
+  "state": "Virginia",
+  "stateCode": "VA",
+  "region": "na",
+  "stance": "review",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "Virginia has 12 bills tracked in 2025–2026. 4 are already enacted. 2 offer incentives or exemptions.",
+  "legislation": [
+    {
+      "id": "va-sb85",
+      "billCode": "SB85",
+      "title": "Consumer Data Protection Act; social media platforms & model operators, interoperability interfaces.",
+      "summary": "Consumer Data Protection Act; social media platforms and operators; interoperability interfaces. Requires social media platforms and operators, defined in the bill, to implement third-party interoperability interfaces to allow users to share social graph data, defined in the b...",
+      "stage": "Committee",
+      "impactTags": [
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-02-09",
+      "partyOrigin": "D",
+      "sourceUrl": "https://lis.virginia.gov/bill-details/20261/SB85",
+      "legiscanUrl": "https://legiscan.com/VA/bill/SB85/2026",
+      "legiscanId": 2064572,
+      "sponsors": [
+        "Schuyler VanValkenburg"
+      ]
+    },
+    {
+      "id": "va-hb797",
+      "billCode": "HB797",
+      "title": "Artificial intelligence; framework for person/entity acting as an independent verification org.",
+      "summary": "Joint Commission on Technology and Science; artificial intelligence; independent verification organizations. Directs the Joint Commission on Technology and Science (JCOTS) to evaluate the feasibility and impact of developing a framework for any person or entity seeking to act ...",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-08",
+      "partyOrigin": "D",
+      "sourceUrl": "https://lis.virginia.gov/bill-details/20261/HB797",
+      "legiscanUrl": "https://legiscan.com/VA/bill/HB797/2026",
+      "legiscanId": 2073912,
+      "sponsors": [
+        "C.E. Hayes",
+        "Bonita Anthony"
+      ]
+    },
+    {
+      "id": "va-sb352",
+      "billCode": "SB352",
+      "title": "Law-enforcement officers; restrictions on wearing of facial coverings, exceptions, penalty.",
+      "summary": "Law-enforcement officers; restrictions on wearing of facial coverings; exceptions; penalty. Prohibits any law-enforcement officer, defined in the bill, from wearing a facial covering, defined in the bill, while engaged in the performance of his official duties. The bill sets o...",
+      "stage": "Floor",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-30",
+      "partyOrigin": "D",
+      "sourceUrl": "https://lis.virginia.gov/bill-details/20261/SB352",
+      "legiscanUrl": "https://legiscan.com/VA/bill/SB352/2026",
+      "legiscanId": 2085455,
+      "sponsors": [
+        "Saddam Salim",
+        "Jennifer Boysko",
+        "Creigh Deeds",
+        "Adam Ebbin"
+      ]
+    },
+    {
+      "id": "va-hb603",
+      "billCode": "HB603",
+      "title": "Virginia All-Payer Claims Database; disclosure of information, limitation.",
+      "summary": "Virginia All-Payer Claims Database; disclosure of information; limitation. Specifies that the nonprofit organization facilitating the administration of the Virginia All-Payer Claims Database shall not disclose information relating to reimbursement beyond what is otherwise publ...",
+      "stage": "Floor",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-06",
+      "partyOrigin": "D",
+      "sourceUrl": "https://lis.virginia.gov/bill-details/20261/HB603",
+      "legiscanUrl": "https://legiscan.com/VA/bill/HB603/2026",
+      "legiscanId": 2072995,
+      "sponsors": [
+        "Rodney Willett"
+      ]
+    },
+    {
+      "id": "va-hb897",
+      "billCode": "HB897",
+      "title": "Retail Sales and Use Tax; exemption for data centers, delayed effective date.",
+      "summary": "Retail sales and use tax; exemption for data centers. Requires a data center operator, in order to be eligible for the existing data center sales and use tax exemption, to (i) beginning July 1, 2027, not use co-located generating facilities that emit carbon dioxide, other than...",
+      "stage": "Committee",
+      "impactTags": [
+        "carbon-emissions",
+        "renewable-energy",
+        "grid-capacity",
+        "tax-incentives",
+        "economic-development"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-16",
+      "partyOrigin": "D",
+      "sourceUrl": "https://lis.virginia.gov/bill-details/20261/HB897",
+      "legiscanUrl": "https://legiscan.com/VA/bill/HB897/2026",
+      "legiscanId": 2077877,
+      "sponsors": [
+        "Richard Sullivan",
+        "Karen Carnegie",
+        "John Chilton McAuliff",
+        "Irene Shin"
+      ]
+    },
+    {
+      "id": "va-hb567",
+      "billCode": "HB567",
+      "title": "Court records; aggregated case data, request by attorney for the Commonwealth exempted.",
+      "summary": "Court records; aggregated case data; request by attorney for the Commonwealth exempted. Provides that, notwithstanding any other provision of law, if a request for a report of aggregated case data is made by an attorney for the Commonwealth to assist in the performance of his ...",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-06",
+      "partyOrigin": "D",
+      "sourceUrl": "https://lis.virginia.gov/bill-details/20261/HB567",
+      "legiscanUrl": "https://legiscan.com/VA/bill/HB567/2026",
+      "legiscanId": 2072333,
+      "sponsors": [
+        "Karen Carnegie",
+        "Betsy Carr"
+      ]
+    },
+    {
+      "id": "va-sb524",
+      "billCode": "SB524",
+      "title": "Mental health & substance abuse disorders; network adequacy standards, comparative analyses, report.",
+      "summary": "Mental health and substance abuse disorders; network adequacy standards; comparative analyses; report; emergency regulations. Directs the Department of Health to issue regulations that include quantitative network adequacy standards for timely access to care, travel time, and ...",
+      "stage": "Floor",
+      "impactTags": [
+        "residential-proximity"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-30",
+      "partyOrigin": "D",
+      "sourceUrl": "https://lis.virginia.gov/bill-details/20261/SB524",
+      "legiscanUrl": "https://legiscan.com/VA/bill/SB524/2026",
+      "legiscanId": 2085730,
+      "sponsors": [
+        "Creigh Deeds"
+      ]
+    },
+    {
+      "id": "va-hb656",
+      "billCode": "HB656",
+      "title": "Mental health & substance abuse disorders; network adequacy standards, comparative analyses, report.",
+      "summary": "Mental health and substance abuse disorders; network adequacy standards; comparative analyses; report; emergency regulations. Directs the Department of Health to issue regulations that include quantitative network adequacy standards for timely access to care, travel time, and ...",
+      "stage": "Floor",
+      "impactTags": [
+        "residential-proximity"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-30",
+      "partyOrigin": "B",
+      "sourceUrl": "https://lis.virginia.gov/bill-details/20261/HB656",
+      "legiscanUrl": "https://legiscan.com/VA/bill/HB656/2026",
+      "legiscanId": 2073032,
+      "sponsors": [
+        "Rodney Willett",
+        "Bonita Anthony",
+        "Nadarius Clark",
+        "Nicole Cole"
+      ]
+    },
+    {
+      "id": "va-sb480",
+      "billCode": "SB480",
+      "title": "Adults charged with criminal offenses punishable by incarceration; Va. longitudinal Data System.",
+      "summary": "Collection and reporting of data related to adults charged with a criminal offense punishable by confinement in jail or a term of imprisonment; Virginia Longitudinal Data System. Allows the Virginia Criminal Sentencing Commission to contribute the statewide and locality-level ...",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-06",
+      "partyOrigin": "D",
+      "sourceUrl": "https://lis.virginia.gov/bill-details/20261/SB480",
+      "legiscanUrl": "https://legiscan.com/VA/bill/SB480/2026",
+      "legiscanId": 2085628,
+      "sponsors": [
+        "Creigh Deeds"
+      ]
+    },
+    {
+      "id": "va-hb1084",
+      "billCode": "HB1084",
+      "title": "Adults charged with criminal offenses punishable by incarceration; Va. longitudinal Data System.",
+      "summary": "Collection and reporting of data related to adults charged with a criminal offense punishable by confinement in jail or a term of imprisonment; Virginia Longitudinal Data System. Allows the Virginia Criminal Sentencing Commission to contribute the statewide and locality-level ...",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-06",
+      "partyOrigin": "D",
+      "sourceUrl": "https://lis.virginia.gov/bill-details/20261/HB1084",
+      "legiscanUrl": "https://legiscan.com/VA/bill/HB1084/2026",
+      "legiscanId": 2079139,
+      "sponsors": [
+        "Phil Hernandez"
+      ]
+    },
+    {
+      "id": "va-hb483",
+      "billCode": "HB483",
+      "title": "Prescription Drug Affordability Board; established.",
+      "summary": "Prescription Drug Affordability Advisory Panel established; maximum fair price; annual reports; civil penalties. Directs the Secretary of Health and Human Resources to establish the Prescription Drug Affordability Advisory Panel to conduct data analyses, develop policy recomme...",
+      "stage": "Floor",
+      "impactTags": [
+        "energy-rates",
+        "nda-transparency"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-30",
+      "partyOrigin": "B",
+      "sourceUrl": "https://lis.virginia.gov/bill-details/20261/HB483",
+      "legiscanUrl": "https://legiscan.com/VA/bill/HB483/2026",
+      "legiscanId": 2072063,
+      "sponsors": [
+        "Karrie Delaney",
+        "Nadarius Clark",
+        "Ellen McLaughlin",
+        "Joshua Thomas"
+      ]
+    },
+    {
+      "id": "va-sb271",
+      "billCode": "SB271",
+      "title": "Prescription Drug Affordability Board; established.",
+      "summary": "Prescription Drug Affordability Advisory Panel established; maximum fair price; annual reports; civil penalties. Directs the Secretary of Health and Human Resources to establish the Prescription Drug Affordability Advisory Panel to conduct data analyses, develop policy recomme...",
+      "stage": "Floor",
+      "impactTags": [
+        "energy-rates",
+        "nda-transparency"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-30",
+      "partyOrigin": "D",
+      "sourceUrl": "https://lis.virginia.gov/bill-details/20261/SB271",
+      "legiscanUrl": "https://legiscan.com/VA/bill/SB271/2026",
+      "legiscanId": 2077494,
+      "sponsors": [
+        "Creigh Deeds",
+        "Jennifer Carroll Foy"
+      ]
+    }
+  ]
+}

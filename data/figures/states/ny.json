@@ -1,0 +1,694 @@
+[
+  {
+    "id": "jamaal-bowman",
+    "name": "Jamaal Bowman",
+    "role": "Representative · Science, Space, and Technology",
+    "party": "D-NY",
+    "state": "NY",
+    "chamber": "house",
+    "committees": [
+      "Education and Labor",
+      "Science, Space, and Technology"
+    ],
+    "stance": "restrictive",
+    "techRegScore": 0.88,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "alexandria-ocasio-cortez",
+    "name": "Alexandria Ocasio-Cortez",
+    "role": "Representative",
+    "party": "D-NY",
+    "state": "NY",
+    "chamber": "house",
+    "committees": [
+      "Oversight and Accountability",
+      "Financial Services"
+    ],
+    "stance": "concerning",
+    "quote": "Social media-savvy democratic socialist championing Green New Deal",
+    "techRegScore": 0.85,
+    "lobbying": {
+      "topIndustries": [
+        "Labor unions $185K",
+        "Environmental groups $95K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 35,
+      "education": "BA Boston University (Economics, International Relations)",
+      "careerBeforePolitics": "Bartender, waitress, community organizer"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "nydia-velazquez",
+    "name": "Nydia Velazquez",
+    "role": "Representative",
+    "party": "D-NY",
+    "state": "NY",
+    "chamber": "house",
+    "committees": [
+      "Small Business",
+      "Financial Services"
+    ],
+    "stance": "concerning",
+    "techRegScore": 0.82,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "adriano-espaillat",
+    "name": "Adriano Espaillat",
+    "role": "Representative",
+    "party": "D-NY",
+    "state": "NY",
+    "chamber": "house",
+    "committees": [
+      "Transportation and Infrastructure",
+      "Small Business"
+    ],
+    "stance": "concerning",
+    "techRegScore": 0.82,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "grace-meng",
+    "name": "Grace Meng",
+    "role": "Representative",
+    "party": "D-NY",
+    "state": "NY",
+    "chamber": "house",
+    "committees": [
+      "Appropriations"
+    ],
+    "stance": "concerning",
+    "techRegScore": 0.78,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "dan-goldman",
+    "name": "Dan Goldman",
+    "role": "Representative · Judiciary",
+    "party": "D-NY",
+    "state": "NY",
+    "chamber": "house",
+    "committees": [
+      "Judiciary",
+      "Homeland Security"
+    ],
+    "stance": "concerning",
+    "techRegScore": 0.78,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "ritchie-torres",
+    "name": "Ritchie Torres",
+    "role": "Representative · Homeland Security",
+    "party": "D-NY",
+    "state": "NY",
+    "chamber": "house",
+    "committees": [
+      "Financial Services",
+      "Homeland Security"
+    ],
+    "stance": "concerning",
+    "techRegScore": 0.78,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "gregory-meeks",
+    "name": "Gregory Meeks",
+    "role": "Representative",
+    "party": "D-NY",
+    "state": "NY",
+    "chamber": "house",
+    "committees": [
+      "Foreign Affairs",
+      "Financial Services"
+    ],
+    "stance": "concerning",
+    "techRegScore": 0.75,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "paul-tonko",
+    "name": "Paul Tonko",
+    "role": "Representative · Energy and Commerce",
+    "party": "D-NY",
+    "state": "NY",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce"
+    ],
+    "stance": "concerning",
+    "techRegScore": 0.75,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "claudia-tenney",
+    "name": "Claudia Tenney",
+    "role": "Representative",
+    "party": "R-NY",
+    "state": "NY",
+    "chamber": "house",
+    "committees": [
+      "Foreign Affairs",
+      "Small Business"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.72,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "joseph-morelle",
+    "name": "Joseph Morelle",
+    "role": "Representative",
+    "party": "D-NY",
+    "state": "NY",
+    "chamber": "house",
+    "committees": [
+      "Rules",
+      "Budget"
+    ],
+    "stance": "concerning",
+    "techRegScore": 0.72,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "pat-ryan",
+    "name": "Pat Ryan",
+    "role": "Representative",
+    "party": "D-NY",
+    "state": "NY",
+    "chamber": "house",
+    "committees": [
+      "Agriculture",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "concerning",
+    "techRegScore": 0.68,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "toss-up"
+  },
+  {
+    "id": "elise-stefanik",
+    "name": "Elise Stefanik",
+    "role": "Representative · Intelligence",
+    "party": "R-NY",
+    "state": "NY",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Intelligence"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.68,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "timothy-kennedy",
+    "name": "Timothy Kennedy",
+    "role": "Representative",
+    "party": "D-NY",
+    "state": "NY",
+    "chamber": "house",
+    "committees": [
+      "Ways and Means",
+      "Budget"
+    ],
+    "stance": "concerning",
+    "techRegScore": 0.68,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "hakeem-jeffries",
+    "name": "Hakeem Jeffries",
+    "role": "Representative · House Minority Leader",
+    "party": "D-NY",
+    "state": "NY",
+    "chamber": "house",
+    "committees": [],
+    "stance": "concerning",
+    "quote": "Eloquent speaker leading House Democrats with prosecutorial precision",
+    "techRegScore": 0.65,
+    "lobbying": {
+      "topIndustries": [
+        "Legal services $425K",
+        "Real estate $380K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 54,
+      "education": "BA SUNY Binghamton, JD NYU",
+      "careerBeforePolitics": "Corporate lawyer, NY Assembly member"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "tom-suozzi",
+    "name": "Tom Suozzi",
+    "role": "Representative",
+    "party": "D-NY",
+    "state": "NY",
+    "chamber": "house",
+    "committees": [
+      "Ways and Means",
+      "Foreign Affairs"
+    ],
+    "stance": "concerning",
+    "techRegScore": 0.65,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "toss-up"
+  },
+  {
+    "id": "nick-langworthy",
+    "name": "Nick Langworthy",
+    "role": "Representative",
+    "party": "R-NY",
+    "state": "NY",
+    "chamber": "house",
+    "committees": [
+      "Agriculture",
+      "Oversight and Reform"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.65,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "nicole-malliotakis",
+    "name": "Nicole Malliotakis",
+    "role": "Representative",
+    "party": "R-NY",
+    "state": "NY",
+    "chamber": "house",
+    "committees": [
+      "Transportation and Infrastructure",
+      "Ways and Means"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.62,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "andrew-garbarino",
+    "name": "Andrew Garbarino",
+    "role": "Representative · Homeland Security",
+    "party": "R-NY",
+    "state": "NY",
+    "chamber": "house",
+    "committees": [
+      "Homeland Security",
+      "Small Business"
+    ],
+    "stance": "review",
+    "techRegScore": 0.58,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "mike-lawler",
+    "name": "Mike Lawler",
+    "role": "Representative",
+    "party": "R-NY",
+    "state": "NY",
+    "chamber": "house",
+    "committees": [
+      "Financial Services",
+      "Foreign Affairs"
+    ],
+    "stance": "review",
+    "quote": "Former radio host and NY Assembly member who flipped suburban NYC district",
+    "techRegScore": 0.55,
+    "lobbying": {
+      "topIndustries": [
+        "Finance with $195K",
+        "Real estate with $155K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 38,
+      "education": "Manhattan College (BA)",
+      "careerBeforePolitics": "Radio host, NY State Assembly member, political consultant"
+    },
+    "seatSafety": "toss-up"
+  },
+  {
+    "id": "nick-lalota",
+    "name": "Nick LaLota",
+    "role": "Representative · Homeland Security",
+    "party": "R-NY",
+    "state": "NY",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Homeland Security"
+    ],
+    "stance": "review",
+    "techRegScore": 0.55,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "brandon-williams",
+    "name": "Brandon Williams",
+    "role": "Representative · Science, Space, and Technology",
+    "party": "R-NY",
+    "state": "NY",
+    "chamber": "house",
+    "committees": [
+      "Transportation and Infrastructure",
+      "Science, Space, and Technology"
+    ],
+    "stance": "review",
+    "techRegScore": 0.55,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "toss-up"
+  },
+  {
+    "id": "anthony-d-esposito",
+    "name": "Anthony D'Esposito",
+    "role": "Representative · Homeland Security",
+    "party": "R-NY",
+    "state": "NY",
+    "chamber": "house",
+    "committees": [
+      "Homeland Security",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "review",
+    "techRegScore": 0.52,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "toss-up"
+  },
+  {
+    "id": "marcus-molinaro",
+    "name": "Marcus Molinaro",
+    "role": "Representative",
+    "party": "R-NY",
+    "state": "NY",
+    "chamber": "house",
+    "committees": [
+      "Agriculture",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "review",
+    "techRegScore": 0.48,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "toss-up"
+  },
+  {
+    "id": "chuck-schumer",
+    "name": "Chuck Schumer",
+    "role": "Senator · Senate Minority Leader",
+    "party": "D-NY",
+    "state": "NY",
+    "chamber": "senate",
+    "committees": [
+      "Rules"
+    ],
+    "stance": "none",
+    "quote": "Master tactician and media-savvy Democratic leader who loves the spotlight",
+    "techRegScore": 0.35,
+    "lobbying": {
+      "topIndustries": [
+        "Securities & Investment: $2.1M",
+        "Real Estate: $1.8M",
+        "Commercial Banks: $1.2M"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 74,
+      "education": "Harvard College (AB), Harvard Law School (JD)",
+      "careerBeforePolitics": "Attorney, served in New York Assembly and U.S. House"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "yvette-clarke",
+    "name": "Yvette Clarke",
+    "role": "Representative · Energy and Commerce",
+    "party": "D-NY",
+    "state": "NY",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce",
+      "Homeland Security"
+    ],
+    "stance": "none",
+    "techRegScore": 0.35,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "kirsten-gillibrand",
+    "name": "Kirsten Gillibrand",
+    "role": "Senator · Intelligence",
+    "party": "D-NY",
+    "state": "NY",
+    "chamber": "senate",
+    "committees": [
+      "Armed Services",
+      "Agriculture",
+      "Intelligence"
+    ],
+    "stance": "none",
+    "quote": "Leading advocate on military sexual assault reform and women's issues",
+    "techRegScore": 0.25,
+    "lobbying": {
+      "topIndustries": [
+        "Securities & Investment $1.4M",
+        "Real Estate $625K",
+        "Insurance $412K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 58,
+      "education": "BA Dartmouth College, JD UCLA Law School",
+      "careerBeforePolitics": "Attorney at Davis Polk & Wardwell, House of Representatives"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "jerry-nadler",
+    "name": "Jerry Nadler",
+    "role": "Representative · Judiciary",
+    "party": "D-NY",
+    "state": "NY",
+    "chamber": "house",
+    "committees": [
+      "Judiciary"
+    ],
+    "stance": "none",
+    "quote": "Leading Trump impeachment proceedings and constitutional law expertise",
+    "techRegScore": 0.15,
+    "lobbying": {
+      "topIndustries": [
+        "legal services with $220K",
+        "finance with $195K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 77,
+      "education": "Columbia University, Fordham Law School",
+      "careerBeforePolitics": "Lawyer, New York State Assembly"
+    },
+    "seatSafety": "safe"
+  }
+]

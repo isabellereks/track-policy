@@ -39,3 +39,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# sync pipeline caches — regenerable, not committed
+/data/raw
+/data/sources
+
+# claude code local state
+/.claude
+/skills-lock.json
+/legiscan-survey.txt

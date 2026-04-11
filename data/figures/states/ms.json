@@ -1,0 +1,152 @@
+[
+  {
+    "id": "bennie-thompson",
+    "name": "Bennie Thompson",
+    "role": "Representative · Homeland Security",
+    "party": "D-MS",
+    "state": "MS",
+    "chamber": "house",
+    "committees": [
+      "Homeland Security"
+    ],
+    "stance": "concerning",
+    "techRegScore": 0.78,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "roger-wicker",
+    "name": "Roger Wicker",
+    "role": "Senator · Commerce",
+    "party": "R-MS",
+    "state": "MS",
+    "chamber": "senate",
+    "committees": [
+      "Armed Services",
+      "Commerce",
+      "Environment",
+      "Rules"
+    ],
+    "stance": "favorable",
+    "quote": "Senior Armed Services hawk who champions defense spending and shipbuilding",
+    "techRegScore": 0.71,
+    "lobbying": {
+      "topIndustries": [
+        "Defense contractors $850K",
+        "Transportation $420K",
+        "Energy utilities $380K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 73,
+      "education": "BA University of Mississippi, JD University of Mississippi Law School",
+      "careerBeforePolitics": "Lawyer in private practice, U.S. House member 1995-2007"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "cindy-hyde-smith",
+    "name": "Cindy Hyde-Smith",
+    "role": "Senator",
+    "party": "R-MS",
+    "state": "MS",
+    "chamber": "senate",
+    "committees": [
+      "Appropriations",
+      "Agriculture"
+    ],
+    "stance": "review",
+    "quote": "First woman to represent Mississippi in Congress",
+    "techRegScore": 0.42,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "michael-guest",
+    "name": "Michael Guest",
+    "role": "Representative · Homeland Security",
+    "party": "R-MS",
+    "state": "MS",
+    "chamber": "house",
+    "committees": [
+      "Ethics",
+      "Homeland Security"
+    ],
+    "stance": "none",
+    "techRegScore": 0.38,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "trent-kelly",
+    "name": "Trent Kelly",
+    "role": "Representative",
+    "party": "R-MS",
+    "state": "MS",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Agriculture"
+    ],
+    "stance": "none",
+    "techRegScore": 0.35,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "steven-palazzo",
+    "name": "Steven Palazzo",
+    "role": "Representative",
+    "party": "R-MS",
+    "state": "MS",
+    "chamber": "house",
+    "committees": [
+      "Appropriations"
+    ],
+    "stance": "none",
+    "techRegScore": 0.35,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  }
+]

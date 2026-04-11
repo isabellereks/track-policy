@@ -1,0 +1,378 @@
+[
+  {
+    "id": "tim-walberg",
+    "name": "Tim Walberg",
+    "role": "Representative · Energy and Commerce",
+    "party": "R-MI",
+    "state": "MI",
+    "chamber": "house",
+    "committees": [
+      "Education and Workforce",
+      "Energy and Commerce"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.73,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "jack-bergman",
+    "name": "Jack Bergman",
+    "role": "Representative",
+    "party": "R-MI",
+    "state": "MI",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Veterans' Affairs"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.72,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "bill-huizenga",
+    "name": "Bill Huizenga",
+    "role": "Representative",
+    "party": "R-MI",
+    "state": "MI",
+    "chamber": "house",
+    "committees": [
+      "Financial Services"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.71,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "john-james",
+    "name": "John James",
+    "role": "Representative · Homeland Security",
+    "party": "R-MI",
+    "state": "MI",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Homeland Security"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.68,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "john-moolenaar",
+    "name": "John Moolenaar",
+    "role": "Representative",
+    "party": "R-MI",
+    "state": "MI",
+    "chamber": "house",
+    "committees": [
+      "Appropriations"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.67,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "lisa-mcclain",
+    "name": "Lisa McClain",
+    "role": "Representative · Republican Conference Chair",
+    "party": "R-MI",
+    "state": "MI",
+    "chamber": "house",
+    "committees": [
+      "Ways and Means"
+    ],
+    "stance": "favorable",
+    "quote": "Business executive turned politician who emphasizes economic messaging",
+    "techRegScore": 0.62,
+    "lobbying": {
+      "topIndustries": [
+        "automotive with $124,000",
+        "manufacturing with $98,000"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 58,
+      "education": "University of Michigan",
+      "careerBeforePolitics": "CEO of Turnaround Media and Hantz Group subsidiary"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "gary-peters",
+    "name": "Gary Peters",
+    "role": "Senator · Homeland Security",
+    "party": "D-MI",
+    "state": "MI",
+    "chamber": "senate",
+    "committees": [
+      "Homeland Security",
+      "Armed Services",
+      "Commerce"
+    ],
+    "stance": "review",
+    "quote": "Former Homeland Security Committee chair focused on cybersecurity and government oversight",
+    "techRegScore": 0.4,
+    "lobbying": {
+      "topIndustries": [
+        "Automotive $465K",
+        "Securities & Investment $420K",
+        "Defense Aerospace $385K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 66,
+      "education": "BA Alma College, MBA University of Detroit Mercy, JD Wayne State University, MA Michigan State University",
+      "careerBeforePolitics": "Investment advisor, Assistant Vice President Merrill Lynch, served in U.S. House"
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "elissa-slotkin",
+    "name": "Elissa Slotkin",
+    "role": "Senator · Homeland Security",
+    "party": "D-MI",
+    "state": "MI",
+    "chamber": "senate",
+    "committees": [
+      "Armed Services",
+      "Homeland Security"
+    ],
+    "stance": "review",
+    "quote": "CIA analyst turned centrist Democrat who flipped red Michigan seat",
+    "techRegScore": 0.4,
+    "lobbying": {
+      "topIndustries": [
+        "Automotive $740K",
+        "Defense contractors $580K",
+        "Labor unions $460K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 47,
+      "education": "Cornell University (BA, MS), Columbia University (MPA)",
+      "careerBeforePolitics": "CIA analyst for 14 years, worked on Iraq and Russia, Pentagon official under Obama, 6 years in U.S. House"
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "elissa-slotkin",
+    "name": "Elissa Slotkin",
+    "role": "Representative · Homeland Security",
+    "party": "D-MI",
+    "state": "MI",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Homeland Security"
+    ],
+    "stance": "none",
+    "techRegScore": 0.38,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "toss-up"
+  },
+  {
+    "id": "haley-stevens",
+    "name": "Haley Stevens",
+    "role": "Representative · Science and Technology",
+    "party": "D-MI",
+    "state": "MI",
+    "chamber": "house",
+    "committees": [
+      "Science and Technology",
+      "Education and Workforce"
+    ],
+    "stance": "none",
+    "techRegScore": 0.29,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "dan-kildee",
+    "name": "Dan Kildee",
+    "role": "Representative",
+    "party": "D-MI",
+    "state": "MI",
+    "chamber": "house",
+    "committees": [
+      "Budget",
+      "Ways and Means"
+    ],
+    "stance": "none",
+    "techRegScore": 0.28,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "hillary-scholten",
+    "name": "Hillary Scholten",
+    "role": "Representative · Judiciary",
+    "party": "D-MI",
+    "state": "MI",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Judiciary"
+    ],
+    "stance": "none",
+    "techRegScore": 0.27,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "debbie-dingell",
+    "name": "Debbie Dingell",
+    "role": "Representative · Energy and Commerce",
+    "party": "D-MI",
+    "state": "MI",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce",
+      "Natural Resources"
+    ],
+    "stance": "none",
+    "techRegScore": 0.26,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "shri-thanedar",
+    "name": "Shri Thanedar",
+    "role": "Representative · Homeland Security",
+    "party": "D-MI",
+    "state": "MI",
+    "chamber": "house",
+    "committees": [
+      "Homeland Security",
+      "Small Business"
+    ],
+    "stance": "none",
+    "techRegScore": 0.24,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "rashida-tlaib",
+    "name": "Rashida Tlaib",
+    "role": "Representative",
+    "party": "D-MI",
+    "state": "MI",
+    "chamber": "house",
+    "committees": [
+      "Oversight",
+      "Natural Resources"
+    ],
+    "stance": "none",
+    "quote": "Fiery progressive advocacy and confrontational style",
+    "techRegScore": 0.22,
+    "lobbying": {
+      "topIndustries": [
+        "Labor Unions $180K",
+        "Environmental $110K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 48,
+      "education": "JD Western Michigan University",
+      "careerBeforePolitics": "Civil rights attorney, Michigan state legislator"
+    },
+    "seatSafety": "safe"
+  }
+]

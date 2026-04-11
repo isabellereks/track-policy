@@ -1,0 +1,238 @@
+[
+  {
+    "id": "william-timmons",
+    "name": "William Timmons",
+    "role": "Representative",
+    "party": "R-SC",
+    "state": "SC",
+    "chamber": "house",
+    "committees": [
+      "Financial Services",
+      "Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.76,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "lindsey-graham",
+    "name": "Lindsey Graham",
+    "role": "Senator · Judiciary",
+    "party": "R-SC",
+    "state": "SC",
+    "chamber": "senate",
+    "committees": [
+      "Judiciary",
+      "Appropriations",
+      "Budget"
+    ],
+    "stance": "favorable",
+    "quote": "Foreign policy hawk who loves media attention and dramatic statements",
+    "techRegScore": 0.75,
+    "lobbying": {
+      "topIndustries": [
+        "Defense: $1.7M",
+        "Finance & Insurance: $1.4M",
+        "Healthcare: $980K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 69,
+      "education": "University of South Carolina (BA Psychology, JD)",
+      "careerBeforePolitics": "Air Force JAG officer, private practice attorney, prosecutor"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "ralph-norman",
+    "name": "Ralph Norman",
+    "role": "Representative",
+    "party": "R-SC",
+    "state": "SC",
+    "chamber": "house",
+    "committees": [
+      "Rules",
+      "Financial Services"
+    ],
+    "stance": "favorable",
+    "quote": "Freedom Caucus fiscal hawk known for dramatic gestures",
+    "techRegScore": 0.75,
+    "lobbying": {
+      "topIndustries": [
+        "real estate with $125K",
+        "finance with $98K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 67,
+      "education": "Presbyterian College business",
+      "careerBeforePolitics": "Real estate developer, investment company owner"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "jeff-duncan",
+    "name": "Jeff Duncan",
+    "role": "Representative · Energy and Commerce",
+    "party": "R-SC",
+    "state": "SC",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce",
+      "Foreign Affairs"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.75,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "joe-wilson",
+    "name": "Joe Wilson",
+    "role": "Representative",
+    "party": "R-SC",
+    "state": "SC",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Foreign Affairs"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.74,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "tim-scott",
+    "name": "Tim Scott",
+    "role": "Senator",
+    "party": "R-SC",
+    "state": "SC",
+    "chamber": "senate",
+    "committees": [
+      "Banking",
+      "Finance",
+      "HELP"
+    ],
+    "stance": "favorable",
+    "quote": "Optimistic conservative message and police reform efforts, potential presidential candidate",
+    "techRegScore": 0.72,
+    "lobbying": {
+      "topIndustries": [
+        "Securities & Investment $1.8M",
+        "Insurance $1.2M",
+        "Real Estate $950K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 59,
+      "education": "Charleston Southern University (BS)",
+      "careerBeforePolitics": "Insurance agent, real estate, small business owner"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "tom-rice",
+    "name": "Tom Rice",
+    "role": "Representative",
+    "party": "R-SC",
+    "state": "SC",
+    "chamber": "house",
+    "committees": [
+      "Ways and Means",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.72,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "nancy-mace",
+    "name": "Nancy Mace",
+    "role": "Representative",
+    "party": "R-SC",
+    "state": "SC",
+    "chamber": "house",
+    "committees": [
+      "Oversight"
+    ],
+    "stance": "review",
+    "quote": "First woman to graduate from The Citadel, unpredictable Trump critic who still votes mostly with GOP",
+    "techRegScore": 0.55,
+    "lobbying": {
+      "topIndustries": [
+        "Real estate with $180K",
+        "Defense with $145K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 47,
+      "education": "The Citadel (BA), University of Georgia (MA)",
+      "careerBeforePolitics": "Business consultant, real estate"
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "jim-clyburn",
+    "name": "Jim Clyburn",
+    "role": "Representative · Assistant Democratic Leader",
+    "party": "D-SC",
+    "state": "SC",
+    "chamber": "house",
+    "committees": [],
+    "stance": "none",
+    "quote": "The kingmaker who helped secure Biden's 2020 nomination",
+    "techRegScore": 0.2,
+    "lobbying": {
+      "topIndustries": [
+        "healthcare with $180K",
+        "finance with $165K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 84,
+      "education": "South Carolina State University",
+      "careerBeforePolitics": "Teacher, state legislator"
+    },
+    "seatSafety": "safe"
+  }
+]

@@ -1,0 +1,210 @@
+[
+  {
+    "id": "john-kennedy",
+    "name": "John Kennedy",
+    "role": "Senator · Judiciary",
+    "party": "R-LA",
+    "state": "LA",
+    "chamber": "senate",
+    "committees": [
+      "Appropriations",
+      "Banking",
+      "Budget",
+      "Judiciary"
+    ],
+    "stance": "favorable",
+    "quote": "Colorful Louisiana lawyer known for folksy one-liners and sharp questioning in hearings",
+    "techRegScore": 0.78,
+    "lobbying": {
+      "topIndustries": [
+        "Oil & Gas $825K",
+        "Banking $675K",
+        "Chemicals $485K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 73,
+      "education": "Vanderbilt University (B.A., J.D.), Oxford University (B.C.L.)",
+      "careerBeforePolitics": "Attorney, Louisiana State Treasurer (2000-2017), private law practice specializing in civil litigation"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "mike-johnson",
+    "name": "Mike Johnson",
+    "role": "Representative · Speaker of the House",
+    "party": "R-LA",
+    "state": "LA",
+    "chamber": "house",
+    "committees": [],
+    "stance": "favorable",
+    "quote": "Constitutional lawyer who rose quickly to Speaker through institutional loyalty",
+    "techRegScore": 0.75,
+    "lobbying": {
+      "topIndustries": [
+        "oil_gas with $145,000",
+        "agriculture with $98,000"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 52,
+      "education": "B.A. Louisiana State University, J.D. Paul M. Hebert Law Center",
+      "careerBeforePolitics": "Constitutional law attorney, radio host, founded law firm"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "troy-carter",
+    "name": "Troy Carter",
+    "role": "Representative · Energy and Commerce",
+    "party": "D-LA",
+    "state": "LA",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce"
+    ],
+    "stance": "concerning",
+    "techRegScore": 0.75,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "steve-scalise",
+    "name": "Steve Scalise",
+    "role": "Representative · Majority Leader",
+    "party": "R-LA",
+    "state": "LA",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce"
+    ],
+    "stance": "favorable",
+    "quote": "Survivor of 2017 congressional baseball shooting who became a unifying figure",
+    "techRegScore": 0.68,
+    "lobbying": {
+      "topIndustries": [
+        "oil_gas with $298,000",
+        "healthcare with $187,000"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 59,
+      "education": "B.S. Louisiana State University",
+      "careerBeforePolitics": "Computer systems engineer, Louisiana Legislature"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "bill-cassidy",
+    "name": "Bill Cassidy",
+    "role": "Senator · Energy",
+    "party": "R-LA",
+    "state": "LA",
+    "chamber": "senate",
+    "committees": [
+      "Finance",
+      "Energy",
+      "HELP",
+      "Veterans Affairs"
+    ],
+    "stance": "review",
+    "quote": "Physician background and willingness to break with party on healthcare and Trump",
+    "techRegScore": 0.55,
+    "lobbying": {
+      "topIndustries": [
+        "Oil & Gas $1.3M",
+        "Health Professionals $789,000",
+        "Pharmaceuticals $567,000"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 67,
+      "education": "Louisiana State University (BS), LSU School of Medicine (MD)",
+      "careerBeforePolitics": "Gastroenterologist, LSU medical professor, Louisiana State Senator and U.S. House"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "garret-graves",
+    "name": "Garret Graves",
+    "role": "Representative",
+    "party": "R-LA",
+    "state": "LA",
+    "chamber": "house",
+    "committees": [
+      "Transportation and Infrastructure"
+    ],
+    "stance": "review",
+    "techRegScore": 0.42,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "julia-letlow",
+    "name": "Julia Letlow",
+    "role": "Representative",
+    "party": "R-LA",
+    "state": "LA",
+    "chamber": "house",
+    "committees": [
+      "Agriculture",
+      "Education and the Workforce"
+    ],
+    "stance": "review",
+    "techRegScore": 0.4,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "clay-higgins",
+    "name": "Clay Higgins",
+    "role": "Representative · Homeland Security",
+    "party": "R-LA",
+    "state": "LA",
+    "chamber": "house",
+    "committees": [
+      "Homeland Security",
+      "Oversight and Accountability"
+    ],
+    "stance": "none",
+    "techRegScore": 0.22,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  }
+]

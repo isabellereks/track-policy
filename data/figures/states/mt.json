@@ -1,0 +1,112 @@
+[
+  {
+    "id": "steve-daines",
+    "name": "Steve Daines",
+    "role": "Senator · Energy",
+    "party": "R-MT",
+    "state": "MT",
+    "chamber": "senate",
+    "committees": [
+      "Appropriations",
+      "Energy",
+      "Finance",
+      "Indian Affairs"
+    ],
+    "stance": "favorable",
+    "quote": "Former tech executive who champions Montana's outdoor recreation economy and energy independence",
+    "techRegScore": 0.72,
+    "lobbying": {
+      "topIndustries": [
+        "Oil & Gas $755K",
+        "Mining $520K",
+        "Technology $445K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 62,
+      "education": "Montana State University (B.S. Chemical Engineering)",
+      "careerBeforePolitics": "Technology executive at Procter & Gamble, RightNow Technologies (founded and sold for $1.5B to Oracle)"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "troy-downing",
+    "name": "Troy Downing",
+    "role": "Representative · Science, Space, and Technology",
+    "party": "R-MT",
+    "state": "MT",
+    "chamber": "house",
+    "committees": [
+      "Science, Space, and Technology",
+      "Veterans' Affairs"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.72,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "tim-sheehy",
+    "name": "Tim Sheehy",
+    "role": "Senator · Commerce",
+    "party": "R-MT",
+    "state": "MT",
+    "chamber": "senate",
+    "committees": [
+      "Armed Services",
+      "Commerce",
+      "Indian Affairs",
+      "Veterans Affairs"
+    ],
+    "stance": "favorable",
+    "quote": "Navy SEAL turned businessman who defeated Jon Tester with strong Trump support",
+    "techRegScore": 0.69,
+    "lobbying": {
+      "topIndustries": [
+        "Oil & Gas: $1.2M",
+        "Defense Aerospace: $678K",
+        "Agriculture: $445K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 38,
+      "education": "BA from U.S. Naval Academy, MBA from University of Chicago Booth School",
+      "careerBeforePolitics": "Navy SEAL officer, founded Bridger Aerospace (aerial firefighting company)"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "ryan-zinke",
+    "name": "Ryan Zinke",
+    "role": "Representative",
+    "party": "R-MT",
+    "state": "MT",
+    "chamber": "house",
+    "committees": [
+      "Natural Resources",
+      "Armed Services"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.68,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  }
+]

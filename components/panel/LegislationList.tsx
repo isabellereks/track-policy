@@ -8,12 +8,14 @@ interface LegislationListProps {
 export default function LegislationList({ legislation }: LegislationListProps) {
   return (
     <div className="flex flex-col gap-3">
-      {legislation.map((bill) => (
+      {legislation.map((bill) => {
+        const href = bill.legiscanUrl ?? bill.sourceUrl;
+        return (
         <a
           key={bill.id}
-          href={bill.sourceUrl ?? "#"}
-          target={bill.sourceUrl ? "_blank" : undefined}
-          rel={bill.sourceUrl ? "noopener noreferrer" : undefined}
+          href={href ?? "#"}
+          target={href ? "_blank" : undefined}
+          rel={href ? "noopener noreferrer" : undefined}
           className="block bg-bg/60 rounded-2xl p-4 hover:bg-bg transition-colors"
         >
           <div className="text-xs text-muted">{bill.billCode}</div>
@@ -25,7 +27,8 @@ export default function LegislationList({ legislation }: LegislationListProps) {
           </p>
           <BillTimeline stage={bill.stage} />
         </a>
-      ))}
+        );
+      })}
     </div>
   );
 }

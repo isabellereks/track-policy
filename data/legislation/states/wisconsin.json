@@ -1,0 +1,258 @@
+{
+  "state": "Wisconsin",
+  "stateCode": "WI",
+  "region": "na",
+  "stance": "concerning",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "Wisconsin has 12 bills tracked in 2025–2026. 4 relate to moratoriums or prohibitions.",
+  "legislation": [
+    {
+      "id": "wi-ab722",
+      "billCode": "AB722",
+      "title": "Large energy customer fees; electric utility very large customer class; a renewable resource tariff; building requirements for data centers; water usage by large customers; required pay rate on large-scale data center projects; and granting rule-making authority. (FE)",
+      "summary": "An Act to amend 16.957 (2) (d) 3., 25.96 and 238.40 (2) (b); to create 16.296, 16.957 (2) (a) 5., 20.505 (1) (gj), 66.0443, 101.028, 103.08, 196.03 (7), 196.03 (8), 196.493, 196.498, 238.40 (1) (am) and 238.40 (1) (b) 3. of the statutes; Relating to: large energy customer fees...",
+      "stage": "Dead",
+      "impactTags": [
+        "renewable-energy",
+        "energy-rates"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-23",
+      "partyOrigin": "D",
+      "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab722",
+      "legiscanUrl": "https://legiscan.com/WI/bill/AB722/2025",
+      "legiscanId": 2056344,
+      "sponsors": [
+        "Angela Stroud",
+        "Vinnie Miresse",
+        "Lori Palmeri",
+        "Mike Bare"
+      ]
+    },
+    {
+      "id": "wi-ab959",
+      "billCode": "AB959",
+      "title": "The legal status of artificial intelligence.",
+      "summary": "An Act to amend 990.01 (26); to create 134.44 of the statutes; Relating to: the legal status of artificial intelligence.",
+      "stage": "Dead",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-23",
+      "partyOrigin": "R",
+      "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab959",
+      "legiscanUrl": "https://legiscan.com/WI/bill/AB959/2025",
+      "legiscanId": 2102037,
+      "sponsors": [
+        "Lindee Brill",
+        "Barbara Dittrich",
+        "David Armstrong",
+        "Elijah Behnke"
+      ]
+    },
+    {
+      "id": "wi-sb932",
+      "billCode": "SB932",
+      "title": "The legal status of artificial intelligence.",
+      "summary": "An Act to amend 990.01 (26); to create 134.44 of the statutes; Relating to: the legal status of artificial intelligence.",
+      "stage": "Dead",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-23",
+      "partyOrigin": "B",
+      "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb932",
+      "legiscanUrl": "https://legiscan.com/WI/bill/SB932/2025",
+      "legiscanId": 2110862,
+      "sponsors": [
+        "Andre Jacque",
+        "Romaine Quinn",
+        "Mark Spreitzer",
+        "Lindee Brill"
+      ]
+    },
+    {
+      "id": "wi-sb815",
+      "billCode": "SB815",
+      "title": "Synthetic digital representations and providing a penalty.",
+      "summary": "An Act to amend 946.82 (4) and 995.50 (2) (am) 4.; to create 942.085 of the statutes; Relating to: synthetic digital representations and providing a penalty.",
+      "stage": "Dead",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-23",
+      "partyOrigin": "D",
+      "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb815",
+      "legiscanUrl": "https://legiscan.com/WI/bill/SB815/2025",
+      "legiscanId": 2078484,
+      "sponsors": [
+        "Sarah Keyeski",
+        "Kristin Dassler-Alfheim",
+        "Jodi Habush Sinykin",
+        "Jamie Wall"
+      ]
+    },
+    {
+      "id": "wi-ab855",
+      "billCode": "AB855",
+      "title": "Synthetic digital representations and providing a penalty.",
+      "summary": "An Act to amend 946.82 (4) and 995.50 (2) (am) 4.; to create 942.085 of the statutes; Relating to: synthetic digital representations and providing a penalty.",
+      "stage": "Dead",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-23",
+      "partyOrigin": "D",
+      "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab855",
+      "legiscanUrl": "https://legiscan.com/WI/bill/AB855/2025",
+      "legiscanId": 2084466,
+      "sponsors": [
+        "Jenna Jacobson",
+        "Maureen McCarville",
+        "Karen DeSanto",
+        "Christine Sinicki"
+      ]
+    },
+    {
+      "id": "wi-ab575",
+      "billCode": "AB575",
+      "title": "Prohibiting state agencies and local governmental units from using facial recognition technology or data generated from it.",
+      "summary": "An Act to create 995.80 of the statutes; Relating to: prohibiting state agencies and local governmental units from using facial recognition technology or data generated from it.",
+      "stage": "Dead",
+      "impactTags": [],
+      "category": "ai-criminal-justice",
+      "updatedDate": "2026-03-23",
+      "partyOrigin": "D",
+      "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab575",
+      "legiscanUrl": "https://legiscan.com/WI/bill/AB575/2025",
+      "legiscanId": 2047404,
+      "sponsors": [
+        "Ryan Clancy",
+        "Angelito Tenorio",
+        "Supreme Omokunde",
+        "Angelina Cruz"
+      ]
+    },
+    {
+      "id": "wi-sb729",
+      "billCode": "SB729",
+      "title": "Large energy customer fees; electric utility very large customer class; a renewable resource tariff; building requirements for data centers; water usage by large customers; required pay rate on large-scale data center projects; and granting rule-making authority. (FE)",
+      "summary": "An Act to amend 16.957 (2) (d) 3., 25.96 and 238.40 (2) (b); to create 16.296, 16.957 (2) (a) 5., 20.505 (1) (gj), 66.0443, 101.028, 103.08, 196.03 (7), 196.03 (8), 196.493, 196.498, 238.40 (1) (am) and 238.40 (1) (b) 3. of the statutes; Relating to: large energy customer fees...",
+      "stage": "Dead",
+      "impactTags": [
+        "renewable-energy",
+        "energy-rates"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-23",
+      "partyOrigin": "D",
+      "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb729",
+      "legiscanUrl": "https://legiscan.com/WI/bill/SB729/2025",
+      "legiscanId": 2056075,
+      "sponsors": [
+        "Jodi Habush Sinykin",
+        "Mark Spreitzer",
+        "Sarah Keyeski",
+        "Timothy Carpenter"
+      ]
+    },
+    {
+      "id": "wi-sb1061",
+      "billCode": "SB1061",
+      "title": "Moratorium on data centers.",
+      "summary": "An Act to create 134.44 of the statutes; Relating to: moratorium on data centers.",
+      "stage": "Dead",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-23",
+      "partyOrigin": "D",
+      "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb1061",
+      "legiscanUrl": "https://legiscan.com/WI/bill/SB1061/2025",
+      "legiscanId": 2125239,
+      "sponsors": [
+        "Christopher Larson",
+        "Timothy Carpenter",
+        "Darrin Madison",
+        "Francesca Hong"
+      ]
+    },
+    {
+      "id": "wi-ab1099",
+      "billCode": "AB1099",
+      "title": "Moratorium on data centers.",
+      "summary": "An Act to create 134.44 of the statutes; Relating to: moratorium on data centers.",
+      "stage": "Dead",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-23",
+      "partyOrigin": "D",
+      "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1099",
+      "legiscanUrl": "https://legiscan.com/WI/bill/AB1099/2025",
+      "legiscanId": 2133661,
+      "sponsors": [
+        "Darrin Madison",
+        "Francesca Hong",
+        "Supreme Omokunde",
+        "Ryan Clancy"
+      ]
+    },
+    {
+      "id": "wi-ab840",
+      "billCode": "AB840",
+      "title": "Certain requirements related to data centers.",
+      "summary": "An Act to create 196.20 (10), 196.492 and 299.70 of the statutes; Relating to: certain requirements related to data centers.",
+      "stage": "Dead",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-23",
+      "partyOrigin": "R",
+      "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab840",
+      "legiscanUrl": "https://legiscan.com/WI/bill/AB840/2025",
+      "legiscanId": 2069920,
+      "sponsors": [
+        "Shannon Zimmerman",
+        "Mark Born",
+        "Scott Allen",
+        "David Armstrong"
+      ]
+    },
+    {
+      "id": "wi-sb843",
+      "billCode": "SB843",
+      "title": "Certain requirements related to data centers.",
+      "summary": "An Act to create 196.20 (10), 196.492 and 299.70 of the statutes; Relating to: certain requirements related to data centers.",
+      "stage": "Dead",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-23",
+      "partyOrigin": "R",
+      "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb843",
+      "legiscanUrl": "https://legiscan.com/WI/bill/SB843/2025",
+      "legiscanId": 2080741,
+      "sponsors": [
+        "Romaine Quinn",
+        "Dan Feyen",
+        "John Jagler",
+        "Jesse James"
+      ]
+    },
+    {
+      "id": "wi-sb969",
+      "billCode": "SB969",
+      "title": "Prohibiting nondisclosure agreements intended to conceal information about a data center from the public.",
+      "summary": "An Act to create 66.10015 (1) (ag), 66.10015 (7) and 134.89 of the statutes; Relating to: prohibiting nondisclosure agreements intended to conceal information about a data center from the public.",
+      "stage": "Dead",
+      "impactTags": [
+        "nda-transparency"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-23",
+      "partyOrigin": "R",
+      "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb969",
+      "legiscanUrl": "https://legiscan.com/WI/bill/SB969/2025",
+      "legiscanId": 2110675,
+      "sponsors": [
+        "Andre Jacque",
+        "Steve Nass",
+        "Clint Moses",
+        "Barbara Dittrich"
+      ]
+    }
+  ]
+}

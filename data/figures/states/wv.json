@@ -1,0 +1,110 @@
+[
+  {
+    "id": "shelley-moore-capito",
+    "name": "Shelley Moore Capito",
+    "role": "Senator · Commerce",
+    "party": "R-WV",
+    "state": "WV",
+    "chamber": "senate",
+    "committees": [
+      "Appropriations",
+      "Commerce",
+      "Environment",
+      "Rules"
+    ],
+    "stance": "favorable",
+    "quote": "Defending coal industry and West Virginia economic interests, pragmatic conservative",
+    "techRegScore": 0.7,
+    "lobbying": {
+      "topIndustries": [
+        "Oil & Gas $1.4M",
+        "Electric utilities $890K",
+        "Coal mining $650K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 71,
+      "education": "Duke University (AB), University of Virginia (MEd)",
+      "careerBeforePolitics": "Teacher, educational consultant, served in WV House of Delegates and US House"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "jim-justice",
+    "name": "Jim Justice",
+    "role": "Senator",
+    "party": "R-WV",
+    "state": "WV",
+    "chamber": "senate",
+    "committees": [
+      "Agriculture",
+      "Environment",
+      "Veterans Affairs"
+    ],
+    "stance": "favorable",
+    "quote": "Coal billionaire and former Democratic governor who switched parties",
+    "techRegScore": 0.64,
+    "lobbying": {
+      "topIndustries": [
+        "Coal Mining: $2.1M",
+        "Oil & Gas: $1.4M",
+        "Agriculture: $567K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 73,
+      "education": "University of Alabama (basketball scholarship), graduated with business degree",
+      "careerBeforePolitics": "Built coal and agricultural empire, owned luxury resorts, West Virginia Governor 2017-2025"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "carol-miller",
+    "name": "Carol Miller",
+    "role": "Representative · Science, Space, and Technology",
+    "party": "R-WV",
+    "state": "WV",
+    "chamber": "house",
+    "committees": [
+      "Science, Space, and Technology",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "review",
+    "techRegScore": 0.42,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "alex-mooney",
+    "name": "Alex Mooney",
+    "role": "Representative",
+    "party": "R-WV",
+    "state": "WV",
+    "chamber": "house",
+    "committees": [
+      "Financial Services"
+    ],
+    "stance": "none",
+    "techRegScore": 0.25,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  }
+]

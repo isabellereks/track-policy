@@ -1,0 +1,88 @@
+[
+  {
+    "id": "dan-sullivan",
+    "name": "Dan Sullivan",
+    "role": "Senator · Commerce",
+    "party": "R-AK",
+    "state": "AK",
+    "chamber": "senate",
+    "committees": [
+      "Armed Services",
+      "Commerce",
+      "Environment",
+      "Veterans Affairs"
+    ],
+    "stance": "favorable",
+    "quote": "Alaska energy development advocate and military veteran with extensive government experience",
+    "techRegScore": 0.62,
+    "lobbying": {
+      "topIndustries": [
+        "Oil & Gas $1.2M",
+        "Mining $456,000",
+        "Defense Aerospace $389,000"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 60,
+      "education": "Harvard University (BA), Georgetown Law (JD)",
+      "careerBeforePolitics": "U.S. Marine Corps officer, Alaska Attorney General, Assistant Secretary of State"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "lisa-murkowski",
+    "name": "Lisa Murkowski",
+    "role": "Senator · Energy",
+    "party": "R-AK",
+    "state": "AK",
+    "chamber": "senate",
+    "committees": [
+      "Appropriations",
+      "Energy",
+      "Indian Affairs",
+      "HELP"
+    ],
+    "stance": "review",
+    "quote": "Most independent Republican willing to break from party on key votes",
+    "techRegScore": 0.58,
+    "lobbying": {
+      "topIndustries": [
+        "Oil & Gas: $1.8M",
+        "Mining: $890K",
+        "Healthcare: $650K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 67,
+      "education": "Georgetown University (BA Economics), Willamette University College of Law (JD)",
+      "careerBeforePolitics": "Attorney in private practice, Anchorage District Court clerk"
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "mary-peltola",
+    "name": "Mary Peltola",
+    "role": "Representative",
+    "party": "D-AK",
+    "state": "AK",
+    "chamber": "house",
+    "committees": [
+      "Natural Resources",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "review",
+    "techRegScore": 0.5,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "toss-up"
+  }
+]

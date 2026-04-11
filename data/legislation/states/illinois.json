@@ -1,0 +1,238 @@
+{
+  "state": "Illinois",
+  "stateCode": "IL",
+  "region": "na",
+  "stance": "review",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "Illinois has 12 bills tracked in 2025–2026.",
+  "legislation": [
+    {
+      "id": "il-hb3312",
+      "billCode": "HB3312",
+      "title": "UTILITY DATA ACCESS ACT",
+      "summary": "Reinserts the provisions of the introduced bill with the following changes. In provisions concerning utility data access, provides that the Illinois Commerce Commission shall enact procedures whereby a qualified utility shall retain, for a period of not less than 7 years, mont...",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-04-10",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3312&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+      "legiscanUrl": "https://legiscan.com/IL/bill/HB3312/2025",
+      "legiscanId": 1960897,
+      "sponsors": [
+        "Mary Canty",
+        "Kelly Cassidy",
+        "Will Guzzardi",
+        "Kevin Olickal"
+      ]
+    },
+    {
+      "id": "il-sb3263",
+      "billCode": "SB3263",
+      "title": "AI PROVENANCE DATA ACT",
+      "summary": "Creates the Artificial Intelligence Provenance Data Act. Provides that a covered artificial intelligence tool provider shall make available, at no cost to a person, a provenance label reading tool. Provides that a covered artificial intelligence tool provider shall include a p...",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-03",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3263&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
+      "legiscanUrl": "https://legiscan.com/IL/bill/SB3263/2025",
+      "legiscanId": 2104843,
+      "sponsors": [
+        "Mary Edly-Allen",
+        "Rachel Ventura"
+      ]
+    },
+    {
+      "id": "il-hb1860",
+      "billCode": "HB1860",
+      "title": "ELEC CD-DECEPTIVE MATERIAL",
+      "summary": "Amends the Election Code. Provides that a person shall not distribute, or enter into an agreement with another person to distribute, materially deceptive media if: (1) the person knows the media falsely represents a depicted individual; (2) the distribution occurs within 90 da...",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-01-29",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.ilga.gov/Legislation/BillStatus?DocNum=1860&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+      "legiscanUrl": "https://legiscan.com/IL/bill/HB1860/2025",
+      "legiscanId": 1945824,
+      "sponsors": [
+        "Abdelnasser Rashid"
+      ]
+    },
+    {
+      "id": "il-hb3303",
+      "billCode": "HB3303",
+      "title": "ELEC CD-DECEPTIVE MATERIAL",
+      "summary": "Amends the Election Code. Provides that a person shall not distribute, or enter into an agreement with another person to distribute, materially deceptive media if: (1) the person knows the media falsely represents a depicted individual; (2) the distribution occurs within 90 da...",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-02-06",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3303&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+      "legiscanUrl": "https://legiscan.com/IL/bill/HB3303/2025",
+      "legiscanId": 1960565,
+      "sponsors": [
+        "Marcus Evans"
+      ]
+    },
+    {
+      "id": "il-sb3564",
+      "billCode": "SB3564",
+      "title": "POLICE-FACIAL RECOGNITION ACT",
+      "summary": "Creates the Facial Recognition Technology in Law Enforcement Act. Provides that a law enforcement agency that uses facial recognition technology shall conduct a compliance audit regarding implementation of the policies established under the Act. Requires the Illinois State Pol...",
+      "stage": "Committee",
+      "impactTags": [
+        "property-values"
+      ],
+      "category": "ai-criminal-justice",
+      "updatedDate": "2026-02-05",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3564&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
+      "legiscanUrl": "https://legiscan.com/IL/bill/SB3564/2025",
+      "legiscanId": 2109153,
+      "sponsors": [
+        "Adriane Johnson"
+      ]
+    },
+    {
+      "id": "il-sb2478",
+      "billCode": "SB2478",
+      "title": "UTILITY DATA ACCESS ACT",
+      "summary": "Creates the Utility Data Access Act. Requires the Illinois Commerce Commission to enact the following procedures: (1) a utility shall retain all consumption data for a period of not less than 2 years; (2) a qualified utility shall retain monthly consumption data used for billi...",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-02-07",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2478&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
+      "legiscanUrl": "https://legiscan.com/IL/bill/SB2478/2025",
+      "legiscanId": 1963292,
+      "sponsors": [
+        "Mattie Hunter"
+      ]
+    },
+    {
+      "id": "il-sb3890",
+      "billCode": "SB3890",
+      "title": "CONSUMER DATA PRIVACY",
+      "summary": "Creates the Illinois Data Privacy Protection Act. Applies to legal entities that conduct business in Illinois or produce products or services that are targeted to Illinois residents and that satisfy one or more of the following thresholds: during a calendar year, controls or p...",
+      "stage": "Committee",
+      "impactTags": [
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-02-06",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3890&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
+      "legiscanUrl": "https://legiscan.com/IL/bill/SB3890/2025",
+      "legiscanId": 2111124,
+      "sponsors": [
+        "Rachel Ventura"
+      ]
+    },
+    {
+      "id": "il-hb3041",
+      "billCode": "HB3041",
+      "title": "DATA PRIVACY AND PROTECTION",
+      "summary": "Creates the Illinois Data Privacy and Protection Act. Provides that a covered entity (any entity or any person, other than an individual acting in a non-commercial context, that alone or jointly with others determines the purposes and means of collecting, processing, or transf...",
+      "stage": "Committee",
+      "impactTags": [
+        "nda-transparency",
+        "child-safety",
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2025-02-06",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3041&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+      "legiscanUrl": "https://legiscan.com/IL/bill/HB3041/2025",
+      "legiscanId": 1959956,
+      "sponsors": [
+        "Abdelnasser Rashid"
+      ]
+    },
+    {
+      "id": "il-sb2875",
+      "billCode": "SB2875",
+      "title": "CONSUMER DATA PRIVACY",
+      "summary": "Creates the Illinois Consumer Data Privacy Act. Applies to legal entities that conduct business in Illinois or produce products or services that are targeted to Illinois residents and that satisfy one or more of the following thresholds: during a calendar year, controls or pro...",
+      "stage": "Committee",
+      "impactTags": [
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-01-16",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2875&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
+      "legiscanUrl": "https://legiscan.com/IL/bill/SB2875/2025",
+      "legiscanId": 2084089,
+      "sponsors": [
+        "Laura Murphy"
+      ]
+    },
+    {
+      "id": "il-hb3494",
+      "billCode": "HB3494",
+      "title": "HEALTH DATA PRIVACY ACT",
+      "summary": "Creates the Protect Health Data Privacy Act. Provides that a regulated entity shall disclose and maintain a health data privacy policy that clearly and conspicuously discloses specified information. Sets forth provisions concerning health data privacy policies. Provides that a...",
+      "stage": "Committee",
+      "impactTags": [
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2025-02-07",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3494&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+      "legiscanUrl": "https://legiscan.com/IL/bill/HB3494/2025",
+      "legiscanId": 1961946,
+      "sponsors": [
+        "Mary Canty",
+        "Ann Williams",
+        "Anne Stava-Murray",
+        "Kelly Cassidy"
+      ]
+    },
+    {
+      "id": "il-sb2273",
+      "billCode": "SB2273",
+      "title": "HEALTH DATA PRIVACY ACT",
+      "summary": "Creates the Protect Health Data Privacy Act. Provides that a regulated entity shall disclose and maintain a health data privacy policy that clearly and conspicuously discloses specified information. Sets forth provisions concerning health data privacy policies. Provides that a...",
+      "stage": "Committee",
+      "impactTags": [
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2025-02-07",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2273&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
+      "legiscanUrl": "https://legiscan.com/IL/bill/SB2273/2025",
+      "legiscanId": 1962238,
+      "sponsors": [
+        "Celina Villanueva"
+      ]
+    },
+    {
+      "id": "il-hb5221",
+      "billCode": "HB5221",
+      "title": "CONSUMER DATA PRIVACY ACT",
+      "summary": "Creates the Consumer Data Privacy Act. Sets forth provisions concerning agreements between personal data processors and controllers. Provides for consumer personal data rights, including the right to opt out of the processing of personal data concerning the consumer for purpos...",
+      "stage": "Committee",
+      "impactTags": [
+        "algorithmic-transparency",
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-02-05",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.ilga.gov/Legislation/BillStatus?DocNum=5221&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+      "legiscanUrl": "https://legiscan.com/IL/bill/HB5221/2025",
+      "legiscanId": 2109373,
+      "sponsors": [
+        "Edgar Gonzalez"
+      ]
+    }
+  ]
+}

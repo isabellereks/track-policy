@@ -1,0 +1,233 @@
+{
+  "state": "Mississippi",
+  "stateCode": "MS",
+  "region": "na",
+  "stance": "review",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "Mississippi has 12 bills tracked in 2025–2026.",
+  "legislation": [
+    {
+      "id": "ms-hb534",
+      "billCode": "HB534",
+      "title": "Mississippi Health Information Exchange; create.",
+      "summary": "An Act To Establish The Mississippi Health Information Exchange For The Purpose Of Establishing A Statewide Health Information Exchange That Provides Real-time Bidirectional Patient Admission, Discharge And Transfer Data, And Otherwise Facilitates The Secure Electronic Sharing...",
+      "stage": "Dead",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-03",
+      "partyOrigin": "R",
+      "sourceUrl": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0534.xml",
+      "legiscanUrl": "https://legiscan.com/MS/bill/HB534/2026",
+      "legiscanId": 2071640,
+      "sponsors": [
+        "Sam Creekmore"
+      ]
+    },
+    {
+      "id": "ms-sb2050",
+      "billCode": "SB2050",
+      "title": "Artificial intelligence; require disclosure when used in political advertisements.",
+      "summary": "An Act To Amend Section 23-15-897, Mississippi Code Of 1972, To Require Qualified Political Advertisements That Utilize Artificial Intelligence To Disclose The Use Of Artificial Intelligence To The Public; To Define What Is Considered A Qualified Political Advertisement And Ar...",
+      "stage": "Dead",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-03",
+      "partyOrigin": "D",
+      "sourceUrl": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2050.xml",
+      "legiscanUrl": "https://legiscan.com/MS/bill/SB2050/2026",
+      "legiscanId": 2069128,
+      "sponsors": [
+        "Bradford Blackmon",
+        "Albert Butler",
+        "Sollie Norwood",
+        "Derrick Simmons"
+      ]
+    },
+    {
+      "id": "ms-sb2673",
+      "billCode": "SB2673",
+      "title": "Occupational Licensure Boards Consolidation Study Committee; create.",
+      "summary": "An Act To Create The \"occupational Licensure Boards Consolidation Study Committee\" Created To Examine The Possibility And Effectiveness Of Consolidating State Licensure Boards Into The Department Of Occupational Licensure; To Require The Study Committee To Develop Recommendati...",
+      "stage": "Dead",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-03",
+      "partyOrigin": "R",
+      "sourceUrl": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2673.xml",
+      "legiscanUrl": "https://legiscan.com/MS/bill/SB2673/2026",
+      "legiscanId": 2090638,
+      "sponsors": [
+        "Tyler McCaughn"
+      ]
+    },
+    {
+      "id": "ms-hb999",
+      "billCode": "HB999",
+      "title": "Parkinson's Disease Research Registry; establish within State Department of Health.",
+      "summary": "An Act To Establish The Mississippi Parkinson's Disease Research Registry Within The State Department Of Health Under The Direction Of The State Health Officer; To Provide That The State Health Officer Shall Establish And Appoint The Members Of The Mississippi Parkinson's Dise...",
+      "stage": "Dead",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-03",
+      "partyOrigin": "B",
+      "sourceUrl": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0999.xml",
+      "legiscanUrl": "https://legiscan.com/MS/bill/HB999/2026",
+      "legiscanId": 2084357,
+      "sponsors": [
+        "Andy Boyd",
+        "Shane Aguirre",
+        "Elliot Burch",
+        "Billy Calvert"
+      ]
+    },
+    {
+      "id": "ms-hb1051",
+      "billCode": "HB1051",
+      "title": "Mississippi Consumer Privacy Protection Act; create.",
+      "summary": "An Act To Create The Mississippi Consumer Privacy Protection Act; To Define Terms; To Provide That This Act Applies To Certain Persons Conducting Business Within The State That Exceeds Twenty-five Million Dollars In Revenue; To Exempt Certain Persons And Certain Data From This...",
+      "stage": "Dead",
+      "impactTags": [
+        "property-values",
+        "child-safety",
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-02-03",
+      "partyOrigin": "R",
+      "sourceUrl": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1051.xml",
+      "legiscanUrl": "https://legiscan.com/MS/bill/HB1051/2026",
+      "legiscanId": 2084155,
+      "sponsors": [
+        "Jill Ford"
+      ]
+    },
+    {
+      "id": "ms-sb2672",
+      "billCode": "SB2672",
+      "title": "Mississippi Department of Information Technology Services; bring forward code sections.",
+      "summary": "An Act To Bring Forward Sections 25-53-1, 25-53-3, 25-53-5, 25-53-7, 25-53-9, 25-53-11, 25-53-13, 25-53-15, 25-53-17, 25-53-19, 25-53-21, 25-53-23, 25-53-25, 25-53-29, 25-53-51, 25-53-53, 25-53-55, 25-53-57, 25-53-59, 25-53-105, 25-53-107, 25-53-109, 25-53-111, 25-53-113, 25-5...",
+      "stage": "Dead",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-03",
+      "partyOrigin": "R",
+      "sourceUrl": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2672.xml",
+      "legiscanUrl": "https://legiscan.com/MS/bill/SB2672/2026",
+      "legiscanId": 2090546,
+      "sponsors": [
+        "Daniel Sparks"
+      ]
+    },
+    {
+      "id": "ms-hb575",
+      "billCode": "HB575",
+      "title": "Department of Information Technology Services; require all state agencies to use for computer equipment and services.",
+      "summary": "An Act To Amend Sections 25-53-1, 25-53-21, 25-53-25, 25-53-29 And 25-53-257, Mississippi Code Of 1972, To Require All State Agencies To Use The Mississippi Department Of Information Technology Services For Information Technology, Including Data Storage And Retrieval; To Amend...",
+      "stage": "Dead",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-03",
+      "partyOrigin": "R",
+      "sourceUrl": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0575.xml",
+      "legiscanUrl": "https://legiscan.com/MS/bill/HB575/2026",
+      "legiscanId": 2072416,
+      "sponsors": [
+        "Henry Zuber"
+      ]
+    },
+    {
+      "id": "ms-hb708",
+      "billCode": "HB708",
+      "title": "App store providers and developers; require to obtain age verification and parental consent for minor's activity.",
+      "summary": "An Act To Require App Store Providers To Request And Verify A User's Age Category At The Time The User Creates An Account, To Require A Minor's Account To Be Affiliated With A Parent Account, To Obtain Verifiable Parental Consent Before Allowing The Minor To Download An App, P...",
+      "stage": "Dead",
+      "impactTags": [
+        "child-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-03",
+      "partyOrigin": "R",
+      "sourceUrl": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0708.xml",
+      "legiscanUrl": "https://legiscan.com/MS/bill/HB708/2026",
+      "legiscanId": 2079197,
+      "sponsors": [
+        "Brent Powell"
+      ]
+    },
+    {
+      "id": "ms-hb1727",
+      "billCode": "HB1727",
+      "title": "State Security Operations Center; create within ITS to serve as operational arm of statewide cybersecurity.",
+      "summary": "An Act To Create A State Security Operations Center (ssoc) Within The Mississippi Department Of Information Technology Services; To Require The Ssoc To Provide Centralized Statewide Cybersecurity Operations And To Coordinate With The Enterprise Security Program To Ensure State...",
+      "stage": "Dead",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-03",
+      "partyOrigin": "R",
+      "sourceUrl": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1727.xml",
+      "legiscanUrl": "https://legiscan.com/MS/bill/HB1727/2026",
+      "legiscanId": 2090398,
+      "sponsors": [
+        "Jill Ford",
+        "Henry Zuber"
+      ]
+    },
+    {
+      "id": "ms-sb2409",
+      "billCode": "SB2409",
+      "title": "Mississippi Department of Insurance; establish comprehensive mitigation program for retrofitting insurable homes.",
+      "summary": "An Act To Create The \"strengthen Mississippi Homes Act\" To Establish A Comprehensive Mitigation Program In The Mississippi Department Of Insurance For Retrofitting Insurable Homes; To Amend Section 83-1-191, Mississippi Code Of 1972, To Rename The \"comprehensive Hurricane Dama...",
+      "stage": "Floor",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-06",
+      "partyOrigin": "R",
+      "sourceUrl": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2409.xml",
+      "legiscanUrl": "https://legiscan.com/MS/bill/SB2409/2026",
+      "legiscanId": 2086179,
+      "sponsors": [
+        "Walter Michel",
+        "Dean Kirby",
+        "Scott DeLano",
+        "Joseph Seymour"
+      ]
+    },
+    {
+      "id": "ms-sb2622",
+      "billCode": "SB2622",
+      "title": "One Door website; task ITS with developing a single website that allows users to access any state function.",
+      "summary": "An Act To Create The Mississippi One Door Website Act; To Require That The Department Of Information Technology Services Develop, Monitor And Update A Website For Mississippi State Agencies And State Services To Share, That Will Allow Consumers To Login And Access Any State Fu...",
+      "stage": "Dead",
+      "impactTags": [
+        "data-privacy"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-03",
+      "partyOrigin": "R",
+      "sourceUrl": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2622.xml",
+      "legiscanUrl": "https://legiscan.com/MS/bill/SB2622/2026",
+      "legiscanId": 2090201,
+      "sponsors": [
+        "Chris Johnson"
+      ]
+    },
+    {
+      "id": "ms-hb1220",
+      "billCode": "HB1220",
+      "title": "Cybersecurity; governmental and certain commercial entities substantially complying with standards not liable for incidents relating to.",
+      "summary": "An Act To Provide That State And Local Governmental Entities And Certain Covered Commercial Entities Are Not Liable In Connection With A Cybersecurity Incident If The Entity Involved Has Adopted Certain Cybersecurity Standards; To Define Certain Terms; To Require Cybersecurity...",
+      "stage": "Dead",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-03",
+      "partyOrigin": "R",
+      "sourceUrl": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1220.xml",
+      "legiscanUrl": "https://legiscan.com/MS/bill/HB1220/2026",
+      "legiscanId": 2087315,
+      "sponsors": [
+        "Joey Hood",
+        "Jeff Hale"
+      ]
+    }
+  ]
+}

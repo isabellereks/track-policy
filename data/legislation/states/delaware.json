@@ -1,0 +1,256 @@
+{
+  "state": "Delaware",
+  "stateCode": "DE",
+  "region": "na",
+  "stance": "review",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "Delaware has 12 bills tracked in 2025–2026. 6 are already enacted.",
+  "legislation": [
+    {
+      "id": "de-hb231",
+      "billCode": "HB231",
+      "title": "An Act To Amend Title 16 Of The Delaware Code Relating To Uniform Health Data.",
+      "summary": "An Act To Amend Title 16 Of The Delaware Code Relating To Uniform Health Data.",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-19",
+      "partyOrigin": "B",
+      "sourceUrl": "https://legis.delaware.gov/BillDetail?LegislationId=142647",
+      "legiscanUrl": "https://legiscan.com/DE/bill/HB231/2025",
+      "legiscanId": 2038528,
+      "sponsors": [
+        "Kamela Smith",
+        "Russ Huxtable",
+        "Nnamdi Chukwuocha",
+        "Kendra Johnson"
+      ]
+    },
+    {
+      "id": "de-hjr7",
+      "billCode": "HJR7",
+      "title": "Directing The Artificial Intelligence Commission To Work In Collaboration With The Secretary Of State To Create A Regulatory Sandbox Framework For The Testing Of Innovative And Novel Technologies That Utilize Agentic Artificial Intelligence.",
+      "summary": "Directing The Artificial Intelligence Commission To Work In Collaboration With The Secretary Of State To Create A Regulatory Sandbox Framework For The Testing Of Innovative And Novel Technologies That Utilize Agentic Artificial Intelligence.",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-07-23",
+      "partyOrigin": "B",
+      "sourceUrl": "https://legis.delaware.gov/BillDetail?LegislationId=142629",
+      "legiscanUrl": "https://legiscan.com/DE/bill/HJR7/2025",
+      "legiscanId": 2038143,
+      "sponsors": [
+        "Krista Griffith",
+        "Cyndie Romer",
+        "Jeffrey Spiegelman",
+        "Stephanie Hansen"
+      ]
+    },
+    {
+      "id": "de-scr86",
+      "billCode": "SCR86",
+      "title": "Designating May 15, 2025, As Tuberous Sclerosis Complex Awareness Day In Delaware.",
+      "summary": "Designating May 15, 2025, As Tuberous Sclerosis Complex Awareness Day In Delaware.",
+      "stage": "Floor",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-06-10",
+      "partyOrigin": "B",
+      "sourceUrl": "https://legis.delaware.gov/BillDetail?LegislationId=142195",
+      "legiscanUrl": "https://legiscan.com/DE/bill/SCR86/2025",
+      "legiscanId": 2036641,
+      "sponsors": [
+        "Kyra Hoffner",
+        "Melanie Ross Levin",
+        "Gerald Hocker",
+        "Russ Huxtable"
+      ]
+    },
+    {
+      "id": "de-sb122",
+      "billCode": "SB122",
+      "title": "An Act To Amend Titles 16 And 29 Of The Delaware Code Relating To Health Care Workforce Planning.",
+      "summary": "An Act To Amend Titles 16 And 29 Of The Delaware Code Relating To Health Care Workforce Planning.",
+      "stage": "Enacted",
+      "impactTags": [
+        "job-creation"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-09-03",
+      "partyOrigin": "B",
+      "sourceUrl": "https://legis.delaware.gov/BillDetail?LegislationId=142169",
+      "legiscanUrl": "https://legiscan.com/DE/bill/SB122/2025",
+      "legiscanId": 2027923,
+      "sponsors": [
+        "Russ Huxtable",
+        "Kamela Smith",
+        "Eric Buckson",
+        "Stephanie Hansen"
+      ]
+    },
+    {
+      "id": "de-hb29",
+      "billCode": "HB29",
+      "title": "An Act To Amend Title 14 Of The Delaware Code Relating To Delaware Public Education Profiles.",
+      "summary": "An Act To Amend Title 14 Of The Delaware Code Relating To Delaware Public Education Profiles.",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-09-02",
+      "partyOrigin": "B",
+      "sourceUrl": "https://legis.delaware.gov/BillDetail?LegislationId=141734",
+      "legiscanUrl": "https://legiscan.com/DE/bill/HB29/2025",
+      "legiscanId": 1898136,
+      "sponsors": [
+        "Bryan Shupe",
+        "Eric Buckson",
+        "Jeff Hilovsky",
+        "Eric Morrison"
+      ]
+    },
+    {
+      "id": "de-hb300",
+      "billCode": "HB300",
+      "title": "An Act To Amend Title 14 Of The Delaware Code Relating To The Establishment Of A Title Ix Coordinator Within The Department Of Education.",
+      "summary": "An Act To Amend Title 14 Of The Delaware Code Relating To The Establishment Of A Title Ix Coordinator Within The Department Of Education.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-05",
+      "partyOrigin": "B",
+      "sourceUrl": "https://legis.delaware.gov/BillDetail?LegislationId=142890",
+      "legiscanUrl": "https://legiscan.com/DE/bill/HB300/2025",
+      "legiscanId": 2129795,
+      "sponsors": [
+        "Melanie Ross Levin",
+        "Laura Sturgeon",
+        "Alonna Berry",
+        "Mara Gorman"
+      ]
+    },
+    {
+      "id": "de-hb163",
+      "billCode": "HB163",
+      "title": "An Act To Amend Title 29 Of The Delaware Code Relating To The Delaware Diabetes Wellness Pilot Program Within The Department Of Human Resources To Study Prediabetic And Diabetic Well Care.",
+      "summary": "An Act To Amend Title 29 Of The Delaware Code Relating To The Delaware Diabetes Wellness Pilot Program Within The Department Of Human Resources To Study Prediabetic And Diabetic Well Care.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-06-05",
+      "partyOrigin": "B",
+      "sourceUrl": "https://legis.delaware.gov/BillDetail?LegislationId=142443",
+      "legiscanUrl": "https://legiscan.com/DE/bill/HB163/2025",
+      "legiscanId": 2031577,
+      "sponsors": [
+        "Jeff Hilovsky",
+        "Brian Pettyjohn",
+        "Raymond Seigfried",
+        "David Sokola"
+      ]
+    },
+    {
+      "id": "de-sb194",
+      "billCode": "SB194",
+      "title": "An Act To Amend Title 19 Of The Delaware Code Relating To Warehouse Worker Protections.",
+      "summary": "An Act To Amend Title 19 Of The Delaware Code Relating To Warehouse Worker Protections.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-06-24",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legis.delaware.gov/BillDetail?LegislationId=142621",
+      "legiscanUrl": "https://legiscan.com/DE/bill/SB194/2025",
+      "legiscanId": 2038040,
+      "sponsors": [
+        "Nicole Poore",
+        "Eric Morrison",
+        "Elizabeth Lockman",
+        "Edward Osienski"
+      ]
+    },
+    {
+      "id": "de-sb202",
+      "billCode": "SB202",
+      "title": "An Act To Amend Title 9 Of The Delaware Code Relating To County Property Tax Data.",
+      "summary": "An Act To Amend Title 9 Of The Delaware Code Relating To County Property Tax Data.",
+      "stage": "Enacted",
+      "impactTags": [
+        "property-values"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-08-13",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legis.delaware.gov/BillDetail?LegislationId=142705",
+      "legiscanUrl": "https://legiscan.com/DE/bill/SB202/2025",
+      "legiscanId": 2041654,
+      "sponsors": [
+        "Kyra Hoffner",
+        "Raymond Seigfried",
+        "David Sokola",
+        "Bryan Townsend"
+      ]
+    },
+    {
+      "id": "de-hb156",
+      "billCode": "HB156",
+      "title": "An Act To Amend Title 16 Of The Delaware Code Relating To The Healthcare Associated Infections Disclosure Act.",
+      "summary": "An Act To Amend Title 16 Of The Delaware Code Relating To The Healthcare Associated Infections Disclosure Act.",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-08-25",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legis.delaware.gov/BillDetail?LegislationId=142228",
+      "legiscanUrl": "https://legiscan.com/DE/bill/HB156/2025",
+      "legiscanId": 2029644,
+      "sponsors": [
+        "Frank Burns",
+        "Raymond Seigfried",
+        "Nnamdi Chukwuocha",
+        "Kendra Johnson"
+      ]
+    },
+    {
+      "id": "de-hb305",
+      "billCode": "HB305",
+      "title": "An Act To Amend Title 16 Of The Delaware Code Relating To The Delaware Diabetes Wellness Pilot Program Within The Department Of Health And Social Services To Study Diabetic Well Care.",
+      "summary": "An Act To Amend Title 16 Of The Delaware Code Relating To The Delaware Diabetes Wellness Pilot Program Within The Department Of Health And Social Services To Study Diabetic Well Care.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-05",
+      "partyOrigin": "B",
+      "sourceUrl": "https://legis.delaware.gov/BillDetail?LegislationId=142889",
+      "legiscanUrl": "https://legiscan.com/DE/bill/HB305/2025",
+      "legiscanId": 2129674,
+      "sponsors": [
+        "Jeff Hilovsky",
+        "Alonna Berry",
+        "Frank Burns",
+        "Raymond Seigfried"
+      ]
+    },
+    {
+      "id": "de-hr14",
+      "billCode": "HR14",
+      "title": "Directing The Department Of Health And Social Services To Prepare Reports On Demographic Data In Early Child Care And Education Populations.",
+      "summary": "Directing The Department Of Health And Social Services To Prepare Reports On Demographic Data In Early Child Care And Education Populations.",
+      "stage": "Floor",
+      "impactTags": [
+        "child-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-06-24",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legis.delaware.gov/BillDetail?LegislationId=142420",
+      "legiscanUrl": "https://legiscan.com/DE/bill/HR14/2025",
+      "legiscanId": 2035565,
+      "sponsors": [
+        "Cyndie Romer",
+        "Stephanie Bolden",
+        "DeShanna Neal",
+        "Melanie Ross Levin"
+      ]
+    }
+  ]
+}

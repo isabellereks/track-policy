@@ -1,0 +1,242 @@
+{
+  "state": "Kentucky",
+  "stateCode": "KY",
+  "region": "na",
+  "stance": "review",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "Kentucky has 12 bills tracked in 2025–2026.",
+  "legislation": [
+    {
+      "id": "ky-hb593",
+      "billCode": "HB593",
+      "title": "AN ACT relating to data centers.",
+      "summary": "Create new sections of KRS Chapter 96 relating to municipal utilities and KRS Chapter 278 relating to Public Service Commission-regulated utilities to: define terms; only allow for the provision of electric service to a data center through a contract that conforms to the requi...",
+      "stage": "Committee",
+      "impactTags": [
+        "energy-rates",
+        "economic-development"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-05",
+      "partyOrigin": "R",
+      "sourceUrl": "https://apps.legislature.ky.gov/record/26RS/hb593.html",
+      "legiscanUrl": "https://legiscan.com/KY/bill/HB593/2026",
+      "legiscanId": 2111389,
+      "sponsors": [
+        "Josh Bray",
+        "Jason Petrie",
+        "Daniel Elliott",
+        "Jim Gooch"
+      ]
+    },
+    {
+      "id": "ky-hb455",
+      "billCode": "HB455",
+      "title": "AN ACT relating to artificial intelligence and declaring an emergency.",
+      "summary": "Create new sections of KRS Chapter 367 to define terms; restrict the use of artificial intelligence by certain licensed professionals in therapy and psychotherapy services; prohibit licensed professionals from using artificial intelligence to assist in providing supplementary ...",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-24",
+      "partyOrigin": "B",
+      "sourceUrl": "https://apps.legislature.ky.gov/record/26RS/hb455.html",
+      "legiscanUrl": "https://legiscan.com/KY/bill/HB455/2026",
+      "legiscanId": 2089005,
+      "sponsors": [
+        "Kimberly Banta",
+        "Beverly Chester-Burton",
+        "Sarah Stalker",
+        "Lisa Willner"
+      ]
+    },
+    {
+      "id": "ky-sb319",
+      "billCode": "SB319",
+      "title": "AN ACT relating to data centers.",
+      "summary": "Create a new section of Subchapter 10 of KRS Chapter 224 to define \"data center\"; provide that the requirements of the section only apply to data centers constructed on agricultural land; require a data center owner to file a decommissioning plan with the Energy and Environmen...",
+      "stage": "Committee",
+      "impactTags": [
+        "water-consumption",
+        "economic-development"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-02",
+      "partyOrigin": "R",
+      "sourceUrl": "https://apps.legislature.ky.gov/record/26RS/sb319.html",
+      "legiscanUrl": "https://legiscan.com/KY/bill/SB319/2026",
+      "legiscanId": 2127917,
+      "sponsors": [
+        "Lindsey Tichenor"
+      ]
+    },
+    {
+      "id": "ky-hb544",
+      "billCode": "HB544",
+      "title": "AN ACT relating to data centers.",
+      "summary": "Create a new section of KRS Chapter 278 to define terms; prohibit a retail electric supplier from providing service to a data center customer that has a total aggregated customer contract capacity of greater than 100 megawatts unless the Public Service Commission has approved ...",
+      "stage": "Committee",
+      "impactTags": [
+        "grid-capacity",
+        "energy-rates"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-03",
+      "partyOrigin": "B",
+      "sourceUrl": "https://apps.legislature.ky.gov/record/26RS/hb544.html",
+      "legiscanUrl": "https://legiscan.com/KY/bill/HB544/2026",
+      "legiscanId": 2106477,
+      "sponsors": [
+        "Adam Moore",
+        "William Lawrence"
+      ]
+    },
+    {
+      "id": "ky-sb330",
+      "billCode": "SB330",
+      "title": "AN ACT relating to data centers.",
+      "summary": "Create a new section of KRS Chapter 61 to define \"data center,\" \"nondisclosure or confidentiality agreement,\" and \"public agency\"; prohibit public agencies from entering into a nondisclosure or confidentiality agreement relating to a data center that expands confidentiality be...",
+      "stage": "Committee",
+      "impactTags": [
+        "nda-transparency"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-02",
+      "partyOrigin": "D",
+      "sourceUrl": "https://apps.legislature.ky.gov/record/26RS/sb330.html",
+      "legiscanUrl": "https://legiscan.com/KY/bill/SB330/2026",
+      "legiscanId": 2127914,
+      "sponsors": [
+        "Keturah Herron",
+        "Gerald Neal"
+      ]
+    },
+    {
+      "id": "ky-hb652",
+      "billCode": "HB652",
+      "title": "AN ACT relating to critical facility mapping and declaring an emergency.",
+      "summary": "Amend KRS 158.4433 to move the school mapping data program to the Kentucky 911 Services Board, specify responsibility for mapping data accuracy walk-through; amend KRS 65.7629 and 158.442 to conform; APPROPRIATION; EMERGENCY.",
+      "stage": "Floor",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-01",
+      "partyOrigin": "B",
+      "sourceUrl": "https://apps.legislature.ky.gov/record/26RS/hb652.html",
+      "legiscanUrl": "https://legiscan.com/KY/bill/HB652/2026",
+      "legiscanId": 2118359,
+      "sponsors": [
+        "Steve Bratcher",
+        "Daniel Grossberg",
+        "Tony Hampton",
+        "Mark Hart"
+      ]
+    },
+    {
+      "id": "ky-hb856",
+      "billCode": "HB856",
+      "title": "AN ACT relating to data centers.",
+      "summary": "Create a new section of Subchapter 10 of KRS Chapter 224 to define terms; require data centers to submit a water feasibility study to the Energy and Environment Cabinet before commencing operations; require all data centers to submit an annual water usage report to the Energy ...",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-03",
+      "partyOrigin": "D",
+      "sourceUrl": "https://apps.legislature.ky.gov/record/26RS/hb856.html",
+      "legiscanUrl": "https://legiscan.com/KY/bill/HB856/2026",
+      "legiscanId": 2128342,
+      "sponsors": [
+        "Sarah Stalker"
+      ]
+    },
+    {
+      "id": "ky-hb559",
+      "billCode": "HB559",
+      "title": "AN ACT relating to data privacy, portability, and interoperability.",
+      "summary": "Create new sections of KRS Chapter 367 to establish consumer rights relating to social media and artificial intelligence data; define terms; require social media companies and model operators to implement data interoperability interfaces; establish requirements for data sharin...",
+      "stage": "Committee",
+      "impactTags": [
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-02-04",
+      "partyOrigin": "R",
+      "sourceUrl": "https://apps.legislature.ky.gov/record/26RS/hb559.html",
+      "legiscanUrl": "https://legiscan.com/KY/bill/HB559/2026",
+      "legiscanId": 2108005,
+      "sponsors": [
+        "Vanessa Grossl"
+      ]
+    },
+    {
+      "id": "ky-hb641",
+      "billCode": "HB641",
+      "title": "AN ACT relating to mental health chatbots.",
+      "summary": "Create new sections of KRS Chapter 367 to protect consumers using mental health chatbots; define terms; establish prohibitions and exceptions for how suppliers are to handle individually identifiable health information; prohibit supplier from advertising a specific product or ...",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-13",
+      "partyOrigin": "R",
+      "sourceUrl": "https://apps.legislature.ky.gov/record/26RS/hb641.html",
+      "legiscanUrl": "https://legiscan.com/KY/bill/HB641/2026",
+      "legiscanId": 2117052,
+      "sponsors": [
+        "Vanessa Grossl"
+      ]
+    },
+    {
+      "id": "ky-sb175",
+      "billCode": "SB175",
+      "title": "AN ACT relating to the establishment of the Kentucky Health Command.",
+      "summary": "Create a new section of KRS 42.720 to 42.742 to define terms; establish the Kentucky Health Command in the Commonwealth Office of Technology; require the Kentucky Health Command to contract with a private sector entity to develop and provide standards and qualifications for th...",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-10",
+      "partyOrigin": "R",
+      "sourceUrl": "https://apps.legislature.ky.gov/record/26RS/sb175.html",
+      "legiscanUrl": "https://legiscan.com/KY/bill/SB175/2026",
+      "legiscanId": 2113553,
+      "sponsors": [
+        "Stephen Meredith"
+      ]
+    },
+    {
+      "id": "ky-hb774",
+      "billCode": "HB774",
+      "title": "AN ACT relating to the reporting of costs, fines, and fees.",
+      "summary": "Create new sections of KRS Chapter 431 to define terms; require governmental entities to submit specified data to the Office of the Kentucky Center for Statistics regarding fines and fees assessed beginning July 31, 2027, and annually thereafter; require the Legislative Oversi...",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-11",
+      "partyOrigin": "R",
+      "sourceUrl": "https://apps.legislature.ky.gov/record/26RS/hb774.html",
+      "legiscanUrl": "https://legiscan.com/KY/bill/HB774/2026",
+      "legiscanId": 2125895,
+      "sponsors": [
+        "Jennifer Henson Decker",
+        "Mary Imes"
+      ]
+    },
+    {
+      "id": "ky-hb676",
+      "billCode": "HB676",
+      "title": "AN ACT relating to the Kentucky statewide health data utility.",
+      "summary": "Create new sections of KRS Chapter 194A to establish the Kentucky statewide health data utility; define terms; establish purposes and a restricted fund for the utility; require the executive director of the Office of Data Analytics to be responsible for the development, implem...",
+      "stage": "Floor",
+      "impactTags": [
+        "property-values",
+        "data-privacy"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-01",
+      "partyOrigin": "R",
+      "sourceUrl": "https://apps.legislature.ky.gov/record/26RS/hb676.html",
+      "legiscanUrl": "https://legiscan.com/KY/bill/HB676/2026",
+      "legiscanId": 2120532,
+      "sponsors": [
+        "Rebecca Raymer"
+      ]
+    }
+  ]
+}

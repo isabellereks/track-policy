@@ -6,11 +6,11 @@ interface StanceBadgeProps {
 }
 
 const LABELS: Record<StanceType, string> = {
-  restrictive: "Restrictive",
+  restrictive: "Restricting",
+  concerning: "Cautionary",
   review: "Under Review",
-  favorable: "Favorable",
-  concerning: "Favorable / Concerning",
   none: "No Activity",
+  favorable: "Encouraging",
 };
 
 const DOT_COLOR: Record<StanceType, string> = {

@@ -1,0 +1,231 @@
+[
+  {
+    "id": "terri-sewell",
+    "name": "Terri Sewell",
+    "role": "Representative",
+    "party": "D-AL",
+    "state": "AL",
+    "chamber": "house",
+    "committees": [
+      "Ways and Means"
+    ],
+    "stance": "concerning",
+    "techRegScore": 0.75,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "tommy-tuberville",
+    "name": "Tommy Tuberville",
+    "role": "Senator",
+    "party": "R-AL",
+    "state": "AL",
+    "chamber": "senate",
+    "committees": [
+      "Armed Services",
+      "Agriculture",
+      "Veterans Affairs",
+      "HELP"
+    ],
+    "stance": "favorable",
+    "quote": "Former football coach who blocked military promotions over Pentagon abortion policy",
+    "techRegScore": 0.74,
+    "lobbying": {
+      "topIndustries": [
+        "Defense contractors $520K",
+        "Agriculture $380K",
+        "Health professionals $290K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 70,
+      "education": "BS Southern Arkansas University",
+      "careerBeforePolitics": "College football coach (Auburn, Ole Miss, Texas Tech, Cincinnati), military aide"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "katie-britt",
+    "name": "Katie Britt",
+    "role": "Senator",
+    "party": "R-AL",
+    "state": "AL",
+    "chamber": "senate",
+    "committees": [
+      "Appropriations",
+      "Banking",
+      "Rules"
+    ],
+    "stance": "favorable",
+    "quote": "Rising GOP star focused on pro-family policies and business interests",
+    "techRegScore": 0.72,
+    "lobbying": {
+      "topIndustries": [
+        "Real Estate $180,000",
+        "Securities & Investment $165,000",
+        "Oil & Gas $145,000"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 42,
+      "education": "University of Alabama (B.S. Political Science), University of Alabama School of Law (J.D.)",
+      "careerBeforePolitics": "Attorney, CEO of Business Council of Alabama"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "mike-rogers",
+    "name": "Mike Rogers",
+    "role": "Representative · House Armed Services Committee Chair",
+    "party": "R-AL",
+    "state": "AL",
+    "chamber": "house",
+    "committees": [
+      "Armed Services"
+    ],
+    "stance": "favorable",
+    "quote": "Defense spending advocacy and military readiness focus",
+    "techRegScore": 0.68,
+    "lobbying": {
+      "topIndustries": [
+        "Defense with $267K",
+        "Aerospace with $178K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 66,
+      "education": "Jacksonville State University, Birmingham School of Law",
+      "careerBeforePolitics": "Attorney, Alabama state legislature"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "robert-aderholt",
+    "name": "Robert Aderholt",
+    "role": "Representative",
+    "party": "R-AL",
+    "state": "AL",
+    "chamber": "house",
+    "committees": [
+      "Appropriations"
+    ],
+    "stance": "none",
+    "techRegScore": 0.38,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "jerry-carl",
+    "name": "Jerry Carl",
+    "role": "Representative",
+    "party": "R-AL",
+    "state": "AL",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Agriculture"
+    ],
+    "stance": "none",
+    "techRegScore": 0.35,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "dale-strong",
+    "name": "Dale Strong",
+    "role": "Representative · Science, Space, and Technology",
+    "party": "R-AL",
+    "state": "AL",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Science, Space, and Technology"
+    ],
+    "stance": "none",
+    "techRegScore": 0.3,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "barry-moore",
+    "name": "Barry Moore",
+    "role": "Representative",
+    "party": "R-AL",
+    "state": "AL",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Agriculture"
+    ],
+    "stance": "none",
+    "techRegScore": 0.25,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "gary-palmer",
+    "name": "Gary Palmer",
+    "role": "Representative · Energy and Commerce",
+    "party": "R-AL",
+    "state": "AL",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce"
+    ],
+    "stance": "none",
+    "techRegScore": 0.25,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  }
+]

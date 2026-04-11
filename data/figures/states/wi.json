@@ -1,0 +1,254 @@
+[
+  {
+    "id": "tom-tiffany",
+    "name": "Tom Tiffany",
+    "role": "Representative · Judiciary",
+    "party": "R-WI",
+    "state": "WI",
+    "chamber": "house",
+    "committees": [
+      "Judiciary",
+      "Natural Resources"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.77,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "glenn-grothman",
+    "name": "Glenn Grothman",
+    "role": "Representative",
+    "party": "R-WI",
+    "state": "WI",
+    "chamber": "house",
+    "committees": [
+      "Education and Workforce",
+      "Oversight and Accountability"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.76,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "ron-johnson",
+    "name": "Ron Johnson",
+    "role": "Senator · Homeland Security",
+    "party": "R-WI",
+    "state": "WI",
+    "chamber": "senate",
+    "committees": [
+      "Homeland Security",
+      "Budget",
+      "Commerce",
+      "Foreign Relations"
+    ],
+    "stance": "favorable",
+    "quote": "Controversial statements and conspiracy theory promotion, fierce government spending critic",
+    "techRegScore": 0.75,
+    "lobbying": {
+      "topIndustries": [
+        "Manufacturing $1.2M",
+        "Health professionals $890K",
+        "Securities & Investment $750K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 69,
+      "education": "University of Minnesota (BA Business)",
+      "careerBeforePolitics": "CEO of PACUR plastics manufacturing company, accountant"
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "scott-fitzgerald",
+    "name": "Scott Fitzgerald",
+    "role": "Representative · Judiciary",
+    "party": "R-WI",
+    "state": "WI",
+    "chamber": "house",
+    "committees": [
+      "Education and Workforce",
+      "Judiciary"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.74,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "derrick-van-orden",
+    "name": "Derrick Van Orden",
+    "role": "Representative",
+    "party": "R-WI",
+    "state": "WI",
+    "chamber": "house",
+    "committees": [
+      "Agriculture",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.73,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "toss-up"
+  },
+  {
+    "id": "tony-wied",
+    "name": "Tony Wied",
+    "role": "Representative",
+    "party": "R-WI",
+    "state": "WI",
+    "chamber": "house",
+    "committees": [
+      "Agriculture",
+      "Small Business"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.71,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "bryan-steil",
+    "name": "Bryan Steil",
+    "role": "Representative",
+    "party": "R-WI",
+    "state": "WI",
+    "chamber": "house",
+    "committees": [
+      "Financial Services",
+      "House Administration"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.7,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "tammy-baldwin",
+    "name": "Tammy Baldwin",
+    "role": "Senator · Commerce",
+    "party": "D-WI",
+    "state": "WI",
+    "chamber": "senate",
+    "committees": [
+      "Appropriations",
+      "Commerce",
+      "HELP"
+    ],
+    "stance": "none",
+    "quote": "First openly gay senator and champion of Medicare for All",
+    "techRegScore": 0.25,
+    "lobbying": {
+      "topIndustries": [
+        "Health Professionals $425K",
+        "Lawyers/Law Firms $380K",
+        "Securities & Investment $365K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 62,
+      "education": "BA Smith College, JD University of Wisconsin Law School",
+      "careerBeforePolitics": "Attorney focusing on health law, served in Wisconsin Assembly and U.S. House"
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "gwen-moore",
+    "name": "Gwen Moore",
+    "role": "Representative · Science and Technology",
+    "party": "D-WI",
+    "state": "WI",
+    "chamber": "house",
+    "committees": [
+      "Financial Services",
+      "Science and Technology"
+    ],
+    "stance": "none",
+    "techRegScore": 0.19,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "mark-pocan",
+    "name": "Mark Pocan",
+    "role": "Representative",
+    "party": "D-WI",
+    "state": "WI",
+    "chamber": "house",
+    "committees": [
+      "Appropriations"
+    ],
+    "stance": "none",
+    "techRegScore": 0.18,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  }
+]

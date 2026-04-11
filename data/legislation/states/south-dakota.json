@@ -1,0 +1,230 @@
+{
+  "state": "South Dakota",
+  "stateCode": "SD",
+  "region": "na",
+  "stance": "concerning",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "South Dakota has 12 bills tracked in 2025–2026. 2 are already enacted. 2 relate to moratoriums or prohibitions. 1 offers incentives or exemptions.",
+  "legislation": [
+    {
+      "id": "sd-sb135",
+      "billCode": "SB135",
+      "title": "Protect residents from increased utility costs and utility shortages caused by data centers and clarify authority to regulate data centers.",
+      "summary": "Protect residents from increased utility costs and utility shortages caused by data centers and clarify authority to regulate data centers.",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-30",
+      "partyOrigin": "R",
+      "sourceUrl": "https://sdlegislature.gov/#/Session/Bill/27028",
+      "legiscanUrl": "https://legiscan.com/SD/bill/SB135/2026",
+      "legiscanId": 2093452,
+      "sponsors": [
+        "Jon Hansen",
+        "Chris Karr",
+        "Bobbi Andera",
+        "Aaron Aylward"
+      ]
+    },
+    {
+      "id": "sd-sb169",
+      "billCode": "SB169",
+      "title": "Place requirements on the use of artificial intelligence systems by health carriers in making determinations about the provision of health care services.",
+      "summary": "Place requirements on the use of artificial intelligence systems by health carriers in making determinations about the provision of health care services.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-29",
+      "partyOrigin": "D",
+      "sourceUrl": "https://sdlegislature.gov/#/Session/Bill/26550",
+      "legiscanUrl": "https://legiscan.com/SD/bill/SB169/2026",
+      "legiscanId": 2101622,
+      "sponsors": [
+        "Liz Larson"
+      ]
+    },
+    {
+      "id": "sd-hb1301",
+      "billCode": "HB1301",
+      "title": "Limit costs and risks associated with electricity use by data centers and impose a moratorium.",
+      "summary": "Limit costs and risks associated with electricity use by data centers and impose a moratorium.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-04",
+      "partyOrigin": "D",
+      "sourceUrl": "https://sdlegislature.gov/#/Session/Bill/27287",
+      "legiscanUrl": "https://legiscan.com/SD/bill/HB1301/2026",
+      "legiscanId": 2107251,
+      "sponsors": [
+        "Erin Healy",
+        "Liz Larson",
+        "Erik Muckey"
+      ]
+    },
+    {
+      "id": "sd-sb235",
+      "billCode": "SB235",
+      "title": "Protect residents from increased utility costs and utility shortages caused by data centers, to clarify authority to regulate data centers, and to modify provisions pertaining to the purchasing of goods and services by a data center.",
+      "summary": "Protect residents from increased utility costs and utility shortages caused by data centers, to clarify authority to regulate data centers, and to modify provisions pertaining to the purchasing of goods and services by a data center.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-04",
+      "partyOrigin": "R",
+      "sourceUrl": "https://sdlegislature.gov/#/Session/Bill/27290",
+      "legiscanUrl": "https://legiscan.com/SD/bill/SB235/2026",
+      "legiscanId": 2107807,
+      "sponsors": [
+        "Casey Crabtree"
+      ]
+    },
+    {
+      "id": "sd-sb234",
+      "billCode": "SB234",
+      "title": "Modify provisions pertaining to the purchasing of goods and services related to data center operations.",
+      "summary": "Modify provisions pertaining to the purchasing of goods and services related to data center operations.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-04",
+      "partyOrigin": "R",
+      "sourceUrl": "https://sdlegislature.gov/#/Session/Bill/27289",
+      "legiscanUrl": "https://legiscan.com/SD/bill/SB234/2026",
+      "legiscanId": 2107582,
+      "sponsors": [
+        "Casey Crabtree"
+      ]
+    },
+    {
+      "id": "sd-hb1005",
+      "billCode": "HB1005",
+      "title": "Provide a sales and use tax exemption for goods and services related to data center operations.",
+      "summary": "Provide a sales and use tax exemption for goods and services related to data center operations.",
+      "stage": "Committee",
+      "impactTags": [
+        "tax-incentives"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-13",
+      "partyOrigin": "R",
+      "sourceUrl": "https://sdlegislature.gov/#/Session/Bill/26317",
+      "legiscanUrl": "https://legiscan.com/SD/bill/HB1005/2026",
+      "legiscanId": 2061028,
+      "sponsors": [
+        "Casey Crabtree",
+        "Kent Roe",
+        "Tim Czmowski",
+        "Nick Fosness"
+      ]
+    },
+    {
+      "id": "sd-hb1038",
+      "billCode": "HB1038",
+      "title": "Allow the Public Utilities Commission to assess actual costs to data centers that are customers of public utilities.",
+      "summary": "Allow the Public Utilities Commission to assess actual costs to data centers that are customers of public utilities.",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-30",
+      "sourceUrl": "https://sdlegislature.gov/#/Session/Bill/26923",
+      "legiscanUrl": "https://legiscan.com/SD/bill/HB1038/2026",
+      "legiscanId": 2066869,
+      "sponsors": [
+        "Commerce and Energy"
+      ]
+    },
+    {
+      "id": "sd-hb1144",
+      "billCode": "HB1144",
+      "title": "Restrict the use of artificial intelligence in therapy and psychotherapy services and to provide a penalty therefor.",
+      "summary": "Restrict the use of artificial intelligence in therapy and psychotherapy services and to provide a penalty therefor.",
+      "stage": "Filed",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-27",
+      "partyOrigin": "R",
+      "sourceUrl": "https://sdlegislature.gov/#/Session/Bill/26480",
+      "legiscanUrl": "https://legiscan.com/SD/bill/HB1144/2026",
+      "legiscanId": 2093753,
+      "sponsors": [
+        "Taylor Rehfeldt"
+      ]
+    },
+    {
+      "id": "sd-sb168",
+      "billCode": "SB168",
+      "title": "Regulate the use of chatbots by minors.",
+      "summary": "Regulate the use of chatbots by minors.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-29",
+      "partyOrigin": "D",
+      "sourceUrl": "https://sdlegislature.gov/#/Session/Bill/26549",
+      "legiscanUrl": "https://legiscan.com/SD/bill/SB168/2026",
+      "legiscanId": 2101105,
+      "sponsors": [
+        "Liz Larson"
+      ]
+    },
+    {
+      "id": "sd-sb127",
+      "billCode": "SB127",
+      "title": "Limit nuisances caused by data centers.",
+      "summary": "Limit nuisances caused by data centers.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-26",
+      "partyOrigin": "B",
+      "sourceUrl": "https://sdlegislature.gov/#/Session/Bill/26300",
+      "legiscanUrl": "https://legiscan.com/SD/bill/SB127/2026",
+      "legiscanId": 2093364,
+      "sponsors": [
+        "Taffy Howard",
+        "Bobbi Andera",
+        "Julie Auch",
+        "Red Foster"
+      ]
+    },
+    {
+      "id": "sd-sb232",
+      "billCode": "SB232",
+      "title": "Impose a one-year moratorium on the construction or expansion of hyperscale data centers.",
+      "summary": "Impose a one-year moratorium on the construction or expansion of hyperscale data centers.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-04",
+      "partyOrigin": "R",
+      "sourceUrl": "https://sdlegislature.gov/#/Session/Bill/27269",
+      "legiscanUrl": "https://legiscan.com/SD/bill/SB232/2026",
+      "legiscanId": 2107261,
+      "sponsors": [
+        "Taffy Howard",
+        "Phil Jensen"
+      ]
+    },
+    {
+      "id": "sd-hb1125",
+      "billCode": "HB1125",
+      "title": "Create a taskforce to study the impact of artificial intelligence systems on the state.",
+      "summary": "Create a taskforce to study the impact of artificial intelligence systems on the state.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-26",
+      "partyOrigin": "R",
+      "sourceUrl": "https://sdlegislature.gov/#/Session/Bill/26539",
+      "legiscanUrl": "https://legiscan.com/SD/bill/HB1125/2026",
+      "legiscanId": 2091990,
+      "sponsors": [
+        "Taffy Howard",
+        "Terri Jorgenson",
+        "Bobbi Andera",
+        "Heather Baxter"
+      ]
+    }
+  ]
+}

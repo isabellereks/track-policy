@@ -1,0 +1,111 @@
+[
+  {
+    "id": "russ-fulcher",
+    "name": "Russ Fulcher",
+    "role": "Representative",
+    "party": "R-ID",
+    "state": "ID",
+    "chamber": "house",
+    "committees": [
+      "Natural Resources",
+      "Education and Labor"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.75,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "mike-crapo",
+    "name": "Mike Crapo",
+    "role": "Senator · Judiciary",
+    "party": "R-ID",
+    "state": "ID",
+    "chamber": "senate",
+    "committees": [
+      "Finance",
+      "Banking",
+      "Judiciary",
+      "Budget"
+    ],
+    "stance": "favorable",
+    "quote": "Senior Finance Committee member focused on tax policy and financial regulation",
+    "techRegScore": 0.72,
+    "lobbying": {
+      "topIndustries": [
+        "Finance/Banking $1.2M",
+        "Agriculture $680K",
+        "Mining $520K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 73,
+      "education": "Brigham Young University (B.A. Political Science), Harvard Law School (J.D.)",
+      "careerBeforePolitics": "Attorney, Idaho state legislature, U.S. House (1993-1999)"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "jim-risch",
+    "name": "Jim Risch",
+    "role": "Senator · Energy",
+    "party": "R-ID",
+    "state": "ID",
+    "chamber": "senate",
+    "committees": [
+      "Foreign Relations",
+      "Energy",
+      "Intelligence",
+      "Small Business"
+    ],
+    "stance": "favorable",
+    "quote": "Foreign policy hardliner who rarely breaks from conservative orthodoxy",
+    "techRegScore": 0.68,
+    "lobbying": {
+      "topIndustries": [
+        "Agribusiness: $485,000",
+        "Mining: $312,000",
+        "Oil & Gas: $289,000"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 81,
+      "education": "University of Idaho (BS), University of Idaho College of Law (JD)",
+      "careerBeforePolitics": "Rancher and attorney, served as Idaho Lieutenant Governor and Governor"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "mike-simpson",
+    "name": "Mike Simpson",
+    "role": "Representative",
+    "party": "R-ID",
+    "state": "ID",
+    "chamber": "house",
+    "committees": [
+      "Appropriations"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.68,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  }
+]

@@ -1,0 +1,2137 @@
+{
+  "generatedAt": "2026-04-11T13:45:23.542Z",
+  "regional": {
+    "na": {
+      "summary": "Between January and April 2026, the dominant U.S. federal story was the Trump White House's March 20 release of a National Policy Framework for Artificial Intelligence, a sweeping legislative blueprint that calls on Congress to establish a uniform federal standard and preempt conflicting state AI laws. Simultaneously, a bipartisan wave of data-center moratorium bills swept at least 12 state legislatures, driven by ratepayer cost-shifting and grid-reliability concerns, while Sen. Bernie Sanders and Rep. Alexandria Ocasio-Cortez introduced a federal companion bill to freeze all AI data-center construction nationally. At the state level, Washington, Utah, and New York enacted new AI laws covering chatbots, content provenance, and frontier-model safety, even as Florida and Virginia ended their sessions without passing any AI legislation. Canada, lacking binding AI law after Bill C-27/AIDA died on the order paper in early 2025, pivoted to infrastructure-first policy, launching a federal call for proposals for sovereign AI data centres exceeding 100 MW and releasing a national 'sprint' report on AI governance priorities.",
+      "keyDevelopments": [
+        {
+          "headline": "Trump White House Releases National Policy Framework for Artificial Intelligence, Urging Congress to Preempt State AI Laws",
+          "source": "The White House",
+          "date": "2026-03-20",
+          "url": "https://www.whitehouse.gov/releases/2026/03/president-donald-j-trump-unveils-national-ai-legislative-framework/",
+          "relatedEntity": "Federal"
+        },
+        {
+          "headline": "Sen. Marsha Blackburn Releases Updated 291-Page Draft of TRUMP AMERICA AI Act, Seeking to Codify Executive Orders and Constrain State AI Regulation",
+          "source": "Holland & Knight",
+          "date": "2026-03-18",
+          "url": "https://www.hklaw.com/en/insights/publications/2026/03/white-house-releases-a-national-policy-framework-for-artificial",
+          "relatedEntity": "Federal"
+        },
+        {
+          "headline": "Sanders and Ocasio-Cortez Introduce S.4214, the AI Data Center Moratorium Act, to Halt All New AI Data Center Construction Until Federal Safeguards Are Enacted",
+          "source": "Axios",
+          "date": "2026-03-25",
+          "url": "https://www.axios.com/2026/03/25/sanders-aoc-data-center-moratorium-bill",
+          "relatedEntity": "Federal"
+        },
+        {
+          "headline": "At Least 12 States File Data Center Moratorium Bills in 2026 Legislative Sessions, Citing Grid Costs, Water Use, and Ratepayer Protection",
+          "source": "Good Jobs First",
+          "date": "2026-03-10",
+          "url": "https://goodjobsfirst.org/data-center-moratorium-bills-are-spreading-in-2026/",
+          "relatedEntity": "Federal"
+        },
+        {
+          "headline": "Washington Governor Signs HB 2225 (Chatbots) and HB 1170 (AI Provenance Disclosures); New York Governor Hochul Signs RAISE Act Chapter Amendments",
+          "source": "Troutman Privacy + Cyber + AI",
+          "date": "2026-03-28",
+          "url": "https://www.troutmanprivacy.com/2026/03/proposed-state-ai-law-update-march-30-2026/",
+          "relatedEntity": "Washington / New York"
+        },
+        {
+          "headline": "Canada Launches Federal Call for Proposals for Sovereign Large-Scale AI Data Centres Exceeding 100 MW, with Submissions Due February 15, 2026",
+          "source": "Innovation, Science and Economic Development Canada (ISED)",
+          "date": "2026-01-15",
+          "url": "https://ised-isde.canada.ca/site/ised/en/enabling-large-scale-sovereign-ai-data-centres",
+          "relatedEntity": "Canada"
+        }
+      ]
+    },
+    "eu": {
+      "summary": "Between January and April 2026, the EU's AI regulatory landscape was defined by rapid legislative activity around the Digital Omnibus on AI (COM(2025) 836), which sought to delay and simplify key AI Act deadlines before their August 2026 trigger. The Council and Parliament both adopted negotiating mandates in March 2026 and entered trilogue, targeting a final deal by 28 April. In parallel, the Commission launched a major public consultation on a draft EU-wide Data Centre Rating Scheme and announced a full Data Centre Energy Efficiency Package for Q2 2026. On the international stage, the EU endorsed the New Delhi Declaration at the AI Impact Summit in February 2026, affirming global AI governance cooperation alongside 91 nations.",
+      "keyDevelopments": [
+        {
+          "headline": "EU Council Adopts Negotiating Mandate on Digital Omnibus on AI (COM/2025/836), Pushing High-Risk AI Act Deadlines to December 2027 and August 2028",
+          "source": "Council of the EU (Consilium)",
+          "date": "2026-03-13",
+          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/03/13/council-agrees-position-to-streamline-rules-on-artificial-intelligence/",
+          "relatedEntity": "European Union"
+        },
+        {
+          "headline": "European Parliament Plenary Adopts Negotiating Position on Digital Omnibus on AI, Adding Ban on Non-Consensual 'Nudifier' AI Apps; Trilogue with Council Begins",
+          "source": "MediaLaws / Global Policy Watch",
+          "date": "2026-03-26",
+          "url": "https://www.medialaws.eu/the-eu-parliament-plenary-adopts-text-to-amend-the-digital-omnibus-on-ai-ahead-of-council-negotiations/",
+          "relatedEntity": "European Union"
+        },
+        {
+          "headline": "European Commission Launches Public Consultation on Draft EU-Wide Data Centre Rating Scheme, Slated for Adoption in Q2 2026 as Part of Data Centre Energy Efficiency Package",
+          "source": "European Commission – Energy Directorate",
+          "date": "2026-03-27",
+          "url": "https://energy.ec.europa.eu/news/rating-scheme-data-centres-eu-commission-launches-call-feedback-2026-03-27_en",
+          "relatedEntity": "European Union"
+        },
+        {
+          "headline": "EU Endorses New Delhi 'AI Impact Summit' Leaders' Declaration Alongside 91 Nations; Commission Launches Frontier AI Grand Challenge at Summit",
+          "source": "European Commission – Digital Strategy",
+          "date": "2026-02-20",
+          "url": "https://digital-strategy.ec.europa.eu/en/news/european-union-endorses-leaders-declaration-ai-summit-india",
+          "relatedEntity": "European Union"
+        },
+        {
+          "headline": "Commission Proposes Digital Networks Act (DNA) to Replace Electronic Communications Code with Single EU-Wide Authorization Regime",
+          "source": "Inside Privacy (Covington)",
+          "date": "2026-01-21",
+          "url": "https://www.insideprivacy.com/european-union-2/what-to-watch-in-2026-key-eu-privacy-cybersecurity-developments/",
+          "relatedEntity": "European Union"
+        },
+        {
+          "headline": "Germany's Energy Efficiency Act (EnEfG) Waste-Heat Reuse Mandate for Data Centres Takes Effect: 10% Reuse Required by July 2026, Rising to 20% by July 2028",
+          "source": "Orbital Industries",
+          "date": "2026-01-01",
+          "url": "https://www.orbitalindustries.com/posts/wasted-power-data-center-regulation-in-the-eu",
+          "relatedEntity": "Germany"
+        }
+      ]
+    },
+    "asia": {
+      "summary": "From January through April 2026, Asia-Pacific AI and data-center policy was defined by a wave of pro-innovation, sovereignty-focused moves. South Korea became the first country in the region to enforce a comprehensive AI law when its AI Basic Act (Law No. 20676) took effect on January 22, 2026, establishing risk tiers, transparency mandates, and a national AI safety research institute. Japan accelerated its own innovation-first agenda under a newly re-elected Prime Minister Takaichi, completing a public consultation on a Generative AI Code in January and then approving a landmark amendment to its Personal Information Protection Act in April that removes opt-in consent requirements to unlock data for AI training. China extended its vertical control model into 2026, with major CSL amendments bringing AI provisions into national law effective January 1 and the CAC issuing new draft rules on human-like interactive AI services in April. India and Singapore moved more softly: India released principle-based AI Governance Guidelines in February and updated its IT Intermediary Rules to mandate AI content labeling, while Singapore published a first-of-its-kind Model AI Governance Framework for Agentic AI without yet enacting binding legislation.",
+      "keyDevelopments": [
+        {
+          "headline": "South Korea's AI Basic Act (Law No. 20676) Enters Into Force, Establishing Risk-Tiered Obligations for High-Impact and Generative AI",
+          "source": "Library of Congress / Global Legal Monitor",
+          "date": "2026-01-22",
+          "url": "https://www.loc.gov/item/global-legal-monitor/2026-02-20/south-korea-comprehensive-ai-legal-framework-takes-effect",
+          "relatedEntity": "South Korea"
+        },
+        {
+          "headline": "Japan Cabinet Approves Amendment to Personal Information Protection Act, Removing Opt-In Consent Requirement to Accelerate AI Data Use",
+          "source": "The Register",
+          "date": "2026-04-08",
+          "url": "https://www.theregister.com/2026/04/08/japan_privacy_law_changes_ai/",
+          "relatedEntity": "Japan"
+        },
+        {
+          "headline": "China's Amended Cybersecurity Law (CSL) — Incorporating First National AI Provisions — Takes Effect January 1, 2026",
+          "source": "IAPP Global AI Governance: China",
+          "date": "2026-01-01",
+          "url": "https://iapp.org/resources/article/global-ai-governance-china",
+          "relatedEntity": "China"
+        },
+        {
+          "headline": "China's CAC Releases Draft Interim Measures on Human-Like Interactive AI Services for Public Consultation",
+          "source": "Mayer Brown",
+          "date": "2026-03-28",
+          "url": "https://www.mayerbrown.com/en/insights/publications/2026/04/china-issues-draft-rules-on-interactive-ai-services",
+          "relatedEntity": "China"
+        },
+        {
+          "headline": "India's MeitY Releases Principle-Based AI Governance Guidelines Emphasizing 'Safe, Trusted, and Inclusive AI'",
+          "source": "India Briefing / Mind2Markets",
+          "date": "2026-02-01",
+          "url": "https://www.india-briefing.com/news/india-ai-regulation-2026-foreign-platform-compliance-42745.html/",
+          "relatedEntity": "India"
+        },
+        {
+          "headline": "Singapore's IMDA Publishes World's First Model AI Governance Framework for Agentic AI, Maintaining Voluntary Approach",
+          "source": "White & Case AI Watch: Global Regulatory Tracker",
+          "date": "2026-03-04",
+          "url": "https://www.whitecase.com/insight-our-thinking/ai-watch-global-regulatory-tracker-singapore",
+          "relatedEntity": "Singapore"
+        }
+      ]
+    }
+  },
+  "entities": {
+    "United States": {
+      "news": [
+        {
+          "id": "united-states-0",
+          "headline": "Trump Administration Releases National Policy Framework for AI, Calls on Congress to Preempt State AI Laws",
+          "source": "White House / Holland & Knight",
+          "date": "2026-03-20",
+          "url": "https://www.hklaw.com/en/insights/publications/2026/03/white-house-releases-a-national-policy-framework-for-artificial"
+        },
+        {
+          "id": "united-states-1",
+          "headline": "Sen. Marsha Blackburn Releases Updated TRUMP AMERICA AI Act Discussion Draft (291-Page Legislative Proposal)",
+          "source": "Holland & Knight",
+          "date": "2026-03-18",
+          "url": "https://www.hklaw.com/en/insights/publications/2026/03/white-house-releases-a-national-policy-framework-for-artificial"
+        },
+        {
+          "id": "united-states-2",
+          "headline": "White House Announces Ratepayer Protection Pledge With Hyperscalers and AI Companies to Shield Consumers From Data Center Energy Costs",
+          "source": "Stateside Associates",
+          "date": "2026-03-04",
+          "url": "https://www.stateside.com/blog/2026-data-center-energy-policy-ratepayer-protection-pledge"
+        },
+        {
+          "id": "united-states-3",
+          "headline": "Data Center Moratorium Bills Spread to At Least 12 States in 2026, With 63+ Local Government Actions Filed or Adopted",
+          "source": "Good Jobs First",
+          "date": "2026-03-10",
+          "url": "https://goodjobsfirst.org/data-center-moratorium-bills-are-spreading-in-2026/"
+        },
+        {
+          "id": "united-states-4",
+          "headline": "Sen. Cotton's DATA Act of 2026 Proposes Federal Framework Requiring Off-Grid Power for New Data Centers to Protect Ratepayers",
+          "source": "Foley Hoag LLP / Energy & Climate Counsel",
+          "date": "2026-03-09",
+          "url": "https://foleyhoag.com/news-and-insights/blogs/energy-and-climate-counsel/2026/march/the-data-act-of-2026-and-the-future-of-data-center-development/"
+        }
+      ]
+    },
+    "Alabama": {
+      "news": [
+        {
+          "id": "alabama-0",
+          "headline": "Birmingham City Council Passes 180-Day Moratorium on New Data Center Applications Following 'Project Marvel' Controversy in Bessemer",
+          "source": "GASP Group / Birmingham City Council",
+          "date": "2026-01-13",
+          "url": "https://gaspgroup.org/birmingham-residents-must-stay-engaged-on-the-proposed-data-center/"
+        },
+        {
+          "id": "alabama-1",
+          "headline": "Alabama Senate Introduces Three-Bill Package (SB265, SB268, SB270) to Overhaul Data Center Tax Incentives and Utility Regulation",
+          "source": "WBRC",
+          "date": "2026-02-05",
+          "url": "https://www.wbrc.com/2026/02/05/alabama-senate-bills-target-data-center-incentives-utility-regulation/"
+        },
+        {
+          "id": "alabama-2",
+          "headline": "Governor Ivey Forms Technology Quality Assurance Board to Oversee AI Adoption and Implement GenAI Task Force Recommendations Under Act 2025-369",
+          "source": "Office of the Governor of Alabama",
+          "date": "2026-02-12",
+          "url": "https://governor.alabama.gov/newsroom/2026/02/governor-ivey-forms-technology-quality-assurance-board-to-oversee-innovation-and-safeguard-statewide-it-systems/"
+        },
+        {
+          "id": "alabama-3",
+          "headline": "Alabama Senate Unanimously Passes SB265 to Cut Data Center Tax Abatement Period from 30 to 20 Years and Mandate Sales Taxes on 100MW+ Facilities",
+          "source": "Alabama Reporter",
+          "date": "2026-03-13",
+          "url": "https://www.alreporter.com/2026/03/13/alabama-senate-passes-bill-to-rein-in-data-center-tax-incentives/"
+        },
+        {
+          "id": "alabama-4",
+          "headline": "Alabama Legislature Passes HB399 to Limit Data Center Tax Abatements, Sends Bill to Governor; Alabama Adjourn 2026 Session Amid AI Data Center Energy Debate",
+          "source": "Alabama Reporter",
+          "date": "2026-04-10",
+          "url": "https://www.alreporter.com/2026/04/10/alabama-senate-sends-bill-to-limit-data-center-tax-breaks-to-governor/"
+        }
+      ]
+    },
+    "Alaska": {
+      "news": [
+        {
+          "id": "alaska-0",
+          "headline": "Anchorage Assembly Adopts Ordinance AO 2026-27 Establishing Land Use and Permitting Framework for Data Centers",
+          "source": "Davis Wright Tremaine / Anchorage Daily News",
+          "date": "2026-03-27",
+          "url": "https://www.dwt.com/blogs/energy--environmental-law-blog/2026/04/anchorage-adopts-data-center-framework"
+        },
+        {
+          "id": "alaska-1",
+          "headline": "Alaska HB 47 Criminalizing AI-Generated CSAM Passes House Unanimously 39–0, Heads to Senate",
+          "source": "Recording Law",
+          "date": "2026-02-27",
+          "url": "https://www.recordinglaw.com/us-laws/ai-laws/alaska-ai-laws/"
+        },
+        {
+          "id": "alaska-2",
+          "headline": "Alaska HB 259 Introduced by Rep. Donna Mears to Set Utility Rate-Setting Guidelines and Community Engagement Standards for Data Centers",
+          "source": "Anchorage Daily News",
+          "date": "2026-03-04",
+          "url": "https://www.adn.com/alaska-news/anchorage/2026/03/04/data-centers-powering-the-ai-boom-demand-local-energy-anchorage-assembly-members-want-to-regulate-them/"
+        },
+        {
+          "id": "alaska-3",
+          "headline": "Alaska SB 2 — Comprehensive AI Governance Bill Banning State Agency Use of Biometric ID and Social Scoring — Stalls in Senate State Affairs Committee",
+          "source": "Recording Law",
+          "date": "2026-03-01",
+          "url": "https://www.recordinglaw.com/us-laws/ai-laws/alaska-ai-laws/"
+        },
+        {
+          "id": "alaska-4",
+          "headline": "Alaska Joint Legislative Task Force on AI (HCR 3) Submits Findings Report; Gov. Dunleavy Courts Microsoft, Amazon, Facebook Affiliates for Data Centers",
+          "source": "Anchorage Daily News",
+          "date": "2026-01-03",
+          "url": "https://www.adn.com/opinions/2026/01/03/opinion-before-alaska-becomes-an-ai-data-farm-be-sure-to-read-the-fine-print/"
+        }
+      ]
+    },
+    "Arizona": {
+      "news": [
+        {
+          "id": "arizona-0",
+          "headline": "Arizona AG Kris Mayes Files to Block Tucson Data Center Utility Rate Deal; 'No Desert Data Center Coalition' Sues Pima County Over Land Sale and Rezoning",
+          "source": "Deseret News",
+          "date": "2026-01-22",
+          "url": "https://www.deseret.com/politics/2026/01/22/tuscon-fights-back-against-data-center-proposal-after-chandler-rejected-another-proposal-last-year/"
+        },
+        {
+          "id": "arizona-1",
+          "headline": "Arizona HB 2311 (AI Chatbot Disclosure & Minor Safeguards Act) Passes Full House, Advances Through Senate Committees",
+          "source": "Transparency Coalition AI / LegiScan",
+          "date": "2026-03-24",
+          "url": "https://www.transparencycoalition.ai/news/ai-legislative-update-march27-2026"
+        },
+        {
+          "id": "arizona-2",
+          "headline": "Arizona HB 2756 Introduced to Bar Data Center Grid-Connection Cost Shifts to Retail Utility Customers",
+          "source": "Snell & Wilmer / Lexology",
+          "date": "2026-03-28",
+          "url": "https://www.swlaw.com/publication/building-in-arizonas-data-center-boom-how-federal-executive-orders-state-regulation-and-national-security-policy-are-reshaping-the-rules-for-developers/"
+        },
+        {
+          "id": "arizona-3",
+          "headline": "Cochise County Planning Commission Votes 5–4 to Recommend 120-Day Data Center Moratorium; Board Chair Cites A.R.S. §11-833 Legal Hurdles, Delays Action",
+          "source": "Cochise County, AZ (Official Government Newsflash)",
+          "date": "2026-04-03",
+          "url": "https://www.cochise.az.gov/m/newsflash/home/detail/415"
+        },
+        {
+          "id": "arizona-4",
+          "headline": "Arizona Senate Advances Bill Requiring 65% Supermajority Voter Approval Before Governments Deploy AI-Powered Mass Surveillance Networks",
+          "source": "Arizona Mirror",
+          "date": "2026-03-25",
+          "url": "https://azmirror.com/2026/03/25/arizona-bill-would-require-supermajority-voter-approval-before-cities-can-deploy-surveillance-tech/"
+        }
+      ]
+    },
+    "Arkansas": {
+      "news": [
+        {
+          "id": "arkansas-0",
+          "headline": "Sen. Tom Cotton Introduces Federal DATA Act to Shield Arkansans from Data Center-Driven Electric Rate Hikes",
+          "source": "KATV",
+          "date": "2026-01-16",
+          "url": "https://katv.com/news/local/cotton-introduces-bill-to-shield-arkansans-from-data-center-driven-electric-rate-hi-artificial-intelligence-ai-entergy-senator-tom-cotton-trump-electric-bill-power-plant-google-avaio-little-rock-meta-aws-public-service-commission-danni-hoefer-data-act"
+        },
+        {
+          "id": "arkansas-1",
+          "headline": "Arkansas Politicians Weigh In on Data Center Development, Citing Benefits, Rate Hike Concerns, and the Federal DATA Act",
+          "source": "Camden News",
+          "date": "2026-02-28",
+          "url": "https://www.camdenarknews.com/news/2026/feb/28/arkansas-politicians-weigh-in-on-data-center/"
+        },
+        {
+          "id": "arkansas-2",
+          "headline": "Arkansas Democrat-Gazette: Sanders-AOC 'Artificial Intelligence Data Center Moratorium Act' Introduced in Congress — Arkansas Lawmakers Split",
+          "source": "Arkansas Democrat-Gazette (Arkansas Online)",
+          "date": "2026-03-26",
+          "url": "https://www.arkansasonline.com/news/2026/mar/26/bill-aims-to-halt-new-data-centers/"
+        },
+        {
+          "id": "arkansas-3",
+          "headline": "Outsider Republican Sen. Bryan King Files Five Bills to Regulate Data Centers and Cryptomining During Arkansas Fiscal Session",
+          "source": "Arkansas Times",
+          "date": "2026-04-08",
+          "url": "https://arktimes.com/arkansas-blog/2026/04/08/outsider-republican-carries-on-the-uphill-battle-to-regulate-data-centers"
+        },
+        {
+          "id": "arkansas-4",
+          "headline": "Arkansas Legislature's 'Two-Step' on Solar and Data Centers Drives Up Utility Bills as Google's $4B West Memphis Center and AVAIO's $6B 1-Gigawatt Little Rock Project Advance",
+          "source": "Arkansas Times",
+          "date": "2026-04-09",
+          "url": "https://arktimes.com/arkansas-blog/2026/04/09/the-arkansas-two-step-how-legislators-shut-down-consumer-choice-and-drove-up-your-utility-bill"
+        }
+      ]
+    },
+    "California": {
+      "news": [
+        {
+          "id": "california-0",
+          "headline": "Newsom Issues Executive Order Asserting California's Right to Assess AI Startup Risks, Pushing Back on Trump Administration's Designation of Anthropic as Supply-Chain Threat",
+          "source": "CalMatters",
+          "date": "2026-04-03",
+          "url": "https://calmatters.org/politics/2026/04/newsom-moves-for-california-ai-startups/"
+        },
+        {
+          "id": "california-1",
+          "headline": "Monterey Park City Council Unanimously Passes 45-Day Data Center Moratorium at Saturn Park, Directs Staff to Draft Citywide Prohibition",
+          "source": "Data Center Dynamics",
+          "date": "2026-01-26",
+          "url": "https://www.datacenterdynamics.com/en/news/45-day-data-center-moratorium-passed-in-monterey-park-california-with-more-permanent-regulations-to-come/"
+        },
+        {
+          "id": "california-2",
+          "headline": "HMC Capital Withdraws Application for 250,000 Sq Ft Hyperscale Data Center in Monterey Park Following Community Opposition and Moratorium",
+          "source": "Food & Water Watch",
+          "date": "2026-04-07",
+          "url": "https://www.foodandwaterwatch.org/2026/04/07/in-massive-victory-community-stops-monterey-park-data-center/"
+        },
+        {
+          "id": "california-3",
+          "headline": "California SBs 886 and 887 (Padilla) — Requiring Data Centers to Undergo CEQA Review and Address Ratepayer Cost Impacts — Advance from Committee",
+          "source": "inewsource",
+          "date": "2026-03-18",
+          "url": "https://inewsource.org/2026/03/18/data-centers-bills-california-ceqa-costs-health/"
+        },
+        {
+          "id": "california-4",
+          "headline": "AI Data Center Plan Sparks Community Opposition in Imperial County; Residents Launch 'Imperial County Data Center Prohibition Act' Ballot Initiative for November 2026",
+          "source": "inewsource",
+          "date": "2026-04-08",
+          "url": "https://inewsource.org/2026/04/08/california-data-center-nimby-imperial-county/"
+        }
+      ]
+    },
+    "Colorado": {
+      "news": [
+        {
+          "id": "colorado-0",
+          "headline": "Denver City Council Advances Yearlong Moratorium on New Data Center Construction Amid Drought and Community Concerns",
+          "source": "Denver Gazette",
+          "date": "2026-03-31",
+          "url": "https://www.denvergazette.com/2026/03/31/denver-proposes-yearlong-moratorium-on-new-data-centers/"
+        },
+        {
+          "id": "colorado-1",
+          "headline": "Colorado AI Policy Work Group, Backed by Gov. Polis, Proposes ADMT Framework to Replace SB 24-205 Colorado AI Act",
+          "source": "Global Policy Watch",
+          "date": "2026-03-17",
+          "url": "https://www.globalpolicywatch.com/2026/03/colorado-officials-push-to-repeal-and-replace-the-colorado-ai-act/"
+        },
+        {
+          "id": "colorado-2",
+          "headline": "Colorado SB26-102 (Large-Load Data Centers) and HB26-1030 (Data Center Development & Grid Modernization Act) Pit Environmental Groups Against Industry and Labor",
+          "source": "Colorado Sun",
+          "date": "2026-03-26",
+          "url": "https://coloradosun.com/2026/03/26/labor-environmental-groups-split-data-centers/"
+        },
+        {
+          "id": "colorado-3",
+          "headline": "Colorado Lawmakers Brace for Biggest Battle Yet Over AI Data Centers as Dueling Bills Emerge",
+          "source": "CPR News",
+          "date": "2026-01-20",
+          "url": "https://www.cpr.org/2026/01/20/colorado-bill-ai-data-centers/"
+        },
+        {
+          "id": "colorado-4",
+          "headline": "SB 24-205 Colorado AI Act Effective Date Delayed to June 30, 2026 via Special-Session SB 25B-004; Repeal-and-Replace Effort Underway",
+          "source": "Brownstein Hyatt Farber Schreck",
+          "date": "2026-03-04",
+          "url": "https://www.bhfs.com/insight/colorados-landmark-ai-law-coming-online-what-developers-and-deployers-should-know/"
+        }
+      ]
+    },
+    "Connecticut": {
+      "news": [
+        {
+          "id": "connecticut-0",
+          "headline": "CT Legislature Stalls for Third Year on AI Regulation; 2026 Session Shifts to Targeted Bills Over Omnibus Approach",
+          "source": "CT Mirror",
+          "date": "2026-01-28",
+          "url": "https://ctmirror.org/2026/01/28/artificial-intelligence-regulation-senate-lamont-ct/"
+        },
+        {
+          "id": "connecticut-1",
+          "headline": "Connecticut General Law Committee Clears SB 5 (Online Safety/AI) and SB 4 (Data Privacy), Sponsored by Sen. Maroney",
+          "source": "Privacy Daily",
+          "date": "2026-03-16",
+          "url": "https://privacy-daily.com/article/2026/03/16/connecticut-committee-clears-privacy-ai-bills-2603160066"
+        },
+        {
+          "id": "connecticut-2",
+          "headline": "Gov. Lamont Signals 'Bring Your Own Power' Mandate for New Connecticut Data Centers, Citing Grid Strain",
+          "source": "Hartford Business Journal",
+          "date": "2026-02-23",
+          "url": "https://hartfordbusiness.com/article/ct-considers-bring-your-own-power-model-for-data-center-development/"
+        },
+        {
+          "id": "connecticut-3",
+          "headline": "Connecticut Legislation Would Codify 'Bring Your Own Power' Requirement for Data Centers and Large Power Users, Effective July 1, 2026",
+          "source": "Hartford Business Journal",
+          "date": "2026-03-06",
+          "url": "https://hartfordbusiness.com/article/legislation-would-codify-bring-your-own-power-mandate-for-data-centers-large-power-users/"
+        },
+        {
+          "id": "connecticut-4",
+          "headline": "In Final Weeks of CT Session, AI Policy Bills SB 4 and SB 5 Come Into Focus Amid Industry Pushback",
+          "source": "CT Mirror",
+          "date": "2026-04-03",
+          "url": "https://ctmirror.org/2026/04/03/artificial-intelligence-privacy-legislature-ct/"
+        }
+      ]
+    },
+    "Delaware": {
+      "news": [
+        {
+          "id": "delaware-0",
+          "headline": "DNREC Secretary Rules Project Washington Data Center Prohibited Under Delaware Coastal Zone Act Due to 516 Diesel Generators",
+          "source": "Delaware Public Media",
+          "date": "2026-02-04",
+          "url": "https://www.delawarepublic.org/politics-government/2026-02-04/dnrec-says-planned-data-center-near-delaware-city-prohibited-under-coastal-zone-act"
+        },
+        {
+          "id": "delaware-1",
+          "headline": "Delaware HB 233 and SB 205 — Bills to Create Separate Rate Class for Large Energy Users and Require 100MW+ Transmission Certificates — Advance Out of Committee",
+          "source": "Spotlight Delaware",
+          "date": "2026-02-02",
+          "url": "https://spotlightdelaware.org/2026/02/02/data-center-regulation-bill-advances-in-delaware-legislature/"
+        },
+        {
+          "id": "delaware-2",
+          "headline": "New Castle County Council Passes First-in-State Data Center Regulations Requiring Buffer Zones and Energy-Efficient Generators, Exempting Project Washington",
+          "source": "Spotlight Delaware",
+          "date": "2026-03-19",
+          "url": "https://spotlightdelaware.org/2026/03/19/new-data-center-regulations-go-into-effect-but-not-for-del-city-proposal/"
+        },
+        {
+          "id": "delaware-3",
+          "headline": "DNREC Coastal Zone Industrial Control Board Affirms Decision to Prohibit Starwood Digital's Project Washington Data Center; Company Eyes Superior Court Appeal",
+          "source": "Delaware Public Media",
+          "date": "2026-03-26",
+          "url": "https://www.delawarepublic.org/science-health-tech/2026-03-26/dnrec-board-affirms-decisio-to-prohibit-starwood-digital-data-center-in-coastal-zone"
+        },
+        {
+          "id": "delaware-4",
+          "headline": "Delaware PSC Opens Tariff Docket and Pauses New Grid Interconnections in Delmarva Territory Pending Large-Load Rules Under HB 233 / SB 205 Debate",
+          "source": "Delaware Live",
+          "date": "2026-04-07",
+          "url": "https://delawarelive.com/data-center-and-cost-drive-delaware-energy-policy/"
+        }
+      ]
+    },
+    "Florida": {
+      "news": [
+        {
+          "id": "florida-0",
+          "headline": "Florida Senate Unanimously Passes SB 484 to Restrict Large-Scale AI Data Centers, Requiring Utility Cost Protections and Public Disclosure",
+          "source": "WUSF / News Service of Florida",
+          "date": "2026-02-26",
+          "url": "https://www.wusf.org/politics-issues/2026-02-26/florida-senate-unanimously-passes-restrictions-large-scale-data-centers"
+        },
+        {
+          "id": "florida-1",
+          "headline": "Florida Senate Passes DeSantis-Backed AI Bill of Rights (SB 482) 35-2; House Speaker Refuses to Bring It to the Floor, Deferring to Federal AI Policy",
+          "source": "WUSF",
+          "date": "2026-03-06",
+          "url": "https://www.wusf.org/politics-issues/2026-03-06/florida-senate-approves-ai-bill-of-rights-remains-halted-in-house"
+        },
+        {
+          "id": "florida-2",
+          "headline": "Florida House Weakens Transparency Provisions in SB 484, Strips Anti-NDA Language After White House Intervention on AI Data Center Bill",
+          "source": "WLRN",
+          "date": "2026-03-12",
+          "url": "https://www.wlrn.org/government-politics/2026-03-12/florida-house-weakens-transparency-requirement-in-data-center-bill-sends-to-senate"
+        },
+        {
+          "id": "florida-3",
+          "headline": "Florida Senate Gives Final Approval to Weakened SB 484 Data Center Bill; Heads to DeSantis for Signature After House-White House Compromise",
+          "source": "Florida Phoenix / The Invading Sea",
+          "date": "2026-03-13",
+          "url": "https://www.theinvadingsea.com/2026/03/13/data-centers-florida-legislature-sb-484-desantis-ai-non-disclosure-agreements-psc-utilities/"
+        },
+        {
+          "id": "florida-4",
+          "headline": "SB 484 Awaits DeSantis Signature: Florida's First Regulations on Hyperscale Data Centers Would Protect Ratepayers and Restrict Water Use, Effective July 1, 2026",
+          "source": "The Invading Sea / Inside Climate News",
+          "date": "2026-03-31",
+          "url": "https://www.theinvadingsea.com/2026/03/31/data-centers-florida-legislature-sb-484-desantis-utilities-psc-project-tango-nda-water-energy/"
+        }
+      ]
+    },
+    "Georgia": {
+      "news": [
+        {
+          "id": "georgia-0",
+          "headline": "Georgia HB 1012 Introduced: Statewide Moratorium on Data Center Construction Until March 2027",
+          "source": "Georgia Recorder",
+          "date": "2026-01-21",
+          "url": "https://georgiarecorder.com/2026/01/20/outrage-over-surge-of-data-centers-in-georgia-inspires-wave-of-bipartisan-bills/"
+        },
+        {
+          "id": "georgia-1",
+          "headline": "Georgia Senate Abruptly Adjourns Before Vote on SB 34, Blocking Ratepayer Protection from Data Center Energy Costs",
+          "source": "Georgia Recorder",
+          "date": "2026-02-27",
+          "url": "https://georgiarecorder.com/2026/02/26/data-center-bill-stalls-after-last-minute-change-opposed-by-industry-finds-support/"
+        },
+        {
+          "id": "georgia-2",
+          "headline": "Georgia Senate Passes SB 410 on Crossover Day, Repealing Data Center Sales Tax Exemption and Requiring Facilities to Cover Grid Infrastructure Costs",
+          "source": "13WMAZ",
+          "date": "2026-03-09",
+          "url": "https://www.13wmaz.com/article/news/local/forsyth-monroe/georgias-data-center-boom-could-be-coming-for-your-electric-bill-new-law/93-cd660002-ab1b-4117-8c1d-62ddb5362c18"
+        },
+        {
+          "id": "georgia-3",
+          "headline": "Three AI Bills (SB 540, SR 789, SB 444) Reach Gov. Brian Kemp's Desk as Georgia Legislature Prepares to Adjourn",
+          "source": "Transparency Coalition AI Legislative Update",
+          "date": "2026-04-03",
+          "url": "https://www.transparencycoalition.ai/news/ai-legislative-update-april3-2026"
+        },
+        {
+          "id": "georgia-4",
+          "headline": "Georgia Legislature Adjourns Without Passing Any Data Center Bills — HB 1012, SB 34, SB 408, SB 410 All Fail",
+          "source": "Inside Climate News / Georgia Watch",
+          "date": "2026-04-09",
+          "url": "https://insideclimatenews.org/news/09042026/georgia-legislature-data-center-bills-fail/"
+        }
+      ]
+    },
+    "Hawaii": {
+      "news": [
+        {
+          "id": "hawaii-0",
+          "headline": "Hawaii HB 1782 (AI Companion Systems/Minors Protection) Passes House, Advances Through Senate Committees",
+          "source": "Troutman Privacy + Cyber + AI / LegiScan",
+          "date": "2026-03-30",
+          "url": "https://www.troutmanprivacy.com/2026/03/proposed-state-ai-law-update-march-30-2026/"
+        },
+        {
+          "id": "hawaii-1",
+          "headline": "Hawaii SB 3001 (Conversational AI Disclosures and Minor Protections) Unanimously Passes Senate, Crosses Chamber",
+          "source": "Troutman Privacy + Cyber + AI",
+          "date": "2026-03-16",
+          "url": "https://www.troutmanprivacy.com/2026/03/proposed-state-ai-law-update-march-16-2026/"
+        },
+        {
+          "id": "hawaii-2",
+          "headline": "Hawaii HB 2458 (Surveillance Pricing in Food Sales Prohibition) Passes House, Advances in Senate Committee",
+          "source": "Troutman Privacy + Cyber + AI",
+          "date": "2026-03-30",
+          "url": "https://www.troutmanprivacy.com/2026/03/proposed-state-ai-law-update-march-30-2026/"
+        },
+        {
+          "id": "hawaii-3",
+          "headline": "NetChoice Files Opposition Testimony Against Hawaii SB 3001, Citing Embedded Privacy Law Concerns for AI Operators",
+          "source": "NetChoice",
+          "date": "2026-03-25",
+          "url": "https://netchoice.org/netchoice-testimony-in-opposition-to-hawaii-sb-3001/"
+        },
+        {
+          "id": "hawaii-4",
+          "headline": "Hawaii SB 2281 (AI Use in Health Care) Passes Second Reading, Referred to Multiple Committees",
+          "source": "Troutman Privacy + Cyber + AI",
+          "date": "2026-02-23",
+          "url": "https://www.troutmanprivacy.com/2026/02/proposed-state-ai-law-update-february-23-2026/"
+        }
+      ]
+    },
+    "Idaho": {
+      "news": [
+        {
+          "id": "idaho-0",
+          "headline": "Idaho Governor Brad Little Signs S1297 Conversational AI Safety Act into Law",
+          "source": "Troutman Privacy + Cyber + AI (troutmanprivacy.com)",
+          "date": "2026-04-06",
+          "url": "https://www.troutmanprivacy.com/2026/04/proposed-state-ai-law-update-april-6-2026/"
+        },
+        {
+          "id": "idaho-1",
+          "headline": "Idaho Governor Brad Little Signs S1227, Creating Statewide Generative AI Framework for K-12 Education",
+          "source": "Idaho Education News (idahoednews.org)",
+          "date": "2026-03-26",
+          "url": "https://www.idahoednews.org/news/the-genies-out-of-the-bottle-little-signs-artificial-intelligence-education-bill/"
+        },
+        {
+          "id": "idaho-2",
+          "headline": "Idaho Bill H820 Would Revise Sales Tax and Property Tax Exemptions for Data Center Equipment",
+          "source": "FastDemocracy (fastdemocracy.com)",
+          "date": "2026-03-04",
+          "url": "https://fastdemocracy.com/bill-search/id/2026/bills/IDB00009007/"
+        },
+        {
+          "id": "idaho-3",
+          "headline": "Idaho Legislators Introduce Bill to Curb 20-Year Sales Tax Breaks for Large Data Centers, Exempting Meta's Kuna Facility",
+          "source": "BoiseDev (boisedev.com)",
+          "date": "2026-03-03",
+          "url": "https://boisedev.com/news/2026/03/03/datacenter-sales-revamp/"
+        },
+        {
+          "id": "idaho-4",
+          "headline": "Kootenai County, Idaho Lifts Data Center Moratorium, Bans Facilities Over Aquifer and Requires Conditional Use Permits",
+          "source": "KUNR Public Radio / Mountain West News Bureau (kunr.org)",
+          "date": "2026-03-27",
+          "url": "https://www.kunr.org/2026-03-27/some-mountain-west-counties-impose-moratoriums-on-data-centers-as-national-pause-is-proposed"
+        }
+      ]
+    },
+    "Illinois": {
+      "news": [
+        {
+          "id": "illinois-0",
+          "headline": "Gov. Pritzker Proposes Two-Year Suspension of State Tax Incentives for New Data Centers, Effective July 1, 2026",
+          "source": "Axios Chicago",
+          "date": "2026-02-18",
+          "url": "https://www.axios.com/local/chicago/2026/02/18/illinois-freezes-data-center-tax-incentives-pritzker-trump-energy"
+        },
+        {
+          "id": "illinois-1",
+          "headline": "Illinois POWER Act (Protecting Our Water, Energy, and Ratepayers) Introduced to Impose Clean-Energy and Cost-Allocation Guardrails on Data Centers",
+          "source": "Capitol News Illinois / WTTW",
+          "date": "2026-03-18",
+          "url": "https://news.wttw.com/2026/03/18/political-will-grows-illinois-data-center-regulations-power-act-remains-committee"
+        },
+        {
+          "id": "illinois-2",
+          "headline": "Champaign County Zoning Board Votes for One-Year Moratorium on Large Data Centers (Over 10,000 sq ft)",
+          "source": "The Daily Illini",
+          "date": "2026-03-31",
+          "url": "https://dailyillini.com/news-stories/world-news/state-news/2026/03/31/champaign-county-arms-against-big-data-centers/"
+        },
+        {
+          "id": "illinois-3",
+          "headline": "Illinois HB 3773 (AI Employment Discrimination Ban) Takes Effect January 1, 2026; IDHR Releases Draft Implementation Rules",
+          "source": "Hinshaw & Culbertson LLP",
+          "date": "2026-02-26",
+          "url": "https://www.hinshawlaw.com/en/insights/blogs/employment-law-observer/illinois-adopts-new-ai-in-employment-regulations-what-employers-need-to-know-for-2026"
+        },
+        {
+          "id": "illinois-4",
+          "headline": "Illinois Senate Reviews 50+ AI Bills Including SB 3312 (AI Safety Measures Act), SB 3263 (AI Provenance Data Act), and SB 2993 (Prohibition on AI Prescribing Medication)",
+          "source": "Transparency Coalition AI",
+          "date": "2026-04-08",
+          "url": "https://www.transparencycoalition.ai/news/making-sense-of-illinois-stack-of-ai-bills-here-are-six-measures-to-watch-closely"
+        }
+      ]
+    },
+    "Indiana": {
+      "news": [
+        {
+          "id": "indiana-0",
+          "headline": "Indiana HB 1210: Data Center Local-Government Incentive Watered Down in Final Session Deal — 1% Share Slashed to ~1/14th",
+          "source": "Indiana Capital Chronicle",
+          "date": "2026-03-26",
+          "url": "https://indianacapitalchronicle.com/2026/03/26/that-1-incentive-to-encourage-data-center-approvals-final-deal-watered-it-down/"
+        },
+        {
+          "id": "indiana-1",
+          "headline": "Indiana Lawmakers Take Little Action on Data Center Regulation as 2026 Session Ends; HB 1245 and SB 257 Both Die Without Hearings",
+          "source": "WFYI Public Media",
+          "date": "2026-03-02",
+          "url": "https://www.wfyi.org/news/articles/data-center-legislation-indiana-general-assembly-2026"
+        },
+        {
+          "id": "indiana-2",
+          "headline": "Fulton County, Indiana Enacts One-Year Temporary Ban on Data Center Development",
+          "source": "Stateline",
+          "date": "2026-03-06",
+          "url": "https://stateline.org/2026/03/06/temporarily-banning-data-centers-draws-more-interest-from-state-local-officials/"
+        },
+        {
+          "id": "indiana-3",
+          "headline": "Indiana HB 1333 Passes: Data Centers Must Share 1% of Sales Tax Exemption Savings with Local Governments",
+          "source": "Indiana Public Media (WFIU/WTIU)",
+          "date": "2026-02-04",
+          "url": "https://www.ipm.org/news/2026-02-04/house-bill-could-provide-benefit-to-communities-that-host-data-centers"
+        },
+        {
+          "id": "indiana-4",
+          "headline": "Democratic Primary Challengers in Indianapolis Push for Data Center Moratorium in U.S. House Race",
+          "source": "Indianapolis Today / National Today",
+          "date": "2026-04-03",
+          "url": "https://nationaltoday.com/us/in/indianapolis/news/2026/04/03/challengers-push-for-data-center-moratorium-in-indianapolis/"
+        }
+      ]
+    },
+    "Iowa": {
+      "news": [
+        {
+          "id": "iowa-0",
+          "headline": "Iowa House File 2447 Proposes Quarterly Water and Energy Reporting Requirements for Data Centers",
+          "source": "Axios Des Moines",
+          "date": "2026-02-19",
+          "url": "https://www.axios.com/local/des-moines/2026/02/19/iowa-lawmakers-push-data-center-transparency"
+        },
+        {
+          "id": "iowa-1",
+          "headline": "Linn County, Iowa Adopts Strict Data Center Zoning Ordinance Creating Exclusive-Use District Amid Google Campus Plans",
+          "source": "Inside Climate News",
+          "date": "2026-03-01",
+          "url": "https://insideclimatenews.org/news/01032026/iowa-county-data-center-ordinance/"
+        },
+        {
+          "id": "iowa-2",
+          "headline": "Industry Leaders Brief Iowa Lawmakers on AI Policy as Multiple AI-Related Bills Advance Through 2026 Legislature",
+          "source": "KCRG (KCCI)",
+          "date": "2026-02-06",
+          "url": "https://www.kcrg.com/2026/02/06/industry-leaders-share-ai-policy-guidance-with-iowa-lawmakers/"
+        },
+        {
+          "id": "iowa-3",
+          "headline": "Iowa HF-976 Takes Effect: Data Centers Face New Registration Deadlines, Term Limits on Sales Tax Exemptions Starting January 2026",
+          "source": "Ryan Tax (Ryan.com)",
+          "date": "2026-01-01",
+          "url": "https://ryan.com/about-ryan/news-and-insights/2025/iowa-data-center-exemption/"
+        },
+        {
+          "id": "iowa-4",
+          "headline": "Franklin County, Iowa Approves Data Center Moratorium",
+          "source": "Hampton Chronicle",
+          "date": "2026-04-08",
+          "url": "https://www.hamptonchronicle.com/content/county-approves-data-center-moratorium-weed-control-plan-summer"
+        }
+      ]
+    },
+    "Kansas": {
+      "news": [
+        {
+          "id": "kansas-0",
+          "headline": "Sedgwick County, Kansas Passes 90-Day Moratorium Suspending Data Center Permit Applications",
+          "source": "KWCH 12 News",
+          "date": "2026-01-15",
+          "url": "https://www.kwch.com/2026/01/15/sedgwick-county-suspends-data-center-permits-90-days/"
+        },
+        {
+          "id": "kansas-1",
+          "headline": "Kansas Senate Majority Leader Chase Blasi Calls for Three-Year Moratorium on Data Centers in Sedgwick County",
+          "source": "KWCH 12 News",
+          "date": "2026-02-24",
+          "url": "https://www.kwch.com/2026/02/24/kansas-lawmakers-ask-three-year-pause-sedgwick-county-data-centers/"
+        },
+        {
+          "id": "kansas-2",
+          "headline": "Kansas Legislature Introduces HB 2592 to Establish Bipartisan Task Force on Artificial Intelligence and Emerging Technologies",
+          "source": "KWCH 12 News",
+          "date": "2026-02-09",
+          "url": "https://www.kwch.com/2026/02/09/legislation-calls-formation-kansas-ai-task-force/"
+        },
+        {
+          "id": "kansas-3",
+          "headline": "Sedgwick County Commission Unanimously Extends Data Center Permit Moratorium to June 11, 2026",
+          "source": "KWCH 12 News",
+          "date": "2026-03-04",
+          "url": "https://www.kwch.com/2026/03/04/sedgwick-county-extends-pause-data-center-applications/"
+        },
+        {
+          "id": "kansas-4",
+          "headline": "Kansas SB 51 Advances: Sales Tax Exemption for Qualified Data Centers Requiring Minimum $250 Million Investment",
+          "source": "Kansas State Legislature",
+          "date": "2026-02-11",
+          "url": "https://www.kslegislature.gov/li/b2025_26/measures/sb51/"
+        }
+      ]
+    },
+    "Kentucky": {
+      "news": [
+        {
+          "id": "kentucky-0",
+          "headline": "Kentucky HB 593 (GOP Data Center Ratepayer Protection Bill) Filed by Rep. Josh Bray, Requiring Data Centers to Prepay Infrastructure Costs and Pay $75,000 Application Fee",
+          "source": "Louisville Public Media (LPM)",
+          "date": "2026-02-12",
+          "url": "https://www.lpm.org/news/2026-02-12/gop-bill-seeks-guardrails-for-new-data-centers-to-pay-their-own-way-in-kentucky"
+        },
+        {
+          "id": "kentucky-1",
+          "headline": "Kentucky HB 544 (Ratepayer Protection Act) Filed by Reps. Adam Moore and William Lawrence, Creating New PSC-Approved Rate Class for Data Centers Exceeding 100MW",
+          "source": "Data Center Dynamics",
+          "date": "2026-02-17",
+          "url": "https://www.datacenterdynamics.com/en/news/kentucky-house-proposes-new-rate-class-for-large-load-data-centers/"
+        },
+        {
+          "id": "kentucky-2",
+          "headline": "Franklin, Kentucky Planning and Zoning Commission Approves TenKey LandCO LLC Preliminary Data Center Development Plan After Four Hours of Debate Amid Local Moratorium Fight",
+          "source": "WKU Herald",
+          "date": "2026-03-03",
+          "url": "https://wkuherald.com/92431/news/data-center-dilemma/"
+        },
+        {
+          "id": "kentucky-3",
+          "headline": "Kentucky HB 593 Advances to State Senate as 2026 General Assembly Session Nears End",
+          "source": "Louisville Public Media (LPM)",
+          "date": "2026-03-27",
+          "url": "https://www.lpm.org/news/2026-03-27/education-data-centers-and-more-heres-what-kentucky-lawmakers-advanced-this-week"
+        },
+        {
+          "id": "kentucky-4",
+          "headline": "Kentucky Attorney General Pursues Rapid AI Enforcement Posture Under KCDPA as Character.AI Lawsuit Remains Ongoing Through April 2026",
+          "source": "Future Workforce Systems (FWS Enterprise)",
+          "date": "2026-04-07",
+          "url": "https://www.futureworkforcesystems.com/post/kentucky-privacy-law-shadow-ai-governance-2026"
+        }
+      ]
+    },
+    "Louisiana": {
+      "news": [
+        {
+          "id": "louisiana-0",
+          "headline": "New Orleans City Council Imposes Up-to-Two-Year Data Center Moratorium (Motion M-26-62) After New Orleans East Project Killed by Community Backlash",
+          "source": "The Times-Picayune / NOLA.com",
+          "date": "2026-01-29",
+          "url": "https://www.nola.com/news/business/new-orleans-east-data-center/article_b7397cf1-85d4-4dbc-8675-1da346539fd2.html"
+        },
+        {
+          "id": "louisiana-1",
+          "headline": "Louisiana Public Service Commission's 'Lightning Amendment' Creates Fast-Track Approval That Could Shift Up to 75% of AI Data-Center Infrastructure Costs onto Ratepayers",
+          "source": "The Lens / Union of Concerned Scientists (The Equation)",
+          "date": "2026-02-18",
+          "url": "https://thelensnola.org/2026/02/18/louisiana-lightning-amendment-ai-data-centers-ratepayer-costs/"
+        },
+        {
+          "id": "louisiana-2",
+          "headline": "Amazon Announces $12 Billion AI Data Center Campus Investment Across Caddo and Bossier Parishes in Northwest Louisiana, Creating 540 Direct Jobs",
+          "source": "Louisiana Economic Development (LED) / opportunitylouisiana.gov",
+          "date": "2026-02-23",
+          "url": "https://www.opportunitylouisiana.gov/news/amazon-selects-louisiana-for-12-billion-data-center-campuses-in-major-u-s-expansion"
+        },
+        {
+          "id": "louisiana-3",
+          "headline": "Louisiana Kills at Least One-Third of ~20 AI Regulation Bills—Including SB 474 (Protecting Louisiana's Infrastructure from AI Risk Act) and Health Insurance AI Bills—After Trump Threatens to Withhold Federal Broadband Funding",
+          "source": "KSLA / Louisiana Illuminator",
+          "date": "2026-04-02",
+          "url": "https://www.ksla.com/2026/04/02/louisiana-scraps-some-not-all-ai-proposals-after-trump-threats/"
+        },
+        {
+          "id": "louisiana-4",
+          "headline": "Louisiana Legislature Turns Data-Center Tax Incentive Playbook Toward Aerospace as 2026 Session Advances; HB827 (Act 730) Sales-Tax Rebate Law Already Secured Meta $27B and Hut 8 $10B Projects",
+          "source": "The Hayride / The Center Square",
+          "date": "2026-04-08",
+          "url": "https://thehayride.com/2026/04/louisiana-turns-data-center-incentive-playbook-toward-aerospace/"
+        }
+      ]
+    },
+    "Maine": {
+      "news": [
+        {
+          "id": "maine-0",
+          "headline": "Maine Legislature Passes LD 307, Nation's First Statewide Data Center Moratorium Banning Facilities ≥20 MW Until November 2027",
+          "source": "Maine Morning Star",
+          "date": "2026-04-09",
+          "url": "https://mainemorningstar.com/2026/04/09/landmark-data-center-moratorium-passes-maine-legislature/"
+        },
+        {
+          "id": "maine-1",
+          "headline": "Maine House Passes LD 307 Data Center Moratorium 82-62, Advances to Senate; LD 713 to Strip Data Centers of BETE and Dirigo Tax Breaks Also Advances",
+          "source": "Maine Morning Star",
+          "date": "2026-04-06",
+          "url": "https://mainemorningstar.com/2026/04/06/maine-house-advances-data-center-moratorium/"
+        },
+        {
+          "id": "maine-2",
+          "headline": "Maine Set to Become First State to Halt New AI Data Centers as LD 307 Clears Both Chambers; Gov. Mills Veto Possible After Exemption Amendment Rejected 29-115",
+          "source": "CNBC",
+          "date": "2026-04-09",
+          "url": "https://www.cnbc.com/2026/04/09/maine-data-center-ban.html"
+        },
+        {
+          "id": "maine-3",
+          "headline": "Maine Legislature Poised to Vote on Bills to Curb Data Center Development, Including LD 307 Moratorium and LD 713 Tax Break Exclusion",
+          "source": "Spectrum News Maine",
+          "date": "2026-03-20",
+          "url": "https://spectrumlocalnews.com/me/maine/news/2026/03/20/data-centers"
+        },
+        {
+          "id": "maine-4",
+          "headline": "Maine Rejects Comprehensive Data Privacy Law LD 1822 Again After Business Opposition and Targeted-Advertising Dispute Sink Bill in House",
+          "source": "Maine Morning Star",
+          "date": "2026-04-09",
+          "url": "https://mainemorningstar.com/2026/04/09/landmark-data-center-moratorium-passes-maine-legislature/"
+        }
+      ]
+    },
+    "Maryland": {
+      "news": [
+        {
+          "id": "maryland-0",
+          "headline": "Maryland HB 120 Introduced: Statewide Moratorium on New Data Center Construction Pending Co-Location and Power Generation Legislation",
+          "source": "Maryland General Assembly (mgaleg.maryland.gov) / Good Jobs First",
+          "date": "2026-01-14",
+          "url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0120?ys=2026RS"
+        },
+        {
+          "id": "maryland-1",
+          "headline": "Maryland Senate Passes SB 0141 Unanimously: AI-Generated Election Deepfakes Bill Targets Misinformation, Civil Penalties Up to $5,000 and Up to Five Years Prison",
+          "source": "WYPR / Technical.ly",
+          "date": "2026-02-13",
+          "url": "https://www.wypr.org/wypr-news/2026-02-13/maryland-lawmakers-look-to-get-a-jump-on-ai-regulations-ahead-of-election-season"
+        },
+        {
+          "id": "maryland-2",
+          "headline": "Baltimore City Council President Zeke Cohen Introduces One-Year Moratorium on Large Data Center Construction in Baltimore City",
+          "source": "CBS Baltimore / Baltimore Brew",
+          "date": "2026-03-23",
+          "url": "https://www.cbsnews.com/baltimore/news/baltimore-city-data-center-bill-energy-moratorium/"
+        },
+        {
+          "id": "maryland-3",
+          "headline": "Maryland Senate Passes Utility RELIEF Act with Pro-Data Center Provisions, Incentivizing Gas and Nuclear Energy Buildout for AI Data Centers",
+          "source": "Food & Water Watch",
+          "date": "2026-04-07",
+          "url": "https://www.foodandwaterwatch.org/2026/04/07/md-senate-passes-pro-data-center-provisions-in-utility-relief-bill/"
+        },
+        {
+          "id": "maryland-4",
+          "headline": "Maryland House Considers Election Reform Bills Including SB 0141 (AI Deepfakes) and SB 0008 (Deepfake Impersonation) Ahead of Key Legislative Deadline",
+          "source": "WYPR",
+          "date": "2026-04-01",
+          "url": "https://www.wypr.org/wypr-news/2026/04-01/maryland-house-considers-roster-of-election-reform-bills-on-ai-and-accessibility"
+        }
+      ]
+    },
+    "Massachusetts": {
+      "news": [
+        {
+          "id": "massachusetts-0",
+          "headline": "Lowell City Council Votes 10-0 to Enact Massachusetts' First-Ever One-Year Data Center Moratorium",
+          "source": "Bisnow / CommonWealth Beacon",
+          "date": "2026-03-11",
+          "url": "https://www.bisnow.com/boston/news/data-center-development/massachusetts-city-imposes-one-year-moratorium-on-data-centers-133606"
+        },
+        {
+          "id": "massachusetts-1",
+          "headline": "Gov. Healey Rejects Data Center Ban, Says Massachusetts 'Needs Data Centers' for Innovation Economy",
+          "source": "The Boston Globe",
+          "date": "2026-04-06",
+          "url": "https://www.bostonglobe.com/2026/04/06/business/healey-data-centers-new-england-council/"
+        },
+        {
+          "id": "massachusetts-2",
+          "headline": "Opposition to Data Centers Grows in Massachusetts Cities Including Lowell and Everett Over Noise, Pollution Concerns",
+          "source": "WBUR News",
+          "date": "2026-04-06",
+          "url": "https://www.wbur.org/news/2026/04/06/data-centers-ai-massachusetts-pollution-pushback"
+        },
+        {
+          "id": "massachusetts-3",
+          "headline": "Massachusetts H.4746 (Consumer Data Privacy Act) Awaits House Ways and Means Vote Amid Industry Pressure",
+          "source": "WBUR Cognoscenti",
+          "date": "2026-03-04",
+          "url": "https://www.wbur.org/cognoscenti/2026/03/04/big-tech-data-ai-consumer-privacy-law-woodrow-hartzog-neil-richards"
+        },
+        {
+          "id": "massachusetts-4",
+          "headline": "Massachusetts S.2632 (AI in Healthcare Bill) Advances: Joint Committee on Health Care Financing Refers to Senate Ways and Means",
+          "source": "Troutman Privacy + Cyber + AI (Troutman Pepper)",
+          "date": "2026-04-06",
+          "url": "https://www.troutmanprivacy.com/2026/04/proposed-state-ai-law-update-april-6-2026/"
+        }
+      ]
+    },
+    "Michigan": {
+      "news": [
+        {
+          "id": "michigan-0",
+          "headline": "Michigan House Bills 5594, 5595, 5596 (Data Center Regulation Act) introduced by Reps. Wortz, Fox, and Wegela to halt new data center construction until April 1, 2027",
+          "source": "Michigan Advance",
+          "date": "2026-02-27",
+          "url": "https://michiganadvance.com/briefs/wortz-spearheads-bipartisan-effort-to-halt-data-center-construction-in-michigan/"
+        },
+        {
+          "id": "michigan-1",
+          "headline": "WKAR News tracker: At least 25 Michigan communities enact local data center moratoriums, including Northville, Pontiac, Saginaw, and Saline City, amid AI infrastructure boom",
+          "source": "WKAR Public Media",
+          "date": "2026-02-27",
+          "url": "https://www.wkar.org/wkar-news/2026-02-27/michigan-data-center-tracker-moratoria-legislation-and-grid-impact"
+        },
+        {
+          "id": "michigan-2",
+          "headline": "Anti-data center rallies planned in Detroit, Ann Arbor, and four other Michigan cities amid push to repeal data center tax breaks and enact statewide moratorium",
+          "source": "Planet Detroit",
+          "date": "2026-04-09",
+          "url": "https://planetdetroit.org/2026/04/michigan-anti-data-center-rallies/"
+        },
+        {
+          "id": "michigan-3",
+          "headline": "U.S. Senate candidate Mallory McMorrow releases seven-point Michigan data center policy plan requiring green energy, union labor, and ban on NDAs with local governments",
+          "source": "Gander Newsroom",
+          "date": "2026-03-31",
+          "url": "https://gandernewsroom.com/2026/03/31/mallory-mcmorrow-releases-plan-for-michigan-data-centers-done-right-with-a-focus-on-green-energy/"
+        },
+        {
+          "id": "michigan-4",
+          "headline": "State lawmakers introduce legislation to block $100M state grant for University of Michigan/Los Alamos $1.3B AI computing facility in Ypsilanti Township; Rep. Debbie Dingell voices concerns",
+          "source": "The 'Gander",
+          "date": "2026-03-06",
+          "url": "https://gandernewsroom.com/2026/03/02/how-many-ai-data-centers-are-planned-in-michigan-we-counted/"
+        }
+      ]
+    },
+    "Minnesota": {
+      "news": [
+        {
+          "id": "minnesota-0",
+          "headline": "Opponents of Hyperscale Data Centers Rally at Minnesota State Capitol, Call for Two-Year Statewide Moratorium and New Regulations",
+          "source": "MPR News",
+          "date": "2026-02-20",
+          "url": "https://www.mprnews.org/story/2026/02/20/data-center-opponents-call-for-statewide-moratorium-new-regulations"
+        },
+        {
+          "id": "minnesota-1",
+          "headline": "Minnesota SF 4298 Filed: Would Bar State and Local Governments from Issuing Data Center Permits Until One Year After PUC Submits Comprehensive Report (Effectively Pausing Development Until ~2029)",
+          "source": "Good Jobs First",
+          "date": "2026-03-09",
+          "url": "https://goodjobsfirst.org/data-center-moratorium-bills-are-spreading-in-2026/"
+        },
+        {
+          "id": "minnesota-2",
+          "headline": "Minnesota Bill Proposes Ban on Local Officials Entering Nondisclosure Agreements with Data Center Developers",
+          "source": "Fox 9 KMSP",
+          "date": "2026-03-12",
+          "url": "https://www.fox9.com/news/minnesota-data-centers-bill-ban-nondisclosure-agreements-march-12"
+        },
+        {
+          "id": "minnesota-3",
+          "headline": "Minnesota Senate Judiciary Committee Hears AI Regulation Package from Sen. Erin Maye Quade Covering Health Insurance, Children's Chatbots, and Dynamic Pricing",
+          "source": "MPR News",
+          "date": "2026-03-09",
+          "url": "https://www.mprnews.org/episode/2026/03/09/slate-of-bills-looking-to-regulate-ai-introduced-at-state-capitol"
+        },
+        {
+          "id": "minnesota-4",
+          "headline": "Minnesota Residents Opposed to Data Centers Lobby Legislature for Moratoriums and Transparency; NDA Ban Gains Traction While Full Moratorium Stalls",
+          "source": "MinnPost",
+          "date": "2026-03-24",
+          "url": "https://www.minnpost.com/state-government/2026/03/minnesota-residents-opposed-to-data-centers-look-to-legislators-for-moratoriums-and-transparency/"
+        }
+      ]
+    },
+    "Mississippi": {
+      "news": [
+        {
+          "id": "mississippi-0",
+          "headline": "MDA Approves xAI Data Center Incentive (Sales & Use Tax Exemption) for $20B MACROHARDRR Facility in Southaven, DeSoto County",
+          "source": "Mississippi Development Authority / Mississippi Today",
+          "date": "2026-01-08",
+          "url": "https://mississippitoday.org/2026/01/08/mississippi-marketplace-xai-elon-musk-legislative-session-data-center/"
+        },
+        {
+          "id": "mississippi-1",
+          "headline": "Mississippi House Passes HB 1723 (87–22), Codifying State's First Statutory Definition of Artificial Intelligence",
+          "source": "Magnolia Tribune",
+          "date": "2026-02-04",
+          "url": "https://magnoliatribune.com/2026/02/04/mississippi-house-adopts-definition-of-ai/"
+        },
+        {
+          "id": "mississippi-2",
+          "headline": "Mississippi SB 2294 (MS Future Innovators Act) Passes Second Chamber, Requiring High School Computer Science Credit with Mandatory AI Instruction Starting 2029–30",
+          "source": "Mississippi First / MultiState",
+          "date": "2026-02-18",
+          "url": "https://www.mississippifirst.org/legislative_tracker/senate-bill-2294/"
+        },
+        {
+          "id": "mississippi-3",
+          "headline": "Mississippi Independent Investigation: State's $26B Data Center Boom Raises Ratepayer and Environmental Concerns as Mississippi Extends Fossil-Fuel Plants",
+          "source": "The Mississippi Independent",
+          "date": "2026-01-16",
+          "url": "https://msindy.org/p/mississippis-data-center-boom-and"
+        },
+        {
+          "id": "mississippi-4",
+          "headline": "ITS AI Acceptable Use Policy (Fulfilling Executive Order 1584) Approved, Establishing Mississippi's First Comprehensive Statewide AI Governance Framework",
+          "source": "Mississippi Department of Information Technology Services",
+          "date": "2026-01-01",
+          "url": "https://www.its.ms.gov/services/innovating/AI-AUP"
+        }
+      ]
+    },
+    "Missouri": {
+      "news": [
+        {
+          "id": "missouri-0",
+          "headline": "Missouri Gov. Mike Kehoe Signs Executive Order EO 26-02 to Advance AI Strategy and Review Data Center Energy Impact",
+          "source": "Government Technology",
+          "date": "2026-01-15",
+          "url": "https://www.govtech.com/artificial-intelligence/missouri-executive-order-seeks-to-advance-ai-strategy-use"
+        },
+        {
+          "id": "missouri-1",
+          "headline": "Missouri Lawmakers File ~15 AI-Related Bills Ahead of Legislative Session, Including Data Center Water and Environmental Rules",
+          "source": "First Alert 4",
+          "date": "2026-01-11",
+          "url": "https://www.firstalert4.com/2026/01/11/missouri-lawmakers-look-find-balance-ai-regulations-tech-keeps-developing/"
+        },
+        {
+          "id": "missouri-2",
+          "headline": "Missouri Future Caucus Introduces 'AI Infrastructure, Grid Integrity and Water Resource Protection Act' Requiring Data Centers to Cover Energy and Infrastructure Costs",
+          "source": "KCUR / St. Louis Public Radio",
+          "date": "2026-02-26",
+          "url": "https://www.kcur.org/politics-elections-and-government/2026-02-26/missouri-data-center-rules-water-electricity"
+        },
+        {
+          "id": "missouri-3",
+          "headline": "Missouri Senate AI Liability Bill (Sponsored by Sen. Joe Nicola) Stalls Over Fears of Losing $900M in Federal Rural Broadband Funds",
+          "source": "Route Fifty",
+          "date": "2026-04-07",
+          "url": "https://www.route-fifty.com/infrastructure/2026/04/missouri-ai-regulations-stall-lawmakers-fear-loss-rural-broadband-funds/412671/"
+        },
+        {
+          "id": "missouri-4",
+          "headline": "Jackson County, Missouri Legislator Sean Smith Introduces 120-Day Moratorium on New Data Center Land Use Applications",
+          "source": "KSHB 41",
+          "date": "2026-04-07",
+          "url": "https://www.kshb.com/news/local-news/missouri/jackson-county/jackson-county-legislator-introduces-120-day-moratorium-on-new-data-center-land-use-applications"
+        }
+      ]
+    },
+    "Montana": {
+      "news": [
+        {
+          "id": "montana-0",
+          "headline": "Earthjustice Files Motion Challenging Montana PSC's Protective Order Shielding NorthWestern Energy's Redacted Data Center Contracts from Public",
+          "source": "Daily Montanan",
+          "date": "2026-03-13",
+          "url": "https://dailymontanan.com/2026/03/13/public-service-commission-cant-keep-data-center-information-secret-says-group/"
+        },
+        {
+          "id": "montana-1",
+          "headline": "NorthWestern Energy Delays Large-Load Tariff to June as Montana PSC Rebuffs Attempt to Connect Data Centers Without Public Approval",
+          "source": "Daily Montanan",
+          "date": "2026-03-03",
+          "url": "https://dailymontanan.com/2026/03/03/northwestern-energy-talks-about-transparency-while-hiding-behind-redacted-documents/"
+        },
+        {
+          "id": "montana-2",
+          "headline": "Coalition Discloses 11 Data Center Developers in Talks with NorthWestern Energy, Urges Montana PSC to Demand Full Transparency",
+          "source": "Daily Montanan",
+          "date": "2026-02-23",
+          "url": "https://dailymontanan.com/2026/02/23/eleven-data-center-developers-in-talks-with-northwestern-group-says/"
+        },
+        {
+          "id": "montana-3",
+          "headline": "Montana Legislator Rep. Scott Rosenzweig Calls for Four-Year Statewide Data Center Moratorium Amid NorthWestern Energy Secrecy Controversy",
+          "source": "Flathead Beacon",
+          "date": "2026-03-25",
+          "url": "https://flatheadbeacon.com/2026/03/25/trust-montanans-end-the-secret-data-center-deals/"
+        },
+        {
+          "id": "montana-4",
+          "headline": "Montana Energy and Technology Interim Committee Launches AI Study (HJR 4) and Dual Grid Studies (SJR 12, SJR 21) with September 2026 Deadline",
+          "source": "Renewable Energy World",
+          "date": "2025-07-31",
+          "url": "https://www.renewableenergyworld.com/power-grid/outage-management/montana-lawmakers-consider-state-energy-capacity-with-ai-data-centers-looming/"
+        }
+      ]
+    },
+    "Nebraska": {
+      "news": [
+        {
+          "id": "nebraska-0",
+          "headline": "Nebraska Legislature Passes LB1261, Allowing Private Power Plants to Connect to Grid for Large Data Centers Like Google's Proposed Fourth Nebraska Facility",
+          "source": "Nebraska Public Media",
+          "date": "2026-03-26",
+          "url": "https://nebraskapublicmedia.org/en/news/news-articles/legislature-advances-bill-paving-the-way-for-data-centers-in-nebraska/"
+        },
+        {
+          "id": "nebraska-1",
+          "headline": "Google Privately Proposes Massive Nebraska Data Center Requiring More Power Than All of Lincoln, Contingent on LB1261 Passage",
+          "source": "Flatwater Free Press / Grist",
+          "date": "2026-03-13",
+          "url": "https://flatwaterfreepress.org/google-proposes-nebraska-data-center-requiring-more-power-than-all-of-lincoln/"
+        },
+        {
+          "id": "nebraska-2",
+          "headline": "Nebraska Senators Advance LB1261 Regulating Large Private Energy Projects for Data Centers After Google Proposal Revealed",
+          "source": "Nebraska Public Media",
+          "date": "2026-03-18",
+          "url": "https://nebraskapublicmedia.org/en/news/news-articles/senators-advance-bill-for-energy-projects-in-response-to-googles-proposal-for-a-nebraska-data-center/"
+        },
+        {
+          "id": "nebraska-3",
+          "headline": "Nebraska Legislature Passes LB585, Enacting Agricultural Data Privacy Protections and Conversational AI Regulation for Minors",
+          "source": "Unicameral Update (Nebraska Legislature)",
+          "date": "2026-04-10",
+          "url": "https://update.legislature.ne.gov/?p=40890"
+        },
+        {
+          "id": "nebraska-4",
+          "headline": "Nebraska LB939 and LB1185 Introduced to Restrict AI Chatbot Use by Minors; Senate Committee Hears Testimony on Conversational AI Safety Act",
+          "source": "Transparency Coalition AI",
+          "date": "2026-02-09",
+          "url": "https://www.transparencycoalition.ai/news/guide-to-nebraska-ai-chatbot-safety-bills-lb939-lb1185"
+        }
+      ]
+    },
+    "Nevada": {
+      "news": [
+        {
+          "id": "nevada-0",
+          "headline": "Nevada AB73 (AI Campaign Disclosure Law) Takes Effect, Requiring Disclosure of AI-Altered Election Materials",
+          "source": "The Nevada Independent",
+          "date": "2026-01-01",
+          "url": "https://thenevadaindependent.com/article/more-than-50-new-nevada-laws-go-into-effect-today-heres-what-to-know"
+        },
+        {
+          "id": "nevada-1",
+          "headline": "Nevada State Government Launches Statewide Data Classification Policy as AI Security Foundation",
+          "source": "StateScoop",
+          "date": "2026-02-12",
+          "url": "https://statescoop.com/nevada-policy-consistent-statewide-data-classification/"
+        },
+        {
+          "id": "nevada-2",
+          "headline": "Nevada Joint Interim Committees Hold Hearing on AI Data Center Water and Energy Regulations; Southern Nevada Ban Floated as Statewide Model",
+          "source": "Las Vegas Review-Journal",
+          "date": "2026-03-26",
+          "url": "https://www.reviewjournal.com/news/politics-and-government/nevada/the-data-center-tsunami-has-flooded-nevada-are-lawmakers-too-late-to-regulate-3729604/"
+        },
+        {
+          "id": "nevada-3",
+          "headline": "Nevada Lawmakers Weigh Excessive Water and Energy Demands of AI Data Centers; No State Regulations Currently on Books",
+          "source": "Nevada Current",
+          "date": "2026-03-26",
+          "url": "https://nevadacurrent.com/2026/03/26/lawmakers-in-driest-state-weigh-excessive-water-and-energy-needs-of-data-centers-they-court/"
+        },
+        {
+          "id": "nevada-4",
+          "headline": "Nevada Lt. Gov. Stavros Anthony Fined $3,000 for Using Public Resources to Promote AI Task Force",
+          "source": "Las Vegas Review-Journal",
+          "date": "2026-03-26",
+          "url": "https://www.reviewjournal.com/news/politics-and-government/nevada/the-data-center-tsunami-has-flooded-nevada-are-lawmakers-too-late-to-regulate-3729604/"
+        }
+      ]
+    },
+    "New Hampshire": {
+      "news": [
+        {
+          "id": "new-hampshire-0",
+          "headline": "NH HB 1265 Introduced to Impose One-Year Moratorium on Data Center Construction and Study Environmental Impacts",
+          "source": "InDepthNH.org",
+          "date": "2026-02-11",
+          "url": "https://indepthnh.org/2026/01/30/lawmakers-want-to-ban-data-center-construction-for-a-year/"
+        },
+        {
+          "id": "new-hampshire-1",
+          "headline": "NH Senate Passes SB 439 Enabling Local Planning Boards to Regulate Data Center Zoning; Bill Advances to House Committee",
+          "source": "Citizens Count / LegiScan",
+          "date": "2026-01-29",
+          "url": "https://www.citizenscount.org/news/should-new-hampshire-restrict-large-data-centers"
+        },
+        {
+          "id": "new-hampshire-2",
+          "headline": "ALEC Testifies in Support of NH HB 1124, 'Right to Compute' Bill That Would Constitutionally Protect AI and Computational Resources",
+          "source": "American Legislative Exchange Council (ALEC)",
+          "date": "2026-01-29",
+          "url": "https://alec.org/article/jake-morabito-testimony-in-new-hampshire-artificial-intelligence-and-the-right-to-compute/"
+        },
+        {
+          "id": "new-hampshire-3",
+          "headline": "NH HB 1724 Introduced to Require Public Utilities to Report Transmission Costs and Data Center-Related Grid Risks Annually",
+          "source": "LegiScan / New Hampshire Legislature",
+          "date": "2026-02-05",
+          "url": "https://legiscan.com/NH/text/HB1724/2026"
+        },
+        {
+          "id": "new-hampshire-4",
+          "headline": "New Hampshire Among 12 States with Active Data Center Moratorium Bills as SB 439 Moves to House Municipal Committee Hearing",
+          "source": "Good Jobs First / Stateline",
+          "date": "2026-03-06",
+          "url": "https://stateline.org/2026/03/06/temporarily-banning-data-centers-draws-more-interest-from-state-local-officials/"
+        }
+      ]
+    },
+    "New Jersey": {
+      "news": [
+        {
+          "id": "new-jersey-0",
+          "headline": "NJ Assembly Approves Bill A796 to Shield Utility Customers from AI Data Center Electricity Costs",
+          "source": "The Local Girl",
+          "date": "2026-03-01",
+          "url": "https://thelocalgirl.com/news/nj-data-center-energy-bill-2026/"
+        },
+        {
+          "id": "new-jersey-1",
+          "headline": "Pemberton Township Becomes First NJ Municipality to Ban Data Centers via Ordinance 10-2026",
+          "source": "Pinelands Alliance",
+          "date": "2026-02-20",
+          "url": "https://pinelandsalliance.org/data-center-victories-local-actions-drive-regional-change/"
+        },
+        {
+          "id": "new-jersey-2",
+          "headline": "NJ Assembly and Senate Committees Unanimously Advance Bill S731/A796 Requiring Large-Load Data Centers (100MW+) to Pay 85% of Infrastructure Costs",
+          "source": "New Jersey Monitor",
+          "date": "2026-02-13",
+          "url": "https://newjerseymonitor.com/2026/02/13/committees-approve-bill-aimed-at-data-centers-power-usage/"
+        },
+        {
+          "id": "new-jersey-3",
+          "headline": "Gov. Sherrill Signs Bill Ending De Facto Moratorium on New Nuclear Plants Amid AI Data Center Energy Demand Surge",
+          "source": "New Jersey Monitor",
+          "date": "2026-04-08",
+          "url": "https://newjerseymonitor.com/2026/04/08/sherrill-new-nuclear-power-plans/"
+        },
+        {
+          "id": "new-jersey-4",
+          "headline": "NJ Senate Environment and Energy Committee Backs Bill S4143/A5564 Forcing AI Data Centers to Source Power Exclusively from New Renewables or Nuclear",
+          "source": "NJ Spotlight News",
+          "date": "2026-03-01",
+          "url": "https://www.njspotlightnews.org/2026/03/nj-senate-panel-backs-bill-forcing-data-centers-to-use-own-clean-power/"
+        }
+      ]
+    },
+    "New Mexico": {
+      "news": [
+        {
+          "id": "new-mexico-0",
+          "headline": "New Mexico AG Raúl Torrez and Rep. Linda Serrato Announce Artificial Intelligence Accountability Act (AI2A) to Regulate Deepfakes and Synthetic Media",
+          "source": "New Mexico Department of Justice / Source New Mexico",
+          "date": "2026-01-15",
+          "url": "https://sourcenm.com/2026/01/15/new-mexico-ag-legislator-preview-bill-regulating-ai-creation-and-use/"
+        },
+        {
+          "id": "new-mexico-1",
+          "headline": "Sen. Jeff Steinborn Introduces Draft Bill to Require PRC Oversight and Clean Energy Compliance for Data Center Microgrids in New Mexico (later introduced as SB 235)",
+          "source": "Source New Mexico",
+          "date": "2026-01-14",
+          "url": "https://sourcenm.com/2026/01/14/nm-lawmaker-proposes-more-oversight-regulations-for-data-center-microgrids/"
+        },
+        {
+          "id": "new-mexico-2",
+          "headline": "Bernalillo County Commissioners Defer Vote on AI Data Center Incentive Framework Amid Water Scarcity and Environmental Concerns",
+          "source": "City Desk ABQ / NM Political Report",
+          "date": "2026-01-28",
+          "url": "https://citydesk.org/2026/01/28/county-presses-pause-on-ai-data-center-incentive/"
+        },
+        {
+          "id": "new-mexico-3",
+          "headline": "New Mexico Senate Conservation Committee Advances SB 235 (Data Center Microgrid Oversight Bill) 6–3 Along Party Lines; Bill Later Passes Senate but Dies in House",
+          "source": "Source New Mexico / Southwest Energy Efficiency Project",
+          "date": "2026-02-10",
+          "url": "https://sourcenm.com/2026/02/10/nm-legislature-day-22-recap-public-safety-microgrid-oversight/"
+        },
+        {
+          "id": "new-mexico-4",
+          "headline": "New Mexico 2026 Legislative Session Ends Without Passing Key Data Center and Climate Bills, Including SB 235 Microgrid Oversight and Clear Horizons (SB 18)",
+          "source": "Southwest Energy Efficiency Project",
+          "date": "2026-03-06",
+          "url": "https://www.swenergy.org/new-mexico-2026-leg-session/"
+        }
+      ]
+    },
+    "New York": {
+      "news": [
+        {
+          "id": "new-york-0",
+          "headline": "NY Gov. Hochul Unveils 'Energize NY Development' Initiative Requiring Data Centers to Pay Their Own Grid Costs",
+          "source": "Axios",
+          "date": "2026-01-12",
+          "url": "https://www.axios.com/2026/01/12/ny-gov-kathy-hochul-data-centers-energy-demand"
+        },
+        {
+          "id": "new-york-1",
+          "headline": "NY Senate Bill S.9144 Introduced: Three-Year Statewide Moratorium on Data Center Permits for Facilities Using 20 MW or More",
+          "source": "Food & Water Watch",
+          "date": "2026-02-06",
+          "url": "https://www.foodandwaterwatch.org/2026/02/06/ny-legislators-introduce-strongest-data-center-moratorium-bill-in-the-country/"
+        },
+        {
+          "id": "new-york-2",
+          "headline": "NY Public Service Commission Opens Formal Proceeding Under Energize NY Development to Reallocate Data Center Grid Upgrade Costs",
+          "source": "CBS6 Albany (WRGB)",
+          "date": "2026-02-12",
+          "url": "https://cbs6albany.com/news/local/gov-hochul-announces-plan-that-ensures-data-centers-help-pay-for-electric-grid-upgrades-psc-energize-ny-development-chair-rory-m-christian-assemblymember-didi-barrett-governor-kathy-cbs6-wrgb"
+        },
+        {
+          "id": "new-york-3",
+          "headline": "Rep. Alexandria Ocasio-Cortez (NY) and Sen. Sanders Unveil Federal 'Artificial Intelligence Data Center Moratorium Act'",
+          "source": "Axios",
+          "date": "2026-03-25",
+          "url": "https://www.axios.com/2026/03/25/sanders-aoc-data-center-moratorium-bill"
+        },
+        {
+          "id": "new-york-4",
+          "headline": "NY Governor Hochul Signs Revised RAISE Act into Law, Creating New AI Oversight Office Within Dept. of Financial Services and Mandating 72-Hour Safety Incident Reporting",
+          "source": "Fisher Phillips LLP",
+          "date": "2026-01-01",
+          "url": "https://www.fisherphillips.com/en/news-insights/new-york-governor-signs-sweeping-ai-safety-law.html"
+        }
+      ]
+    },
+    "North Carolina": {
+      "news": [
+        {
+          "id": "north-carolina-0",
+          "headline": "Chatham County Approves 12-Month Moratorium on Data Centers and Crypto Mining",
+          "source": "WRAL",
+          "date": "2026-02-12",
+          "url": "https://www.wral.com/news/local/chatham-county-approves-12-month-ban-data-centers-crypto-mining-february-2026/"
+        },
+        {
+          "id": "north-carolina-1",
+          "headline": "Stokes County 'Project Delta' Data Center Lawsuit Filed by Community Groups; Apex Town Council Votes Unanimously to Consider One-Year Moratorium",
+          "source": "NC Newsline",
+          "date": "2026-03-16",
+          "url": "https://ncnewsline.com/2026/03/16/apex-weighs-pause-on-data-centers-as-resistance-spreads-across-nc/"
+        },
+        {
+          "id": "north-carolina-2",
+          "headline": "NC Communities Push Back on AI Data Centers: Statewide Convening in Greensboro Calls for Moratorium, as Project Delta Lawsuit Proceeds in Stokes County",
+          "source": "NC Health News",
+          "date": "2026-03-25",
+          "url": "https://www.northcarolinahealthnews.org/2026/03/25/nc-communities-push-back-ai-data-centers-project-delta-lawsuit/"
+        },
+        {
+          "id": "north-carolina-3",
+          "headline": "Gov. Stein Calls on NC Lawmakers to Eliminate Data Center Tax Breaks Worth Up to $2.3B, Citing AI Boom Costs to Ratepayers",
+          "source": "WRAL",
+          "date": "2026-04-09",
+          "url": "https://www.wral.com/news/nccapitol/stein-data-center-tax-break-ai-north-carolina-april-2026/"
+        },
+        {
+          "id": "north-carolina-4",
+          "headline": "Former NC Lt. Gov. Dan Forest Launches NC Blockchain + AI Initiative (NCB+AI) to Advocate for Pro-Crypto Legislation and Data Center Construction",
+          "source": "Government Technology / The News & Observer",
+          "date": "2026-03-13",
+          "url": "https://www.govtech.com/infrastructure/former-nc-lt-gov-forms-group-to-boost-crypto-legislation-data-centers"
+        }
+      ]
+    },
+    "North Dakota": {
+      "news": [
+        {
+          "id": "north-dakota-0",
+          "headline": "Mercer County Commission Votes 3-2 to Impose One-Year Moratorium on AI Data Center Permits Amid NextEra/Basin Electric Transparency Concerns",
+          "source": "InForum / Stanton Today",
+          "date": "2026-03-04",
+          "url": "https://nationaltoday.com/us/nd/stanton-nd/news/2026/03/04/mercer-county-imposes-moratorium-on-new-data-centers/"
+        },
+        {
+          "id": "north-dakota-1",
+          "headline": "Oliver County Commissioners Approve 180-Day Pause on New Data Center Construction After 100+ Residents Pack Public Meeting",
+          "source": "KX News (KXNET)",
+          "date": "2026-03-13",
+          "url": "https://www.kxnet.com/news/top-stories/oliver-county-data-center-moratorium/"
+        },
+        {
+          "id": "north-dakota-2",
+          "headline": "Applied Digital Invests $75 Million in Power Upgrades for North Dakota as PSC Schedules April 2 Fargo Hearing on Agassiz Transmission Line",
+          "source": "North Dakota Monitor",
+          "date": "2026-03-23",
+          "url": "https://northdakotamonitor.com/2026/03/23/data-center-developer-looks-west-backs-power-upgrades-near-fargo/"
+        },
+        {
+          "id": "north-dakota-3",
+          "headline": "Morton County Data Center Model Ordinance Working Group Completes Statewide Draft in January 2026; Planning & Zoning Reviews First Standards at February 25 Meeting",
+          "source": "Morton County, North Dakota (official)",
+          "date": "2026-02-25",
+          "url": "https://www.mortonnd.gov/?SEC=1E3E56EB-551B-4CE1-B5D6-A9165291C20C&Type=B_BASIC"
+        },
+        {
+          "id": "north-dakota-4",
+          "headline": "North Dakota Legislature Confirmed Closed for 2026 Session; No State-Level AI or Data Center Bills Possible Until 2027 Biennial Session",
+          "source": "Troutman Pepper Privacy + Cyber + AI Blog",
+          "date": "2026-02-03",
+          "url": "https://www.troutmanprivacy.com/2026/02/key-takeaways-on-proposed-state-ai-and-privacy-laws-january-2026/"
+        }
+      ]
+    },
+    "Ohio": {
+      "news": [
+        {
+          "id": "ohio-0",
+          "headline": "Ohio H.B. 646 Introduced to Create Bipartisan Data Center Study Commission, Declared Emergency Measure",
+          "source": "OSU Farm Office",
+          "date": "2026-01-15",
+          "url": "https://farmoffice.osu.edu/blog/bill-proposes-data-center-study"
+        },
+        {
+          "id": "ohio-1",
+          "headline": "Ohio H.B. 706 Introduced to Extend AEP Data Center Energy Tariff Statewide, Ban Cost-Shifting to Other Ratepayers",
+          "source": "The Statehouse News Bureau (WOSU/StateNews.org)",
+          "date": "2026-03-02",
+          "url": "https://www.statenews.org/government-politics/2026-03-02/ohio-house-bill-would-extend-data-center-tariff-to-rest-of-state"
+        },
+        {
+          "id": "ohio-2",
+          "headline": "Ohio Senate Democrats Introduce S.B. 378 (Responsible Water Use by Data Centers Act) Requiring Data Centers to Pay Water Infrastructure Costs and Obtain Withdrawal Permits",
+          "source": "Spectrum News 1",
+          "date": "2026-03-18",
+          "url": "https://spectrumnews1.com/oh/columbus/news/2026/03/18/ohio-bill-data-centers-water"
+        },
+        {
+          "id": "ohio-3",
+          "headline": "Ohio AG Dave Yost Certifies Petition for Constitutional Amendment Banning Data Centers Over 25 MW; Ballot Board Clears It as Single Measure",
+          "source": "The Statehouse News Bureau",
+          "date": "2026-03-26",
+          "url": "https://www.statenews.org/government-politics/2026-03-26/proposed-amendment-to-ban-huge-data-centers-in-ohio-can-move-to-next-step"
+        },
+        {
+          "id": "ohio-4",
+          "headline": "Ohio Ballot Board Unanimously Certifies 'Prohibition of Construction of a Data Center' Constitutional Amendment; Petitioners Must Gather 413,488 Signatures by July 1",
+          "source": "Ohio Capital Journal",
+          "date": "2026-04-03",
+          "url": "https://ohiocapitaljournal.com/2026/04/03/data-center-ban-on-the-ohio-ballot-petitioners-get-approval-to-start-gathering-signatures/"
+        }
+      ]
+    },
+    "Oklahoma": {
+      "news": [
+        {
+          "id": "oklahoma-0",
+          "headline": "Oklahoma Sen. Sacchieri (R-Blanchard) Files SB 1488 to Impose 3-Year Moratorium on Data Centers Over 100 MW",
+          "source": "Oklahoma Senate (official press release)",
+          "date": "2026-01-22",
+          "url": "https://www.oksenate.gov/press-releases/senator-sacchieri-files-legislation-address-unknown-impacts-data-centers-oklahoma"
+        },
+        {
+          "id": "oklahoma-1",
+          "headline": "Oklahoma House Advances HB 2992 (Data Center Consumer Ratepayer Protection Act of 2026) by 92–2 Vote",
+          "source": "Oklahoma House of Representatives (official release) / NonDoc",
+          "date": "2026-03-23",
+          "url": "https://www.okhouse.gov/posts/news-20260323_3"
+        },
+        {
+          "id": "oklahoma-2",
+          "headline": "Oklahoma SB 1488 Data Center Moratorium Dies in Committee, Highlighting GOP Divide Over Rapid Data Center Expansion",
+          "source": "Radio Oklahoma News",
+          "date": "2026-02-23",
+          "url": "https://www.radiooklahomanews.com/post/oklahoma-data-center-moratorium-bill"
+        },
+        {
+          "id": "oklahoma-3",
+          "headline": "Oklahoma Lawmakers File Flurry of AI Bills Including HB 3545, HB 3546, and SB 746 Targeting State Agency AI Use, AI Legal Personhood, and Political Ad Disclosure",
+          "source": "The Frontier",
+          "date": "2026-01-27",
+          "url": "https://www.readfrontier.org/stories/oklahoma-lawmakers-file-a-flurry-of-bills-seeking-to-regulate-ai/"
+        },
+        {
+          "id": "oklahoma-4",
+          "headline": "HB 2992 (Data Center Consumer Ratepayer Protection Act) Awaits Oklahoma Senate Vote After House Passage; SB 1300 Also Proposed to Direct OCC to Prioritize Affordable, Reliable Energy for Data Center Growth",
+          "source": "Oklahoma Energy Today",
+          "date": "2026-04-07",
+          "url": "https://www.okenergytoday.com/2026/04/data-center-bill-awaits-state-senate-vote/"
+        }
+      ]
+    },
+    "Oregon": {
+      "news": [
+        {
+          "id": "oregon-0",
+          "headline": "Gov. Kotek Signs SB 1546, Oregon's AI Chatbot Safety Law Imposing Disclosure, Crisis-Intervention, and Private Right of Action Requirements on AI Companion Operators",
+          "source": "Transparency Coalition",
+          "date": "2026-04-01",
+          "url": "https://www.transparencycoalition.ai/news/oregon-lawmakers-pass-major-chatbot-bill-in-significant-win-for-kids-and-ai-safety"
+        },
+        {
+          "id": "oregon-1",
+          "headline": "Oregon Lawmakers Advance One-Year Moratorium on Enterprise Zone Tax Breaks for New Data Centers Under Amendment to HB 4084",
+          "source": "KGW / KTVZ",
+          "date": "2026-03-02",
+          "url": "https://ktvz.com/news/oregon-northwest/2026/03/03/oregon-lawmakers-advance-one-year-moratorium-on-tax-breaks-for-data-centers/"
+        },
+        {
+          "id": "oregon-2",
+          "headline": "Oregon HB 4103 Introduced to Establish 'Senator Aaron Woods Commission on Artificial Intelligence' and Create a State Chief AI Officer Within DAS",
+          "source": "LegiScan / Oregon Legislature",
+          "date": "2026-02-02",
+          "url": "https://legiscan.com/OR/bill/HB4103/2026"
+        },
+        {
+          "id": "oregon-3",
+          "headline": "Gov. Kotek Forms Statewide Data Center Advisory Committee to Develop Policy on Expansion, Energy Grid, and Environmental Impacts",
+          "source": "OPB",
+          "date": "2026-01-20",
+          "url": "https://www.opb.org/article/2026/01/20/oregon-data-center-advisory-committee/"
+        },
+        {
+          "id": "oregon-4",
+          "headline": "Oregon Public Utility Commission Reviews PGE Rate Plan Under the POWER Act, With Decision on Data Center Cost-Sharing Expected by April 2026",
+          "source": "KATU",
+          "date": "2026-01-01",
+          "url": "https://katu.com/news/local/oregon-utility-to-review-pge-plan-over-data-center-cost-concerns-portland-general-electric-pacific-northwest-data-center-utilities-cub-watchdogconsumer-advocacy-group"
+        }
+      ]
+    },
+    "Pennsylvania": {
+      "news": [
+        {
+          "id": "pennsylvania-0",
+          "headline": "Pennsylvania House Passes HB 1834 (Data Center Act) 104-95, Directing PUC to Regulate Data Center Grid Costs and Clean Energy Requirements",
+          "source": "City & State Pennsylvania",
+          "date": "2026-03-25",
+          "url": "https://www.cityandstatepa.com/policy/2026/03/pa-house-lawmakers-approve-data-center-regulation-bill/412346/"
+        },
+        {
+          "id": "pennsylvania-1",
+          "headline": "PA House Energy Committee Advances HB 2150 and HB 2151 — Mandating Annual Water/Energy Reporting and Optional Municipal Zoning Guidance for Data Centers",
+          "source": "City & State Pennsylvania",
+          "date": "2026-03-02",
+          "url": "https://www.cityandstatepa.com/policy/2026/03/pa-house-committee-advances-data-center-bills/411812/"
+        },
+        {
+          "id": "pennsylvania-2",
+          "headline": "Sen. Katie Muth Circulates Co-Sponsorship Memo for Three-Year Statewide Moratorium on Hyperscale Data Center Development in Pennsylvania",
+          "source": "Pennsylvania State Senate (palegis.us)",
+          "date": "2026-02-12",
+          "url": "https://www.palegis.us/senate/co-sponsorship/memo?memoID=48102"
+        },
+        {
+          "id": "pennsylvania-3",
+          "headline": "Gov. Shapiro's February 2026 Budget Address Calls for Selective Data Center Development; FY2027 Proposal Includes AI Consumer Protections and UPenn AI Partnership",
+          "source": "Duane Morris Government Strategies (statecapitallobbyist.com)",
+          "date": "2026-03-09",
+          "url": "https://statecapitallobbyist.com/artificial-intelligence-ai/pennsylvania-ai-data-center-legislation-in-2026-what-companies-need-to-know/"
+        },
+        {
+          "id": "pennsylvania-4",
+          "headline": "Pennsylvania Battle Over Data Centers Intensifies: Sen. Brown's 'Residents First' Package, Bipartisan Moratorium Push, and $100B in AI Investment Collide",
+          "source": "City & State Pennsylvania",
+          "date": "2026-04-01",
+          "url": "https://www.cityandstatepa.com/policy/2026/04/power-plays-battle-over-data-centers-pa/412554/"
+        }
+      ]
+    },
+    "Rhode Island": {
+      "news": [
+        {
+          "id": "rhode-island-0",
+          "headline": "Rhode Island AI Task Force Releases State Roadmap for Artificial Intelligence; Boundaries Still to Be Drawn",
+          "source": "Rhode Island Current",
+          "date": "2026-01-28",
+          "url": "https://rhodeislandcurrent.com/2026/01/28/rhode-island-releases-its-roadmap-for-ai-some-boundaries-have-yet-to-be-drawn/"
+        },
+        {
+          "id": "rhode-island-1",
+          "headline": "RI H7119 (Artificial Intelligence Accountability Act) Introduced: Would Require State Agency AI Inventory and Create 13-Member Permanent AI Commission",
+          "source": "LegiScan / Rhode Island General Assembly",
+          "date": "2026-01-15",
+          "url": "https://legiscan.com/RI/bill/H7119/2026?guid=5BLhIWsi0bccgn2QSPmcUm"
+        },
+        {
+          "id": "rhode-island-2",
+          "headline": "RI Bill 2026-H 7331 (Kennedy) Would Require Public Utilities Commission to Shield Ratepayers from Data Center Energy Cost Increases",
+          "source": "Providence Business News / ON Worldwide",
+          "date": "2026-02-13",
+          "url": "https://www.onworldwide.com/index.php/news-articles-archives/5971-kennedy-bill-would-regulate-burgeoning-data-center-industry-in-rhode-island"
+        },
+        {
+          "id": "rhode-island-3",
+          "headline": "RI H7543 Introduced: Requires AI-Generated Video and Photography Posted on Public Platforms to Carry Disclosure Markings",
+          "source": "Rhode Island General Assembly / LegiScan",
+          "date": "2026-02-06",
+          "url": "https://legiscan.com/RI/text/H7543/id/3351693"
+        },
+        {
+          "id": "rhode-island-4",
+          "headline": "RI S0627 (High-Risk AI Systems Act) Advances in Senate: Attorney General Enforcement of Algorithmic Discrimination Rules; ACLU Pushes for Private Right of Action",
+          "source": "BillTrack50 / Privacy Daily",
+          "date": "2026-01-01",
+          "url": "https://www.billtrack50.com/billdetail/1856834"
+        }
+      ]
+    },
+    "South Carolina": {
+      "news": [
+        {
+          "id": "south-carolina-0",
+          "headline": "South Carolina S. 867 (Data Center Development Act) Introduced by Senate Commerce Chairman Tom Davis, Creating New State Permitting Office and Ratepayer Protections",
+          "source": "South Carolina State Legislature / LegiScan",
+          "date": "2026-01-29",
+          "url": "https://legiscan.com/SC/bill/S0867/2025"
+        },
+        {
+          "id": "south-carolina-1",
+          "headline": "South Carolina H. 4583 (Data Center Responsibility Act) Introduced in House, Imposing Environmental Liability and On-Site Staffing Requirements on Data Centers",
+          "source": "South Carolina State Legislature",
+          "date": "2026-01-13",
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4583.htm"
+        },
+        {
+          "id": "south-carolina-2",
+          "headline": "South Carolina H. 5286 (Data Center Moratorium Bill) Filed to Block All State, County, and Municipal Data Center Approvals Until January 1, 2028",
+          "source": "WIS-TV / Fox Carolina / WRDW",
+          "date": "2026-02-26",
+          "url": "https://www.wistv.com/2026/03/05/sc-lawmakers-submit-resolution-temporarily-halt-data-center-projects/"
+        },
+        {
+          "id": "south-carolina-3",
+          "headline": "South Carolina Lawmakers Weigh Data Center Development Act (S. 867) Amid Ratepayer and Water Use Concerns; Industry Warns of Investment Flight Risk",
+          "source": "WLTX",
+          "date": "2026-02-22",
+          "url": "https://www.wltx.com/article/news/politics/south-carolina-data-center-regulation-committee-discussions/101-63df83f2-8b01-4a3d-8e2b-5241b63ec3a9"
+        },
+        {
+          "id": "south-carolina-4",
+          "headline": "Gubernatorial Candidate Nancy Mace Calls for Legislation Requiring South Carolina Data Centers to Bear Full Energy Infrastructure Costs, Citing Florida SB 484 as Model",
+          "source": "FITSNews",
+          "date": "2026-04-09",
+          "url": "https://www.fitsnews.com/2026/04/09/nancy-mace-data-centers-must-pay-their-own-way/"
+        }
+      ]
+    },
+    "South Dakota": {
+      "news": [
+        {
+          "id": "south-dakota-0",
+          "headline": "South Dakota SB 135 ('Data Center Bill of Rights for Citizens') passes House 60-7, heads back to Senate for amendment concurrence",
+          "source": "South Dakota Searchlight",
+          "date": "2026-03-05",
+          "url": "https://southdakotasearchlight.com/2026/03/05/data-center-regulation-bill-passes-south-dakota-house/"
+        },
+        {
+          "id": "south-dakota-1",
+          "headline": "Gov. Larry Rhoden signs SB 135 and HB 1038 into law, imposing water/electricity cost requirements on data centers ≥10 MW and barring state override of local data center ordinances",
+          "source": "KOTA TV / South Dakota Searchlight",
+          "date": "2026-03-25",
+          "url": "https://www.kotatv.com/2026/03/25/data-center-restrictions-signed-into-south-dakota-law-after-push-incentives-failed/"
+        },
+        {
+          "id": "south-dakota-2",
+          "headline": "South Dakota SB 232 and HB 1301 — one-year moratorium bills on hyperscale data center construction — considered but rejected by legislature in favor of SB 135",
+          "source": "MultiState",
+          "date": "2026-03-13",
+          "url": "https://www.multistate.us/insider/2026/3/13/local-data-center-regulations-gain-ground-as-state-bills-falter"
+        },
+        {
+          "id": "south-dakota-3",
+          "headline": "50-year data center sales tax exemption bill killed 9-3 by House State Affairs Committee; Applied Digital's $5B, 430-MW Deuel County campus stalls without incentives",
+          "source": "South Dakota Searchlight",
+          "date": "2026-02-04",
+          "url": "https://southdakotasearchlight.com/2026/02/04/data-center-tax-break-proposal-fails-in-south-dakota-legislative-committee/"
+        },
+        {
+          "id": "south-dakota-4",
+          "headline": "Standing Rock Sioux Tribe and Honor the Earth call for data center moratorium on tribal lands; tribe holds public hearing on treaty-territory data center concerns",
+          "source": "Buffalo Today / National Today",
+          "date": "2026-04-03",
+          "url": "https://nationaltoday.com/us/sd/buffalo-sd/news/2026/04/03/south-dakota-passes-data-center-bills-tribes-raise-concerns/"
+        }
+      ]
+    },
+    "Tennessee": {
+      "news": [
+        {
+          "id": "tennessee-0",
+          "headline": "Gov. Bill Lee Proposes $50 Million for AI Infrastructure in FY2026-27 State Budget at Final State of the State Address",
+          "source": "Tennessee Lookout / Tennessee Governor's Office",
+          "date": "2026-02-02",
+          "url": "https://tennesseelookout.com/2026/02/02/in-final-state-of-the-statetennessee-gov-bill-lee-pushes-to-double-private-school-vouchers/"
+        },
+        {
+          "id": "tennessee-1",
+          "headline": "Tennessee Gov. Bill Lee Signs SB 1580 Into Law, Banning AI Systems From Being Marketed as Qualified Mental Health Professionals (Effective July 1, 2026)",
+          "source": "Changeflow / Troutman Pepper Privacy + Cyber + AI",
+          "date": "2026-04-01",
+          "url": "https://changeflow.com/govping/healthcare/tennessee-bans-ai-as-mental-health-professional-private-righ-2026-04-03"
+        },
+        {
+          "id": "tennessee-2",
+          "headline": "Tennessee HB 1847/SB 2128 Would Let Data Centers Self-Generate Power to Shield Consumers From Rate Hikes, Drawing Criticism Over xAI Pollution Precedent",
+          "source": "WPLN News",
+          "date": "2026-04-05",
+          "url": "https://wpln.org/post/elon-musks-xai-pollution-and-data-centers-what-you-need-to-know-about-a-tennessee-bill/"
+        },
+        {
+          "id": "tennessee-3",
+          "headline": "Tennessee SB 2171/HB 1898 (AI Public Safety and Child Protection Transparency Act) Advances Through Senate Judiciary Committee, Draws NetChoice Opposition",
+          "source": "Hoodline / NetChoice",
+          "date": "2026-03-24",
+          "url": "https://hoodline.com/2026/03/tennessee-lawmakers-go-after-big-ai-to-shield-kids/"
+        },
+        {
+          "id": "tennessee-4",
+          "headline": "Tennessee SB 1493 Would Create Class A Felony for Training AI Chatbots to Form Emotional Relationships or Simulate Humans, Effective July 1, 2026",
+          "source": "National Law Review",
+          "date": "2026-02-11",
+          "url": "https://natlawreview.com/article/tennessees-ai-bill-would-criminalize-training-ai-cha"
+        }
+      ]
+    },
+    "Texas": {
+      "news": [
+        {
+          "id": "texas-0",
+          "headline": "Texas TRAIGA (H.B. 149) Takes Effect, Imposing AI Governance Obligations on Developers and Deployers Operating in Texas",
+          "source": "Holland & Knight",
+          "date": "2026-02-23",
+          "url": "https://www.hklaw.com/en/insights/publications/2026/02/privacy-and-cybersecurity-legislation-in-texas"
+        },
+        {
+          "id": "texas-1",
+          "headline": "Hood County Rejects Data Center Moratorium After State Sen. Bettencourt Letter to AG Paxton Citing H.B. 2559, Threatens Legal Action",
+          "source": "The Texas Tribune",
+          "date": "2026-02-10",
+          "url": "https://www.texastribune.org/2026/02/10/texas-hood-county-rejects-data-center-development-pause-ai/"
+        },
+        {
+          "id": "texas-2",
+          "headline": "Hood County Weighs Second Data Center Moratorium, Considers Requesting AG Opinion and Special Legislative Session on H.B. 2559 Authority",
+          "source": "KERA News",
+          "date": "2026-02-24",
+          "url": "https://www.keranews.org/energy-environment/2026-02-24/hood-county-to-consider-another-data-center-moratorium-despite-potential-legal-concerns"
+        },
+        {
+          "id": "texas-3",
+          "headline": "Texas Data Center Sales Tax Exemption to Cost State $3.2 Billion Over Two Years as AI Boom Drives Explosive Growth",
+          "source": "The Texas Tribune",
+          "date": "2026-04-08",
+          "url": "https://www.texastribune.org/2026/04/08/texas-data-centers-sales-tax-break-billion-dollars/"
+        },
+        {
+          "id": "texas-4",
+          "headline": "Texas Among States Where Counties Debate Data Center Moratoriums as At Least 12 States File Moratorium Bills in 2026 Session",
+          "source": "Good Jobs First",
+          "date": "2026-03-10",
+          "url": "https://goodjobsfirst.org/data-center-moratorium-bills-are-spreading-in-2026/"
+        }
+      ]
+    },
+    "Utah": {
+      "news": [
+        {
+          "id": "utah-0",
+          "headline": "White House Sends Memo Declaring Utah HB 286 (AI Transparency Act) 'Unfixable,' Pressures GOP Lawmakers to Kill Bill",
+          "source": "Axios",
+          "date": "2026-02-15",
+          "url": "https://www.axios.com/2026/02/15/white-house-utah-ai-transparency-bill"
+        },
+        {
+          "id": "utah-1",
+          "headline": "Utah HB 286 (Artificial Intelligence Transparency Act) Stalls After White House Opposition; House Speaker Says Bill Will Not Receive Floor Vote",
+          "source": "Utah Public Radio (UPR)",
+          "date": "2026-03-18",
+          "url": "https://www.upr.org/politics/2026-03-18/utah-ai-regulation-bill-stalled-after-opposition-from-the-white-house"
+        },
+        {
+          "id": "utah-2",
+          "headline": "Gov. Spencer Cox Signs Utah HB 276, the Digital Content Provenance Standards Act, Requiring AI-Generated Content Labeling",
+          "source": "Troutman Pepper Privacy + Cyber + AI Blog",
+          "date": "2026-04-06",
+          "url": "https://www.troutmanprivacy.com/2026/04/analyzing-utah-and-washingtons-new-ai-provenance-laws/"
+        },
+        {
+          "id": "utah-3",
+          "headline": "Utah HB 76 Enacted: Requires Large Data Centers to Report Water Use to State Regulators, Effective July 1, 2026",
+          "source": "Utah State Legislature (Enrolled Bill)",
+          "date": "2026-03-01",
+          "url": "https://le.utah.gov/Session/2026/bills/enrolled/HB0076.xml"
+        },
+        {
+          "id": "utah-4",
+          "headline": "Utah Rep. Mike Kennedy Pitches Utah AI Policy Lab 'Sandbox' Model to Trump Administration as Blueprint for Federal AI Framework",
+          "source": "Deseret News",
+          "date": "2026-04-08",
+          "url": "https://www.deseret.com/politics/2026/04/08/trump-artificial-intelligence-federal-framework-stalls-in-congress-as-utah-lawmakers-look-for-bipartisan-solution-modeled-on-utah-ai-policy-lab/"
+        }
+      ]
+    },
+    "Vermont": {
+      "news": [
+        {
+          "id": "vermont-0",
+          "headline": "Vermont S.205 Introduced: Senate Bill Proposes Moratorium on AI Data Centers (>100 MW) Until July 1, 2030, Directs Public Utility Commission to Study Impacts",
+          "source": "Vermont Legislature / VTDigger",
+          "date": "2026-01-06",
+          "url": "https://legislature.vermont.gov/bill/status/2026/S.205"
+        },
+        {
+          "id": "vermont-1",
+          "headline": "Vermont H.727 (Sustainable Data Centers Act) Introduced, Targeting Facilities Requiring 20 MW or More; Unanimously Passes Out of House Energy and Digital Infrastructure Committee",
+          "source": "Vermont Natural Resources Council / Vermont Business Magazine",
+          "date": "2026-01-21",
+          "url": "https://vnrc.org/legislative-update-crossover-edition/"
+        },
+        {
+          "id": "vermont-2",
+          "headline": "Vermont Plugs Into the Data Center Conversation: Legislature Weighs S.205 Moratorium and H.727 Siting Rules as Developers Begin 'Kicking Tires' in State",
+          "source": "VTDigger",
+          "date": "2026-02-24",
+          "url": "https://vtdigger.org/2026/02/24/vermont-plugs-into-the-data-center-conversation/"
+        },
+        {
+          "id": "vermont-3",
+          "headline": "Vermont S.205 Senate Finance Committee Hearing: Sponsor Sen. Becca White (D-Windsor) Warns of Federal Backlash Under Trump's December 2025 AI Executive Order if Bill Passes",
+          "source": "Vermont Community News Service (UVM)",
+          "date": "2026-03-03",
+          "url": "https://vtcommunitynews.org/2026/03/03/ai-data-center-construction-could-be-prohibited-until-2030/"
+        },
+        {
+          "id": "vermont-4",
+          "headline": "Vermont Sen. Bernie Sanders and Rep. Alexandria Ocasio-Cortez Introduce Federal Companion Legislation to Impose National Moratorium on AI Data Center Construction",
+          "source": "Al Jazeera",
+          "date": "2026-03-26",
+          "url": "https://www.aljazeera.com/economy/2026/3/26/us-lawmakers-push-for-pause-in-data-centres-until-ai-safeguards-in-place"
+        }
+      ]
+    },
+    "Virginia": {
+      "news": [
+        {
+          "id": "virginia-0",
+          "headline": "Virginia Lawmakers Propose Bevy of Data Center Reform Bills, Including HB1515 Moratorium and HB503 Ratepayer Protection",
+          "source": "VPM News",
+          "date": "2026-01-16",
+          "url": "https://www.vpm.org/generalassembly/2026-01-16/2026-data-center-bills-thomas-hb155-mcauliff-hb503-pjm-dominion-energy"
+        },
+        {
+          "id": "virginia-1",
+          "headline": "Virginia General Assembly Considers 61 Data Center Bills; HB1515 Moratorium Killed, 15 Bills Sent to Gov. Spanberger's Desk by March 14 Adjournment",
+          "source": "Data Center Dynamics",
+          "date": "2026-03-11",
+          "url": "https://www.datacenterdynamics.com/en/news/more-than-60-data-center-related-bills-to-be-considered-by-virginias-legislature-this-year/"
+        },
+        {
+          "id": "virginia-2",
+          "headline": "Most Virginia AI Bills Tabled Until 2027 Amid Trump Federal Preemption Concerns; K-12 AI Guidance Bill (Sen. Pekarsky) Still Alive",
+          "source": "VPM News",
+          "date": "2026-02-24",
+          "url": "https://www.vpm.org/generalassembly/2026-02-23/virginia-ai-bills-hayes-maldonado-salim-trump-spanberger"
+        },
+        {
+          "id": "virginia-3",
+          "headline": "Virginia's $1.6B Data Center Sales Tax Exemption Triggers Budget Standoff; Senate Seeks Sunset by 2027, House Ties Exemption to Environmental Compliance, Special Session Set for April 23",
+          "source": "MultiState",
+          "date": "2026-03-30",
+          "url": "https://www.multistate.us/insider/2026/3/30/virginia-lawmakers-pass-15-data-center-bills-as-tax-exemption-fight-looms"
+        },
+        {
+          "id": "virginia-4",
+          "headline": "Four Data Center Bills Including SB553 (Water Reporting) and HB507 (Tier IV Generator Permits) Await Gov. Spanberger's Signature Amid Southwest Virginia Expansion Debate",
+          "source": "WSLS / Roanoke",
+          "date": "2026-03-20",
+          "url": "https://www.wsls.com/news/local/2026/03/20/four-data-center-bills-await-governors-signature-as-southwest-virginia-projects-spark-debate/"
+        }
+      ]
+    },
+    "Washington": {
+      "news": [
+        {
+          "id": "washington-0",
+          "headline": "Washington State HB 2515 ('Addressing Emerging Large Energy Use Facilities') Passes House 51-41 But Dies in Senate",
+          "source": "Davis Wright Tremaine / Washington State Standard",
+          "date": "2026-03-18",
+          "url": "https://www.dwt.com/blogs/energy--environmental-law-blog/2026/03/washington-legislature-delays-data-center-bill"
+        },
+        {
+          "id": "washington-1",
+          "headline": "Washington Gov. Ferguson Signs HB 2225 Regulating AI Companion Chatbots, Creating Private Right of Action",
+          "source": "Hunton Andrews Kurth Privacy & Cybersecurity Law Blog",
+          "date": "2026-03-24",
+          "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/washington-state-enacts-law-regulating-ai-companion-chatbots-with-private-right-of-action"
+        },
+        {
+          "id": "washington-2",
+          "headline": "Washington Gov. Ferguson Signs HB 1170 Requiring AI-Content Watermarks and Metadata Disclosure to Combat Misinformation",
+          "source": "KUOW",
+          "date": "2026-03-24",
+          "url": "https://www.kuow.org/stories/washington-passes-new-ai-laws-to-crack-down-on-misinformation-protect-minors"
+        },
+        {
+          "id": "washington-3",
+          "headline": "Washington Legislature Passes SB 5982 Holding Data Centers to Same Clean Energy Deadlines as Utilities; Governor Expected to Sign",
+          "source": "E&E News by POLITICO",
+          "date": "2026-04-07",
+          "url": "https://www.eenews.net/articles/washington-state-to-end-some-data-center-tax-incentives/"
+        },
+        {
+          "id": "washington-4",
+          "headline": "Sanders and Ocasio-Cortez Introduce AI Data Center Moratorium Act (S.4214) in Washington DC, Calling for Federal Pause on New Construction",
+          "source": "Roll Call",
+          "date": "2026-03-25",
+          "url": "https://rollcall.com/2026/03/25/data-center-moratorium-pitched-as-counter-to-ai-impacts/"
+        }
+      ]
+    },
+    "West Virginia": {
+      "news": [
+        {
+          "id": "west-virginia-0",
+          "headline": "WV Senate Passes HB 4983 Requiring Developers to Study Potential Water Use for Data Centers",
+          "source": "West Virginia Watch",
+          "date": "2026-03-11",
+          "url": "https://westvirginiawatch.com/2026/03/11/wv-senate-passes-data-center-rules-with-new-language-urging-developers-to-study-potential-water-use/"
+        },
+        {
+          "id": "west-virginia-1",
+          "headline": "HB 4013 (Mountaineer Flexible Tax Credit Act of 2026) Draws Public Outcry Over Data Center Tax Breaks",
+          "source": "Government Technology / Charleston Gazette-Mail",
+          "date": "2026-01-29",
+          "url": "https://www.govtech.com/security/public-outcry-surrounds-west-virginia-data-center-tax-break-bill"
+        },
+        {
+          "id": "west-virginia-2",
+          "headline": "West Virginia Lawmakers Repeatedly Block SB 658 and Local-Control Amendments for Data Centers, Including 87-6 House Vote Against Groundwater Protections",
+          "source": "Mountain State Spotlight",
+          "date": "2026-02-25",
+          "url": "https://mountainstatespotlight.org/2026/02/26/lawmakers-repeatedly-block-efforts-to-return-data-centers-control-to-local-communities/"
+        },
+        {
+          "id": "west-virginia-3",
+          "headline": "Gov. Morrisey Signs H.B. 5381, Tripling WV Electricity Generation Capacity to 50 GW by 2050 to Power Data Center Boom",
+          "source": "E&E News by POLITICO",
+          "date": "2026-04-10",
+          "url": "https://www.eenews.net/articles/west-virginia-embraces-the-data-center-boom/"
+        },
+        {
+          "id": "west-virginia-4",
+          "headline": "HB 4983 Passes WV Legislature, Keeping High-Impact Data Center Applications Confidential; House Speaker Conflict-of-Interest Controversy Emerges",
+          "source": "Charleston Gazette-Mail",
+          "date": "2026-03-21",
+          "url": "https://www.wvgazettemail.com/news/legislative_session/more-local-control-loss-conflict-of-interest-concerns-loom-in-wv-data-center-fight/article_43cef44e-734e-4c73-8de1-68760c770f0c.html"
+        }
+      ]
+    },
+    "Wisconsin": {
+      "news": [
+        {
+          "id": "wisconsin-0",
+          "headline": "Wisconsin Assembly Passes AB 840 to Regulate AI Data Centers 53-44 Along Party Lines",
+          "source": "WSAW / Wisconsin Public Radio",
+          "date": "2026-01-21",
+          "url": "https://www.wsaw.com/2026/01/21/wisconsin-assembly-passes-bill-regulate-ai-data-centers/"
+        },
+        {
+          "id": "wisconsin-1",
+          "headline": "Democratic Lawmakers Propose Data Center Construction Moratorium (SB 1061) at Statewide Day of Action",
+          "source": "Wisconsin Examiner",
+          "date": "2026-02-12",
+          "url": "https://wisconsinexaminer.com/2026/02/12/democratic-lawmakers-propose-data-center-moratorium/"
+        },
+        {
+          "id": "wisconsin-2",
+          "headline": "Wisconsin Senate Committee Holds Hearing on Data Center Bills AB 840 / SB 843 and SB 969 / AB 1036 (NDA Ban)",
+          "source": "Wisconsin Economic Development Association / Wisconsin Public Radio",
+          "date": "2026-02-17",
+          "url": "https://www.wpr.org/news/new-bill-ban-nondisclosure-agreements-wisconsin-data-centers-nda"
+        },
+        {
+          "id": "wisconsin-3",
+          "headline": "Republicans Split on AI Data Center Regulation as GOP and Democratic Bills Stall in Wisconsin Legislature",
+          "source": "The Daily Cardinal",
+          "date": "2026-03-07",
+          "url": "https://www.dailycardinal.com/article/2026/03/republicans-split-on-ai-data-center-regulation"
+        },
+        {
+          "id": "wisconsin-4",
+          "headline": "Port Washington, Wisconsin Voters Pass Nation's First Anti-Data Center Referendum ~2-to-1",
+          "source": "Common Dreams / Planetizen",
+          "date": "2026-04-08",
+          "url": "https://www.commondreams.org/news/wisconsin-data-center-referendum"
+        }
+      ]
+    },
+    "Wyoming": {
+      "news": [
+        {
+          "id": "wyoming-0",
+          "headline": "Laramie County Commissioners Unanimously Approve Crusoe's 'Project Jade' — 1.8 GW AI Data Center Campus Scalable to 10 GW Near Cheyenne",
+          "source": "Inside Climate News",
+          "date": "2026-01-14",
+          "url": "https://insideclimatenews.org/news/14012026/wyoming-county-approves-ai-data-center/"
+        },
+        {
+          "id": "wyoming-1",
+          "headline": "Wyoming HB0102 ('Protecting Kids from Deepfakes and Exploitative Images') Signed Into Law, Establishing AI Criminal Liability Statutes (Wy. Code § 6-1-206; § 6-4-303; § 6-4-308)",
+          "source": "LegiScan / Orrick AI Law Center",
+          "date": "2026-03-07",
+          "url": "https://legiscan.com/WY/bill/HB0102/2026"
+        },
+        {
+          "id": "wyoming-2",
+          "headline": "Wyoming Legislature Debates Data Center Moratorium Proposal as State Has Yet to Enact Environmental Tracking Laws for AI Centers",
+          "source": "Wyoming News (wyomingnews.com)",
+          "date": "2026-02-07",
+          "url": "https://www.wyomingnews.com/opinion/guest_column/lenhart-data-centers-are-a-rare-opportunity-for-wyoming/article_fe9b84f4-0171-45c3-9041-36b944296b81.html"
+        },
+        {
+          "id": "wyoming-3",
+          "headline": "Wyoming Pitches Itself to Data Center Developers at Closed-Door Jackson Summit, with CoreWeave, Crusoe, and TerraPower Among Attendees",
+          "source": "Cowboy State Daily",
+          "date": "2026-03-30",
+          "url": "https://cowboystatedaily.com/2026/03/30/wyoming-chases-ai-data-center-boom-during-closed-door-jackson-summit/"
+        },
+        {
+          "id": "wyoming-4",
+          "headline": "Data Center Boom Drives Cheyenne Annexation Push as Meta's 'Project Cosmo' and Related Digital's $1.2B Campus Reshape Southeast Wyoming",
+          "source": "Cowboy State Daily",
+          "date": "2026-04-03",
+          "url": "https://cowboystatedaily.com/2026/04/03/data-center-boom-powers-cheyennes-push-for-annexation/"
+        }
+      ]
+    }
+  }
+}

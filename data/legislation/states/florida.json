@@ -1,0 +1,236 @@
+{
+  "state": "Florida",
+  "stateCode": "FL",
+  "region": "na",
+  "stance": "review",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "Florida has 12 bills tracked in 2025–2026.",
+  "legislation": [
+    {
+      "id": "fl-h1007",
+      "billCode": "H1007",
+      "title": "Data Centers",
+      "summary": "Prohibits agency from entering into nondisclosure agreement or other contract that restricts agency from disclosing certain information to public; specifies that local governments maintain authority to exercise power & responsibility over comprehensive planning & land developm...",
+      "stage": "Committee",
+      "impactTags": [
+        "grid-capacity",
+        "energy-rates",
+        "nda-transparency"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-05",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.flsenate.gov/Session/Bill/2026/1007",
+      "legiscanUrl": "https://legiscan.com/FL/bill/H1007/2026",
+      "legiscanId": 2065319,
+      "sponsors": [
+        "Commerce Committee",
+        "State Affairs Committee",
+        "Philip Griffitts"
+      ]
+    },
+    {
+      "id": "fl-h0527",
+      "billCode": "H0527",
+      "title": "Mandatory Human Reviews of Insurance Claim Denials",
+      "summary": "Authorizes workers' compensation carriers, insurers &HMOs to use artificial intelligence systems & machine learning systems to assist in processing claims; prohibits use of artificial intelligence or machine learning systems as sole basis for determining whether to reduce clai...",
+      "stage": "Dead",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-13",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.flsenate.gov/Session/Bill/2026/527",
+      "legiscanUrl": "https://legiscan.com/FL/bill/H0527/2026",
+      "legiscanId": 2053802,
+      "sponsors": [
+        "Commerce Committee",
+        "Insurance & Banking Subcommittee",
+        "Hillary Cassel",
+        "Nan Cobb"
+      ]
+    },
+    {
+      "id": "fl-h0875",
+      "billCode": "H0875",
+      "title": "Eyewitness Identification",
+      "summary": "Revises eyewitness identification procedures; requires documentation of eyewitness's description of possible perpetrator of crime; requires officers to have evidence-based reason to include person in lineup; limits use of facial recognition technology in certain circumstances;...",
+      "stage": "Dead",
+      "impactTags": [],
+      "category": "ai-criminal-justice",
+      "updatedDate": "2026-03-13",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.flsenate.gov/Session/Bill/2026/875",
+      "legiscanUrl": "https://legiscan.com/FL/bill/H0875/2026",
+      "legiscanId": 2060830,
+      "sponsors": [
+        "Traci Koster"
+      ]
+    },
+    {
+      "id": "fl-s1202",
+      "billCode": "S1202",
+      "title": "Eyewitness Identification",
+      "summary": "Revising eyewitness identification procedures; requiring a law enforcement officer to record, as completely as possible, an eyewitness's description of the possible perpetrator of a crime and include the description in the offense report; providing that if facial recognition t...",
+      "stage": "Dead",
+      "impactTags": [],
+      "category": "ai-criminal-justice",
+      "updatedDate": "2026-03-13",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.flsenate.gov/Session/Bill/2026/1202",
+      "legiscanUrl": "https://legiscan.com/FL/bill/S1202/2026",
+      "legiscanId": 2066047,
+      "sponsors": [
+        "Keith Truenow"
+      ]
+    },
+    {
+      "id": "fl-s0480",
+      "billCode": "S0480",
+      "title": "Information Technology",
+      "summary": "Providing for a type two transfer of the duties and functions of the Florida Digital Service from the Department of Management Services to the Division of Integrated Government Innovation and Technology; creating the Division of Integrated Government Innovation and Technology ...",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-12",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.flsenate.gov/Session/Bill/2026/480",
+      "legiscanUrl": "https://legiscan.com/FL/bill/S0480/2026",
+      "legiscanId": 2071921,
+      "sponsors": [
+        "Appropriations",
+        "Appropriations Committee on Agriculture, Environment, and General Government",
+        "Gayle Harrell"
+      ]
+    },
+    {
+      "id": "fl-s0484",
+      "billCode": "S0484",
+      "title": "Data Centers",
+      "summary": "Specifying that local governments maintain authority to exercise power and responsibility over comprehensive planning and land development regulations relating to large load customers; requiring public utilities to provide certain minimum tariff and service requirements for la...",
+      "stage": "Floor",
+      "impactTags": [
+        "grid-capacity",
+        "energy-rates"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-13",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.flsenate.gov/Session/Bill/2026/484",
+      "legiscanUrl": "https://legiscan.com/FL/bill/S0484/2026",
+      "legiscanId": 2070066,
+      "sponsors": [
+        "Rules",
+        "Community Affairs",
+        "Bryan Avila",
+        "Clay Yarborough"
+      ]
+    },
+    {
+      "id": "fl-h1517",
+      "billCode": "H1517",
+      "title": "Approval of Data Center Facilities",
+      "summary": "Requires applications for approval of data center facilities to include specified disclosures; requires existing data centers to disclose specified information; requires DEP to make such information publicly available on its website; provides penalty; prohibits certain tax cre...",
+      "stage": "Dead",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-13",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.flsenate.gov/Session/Bill/2026/1517",
+      "legiscanUrl": "https://legiscan.com/FL/bill/H1517/2026",
+      "legiscanId": 2069957,
+      "sponsors": [
+        "Dotie Joseph"
+      ]
+    },
+    {
+      "id": "fl-s1118",
+      "billCode": "S1118",
+      "title": "Public Records/Data Centers",
+      "summary": "Providing an exemption from public records requirements for information relating to the plans, intentions, or interest of a person to locate a data center; providing for future legislative review and repeal of the exemption; providing a statement of public necessity, etc.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-09",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.flsenate.gov/Session/Bill/2026/1118",
+      "legiscanUrl": "https://legiscan.com/FL/bill/S1118/2026",
+      "legiscanId": 2070122,
+      "sponsors": [
+        "Community Affairs",
+        "Bryan Avila"
+      ]
+    },
+    {
+      "id": "fl-s2500",
+      "billCode": "S2500",
+      "title": "Appropriations",
+      "summary": "Providing moneys for the annual period beginning July 1, 2026, and ending June 30, 2027, and supplemental appropriations for the period ending June 30, 2026, to pay salaries, and other expenses, capital outlay - buildings, and other improvements, and for other specified purpos...",
+      "stage": "Filed",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-18",
+      "sourceUrl": "https://www.flsenate.gov/Session/Bill/2026/2500",
+      "legiscanUrl": "https://legiscan.com/FL/bill/S2500/2026",
+      "legiscanId": 2117014,
+      "sponsors": [
+        "Appropriations"
+      ]
+    },
+    {
+      "id": "fl-h5001",
+      "billCode": "H5001",
+      "title": "General Appropriations Act",
+      "summary": "Provides moneys for annual period beginning July 1, 2026, & ending June 30, 2027, & supplemental appropriations for period ending June 30, 2026, to pay salaries & other expenses, capital outlay--buildings & other improvements, & for other specified purposes of various agencies...",
+      "stage": "Dead",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-13",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.flsenate.gov/Session/Bill/2026/5001",
+      "legiscanUrl": "https://legiscan.com/FL/bill/H5001/2026",
+      "legiscanId": 2117701,
+      "sponsors": [
+        "House Budget Committee",
+        "Lawrence McClure"
+      ]
+    },
+    {
+      "id": "fl-s2516",
+      "billCode": "S2516",
+      "title": "Higher Education",
+      "summary": "Establishing the Florida Center for Nursing within the University of South Florida; providing that a specified fee waiver applies to a student's out-of-pocket expenses for tuition and fees after other aid is applied; providing that the LINE Fund was established for shortages i...",
+      "stage": "Dead",
+      "impactTags": [
+        "child-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-13",
+      "sourceUrl": "https://www.flsenate.gov/Session/Bill/2026/2516",
+      "legiscanUrl": "https://legiscan.com/FL/bill/S2516/2026",
+      "legiscanId": 2116904,
+      "sponsors": [
+        "Appropriations"
+      ]
+    },
+    {
+      "id": "fl-s0482",
+      "billCode": "S0482",
+      "title": "Artificial Intelligence Bill of Rights",
+      "summary": "Prohibiting a governmental entity from extending or renewing a contract with specified entities, beginning on a specified date; prohibiting a local governmental entity from taking certain actions relating to contracting with an entity to provide artificial intelligence technol...",
+      "stage": "Dead",
+      "impactTags": [
+        "child-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-13",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.flsenate.gov/Session/Bill/2026/482",
+      "legiscanUrl": "https://legiscan.com/FL/bill/S0482/2026",
+      "legiscanId": 2060634,
+      "sponsors": [
+        "Appropriations",
+        "Tom Leek"
+      ]
+    }
+  ]
+}

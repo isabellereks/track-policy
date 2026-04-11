@@ -1,0 +1,258 @@
+{
+  "state": "New Hampshire",
+  "stateCode": "NH",
+  "region": "na",
+  "stance": "concerning",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "New Hampshire has 12 bills tracked in 2025–2026. 2 relate to moratoriums or prohibitions.",
+  "legislation": [
+    {
+      "id": "nh-hb1694",
+      "billCode": "HB1694",
+      "title": "Relative to the regulation of and protections for personal data obtained by websites and data brokers.",
+      "summary": "Relative to the regulation of and protections for personal data obtained by websites and data brokers.",
+      "stage": "Dead",
+      "impactTags": [
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2025-12-12",
+      "partyOrigin": "B",
+      "sourceUrl": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=2612&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=HB1694",
+      "legiscanUrl": "https://legiscan.com/NH/bill/HB1694/2026",
+      "legiscanId": 2058468,
+      "sponsors": [
+        "Alice Wade",
+        "Patrick Long",
+        "Heath Howard",
+        "Henry Giasson"
+      ]
+    },
+    {
+      "id": "nh-sb640",
+      "billCode": "SB640",
+      "title": "Relative to the use of artificial intelligence to provide services requiring a professional license.",
+      "summary": "Relative to the use of artificial intelligence to provide services requiring a professional license.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-16",
+      "partyOrigin": "B",
+      "sourceUrl": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=2088&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=SB640",
+      "legiscanUrl": "https://legiscan.com/NH/bill/SB640/2026",
+      "legiscanId": 2054088,
+      "sponsors": [
+        "Howard Pearl",
+        "Timothy Lang",
+        "William Gannon",
+        "David Watters"
+      ]
+    },
+    {
+      "id": "nh-sb583",
+      "billCode": "SB583",
+      "title": "Directing the department of education to create an education funding transparency data and reporting system.",
+      "summary": "Directing the department of education to create an education funding transparency data and reporting system.",
+      "stage": "Committee",
+      "impactTags": [
+        "nda-transparency"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-11-25",
+      "partyOrigin": "B",
+      "sourceUrl": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=2224&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=SB583",
+      "legiscanUrl": "https://legiscan.com/NH/bill/SB583/2026",
+      "legiscanId": 2053949,
+      "sponsors": [
+        "Timothy Lang",
+        "Patrick Long",
+        "Tim McGough",
+        "David Watters"
+      ]
+    },
+    {
+      "id": "nh-hb1650",
+      "billCode": "HB1650",
+      "title": "Relative to an age-appropriate design code.",
+      "summary": "Relative to an age-appropriate design code.",
+      "stage": "Dead",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-12-10",
+      "partyOrigin": "R",
+      "sourceUrl": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=3111&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=HB1650",
+      "legiscanUrl": "https://legiscan.com/NH/bill/HB1650/2026",
+      "legiscanId": 2057771,
+      "sponsors": [
+        "Melissa Litchfield",
+        "Brian Nadeau",
+        "James Thibault",
+        "Laurence  Miner"
+      ]
+    },
+    {
+      "id": "nh-sb439",
+      "billCode": "SB439",
+      "title": "Relative to municipal data center zoning.",
+      "summary": "Relative to municipal data center zoning.",
+      "stage": "Committee",
+      "impactTags": [
+        "local-zoning"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-02-26",
+      "partyOrigin": "D",
+      "sourceUrl": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=2236&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=SB439",
+      "legiscanUrl": "https://legiscan.com/NH/bill/SB439/2026",
+      "legiscanId": 2053788,
+      "sponsors": [
+        "Debra Altschiller",
+        "Hope Damon"
+      ]
+    },
+    {
+      "id": "nh-hb1808",
+      "billCode": "HB1808",
+      "title": "Establishing the position of academic research and improvement performance data analyst in the department of education and making an appropriation therefor.",
+      "summary": "Establishing the position of academic research and improvement performance data analyst in the department of education and making an appropriation therefor.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-13",
+      "partyOrigin": "B",
+      "sourceUrl": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=2592&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=HB1808",
+      "legiscanUrl": "https://legiscan.com/NH/bill/HB1808/2026",
+      "legiscanId": 2060130,
+      "sponsors": [
+        "Roderick Ladd",
+        "Daniel Popovici-Muller",
+        "Raymond Peeples",
+        "Hope Damon"
+      ]
+    },
+    {
+      "id": "nh-hb1589",
+      "billCode": "HB1589",
+      "title": "Establishing the digital choice act.",
+      "summary": "Establishing the digital choice act.",
+      "stage": "Dead",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-12-10",
+      "partyOrigin": "R",
+      "sourceUrl": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=2907&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=HB1589",
+      "legiscanUrl": "https://legiscan.com/NH/bill/HB1589/2026",
+      "legiscanId": 2057594,
+      "sponsors": [
+        "Melissa Litchfield",
+        "James Thibault",
+        "Michael Granger",
+        "Michael Moffett"
+      ]
+    },
+    {
+      "id": "nh-hb297",
+      "billCode": "HB297",
+      "title": "Relative to providing self-funded employer health benefit plans access to their claims data.",
+      "summary": "Relative to providing self-funded employer health benefit plans access to their claims data.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-30",
+      "partyOrigin": "D",
+      "sourceUrl": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=669&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=HB297",
+      "legiscanUrl": "https://legiscan.com/NH/bill/HB297/2026",
+      "legiscanId": 2064428,
+      "sponsors": [
+        "Carry Spier"
+      ]
+    },
+    {
+      "id": "nh-hb1739",
+      "billCode": "HB1739",
+      "title": "Relative to energy infrastructure, economic development, and workforce training for large-scale data facilities.",
+      "summary": "Relative to energy infrastructure, economic development, and workforce training for large-scale data facilities.",
+      "stage": "Dead",
+      "impactTags": [
+        "job-creation",
+        "economic-development"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-12-17",
+      "partyOrigin": "B",
+      "sourceUrl": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=2699&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=HB1739",
+      "legiscanUrl": "https://legiscan.com/NH/bill/HB1739/2026",
+      "legiscanId": 2059162,
+      "sponsors": [
+        "Santosh Salvi",
+        "Alicia Gregg",
+        "Carry Spier",
+        "Efstathia Booras"
+      ]
+    },
+    {
+      "id": "nh-hb1316",
+      "billCode": "HB1316",
+      "title": "Restricting the collection and disclosure of autism-related data by state agencies.",
+      "summary": "Restricting the collection and disclosure of autism-related data by state agencies.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-12-01",
+      "partyOrigin": "D",
+      "sourceUrl": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=2958&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=HB1316",
+      "legiscanUrl": "https://legiscan.com/NH/bill/HB1316/2026",
+      "legiscanId": 2054504,
+      "sponsors": [
+        "Lily Foss",
+        "Billie Butler",
+        "Alice Wade",
+        "Heath Howard"
+      ]
+    },
+    {
+      "id": "nh-hb1265",
+      "billCode": "HB1265",
+      "title": "Prohibiting the construction of data centers in the state and establishing a committee to study the environmental impact of data centers.",
+      "summary": "Prohibiting the construction of data centers in the state and establishing a committee to study the environmental impact of data centers.",
+      "stage": "Dead",
+      "impactTags": [
+        "environmental-review"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-12-01",
+      "partyOrigin": "D",
+      "sourceUrl": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=2482&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=HB1265",
+      "legiscanUrl": "https://legiscan.com/NH/bill/HB1265/2026",
+      "legiscanId": 2054469,
+      "sponsors": [
+        "Peter Schmidt",
+        "Wendy Thomas",
+        "Tony Caplan"
+      ]
+    },
+    {
+      "id": "nh-hb1460",
+      "billCode": "HB1460",
+      "title": "Prohibiting the sale of a child's personal data.",
+      "summary": "Prohibiting the sale of a child's personal data.",
+      "stage": "Committee",
+      "impactTags": [
+        "child-safety",
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-02-13",
+      "partyOrigin": "R",
+      "sourceUrl": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=3231&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=HB1460",
+      "legiscanUrl": "https://legiscan.com/NH/bill/HB1460/2026",
+      "legiscanId": 2056728,
+      "sponsors": [
+        "Melissa Litchfield",
+        "Jay Markell",
+        "Jess Edwards",
+        "Laurence  Miner"
+      ]
+    }
+  ]
+}

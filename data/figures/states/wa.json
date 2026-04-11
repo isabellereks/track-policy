@@ -1,0 +1,313 @@
+[
+  {
+    "id": "cathy-mcmorris-rodgers",
+    "name": "Cathy McMorris Rodgers",
+    "role": "Representative · Energy and Commerce",
+    "party": "R-WA",
+    "state": "WA",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.7,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "dan-newhouse",
+    "name": "Dan Newhouse",
+    "role": "Representative",
+    "party": "R-WA",
+    "state": "WA",
+    "chamber": "house",
+    "committees": [
+      "Appropriations"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.65,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "marie-gluesenkamp-perez",
+    "name": "Marie Gluesenkamp Perez",
+    "role": "Representative",
+    "party": "D-WA",
+    "state": "WA",
+    "chamber": "house",
+    "committees": [
+      "Transportation",
+      "Agriculture"
+    ],
+    "stance": "review",
+    "quote": "Auto shop owner who appeals to rural working-class voters",
+    "techRegScore": 0.4,
+    "lobbying": {
+      "topIndustries": [
+        "Small business with $65K",
+        "Transportation with $45K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 36,
+      "education": "Reed College dropout",
+      "careerBeforePolitics": "Auto shop owner/operator with husband"
+    },
+    "seatSafety": "toss-up"
+  },
+  {
+    "id": "kim-schrier",
+    "name": "Kim Schrier",
+    "role": "Representative · Energy and Commerce",
+    "party": "D-WA",
+    "state": "WA",
+    "chamber": "house",
+    "committees": [
+      "Agriculture",
+      "Energy and Commerce"
+    ],
+    "stance": "none",
+    "techRegScore": 0.38,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "toss-up"
+  },
+  {
+    "id": "adam-smith",
+    "name": "Adam Smith",
+    "role": "Representative",
+    "party": "D-WA",
+    "state": "WA",
+    "chamber": "house",
+    "committees": [
+      "Armed Services"
+    ],
+    "stance": "review",
+    "quote": "Pragmatic defense hawk who bridges progressive politics with military support",
+    "techRegScore": 0.35,
+    "lobbying": {
+      "topIndustries": [
+        "Defense contractors with $180K",
+        "Aerospace with $165K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 59,
+      "education": "BA Fordham University, JD University of Washington",
+      "careerBeforePolitics": "Prosecutor, city councilman"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "rick-larsen",
+    "name": "Rick Larsen",
+    "role": "Representative",
+    "party": "D-WA",
+    "state": "WA",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "none",
+    "techRegScore": 0.35,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "derek-kilmer",
+    "name": "Derek Kilmer",
+    "role": "Representative",
+    "party": "D-WA",
+    "state": "WA",
+    "chamber": "house",
+    "committees": [
+      "Appropriations",
+      "Select Committee on the Modernization of Congress"
+    ],
+    "stance": "none",
+    "techRegScore": 0.35,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "maria-cantwell",
+    "name": "Maria Cantwell",
+    "role": "Senator · Commerce",
+    "party": "D-WA",
+    "state": "WA",
+    "chamber": "senate",
+    "committees": [
+      "Commerce",
+      "Finance",
+      "Indian Affairs",
+      "Small Business"
+    ],
+    "stance": "none",
+    "quote": "Tech industry veteran focused on commerce and energy policy",
+    "techRegScore": 0.3,
+    "lobbying": {
+      "topIndustries": [
+        "Tech/Electronics $1.1M",
+        "Energy/Natural Resources $780K",
+        "Transportation $650K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 66,
+      "education": "BA Miami University (Ohio)",
+      "careerBeforePolitics": "Tech executive at RealNetworks, House member, state legislator"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "suzan-delbene",
+    "name": "Suzan DelBene",
+    "role": "Representative",
+    "party": "D-WA",
+    "state": "WA",
+    "chamber": "house",
+    "committees": [
+      "Ways and Means",
+      "House Democratic Caucus Chair"
+    ],
+    "stance": "none",
+    "techRegScore": 0.3,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "marilyn-strickland",
+    "name": "Marilyn Strickland",
+    "role": "Representative",
+    "party": "D-WA",
+    "state": "WA",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "none",
+    "techRegScore": 0.3,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "patty-murray",
+    "name": "Patty Murray",
+    "role": "Senator · President Pro Tempore",
+    "party": "D-WA",
+    "state": "WA",
+    "chamber": "senate",
+    "committees": [
+      "Appropriations",
+      "HELP",
+      "Veterans Affairs",
+      "Budget"
+    ],
+    "stance": "none",
+    "quote": "Pragmatic deal-maker who focuses on women's health and education funding",
+    "techRegScore": 0.25,
+    "lobbying": {
+      "topIndustries": [
+        "Healthcare $890K",
+        "Education $445K",
+        "Defense/Aerospace $380K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 74,
+      "education": "BA Washington State University",
+      "careerBeforePolitics": "Preschool teacher, education advocate, state senator"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "pramila-jayapal",
+    "name": "Pramila Jayapal",
+    "role": "Representative · Congressional Progressive Caucus Chair",
+    "party": "D-WA",
+    "state": "WA",
+    "chamber": "house",
+    "committees": [
+      "Judiciary",
+      "Budget"
+    ],
+    "stance": "none",
+    "quote": "Strategic progressive leader who builds coalitions",
+    "techRegScore": 0.2,
+    "lobbying": {
+      "topIndustries": [
+        "Healthcare $220K",
+        "Technology $185K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 59,
+      "education": "BA Georgetown, MBA Northwestern",
+      "careerBeforePolitics": "Civil rights advocate, nonprofit executive"
+    },
+    "seatSafety": "safe"
+  }
+]

@@ -1,0 +1,219 @@
+{
+  "state": "Iowa",
+  "stateCode": "IA",
+  "region": "na",
+  "stance": "review",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "Iowa has 12 bills tracked in 2025–2026. 3 offer incentives or exemptions.",
+  "legislation": [
+    {
+      "id": "ia-hf2447",
+      "billCode": "HF2447",
+      "title": "A bill for an act relating to water and energy use for data centers, including reporting and tariff requirements, and including effective date provisions.(See HF 2690.)",
+      "summary": "A bill for an act relating to water and energy use for data centers, including reporting and tariff requirements, and including effective date provisions.(See HF 2690.)",
+      "stage": "Committee",
+      "impactTags": [
+        "energy-rates"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-16",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=HF2447",
+      "legiscanUrl": "https://legiscan.com/IA/bill/HF2447/2025",
+      "legiscanId": 2117252,
+      "sponsors": [
+        "Cindy Golding"
+      ]
+    },
+    {
+      "id": "ia-hsb294",
+      "billCode": "HSB294",
+      "title": "A bill for an act relating to artificial intelligence, including the use of artificial intelligence to create materials related to elections and protections in interactions with artificial intelligence systems, and making penalties applicable.",
+      "summary": "A bill for an act relating to artificial intelligence, including the use of artificial intelligence to create materials related to elections and protections in interactions with artificial intelligence systems, and making penalties applicable.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-03-04",
+      "sourceUrl": "https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=HSB294",
+      "legiscanUrl": "https://legiscan.com/IA/bill/HSB294/2025",
+      "legiscanId": 1990915,
+      "sponsors": [
+        "Economic Growth And Technology"
+      ]
+    },
+    {
+      "id": "ia-sf2052",
+      "billCode": "SF2052",
+      "title": "A bill for an act relating to the issuance of driver's licenses and nonoperator's identification cards, including physical forms of such identification and noncompliance with federal requirements.",
+      "summary": "A bill for an act relating to the issuance of driver's licenses and nonoperator's identification cards, including physical forms of such identification and noncompliance with federal requirements.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-14",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=SF2052",
+      "legiscanUrl": "https://legiscan.com/IA/bill/SF2052/2025",
+      "legiscanId": 2079898,
+      "sponsors": [
+        "Dennis Guth"
+      ]
+    },
+    {
+      "id": "ia-hf2110",
+      "billCode": "HF2110",
+      "title": "A bill for an act relating to the issuance of driver's licenses and nonoperator's identification cards, including physical forms of such identification and noncompliance with federal requirements.",
+      "summary": "A bill for an act relating to the issuance of driver's licenses and nonoperator's identification cards, including physical forms of such identification and noncompliance with federal requirements.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-16",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=HF2110",
+      "legiscanUrl": "https://legiscan.com/IA/bill/HF2110/2025",
+      "legiscanId": 2083932,
+      "sponsors": [
+        "Jeff Shipley"
+      ]
+    },
+    {
+      "id": "ia-hf2690",
+      "billCode": "HF2690",
+      "title": "A bill for an act relating to water and energy use for data centers, including reporting and tariff requirements, and including effective date provisions.(Formerly HF 2447.)",
+      "summary": "A bill for an act relating to water and energy use for data centers, including reporting and tariff requirements, and including effective date provisions.(Formerly HF 2447.)",
+      "stage": "Filed",
+      "impactTags": [
+        "energy-rates"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-23",
+      "sourceUrl": "https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=HF2690",
+      "legiscanUrl": "https://legiscan.com/IA/bill/HF2690/2025",
+      "legiscanId": 2122505,
+      "sponsors": [
+        "Commerce"
+      ]
+    },
+    {
+      "id": "ia-hf2688",
+      "billCode": "HF2688",
+      "title": "A bill for an act relating to investment requirements for data center businesses that claim certain sales tax exemptions and sales and use tax refunds.(Formerly HSB 727.)",
+      "summary": "A bill for an act relating to investment requirements for data center businesses that claim certain sales tax exemptions and sales and use tax refunds.(Formerly HSB 727.)",
+      "stage": "Committee",
+      "impactTags": [
+        "tax-incentives",
+        "economic-development"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-23",
+      "sourceUrl": "https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=HF2688",
+      "legiscanUrl": "https://legiscan.com/IA/bill/HF2688/2025",
+      "legiscanId": 2122540,
+      "sponsors": [
+        "Economic Growth And Technology"
+      ]
+    },
+    {
+      "id": "ia-hsb727",
+      "billCode": "HSB727",
+      "title": "A bill for an act relating to investment requirements for data center businesses that claim certain sales tax exemptions and sales and use tax refunds.(See HF 2688.)",
+      "summary": "A bill for an act relating to investment requirements for data center businesses that claim certain sales tax exemptions and sales and use tax refunds.(See HF 2688.)",
+      "stage": "Committee",
+      "impactTags": [
+        "tax-incentives",
+        "economic-development"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-11",
+      "sourceUrl": "https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=HSB727",
+      "legiscanUrl": "https://legiscan.com/IA/bill/HSB727/2025",
+      "legiscanId": 2114461,
+      "sponsors": [
+        "Economic Growth And Technology"
+      ]
+    },
+    {
+      "id": "ia-hf2001",
+      "billCode": "HF2001",
+      "title": "A bill for an act relating to water efficiency of data centers, including requirements for water-efficient cooling technologies and encouragement for the use of nonpotable and recycled water sources, providing civil penalties, and including effective date and applicability provisions.",
+      "summary": "A bill for an act relating to water efficiency of data centers, including requirements for water-efficient cooling technologies and encouragement for the use of nonpotable and recycled water sources, providing civil penalties, and including effective date and applicability pro...",
+      "stage": "Committee",
+      "impactTags": [
+        "water-consumption"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-13",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=HF2001",
+      "legiscanUrl": "https://legiscan.com/IA/bill/HF2001/2025",
+      "legiscanId": 2072207,
+      "sponsors": [
+        "Jason Gearhart"
+      ]
+    },
+    {
+      "id": "ia-ssb3181",
+      "billCode": "SSB3181",
+      "title": "A bill for an act making certain sales and use tax exemptions relating to nuclear electric generation facilities, web search portal businesses, and data center businesses contingent upon making contributions to institutions of higher education governed by the state board of regents.",
+      "summary": "A bill for an act making certain sales and use tax exemptions relating to nuclear electric generation facilities, web search portal businesses, and data center businesses contingent upon making contributions to institutions of higher education governed by the state board of re...",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-25",
+      "sourceUrl": "https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=SSB3181",
+      "legiscanUrl": "https://legiscan.com/IA/bill/SSB3181/2025",
+      "legiscanId": 2123985,
+      "sponsors": [
+        "Ways & Means"
+      ]
+    },
+    {
+      "id": "ia-sf2094",
+      "billCode": "SF2094",
+      "title": "A bill for an act relating to computer science and artificial intelligence education, including high school curricula and graduation requirements, practitioner preparation programs, and college admissions, and including applicability provisions.",
+      "summary": "A bill for an act relating to computer science and artificial intelligence education, including high school curricula and graduation requirements, practitioner preparation programs, and college admissions, and including applicability provisions.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-22",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=SF2094",
+      "legiscanUrl": "https://legiscan.com/IA/bill/SF2094/2025",
+      "legiscanId": 2090687,
+      "sponsors": [
+        "Kerry Gruenhagen"
+      ]
+    },
+    {
+      "id": "ia-hf2540",
+      "billCode": "HF2540",
+      "title": "A bill for an act relating to computer science and artificial intelligence education, including high school curricula and graduation requirements, and practitioner preparation programs, and including applicability provisions.(Formerly HSB 610.)",
+      "summary": "A bill for an act relating to computer science and artificial intelligence education, including high school curricula and graduation requirements, and practitioner preparation programs, and including applicability provisions.(Formerly HSB 610.)",
+      "stage": "Filed",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-16",
+      "sourceUrl": "https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=HF2540",
+      "legiscanUrl": "https://legiscan.com/IA/bill/HF2540/2025",
+      "legiscanId": 2117611,
+      "sponsors": [
+        "Education"
+      ]
+    },
+    {
+      "id": "ia-ssb3013",
+      "billCode": "SSB3013",
+      "title": "A bill for an act relating to the ownership of artificial intelligence output and trained artificial intelligence.(See SF 2199.)",
+      "summary": "A bill for an act relating to the ownership of artificial intelligence output and trained artificial intelligence.(See SF 2199.)",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-13",
+      "sourceUrl": "https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=SSB3013",
+      "legiscanUrl": "https://legiscan.com/IA/bill/SSB3013/2025",
+      "legiscanId": 2073027,
+      "sponsors": [
+        "Technology"
+      ]
+    }
+  ]
+}

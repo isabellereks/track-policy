@@ -1,0 +1,138 @@
+[
+  {
+    "id": "pete-ricketts",
+    "name": "Pete Ricketts",
+    "role": "Senator · Commerce",
+    "party": "R-NE",
+    "state": "NE",
+    "chamber": "senate",
+    "committees": [
+      "Armed Services",
+      "Commerce",
+      "Environment",
+      "Foreign Relations"
+    ],
+    "stance": "favorable",
+    "quote": "Wealthy former governor who brings business background to conservative politics",
+    "techRegScore": 0.73,
+    "lobbying": {
+      "topIndustries": [
+        "Securities & Investment: $890K",
+        "Real Estate: $456K",
+        "Agriculture: $312K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 60,
+      "education": "BA from University of Chicago, MBA from University of Chicago Booth School",
+      "careerBeforePolitics": "COO of Ameritrade (now TD Ameritrade), various business ventures, Nebraska Governor 2015-2023"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "deb-fischer",
+    "name": "Deb Fischer",
+    "role": "Senator · Commerce",
+    "party": "R-NE",
+    "state": "NE",
+    "chamber": "senate",
+    "committees": [
+      "Armed Services",
+      "Commerce",
+      "Agriculture"
+    ],
+    "stance": "favorable",
+    "quote": "Rancher-turned-senator focused on agriculture and rural issues",
+    "techRegScore": 0.73,
+    "lobbying": {
+      "topIndustries": [
+        "Agriculture $580K",
+        "Defense $520K",
+        "Telecommunications $480K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 73,
+      "education": "University of Nebraska-Lincoln (B.S. Education)",
+      "careerBeforePolitics": "Teacher, rancher, Nebraska state legislator"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "adrian-smith",
+    "name": "Adrian Smith",
+    "role": "Representative",
+    "party": "R-NE",
+    "state": "NE",
+    "chamber": "house",
+    "committees": [
+      "Ways and Means"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.71,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "mike-flood",
+    "name": "Mike Flood",
+    "role": "Representative · Judiciary",
+    "party": "R-NE",
+    "state": "NE",
+    "chamber": "house",
+    "committees": [
+      "Judiciary",
+      "Agriculture"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.69,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "don-bacon",
+    "name": "Don Bacon",
+    "role": "Representative",
+    "party": "R-NE",
+    "state": "NE",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Agriculture"
+    ],
+    "stance": "favorable",
+    "quote": "Air Force veteran who focuses on defense issues and works across the aisle in purple district",
+    "techRegScore": 0.6,
+    "lobbying": {
+      "topIndustries": [
+        "Defense with $285K",
+        "Agriculture with $195K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 61,
+      "education": "Northern Illinois University (BA), University of Phoenix (MA), National War College",
+      "careerBeforePolitics": "30-year Air Force career, retired Brigadier General"
+    },
+    "seatSafety": "toss-up"
+  }
+]

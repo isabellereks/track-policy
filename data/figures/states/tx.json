@@ -1,0 +1,991 @@
+[
+  {
+    "id": "michael-cloud",
+    "name": "Michael Cloud",
+    "role": "Representative · Science, Space, and Technology",
+    "party": "R-TX",
+    "state": "TX",
+    "chamber": "house",
+    "committees": [
+      "Oversight and Accountability",
+      "Science, Space, and Technology"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.84,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "ronny-jackson",
+    "name": "Ronny Jackson",
+    "role": "Representative",
+    "party": "R-TX",
+    "state": "TX",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Foreign Affairs"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.83,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "brian-babin",
+    "name": "Brian Babin",
+    "role": "Representative · Science, Space, and Technology",
+    "party": "R-TX",
+    "state": "TX",
+    "chamber": "house",
+    "committees": [
+      "Science, Space, and Technology",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.83,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "morgan-luttrell",
+    "name": "Morgan Luttrell",
+    "role": "Representative · Homeland Security",
+    "party": "R-TX",
+    "state": "TX",
+    "chamber": "house",
+    "committees": [
+      "Homeland Security",
+      "Veterans' Affairs"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.82,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "troy-nehls",
+    "name": "Troy Nehls",
+    "role": "Representative",
+    "party": "R-TX",
+    "state": "TX",
+    "chamber": "house",
+    "committees": [
+      "Transportation and Infrastructure",
+      "Veterans' Affairs"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.82,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "lance-gooden",
+    "name": "Lance Gooden",
+    "role": "Representative · Judiciary",
+    "party": "R-TX",
+    "state": "TX",
+    "chamber": "house",
+    "committees": [
+      "Financial Services",
+      "Judiciary"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.81,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "august-pfluger",
+    "name": "August Pfluger",
+    "role": "Representative · Homeland Security",
+    "party": "R-TX",
+    "state": "TX",
+    "chamber": "house",
+    "committees": [
+      "Homeland Security",
+      "Foreign Affairs"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.81,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "ted-cruz",
+    "name": "Ted Cruz",
+    "role": "Senator · Judiciary",
+    "party": "R-TX",
+    "state": "TX",
+    "chamber": "senate",
+    "committees": [
+      "Judiciary",
+      "Commerce",
+      "Foreign Relations",
+      "Rules"
+    ],
+    "stance": "favorable",
+    "quote": "Fiery conservative rhetoric, presidential ambitions, and contentious relationships with colleagues",
+    "techRegScore": 0.8,
+    "lobbying": {
+      "topIndustries": [
+        "Oil & Gas $2.1M",
+        "Securities & Investment $1.5M",
+        "Lawyers/Law firms $980K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 54,
+      "education": "Princeton University (AB), Harvard Law School (JD)",
+      "careerBeforePolitics": "Supreme Court clerk, Solicitor General of Texas, private practice attorney"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "randy-weber",
+    "name": "Randy Weber",
+    "role": "Representative · Science, Space, and Technology",
+    "party": "R-TX",
+    "state": "TX",
+    "chamber": "house",
+    "committees": [
+      "Science, Space, and Technology",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.8,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "pat-fallon",
+    "name": "Pat Fallon",
+    "role": "Representative",
+    "party": "R-TX",
+    "state": "TX",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Oversight and Accountability"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.79,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "nathaniel-moran",
+    "name": "Nathaniel Moran",
+    "role": "Representative",
+    "party": "R-TX",
+    "state": "TX",
+    "chamber": "house",
+    "committees": [
+      "Veterans' Affairs",
+      "Oversight and Accountability"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.78,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "jodey-arrington",
+    "name": "Jodey Arrington",
+    "role": "Representative",
+    "party": "R-TX",
+    "state": "TX",
+    "chamber": "house",
+    "committees": [
+      "Budget",
+      "Ways and Means"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.78,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "roger-williams",
+    "name": "Roger Williams",
+    "role": "Representative",
+    "party": "R-TX",
+    "state": "TX",
+    "chamber": "house",
+    "committees": [
+      "Financial Services",
+      "Small Business"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.77,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "pete-sessions",
+    "name": "Pete Sessions",
+    "role": "Representative",
+    "party": "R-TX",
+    "state": "TX",
+    "chamber": "house",
+    "committees": [
+      "Financial Services",
+      "Veterans' Affairs"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.76,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "monica-de-la-cruz",
+    "name": "Monica De La Cruz",
+    "role": "Representative · Homeland Security",
+    "party": "R-TX",
+    "state": "TX",
+    "chamber": "house",
+    "committees": [
+      "Homeland Security",
+      "Small Business"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.75,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "michael-burgess",
+    "name": "Michael Burgess",
+    "role": "Representative · Energy and Commerce",
+    "party": "R-TX",
+    "state": "TX",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce",
+      "Rules"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.75,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "jake-ellzey",
+    "name": "Jake Ellzey",
+    "role": "Representative",
+    "party": "R-TX",
+    "state": "TX",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Veterans' Affairs"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.74,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "beth-van-duyne",
+    "name": "Beth Van Duyne",
+    "role": "Representative",
+    "party": "R-TX",
+    "state": "TX",
+    "chamber": "house",
+    "committees": [
+      "Ways and Means",
+      "Small Business"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.74,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "john-carter",
+    "name": "John Carter",
+    "role": "Representative",
+    "party": "R-TX",
+    "state": "TX",
+    "chamber": "house",
+    "committees": [
+      "Appropriations"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.73,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "kay-granger",
+    "name": "Kay Granger",
+    "role": "Representative",
+    "party": "R-TX",
+    "state": "TX",
+    "chamber": "house",
+    "committees": [
+      "Appropriations"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.72,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "van-taylor",
+    "name": "Van Taylor",
+    "role": "Representative",
+    "party": "R-TX",
+    "state": "TX",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Financial Services"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.72,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "michael-mccaul",
+    "name": "Michael McCaul",
+    "role": "Representative · House Foreign Affairs Committee Chair",
+    "party": "R-TX",
+    "state": "TX",
+    "chamber": "house",
+    "committees": [
+      "Foreign Affairs"
+    ],
+    "stance": "favorable",
+    "quote": "National security expertise and hawkish foreign policy stance",
+    "techRegScore": 0.71,
+    "lobbying": {
+      "topIndustries": [
+        "Defense with $189K",
+        "Technology with $134K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 62,
+      "education": "Trinity University, St. Mary's University School of Law",
+      "careerBeforePolitics": "Federal prosecutor, Justice Department, Homeland Security"
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "john-cornyn",
+    "name": "John Cornyn",
+    "role": "Senator · Judiciary",
+    "party": "R-TX",
+    "state": "TX",
+    "chamber": "senate",
+    "committees": [
+      "Judiciary",
+      "Finance",
+      "Intelligence"
+    ],
+    "stance": "favorable",
+    "quote": "Institutional Republican who focuses on judiciary and business interests",
+    "techRegScore": 0.68,
+    "lobbying": {
+      "topIndustries": [
+        "Finance & Insurance: $2.1M",
+        "Oil & Gas: $1.9M",
+        "Real Estate: $1.2M"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 72,
+      "education": "Trinity University (BA Journalism), St. Mary's University School of Law (JD)",
+      "careerBeforePolitics": "District judge, Texas Supreme Court justice, Texas Attorney General"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "wesley-hunt",
+    "name": "Wesley Hunt",
+    "role": "Representative · Intelligence",
+    "party": "R-TX",
+    "state": "TX",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Intelligence"
+    ],
+    "stance": "favorable",
+    "quote": "West Point veteran bringing military perspective to national security",
+    "techRegScore": 0.68,
+    "lobbying": {
+      "topIndustries": [
+        "defense contractors with $180K",
+        "oil and gas with $145K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 43,
+      "education": "B.S. West Point, MBA Cornell",
+      "careerBeforePolitics": "Army officer, helicopter pilot, business executive"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "chip-roy",
+    "name": "Chip Roy",
+    "role": "Representative · Judiciary",
+    "party": "R-TX",
+    "state": "TX",
+    "chamber": "house",
+    "committees": [
+      "Judiciary",
+      "Rules"
+    ],
+    "stance": "favorable",
+    "quote": "Leading House Freedom Caucus hardliner who blocks leadership deals",
+    "techRegScore": 0.65,
+    "lobbying": {
+      "topIndustries": [
+        "oil & gas with $180K",
+        "agriculture with $165K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 52,
+      "education": "University of Virginia (BA), University of Texas Law (JD)",
+      "careerBeforePolitics": "Federal prosecutor, Cruz Senate chief of staff"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "dan-crenshaw",
+    "name": "Dan Crenshaw",
+    "role": "Representative · Energy and Commerce",
+    "party": "R-TX",
+    "state": "TX",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce",
+      "Intelligence"
+    ],
+    "stance": "favorable",
+    "quote": "Navy SEAL veteran focused on national security with mainstream conservative views",
+    "techRegScore": 0.65,
+    "lobbying": {
+      "topIndustries": [
+        "oil and gas with $215K",
+        "defense with $185K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 40,
+      "education": "Tufts University, Harvard Kennedy School",
+      "careerBeforePolitics": "Navy SEAL officer, lost eye in Afghanistan IED"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "tony-gonzales",
+    "name": "Tony Gonzales",
+    "role": "Representative · Homeland Security",
+    "party": "R-TX",
+    "state": "TX",
+    "chamber": "house",
+    "committees": [
+      "Appropriations",
+      "Homeland Security"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.65,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "toss-up"
+  },
+  {
+    "id": "henry-cuellar",
+    "name": "Henry Cuellar",
+    "role": "Representative",
+    "party": "D-TX",
+    "state": "TX",
+    "chamber": "house",
+    "committees": [
+      "Appropriations"
+    ],
+    "stance": "review",
+    "quote": "Conservative Democrat focused on border security and oil industry interests",
+    "techRegScore": 0.5,
+    "lobbying": {
+      "topIndustries": [
+        "Oil & Gas with $245K",
+        "Defense contractors with $125K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 69,
+      "education": "BA Georgetown University, JD University of Texas, PhD government",
+      "careerBeforePolitics": "Attorney, Texas state legislator, customs broker"
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "vicente-gonzalez",
+    "name": "Vicente Gonzalez",
+    "role": "Representative",
+    "party": "D-TX",
+    "state": "TX",
+    "chamber": "house",
+    "committees": [
+      "Financial Services",
+      "Foreign Affairs"
+    ],
+    "stance": "review",
+    "techRegScore": 0.41,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "colin-allred",
+    "name": "Colin Allred",
+    "role": "Representative",
+    "party": "D-TX",
+    "state": "TX",
+    "chamber": "house",
+    "committees": [
+      "Foreign Affairs",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "none",
+    "techRegScore": 0.34,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "lizzie-fletcher",
+    "name": "Lizzie Fletcher",
+    "role": "Representative · Energy and Commerce",
+    "party": "D-TX",
+    "state": "TX",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce",
+      "Science, Space, and Technology"
+    ],
+    "stance": "none",
+    "techRegScore": 0.31,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "marc-veasey",
+    "name": "Marc Veasey",
+    "role": "Representative · Energy and Commerce",
+    "party": "D-TX",
+    "state": "TX",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce",
+      "Armed Services"
+    ],
+    "stance": "none",
+    "techRegScore": 0.25,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "joaquin-castro",
+    "name": "Joaquin Castro",
+    "role": "Representative · Intelligence",
+    "party": "D-TX",
+    "state": "TX",
+    "chamber": "house",
+    "committees": [
+      "Foreign Affairs",
+      "Intelligence"
+    ],
+    "stance": "none",
+    "techRegScore": 0.23,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "sylvia-garcia",
+    "name": "Sylvia Garcia",
+    "role": "Representative · Judiciary",
+    "party": "D-TX",
+    "state": "TX",
+    "chamber": "house",
+    "committees": [
+      "Judiciary",
+      "Financial Services"
+    ],
+    "stance": "none",
+    "techRegScore": 0.22,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "veronica-escobar",
+    "name": "Veronica Escobar",
+    "role": "Representative · Judiciary",
+    "party": "D-TX",
+    "state": "TX",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Judiciary"
+    ],
+    "stance": "none",
+    "techRegScore": 0.21,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "lloyd-doggett",
+    "name": "Lloyd Doggett",
+    "role": "Representative",
+    "party": "D-TX",
+    "state": "TX",
+    "chamber": "house",
+    "committees": [
+      "Ways and Means",
+      "Budget"
+    ],
+    "stance": "none",
+    "techRegScore": 0.2,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "al-green",
+    "name": "Al Green",
+    "role": "Representative · Homeland Security",
+    "party": "D-TX",
+    "state": "TX",
+    "chamber": "house",
+    "committees": [
+      "Financial Services",
+      "Homeland Security"
+    ],
+    "stance": "none",
+    "techRegScore": 0.18,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "jasmine-crockett",
+    "name": "Jasmine Crockett",
+    "role": "Representative",
+    "party": "D-TX",
+    "state": "TX",
+    "chamber": "house",
+    "committees": [
+      "Oversight and Accountability",
+      "Agriculture"
+    ],
+    "stance": "none",
+    "techRegScore": 0.16,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "sheila-jackson-lee",
+    "name": "Sheila Jackson Lee",
+    "role": "Representative · Judiciary",
+    "party": "D-TX",
+    "state": "TX",
+    "chamber": "house",
+    "committees": [
+      "Judiciary",
+      "Homeland Security"
+    ],
+    "stance": "none",
+    "techRegScore": 0.15,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "greg-casar",
+    "name": "Greg Casar",
+    "role": "Representative",
+    "party": "D-TX",
+    "state": "TX",
+    "chamber": "house",
+    "committees": [
+      "Oversight and Accountability",
+      "Natural Resources"
+    ],
+    "stance": "none",
+    "techRegScore": 0.14,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  }
+]

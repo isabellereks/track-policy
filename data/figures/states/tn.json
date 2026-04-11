@@ -1,0 +1,274 @@
+[
+  {
+    "id": "marsha-blackburn",
+    "name": "Marsha Blackburn",
+    "role": "Senator · Judiciary",
+    "party": "R-TN",
+    "state": "TN",
+    "chamber": "senate",
+    "committees": [
+      "Judiciary",
+      "Commerce",
+      "Armed Services",
+      "Veterans Affairs"
+    ],
+    "stance": "favorable",
+    "quote": "Conservative firebrand who rose from Tennessee state legislature to become Trump ally",
+    "techRegScore": 0.75,
+    "lobbying": {
+      "topIndustries": [
+        "Telecommunications $890K",
+        "Securities & Investment $650K",
+        "Health Professionals $580K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 72,
+      "education": "BA Mississippi State University",
+      "careerBeforePolitics": "Marketing executive and retail business owner"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "bill-hagerty",
+    "name": "Bill Hagerty",
+    "role": "Senator",
+    "party": "R-TN",
+    "state": "TN",
+    "chamber": "senate",
+    "committees": [
+      "Banking",
+      "Foreign Relations",
+      "Appropriations",
+      "Rules"
+    ],
+    "stance": "favorable",
+    "quote": "Former ambassador and business executive who brings international experience to banking and foreign policy",
+    "techRegScore": 0.68,
+    "lobbying": {
+      "topIndustries": [
+        "Securities & investment $780K",
+        "Manufacturing $580K",
+        "Real estate $450K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 65,
+      "education": "BA Vanderbilt University, MBA Kellogg School Northwestern",
+      "careerBeforePolitics": "Private equity executive, Ambassador to Japan 2017-2019, CEO Hagerty Peterson Company"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "mark-green",
+    "name": "Mark Green",
+    "role": "Representative · Homeland Security",
+    "party": "R-TN",
+    "state": "TN",
+    "chamber": "house",
+    "committees": [
+      "Homeland Security",
+      "Armed Services"
+    ],
+    "stance": "review",
+    "techRegScore": 0.48,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "chuck-fleischmann",
+    "name": "Chuck Fleischmann",
+    "role": "Representative",
+    "party": "R-TN",
+    "state": "TN",
+    "chamber": "house",
+    "committees": [
+      "Appropriations"
+    ],
+    "stance": "review",
+    "techRegScore": 0.4,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "david-kustoff",
+    "name": "David Kustoff",
+    "role": "Representative",
+    "party": "R-TN",
+    "state": "TN",
+    "chamber": "house",
+    "committees": [
+      "Financial Services"
+    ],
+    "stance": "none",
+    "techRegScore": 0.38,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "john-rose",
+    "name": "John Rose",
+    "role": "Representative",
+    "party": "R-TN",
+    "state": "TN",
+    "chamber": "house",
+    "committees": [
+      "Financial Services"
+    ],
+    "stance": "none",
+    "techRegScore": 0.35,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "morgan-griffith",
+    "name": "Morgan Griffith",
+    "role": "Representative · Energy and Commerce",
+    "party": "R-TN",
+    "state": "TN",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce"
+    ],
+    "stance": "none",
+    "techRegScore": 0.35,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "scott-desjarlais",
+    "name": "Scott DesJarlais",
+    "role": "Representative",
+    "party": "R-TN",
+    "state": "TN",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Agriculture"
+    ],
+    "stance": "none",
+    "techRegScore": 0.3,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "diana-harshbarger",
+    "name": "Diana Harshbarger",
+    "role": "Representative · Energy and Commerce",
+    "party": "R-TN",
+    "state": "TN",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce"
+    ],
+    "stance": "none",
+    "techRegScore": 0.28,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "tim-burchett",
+    "name": "Tim Burchett",
+    "role": "Representative",
+    "party": "R-TN",
+    "state": "TN",
+    "chamber": "house",
+    "committees": [
+      "Foreign Affairs",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "none",
+    "techRegScore": 0.25,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "andy-ogles",
+    "name": "Andy Ogles",
+    "role": "Representative",
+    "party": "R-TN",
+    "state": "TN",
+    "chamber": "house",
+    "committees": [
+      "Financial Services"
+    ],
+    "stance": "none",
+    "techRegScore": 0.2,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "id": "ed-case",
+    "name": "Ed Case",
+    "role": "Representative",
+    "party": "D-HI",
+    "state": "HI",
+    "chamber": "house",
+    "committees": [
+      "Appropriations",
+      "Natural Resources"
+    ],
+    "stance": "review",
+    "techRegScore": 0.4,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "jill-tokuda",
+    "name": "Jill Tokuda",
+    "role": "Representative",
+    "party": "D-HI",
+    "state": "HI",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Agriculture"
+    ],
+    "stance": "none",
+    "techRegScore": 0.35,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "mazie-hirono",
+    "name": "Mazie Hirono",
+    "role": "Senator · Judiciary",
+    "party": "D-HI",
+    "state": "HI",
+    "chamber": "senate",
+    "committees": [
+      "Judiciary",
+      "Armed Services",
+      "Energy",
+      "Veterans Affairs"
+    ],
+    "stance": "none",
+    "quote": "Fierce questioning of Trump judicial nominees and blunt speaking style",
+    "techRegScore": 0.25,
+    "lobbying": {
+      "topIndustries": [
+        "Lawyers/Law firms $520K",
+        "Health professionals $480K",
+        "Education $390K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 77,
+      "education": "University of Hawaii (BA, JD)",
+      "careerBeforePolitics": "Hawaii state legislator, lieutenant governor, US House member"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "brian-schatz",
+    "name": "Brian Schatz",
+    "role": "Senator · Commerce",
+    "party": "D-HI",
+    "state": "HI",
+    "chamber": "senate",
+    "committees": [
+      "Appropriations",
+      "Commerce",
+      "Indian Affairs"
+    ],
+    "stance": "none",
+    "quote": "Progressive climate advocate focused on renewable energy and Pacific issues",
+    "techRegScore": 0.25,
+    "lobbying": {
+      "topIndustries": [
+        "Defense Aerospace: $125K",
+        "Electric Utilities: $95K",
+        "Tourism: $85K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 52,
+      "education": "BA Pomona College",
+      "careerBeforePolitics": "Nonprofit CEO, Hawaii House (1998-2006), Lt. Governor of Hawaii (2010-2012)"
+    },
+    "seatSafety": "safe"
+  }
+]

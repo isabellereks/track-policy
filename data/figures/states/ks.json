@@ -1,0 +1,158 @@
+[
+  {
+    "id": "roger-marshall",
+    "name": "Roger Marshall",
+    "role": "Senator",
+    "party": "R-KS",
+    "state": "KS",
+    "chamber": "senate",
+    "committees": [
+      "Agriculture",
+      "HELP",
+      "Small Business",
+      "Budget"
+    ],
+    "stance": "favorable",
+    "quote": "Physician-turned-senator who battles federal health bureaucracy and champions rural healthcare",
+    "techRegScore": 0.73,
+    "lobbying": {
+      "topIndustries": [
+        "Agriculture $620K",
+        "Health professionals $480K",
+        "Oil & gas $390K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 64,
+      "education": "BS Kansas State University, MD University of Kansas School of Medicine",
+      "careerBeforePolitics": "Obstetrician-gynecologist, delivered over 5,000 babies, U.S. House 2017-2021"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "ron-estes",
+    "name": "Ron Estes",
+    "role": "Representative",
+    "party": "R-KS",
+    "state": "KS",
+    "chamber": "house",
+    "committees": [
+      "Ways and Means"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.69,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "jerry-moran",
+    "name": "Jerry Moran",
+    "role": "Senator · Commerce",
+    "party": "R-KS",
+    "state": "KS",
+    "chamber": "senate",
+    "committees": [
+      "Appropriations",
+      "Commerce",
+      "Veterans Affairs",
+      "Indian Affairs"
+    ],
+    "stance": "favorable",
+    "quote": "Pragmatic conservative who focuses on Kansas agriculture and veterans issues",
+    "techRegScore": 0.68,
+    "lobbying": {
+      "topIndustries": [
+        "Agribusiness $1.8M",
+        "Health professionals $985K",
+        "Securities & Investment $875K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 70,
+      "education": "University of Kansas (BA, JD)",
+      "careerBeforePolitics": "Attorney in private practice, bank president and CEO"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "tracey-mann",
+    "name": "Tracey Mann",
+    "role": "Representative · Science, Space, and Technology",
+    "party": "R-KS",
+    "state": "KS",
+    "chamber": "house",
+    "committees": [
+      "Agriculture",
+      "Science, Space, and Technology"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.68,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "jake-laturner",
+    "name": "Jake LaTurner",
+    "role": "Representative",
+    "party": "R-KS",
+    "state": "KS",
+    "chamber": "house",
+    "committees": [
+      "Financial Services"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.65,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "sharice-davids",
+    "name": "Sharice Davids",
+    "role": "Representative",
+    "party": "D-KS",
+    "state": "KS",
+    "chamber": "house",
+    "committees": [
+      "Transportation and Infrastructure",
+      "Small Business"
+    ],
+    "stance": "none",
+    "techRegScore": 0.31,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "toss-up"
+  }
+]

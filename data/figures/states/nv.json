@@ -1,0 +1,158 @@
+[
+  {
+    "id": "mark-amodei",
+    "name": "Mark Amodei",
+    "role": "Representative",
+    "party": "R-NV",
+    "state": "NV",
+    "chamber": "house",
+    "committees": [
+      "Appropriations"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.65,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "catherine-cortez-masto",
+    "name": "Catherine Cortez Masto",
+    "role": "Senator",
+    "party": "D-NV",
+    "state": "NV",
+    "chamber": "senate",
+    "committees": [
+      "Banking",
+      "Finance",
+      "Indian Affairs",
+      "Rules"
+    ],
+    "stance": "review",
+    "quote": "First Latina senator and former Nevada Attorney General focused on consumer protection",
+    "techRegScore": 0.4,
+    "lobbying": {
+      "topIndustries": [
+        "Casinos/Gambling $445K",
+        "Securities & Investment $385K",
+        "Real Estate $320K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 60,
+      "education": "BA University of Nevada Reno, JD Gonzaga University School of Law",
+      "careerBeforePolitics": "Attorney, Chief of Staff to Governor Kenny Guinn, Nevada Attorney General (2007-2015)"
+    },
+    "seatSafety": "toss-up"
+  },
+  {
+    "id": "jacky-rosen",
+    "name": "Jacky Rosen",
+    "role": "Senator · Commerce",
+    "party": "D-NV",
+    "state": "NV",
+    "chamber": "senate",
+    "committees": [
+      "Armed Services",
+      "Commerce",
+      "HELP",
+      "Small Business"
+    ],
+    "stance": "none",
+    "quote": "Pragmatic moderate who focuses on Nevada jobs and defense issues",
+    "techRegScore": 0.35,
+    "lobbying": {
+      "topIndustries": [
+        "Securities & Investment: $890K",
+        "Real Estate: $645K",
+        "Gambling & Casinos: $580K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 67,
+      "education": "University of Minnesota (BA Psychology), University of Nevada Las Vegas (MBA)",
+      "careerBeforePolitics": "Software developer, synagogue president, consultant"
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "susie-lee",
+    "name": "Susie Lee",
+    "role": "Representative",
+    "party": "D-NV",
+    "state": "NV",
+    "chamber": "house",
+    "committees": [
+      "Appropriations"
+    ],
+    "stance": "none",
+    "techRegScore": 0.35,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "toss-up"
+  },
+  {
+    "id": "dina-titus",
+    "name": "Dina Titus",
+    "role": "Representative",
+    "party": "D-NV",
+    "state": "NV",
+    "chamber": "house",
+    "committees": [
+      "Transportation and Infrastructure",
+      "Foreign Affairs"
+    ],
+    "stance": "none",
+    "techRegScore": 0.32,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "steven-horsford",
+    "name": "Steven Horsford",
+    "role": "Representative",
+    "party": "D-NV",
+    "state": "NV",
+    "chamber": "house",
+    "committees": [
+      "Budget",
+      "Ways and Means"
+    ],
+    "stance": "none",
+    "techRegScore": 0.32,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  }
+]

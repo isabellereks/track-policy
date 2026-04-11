@@ -1,0 +1,255 @@
+[
+  {
+    "id": "john-sarbanes",
+    "name": "John Sarbanes",
+    "role": "Representative · Energy and Commerce",
+    "party": "D-MD",
+    "state": "MD",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce",
+      "Oversight and Accountability"
+    ],
+    "stance": "concerning",
+    "techRegScore": 0.78,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "glenn-ivey",
+    "name": "Glenn Ivey",
+    "role": "Representative · Judiciary",
+    "party": "D-MD",
+    "state": "MD",
+    "chamber": "house",
+    "committees": [
+      "Judiciary",
+      "Ethics"
+    ],
+    "stance": "concerning",
+    "techRegScore": 0.75,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "kweisi-mfume",
+    "name": "Kweisi Mfume",
+    "role": "Representative",
+    "party": "D-MD",
+    "state": "MD",
+    "chamber": "house",
+    "committees": [
+      "Oversight and Accountability",
+      "Small Business"
+    ],
+    "stance": "concerning",
+    "techRegScore": 0.75,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "dutch-ruppersberger",
+    "name": "Dutch Ruppersberger",
+    "role": "Representative",
+    "party": "D-MD",
+    "state": "MD",
+    "chamber": "house",
+    "committees": [
+      "Appropriations"
+    ],
+    "stance": "concerning",
+    "techRegScore": 0.68,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "steny-hoyer",
+    "name": "Steny Hoyer",
+    "role": "Representative",
+    "party": "D-MD",
+    "state": "MD",
+    "chamber": "house",
+    "committees": [
+      "Financial Services"
+    ],
+    "stance": "concerning",
+    "techRegScore": 0.68,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "david-trone",
+    "name": "David Trone",
+    "role": "Representative",
+    "party": "D-MD",
+    "state": "MD",
+    "chamber": "house",
+    "committees": [
+      "Appropriations",
+      "Joint Economic Committee"
+    ],
+    "stance": "concerning",
+    "techRegScore": 0.65,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "andy-harris",
+    "name": "Andy Harris",
+    "role": "Representative",
+    "party": "R-MD",
+    "state": "MD",
+    "chamber": "house",
+    "committees": [
+      "Appropriations"
+    ],
+    "stance": "none",
+    "techRegScore": 0.35,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "chris-van-hollen",
+    "name": "Chris Van Hollen",
+    "role": "Senator",
+    "party": "D-MD",
+    "state": "MD",
+    "chamber": "senate",
+    "committees": [
+      "Appropriations",
+      "Banking",
+      "Foreign Relations",
+      "Budget"
+    ],
+    "stance": "none",
+    "quote": "Former DCCC chair and policy wonk focused on financial regulation",
+    "techRegScore": 0.3,
+    "lobbying": {
+      "topIndustries": [
+        "Securities & Investment $890K",
+        "Real Estate $445K",
+        "Lawyers/Law Firms $425K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 65,
+      "education": "BA Swarthmore College, JD Georgetown Law",
+      "careerBeforePolitics": "Attorney, legislative aide, served in Maryland General Assembly and U.S. House"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "angela-alsobrooks",
+    "name": "Angela Alsobrooks",
+    "role": "Senator · Judiciary",
+    "party": "D-MD",
+    "state": "MD",
+    "chamber": "senate",
+    "committees": [
+      "Banking",
+      "Judiciary"
+    ],
+    "stance": "none",
+    "quote": "First-term senator focused on criminal justice reform and economic development",
+    "techRegScore": 0.3,
+    "lobbying": {
+      "topIndustries": [
+        "Healthcare $850K",
+        "Technology $720K",
+        "Financial Services $690K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 53,
+      "education": "JD from University of Maryland Law School, BA from Duke University",
+      "careerBeforePolitics": "Prosecutor and Prince George's County Executive for 8 years"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "jamie-raskin",
+    "name": "Jamie Raskin",
+    "role": "Representative · Judiciary",
+    "party": "D-MD",
+    "state": "MD",
+    "chamber": "house",
+    "committees": [
+      "Judiciary",
+      "Oversight"
+    ],
+    "stance": "none",
+    "quote": "Constitutional scholar and articulate defender of democracy",
+    "techRegScore": 0.3,
+    "lobbying": {
+      "topIndustries": [
+        "Government Unions $195K",
+        "Education $165K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 62,
+      "education": "BA Harvard, JD Harvard Law",
+      "careerBeforePolitics": "Constitutional law professor, Maryland state senator"
+    },
+    "seatSafety": "safe"
+  }
+]

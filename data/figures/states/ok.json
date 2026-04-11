@@ -1,0 +1,187 @@
+[
+  {
+    "id": "josh-brecheen",
+    "name": "Josh Brecheen",
+    "role": "Representative",
+    "party": "R-OK",
+    "state": "OK",
+    "chamber": "house",
+    "committees": [
+      "Natural Resources",
+      "Oversight and Accountability"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.79,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "kevin-hern",
+    "name": "Kevin Hern",
+    "role": "Representative",
+    "party": "R-OK",
+    "state": "OK",
+    "chamber": "house",
+    "committees": [
+      "Budget",
+      "Ways and Means"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.73,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "stephanie-bice",
+    "name": "Stephanie Bice",
+    "role": "Representative · Science, Space, and Technology",
+    "party": "R-OK",
+    "state": "OK",
+    "chamber": "house",
+    "committees": [
+      "Science, Space, and Technology",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.71,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "james-lankford",
+    "name": "James Lankford",
+    "role": "Senator · Homeland Security",
+    "party": "R-OK",
+    "state": "OK",
+    "chamber": "senate",
+    "committees": [
+      "Appropriations",
+      "Finance",
+      "Homeland Security",
+      "Indian Affairs"
+    ],
+    "stance": "favorable",
+    "quote": "Former Baptist minister who brings strong conservative values and detailed policy knowledge",
+    "techRegScore": 0.68,
+    "lobbying": {
+      "topIndustries": [
+        "Oil & Gas $625K",
+        "Defense $445K",
+        "Finance $385K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 56,
+      "education": "University of Texas (B.S. Secondary Education), Southwestern Seminary (Master of Divinity)",
+      "careerBeforePolitics": "Baptist minister, youth camp director, served at Falls Creek youth camp"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "frank-lucas",
+    "name": "Frank Lucas",
+    "role": "Representative · Science, Space, and Technology",
+    "party": "R-OK",
+    "state": "OK",
+    "chamber": "house",
+    "committees": [
+      "Agriculture",
+      "Science, Space, and Technology"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.68,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "markwayne-mullin",
+    "name": "Markwayne Mullin",
+    "role": "Senator",
+    "party": "R-OK",
+    "state": "OK",
+    "chamber": "senate",
+    "committees": [
+      "Armed Services",
+      "Environment",
+      "HELP",
+      "Indian Affairs"
+    ],
+    "stance": "favorable",
+    "quote": "Former mixed martial artist and plumber turned hard-charging conservative",
+    "techRegScore": 0.65,
+    "lobbying": {
+      "topIndustries": [
+        "Oil & Gas $285,000",
+        "Electric Utilities $125,000",
+        "Real Estate $95,000"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 47,
+      "education": "Oklahoma State University Institute of Technology (Associate's)",
+      "careerBeforePolitics": "Plumber, business owner of Mullin Plumbing, professional mixed martial arts fighter"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "tom-cole",
+    "name": "Tom Cole",
+    "role": "Representative · Appropriations Committee Chair",
+    "party": "R-OK",
+    "state": "OK",
+    "chamber": "house",
+    "committees": [
+      "Appropriations"
+    ],
+    "stance": "review",
+    "quote": "Pragmatic conservative dealmaker who works across the aisle on appropriations",
+    "techRegScore": 0.4,
+    "lobbying": {
+      "topIndustries": [
+        "Defense contractors with $180,000",
+        "Oil & Gas with $155,000"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 75,
+      "education": "BA Grinnell College, MA Yale University, PhD University of Oklahoma",
+      "careerBeforePolitics": "History professor, Oklahoma Secretary of State, consultant"
+    },
+    "seatSafety": "safe"
+  }
+]

@@ -1,0 +1,236 @@
+{
+  "state": "Utah",
+  "stateCode": "UT",
+  "region": "na",
+  "stance": "review",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "Utah has 12 bills tracked in 2025–2026. 10 are already enacted.",
+  "legislation": [
+    {
+      "id": "ut-hb0076",
+      "billCode": "HB0076",
+      "title": "Data Center Water Transparency Amendments",
+      "summary": "Data Center Water Transparency Amendments",
+      "stage": "Enacted",
+      "impactTags": [
+        "nda-transparency"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-23",
+      "partyOrigin": "B",
+      "sourceUrl": "https://le.utah.gov/~2026/bills/static/HB0076.html",
+      "legiscanUrl": "https://legiscan.com/UT/bill/HB0076/2026",
+      "legiscanId": 2060937,
+      "sponsors": [
+        "Jill Koford",
+        "Scott Sandall",
+        "John Arthur",
+        "Jennifer Dailey-Provost"
+      ]
+    },
+    {
+      "id": "ut-hb0273",
+      "billCode": "HB0273",
+      "title": "Classroom Technology Amendments",
+      "summary": "Classroom Technology Amendments",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-18",
+      "partyOrigin": "B",
+      "sourceUrl": "https://le.utah.gov/~2026/bills/static/HB0273.html",
+      "legiscanUrl": "https://legiscan.com/UT/bill/HB0273/2026",
+      "legiscanId": 2084286,
+      "sponsors": [
+        "Ariel Defay",
+        "Chris Wilson",
+        "Cheryl Acton",
+        "Carl Albrecht"
+      ]
+    },
+    {
+      "id": "ut-hb0042",
+      "billCode": "HB0042",
+      "title": "School Cybersecurity Amendments",
+      "summary": "School Cybersecurity Amendments",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-19",
+      "partyOrigin": "R",
+      "sourceUrl": "https://le.utah.gov/~2026/bills/static/HB0042.html",
+      "legiscanUrl": "https://legiscan.com/UT/bill/HB0042/2026",
+      "legiscanId": 2060253,
+      "sponsors": [
+        "Ryan Wilcox",
+        "Ann Millner"
+      ]
+    },
+    {
+      "id": "ut-sb0195",
+      "billCode": "SB0195",
+      "title": "Workforce Development",
+      "summary": "Workforce Development",
+      "stage": "Enacted",
+      "impactTags": [
+        "job-creation"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-24",
+      "partyOrigin": "R",
+      "sourceUrl": "https://le.utah.gov/~2026/bills/static/SB0195.html",
+      "legiscanUrl": "https://legiscan.com/UT/bill/SB0195/2026",
+      "legiscanId": 2093392,
+      "sponsors": [
+        "Ann Millner",
+        "Karen Peterson"
+      ]
+    },
+    {
+      "id": "ut-sb0123",
+      "billCode": "SB0123",
+      "title": "Privacy and Cybersecurity Amendments",
+      "summary": "Privacy and Cybersecurity Amendments",
+      "stage": "Enacted",
+      "impactTags": [
+        "data-privacy"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-17",
+      "partyOrigin": "R",
+      "sourceUrl": "https://le.utah.gov/~2026/bills/static/SB0123.html",
+      "legiscanUrl": "https://legiscan.com/UT/bill/SB0123/2026",
+      "legiscanId": 2071472,
+      "sponsors": [
+        "Wayne Harper",
+        "Ryan Wilcox"
+      ]
+    },
+    {
+      "id": "ut-sb0085",
+      "billCode": "SB0085",
+      "title": "Excellence in Education and Leadership Supplement Modifications",
+      "summary": "Excellence in Education and Leadership Supplement Modifications",
+      "stage": "Dead",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-06",
+      "partyOrigin": "R",
+      "sourceUrl": "https://le.utah.gov/~2026/bills/static/SB0085.html",
+      "legiscanUrl": "https://legiscan.com/UT/bill/SB0085/2026",
+      "legiscanId": 2066119,
+      "sponsors": [
+        "Lincoln Fillmore",
+        "Mark Strong"
+      ]
+    },
+    {
+      "id": "ut-hb0165",
+      "billCode": "HB0165",
+      "title": "Critical Infrastructure Amendments",
+      "summary": "Critical Infrastructure Amendments",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-17",
+      "partyOrigin": "R",
+      "sourceUrl": "https://le.utah.gov/~2026/bills/static/HB0165.html",
+      "legiscanUrl": "https://legiscan.com/UT/bill/HB0165/2026",
+      "legiscanId": 2067334,
+      "sponsors": [
+        "Walt Brooks",
+        "Keven Stratton"
+      ]
+    },
+    {
+      "id": "ut-hb0008",
+      "billCode": "HB0008",
+      "title": "State Agency Fees and Internal Service Fund Authorization and Appropriations",
+      "summary": "State Agency Fees and Internal Service Fund Authorization and Appropriations",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-26",
+      "partyOrigin": "R",
+      "sourceUrl": "https://le.utah.gov/~2026/bills/static/HB0008.html",
+      "legiscanUrl": "https://legiscan.com/UT/bill/HB0008/2026",
+      "legiscanId": 2085515,
+      "sponsors": [
+        "Walt Brooks",
+        "Scott Sandall"
+      ]
+    },
+    {
+      "id": "ut-sb0034",
+      "billCode": "SB0034",
+      "title": "Public Education Revisions",
+      "summary": "Public Education Revisions",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-19",
+      "partyOrigin": "R",
+      "sourceUrl": "https://le.utah.gov/~2026/bills/static/SB0034.html",
+      "legiscanUrl": "https://legiscan.com/UT/bill/SB0034/2026",
+      "legiscanId": 2060476,
+      "sponsors": [
+        "John Johnson",
+        "Neil Walter"
+      ]
+    },
+    {
+      "id": "ut-sb0051",
+      "billCode": "SB0051",
+      "title": "School Safety Modifications",
+      "summary": "School Safety Modifications",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-19",
+      "partyOrigin": "R",
+      "sourceUrl": "https://le.utah.gov/~2026/bills/static/SB0051.html",
+      "legiscanUrl": "https://legiscan.com/UT/bill/SB0051/2026",
+      "legiscanId": 2061182,
+      "sponsors": [
+        "Derrin Owens",
+        "Ryan Wilcox"
+      ]
+    },
+    {
+      "id": "ut-hb0044",
+      "billCode": "HB0044",
+      "title": "School Security Personnel Standards",
+      "summary": "School Security Personnel Standards",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-19",
+      "partyOrigin": "R",
+      "sourceUrl": "https://le.utah.gov/~2026/bills/static/HB0044.html",
+      "legiscanUrl": "https://legiscan.com/UT/bill/HB0044/2026",
+      "legiscanId": 2060251,
+      "sponsors": [
+        "Ryan Wilcox",
+        "Ann Millner"
+      ]
+    },
+    {
+      "id": "ut-sb0038",
+      "billCode": "SB0038",
+      "title": "Consumer Protection Modifications",
+      "summary": "Consumer Protection Modifications",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-17",
+      "partyOrigin": "B",
+      "sourceUrl": "https://le.utah.gov/~2026/bills/static/SB0038.html",
+      "legiscanUrl": "https://legiscan.com/UT/bill/SB0038/2026",
+      "legiscanId": 2060739,
+      "sponsors": [
+        "Todd Weiler",
+        "Ashlee Matthews"
+      ]
+    }
+  ]
+}

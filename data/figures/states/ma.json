@@ -1,0 +1,278 @@
+[
+  {
+    "id": "katherine-clark",
+    "name": "Katherine Clark",
+    "role": "Representative · House Minority Whip",
+    "party": "D-MA",
+    "state": "MA",
+    "chamber": "house",
+    "committees": [],
+    "stance": "concerning",
+    "quote": "Tech policy expert and fierce advocate for working families",
+    "techRegScore": 0.75,
+    "lobbying": {
+      "topIndustries": [
+        "Healthcare $320K",
+        "Technology $285K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 61,
+      "education": "BA Saint Lawrence University, JD Cornell",
+      "careerBeforePolitics": "Prosecutor, MA state legislator"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "stephen-lynch",
+    "name": "Stephen Lynch",
+    "role": "Representative",
+    "party": "D-MA",
+    "state": "MA",
+    "chamber": "house",
+    "committees": [
+      "Financial Services",
+      "Oversight and Accountability"
+    ],
+    "stance": "review",
+    "techRegScore": 0.4,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "seth-moulton",
+    "name": "Seth Moulton",
+    "role": "Representative",
+    "party": "D-MA",
+    "state": "MA",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Budget"
+    ],
+    "stance": "review",
+    "techRegScore": 0.32,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "jake-auchincloss",
+    "name": "Jake Auchincloss",
+    "role": "Representative · Science, Space, and Technology",
+    "party": "D-MA",
+    "state": "MA",
+    "chamber": "house",
+    "committees": [
+      "Transportation and Infrastructure",
+      "Science, Space, and Technology"
+    ],
+    "stance": "none",
+    "techRegScore": 0.3,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "richard-neal",
+    "name": "Richard Neal",
+    "role": "Representative",
+    "party": "D-MA",
+    "state": "MA",
+    "chamber": "house",
+    "committees": [
+      "Ways and Means"
+    ],
+    "stance": "none",
+    "techRegScore": 0.25,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "bill-keating",
+    "name": "Bill Keating",
+    "role": "Representative",
+    "party": "D-MA",
+    "state": "MA",
+    "chamber": "house",
+    "committees": [
+      "Foreign Affairs",
+      "Armed Services"
+    ],
+    "stance": "none",
+    "techRegScore": 0.25,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "ed-markey",
+    "name": "Ed Markey",
+    "role": "Senator · Commerce",
+    "party": "D-MA",
+    "state": "MA",
+    "chamber": "senate",
+    "committees": [
+      "Commerce",
+      "Foreign Relations",
+      "Environment",
+      "Small Business"
+    ],
+    "stance": "none",
+    "quote": "Progressive climate warrior and tech regulation advocate, co-author of Green New Deal",
+    "techRegScore": 0.2,
+    "lobbying": {
+      "topIndustries": [
+        "Securities & Investment: $285K",
+        "Lawyers/Law Firms: $245K",
+        "Real Estate: $180K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 78,
+      "education": "BA Boston College, JD Boston College Law School",
+      "careerBeforePolitics": "Lawyer, served 37 years in House before Senate"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "lori-trahan",
+    "name": "Lori Trahan",
+    "role": "Representative · Energy and Commerce",
+    "party": "D-MA",
+    "state": "MA",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce"
+    ],
+    "stance": "none",
+    "techRegScore": 0.18,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "elizabeth-warren",
+    "name": "Elizabeth Warren",
+    "role": "Senator",
+    "party": "D-MA",
+    "state": "MA",
+    "chamber": "senate",
+    "committees": [
+      "Banking",
+      "Finance",
+      "Armed Services"
+    ],
+    "stance": "none",
+    "quote": "Aggressive questioning of bank CEOs and corporate accountability crusade",
+    "techRegScore": 0.15,
+    "lobbying": {
+      "topIndustries": [
+        "Securities & Investment $1.1M",
+        "Lawyers/Law firms $980K",
+        "Education $750K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 75,
+      "education": "University of Houston (BS), Rutgers Law School (JD), Harvard Law School (professor)",
+      "careerBeforePolitics": "Harvard Law professor, bankruptcy law expert, created Consumer Financial Protection Bureau"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "jim-mcgovern",
+    "name": "Jim McGovern",
+    "role": "Representative",
+    "party": "D-MA",
+    "state": "MA",
+    "chamber": "house",
+    "committees": [
+      "Rules",
+      "Agriculture"
+    ],
+    "stance": "none",
+    "techRegScore": 0.15,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "ayanna-pressley",
+    "name": "Ayanna Pressley",
+    "role": "Representative",
+    "party": "D-MA",
+    "state": "MA",
+    "chamber": "house",
+    "committees": [
+      "Financial Services",
+      "Oversight and Accountability"
+    ],
+    "stance": "none",
+    "techRegScore": 0.1,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  }
+]

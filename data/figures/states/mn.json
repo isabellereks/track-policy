@@ -1,0 +1,257 @@
+[
+  {
+    "id": "pete-stauber",
+    "name": "Pete Stauber",
+    "role": "Representative",
+    "party": "R-MN",
+    "state": "MN",
+    "chamber": "house",
+    "committees": [
+      "Transportation and Infrastructure",
+      "Natural Resources"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.66,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "brad-finstad",
+    "name": "Brad Finstad",
+    "role": "Representative",
+    "party": "R-MN",
+    "state": "MN",
+    "chamber": "house",
+    "committees": [
+      "Agriculture",
+      "Small Business"
+    ],
+    "stance": "review",
+    "techRegScore": 0.59,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "tom-emmer",
+    "name": "Tom Emmer",
+    "role": "Representative · Majority Whip",
+    "party": "R-MN",
+    "state": "MN",
+    "chamber": "house",
+    "committees": [],
+    "stance": "review",
+    "quote": "Minnesota nice approach to conservative politics and cryptocurrency advocacy",
+    "techRegScore": 0.55,
+    "lobbying": {
+      "topIndustries": [
+        "agriculture with $156,000",
+        "financial_services with $134,000"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 63,
+      "education": "B.A. University of Alaska Fairbanks, J.D. William Mitchell College of Law",
+      "careerBeforePolitics": "Attorney, hockey coach, Minnesota State Senate"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "michelle-fischbach",
+    "name": "Michelle Fischbach",
+    "role": "Representative",
+    "party": "R-MN",
+    "state": "MN",
+    "chamber": "house",
+    "committees": [
+      "Appropriations"
+    ],
+    "stance": "review",
+    "techRegScore": 0.42,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "dean-phillips",
+    "name": "Dean Phillips",
+    "role": "Representative",
+    "party": "D-MN",
+    "state": "MN",
+    "chamber": "house",
+    "committees": [
+      "Financial Services"
+    ],
+    "stance": "none",
+    "techRegScore": 0.35,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "angie-craig",
+    "name": "Angie Craig",
+    "role": "Representative · Energy and Commerce",
+    "party": "D-MN",
+    "state": "MN",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce"
+    ],
+    "stance": "none",
+    "techRegScore": 0.33,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "toss-up"
+  },
+  {
+    "id": "tina-smith",
+    "name": "Tina Smith",
+    "role": "Senator",
+    "party": "D-MN",
+    "state": "MN",
+    "chamber": "senate",
+    "committees": [
+      "Agriculture",
+      "Banking",
+      "HELP",
+      "Indian Affairs"
+    ],
+    "stance": "none",
+    "quote": "Pragmatic progressive focused on rural-urban coalition building",
+    "techRegScore": 0.3,
+    "lobbying": {
+      "topIndustries": [
+        "Agribusiness $234K",
+        "Health Services $198K",
+        "Real Estate $167K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 66,
+      "education": "BA Stanford University, MBA Dartmouth Tuck School",
+      "careerBeforePolitics": "Marketing executive, Lieutenant Governor of Minnesota"
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "betty-mccollum",
+    "name": "Betty McCollum",
+    "role": "Representative",
+    "party": "D-MN",
+    "state": "MN",
+    "chamber": "house",
+    "committees": [
+      "Appropriations"
+    ],
+    "stance": "none",
+    "techRegScore": 0.26,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "ilhan-omar",
+    "name": "Ilhan Omar",
+    "role": "Representative",
+    "party": "D-MN",
+    "state": "MN",
+    "chamber": "house",
+    "committees": [
+      "Budget",
+      "Education"
+    ],
+    "stance": "none",
+    "quote": "Bold progressive positions on foreign policy and social justice",
+    "techRegScore": 0.25,
+    "lobbying": {
+      "topIndustries": [
+        "Healthcare $125K",
+        "Education $95K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 42,
+      "education": "BA North Dakota State University",
+      "careerBeforePolitics": "Community organizer, policy aide"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "amy-klobuchar",
+    "name": "Amy Klobuchar",
+    "role": "Senator · Judiciary",
+    "party": "D-MN",
+    "state": "MN",
+    "chamber": "senate",
+    "committees": [
+      "Judiciary",
+      "Commerce",
+      "Rules",
+      "Agriculture"
+    ],
+    "stance": "review",
+    "quote": "Practical Midwestern moderate known for bipartisan dealmaking and anti-monopoly work",
+    "techRegScore": 0.2,
+    "lobbying": {
+      "topIndustries": [
+        "Agribusiness $890K",
+        "Legal/Lobbying $670K",
+        "Finance/Insurance $580K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 64,
+      "education": "BA Yale University, JD University of Chicago",
+      "careerBeforePolitics": "Prosecutor, attorney, state legislator"
+    },
+    "seatSafety": "safe"
+  }
+]

@@ -1,0 +1,253 @@
+{
+  "state": "Georgia",
+  "stateCode": "GA",
+  "region": "na",
+  "stance": "concerning",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "Georgia has 12 bills tracked in 2025–2026. 1 is already enacted. 2 relate to moratoriums or prohibitions. 1 offers incentives or exemptions.",
+  "legislation": [
+    {
+      "id": "ga-hb1323",
+      "billCode": "HB1323",
+      "title": "Electrical service; require new data centers to operate as hybrid power data centers",
+      "summary": "A BILL to be entitled an Act to amend Chapter 3 of Title 46 of the Official Code of Georgia Annotated, relating to electrical service, so as to require new data centers to operate as hybrid power data centers; to provide for certification by the Public Service Commission; to p...",
+      "stage": "Filed",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-17",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.legis.ga.gov/legislation/73252",
+      "legiscanUrl": "https://legiscan.com/GA/bill/HB1323/2025",
+      "legiscanId": 2118561,
+      "sponsors": [
+        "Yasmin Neal"
+      ]
+    },
+    {
+      "id": "ga-sb444",
+      "billCode": "SB444",
+      "title": "Private Review Agents; certain decisions with regard to the provision of insurance coverage for healthcare services shall not be based solely on artificial intelligence systems; provide",
+      "summary": "A BILL to be entitled an Act to amend Chapter 46 of Title 33 of the Official Code of Georgia Annotated, relating to certification of private review agents, so as to provide that certain decisions with regard to the provision of insurance coverage for healthcare services shall ...",
+      "stage": "Floor",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-10",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.legis.ga.gov/legislation/72666",
+      "legiscanUrl": "https://legiscan.com/GA/bill/SB444/2025",
+      "legiscanId": 2104411,
+      "sponsors": [
+        "Kay Kirkpatrick",
+        "Ben Watson",
+        "Mike Hodges",
+        "Ed Harbison"
+      ]
+    },
+    {
+      "id": "ga-hb276",
+      "billCode": "HB276",
+      "title": "Income tax; change certain definitions",
+      "summary": "A BILL to be entitled an Act to amend Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to income taxes, so as to change certain definitions regarding such taxes; to provide for related matters; to provide for an effective date; to repeal conflicting la...",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-02-05",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.legis.ga.gov/legislation/69943",
+      "legiscanUrl": "https://legiscan.com/GA/bill/HB276/2025",
+      "legiscanId": 1958329,
+      "sponsors": [
+        "James Burchett",
+        "Bruce Williamson",
+        "Vance Smith",
+        "Trey Kelley"
+      ]
+    },
+    {
+      "id": "ga-hb1063",
+      "billCode": "HB1063",
+      "title": "Electric utilities; protect residential and retail electricity customers from costs associated with data center construction and operation; require",
+      "summary": "A BILL to be entitled an Act to amend Article 1 of Chapter 3 of Title 46 of the Official Code of Georgia Annotated, relating to generation and distribution of electricity generally, so as to require electric utilities to protect residential and retail electricity customers fro...",
+      "stage": "Committee",
+      "impactTags": [
+        "residential-proximity"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-02-17",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.legis.ga.gov/legislation/72514",
+      "legiscanUrl": "https://legiscan.com/GA/bill/HB1063/2025",
+      "legiscanId": 2100505,
+      "sponsors": [
+        "Brad Thomas",
+        "Jon Burns",
+        "Charles Cannon",
+        "Sandy Donatucci"
+      ]
+    },
+    {
+      "id": "ga-hb1059",
+      "billCode": "HB1059",
+      "title": "Data Center Impact Assessment and Development Moratorium Act of 2026; enact",
+      "summary": "A BILL to be entitled an Act to amend Chapter 1 of Title 46 of the Official Code of Georgia Annotated, relating to general provisions regarding public utilities and public transportation, so as to enact the \"Data Center Impact Assessment and Development Moratorium Act of 2026\"...",
+      "stage": "Filed",
+      "impactTags": [
+        "property-values"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-28",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.legis.ga.gov/legislation/72510",
+      "legiscanUrl": "https://legiscan.com/GA/bill/HB1059/2025",
+      "legiscanId": 2100437,
+      "sponsors": [
+        "Derrick Jackson",
+        "Kim Schofield",
+        "Sandra Scott",
+        "Viola Davis"
+      ]
+    },
+    {
+      "id": "ga-sb34",
+      "billCode": "SB34",
+      "title": "Public Service Commission; costs incurred by an electric utility as a result of providing electric services to commercial data centers from being included in any rates; prohibit",
+      "summary": "A BILL to be entitled an Act to amend Chapter 2 of Title 46 of the Official Code of Georgia Annotated, relating to the Public Service Commission, so as to prohibit certain costs incurred by an electric utility as a result of providing electric services to commercial data cente...",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-01-27",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.legis.ga.gov/legislation/69551",
+      "legiscanUrl": "https://legiscan.com/GA/bill/SB34/2025",
+      "legiscanId": 1943236,
+      "sponsors": [
+        "Chuck Hufstetler",
+        "Carden Summers",
+        "John Albers",
+        "Jason Anavitarte"
+      ]
+    },
+    {
+      "id": "ga-hb1387",
+      "billCode": "HB1387",
+      "title": "Ad valorem tax; state-wide homestead exemption in an amount as determined from proceeds generated from collection of certain ad valorem property taxes on data centers",
+      "summary": "A BILL to be entitled an Act to amend Article 2 of Chapter 5 of Title 48 of the Official Code of Georgia Annotated, relating to property tax exemptions and deferral, so as to provide for a state-wide homestead exemption from ad valorem taxes in an amount as determined from the...",
+      "stage": "Filed",
+      "impactTags": [
+        "property-values"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-19",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.legis.ga.gov/legislation/73424",
+      "legiscanUrl": "https://legiscan.com/GA/bill/HB1387/2025",
+      "legiscanId": 2120612,
+      "sponsors": [
+        "Joseph Gullett",
+        "Martin Momtahan",
+        "Brad Thomas"
+      ]
+    },
+    {
+      "id": "ga-sr789",
+      "billCode": "SR789",
+      "title": "Senate Study Committee on the Impact of Artificial Intelligence; create",
+      "summary": "A RESOLUTION creating the Senate Study Committee on the Impact of Artificial Intelligence; and for other purposes.",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-31",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.legis.ga.gov/legislation/73299",
+      "legiscanUrl": "https://legiscan.com/GA/bill/SR789/2025",
+      "legiscanId": 2118544,
+      "sponsors": [
+        "Donzella James",
+        "RaShaun Kemp",
+        "Kenya Wicks",
+        "Michael Rhett"
+      ]
+    },
+    {
+      "id": "ga-hr1788",
+      "billCode": "HR1788",
+      "title": "House Study Committee on Responsible Use of Artificial Intelligence; create",
+      "summary": "A RESOLUTION creating the House Study Committee on Responsible Use of Artificial Intelligence; and for other purposes.",
+      "stage": "Filed",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-18",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.legis.ga.gov/legislation/74217",
+      "legiscanUrl": "https://legiscan.com/GA/bill/HR1788/2025",
+      "legiscanId": 2135917,
+      "sponsors": [
+        "Eric Gisler",
+        "Akbar Ali",
+        "Eric Bell",
+        "Bryce Berry"
+      ]
+    },
+    {
+      "id": "ga-hb147",
+      "billCode": "HB147",
+      "title": "Georgia Technology Authority; annual inventory of artificial intelligence usage by state agencies; provide",
+      "summary": "A BILL to be entitled an Act to amend Chapter 25 of Title 50 of the Official Code of Georgia Annotated, relating to the Georgia Technology Authority, so as to provide for an annual inventory of artificial intelligence usage by state agencies; to provide for annual reports of s...",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-02-20",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.legis.ga.gov/legislation/69569",
+      "legiscanUrl": "https://legiscan.com/GA/bill/HB147/2025",
+      "legiscanId": 1945161,
+      "sponsors": [
+        "Brad Thomas",
+        "Todd Jones",
+        "Clint Crowe",
+        "Joseph Gullett"
+      ]
+    },
+    {
+      "id": "ga-hb1603",
+      "billCode": "HB1603",
+      "title": "Georgia Entertainment Artificial Intelligence Accountability and Performer Protection Act; enact",
+      "summary": "A BILL to be entitled an Act to amend Chapter 1 of Title 10 of the Official Code of Georgia Annotated, relating to selling and other trade practices, so as to enact the \"Georgia Entertainment Artificial Intelligence Accountability and Performer Protection Act\"; to require cons...",
+      "stage": "Filed",
+      "impactTags": [
+        "deepfake-regulation"
+      ],
+      "category": "synthetic-media",
+      "updatedDate": "2026-03-25",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.legis.ga.gov/legislation/74419",
+      "legiscanUrl": "https://legiscan.com/GA/bill/HB1603/2025",
+      "legiscanId": 2138390,
+      "sponsors": [
+        "Yasmin Neal"
+      ]
+    },
+    {
+      "id": "ga-hb171",
+      "billCode": "HB171",
+      "title": "Crimes and offenses; obscenity; repeal and replace Code Section 16-12-80",
+      "summary": "A BILL to be entitled an Act to amend Part 1 of Article 3 of Chapter 12 of Title 16 of the O.C.G.A., relating to general provisions relative to obscenity and related offenses, so as to repeal and replace Code Section 16-12-80, relating to obscene material, distribution, and pe...",
+      "stage": "Committee",
+      "impactTags": [
+        "child-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-02-26",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.legis.ga.gov/legislation/69648",
+      "legiscanUrl": "https://legiscan.com/GA/bill/HB171/2025",
+      "legiscanId": 1947679,
+      "sponsors": [
+        "Brad Thomas",
+        "Todd Jones",
+        "Sandy Donatucci",
+        "Leesa Hagan"
+      ]
+    }
+  ]
+}

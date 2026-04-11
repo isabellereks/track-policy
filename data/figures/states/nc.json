@@ -1,0 +1,399 @@
+[
+  {
+    "id": "dan-bishop",
+    "name": "Dan Bishop",
+    "role": "Representative · Judiciary",
+    "party": "R-NC",
+    "state": "NC",
+    "chamber": "house",
+    "committees": [
+      "Judiciary",
+      "Homeland Security"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.79,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "ted-budd",
+    "name": "Ted Budd",
+    "role": "Representative",
+    "party": "R-NC",
+    "state": "NC",
+    "chamber": "house",
+    "committees": [
+      "Financial Services"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.74,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "patrick-mchenry",
+    "name": "Patrick McHenry",
+    "role": "Representative",
+    "party": "R-NC",
+    "state": "NC",
+    "chamber": "house",
+    "committees": [
+      "Financial Services"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.72,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "ted-budd",
+    "name": "Ted Budd",
+    "role": "Senator · Commerce",
+    "party": "R-NC",
+    "state": "NC",
+    "chamber": "senate",
+    "committees": [
+      "Armed Services",
+      "Commerce",
+      "HELP",
+      "Small Business"
+    ],
+    "stance": "favorable",
+    "quote": "Business-minded conservative focused on fiscal responsibility and gun rights",
+    "techRegScore": 0.7,
+    "lobbying": {
+      "topIndustries": [
+        "Securities & Investment $195,000",
+        "Real Estate $165,000",
+        "Commercial Banks $145,000"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 53,
+      "education": "Appalachian State University (B.S.), Wake Forest University (MBA)",
+      "careerBeforePolitics": "Investment advisor, gun store owner, served in House 2017-2023"
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "greg-murphy",
+    "name": "Greg Murphy",
+    "role": "Representative · Energy and Commerce",
+    "party": "R-NC",
+    "state": "NC",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.68,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "richard-hudson",
+    "name": "Richard Hudson",
+    "role": "Representative · Energy and Commerce",
+    "party": "R-NC",
+    "state": "NC",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.67,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "david-rouzer",
+    "name": "David Rouzer",
+    "role": "Representative",
+    "party": "R-NC",
+    "state": "NC",
+    "chamber": "house",
+    "committees": [
+      "Transportation and Infrastructure",
+      "Agriculture"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.66,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "chuck-edwards",
+    "name": "Chuck Edwards",
+    "role": "Representative",
+    "party": "R-NC",
+    "state": "NC",
+    "chamber": "house",
+    "committees": [
+      "Transportation and Infrastructure",
+      "Veterans' Affairs"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.65,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "thom-tillis",
+    "name": "Thom Tillis",
+    "role": "Senator · Judiciary",
+    "party": "R-NC",
+    "state": "NC",
+    "chamber": "senate",
+    "committees": [
+      "Judiciary",
+      "Armed Services",
+      "Banking",
+      "Veterans Affairs"
+    ],
+    "stance": "review",
+    "quote": "Pragmatic conservative willing to work across the aisle on select issues",
+    "techRegScore": 0.58,
+    "lobbying": {
+      "topIndustries": [
+        "Securities & Investment $1.1M",
+        "Real Estate $678,000",
+        "Insurance $534,000"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 64,
+      "education": "University of Maryland University College (no degree completed)",
+      "careerBeforePolitics": "Technology consulting, insurance, real estate, North Carolina House Speaker"
+    },
+    "seatSafety": "toss-up"
+  },
+  {
+    "id": "don-davis",
+    "name": "Don Davis",
+    "role": "Representative",
+    "party": "D-NC",
+    "state": "NC",
+    "chamber": "house",
+    "committees": [
+      "Agriculture",
+      "Armed Services"
+    ],
+    "stance": "none",
+    "techRegScore": 0.33,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "jeff-jackson",
+    "name": "Jeff Jackson",
+    "role": "Representative",
+    "party": "D-NC",
+    "state": "NC",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Small Business"
+    ],
+    "stance": "none",
+    "techRegScore": 0.31,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "virginia-foxx",
+    "name": "Virginia Foxx",
+    "role": "Representative · Education Committee Chair",
+    "party": "R-NC",
+    "state": "NC",
+    "chamber": "house",
+    "committees": [
+      "Education"
+    ],
+    "stance": "none",
+    "quote": "Fierce opposition to student loan forgiveness and progressive education policies",
+    "techRegScore": 0.3,
+    "lobbying": {
+      "topIndustries": [
+        "Education services with $85,000",
+        "Securities/Investment with $72,000"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 81,
+      "education": "BA University of North Carolina, MA and EdD from University of North Carolina at Greensboro",
+      "careerBeforePolitics": "College administrator and instructor for over 30 years at Appalachian State University"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "deborah-ross",
+    "name": "Deborah Ross",
+    "role": "Representative · Science, Space, and Technology",
+    "party": "D-NC",
+    "state": "NC",
+    "chamber": "house",
+    "committees": [
+      "Science, Space, and Technology",
+      "Judiciary"
+    ],
+    "stance": "none",
+    "techRegScore": 0.26,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "kathy-manning",
+    "name": "Kathy Manning",
+    "role": "Representative",
+    "party": "D-NC",
+    "state": "NC",
+    "chamber": "house",
+    "committees": [
+      "Education and Labor",
+      "Foreign Affairs"
+    ],
+    "stance": "none",
+    "techRegScore": 0.22,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "valerie-foushee",
+    "name": "Valerie Foushee",
+    "role": "Representative · Science, Space, and Technology",
+    "party": "D-NC",
+    "state": "NC",
+    "chamber": "house",
+    "committees": [
+      "Agriculture",
+      "Science, Space, and Technology"
+    ],
+    "stance": "none",
+    "techRegScore": 0.2,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "alma-adams",
+    "name": "Alma Adams",
+    "role": "Representative",
+    "party": "D-NC",
+    "state": "NC",
+    "chamber": "house",
+    "committees": [
+      "Education and Labor",
+      "Agriculture"
+    ],
+    "stance": "none",
+    "techRegScore": 0.18,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  }
+]

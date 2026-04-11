@@ -1,0 +1,285 @@
+[
+  {
+    "id": "paul-gosar",
+    "name": "Paul Gosar",
+    "role": "Representative",
+    "party": "R-AZ",
+    "state": "AZ",
+    "chamber": "house",
+    "committees": [
+      "Natural Resources",
+      "Oversight and Reform"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.82,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "eli-crane",
+    "name": "Eli Crane",
+    "role": "Representative · Homeland Security",
+    "party": "R-AZ",
+    "state": "AZ",
+    "chamber": "house",
+    "committees": [
+      "Homeland Security",
+      "Veterans' Affairs"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.78,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "debbie-lesko",
+    "name": "Debbie Lesko",
+    "role": "Representative · Energy and Commerce",
+    "party": "R-AZ",
+    "state": "AZ",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce",
+      "Rules"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.72,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "david-schweikert",
+    "name": "David Schweikert",
+    "role": "Representative",
+    "party": "R-AZ",
+    "state": "AZ",
+    "chamber": "house",
+    "committees": [
+      "Ways and Means",
+      "Joint Economic Committee"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.65,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "juan-ciscomani",
+    "name": "Juan Ciscomani",
+    "role": "Representative",
+    "party": "R-AZ",
+    "state": "AZ",
+    "chamber": "house",
+    "committees": [
+      "Appropriations"
+    ],
+    "stance": "review",
+    "techRegScore": 0.58,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "toss-up"
+  },
+  {
+    "id": "andy-biggs",
+    "name": "Andy Biggs",
+    "role": "Representative · Judiciary",
+    "party": "R-AZ",
+    "state": "AZ",
+    "chamber": "house",
+    "committees": [
+      "Judiciary"
+    ],
+    "stance": "review",
+    "quote": "Ultra-conservative Freedom Caucus founder and constitutional purist",
+    "techRegScore": 0.45,
+    "lobbying": {
+      "topIndustries": [
+        "real estate with $89K",
+        "mining with $76K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 66,
+      "education": "Arizona State University (BA, JD)",
+      "careerBeforePolitics": "Attorney, Arizona state legislature (22 years)"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "mark-kelly",
+    "name": "Mark Kelly",
+    "role": "Senator · Energy",
+    "party": "D-AZ",
+    "state": "AZ",
+    "chamber": "senate",
+    "committees": [
+      "Armed Services",
+      "Energy",
+      "Intelligence",
+      "Joint Economic"
+    ],
+    "stance": "review",
+    "quote": "Astronaut background, gun safety advocate after Gabby Giffords shooting, defense expertise",
+    "techRegScore": 0.4,
+    "lobbying": {
+      "topIndustries": [
+        "Defense Aerospace: $1.4M",
+        "Securities & Investment: $980K",
+        "Real Estate: $720K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 60,
+      "education": "US Merchant Marine Academy (BS Marine Engineering), Naval Postgraduate School (MS Aeronautical Engineering)",
+      "careerBeforePolitics": "Navy pilot, NASA astronaut, four Space Shuttle missions"
+    },
+    "seatSafety": "toss-up"
+  },
+  {
+    "id": "ruben-gallego",
+    "name": "Ruben Gallego",
+    "role": "Senator",
+    "party": "D-AZ",
+    "state": "AZ",
+    "chamber": "senate",
+    "committees": [
+      "Armed Services",
+      "Veterans Affairs",
+      "Indian Affairs"
+    ],
+    "stance": "none",
+    "quote": "Marine veteran and progressive hawk who defeated Kari Lake",
+    "techRegScore": 0.35,
+    "lobbying": {
+      "topIndustries": [
+        "Defense contractors $680K",
+        "Labor unions $520K",
+        "Real estate $340K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 44,
+      "education": "Harvard University (BA), University of Denver (JD)",
+      "careerBeforePolitics": "Marine infantry, Iraq War veteran, Harvard graduate, Arizona State House, 10 years in U.S. House"
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "greg-stanton",
+    "name": "Greg Stanton",
+    "role": "Representative · Judiciary",
+    "party": "D-AZ",
+    "state": "AZ",
+    "chamber": "house",
+    "committees": [
+      "Judiciary",
+      "Transportation"
+    ],
+    "stance": "review",
+    "quote": "Former Phoenix mayor focused on infrastructure and urban development",
+    "techRegScore": 0.35,
+    "lobbying": {
+      "topIndustries": [
+        "Real estate with $155K",
+        "Technology with $125K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 54,
+      "education": "BA Marquette University, JD University of Michigan",
+      "careerBeforePolitics": "Attorney, Phoenix city council, mayor of Phoenix"
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "ruben-gallego",
+    "name": "Ruben Gallego",
+    "role": "Representative",
+    "party": "D-AZ",
+    "state": "AZ",
+    "chamber": "house",
+    "committees": [
+      "Armed Services",
+      "Natural Resources"
+    ],
+    "stance": "none",
+    "techRegScore": 0.32,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "raul-grijalva",
+    "name": "Raul Grijalva",
+    "role": "Representative",
+    "party": "D-AZ",
+    "state": "AZ",
+    "chamber": "house",
+    "committees": [
+      "Natural Resources",
+      "Education and Labor"
+    ],
+    "stance": "none",
+    "techRegScore": 0.22,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  }
+]

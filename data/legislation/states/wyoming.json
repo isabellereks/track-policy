@@ -1,0 +1,170 @@
+{
+  "state": "Wyoming",
+  "stateCode": "WY",
+  "region": "na",
+  "stance": "concerning",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "Wyoming has 8 bills tracked in 2025–2026. 1 is already enacted. 2 relate to moratoriums or prohibitions.",
+  "legislation": [
+    {
+      "id": "wy-hb0185",
+      "billCode": "HB0185",
+      "title": "Kratom-prohibition.",
+      "summary": "AN ACT relating to public health and safety; prohibiting the manufacture, sale, distribution or possession of kratom products; making legislative findings; providing criminal penalties; providing exemptions; requiring rulemaking; making conforming amendments; providing appropr...",
+      "stage": "Dead",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-13",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.wyoleg.gov/Legislation/2026/HB0185",
+      "legiscanUrl": "https://legiscan.com/WY/bill/HB0185/2026",
+      "legiscanId": 2114345,
+      "sponsors": [
+        "Pepper Ottman"
+      ]
+    },
+    {
+      "id": "wy-hb0102",
+      "billCode": "HB0102",
+      "title": "Protecting kids from deepfakes and exploitative images.",
+      "summary": "AN ACT relating to crimes and offenses; specifying that using artificial intelligence to commit a criminal offense shall not be a defense to the offense; establishing criminal offenses concerning the use of synthetic sexual material or artificial intelligence against children;...",
+      "stage": "Enacted",
+      "impactTags": [
+        "child-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-07",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.wyoleg.gov/Legislation/2026/HB0102",
+      "legiscanUrl": "https://legiscan.com/WY/bill/HB0102/2026",
+      "legiscanId": 2109993,
+      "sponsors": [
+        "Jayme Lien",
+        "Bill Allemand",
+        "Marlene Brady",
+        "Gary Brown"
+      ]
+    },
+    {
+      "id": "wy-hb0181",
+      "billCode": "HB0181",
+      "title": "Biometric data and license plate readers-regulation.",
+      "summary": "AN ACT relating to the administration of the government; prohibiting governmental entities from using biometric data to identify a person or verify a person's identity; prohibiting governmental entities from using geolocation data to identify the location of a person or motor ...",
+      "stage": "Dead",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-13",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.wyoleg.gov/Legislation/2026/HB0181",
+      "legiscanUrl": "https://legiscan.com/WY/bill/HB0181/2026",
+      "legiscanId": 2114183,
+      "sponsors": [
+        "Daniel Singh",
+        "Ocean Andrew",
+        "Karlee Provenza",
+        "Robert Ide"
+      ]
+    },
+    {
+      "id": "wy-hb0179",
+      "billCode": "HB0179",
+      "title": "Hospital pricing transparency.",
+      "summary": "AN ACT relating to public health and safety; requiring hospitals to list prices for medical items and services as specified; requiring the department of health to monitor and enforce the provisions of this act; requiring transparency regarding prescription drug pricing as spec...",
+      "stage": "Dead",
+      "impactTags": [
+        "nda-transparency"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-13",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.wyoleg.gov/Legislation/2026/HB0179",
+      "legiscanUrl": "https://legiscan.com/WY/bill/HB0179/2026",
+      "legiscanId": 2114273,
+      "sponsors": [
+        "Daniel Singh",
+        "Rachel Rodriguez-Williams",
+        "Jacob Wasserburger",
+        "Dennis Biteman"
+      ]
+    },
+    {
+      "id": "wy-sf0065",
+      "billCode": "SF0065",
+      "title": "Wyoming business council-repeal.",
+      "summary": "AN ACT relating to the administration of the government; repealing and terminating the Wyoming business council; repealing the Wyoming Economic Development Act and renumbering portions of the act; specifying requirements and conditions for the repeal and termination; transferr...",
+      "stage": "Dead",
+      "impactTags": [
+        "economic-development"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-09",
+      "sourceUrl": "https://www.wyoleg.gov/Legislation/2026/SF0065",
+      "legiscanUrl": "https://legiscan.com/WY/bill/SF0065/2026",
+      "legiscanId": 2106832,
+      "sponsors": [
+        "Appropriations"
+      ]
+    },
+    {
+      "id": "wy-hb0091",
+      "billCode": "HB0091",
+      "title": "Ban on government social scoring with AI.",
+      "summary": "AN ACT relating to administration of the government; prohibiting government entities from using artificial intelligence to calculate and assign social scores; prohibiting government entities from using artificial intelligence to identify persons using biometric data or gatheri...",
+      "stage": "Dead",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-23",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.wyoleg.gov/Legislation/2026/HB0091",
+      "legiscanUrl": "https://legiscan.com/WY/bill/HB0091/2026",
+      "legiscanId": 2106645,
+      "sponsors": [
+        "Mike Yin",
+        "Karlee Provenza",
+        "Chris Rothfuss"
+      ]
+    },
+    {
+      "id": "wy-hb0090",
+      "billCode": "HB0090",
+      "title": "State engineer-consumptive water use study.",
+      "summary": "AN ACT relating to water; requiring the state engineer to conduct a study on water use as specified; requiring a report; providing an appropriation; and providing for an effective date.",
+      "stage": "Dead",
+      "impactTags": [
+        "water-consumption"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-23",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.wyoleg.gov/Legislation/2026/HB0090",
+      "legiscanUrl": "https://legiscan.com/WY/bill/HB0090/2026",
+      "legiscanId": 2106666,
+      "sponsors": [
+        "Tomi Strock",
+        "Bill Allemand",
+        "Dalton Banks",
+        "Kevin Campbell"
+      ]
+    },
+    {
+      "id": "wy-hb0070",
+      "billCode": "HB0070",
+      "title": "Wyoming GRANITE Act.",
+      "summary": "AN ACT relating to civil procedure; creating the Wyoming Guaranteeing Rights Against Novel International Tyranny and Extortion (GRANITE) Act; creating a cause of action against foreign states and international organizations regarding foreign censorship laws that violate specif...",
+      "stage": "Dead",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-03",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.wyoleg.gov/Legislation/2026/HB0070",
+      "legiscanUrl": "https://legiscan.com/WY/bill/HB0070/2026",
+      "legiscanId": 2102374,
+      "sponsors": [
+        "Daniel Singh",
+        "Joel Guggenmos",
+        "Scott Heiner",
+        "Robert Wharff"
+      ]
+    }
+  ]
+}

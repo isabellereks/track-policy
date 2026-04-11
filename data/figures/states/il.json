@@ -1,0 +1,469 @@
+[
+  {
+    "id": "mary-miller",
+    "name": "Mary Miller",
+    "role": "Representative",
+    "party": "R-IL",
+    "state": "IL",
+    "chamber": "house",
+    "committees": [
+      "Agriculture",
+      "Education and Labor"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.83,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "mike-bost",
+    "name": "Mike Bost",
+    "role": "Representative",
+    "party": "R-IL",
+    "state": "IL",
+    "chamber": "house",
+    "committees": [
+      "Veterans' Affairs",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.71,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "darin-lahood",
+    "name": "Darin LaHood",
+    "role": "Representative · Intelligence",
+    "party": "R-IL",
+    "state": "IL",
+    "chamber": "house",
+    "committees": [
+      "Ways and Means",
+      "Intelligence"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.69,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "delia-ramirez",
+    "name": "Delia Ramirez",
+    "role": "Representative",
+    "party": "D-IL",
+    "state": "IL",
+    "chamber": "house",
+    "committees": [
+      "Financial Services",
+      "Oversight and Accountability"
+    ],
+    "stance": "none",
+    "techRegScore": 0.38,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "tammy-duckworth",
+    "name": "Tammy Duckworth",
+    "role": "Senator · Commerce",
+    "party": "D-IL",
+    "state": "IL",
+    "chamber": "senate",
+    "committees": [
+      "Armed Services",
+      "Commerce",
+      "Environment",
+      "Small Business"
+    ],
+    "stance": "none",
+    "quote": "Disabled Army veteran who lost both legs in Iraq and first senator to give birth while in office",
+    "techRegScore": 0.35,
+    "lobbying": {
+      "topIndustries": [
+        "Air Transport $385K",
+        "Defense Aerospace $365K",
+        "Lawyers/Law Firms $340K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 56,
+      "education": "BA University of Hawaii, MA George Washington University",
+      "careerBeforePolitics": "Army helicopter pilot, Illinois Department of Veterans Affairs director, served in U.S. House"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "lauren-underwood",
+    "name": "Lauren Underwood",
+    "role": "Representative",
+    "party": "D-IL",
+    "state": "IL",
+    "chamber": "house",
+    "committees": [
+      "Appropriations",
+      "Veterans' Affairs"
+    ],
+    "stance": "none",
+    "techRegScore": 0.32,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "toss-up"
+  },
+  {
+    "id": "eric-sorensen",
+    "name": "Eric Sorensen",
+    "role": "Representative · Science, Space, and Technology",
+    "party": "D-IL",
+    "state": "IL",
+    "chamber": "house",
+    "committees": [
+      "Agriculture",
+      "Science, Space, and Technology"
+    ],
+    "stance": "none",
+    "techRegScore": 0.31,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "toss-up"
+  },
+  {
+    "id": "brad-schneider",
+    "name": "Brad Schneider",
+    "role": "Representative",
+    "party": "D-IL",
+    "state": "IL",
+    "chamber": "house",
+    "committees": [
+      "Ways and Means",
+      "Foreign Affairs"
+    ],
+    "stance": "none",
+    "techRegScore": 0.31,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "dick-durbin",
+    "name": "Dick Durbin",
+    "role": "Senator · Senate Minority Whip",
+    "party": "D-IL",
+    "state": "IL",
+    "chamber": "senate",
+    "committees": [
+      "Judiciary",
+      "Appropriations"
+    ],
+    "stance": "none",
+    "quote": "Veteran legislator focused on immigration reform and criminal justice",
+    "techRegScore": 0.3,
+    "lobbying": {
+      "topIndustries": [
+        "Healthcare: $1.4M",
+        "Agribusiness: $892,000",
+        "Transportation: $678,000"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 80,
+      "education": "Georgetown University (BS, JD)",
+      "careerBeforePolitics": "Attorney, served in Illinois Senate and U.S. House"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "mike-quigley",
+    "name": "Mike Quigley",
+    "role": "Representative · Intelligence",
+    "party": "D-IL",
+    "state": "IL",
+    "chamber": "house",
+    "committees": [
+      "Appropriations",
+      "Intelligence"
+    ],
+    "stance": "none",
+    "techRegScore": 0.29,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "nikki-budzinski",
+    "name": "Nikki Budzinski",
+    "role": "Representative",
+    "party": "D-IL",
+    "state": "IL",
+    "chamber": "house",
+    "committees": [
+      "Agriculture",
+      "Veterans' Affairs"
+    ],
+    "stance": "none",
+    "techRegScore": 0.28,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "bill-foster",
+    "name": "Bill Foster",
+    "role": "Representative · Science, Space, and Technology",
+    "party": "D-IL",
+    "state": "IL",
+    "chamber": "house",
+    "committees": [
+      "Financial Services",
+      "Science, Space, and Technology"
+    ],
+    "stance": "none",
+    "techRegScore": 0.28,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "sean-casten",
+    "name": "Sean Casten",
+    "role": "Representative · Science, Space, and Technology",
+    "party": "D-IL",
+    "state": "IL",
+    "chamber": "house",
+    "committees": [
+      "Financial Services",
+      "Science, Space, and Technology"
+    ],
+    "stance": "none",
+    "techRegScore": 0.26,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "raja-krishnamoorthi",
+    "name": "Raja Krishnamoorthi",
+    "role": "Representative · Intelligence",
+    "party": "D-IL",
+    "state": "IL",
+    "chamber": "house",
+    "committees": [
+      "Oversight and Reform",
+      "Intelligence"
+    ],
+    "stance": "none",
+    "techRegScore": 0.25,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "robin-kelly",
+    "name": "Robin Kelly",
+    "role": "Representative · Energy and Commerce",
+    "party": "D-IL",
+    "state": "IL",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce",
+      "Oversight and Reform"
+    ],
+    "stance": "none",
+    "techRegScore": 0.23,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "danny-davis",
+    "name": "Danny Davis",
+    "role": "Representative",
+    "party": "D-IL",
+    "state": "IL",
+    "chamber": "house",
+    "committees": [
+      "Ways and Means",
+      "Oversight and Reform"
+    ],
+    "stance": "none",
+    "techRegScore": 0.2,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "bobby-rush",
+    "name": "Bobby Rush",
+    "role": "Representative · Energy and Commerce",
+    "party": "D-IL",
+    "state": "IL",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce"
+    ],
+    "stance": "none",
+    "techRegScore": 0.19,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "jesus-garcia",
+    "name": "Jesus Garcia",
+    "role": "Representative",
+    "party": "D-IL",
+    "state": "IL",
+    "chamber": "house",
+    "committees": [
+      "Financial Services",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "none",
+    "techRegScore": 0.17,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "jan-schakowsky",
+    "name": "Jan Schakowsky",
+    "role": "Representative · Energy and Commerce",
+    "party": "D-IL",
+    "state": "IL",
+    "chamber": "house",
+    "committees": [
+      "Energy and Commerce",
+      "Budget"
+    ],
+    "stance": "none",
+    "techRegScore": 0.16,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  }
+]

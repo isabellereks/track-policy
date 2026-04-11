@@ -1,0 +1,234 @@
+{
+  "state": "Hawaii",
+  "stateCode": "HI",
+  "region": "na",
+  "stance": "review",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "Hawaii has 12 bills tracked in 2025–2026.",
+  "legislation": [
+    {
+      "id": "hi-hb775",
+      "billCode": "HB775",
+      "title": "Relating To Agricultural Biosecurity.",
+      "summary": "Appropriates funds to the Department of Agriculture for various programs and permanent positions in agricultural biosecurity established by Act 231, Session Laws of Hawaii 2024. Effective 7/1/3000. (HD1)",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-01-21",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=775&year=2026",
+      "legiscanUrl": "https://legiscan.com/HI/bill/HB775/2026",
+      "legiscanId": 2063921,
+      "sponsors": [
+        "Kirstin Kahaloa"
+      ]
+    },
+    {
+      "id": "hi-hb546",
+      "billCode": "HB546",
+      "title": "Relating To Artificial Intelligence.",
+      "summary": "Establishes the Aloha Intelligence Institute within the University of Hawaii to develop, support, and advance artificial intelligence initiatives statewide. Effective 7/1/3000. (SD1)",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-02-28",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=546&year=2026",
+      "legiscanUrl": "https://legiscan.com/HI/bill/HB546/2026",
+      "legiscanId": 2064276,
+      "sponsors": [
+        "Andrew Garrett",
+        "Jeanne Kapela",
+        "Darius Kila",
+        "Ikaika Olds"
+      ]
+    },
+    {
+      "id": "hi-sb1156",
+      "billCode": "SB1156",
+      "title": "Relating To Deepfakes.",
+      "summary": "Establishes the crime of unlawful creation or distribution of a sexually explicit deepfake.",
+      "stage": "Committee",
+      "impactTags": [
+        "deepfake-regulation"
+      ],
+      "category": "synthetic-media",
+      "updatedDate": "2025-01-17",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1156&year=2026",
+      "legiscanUrl": "https://legiscan.com/HI/bill/SB1156/2026",
+      "legiscanId": 2062671,
+      "sponsors": [
+        "Mike Gabbard",
+        "Joy San Buenaventura"
+      ]
+    },
+    {
+      "id": "hi-sb2049",
+      "billCode": "SB2049",
+      "title": "Relating To Law Enforcement.",
+      "summary": "Prohibits law enforcement agencies and law enforcement officers from using biometric surveillance technology in the State unless certain conditions are met.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-criminal-justice",
+      "updatedDate": "2026-01-21",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2049&year=2026",
+      "legiscanUrl": "https://legiscan.com/HI/bill/SB2049/2026",
+      "legiscanId": 2084918,
+      "sponsors": [
+        "Jarrett Keohokalole",
+        "Joy San Buenaventura"
+      ]
+    },
+    {
+      "id": "hi-sb1187",
+      "billCode": "SB1187",
+      "title": "Relating To Agricultural Biosecurity.",
+      "summary": "Appropriates funds to the Department of Agriculture for permanent positions in agricultural biosecurity established by Act 231, Session Laws of Hawaii 2024, and various biosecurity programs. Effective 7/1/2050. (SD1)",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-01-17",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1187&year=2026",
+      "legiscanUrl": "https://legiscan.com/HI/bill/SB1187/2026",
+      "legiscanId": 2061678,
+      "sponsors": [
+        "Mike Gabbard",
+        "Angus McKelvey",
+        "Karl Rhoads",
+        "Joy San Buenaventura"
+      ]
+    },
+    {
+      "id": "hi-sb1236",
+      "billCode": "SB1236",
+      "title": "Relating To The Works Of Art Special Fund.",
+      "summary": "Specifies that the works of art special fund's one per cent transfer requirement shall apply only to capital improvement appropriations for the original construction of state buildings. Amends the authority for funds from the works of art special fund to be used only for costs...",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-01-23",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1236&year=2026",
+      "legiscanUrl": "https://legiscan.com/HI/bill/SB1236/2026",
+      "legiscanId": 2063641,
+      "sponsors": [
+        "Donovan Cruz"
+      ]
+    },
+    {
+      "id": "hi-hb1299",
+      "billCode": "HB1299",
+      "title": "Relating To The Works Of Art Special Fund.",
+      "summary": "Specifies that the works of art special fund's one per cent transfer requirement shall apply only to capital improvement appropriations for the original construction of state buildings. Amends the authority for funds from the works of art special fund to be used only for costs...",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-01-23",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1299&year=2026",
+      "legiscanUrl": "https://legiscan.com/HI/bill/HB1299/2026",
+      "legiscanId": 2062281,
+      "sponsors": [
+        "Kyle Yamashita"
+      ]
+    },
+    {
+      "id": "hi-sb582",
+      "billCode": "SB582",
+      "title": "Relating To The Department Of Business, Economic Development, And Tourism.",
+      "summary": "Transfers the State Foundation on Culture and the Arts and the King Kamehameha Celebration Commission from the Department of Accounting and General Services to the Department of Business, Economic Development, and Tourism. Transfers the authority held by the Comptroller over t...",
+      "stage": "Committee",
+      "impactTags": [
+        "economic-development"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-01-17",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=582&year=2026",
+      "legiscanUrl": "https://legiscan.com/HI/bill/SB582/2026",
+      "legiscanId": 2062165,
+      "sponsors": [
+        "Glenn Wakai",
+        "Stanley Chang",
+        "Kurt Fevella",
+        "Donna Kim"
+      ]
+    },
+    {
+      "id": "hi-sb1379",
+      "billCode": "SB1379",
+      "title": "Relating To Emergency Preparedness.",
+      "summary": "Establishes the Community Readiness Centers Program to be implemented and administered by the Hawaii Emergency Management Agency. Establishes the Community Readiness Centers Special Fund to fund the Community Readiness Centers Program. Renames the Environmental Response, Energ...",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-03-04",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1379&year=2026",
+      "legiscanUrl": "https://legiscan.com/HI/bill/SB1379/2026",
+      "legiscanId": 2062276,
+      "sponsors": [
+        "Ronald Kouchi"
+      ]
+    },
+    {
+      "id": "hi-sb957",
+      "billCode": "SB957",
+      "title": "Relating To Overdose Prevention.",
+      "summary": "Establishes and provides criteria for overdose prevention centers, including standards for the Department of Health to designate certain facilities as overdose prevention centers. Establishes an Overdose Prevention Center Oversight Committee. Provides immunity from state crimi...",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-01-17",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=957&year=2026",
+      "legiscanUrl": "https://legiscan.com/HI/bill/SB957/2026",
+      "legiscanId": 2063535,
+      "sponsors": [
+        "Joy San Buenaventura",
+        "Stanley Chang",
+        "Dru Kanuha",
+        "Troy Hashimoto"
+      ]
+    },
+    {
+      "id": "hi-sb539",
+      "billCode": "SB539",
+      "title": "Relating To Toxic Chemicals.",
+      "summary": "Requires state agencies that monitor environmental toxins and pollutants to establish environmental action levels (EALs) to ensure the preservation of a safe environment. Prohibits modifications to EALs unless certain procedural requirements are met. Establishes a process to a...",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-01-17",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=539&year=2026",
+      "legiscanUrl": "https://legiscan.com/HI/bill/SB539/2026",
+      "legiscanId": 2062930,
+      "sponsors": [
+        "Mike Gabbard",
+        "Michelle Kidani",
+        "Karl Rhoads"
+      ]
+    },
+    {
+      "id": "hi-hb1060",
+      "billCode": "HB1060",
+      "title": "Relating To Emergency Preparedness.",
+      "summary": "Establishes the Community Readiness Centers Program to be implemented and administered by the Hawaii Emergency Management Agency. Establishes the Community Readiness Centers Special Fund to fund the Community Readiness Centers Program. Renames the Environmental Response, Energ...",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-01-23",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1060&year=2026",
+      "legiscanUrl": "https://legiscan.com/HI/bill/HB1060/2026",
+      "legiscanId": 2063954,
+      "sponsors": [
+        "Nadine Nakamura"
+      ]
+    }
+  ]
+}

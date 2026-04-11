@@ -1,0 +1,224 @@
+{
+  "state": "Alabama",
+  "stateCode": "AL",
+  "region": "na",
+  "stance": "review",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "Alabama has 12 bills tracked in 2025–2026. 4 offer incentives or exemptions.",
+  "legislation": [
+    {
+      "id": "al-sb270",
+      "billCode": "SB270",
+      "title": "Electric Utilities; review by Public Service Commission of certain contracts with large load data centers further provided for",
+      "summary": "Electric Utilities; review by Public Service Commission of certain contracts with large load data centers further provided for",
+      "stage": "Floor",
+      "impactTags": [
+        "grid-capacity"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-09",
+      "partyOrigin": "R",
+      "sourceUrl": "https://alison.legislature.state.al.us/bill-search",
+      "legiscanUrl": "https://legiscan.com/AL/bill/SB270/2026",
+      "legiscanId": 2109509,
+      "sponsors": [
+        "Lance Bell"
+      ]
+    },
+    {
+      "id": "al-sb328",
+      "billCode": "SB328",
+      "title": "Artificial Intelligence; state agencies required to perform quarterly AI-assisted review of rules",
+      "summary": "Artificial Intelligence; state agencies required to perform quarterly AI-assisted review of rules",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-25",
+      "partyOrigin": "R",
+      "sourceUrl": "https://alison.legislature.state.al.us/bill-search",
+      "legiscanUrl": "https://legiscan.com/AL/bill/SB328/2026",
+      "legiscanId": 2124313,
+      "sponsors": [
+        "Chris Elliott"
+      ]
+    },
+    {
+      "id": "al-hb426",
+      "billCode": "HB426",
+      "title": "Real property; creation of the Alabama Property Protection Act of 2026, title fraud prevention",
+      "summary": "Real property; creation of the Alabama Property Protection Act of 2026, title fraud prevention",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-17",
+      "partyOrigin": "R",
+      "sourceUrl": "https://alison.legislature.state.al.us/bill-search",
+      "legiscanUrl": "https://legiscan.com/AL/bill/HB426/2026",
+      "legiscanId": 2115310,
+      "sponsors": [
+        "Paul Lee"
+      ]
+    },
+    {
+      "id": "al-hb399",
+      "billCode": "HB399",
+      "title": "Tax abatements for data processing centers, exemption period limited, collection of certain taxes on purchases required, sunset date extended",
+      "summary": "Tax abatements for data processing centers, exemption period limited, collection of certain taxes on purchases required, sunset date extended",
+      "stage": "Floor",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-09",
+      "partyOrigin": "R",
+      "sourceUrl": "https://alison.legislature.state.al.us/bill-search",
+      "legiscanUrl": "https://legiscan.com/AL/bill/HB399/2026",
+      "legiscanId": 2109193,
+      "sponsors": [
+        "Leigh Hulsey"
+      ]
+    },
+    {
+      "id": "al-sb265",
+      "billCode": "SB265",
+      "title": "Tax abatements for data processing centers, exemption period limited, collection of certain taxes on purchases required, sunset date extended",
+      "summary": "Tax abatements for data processing centers, exemption period limited, collection of certain taxes on purchases required, sunset date extended",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-12",
+      "partyOrigin": "R",
+      "sourceUrl": "https://alison.legislature.state.al.us/bill-search",
+      "legiscanUrl": "https://legiscan.com/AL/bill/SB265/2026",
+      "legiscanId": 2108473,
+      "sponsors": [
+        "Andrew Jones"
+      ]
+    },
+    {
+      "id": "al-hb403",
+      "billCode": "HB403",
+      "title": "Electric Utilities; review by Public Service Commission of certain contracts with large load customers further provided",
+      "summary": "Electric Utilities; review by Public Service Commission of certain contracts with large load customers further provided",
+      "stage": "Floor",
+      "impactTags": [
+        "grid-capacity"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-17",
+      "partyOrigin": "D",
+      "sourceUrl": "https://alison.legislature.state.al.us/bill-search",
+      "legiscanUrl": "https://legiscan.com/AL/bill/HB403/2026",
+      "legiscanId": 2109119,
+      "sponsors": [
+        "Neil Rafferty"
+      ]
+    },
+    {
+      "id": "al-hb393",
+      "billCode": "HB393",
+      "title": "Tax abatement and tax incentive programs, NAICS Code references and definitions updated to latest terms",
+      "summary": "Tax abatement and tax incentive programs, NAICS Code references and definitions updated to latest terms",
+      "stage": "Floor",
+      "impactTags": [
+        "tax-incentives"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-07",
+      "partyOrigin": "D",
+      "sourceUrl": "https://alison.legislature.state.al.us/bill-search",
+      "legiscanUrl": "https://legiscan.com/AL/bill/HB393/2026",
+      "legiscanId": 2108977,
+      "sponsors": [
+        "Kelvin Lawrence"
+      ]
+    },
+    {
+      "id": "al-sb251",
+      "billCode": "SB251",
+      "title": "Tax abatement and tax incentive programs, North American Industry Classification System Code references and definitions updated to latest terms",
+      "summary": "Tax abatement and tax incentive programs, North American Industry Classification System Code references and definitions updated to latest terms",
+      "stage": "Committee",
+      "impactTags": [
+        "tax-incentives"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-19",
+      "partyOrigin": "D",
+      "sourceUrl": "https://alison.legislature.state.al.us/bill-search",
+      "legiscanUrl": "https://legiscan.com/AL/bill/SB251/2026",
+      "legiscanId": 2106505,
+      "sponsors": [
+        "Kirk Hatcher"
+      ]
+    },
+    {
+      "id": "al-hb524",
+      "billCode": "HB524",
+      "title": "Artificial Intelligence; state agencies required to perform quarterly AI-assisted review of rules",
+      "summary": "Artificial Intelligence; state agencies required to perform quarterly AI-assisted review of rules",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-26",
+      "partyOrigin": "R",
+      "sourceUrl": "https://alison.legislature.state.al.us/bill-search",
+      "legiscanUrl": "https://legiscan.com/AL/bill/HB524/2026",
+      "legiscanId": 2125594,
+      "sponsors": [
+        "Mike Shaw"
+      ]
+    },
+    {
+      "id": "al-sb129",
+      "billCode": "SB129",
+      "title": "Artificial intelligence; disclosure of artificial intelligence-generated content required, enforcement provided",
+      "summary": "Artificial intelligence; disclosure of artificial intelligence-generated content required, enforcement provided",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-13",
+      "partyOrigin": "R",
+      "sourceUrl": "https://alison.legislature.state.al.us/bill-search",
+      "legiscanUrl": "https://legiscan.com/AL/bill/SB129/2026",
+      "legiscanId": 2073271,
+      "sponsors": [
+        "Tim Melson"
+      ]
+    },
+    {
+      "id": "al-sb63",
+      "billCode": "SB63",
+      "title": "Health care plans; to regulate the use of artificial intelligence in determinations of coverage",
+      "summary": "Health care plans; to regulate the use of artificial intelligence in determinations of coverage",
+      "stage": "Floor",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-09",
+      "partyOrigin": "R",
+      "sourceUrl": "https://alison.legislature.state.al.us/bill-search",
+      "legiscanUrl": "https://legiscan.com/AL/bill/SB63/2026",
+      "legiscanId": 2072810,
+      "sponsors": [
+        "Arthur Orr"
+      ]
+    },
+    {
+      "id": "al-hb324",
+      "billCode": "HB324",
+      "title": "Artificial intelligence; age verification systems required for chatbots, safeguard protocols required, therapy chatbot requirements established, private right of action and enforcement provided for",
+      "summary": "Artificial intelligence; age verification systems required for chatbots, safeguard protocols required, therapy chatbot requirements established, private right of action and enforcement provided for",
+      "stage": "Committee",
+      "impactTags": [
+        "child-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-22",
+      "partyOrigin": "R",
+      "sourceUrl": "https://alison.legislature.state.al.us/bill-search",
+      "legiscanUrl": "https://legiscan.com/AL/bill/HB324/2026",
+      "legiscanId": 2090619,
+      "sponsors": [
+        "Parker Moore"
+      ]
+    }
+  ]
+}

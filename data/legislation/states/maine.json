@@ -1,0 +1,236 @@
+{
+  "state": "Maine",
+  "stateCode": "ME",
+  "region": "na",
+  "stance": "concerning",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "Maine has 12 bills tracked in 2025–2026. 6 are already enacted. 1 relates to moratoriums or prohibitions.",
+  "legislation": [
+    {
+      "id": "me-ld912",
+      "billCode": "LD912",
+      "title": "An Act to Limit the Amount of Electricity That May Be Provided to Data Centers on a Certain Commercial or Industrial Site",
+      "summary": "An Act to Limit the Amount of Electricity That May Be Provided to Data Centers on a Certain Commercial or Industrial Site",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-05-21",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=912&snum=132",
+      "legiscanUrl": "https://legiscan.com/ME/bill/LD912/2025",
+      "legiscanId": 1992433,
+      "sponsors": [
+        "Glenn Curry"
+      ]
+    },
+    {
+      "id": "me-ld2162",
+      "billCode": "LD2162",
+      "title": "An Act to Regulate and Prevent Children's Access to Artificial Intelligence Chatbots with Human-like Features and Social Artificial Intelligence Companions",
+      "summary": "An Act to Regulate and Prevent Children's Access to Artificial Intelligence Chatbots with Human-like Features and Social Artificial Intelligence Companions",
+      "stage": "Floor",
+      "impactTags": [
+        "child-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-09",
+      "partyOrigin": "B",
+      "sourceUrl": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=2162&snum=132",
+      "legiscanUrl": "https://legiscan.com/ME/bill/LD2162/2025",
+      "legiscanId": 2069405,
+      "sponsors": [
+        "Lori Gramlich",
+        "Donna Bailey",
+        "Michael Brennan",
+        "Ryan Fecteau"
+      ]
+    },
+    {
+      "id": "me-ld1374",
+      "billCode": "LD1374",
+      "title": "An Act to Establish Additional Requirements for Dentists to Administer Botulinum Toxin and Dermal Fillers",
+      "summary": "An Act to Establish Additional Requirements for Dentists to Administer Botulinum Toxin and Dermal Fillers",
+      "stage": "Dead",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-05-06",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=1374&snum=132",
+      "legiscanUrl": "https://legiscan.com/ME/bill/LD1374/2025",
+      "legiscanId": 2016570,
+      "sponsors": [
+        "Joseph Baldacci"
+      ]
+    },
+    {
+      "id": "me-ld1923",
+      "billCode": "LD1923",
+      "title": "An Act to Update Juvenile Justice System Reporting Requirements and to Direct the Department of Corrections and the Department of Health and Human Services to Study Modifying the Long Creek Youth Development Center",
+      "summary": "An Act to Update Juvenile Justice System Reporting Requirements and to Direct the Department of Corrections and the Department of Health and Human Services to Study Modifying the Long Creek Youth Development Center",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-25",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=1923&snum=132",
+      "legiscanUrl": "https://legiscan.com/ME/bill/LD1923/2025",
+      "legiscanId": 2028521,
+      "sponsors": [
+        "Michael Brennan",
+        "Andrew Gattine",
+        "Kelly Murphy",
+        "Teresa Pierce"
+      ]
+    },
+    {
+      "id": "me-ld977",
+      "billCode": "LD977",
+      "title": "Resolve, Requiring the Maine Health Data Organization to Develop a Plan for Measuring Gaps in Home and Community-based Services",
+      "summary": "Resolve, Requiring the Maine Health Data Organization to Develop a Plan for Measuring Gaps in Home and Community-based Services",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-06-25",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=977&snum=132",
+      "legiscanUrl": "https://legiscan.com/ME/bill/LD977/2025",
+      "legiscanId": 1994860,
+      "sponsors": [
+        "Sally Cluchey"
+      ]
+    },
+    {
+      "id": "me-ld955",
+      "billCode": "LD955",
+      "title": "An Act to Ensure Human Oversight in Medical Insurance Payment Decisions",
+      "summary": "An Act to Ensure Human Oversight in Medical Insurance Payment Decisions",
+      "stage": "Dead",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-05-20",
+      "partyOrigin": "B",
+      "sourceUrl": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=955&snum=132",
+      "legiscanUrl": "https://legiscan.com/ME/bill/LD955/2025",
+      "legiscanId": 1993701,
+      "sponsors": [
+        "Joseph Martin",
+        "Richard Bennett",
+        "Scott Cyrway",
+        "Ryan Fecteau"
+      ]
+    },
+    {
+      "id": "me-ld1727",
+      "billCode": "LD1727",
+      "title": "An Act to Ensure Transparency in Consumer Transactions Involving Artificial Intelligence",
+      "summary": "An Act to Ensure Transparency in Consumer Transactions Involving Artificial Intelligence",
+      "stage": "Enacted",
+      "impactTags": [
+        "nda-transparency"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-06-10",
+      "partyOrigin": "B",
+      "sourceUrl": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=1727&snum=132",
+      "legiscanUrl": "https://legiscan.com/ME/bill/LD1727/2025",
+      "legiscanId": 2024454,
+      "sponsors": [
+        "Amy Kuhn",
+        "Anne Carney",
+        "Adam Lee",
+        "Jennifer Poirier"
+      ]
+    },
+    {
+      "id": "me-ld872",
+      "billCode": "LD872",
+      "title": "An Act to Ensure Determinations Made by the State Are Free from Unethical, Unsafe or Illegal Interference by Artificial Intelligence",
+      "summary": "An Act to Ensure Determinations Made by the State Are Free from Unethical, Unsafe or Illegal Interference by Artificial Intelligence",
+      "stage": "Dead",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-06-09",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=872&snum=132",
+      "legiscanUrl": "https://legiscan.com/ME/bill/LD872/2025",
+      "legiscanId": 1989654,
+      "sponsors": [
+        "Gary Friedmann"
+      ]
+    },
+    {
+      "id": "me-ld230",
+      "billCode": "LD230",
+      "title": "An Act to Protect Minors from Harmful Depictions Generated by Artificial Intelligence",
+      "summary": "An Act to Protect Minors from Harmful Depictions Generated by Artificial Intelligence",
+      "stage": "Dead",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-05-28",
+      "partyOrigin": "R",
+      "sourceUrl": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=230&snum=132",
+      "legiscanUrl": "https://legiscan.com/ME/bill/LD230/2025",
+      "legiscanId": 1923257,
+      "sponsors": [
+        "Richard Campbell"
+      ]
+    },
+    {
+      "id": "me-ld1301",
+      "billCode": "LD1301",
+      "title": "An Act to Prohibit the Use of Artificial Intelligence in the Denial of Health Insurance Claims",
+      "summary": "An Act to Prohibit the Use of Artificial Intelligence in the Denial of Health Insurance Claims",
+      "stage": "Dead",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-27",
+      "partyOrigin": "B",
+      "sourceUrl": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=1301&snum=132",
+      "legiscanUrl": "https://legiscan.com/ME/bill/LD1301/2025",
+      "legiscanId": 2012930,
+      "sponsors": [
+        "Michael Tipping",
+        "Poppy Arford",
+        "Donna Bailey",
+        "Sally Cluchey"
+      ]
+    },
+    {
+      "id": "me-ld1157",
+      "billCode": "LD1157",
+      "title": "An Act to Amend the Laws Relating to the State's Background Check Center",
+      "summary": "An Act to Amend the Laws Relating to the State's Background Check Center",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-06-03",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=1157&snum=132",
+      "legiscanUrl": "https://legiscan.com/ME/bill/LD1157/2025",
+      "legiscanId": 2010928,
+      "sponsors": [
+        "Daniel Shagoury"
+      ]
+    },
+    {
+      "id": "me-ld109",
+      "billCode": "LD109",
+      "title": "Resolve, Directing the Maine Arts Commission to Study Federal and National Efforts to Protect Artists from Copyright Infringement by Artificial Intelligence Companies and Users and to Monitor Educational Use",
+      "summary": "Resolve, Directing the Maine Arts Commission to Study Federal and National Efforts to Protect Artists from Copyright Infringement by Artificial Intelligence Companies and Users and to Monitor Educational Use",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-06-25",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=109&snum=132",
+      "legiscanUrl": "https://legiscan.com/ME/bill/LD109/2025",
+      "legiscanId": 1903898,
+      "sponsors": [
+        "Janice Dodge",
+        "Poppy Arford",
+        "Cheryl Golek",
+        "Amy Kuhn"
+      ]
+    }
+  ]
+}

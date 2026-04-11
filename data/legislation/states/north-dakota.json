@@ -1,0 +1,253 @@
+{
+  "state": "North Dakota",
+  "stateCode": "ND",
+  "region": "na",
+  "stance": "review",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "North Dakota has 12 bills tracked in 2025–2026. 10 are already enacted. 1 relates to moratoriums or prohibitions. 2 offer incentives or exemptions.",
+  "legislation": [
+    {
+      "id": "nd-hb1427",
+      "billCode": "HB1427",
+      "title": "Authorization for the public service commission to regulate the siting compatibility for data centers; and to provide a penalty.",
+      "summary": "A BILL for an Act to amend and reenact sections 49-22-02, 49-22-03, 49-22-07, 49-22-07.2, 49-22-08, 49-22-08.2, 49-22-09, 49-22-09.2, 49-22-14, 49-22-16, 49-22-20, 49-22-21, 49-22-22, 49-22-24, and 49-22-25 of the North Dakota Century Code, relating to authorization for the pu...",
+      "stage": "Committee",
+      "impactTags": [
+        "local-zoning"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-01-13",
+      "partyOrigin": "R",
+      "sourceUrl": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo1427.html",
+      "legiscanUrl": "https://legiscan.com/ND/bill/HB1427/2025",
+      "legiscanId": 1916857,
+      "sponsors": [
+        "Anna Novak",
+        "Dick Anderson",
+        "Patrick Heinert",
+        "Todd Porter"
+      ]
+    },
+    {
+      "id": "nd-hb1167",
+      "billCode": "HB1167",
+      "title": "Artificial intelligence disclosure statements.",
+      "summary": "AN ACT to create and enact a new section to chapter 16.1-10 of the North Dakota Century Code, relating to artificial intelligence disclosure statements.",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-04-11",
+      "partyOrigin": "B",
+      "sourceUrl": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo1167.html",
+      "legiscanUrl": "https://legiscan.com/ND/bill/HB1167/2025",
+      "legiscanId": 1908973,
+      "sponsors": [
+        "Jonathan Warrey",
+        "Landon Bahl",
+        "Nels Christianson",
+        "Josh Christy"
+      ]
+    },
+    {
+      "id": "nd-hb1068",
+      "billCode": "HB1068",
+      "title": "Autopsy reports, working papers, funeral practice exceptions, and photographs.",
+      "summary": "AN ACT to amend and reenact sections 23-01-05.5, 43-10-10.1, and 44-04-18.18 of the North Dakota Century Code, relating to autopsy reports, working papers, funeral practice exceptions, and photographs.",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-03-18",
+      "sourceUrl": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo1068.html",
+      "legiscanUrl": "https://legiscan.com/ND/bill/HB1068/2025",
+      "legiscanId": 1899163,
+      "sponsors": [
+        "Human Services"
+      ]
+    },
+    {
+      "id": "nd-hb1579",
+      "billCode": "HB1579",
+      "title": "AN ACT to provide for a legislative management study relating to the impact of large energy consumers on the state's electrical grid.",
+      "summary": "AN ACT to provide for a legislative management study relating to the impact of large energy consumers on the state's electrical grid.",
+      "stage": "Enacted",
+      "impactTags": [
+        "grid-capacity"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-04-29",
+      "partyOrigin": "R",
+      "sourceUrl": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo1579.html",
+      "legiscanUrl": "https://legiscan.com/ND/bill/HB1579/2025",
+      "legiscanId": 1930423,
+      "sponsors": [
+        "Anna Novak",
+        "Patrick Heinert",
+        "Todd Porter",
+        "Greg Kessel"
+      ]
+    },
+    {
+      "id": "nd-hb1265",
+      "billCode": "HB1265",
+      "title": "The state information technology research center, advanced technology review committee, compute credits grant program, and advanced technology grant fund.",
+      "summary": "A BILL for an Act to create and enact a new section to chapter 15-11 and a new chapter to title 54 of the North Dakota Century Code, relating to the state information technology research center, advanced technology review committee, compute credits grant program, and advanced ...",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-02-25",
+      "partyOrigin": "B",
+      "sourceUrl": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo1265.html",
+      "legiscanUrl": "https://legiscan.com/ND/bill/HB1265/2025",
+      "legiscanId": 1916131,
+      "sponsors": [
+        "Josh Christy",
+        "Austin Foss",
+        "Karla Hanson",
+        "Emily O'Brien"
+      ]
+    },
+    {
+      "id": "nd-sb2354",
+      "billCode": "SB2354",
+      "title": "The use of personal electronic devices in schools providing prekindergarten, elementary, or secondary education.",
+      "summary": "AN ACT to amend and reenact the new section to chapter 15.1-07 of the North Dakota Century Code, as created by House Bill No. 1160, as approved by the sixty-ninth legislative assembly, relating to the use of personal electronic devices in schools providing prekindergarten, ele...",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-05-02",
+      "partyOrigin": "R",
+      "sourceUrl": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo2354.html",
+      "legiscanUrl": "https://legiscan.com/ND/bill/SB2354/2025",
+      "legiscanId": 1941124,
+      "sponsors": [
+        "Michelle Axtman",
+        "Sean Cleary",
+        "Jonathan Sickler",
+        "Paul Thomas"
+      ]
+    },
+    {
+      "id": "nd-hb1160",
+      "billCode": "HB1160",
+      "title": "The use of personal electronic devices during instructional time.",
+      "summary": "AN ACT to create and enact a new section to chapter 15.1-07 of the North Dakota Century Code, relating to the use of personal electronic devices during instructional time.",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-04-29",
+      "partyOrigin": "R",
+      "sourceUrl": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo1160.html",
+      "legiscanUrl": "https://legiscan.com/ND/bill/HB1160/2025",
+      "legiscanId": 1908900,
+      "sponsors": [
+        "Jim Jonas",
+        "Donald Longmuir",
+        "Jon Nelson",
+        "Mark Sanford"
+      ]
+    },
+    {
+      "id": "nd-sb2278",
+      "billCode": "SB2278",
+      "title": "AN ACT to provide a legislative management study relating to the retention of library materials.",
+      "summary": "AN ACT to provide a legislative management study relating to the retention of library materials.",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-03-31",
+      "partyOrigin": "R",
+      "sourceUrl": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo2278.html",
+      "legiscanUrl": "https://legiscan.com/ND/bill/SB2278/2025",
+      "legiscanId": 1930471,
+      "sponsors": [
+        "Keith Boehm",
+        "Jose Castaneda",
+        "Mike Wobbema",
+        "Kathy Frelich"
+      ]
+    },
+    {
+      "id": "nd-hb1429",
+      "billCode": "HB1429",
+      "title": "Harassment and stalking with a robot; and to provide a penalty.",
+      "summary": "AN ACT to amend and reenact sections 12.1-17-07 and 12.1-17-07.1 of the North Dakota Century Code, relating to harassment and stalking with a robot; and to provide a penalty.",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-04-23",
+      "partyOrigin": "B",
+      "sourceUrl": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo1429.html",
+      "legiscanUrl": "https://legiscan.com/ND/bill/HB1429/2025",
+      "legiscanId": 1916897,
+      "sponsors": [
+        "Dawson Holle",
+        "Michael Brandenburg",
+        "Gretchen Dobervich",
+        "Craig Headland"
+      ]
+    },
+    {
+      "id": "nd-sb2018",
+      "billCode": "SB2018",
+      "title": "The purpose of the North Dakota development fund, duties and talent strategy of the division of workforce development, the uncrewed aircraft systems program, the uncrewed aircraft systems program fund, the beyond visual line of sight uncrewed aircraft system program, and changing the name of the office of legal immigration to the global talent office; to authorize a Bank of North Dakota line of credit; to provide for a transfer; to provide an application; to provide an exemption; and to provide for a legislative management report.",
+      "summary": "AN ACT to provide an appropriation for defraying the expenses of the department of commerce; to provide an appropriation to the attorney general; to provide an appropriation to the department of career and technical education; to provide an appropriation to the state fair asso...",
+      "stage": "Enacted",
+      "impactTags": [
+        "job-creation"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-05-17",
+      "sourceUrl": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo2018.html",
+      "legiscanUrl": "https://legiscan.com/ND/bill/SB2018/2025",
+      "legiscanId": 1899365,
+      "sponsors": [
+        "Appropriations"
+      ]
+    },
+    {
+      "id": "nd-sb2370",
+      "billCode": "SB2370",
+      "title": "AN ACT to provide for a legislative management study regarding prescription drug transparency reporting under the federal drug discount program.",
+      "summary": "AN ACT to provide for a legislative management study regarding prescription drug transparency reporting under the federal drug discount program.",
+      "stage": "Enacted",
+      "impactTags": [
+        "nda-transparency"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-05-02",
+      "partyOrigin": "B",
+      "sourceUrl": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo2370.html",
+      "legiscanUrl": "https://legiscan.com/ND/bill/SB2370/2025",
+      "legiscanId": 1942778,
+      "sponsors": [
+        "Sean Cleary",
+        "Dick Dever",
+        "Tim Mathern",
+        "Carrie McLeod"
+      ]
+    },
+    {
+      "id": "nd-hb1567",
+      "billCode": "HB1567",
+      "title": "AN ACT to provide for a legislative management study relating to dental and oral health care status among Medicaid recipients and workforce support to improve access for low-income children, Native American children, and individuals with disabilities.",
+      "summary": "AN ACT to provide for a legislative management study relating to dental and oral health care status among Medicaid recipients and workforce support to improve access for low-income children, Native American children, and individuals with disabilities.",
+      "stage": "Enacted",
+      "impactTags": [
+        "job-creation",
+        "child-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-04-18",
+      "partyOrigin": "B",
+      "sourceUrl": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo1567.html",
+      "legiscanUrl": "https://legiscan.com/ND/bill/HB1567/2025",
+      "legiscanId": 1930640,
+      "sponsors": [
+        "Mary Schneider",
+        "Collette Brown",
+        "Jayme Davis",
+        "Lisa Finley-Deville"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+[
+  {
+    "id": "cliff-bentz",
+    "name": "Cliff Bentz",
+    "role": "Representative · Judiciary",
+    "party": "R-OR",
+    "state": "OR",
+    "chamber": "house",
+    "committees": [
+      "Natural Resources",
+      "Judiciary"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.7,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "lori-chavez-deremer",
+    "name": "Lori Chavez-DeRemer",
+    "role": "Representative",
+    "party": "R-OR",
+    "state": "OR",
+    "chamber": "house",
+    "committees": [
+      "Education and Workforce",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "favorable",
+    "techRegScore": 0.6,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "toss-up"
+  },
+  {
+    "id": "ron-wyden",
+    "name": "Ron Wyden",
+    "role": "Senator · Intelligence",
+    "party": "D-OR",
+    "state": "OR",
+    "chamber": "senate",
+    "committees": [
+      "Finance",
+      "Intelligence",
+      "Budget",
+      "Energy"
+    ],
+    "stance": "none",
+    "quote": "Privacy advocate and tax policy wonk who champions civil liberties and internet freedom",
+    "techRegScore": 0.35,
+    "lobbying": {
+      "topIndustries": [
+        "Tech/Internet $1.2M",
+        "Securities/Investment $890K",
+        "Healthcare $760K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 75,
+      "education": "BA Stanford University, JD University of Oregon",
+      "careerBeforePolitics": "Public interest lawyer, law professor, House member"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "val-hoyle",
+    "name": "Val Hoyle",
+    "role": "Representative",
+    "party": "D-OR",
+    "state": "OR",
+    "chamber": "house",
+    "committees": [
+      "Natural Resources",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "none",
+    "techRegScore": 0.3,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "andrea-salinas",
+    "name": "Andrea Salinas",
+    "role": "Representative",
+    "party": "D-OR",
+    "state": "OR",
+    "chamber": "house",
+    "committees": [
+      "Small Business",
+      "Transportation and Infrastructure"
+    ],
+    "stance": "none",
+    "techRegScore": 0.28,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "lean"
+  },
+  {
+    "id": "jeff-merkley",
+    "name": "Jeff Merkley",
+    "role": "Senator",
+    "party": "D-OR",
+    "state": "OR",
+    "chamber": "senate",
+    "committees": [
+      "Foreign Relations",
+      "Appropriations",
+      "Environment",
+      "Budget"
+    ],
+    "stance": "none",
+    "quote": "Climate action advocate and defender of democratic institutions",
+    "techRegScore": 0.25,
+    "lobbying": {
+      "topIndustries": [
+        "Electronics/Computers $298K",
+        "Securities & Investment $245K",
+        "Real Estate $189K"
+      ],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 68,
+      "education": "BA Stanford University, MPA Princeton University",
+      "careerBeforePolitics": "Analyst at Pentagon, Oregon House Speaker, nonprofit director"
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "suzanne-bonamici",
+    "name": "Suzanne Bonamici",
+    "role": "Representative · Science, Space, and Technology",
+    "party": "D-OR",
+    "state": "OR",
+    "chamber": "house",
+    "committees": [
+      "Education and Labor",
+      "Science, Space, and Technology"
+    ],
+    "stance": "none",
+    "techRegScore": 0.25,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  },
+  {
+    "id": "earl-blumenauer",
+    "name": "Earl Blumenauer",
+    "role": "Representative",
+    "party": "D-OR",
+    "state": "OR",
+    "chamber": "house",
+    "committees": [
+      "Ways and Means"
+    ],
+    "stance": "none",
+    "techRegScore": 0.2,
+    "lobbying": {
+      "topIndustries": [],
+      "totalRaised": ""
+    },
+    "biography": {
+      "age": 0,
+      "education": "",
+      "careerBeforePolitics": ""
+    },
+    "seatSafety": "safe"
+  }
+]

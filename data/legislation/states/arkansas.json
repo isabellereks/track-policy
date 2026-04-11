@@ -1,0 +1,206 @@
+{
+  "state": "Arkansas",
+  "stateCode": "AR",
+  "region": "na",
+  "stance": "review",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "Arkansas has 12 bills tracked in 2025–2026.",
+  "legislation": [
+    {
+      "id": "ar-sr7",
+      "billCode": "SR7",
+      "title": "To Authorize The Introduction Of A Nonappropriation Bill To Amend The Requirements For A Digital Asset Mining Business And Amend The Authority Of A Local Government With Respect To A Digital Asset Mining Business.",
+      "summary": "To Authorize The Introduction Of A Nonappropriation Bill To Amend The Requirements For A Digital Asset Mining Business And Amend The Authority Of A Local Government With Respect To A Digital Asset Mining Business.",
+      "stage": "Filed",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-03",
+      "partyOrigin": "R",
+      "sourceUrl": "https://arkleg.state.ar.us/Bills/Detail?id=sr7&ddBienniumSession=2025%2F2026F",
+      "legiscanUrl": "https://legiscan.com/AR/bill/SR7/2026",
+      "legiscanId": 2141120,
+      "sponsors": [
+        "Bryan King"
+      ]
+    },
+    {
+      "id": "ar-hr1013",
+      "billCode": "HR1013",
+      "title": "To Authorize The Introduction Of A Nonappropriation Bill To Amend The Requirements For A Digital Asset Mining Business And Amend The Authority Of A Local Government With Respect To A Digital Asset Mining Business.",
+      "summary": "To Authorize The Introduction Of A Nonappropriation Bill To Amend The Requirements For A Digital Asset Mining Business And Amend The Authority Of A Local Government With Respect To A Digital Asset Mining Business.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-08",
+      "partyOrigin": "R",
+      "sourceUrl": "https://arkleg.state.ar.us/Bills/Detail?id=hr1013&ddBienniumSession=2025%2F2026F",
+      "legiscanUrl": "https://legiscan.com/AR/bill/HR1013/2026",
+      "legiscanId": 2141917,
+      "sponsors": [
+        "Ron Mcnair"
+      ]
+    },
+    {
+      "id": "ar-hb1058",
+      "billCode": "HB1058",
+      "title": "An Act For The Uams - Reynolds Center On Aging, Boozman College Of Public Health, Ark. Biosciences Institute, & The Area Health Ed. Center In Helena Appropriation For The 2026-2027 Fiscal Year.",
+      "summary": "An Act For The Uams - Reynolds Center On Aging, Boozman College Of Public Health, Ark. Biosciences Institute, & The Area Health Ed. Center In Helena Appropriation For The 2026-2027 Fiscal Year.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-01",
+      "sourceUrl": "https://arkleg.state.ar.us/Bills/Detail?id=hb1058&ddBienniumSession=2025%2F2026F",
+      "legiscanUrl": "https://legiscan.com/AR/bill/HB1058/2026",
+      "legiscanId": 2140557,
+      "sponsors": [
+        "Joint Budget Committee"
+      ]
+    },
+    {
+      "id": "ar-sr10",
+      "billCode": "SR10",
+      "title": "To Authorize The Introduction Of A Nonappropriation Bill To Amend The Arkansas Data Centers Act Of 2023 And To Amend The Uniform Money Services Act.",
+      "summary": "To Authorize The Introduction Of A Nonappropriation Bill To Amend The Arkansas Data Centers Act Of 2023 And To Amend The Uniform Money Services Act.",
+      "stage": "Filed",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-06",
+      "partyOrigin": "R",
+      "sourceUrl": "https://arkleg.state.ar.us/Bills/Detail?id=sr10&ddBienniumSession=2025%2F2026F",
+      "legiscanUrl": "https://legiscan.com/AR/bill/SR10/2026",
+      "legiscanId": 2141356,
+      "sponsors": [
+        "Bryan King"
+      ]
+    },
+    {
+      "id": "ar-hr1011",
+      "billCode": "HR1011",
+      "title": "To Authorize The Introduction Of A Nonappropriation Bill To Amend The Arkansas Data Centers Act Of 2023 And To Amend The Uniform Money Services Act.",
+      "summary": "To Authorize The Introduction Of A Nonappropriation Bill To Amend The Arkansas Data Centers Act Of 2023 And To Amend The Uniform Money Services Act.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-08",
+      "partyOrigin": "R",
+      "sourceUrl": "https://arkleg.state.ar.us/Bills/Detail?id=hr1011&ddBienniumSession=2025%2F2026F",
+      "legiscanUrl": "https://legiscan.com/AR/bill/HR1011/2026",
+      "legiscanId": 2141923,
+      "sponsors": [
+        "Ron Mcnair"
+      ]
+    },
+    {
+      "id": "ar-hb1021",
+      "billCode": "HB1021",
+      "title": "An Act For The Arkansas State University - Mid-south Appropriation For The 2026-2027 Fiscal Year.",
+      "summary": "An Act For The Arkansas State University - Mid-south Appropriation For The 2026-2027 Fiscal Year.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-01",
+      "sourceUrl": "https://arkleg.state.ar.us/Bills/Detail?id=hb1021&ddBienniumSession=2025%2F2026F",
+      "legiscanUrl": "https://legiscan.com/AR/bill/HB1021/2026",
+      "legiscanId": 2140405,
+      "sponsors": [
+        "Joint Budget Committee"
+      ]
+    },
+    {
+      "id": "ar-sb42",
+      "billCode": "SB42",
+      "title": "An Act For The University Of Arkansas For Medical Sciences Appropriation For The 2026-2027 Fiscal Year.",
+      "summary": "An Act For The University Of Arkansas For Medical Sciences Appropriation For The 2026-2027 Fiscal Year.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-01",
+      "sourceUrl": "https://arkleg.state.ar.us/Bills/Detail?id=sb42&ddBienniumSession=2025%2F2026F",
+      "legiscanUrl": "https://legiscan.com/AR/bill/SB42/2026",
+      "legiscanId": 2140560,
+      "sponsors": [
+        "Joint Budget Committee"
+      ]
+    },
+    {
+      "id": "ar-hb1054",
+      "billCode": "HB1054",
+      "title": "An Act For The Department Of Education - Division Of Career And Technical Education Appropriation For The 2026-2027 Fiscal Year.",
+      "summary": "An Act For The Department Of Education - Division Of Career And Technical Education Appropriation For The 2026-2027 Fiscal Year.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-01",
+      "sourceUrl": "https://arkleg.state.ar.us/Bills/Detail?id=hb1054&ddBienniumSession=2025%2F2026F",
+      "legiscanUrl": "https://legiscan.com/AR/bill/HB1054/2026",
+      "legiscanId": 2140597,
+      "sponsors": [
+        "Joint Budget Committee"
+      ]
+    },
+    {
+      "id": "ar-sb21",
+      "billCode": "SB21",
+      "title": "An Act For The Department Of Human Services - Division Of Aging, Adult, And Behavioral Health Services Appropriation For The 2026-2027 Fiscal Year.",
+      "summary": "An Act For The Department Of Human Services - Division Of Aging, Adult, And Behavioral Health Services Appropriation For The 2026-2027 Fiscal Year.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-01",
+      "sourceUrl": "https://arkleg.state.ar.us/Bills/Detail?id=sb21&ddBienniumSession=2025%2F2026F",
+      "legiscanUrl": "https://legiscan.com/AR/bill/SB21/2026",
+      "legiscanId": 2140642,
+      "sponsors": [
+        "Joint Budget Committee"
+      ]
+    },
+    {
+      "id": "ar-sb45",
+      "billCode": "SB45",
+      "title": "An Act For The University Of Arkansas At Monticello Appropriation For The 2026-2027 Fiscal Year.",
+      "summary": "An Act For The University Of Arkansas At Monticello Appropriation For The 2026-2027 Fiscal Year.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-01",
+      "sourceUrl": "https://arkleg.state.ar.us/Bills/Detail?id=sb45&ddBienniumSession=2025%2F2026F",
+      "legiscanUrl": "https://legiscan.com/AR/bill/SB45/2026",
+      "legiscanId": 2140516,
+      "sponsors": [
+        "Joint Budget Committee"
+      ]
+    },
+    {
+      "id": "ar-hb1053",
+      "billCode": "HB1053",
+      "title": "An Act For The University Of Arkansas At Little Rock Appropriation For The 2026-2027 Fiscal Year.",
+      "summary": "An Act For The University Of Arkansas At Little Rock Appropriation For The 2026-2027 Fiscal Year.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-01",
+      "sourceUrl": "https://arkleg.state.ar.us/Bills/Detail?id=hb1053&ddBienniumSession=2025%2F2026F",
+      "legiscanUrl": "https://legiscan.com/AR/bill/HB1053/2026",
+      "legiscanId": 2140638,
+      "sponsors": [
+        "Joint Budget Committee"
+      ]
+    },
+    {
+      "id": "ar-hb1068",
+      "billCode": "HB1068",
+      "title": "An Act For The Department Of Finance And Administration Appropriation For The 2026-2027 Fiscal Year.",
+      "summary": "An Act For The Department Of Finance And Administration Appropriation For The 2026-2027 Fiscal Year.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-01",
+      "sourceUrl": "https://arkleg.state.ar.us/Bills/Detail?id=hb1068&ddBienniumSession=2025%2F2026F",
+      "legiscanUrl": "https://legiscan.com/AR/bill/HB1068/2026",
+      "legiscanId": 2140602,
+      "sponsors": [
+        "Joint Budget Committee"
+      ]
+    }
+  ]
+}

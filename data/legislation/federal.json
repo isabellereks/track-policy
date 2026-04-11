@@ -1,0 +1,250 @@
+{
+  "state": "United States",
+  "stateCode": "US",
+  "region": "na",
+  "stance": "review",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "US has 12 bills tracked in 2025–2026.",
+  "legislation": [
+    {
+      "id": "us-sb3682",
+      "billCode": "SB3682",
+      "title": "Power for the People Act of 2026",
+      "summary": "A bill to promote the creation of data center load queues and data center-specific rate classes to mitigate the impact of data centers on other electricity consumers, and for other purposes.",
+      "stage": "Committee",
+      "impactTags": [
+        "grid-capacity",
+        "energy-rates"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-15",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3682/all-info",
+      "legiscanUrl": "https://legiscan.com/US/bill/SB3682/2025",
+      "legiscanId": 2083636,
+      "sponsors": [
+        "Chris Van Hollen",
+        "Richard Durbin",
+        "Richard Blumenthal",
+        "Cory Booker"
+      ]
+    },
+    {
+      "id": "us-sb2615",
+      "billCode": "SB2615",
+      "title": "VET Artificial Intelligence Act Validation and Evaluation for Trustworthy (VET) Artificial Intelligence Act",
+      "summary": "A bill to require the Director of the National Institute of Standards and Technology to develop voluntary guidelines and specifications for internal and external assurances of artificial intelligence systems, and for other purposes.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-07-31",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2615/all-info",
+      "legiscanUrl": "https://legiscan.com/US/bill/SB2615/2025",
+      "legiscanId": 2041135,
+      "sponsors": [
+        "John Hickenlooper",
+        "Shelley Capito",
+        "Elissa Slotkin",
+        "Todd Young"
+      ]
+    },
+    {
+      "id": "us-hb7270",
+      "billCode": "HB7270",
+      "title": "Stop Identity Fraud and Identity Theft Act of 2026",
+      "summary": "To establish a government-wide approach to stopping identity fraud and theft in the financial services industry, and for other purposes.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-27",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7270/all-info",
+      "legiscanUrl": "https://legiscan.com/US/bill/HB7270/2025",
+      "legiscanId": 2095504,
+      "sponsors": [
+        "Pete Sessions",
+        "Bill Foster",
+        "Richard McCormick"
+      ]
+    },
+    {
+      "id": "us-hb4695",
+      "billCode": "HB4695",
+      "title": "Facial Recognition Act of 2025",
+      "summary": "To regulate law enforcement use of facial recognition technology, and for other purposes.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-criminal-justice",
+      "updatedDate": "2025-07-23",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4695/all-info",
+      "legiscanUrl": "https://legiscan.com/US/bill/HB4695/2025",
+      "legiscanId": 2040387,
+      "sponsors": [
+        "Ted Lieu",
+        "Yvette Clarke",
+        "Jimmy Gomez",
+        "Glenn Ivey"
+      ]
+    },
+    {
+      "id": "us-sb4213",
+      "billCode": "SB4213",
+      "title": "Data Center Water and Energy Transparency Act of 2026",
+      "summary": "A bill to require data center operators to submit to States or the Administrator of the Environmental Protection Agency and the Secretaries of Energy and Agriculture reports on data center energy and water use, and for other purposes.",
+      "stage": "Committee",
+      "impactTags": [
+        "water-consumption",
+        "nda-transparency"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-03-25",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4213/all-info",
+      "legiscanUrl": "https://legiscan.com/US/bill/SB4213/2025",
+      "legiscanId": 2138518,
+      "sponsors": [
+        "Richard Durbin"
+      ]
+    },
+    {
+      "id": "us-sb3852",
+      "billCode": "SB3852",
+      "title": "GRID Act Guaranteeing Rate Insulation from Data Centers Act",
+      "summary": "A bill to impose certain requirements on data centers to ensure the prioritization of residential ratepayers, and for other purposes.",
+      "stage": "Committee",
+      "impactTags": [
+        "grid-capacity",
+        "energy-rates",
+        "residential-proximity"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-11",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3852/all-info",
+      "legiscanUrl": "https://legiscan.com/US/bill/SB3852/2025",
+      "legiscanId": 2114891,
+      "sponsors": [
+        "Josh Hawley",
+        "Richard Blumenthal"
+      ]
+    },
+    {
+      "id": "us-hb7858",
+      "billCode": "HB7858",
+      "title": "Data Center Community Impact Act",
+      "summary": "To require the Secretary of Energy to conduct a study on the effect of data centers on communities of color and low-income communities, and for other purposes.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-05",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7858/all-info",
+      "legiscanUrl": "https://legiscan.com/US/bill/HB7858/2025",
+      "legiscanId": 2130184,
+      "sponsors": [
+        "Bonnie Coleman",
+        "Rashida Tlaib",
+        "Eleanor Norton",
+        "Summer Lee"
+      ]
+    },
+    {
+      "id": "us-hb8033",
+      "billCode": "HB8033",
+      "title": "No Harm Data Centers Act",
+      "summary": "To ensure that American families are protected from the impacts of data centers on the electric grid, and for other purposes.",
+      "stage": "Committee",
+      "impactTags": [
+        "grid-capacity"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-20",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8033/all-info",
+      "legiscanUrl": "https://legiscan.com/US/bill/HB8033/2025",
+      "legiscanId": 2136834,
+      "sponsors": [
+        "Greg Landsman"
+      ]
+    },
+    {
+      "id": "us-hb6984",
+      "billCode": "HB6984",
+      "title": "Data Center Transparency Act",
+      "summary": "To require reports on the effects of data centers on air quality and water quality, and on electricity consumption by data centers.",
+      "stage": "Committee",
+      "impactTags": [
+        "nda-transparency"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-08",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6984/all-info",
+      "legiscanUrl": "https://legiscan.com/US/bill/HB6984/2025",
+      "legiscanId": 2069266,
+      "sponsors": [
+        "Robert Menendez",
+        "Greg Casar",
+        "Chrissy Houlahan"
+      ]
+    },
+    {
+      "id": "us-hb6419",
+      "billCode": "HB6419",
+      "title": "New Essential Education Discoveries Act of 2025",
+      "summary": "To amend the Education Sciences Reform Act of 2002 to establish a National Center for Advanced Development in Education at the Institute for Education Sciences, and for other purposes.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-12-04",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6419/all-info",
+      "legiscanUrl": "https://legiscan.com/US/bill/HB6419/2025",
+      "legiscanId": 2057116,
+      "sponsors": [
+        "Suzanne Bonamici",
+        "Brian Fitzpatrick",
+        "Steve Cohen"
+      ]
+    },
+    {
+      "id": "us-hb8037",
+      "billCode": "HB8037",
+      "title": "Protect American AI Act of 2026",
+      "summary": "To limit the effect of litigation on the environmental application process for data centers and associated infrastructure.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-24",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8037/all-info",
+      "legiscanUrl": "https://legiscan.com/US/bill/HB8037/2025",
+      "legiscanId": 2137860,
+      "sponsors": [
+        "Michael Baumgartner"
+      ]
+    },
+    {
+      "id": "us-sb453",
+      "billCode": "SB453",
+      "title": "Wildfire Intelligence Collaboration and Coordination Act of 2025",
+      "summary": "A bill to establish a Wildfire Intelligence Center, and for other purposes.",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-02-06",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/453/all-info",
+      "legiscanUrl": "https://legiscan.com/US/bill/SB453/2025",
+      "legiscanId": 1961701,
+      "sponsors": [
+        "Alex Padilla",
+        "Tim Sheehy",
+        "Steve Daines",
+        "John Hickenlooper"
+      ]
+    }
+  ]
+}

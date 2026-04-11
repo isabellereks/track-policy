@@ -1,0 +1,231 @@
+{
+  "state": "New Mexico",
+  "stateCode": "NM",
+  "region": "na",
+  "stance": "restrictive",
+  "lastUpdated": "2026-04-11",
+  "contextBlurb": "New Mexico has 12 bills tracked in 2025–2026. 3 are already enacted. 1 relates to moratoriums or prohibitions.",
+  "legislation": [
+    {
+      "id": "nm-hm6",
+      "billCode": "HM6",
+      "title": "Private Equity Infrastructure Ownership",
+      "summary": "Private Equity Infrastructure Ownership",
+      "stage": "Filed",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-20",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legtype=M&legno=6&year=26",
+      "legiscanUrl": "https://legiscan.com/NM/bill/HM6/2026",
+      "legiscanId": 2085087,
+      "sponsors": [
+        "Patricia Roybal Caballero",
+        "Harold Pope",
+        "Kathleen Cates",
+        "Janelle Anyanonu"
+      ]
+    },
+    {
+      "id": "nm-hb28",
+      "billCode": "HB28",
+      "title": "Artificial Intelligence Transparency Act",
+      "summary": "Artificial Intelligence Transparency Act",
+      "stage": "Filed",
+      "impactTags": [
+        "nda-transparency"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-20",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legtype=B&legno=28&year=26",
+      "legiscanUrl": "https://legiscan.com/NM/bill/HB28/2026",
+      "legiscanId": 2065007,
+      "sponsors": [
+        "Christine Chandler"
+      ]
+    },
+    {
+      "id": "nm-hb22",
+      "billCode": "HB22",
+      "title": "Distribution Of Sensitive And Deepfake Images",
+      "summary": "Distribution Of Sensitive And Deepfake Images",
+      "stage": "Filed",
+      "impactTags": [
+        "deepfake-regulation"
+      ],
+      "category": "synthetic-media",
+      "updatedDate": "2026-01-20",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legtype=B&legno=22&year=26",
+      "legiscanUrl": "https://legiscan.com/NM/bill/HB22/2026",
+      "legiscanId": 2064990,
+      "sponsors": [
+        "Christine Chandler",
+        "Michelle Paulene Abeyta",
+        "Cynthia Borrego"
+      ]
+    },
+    {
+      "id": "nm-hb306",
+      "billCode": "HB306",
+      "title": "Prohibit Certain Health Care Facility Fees",
+      "summary": "Prohibit Certain Health Care Facility Fees",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-06",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legtype=B&legno=306&year=26",
+      "legiscanUrl": "https://legiscan.com/NM/bill/HB306/2026",
+      "legiscanId": 2108254,
+      "sponsors": [
+        "Reena Szczepanski",
+        "Elizabeth Stefanics"
+      ]
+    },
+    {
+      "id": "nm-sm11",
+      "billCode": "SM11",
+      "title": "Importance Of Water To Taos",
+      "summary": "Importance Of Water To Taos",
+      "stage": "Filed",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-27",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.nmlegis.gov/Legislation/Legislation?chamber=S&legtype=M&legno=11&year=26",
+      "legiscanUrl": "https://legiscan.com/NM/bill/SM11/2026",
+      "legiscanId": 2094794,
+      "sponsors": [
+        "Roberto Gonzales",
+        "James Townsend",
+        "Linda Trujillo"
+      ]
+    },
+    {
+      "id": "nm-hm45",
+      "billCode": "HM45",
+      "title": "Importance Of Water In Taos",
+      "summary": "Importance Of Water In Taos",
+      "stage": "Filed",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-03",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legtype=M&legno=45&year=26",
+      "legiscanUrl": "https://legiscan.com/NM/bill/HM45/2026",
+      "legiscanId": 2106585,
+      "sponsors": [
+        "Joseph Sanchez"
+      ]
+    },
+    {
+      "id": "nm-sm16",
+      "billCode": "SM16",
+      "title": "Data On Parenting Students In Higher Ed.",
+      "summary": "Data On Parenting Students In Higher Ed.",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-14",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.nmlegis.gov/Legislation/Legislation?chamber=S&legtype=M&legno=16&year=26",
+      "legiscanUrl": "https://legiscan.com/NM/bill/SM16/2026",
+      "legiscanId": 2103169,
+      "sponsors": [
+        "Leo Jaramillo"
+      ]
+    },
+    {
+      "id": "nm-hb174",
+      "billCode": "HB174",
+      "title": "Chatbot Safety Act",
+      "summary": "Chatbot Safety Act",
+      "stage": "Filed",
+      "impactTags": [
+        "child-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-27",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legtype=B&legno=174&year=26",
+      "legiscanUrl": "https://legiscan.com/NM/bill/HB174/2026",
+      "legiscanId": 2094881,
+      "sponsors": [
+        "Andrea Romero",
+        "Art De La Cruz"
+      ]
+    },
+    {
+      "id": "nm-sb68",
+      "billCode": "SB68",
+      "title": "Artificial Intelligence Government Use Act",
+      "summary": "Artificial Intelligence Government Use Act",
+      "stage": "Filed",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-22",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.nmlegis.gov/Legislation/Legislation?chamber=S&legtype=B&legno=68&year=26",
+      "legiscanUrl": "https://legiscan.com/NM/bill/SB68/2026",
+      "legiscanId": 2091342,
+      "sponsors": [
+        "Heather Berghmans"
+      ]
+    },
+    {
+      "id": "nm-hb141",
+      "billCode": "HB141",
+      "title": "Artificial Intelligence Accountability Act",
+      "summary": "Artificial Intelligence Accountability Act",
+      "stage": "Filed",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-22",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legtype=B&legno=141&year=26",
+      "legiscanUrl": "https://legiscan.com/NM/bill/HB141/2026",
+      "legiscanId": 2091366,
+      "sponsors": [
+        "Linda Serrato"
+      ]
+    },
+    {
+      "id": "nm-hm19",
+      "billCode": "HM19",
+      "title": "\"nm Aviation & Aerospace Day\"",
+      "summary": "\"nm Aviation & Aerospace Day\"",
+      "stage": "Enacted",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-10",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legtype=M&legno=19&year=26",
+      "legiscanUrl": "https://legiscan.com/NM/bill/HM19/2026",
+      "legiscanId": 2093814,
+      "sponsors": [
+        "Dayan Hochman-Vigil"
+      ]
+    },
+    {
+      "id": "nm-hb292",
+      "billCode": "HB292",
+      "title": "Nm Prison Rape Elimination Act",
+      "summary": "Nm Prison Rape Elimination Act",
+      "stage": "Committee",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-30",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legtype=B&legno=292&year=26",
+      "legiscanUrl": "https://legiscan.com/NM/bill/HB292/2026",
+      "legiscanId": 2103222,
+      "sponsors": [
+        "Dayan Hochman-Vigil",
+        "Elizabeth Stefanics",
+        "Nicole Chavez"
+      ]
+    }
+  ]
+}
