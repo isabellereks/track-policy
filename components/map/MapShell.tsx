@@ -452,10 +452,13 @@ export default function MapShell({
   >(null);
   const panelSize: "min" | "md" = explicitPanelSize ?? "md";
 
-  // When the panel is collapsed to the Dynamic Island, the map gets a little
-  // extra zoom so it fills the freed-up space. Expanding the panel returns
-  // the map to its baseline scale.
-  const panelExtraZoom = panelSize === "min" ? 1.55 : 1.0;
+  // When the panel is collapsed to the Dynamic Island, the map gets a
+  // little extra zoom so it fills the freed-up space. On desktop (where
+  // the panel sits to the side) the bump is larger; on mobile (where
+  // the panel was at the bottom) a gentle bump is enough — 1.55x pushes
+  // the US off-screen on narrow viewports.
+  const panelExtraZoom =
+    panelSize === "min" ? (isMobileViewport ? 1.12 : 1.55) : 1.0;
 
   // Touch swipe between regions (mobile only)
   const swipeRef = useRef<{
@@ -485,14 +488,13 @@ export default function MapShell({
     const dx = e.clientX - start.x;
     const dy = e.clientY - start.y;
     const dt = Date.now() - start.time;
-    // Touch is more forgiving on time; mouse is faster.
     const maxDt = e.pointerType === "touch" ? 600 : 800;
     if (Math.abs(dx) > 60 && Math.abs(dy) < 50 && dt < maxDt) {
+      const len = REGION_ORDER.length;
       const currentIdx = REGION_ORDER.indexOf(region);
-      const nextIdx =
-        dx < 0
-          ? Math.min(REGION_ORDER.length - 1, currentIdx + 1)
-          : Math.max(0, currentIdx - 1);
+      const nextIdx = dx < 0
+        ? (currentIdx + 1) % len
+        : (currentIdx - 1 + len) % len;
       if (nextIdx !== currentIdx) {
         handleRegionChange(REGION_ORDER[nextIdx]);
         start.swiped = true;
@@ -572,9 +574,10 @@ export default function MapShell({
     };
 
     const swipeRegion = (dir: 1 | -1) => {
+      const len = REGION_ORDER.length;
       const idx = REGION_ORDER.indexOf(region);
-      const next = idx + dir;
-      if (next < 0 || next >= REGION_ORDER.length) return false;
+      const next = (idx + dir + len) % len;
+      if (next === idx) return false;
       handleRegionChange(REGION_ORDER[next]);
       return true;
     };

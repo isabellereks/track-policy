@@ -90,8 +90,8 @@ body {
 .highlight-sweep {
   background-image: linear-gradient(
     120deg,
-    rgba(245, 197, 24, 0.28) 0%,
-    rgba(245, 197, 24, 0.22) 100%
+    var(--sweep-color, rgba(245, 197, 24, 0.28)) 0%,
+    var(--sweep-color, rgba(245, 197, 24, 0.22)) 100%
   );
   background-repeat: no-repeat;
   background-position: 0 88%;

@@ -408,11 +408,6 @@ export default function LegislationTable({
               );
             })}
           </div>
-          <div className="text-xs text-muted whitespace-nowrap">
-            <span className="font-semibold text-ink">{billCount}</span> bills ·{" "}
-            <span className="font-semibold text-ink">{entityCount}</span>{" "}
-            entities
-          </div>
         </div>
       </div>
 
@@ -442,28 +437,39 @@ export default function LegislationTable({
         </div>
       </div>
 
-      {/* Sort row */}
-      <div className="flex flex-wrap items-center gap-2 mb-6">
-        <span className="text-[13px] font-medium text-muted tracking-tight mr-1">
+      {/* Sort dropdown */}
+      <div className="flex items-center gap-2 mb-6">
+        <span className="text-[13px] font-medium text-muted tracking-tight">
           Sort
         </span>
-        {SORT_OPTIONS.map((opt) => {
-          const active = opt.key === sortKey;
-          return (
-            <button
-              key={opt.key}
-              type="button"
-              onClick={() => setSortKey(opt.key)}
-              className={`rounded-full px-3 py-1 text-[11px] font-medium transition-colors ${
-                active
-                  ? "bg-black/[.08] text-ink"
-                  : "text-muted hover:text-ink"
-              }`}
-            >
-              {opt.label}
-            </button>
-          );
-        })}
+        <div className="relative">
+          <select
+            value={sortKey}
+            onChange={(e) => setSortKey(e.target.value as SortKey)}
+            className="appearance-none rounded-full bg-black/[.04] text-ink text-xs font-medium pl-3 pr-7 py-1.5 cursor-pointer focus:outline-none focus-visible:ring-2 focus-visible:ring-ink/20"
+          >
+            {SORT_OPTIONS.map((opt) => (
+              <option key={opt.key} value={opt.key}>
+                {opt.label}
+              </option>
+            ))}
+          </select>
+          <svg
+            width="10"
+            height="10"
+            viewBox="0 0 10 10"
+            fill="none"
+            className="absolute right-2.5 top-1/2 -translate-y-1/2 pointer-events-none text-muted"
+          >
+            <path
+              d="M2.5 3.75L5 6.25L7.5 3.75"
+              stroke="currentColor"
+              strokeWidth="1.25"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+            />
+          </svg>
+        </div>
       </div>
 
       {/* Rows */}

@@ -62,6 +62,17 @@ function formatLastUpdated(iso: string | undefined): string | null {
   return LAST_UPDATED_FMT.format(d);
 }
 
+const SHORT_DATE_FMT = new Intl.DateTimeFormat("en-US", {
+  month: "short",
+  day: "numeric",
+});
+
+function formatShortDate(iso: string): string {
+  const d = new Date(iso);
+  if (Number.isNaN(d.getTime())) return iso;
+  return SHORT_DATE_FMT.format(d);
+}
+
 function rowMatchesQuery(row: NewsRow, q: string): boolean {
   if (!q) return true;
   const needle = q.toLowerCase();
@@ -233,11 +244,11 @@ export default function LiveNews() {
                 <div className="text-sm font-medium text-ink tracking-tight leading-snug">
                   {item.headline}
                 </div>
-                <div className="text-[11px] text-muted mt-3 flex items-center gap-2">
-                  <span className="font-medium text-ink/70">{item.source}</span>
-                  <span aria-hidden>·</span>
-                  <span>{item.date}</span>
-                  <span aria-hidden>·</span>
+                <div className="text-[11px] text-muted mt-2.5 flex items-center gap-1.5 min-w-0">
+                  <span className="font-medium text-ink/70 truncate max-w-[10rem] flex-shrink-0">{item.source}</span>
+                  <span aria-hidden className="flex-shrink-0">·</span>
+                  <span className="flex-shrink-0">{formatShortDate(item.date)}</span>
+                  <span aria-hidden className="flex-shrink-0">·</span>
                   <span className="truncate">{entity.name}</span>
                 </div>
               </a>
