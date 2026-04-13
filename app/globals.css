@@ -180,6 +180,10 @@ body {
   transition: opacity 0.25s, filter 0.25s;
 }
 
+.globe-marker:hover {
+  z-index: 50;
+}
+
 .globe-marker:hover .globe-marker-tooltip {
   opacity: 1;
   scale: 1;

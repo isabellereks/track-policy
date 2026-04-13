@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useRef, useState, useCallback, useMemo } from "react";
-import createGlobe from "cobe";
+import createGlobe from "@/lib/cobe";
 import Link from "next/link";
 import NumberFlow from "@number-flow/react";
 import { ALL_FACILITIES } from "@/lib/datacenters";
@@ -149,6 +149,7 @@ export default function GlobePage() {
   const [drawerOpen, setDrawerOpen] = useState(false);
   const drawerOpenRef = useRef(false);
   const [statsReady, setStatsReady] = useState(false);
+  const [darkMode, setDarkMode] = useState(true);
 
   const markers = useMemo(() => clusterFacilities(ALL_FACILITIES, 4), []);
 
@@ -257,12 +258,16 @@ export default function GlobePage() {
 
     const globe = createGlobe(canvas, {
       devicePixelRatio: dpr, width, height: width,
-      phi: 0, theta: 0.15, dark: 1, diffuse: 1.2,
+      phi: 0, theta: 0.15, diffuse: 1.2,
       mapSamples: 20000, mapBrightness: 6,
-      baseColor: [0.3, 0.3, 0.3],
+      dark: darkMode ? 1 : 0,
+      baseColor: darkMode ? [0.1, 0.1, 0.14] : [0.9, 0.9, 0.92],
       markerColor: [0.04, 0.52, 1],
-      glowColor: [0.05, 0.05, 0.08],
-      markers: [], markerElevation: elevation, opacity: 0.9,
+      glowColor: darkMode ? [0.08, 0.1, 0.18] : [0.85, 0.88, 0.95],
+      markers: [], markerElevation: elevation,
+      opacity: darkMode ? 0.85 : 0.95,
+      mapTexture: darkMode ? "/globe-map.png" : "/globe-map-light.png",
+      mapColor: true,
     });
 
     let animId: number;
@@ -280,20 +285,24 @@ export default function GlobePage() {
         -thetaRange,
         Math.min(thetaRange, 0.15 + thetaOffset.current + dragOffset.current.theta),
       );
-      globe.update({ phi: currentPhi, theta: currentTheta, scale: currentScale });
+      globe.update({ phi: currentPhi, theta: currentTheta });
+
+      const containerEl = containerRef.current;
+      if (containerEl) {
+        containerEl.style.transform = `scale(${currentScale})`;
+      }
 
       const containerW = canvas.offsetWidth;
       const placed: { x: number; y: number }[] = [];
       for (const m of markers) {
         const el = labelRefs.current.get(m.id);
         if (!el) continue;
-        const pos = projectMarker(m.location, currentPhi, currentTheta, elevation, currentScale);
+        const pos = projectMarker(m.location, currentPhi, currentTheta, elevation);
         el.style.left = `${pos.x * 100}%`;
         el.style.top = `${pos.y * 100}%`;
 
-        const onScreen = pos.x > -0.05 && pos.x < 1.05 && pos.y > -0.05 && pos.y < 1.05;
         const isTop = topIds.has(m.id);
-        let hide = !pos.visible || !onScreen;
+        let hide = !pos.visible;
         if (!hide && isTop) {
           for (const p of placed) {
             if (
@@ -322,7 +331,7 @@ export default function GlobePage() {
       globe.destroy();
       setStatsReady(false);
     };
-  }, [markers]);
+  }, [markers, darkMode]);
 
   const operator = selectedFacility && (stripConfidence(selectedFacility.operator) ?? selectedFacility.operator);
   const capacity = selectedFacility && formatMW(selectedFacility.capacityMW);
@@ -352,11 +361,11 @@ export default function GlobePage() {
   }, []);
 
   return (
-    <div className="h-dvh w-screen overflow-hidden bg-[#0a0a0c] relative flex font-sans touch-none">
+    <div className={`h-dvh w-screen overflow-hidden relative flex font-sans touch-none transition-colors duration-500 ${darkMode ? "bg-[#0a0a0c]" : "bg-[#f0f2f5]"}`}>
       <div className={`flex-1 relative flex justify-center overflow-hidden transition-all duration-300 ease-[cubic-bezier(0.16,1,0.3,1)] ${drawerOpen ? "items-start pt-10 md:pt-0 md:items-center md:pr-[380px]" : "items-center"}`}>
         <Link
           href="/#datacenters"
-          className="absolute top-3 left-3 md:top-6 md:left-6 z-20 inline-flex items-center gap-1.5 text-xs md:text-sm text-white/50 hover:text-white/80 transition-colors"
+          className={`absolute top-3 left-3 md:top-6 md:left-6 z-20 inline-flex items-center gap-1.5 text-xs md:text-sm transition-colors ${darkMode ? "text-white/50 hover:text-white/80" : "text-black/40 hover:text-black/70"}`}
         >
           <svg width="12" height="12" viewBox="0 0 12 12" fill="none">
             <path d="M7.5 2L3.5 6L7.5 10" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
@@ -364,23 +373,56 @@ export default function GlobePage() {
           TrackPolicy
         </Link>
 
-        <div className="absolute bottom-[max(0.75rem,env(safe-area-inset-bottom))] left-3 md:bottom-6 md:left-6 z-20 flex items-center gap-5 md:gap-6">
-          <div>
-            <div className="text-xs text-white/40 tracking-tight">Facilities</div>
-            <div className="text-xl md:text-2xl font-semibold text-white/90 tabular-nums">
-              <NumberFlow value={statsReady ? stats.total : 0} />
-            </div>
-          </div>
-          <div>
-            <div className="text-xs text-white/40 tracking-tight">Total capacity</div>
-            <div className="text-xl md:text-2xl font-semibold text-white/90 tabular-nums">
-              <NumberFlow value={statsReady ? parseFloat((stats.totalMW / 1000).toFixed(1)) : 0} format={{ minimumFractionDigits: 1, maximumFractionDigits: 1 }} suffix=" GW" />
-            </div>
-          </div>
+        <button
+          onClick={() => setDarkMode((d) => !d)}
+          className={`absolute top-3 right-3 md:top-6 md:right-6 z-20 w-9 h-9 rounded-full flex items-center justify-center transition-colors ${darkMode ? "bg-white/10 hover:bg-white/20 text-white/70" : "bg-black/8 hover:bg-black/15 text-black/60"}`}
+          aria-label="Toggle dark mode"
+        >
+          {darkMode ? (
+            <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><circle cx="8" cy="8" r="3.5" stroke="currentColor" strokeWidth="1.5"/><path d="M8 1.5v1M8 13.5v1M1.5 8h1M13.5 8h1M3.4 3.4l.7.7M11.9 11.9l.7.7M3.4 12.6l.7-.7M11.9 4.1l.7-.7" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round"/></svg>
+          ) : (
+            <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M14 9.2A6.5 6.5 0 016.8 2 6 6 0 1014 9.2z" stroke="currentColor" strokeWidth="1.5" strokeLinejoin="round"/></svg>
+          )}
+        </button>
+
+        <div className="absolute bottom-[max(0.75rem,env(safe-area-inset-bottom))] left-3 md:bottom-6 md:left-6 z-20 flex items-center gap-5 md:gap-8">
+          {selectedFacility && drawerOpen ? (
+            <>
+              <div>
+                <div className={`text-xs md:text-sm tracking-tight ${darkMode ? "text-white/40" : "text-black/40"}`}>{operator}</div>
+                <div className={`text-2xl md:text-3xl font-semibold tabular-nums ${darkMode ? "text-white/90" : "text-black/90"}`}>
+                  {capacity ?? "—"}
+                </div>
+              </div>
+              {selectedFacility.country && (
+                <div>
+                  <div className={`text-xs md:text-sm tracking-tight ${darkMode ? "text-white/40" : "text-black/40"}`}>Location</div>
+                  <div className={`text-2xl md:text-3xl font-semibold ${darkMode ? "text-white/90" : "text-black/90"}`}>
+                    {selectedFacility.country}
+                  </div>
+                </div>
+              )}
+            </>
+          ) : (
+            <>
+              <div>
+                <div className={`text-xs md:text-sm tracking-tight ${darkMode ? "text-white/40" : "text-black/40"}`}>Facilities</div>
+                <div className={`text-2xl md:text-3xl font-semibold tabular-nums ${darkMode ? "text-white/90" : "text-black/90"}`}>
+                  <NumberFlow value={statsReady ? stats.total : 0} />
+                </div>
+              </div>
+              <div>
+                <div className={`text-xs md:text-sm tracking-tight ${darkMode ? "text-white/40" : "text-black/40"}`}>Total capacity</div>
+                <div className={`text-2xl md:text-3xl font-semibold tabular-nums ${darkMode ? "text-white/90" : "text-black/90"}`}>
+                  <NumberFlow value={statsReady ? parseFloat((stats.totalMW / 1000).toFixed(1)) : 0} format={{ minimumFractionDigits: 1, maximumFractionDigits: 1 }} suffix=" GW" />
+                </div>
+              </div>
+            </>
+          )}
         </div>
 
         {/* Globe + labels */}
-        <div ref={containerRef} className="globe-markers-container w-full max-w-[720px] aspect-square relative">
+        <div ref={containerRef} className="globe-markers-container w-full max-w-[720px] aspect-square relative origin-center">
           <canvas
             ref={canvasRef}
             className="w-full h-full cursor-grab"
@@ -409,12 +451,12 @@ export default function GlobePage() {
                   }`}
                 >
                   <div
-                    className="globe-marker-pill inline-flex items-center gap-1.5 px-2.5 py-1 rounded bg-[#1D1D1F] text-white/90 shadow-lg whitespace-nowrap"
+                    className={`globe-marker-pill inline-flex items-center gap-1.5 px-2.5 py-1 rounded shadow-lg whitespace-nowrap ${darkMode ? "bg-[#1D1D1F] text-white/90" : "bg-white text-black/85"}`}
                     style={{ fontSize: "11px", letterSpacing: "-0.01em" }}
                   >
                     <span className="font-medium tracking-tight truncate">{name}</span>
-                    {mw && <span className="text-white/50 shrink-0">{mw}</span>}
-                    <span className="globe-marker-cta text-white/30 shrink-0">↗</span>
+                    {mw && <span className={darkMode ? "text-white/50" : "text-black/40"}>{mw}</span>}
+                    <span className={`globe-marker-cta shrink-0 ${darkMode ? "text-white/30" : "text-black/25"}`}>↗</span>
                   </div>
                 </div>
               </div>
@@ -422,24 +464,24 @@ export default function GlobePage() {
           })}
         </div>
 
-        <div className="absolute bottom-3 right-3 md:bottom-6 md:right-6 z-20 text-[11px] text-white/25 tracking-tight hidden md:block">
+        <div className={`absolute bottom-3 right-3 md:bottom-6 md:right-6 z-20 text-[11px] tracking-tight hidden md:block ${darkMode ? "text-white/25" : "text-black/25"}`}>
           Drag to rotate · Scroll to zoom · Click to inspect
         </div>
       </div>
 
       {/* Drawer: bottom sheet on mobile, right sidebar on desktop */}
       <div
-        className={`absolute z-30 bg-[#141416] shadow-[0_-8px_32px_rgba(0,0,0,0.4)] md:shadow-[-8px_0_32px_rgba(0,0,0,0.4)] transition-transform duration-300 ease-[cubic-bezier(0.16,1,0.3,1)] flex flex-col bottom-0 left-0 right-0 max-h-[70vh] rounded-t-2xl border-t border-white/8 md:rounded-none md:border-t-0 md:border-l md:border-white/8 md:top-0 md:left-auto md:right-0 md:bottom-0 md:max-h-full md:h-full md:w-[380px] md:max-w-[90vw] ${drawerOpen && selectedFacility ? "translate-y-0 md:translate-x-0" : "translate-y-full md:translate-y-0 md:translate-x-full"}`}
+        className={`absolute z-30 transition-transform duration-300 ease-[cubic-bezier(0.16,1,0.3,1)] flex flex-col bottom-0 left-0 right-0 max-h-[70vh] rounded-t-2xl md:rounded-none md:top-0 md:left-auto md:right-0 md:bottom-0 md:max-h-full md:h-full md:w-[380px] md:max-w-[90vw] ${darkMode ? "bg-[#141416] border-t border-white/8 md:border-t-0 md:border-l md:border-white/8 shadow-[0_-8px_32px_rgba(0,0,0,0.4)] md:shadow-[-8px_0_32px_rgba(0,0,0,0.4)]" : "bg-white border-t border-black/8 md:border-t-0 md:border-l md:border-black/8 shadow-[0_-8px_32px_rgba(0,0,0,0.1)] md:shadow-[-8px_0_32px_rgba(0,0,0,0.1)]"} ${drawerOpen && selectedFacility ? "translate-y-0 md:translate-x-0" : "translate-y-full md:translate-y-0 md:translate-x-full"}`}
       >
         {selectedFacility && (
           <>
             <div className="flex justify-center pt-2 pb-0 md:hidden">
-              <div className="w-10 h-1 rounded-full bg-white/20" />
+              <div className={`w-10 h-1 rounded-full ${darkMode ? "bg-white/20" : "bg-black/15"}`} />
             </div>
-            <div className="px-6 pt-4 md:pt-5 pb-4 border-b border-white/8 flex items-start justify-between gap-3">
+            <div className={`px-6 pt-4 md:pt-5 pb-4 border-b flex items-start justify-between gap-3 ${darkMode ? "border-white/8" : "border-black/8"}`}>
               <div className="min-w-0">
-                <h2 className="text-xl font-semibold text-white tracking-tight leading-tight truncate">{operator}</h2>
-                <div className="mt-1.5 flex items-center gap-2 text-xs text-white/50">
+                <h2 className={`text-xl font-semibold tracking-tight leading-tight truncate ${darkMode ? "text-white" : "text-black"}`}>{operator}</h2>
+                <div className={`mt-1.5 flex items-center gap-2 text-xs ${darkMode ? "text-white/50" : "text-black/50"}`}>
                   {selectedFacility.status === "under-construction" ? (
                     <StatusLoader />
                   ) : (
@@ -448,7 +490,7 @@ export default function GlobePage() {
                   <span>{STATUS_LABEL[selectedFacility.status]}</span>
                   {capacity && (
                     <>
-                      <span aria-hidden className="text-white/20">·</span>
+                      <span aria-hidden className={darkMode ? "text-white/20" : "text-black/20"}>·</span>
                       <span>{capacity}</span>
                     </>
                   )}
@@ -456,7 +498,7 @@ export default function GlobePage() {
               </div>
               <button
                 onClick={() => { setDrawerOpen(false); drawerOpenRef.current = false; setTimeout(() => setSelectedFacility(null), 300); }}
-                className="shrink-0 w-7 h-7 rounded-full flex items-center justify-center text-white/40 hover:text-white hover:bg-white/[.08] transition-colors"
+                className={`shrink-0 w-7 h-7 rounded-full flex items-center justify-center transition-colors ${darkMode ? "text-white/40 hover:text-white hover:bg-white/8" : "text-black/40 hover:text-black hover:bg-black/8"}`}
                 aria-label="Close"
               >
                 <svg width="12" height="12" viewBox="0 0 12 12" fill="none">
@@ -468,38 +510,38 @@ export default function GlobePage() {
             <div className="flex-1 overflow-y-auto">
               <div className="p-6 flex flex-col gap-5">
                 {selectedFacility.notes && (
-                  <p className="text-[13px] text-white/60 leading-relaxed">{selectedFacility.notes}</p>
+                  <p className={`text-[13px] leading-relaxed ${darkMode ? "text-white/60" : "text-black/60"}`}>{selectedFacility.notes}</p>
                 )}
                 {details.length > 0 && (
                   <dl className="flex flex-col">
                     {details.map((d, i) => (
-                      <div key={d.label} className={`flex items-start justify-between gap-4 py-2.5 text-[13px] ${i === 0 ? "" : "border-t border-white/[.06]"}`}>
-                        <dt className="text-white/40 shrink-0">{d.label}</dt>
-                        <dd className="text-white/90 font-medium text-right tracking-tight">{d.value}</dd>
+                      <div key={d.label} className={`flex items-start justify-between gap-4 py-2.5 text-[13px] ${i === 0 ? "" : `border-t ${darkMode ? "border-white/6" : "border-black/6"}`}`}>
+                        <dt className={darkMode ? "text-white/40" : "text-black/40"}>{d.label}</dt>
+                        <dd className={`font-medium text-right tracking-tight ${darkMode ? "text-white/90" : "text-black/90"}`}>{d.value}</dd>
                       </div>
                     ))}
                   </dl>
                 )}
                 {selectedFacility.concerns && selectedFacility.concerns.length > 0 && (
                   <div>
-                    <h3 className="text-[13px] font-medium text-white/80 mb-2">Community concerns</h3>
+                    <h3 className={`text-[13px] font-medium mb-2 ${darkMode ? "text-white/80" : "text-black/80"}`}>Community concerns</h3>
                     <div className="flex flex-wrap gap-1.5">
                       {selectedFacility.concerns.map((c) => (
-                        <span key={c} className="text-[11px] px-2 py-1 rounded-full bg-white/[.06] text-white/60 tracking-tight">
+                        <span key={c} className={`text-[11px] px-2 py-1 rounded-full tracking-tight ${darkMode ? "bg-white/6 text-white/60" : "bg-black/6 text-black/60"}`}>
                           {c.split("-").map((w) => w.charAt(0).toUpperCase() + w.slice(1)).join(" ")}
                         </span>
                       ))}
                     </div>
                   </div>
                 )}
-                <p className="text-[11px] text-white/30 pt-2">
+                <p className={`text-[11px] pt-2 ${darkMode ? "text-white/30" : "text-black/30"}`}>
                   {selectedFacility.source === "epoch-ai" ? "Data from Epoch AI (CC-BY)" : "Sourced from public reporting"}
                 </p>
               </div>
             </div>
 
-            <div className="px-6 py-4 border-t border-white/[.06] pb-[max(1rem,env(safe-area-inset-bottom))]">
-              <Link href="/datacenters" className="text-[13px] text-white/40 hover:text-white/80 transition-colors">
+            <div className={`px-6 py-4 border-t pb-[max(1rem,env(safe-area-inset-bottom))] ${darkMode ? "border-white/6" : "border-black/6"}`}>
+              <Link href="/datacenters" className={`text-[13px] transition-colors ${darkMode ? "text-white/40 hover:text-white/80" : "text-black/40 hover:text-black/80"}`}>
                 View all facilities →
               </Link>
             </div>
