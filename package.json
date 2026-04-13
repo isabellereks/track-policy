@@ -10,6 +10,8 @@
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.88.0",
+    "@number-flow/react": "^0.6.0",
+    "cobe": "^2.0.1",
     "d3-geo": "^3.1.1",
     "framer-motion": "^12.38.0",
     "mapbox-gl": "^3.21.0",
@@ -28,6 +30,7 @@
     "@types/react-dom": "^19",
     "@types/react-simple-maps": "^3.0.6",
     "@types/topojson-client": "^3.1.5",
+    "canvas": "^3.2.3",
     "dotenv": "^17.4.1",
     "eslint": "^9",
     "eslint-config-next": "16.2.3",

@@ -22,7 +22,9 @@ export default function RootLayout({
   return (
     <html lang="en" className={inter.variable}>
       <body className="font-sans bg-white text-ink antialiased">
-        <script
+        <Script
+          id="scroll-restoration"
+          strategy="beforeInteractive"
           dangerouslySetInnerHTML={{
             __html: `if ('scrollRestoration' in history) history.scrollRestoration = 'manual';`,
           }}
