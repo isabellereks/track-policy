@@ -10,6 +10,8 @@
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.88.0",
+    "@number-flow/react": "^0.6.0",
+    "cobe": "^2.0.1",
     "d3-geo": "^3.1.1",
     "framer-motion": "^12.38.0",
     "mapbox-gl": "^3.21.0",
