@@ -9,7 +9,9 @@ import DimensionToggle from "@/components/sections/DimensionToggle";
 import AIOverview from "@/components/sections/AIOverview";
 import LegislationTable from "@/components/sections/LegislationTable";
 import DataCentersOverview from "@/components/sections/DataCentersOverview";
+import PoliticiansOverview from "@/components/sections/PoliticiansOverview";
 import LiveNews from "@/components/sections/LiveNews";
+import VisitorsWidget from "@/components/ui/VisitorsWidget";
 import { useScrollProgress } from "@/lib/use-scroll-progress";
 import type {
   Dimension,
@@ -141,24 +143,58 @@ export default function Page() {
           <div className="text-[13px] font-medium text-muted tracking-tight mb-2">
             04 · Where the compute lives
           </div>
-          <h2 className="text-3xl md:text-4xl font-semibold text-ink tracking-tight leading-[1.1] mb-10">
+          <h2 className="text-3xl md:text-4xl font-semibold text-ink tracking-tight leading-[1.1] mb-3">
             Data centers we&rsquo;re tracking
           </h2>
+          <p className="text-[15px] text-muted leading-relaxed max-w-[42rem] mb-10">
+            A single hyperscale campus (100 MW+) can use as much power as a
+            small city, and the water-cooled ones can draw about as much water
+            too. Per-query energy has fallen sharply over the last decade, and
+            the operators buy more renewable power than any other industry.
+            The totals still climb, mostly because everyone keeps asking the
+            models to do more.
+          </p>
           <DataCentersOverview onNavigateToEntity={handleNavigateToEntity} />
         </div>
       </section>
 
-      {/* Section 5 — Live news feed */}
+      {/* Section 5 — Who voted how */}
       <section
-        id="news"
+        id="politicians"
         className="relative z-10 bg-white border-t border-black/[.06] scroll-mt-20"
       >
         <div className="max-w-5xl mx-auto px-8 pt-20 pb-24">
           <div className="text-[13px] font-medium text-muted tracking-tight mb-2">
-            05 · From the wire
+            05 · Who voted how
           </div>
-          <h2 className="text-3xl md:text-4xl font-semibold text-ink tracking-tight leading-[1.1] mb-10">
+          <h2 className="text-3xl md:text-4xl font-semibold text-ink tracking-tight leading-[1.1] mb-2">
+            Politicians
+          </h2>
+          <p className="text-sm text-muted mb-10 max-w-xl">
+            The legislators shaping AI and data-centre policy — and how
+            their votes stack up against what they said they believed.
+          </p>
+          <PoliticiansOverview />
+        </div>
+      </section>
+
+      {/* Section 6 — Live news feed */}
+      <section
+        id="news"
+        className="relative z-10 bg-bg border-t border-black/[.06] scroll-mt-20"
+      >
+        <div className="max-w-5xl mx-auto px-8 pt-20 pb-24">
+          <div className="text-[13px] font-medium text-muted tracking-tight mb-2">
+            06 · From the wire
+          </div>
+          <h2 className="text-3xl md:text-4xl font-semibold text-ink tracking-tight leading-[1.1] mb-10 inline-flex items-center gap-3">
             Live news
+            <span
+              className="live-dot"
+              role="img"
+              aria-label="Live feed — updated automatically"
+              title="Live feed — updated automatically"
+            />
           </h2>
           <LiveNews />
         </div>
@@ -166,6 +202,9 @@ export default function Page() {
 
       {/* Footer */}
       <section className="relative z-10 bg-white border-t border-black/[.06]">
+        <div className="max-w-5xl mx-auto px-8 pt-8 pb-2 flex justify-center">
+          <VisitorsWidget />
+        </div>
         <div className="max-w-5xl mx-auto px-8 py-10 flex flex-wrap items-center justify-between gap-4 text-xs text-muted">
           <span>Track Policy</span>
           <div className="flex gap-6">
@@ -188,7 +227,7 @@ export default function Page() {
               href="https://x.com/isareksopuro"
               target="_blank"
               rel="noopener noreferrer"
-              className="underline underline-offset-2 hover:text-ink transition-colors"
+              className="underline decoration-muted/40 decoration-[0.5px] underline-offset-4 hover:decoration-ink hover:text-ink transition-colors"
             >
               @isareksopuro
             </a>
