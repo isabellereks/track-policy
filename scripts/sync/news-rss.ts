@@ -19,6 +19,7 @@
  */
 
 import "../env.js";
+import { execSync } from "node:child_process";
 import { existsSync, readFileSync, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
@@ -437,6 +438,15 @@ async function main() {
   news.generatedAt = new Date().toISOString();
   writeFileSync(NEWS_PATH, JSON.stringify(news, null, 2) + "\n");
   console.log(`rss: added ${added} new item(s)`);
+
+  // The UI reads ENTITIES from lib/placeholder-data.ts (generated), not
+  // from data/news/summaries.json directly — so the new items have to be
+  // baked back in for them to actually reach the page. Skip when nothing
+  // new landed (rebuild is fast but pointless on quiet polls).
+  if (added > 0) {
+    console.log("rss: rebuilding placeholder-data.ts so new items reach the UI");
+    execSync("npx tsx scripts/build-placeholder.ts", { stdio: "inherit" });
+  }
 }
 
 main().catch((e) => {
