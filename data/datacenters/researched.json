@@ -1975,7 +1975,7 @@
       "status": "under-construction",
       "yearBuilt": 2022,
       "yearProposed": 2021,
-      "notes": "Lake Mariner (Fluidstack) \u2014 Residents near the Somerset facility report constant ~95-decibel cooling-fan noise as TeraWulf converts a former coal plant into a 750 MW AI/HPC campus. Google-backed Fluidstack has leased 360 MW under 10-year agreements worth ~$3.7B; CB-4 and CB-5 energization is slated for H2 2026.",
+      "notes": "Residents near the Somerset facility report sustained cooling-fan noise as TeraWulf converts a former coal plant into an AI/HPC campus. CB-4 and CB-5 energization is slated for H2 2026.",
       "concerns": [
         "noise-vibration",
         "water-consumption",
@@ -2155,7 +2155,53 @@
         "local-control"
       ],
       "source": "researched",
-      "primaryUser": "Google"
+      "primaryUser": "Google",
+      "proposal": {
+        "process": [
+          {
+            "label": "Site acquired",
+            "status": "done",
+            "date": "2022"
+          },
+          {
+            "label": "Contractor",
+            "status": "done",
+            "date": "Whiting-Turner"
+          },
+          {
+            "label": "Water plan",
+            "status": "blocked",
+            "date": "HR 655"
+          },
+          {
+            "label": "EIS",
+            "status": "pending"
+          },
+          {
+            "label": "Break ground",
+            "status": "pending",
+            "date": "2026"
+          }
+        ],
+        "nextDecision": {
+          "body": "US Senate",
+          "what": "Vote on HR 655 transferring 150 acres of Mount Hood National Forest to The Dalles",
+          "date": "2026"
+        },
+        "powerSource": "Grid (Northern Wasco PUD)",
+        "waterSource": "Dog River reservoir (expansion contingent on HR 655)",
+        "opposition": [
+          "WaterWatch",
+          "Oregon Tribes",
+          "Columbia Riverkeeper"
+        ],
+        "requirements": [
+          "Congressional approval of Dalles Watershed Development Act (HR 655)",
+          "USFS land transfer of 150 acres",
+          "Federal water-right reallocation",
+          "USFWS consultation on salmon habitat"
+        ]
+      }
     },
     {
       "id": "researched-wi-vantage-port-washington-stargate-lighthouse",
@@ -2178,7 +2224,52 @@
         "nda-transparency"
       ],
       "source": "researched",
-      "primaryUser": "OpenAI"
+      "primaryUser": "OpenAI",
+      "proposal": {
+        "process": [
+          {
+            "label": "Land secured",
+            "status": "done",
+            "date": "2025"
+          },
+          {
+            "label": "Groundbreaking",
+            "status": "done",
+            "date": "Dec 2025"
+          },
+          {
+            "label": "Recall petition",
+            "status": "blocked",
+            "date": "Feb 2026"
+          },
+          {
+            "label": "Buildings 1-2",
+            "status": "pending",
+            "date": "2027"
+          },
+          {
+            "label": "Full 1 GW",
+            "status": "pending",
+            "date": "2028"
+          }
+        ],
+        "nextDecision": {
+          "body": "City of Port Washington",
+          "what": "Certification of Mayor Neitzke recall petition signatures",
+          "date": "2026"
+        },
+        "powerSource": "We Energies grid (new substation)",
+        "waterSource": "Lake Michigan (municipal supply)",
+        "opposition": [
+          "Port Washington residents for accountable development",
+          "Citizens Utility Board of Wisconsin"
+        ],
+        "requirements": [
+          "Survive mayoral recall election",
+          "We Energies PUC rate-case outcome",
+          "$175M regional infrastructure deliverables"
+        ]
+      }
     },
     {
       "id": "researched-ca-imperial-valley-data-center-campus",
@@ -2202,7 +2293,50 @@
         "local-control"
       ],
       "source": "researched",
-      "primaryUser": "Google #speculative"
+      "primaryUser": "Google #speculative",
+      "proposal": {
+        "process": [
+          {
+            "label": "Parcels merged",
+            "status": "done",
+            "date": "2026"
+          },
+          {
+            "label": "Right-of-way",
+            "status": "done"
+          },
+          {
+            "label": "Ballot initiative",
+            "status": "blocked",
+            "date": "Nov 2026"
+          },
+          {
+            "label": "Federal suit",
+            "status": "pending"
+          },
+          {
+            "label": "Break ground",
+            "status": "pending"
+          }
+        ],
+        "nextDecision": {
+          "body": "Imperial County voters",
+          "what": "November 2026 ballot initiative to ban new data centers county-wide",
+          "date": "2026-11"
+        },
+        "powerSource": "Imperial Irrigation District (IID) grid",
+        "waterSource": "Imperial Valley aquifer",
+        "opposition": [
+          "Imperial County residents coalition",
+          "County ballot committee"
+        ],
+        "requirements": [
+          "Survive November 2026 ballot initiative",
+          "Resolve federal-court permitting lawsuit against City of Imperial",
+          "IID interconnection approval",
+          "CEQA environmental review"
+        ]
+      }
     },
     {
       "id": "researched-ca-vantage-santa-clara-i",
@@ -2375,7 +2509,51 @@
         "tax-incentives"
       ],
       "source": "researched",
-      "primaryUser": "Meta"
+      "primaryUser": "Meta",
+      "proposal": {
+        "process": [
+          {
+            "label": "Land secured",
+            "status": "done",
+            "date": "2024"
+          },
+          {
+            "label": "Tax abatement",
+            "status": "done"
+          },
+          {
+            "label": "Gas units",
+            "status": "pending",
+            "date": "Entergy build"
+          },
+          {
+            "label": "First building",
+            "status": "pending",
+            "date": "2026"
+          },
+          {
+            "label": "Full 5 GW",
+            "status": "pending"
+          }
+        ],
+        "nextDecision": {
+          "body": "Louisiana PSC",
+          "what": "Final certification of three new Entergy gas-fired units serving Hyperion",
+          "date": "2026"
+        },
+        "powerSource": "Three new Entergy gas-fired units (dedicated generation)",
+        "waterSource": "Ouachita River basin",
+        "opposition": [
+          "Alliance for Affordable Energy",
+          "Louisiana Bucket Brigade",
+          "Sierra Club Delta Chapter"
+        ],
+        "requirements": [
+          "PSC sign-off on dedicated gas generation cost allocation",
+          "Air-quality permit for new gas units",
+          "Substation upgrades across Richland Parish grid"
+        ]
+      }
     },
     {
       "id": "researched-in-aws-project-rainier-new-carlisle",
@@ -2444,7 +2622,51 @@
         "local-control"
       ],
       "source": "researched",
-      "primaryUser": "AWS"
+      "primaryUser": "AWS",
+      "proposal": {
+        "process": [
+          {
+            "label": "Acquisition",
+            "status": "done",
+            "date": "2024"
+          },
+          {
+            "label": "Power contract",
+            "status": "done",
+            "date": "Talen PPA"
+          },
+          {
+            "label": "FERC order",
+            "status": "blocked",
+            "date": "2024 rejection"
+          },
+          {
+            "label": "Amended filing",
+            "status": "pending"
+          },
+          {
+            "label": "Buildout to 960 MW",
+            "status": "pending"
+          }
+        ],
+        "nextDecision": {
+          "body": "FERC",
+          "what": "Ruling on amended interconnection agreement allowing co-located behind-the-meter load",
+          "date": "2026"
+        },
+        "powerSource": "Susquehanna Steam Electric Station (nuclear, behind-the-meter)",
+        "waterSource": "Susquehanna River (shared with plant)",
+        "opposition": [
+          "American Electric Power",
+          "Exelon",
+          "PJM ratepayer advocates"
+        ],
+        "requirements": [
+          "FERC approval of behind-the-meter co-location precedent",
+          "PJM transmission impact study",
+          "State PUC review of stranded-asset risk"
+        ]
+      }
     },
     {
       "id": "researched-tx-stargate-shackelford-vantage",
@@ -2466,7 +2688,45 @@
         "tax-incentives"
       ],
       "source": "researched",
-      "primaryUser": "OpenAI"
+      "primaryUser": "OpenAI",
+      "proposal": {
+        "process": [
+          {
+            "label": "Land secured",
+            "status": "done"
+          },
+          {
+            "label": "ERCOT request",
+            "status": "done"
+          },
+          {
+            "label": "Construction",
+            "status": "done",
+            "date": "2025"
+          },
+          {
+            "label": "Building 1 online",
+            "status": "pending",
+            "date": "2026"
+          },
+          {
+            "label": "Full 1.4 GW",
+            "status": "pending"
+          }
+        ],
+        "nextDecision": {
+          "body": "ERCOT",
+          "what": "Final interconnection approval for Building 1 energization",
+          "date": "2026"
+        },
+        "powerSource": "ERCOT grid (Permian Basin wind corridor)",
+        "waterSource": "Local groundwater + reclaimed",
+        "opposition": [],
+        "requirements": [
+          "ERCOT building-level interconnection",
+          "Shackelford County certificate of occupancy"
+        ]
+      }
     },
     {
       "id": "researched-nm-stargate-project-jupiter-dona-ana",
@@ -2490,7 +2750,50 @@
         "environmental-review"
       ],
       "source": "researched",
-      "primaryUser": "OpenAI"
+      "primaryUser": "OpenAI",
+      "proposal": {
+        "process": [
+          {
+            "label": "Land optioned",
+            "status": "done",
+            "date": "2025"
+          },
+          {
+            "label": "Tax incentive",
+            "status": "done"
+          },
+          {
+            "label": "Water plan",
+            "status": "blocked"
+          },
+          {
+            "label": "Phase 1 construction",
+            "status": "pending",
+            "date": "2026"
+          },
+          {
+            "label": "Phase 1 online",
+            "status": "pending",
+            "date": "end 2026"
+          }
+        ],
+        "nextDecision": {
+          "body": "New Mexico Environment Department",
+          "what": "Public water-plan disclosure and withdrawal permit for drought-stressed Do\u00f1a Ana County",
+          "date": "2026"
+        },
+        "powerSource": "El Paso Electric grid (Permian power belt)",
+        "waterSource": "Mesilla Bolson aquifer (drought-stressed)",
+        "opposition": [
+          "New Mexico Environmental Law Center",
+          "Do\u00f1a Ana County water coalition"
+        ],
+        "requirements": [
+          "Public release of water-use plan",
+          "NMED withdrawal permit",
+          "Santa Teresa industrial-park grid upgrades"
+        ]
+      }
     },
     {
       "id": "researched-nd-applied-digital-polaris-forge-1-ellendale",

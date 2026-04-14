@@ -296,9 +296,75 @@ export interface Legislation {
   updatedDate: string;
   partyOrigin?: "R" | "D" | "B";
   sourceUrl?: string;
+  /** Facility IDs referenced by this bill/action. Populated for municipal
+   *  actions where the action's title/summary mentions a specific data
+   *  center by operator + location. Used to render "Related facilities"
+   *  chips inside the expanded bill card. */
+  relatedFacilityIds?: string[];
   legiscanUrl?: string;
   legiscanId?: number;
   sponsors?: string[];
+  /** Roll call vote results, if the bill reached a floor vote. */
+  voteTally?: {
+    yea: number;
+    nay: number;
+    abstain: number;
+    notVoting: number;
+    passed: boolean;
+    voteDate: string;
+    rollCallId?: string;
+  };
+}
+
+export type VotePosition = "yea" | "nay" | "abstain" | "not-voting";
+
+/** A single recorded vote on a specific bill. */
+export interface VoteRecord {
+  /** Links to Legislation.id in our dataset. */
+  billId: string;
+  billCode: string;
+  voteDate: string;
+  position: VotePosition;
+  /** Source roll call identifier for provenance. */
+  rollCallId?: string;
+  sourceUrl?: string;
+}
+
+/**
+ * Vote alignment score — compares stated stance against actual votes.
+ * Only computed when totalVotes >= 3.
+ */
+export interface AlignmentScore {
+  /** 0–100. 100 = perfect alignment between stated position and votes. */
+  score: number;
+  totalVotes: number;
+  alignedVotes: number;
+  contradictoryVotes: number;
+  /** Notable contradictions worth surfacing in the UI. */
+  flaggedVotes?: Array<{
+    billId: string;
+    billCode: string;
+    expectedPosition: VotePosition;
+    actualPosition: VotePosition;
+    reason: string;
+  }>;
+}
+
+/**
+ * A "suspicious vote" from the corruption-map dataset — a vote that
+ * appears to align with a legislator's top donor industries rather
+ * than their party or constituents. Cleaned + deduplicated form of
+ * the raw entries in data/donors/politicians.json.
+ */
+export interface SuspiciousVote {
+  billCode: string;
+  billTitle: string;
+  position: VotePosition;
+  /** Which donor industry this vote appears to serve. */
+  industry: string;
+  /** Why this vote is flagged. One sentence. */
+  reason: string;
+  confidence: "high" | "medium";
 }
 
 export interface Legislator {
@@ -307,7 +373,49 @@ export interface Legislator {
   role: string;
   party: string;
   stance: StanceType;
-  quote?: string;
+  /** Stable external ID for cross-referencing.
+   *  - US: bioguide ID (e.g. "V000128")
+   *  - UK: TheyWorkForYou person_id (e.g. "25320") */
+  externalId?: string;
+  /** FEC candidate ID from politicians.json (e.g. "H2TX00064"). */
+  fecId?: string;
+  /** "US" | "GB" | "EU" */
+  country?: string;
+  /** "senate" | "house" | "commons" | "lords" | "ep" */
+  chamber?: string;
+  /** State (US) or constituency (UK). */
+  constituency?: string;
+  /** Official portrait URL. Only set if confirmed working. */
+  photoUrl?: string;
+  votes?: VoteRecord[];
+  alignment?: AlignmentScore;
+  suspiciousVotes?: SuspiciousVote[];
+  /** Combined capture score from donor data. 0–100. */
+  captureScore?: number;
+  totalRaised?: number;
+  /** 1–2 sentence narrative of their AI / data-centre work (mainly UK/EU). */
+  summary?: string;
+  /** Up to ~4 bullet points highlighting positions, statements, or bills. */
+  keyPoints?: string[];
+  /** Bills they've worked on per the AI overview research — broader than
+   *  what we formally track in data/legislation/. Sourced from Claude. */
+  researchedBills?: Array<{
+    code: string;
+    title: string;
+    role: string;
+    year: number;
+    summary?: string;
+  }>;
+  /** National party when `party` is an EP group (e.g. "SPD" under S&D). */
+  nationalParty?: string;
+  /** Top PACs by amount raised — same shape as donors/politicians.json. */
+  topDonors?: Array<{ name: string; amount: number; industry: string }>;
+  /** DIME score: -2 (most liberal) to +2 (most conservative). */
+  dimeScore?: number;
+  yearsInOffice?: number;
+  formerLobbyist?: boolean;
+  lobbyistBundled?: number;
+  revolvingDoorConnections?: Array<{ name: string; firm?: string; industry?: string }>;
 }
 
 export interface NewsItem {
@@ -345,6 +453,31 @@ export interface Entity {
 
 export type DataCenterStatus = "proposed" | "under-construction" | "operational";
 
+export type ProposalGateStatus = "done" | "pending" | "blocked";
+
+/** One gate in the project's approval pipeline — land, zoning, interconnect, etc. */
+export interface ProposalGate {
+  label: string;
+  status: ProposalGateStatus;
+  date?: string;
+}
+
+/** Structured detail about a proposed / under-construction facility. */
+export interface ProposalInfo {
+  /** Ordered milestones left-to-right. Rendered as a dot row in the tooltip. */
+  process?: ProposalGate[];
+  /** Who decides next, on what, when. */
+  nextDecision?: { body: string; what: string; date?: string };
+  /** What the site draws power from. */
+  powerSource?: string;
+  /** Water source or cooling strategy. */
+  waterSource?: string;
+  /** Named opposition groups or lawmakers. */
+  opposition?: string[];
+  /** Outstanding items before the project can move forward. */
+  requirements?: string[];
+}
+
 export interface DataCenter {
   id: string;
   operator: string;
@@ -363,6 +496,47 @@ export interface DataCenter {
   primaryUser?: string;
   computeH100e?: number;
   costUSD?: number;
+  proposal?: ProposalInfo;
+}
+
+/** Fuel type for a power plant, normalized from EIA energy_source_code. */
+export type FuelType =
+  | "natural-gas"
+  | "coal"
+  | "nuclear"
+  | "hydro"
+  | "solar"
+  | "wind"
+  | "biomass"
+  | "geothermal"
+  | "battery"
+  | "oil"
+  | "other";
+
+export interface PowerPlant {
+  id: string;
+  name: string;
+  lat: number;
+  lng: number;
+  capacityMW: number;
+  fuelType: FuelType;
+  state: string;
+  stateCode: string;
+}
+
+export interface StateEnergyProfile {
+  state: string;
+  stateCode: string;
+  totalCapacityMW: number;
+  totalGenerationMWh: number;
+  /** Percentage breakdown of generation by source. Sorted largest first. */
+  energyMix: Array<{
+    source: FuelType;
+    pct: number;
+    generationMWh: number;
+  }>;
+  plantCount: number;
+  year: number;
 }
 
 export const REGION_LABEL: Record<Region, string> = {
