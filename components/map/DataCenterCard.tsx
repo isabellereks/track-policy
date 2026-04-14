@@ -2,6 +2,7 @@
 
 import type { DataCenter } from "@/types";
 import { DC_COLOR } from "./DataCenterDots";
+import { ProposalProgress } from "@/components/ui/ProposalProgress";
 
 interface DataCenterCardProps {
   facility: DataCenter;
@@ -80,14 +81,24 @@ export default function DataCenterCard({
   if (compute) rows.push({ label: "Compute", value: `${compute} H100e` });
   if (locationLine) rows.push({ label: "Location", value: locationLine });
 
-  // Edge-aware positioning so the card never spills off-viewport.
+  // Edge-aware positioning so the card never spills off-viewport. Height
+  // estimate grows when optional sections render — without this the
+  // bottom of the card clips when a proposal block is present near the
+  // viewport edge.
   const cardWidth = 260;
+  const hasProposalBlock =
+    !!facility.proposal?.process && facility.proposal.process.length > 0;
+  const estHeight =
+    120 + // header
+    rows.length * 22 + // rows
+    (hasProposalBlock ? 70 : 0) +
+    36; // footer
   const vw = typeof window !== "undefined" ? window.innerWidth : 1440;
   const vh = typeof window !== "undefined" ? window.innerHeight : 900;
   const flipRight = x > vw - cardWidth - 24;
-  const flipDown = y > vh - 220;
+  const flipDown = y > vh - estHeight - 24;
   const left = flipRight ? x - cardWidth - 16 : x + 16;
-  const top = flipDown ? Math.max(16, y - 200) : y + 16;
+  const top = flipDown ? Math.max(16, y - estHeight + 16) : y + 16;
 
   return (
     <div
@@ -141,6 +152,33 @@ export default function DataCenterCard({
               </div>
             ))}
           </dl>
+        )}
+
+        {facility.proposal?.process && facility.proposal.process.length > 0 && (
+          <div className="px-3.5 pt-2.5 pb-2.5 border-t border-black/[.05]">
+            <ProposalProgress process={facility.proposal.process} variant="dense" />
+            {facility.proposal.nextDecision && (
+              <div className="mt-2">
+                <div className="text-[11px] font-medium text-muted tracking-tight mb-0.5">
+                  Next
+                </div>
+                <div className="text-[12.5px] text-ink tracking-tight leading-snug">
+                  {facility.proposal.nextDecision.what}
+                </div>
+                {(facility.proposal.nextDecision.body ||
+                  facility.proposal.nextDecision.date) && (
+                  <div className="text-[11px] text-muted tracking-tight mt-0.5">
+                    {facility.proposal.nextDecision.body}
+                    {facility.proposal.nextDecision.body &&
+                      facility.proposal.nextDecision.date && (
+                        <span aria-hidden> · </span>
+                      )}
+                    {facility.proposal.nextDecision.date}
+                  </div>
+                )}
+              </div>
+            )}
+          </div>
         )}
 
         <div className="px-3.5 pb-3 pt-1.5 border-t border-black/[.05] flex items-center justify-between gap-3">
