@@ -50,20 +50,60 @@ const HAND_CURATED: Entity[] = [
     ],
     keyFigures: [
       {
-        id: "eu-vestager",
-        name: "Margrethe Vestager",
-        role: "Former EVP, Digital Age",
-        party: "ALDE",
-        stance: "favorable",
-        quote:
-          "Trustworthy AI requires guardrails — not after harm is done, but before products reach the market.",
+        id: "eu-vdl",
+        name: "Ursula von der Leyen",
+        role: "European Commission · President · AI Act and Cloud & AI Development Act",
+        party: "EPP",
+        stance: "concerning",
       },
       {
-        id: "eu-breton",
-        name: "Thierry Breton",
-        role: "Former Commissioner, Internal Market",
+        id: "eu-virkkunen",
+        name: "Henna Virkkunen",
+        role: "European Commission · EVP Tech Sovereignty, Security & Democracy",
+        party: "EPP",
+        stance: "concerning",
+      },
+      {
+        id: "eu-ribera",
+        name: "Teresa Ribera",
+        role: "European Commission · EVP Clean, Just & Competitive Transition · data-center energy rules",
+        party: "S&D",
+        stance: "restrictive",
+      },
+      {
+        id: "eu-merz",
+        name: "Friedrich Merz",
+        role: "Germany · Chancellor · EnEfG enforcement and sovereign-AI investment",
+        party: "CDU",
+        stance: "concerning",
+      },
+      {
+        id: "eu-macron",
+        name: "Emmanuel Macron",
+        role: "France · President · sovereign-AI champion (Mistral, Scaleway)",
         party: "Renaissance",
         stance: "favorable",
+      },
+      {
+        id: "eu-meloni",
+        name: "Giorgia Meloni",
+        role: "Italy · Prime Minister · G7 AI chair and Hiroshima Process lead",
+        party: "FdI",
+        stance: "review",
+      },
+      {
+        id: "eu-martin",
+        name: "Micheál Martin",
+        role: "Ireland · Taoiseach · host of 30%+ of EU hyperscale capacity",
+        party: "Fianna Fáil",
+        stance: "favorable",
+      },
+      {
+        id: "eu-sioli",
+        name: "Lucilla Sioli",
+        role: "European AI Office · Director · AI Act operational lead",
+        party: "—",
+        stance: "concerning",
       },
     ],
     news: [
@@ -144,8 +184,6 @@ const HAND_CURATED: Entity[] = [
         role: "Federal Minister for Digital and Transport · EnEfG sponsor",
         party: "FDP",
         stance: "favorable",
-        quote:
-          "Germany cannot lead on AI without first leading on data centre efficiency.",
       },
       {
         id: "de-mast",
@@ -153,8 +191,6 @@ const HAND_CURATED: Entity[] = [
         role: "MdB · SPD · Lead, AI in Employment Act",
         party: "SPD",
         stance: "favorable",
-        quote:
-          "Workers must have a seat at the table when AI decides who gets hired or fired.",
       },
       {
         id: "de-rasche",
@@ -234,8 +270,6 @@ const HAND_CURATED: Entity[] = [
         role: "Deputy · Renaissance · Chair, AI Working Group",
         party: "Renaissance",
         stance: "favorable",
-        quote:
-          "Sovereignty is about controlling the stack — from chips to data to deployment.",
       },
       {
         id: "fr-de-montchalin",
@@ -250,8 +284,6 @@ const HAND_CURATED: Entity[] = [
         role: "Deputy · EELV · Water-use disclosure advocate",
         party: "EELV",
         stance: "restrictive",
-        quote:
-          "Marseille's data centres cannot drink the Rhône dry while families ration water.",
       },
     ],
     news: [
@@ -325,8 +357,6 @@ const HAND_CURATED: Entity[] = [
         role: "Peer · Lib Dem · Lead, HL Bill 11",
         party: "Lib Dem",
         stance: "favorable",
-        quote:
-          "A principles-based UK approach still needs a regulator with statutory teeth.",
       },
       {
         id: "uk-onwurah",
@@ -334,8 +364,6 @@ const HAND_CURATED: Entity[] = [
         role: "MP · Labour · Shadow Minister, Science & Innovation",
         party: "Labour",
         stance: "review",
-        quote:
-          "Innovation that nobody trusts isn't innovation. The AI Authority must be properly empowered.",
       },
       {
         id: "uk-vaizey",
@@ -381,13 +409,55 @@ const HAND_CURATED: Entity[] = [
     stanceDatacenter: "favorable",
     stanceAI: "review",
     contextBlurb:
-      "Asia is the world's compute and silicon center of gravity. China runs the largest national AI grid build-out anywhere and routes workloads west under its East-Data-West-Compute initiative, while Taiwan's TSMC fabricates over 90% of the world's most advanced chips — making the Strait the single biggest chokepoint in the global AI supply chain. Singapore has become the de-facto transshipment point for export-controlled GPUs bound for the mainland; its share of Nvidia revenue jumped from 9% to 22% in two years, and US prosecutors are now unwinding a $2.5B Super Micro indictment tied to it. Japan and South Korea sit Tier-1 on US chip export controls and have each passed dedicated AI laws — Japan's voluntary, Korea's high-impact-AI Basic Act.",
+      "Taiwan's TSMC produces over 90% of leading-edge silicon — the supply-chain chokepoint behind every AI buildout. China is racing ahead via its East-Data-West-Compute grid. Japan and Korea have both passed national AI laws (Japan voluntary, Korea binding).",
     legislation: [],
     keyFigures: [
       {
+        id: "asia-xi",
+        name: "Xi Jinping",
+        role: "China · President · drives East-Data-West-Compute and state AI strategy",
+        party: "CCP",
+        stance: "concerning",
+      },
+      {
+        id: "asia-cc-wei",
+        name: "C.C. Wei",
+        role: "Taiwan · TSMC Chair & CEO · controls >90% of leading-edge silicon",
+        party: "—",
+        stance: "favorable",
+      },
+      {
+        id: "asia-lai",
+        name: "Lai Ching-te",
+        role: "Taiwan · President · US semiconductor alliance steward",
+        party: "DPP",
+        stance: "favorable",
+      },
+      {
+        id: "asia-modi",
+        name: "Narendra Modi",
+        role: "India · Prime Minister · IndiaAI Mission and sovereign compute push",
+        party: "BJP",
+        stance: "favorable",
+      },
+      {
+        id: "asia-wong",
+        name: "Lawrence Wong",
+        role: "Singapore · Prime Minister · regional AI hub strategy",
+        party: "PAP",
+        stance: "favorable",
+      },
+      {
+        id: "asia-ishiba",
+        name: "Shigeru Ishiba",
+        role: "Japan · Prime Minister · voluntary AI framework and hyperscale investment",
+        party: "LDP",
+        stance: "review",
+      },
+      {
         id: "asia-koh",
         name: "Tan See Leng",
-        role: "Singapore · Minister for Manpower & Trade",
+        role: "Singapore · Minister for Manpower & Trade · AI Verify toolkit lead",
         party: "PAP",
         stance: "favorable",
       },
@@ -494,8 +564,6 @@ const HAND_CURATED: Entity[] = [
         role: "Minister of Economy, Trade and Industry · METI guidelines",
         party: "LDP",
         stance: "favorable",
-        quote:
-          "Voluntary frameworks let Japanese industry lead, not lag, on AI safety.",
       },
       {
         id: "jp-konishi",
@@ -598,8 +666,6 @@ const HAND_CURATED: Entity[] = [
         role: "Director · Cyberspace Administration of China",
         party: "CCP",
         stance: "restrictive",
-        quote:
-          "Generative AI must serve the socialist values of the people; security review is non-negotiable.",
       },
       {
         id: "cn-li",
@@ -715,8 +781,6 @@ const HAND_CURATED: Entity[] = [
         role: "National Assembly Member · PPP · Lead, AI Basic Act",
         party: "PPP",
         stance: "favorable",
-        quote:
-          "Korea must build the safety institute the world will trust to evaluate frontier AI.",
       },
       {
         id: "kr-jo",

@@ -59,6 +59,57 @@
       "updatedDate": "2026-01-15",
       "partyOrigin": "B",
       "sourceUrl": "https://cms.law/en/int/expert-guides/ai-regulation-scanner/the-netherlands"
+    },
+    {
+      "id": "netherlands-ai-act-high-risk-aug-2026",
+      "billCode": "EU AI Act Art. 6 (NL)",
+      "title": "EU AI Act High-Risk Obligations (applicable 2 Aug 2026)",
+      "summary": "From 2 August 2026, high-risk AI systems used in hiring, credit, law enforcement and critical infrastructure must comply with the EU AI Act's documentation, transparency, risk-management and human-oversight requirements. The Autoriteit Persoonsgegevens and RDI act as Dutch coordinating supervisors, with AFM and DNB covering financial services.",
+      "stage": "Enacted",
+      "stance": "concerning",
+      "impactTags": [
+        "high-risk-AI",
+        "AP-supervision",
+        "RDI",
+        "hiring",
+        "financial-services"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-01",
+      "sourceUrl": "https://www.autoriteitpersoonsgegevens.nl/en/themes/algorithms-ai/eu-ai-act"
+    },
+    {
+      "id": "netherlands-ai-sandbox-aug-2026",
+      "billCode": "NL AI Sandbox",
+      "title": "Dutch National AI Regulatory Sandbox (operational Aug 2026)",
+      "summary": "The Autoriteit Persoonsgegevens confirmed the Netherlands' EU AI Act regulatory sandbox will become operational by 2 August 2026, providing supervised test environments for high-risk and GPAI systems with legal-certainty benefits for SMEs and public-sector developers.",
+      "stage": "Filed",
+      "stance": "favorable",
+      "impactTags": [
+        "regulatory-sandbox",
+        "AP",
+        "SME-support",
+        "GPAI-testing"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-12",
+      "sourceUrl": "https://ppc.land/netherlands-regulatory-sandbox-to-launch-by-2026-as-eu-clarifies-ai-rules/"
+    },
+    {
+      "id": "netherlands-ai-implementation-act-q4-2026",
+      "billCode": "AI Implementation Act (Uitvoeringswet)",
+      "title": "EU AI Implementation Act — designation of supervisory authorities (Q4 2026)",
+      "summary": "The AI Implementation Act designating Dutch supervisors and sanction competencies under the EU AI Act is expected to be laid before the House of Representatives in Q4 2026. It operationalises the coordinating role of the AP and RDI and sectoral regulators under a single national framework.",
+      "stage": "Filed",
+      "stance": "concerning",
+      "impactTags": [
+        "AI-Act-implementation",
+        "supervisory-designation",
+        "national-framework"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-15",
+      "sourceUrl": "https://business.gov.nl/regulations/ai-act/"
     }
   ],
   "keyFigures": [
@@ -67,8 +118,7 @@
       "name": "Dirk Beljaarts",
       "role": "Minister of Economic Affairs",
       "party": "PVV",
-      "stance": "favorable",
-      "quote": "Competition is fierce, the whole world is after this technology [...] This deal brings building a Dutch AI facility a lot closer."
+      "stance": "favorable"
     },
     {
       "id": "netherlands-boekholt-osullivan",
@@ -83,6 +133,34 @@
       "role": "Managing Director, Dutch Data Center Association (DDA)",
       "party": "N/A",
       "stance": "concerning"
+    },
+    {
+      "id": "netherlands-karremans",
+      "name": "Vincent Karremans",
+      "role": "Minister of Economic Affairs",
+      "party": "VVD",
+      "stance": "favorable"
+    },
+    {
+      "id": "netherlands-dejonge",
+      "name": "Hugo de Jonge",
+      "role": "Former Minister of Housing and Spatial Planning (hyperscale DC moratorium)",
+      "party": "CDA",
+      "stance": "restrictive"
+    },
+    {
+      "id": "netherlands-wolfsen",
+      "name": "Aleid Wolfsen",
+      "role": "Chair, Dutch Data Protection Authority (Autoriteit Persoonsgegevens)",
+      "party": "N/A",
+      "stance": "concerning"
+    },
+    {
+      "id": "netherlands-aerdts",
+      "name": "Willemijn Aerdts",
+      "role": "State Secretary for Digital Economy and Sovereignty",
+      "party": "D66",
+      "stance": "review"
     }
   ],
   "news": [
@@ -113,6 +191,34 @@
       "source": "NL Times",
       "date": "2025-12-15",
       "url": "https://nltimes.nl/2025/12/15/data-centers-netherlands-use-much-power-2-million-homes"
+    },
+    {
+      "id": "netherlands-news-5",
+      "headline": "Netherlands issues new AI Act guidance",
+      "source": "Pinsent Masons",
+      "date": "2025-12-11",
+      "url": "https://www.pinsentmasons.com/out-law/news/netherlands-issues-new-ai-act-guidance"
+    },
+    {
+      "id": "netherlands-news-6",
+      "headline": "Dutch Data Protection Authority wants government to speed up AI regulation",
+      "source": "Dutch Brief",
+      "date": "2026-02-20",
+      "url": "https://dutchbrief.com/dutch-data-protection-authority-wants-government-to-speed-up-ai-regulation/"
+    },
+    {
+      "id": "netherlands-news-7",
+      "headline": "Netherlands regulatory sandbox to launch by 2026 as EU clarifies AI rules",
+      "source": "PPC Land",
+      "date": "2026-01-30",
+      "url": "https://ppc.land/netherlands-regulatory-sandbox-to-launch-by-2026-as-eu-clarifies-ai-rules/"
+    },
+    {
+      "id": "netherlands-news-8",
+      "headline": "EU AI Act Netherlands Implementation Guide 2026",
+      "source": "Glacis",
+      "date": "2026-03-04",
+      "url": "https://www.glacis.io/guide-eu-ai-act-netherlands"
     }
   ],
   "stanceDatacenter": "restrictive",

@@ -59,6 +59,23 @@
       "updatedDate": "2026-02-01",
       "partyOrigin": "B",
       "sourceUrl": "https://www.hannessnellman.com/news-and-views/blog/eu-ai-act-latest-regulatory-developments-in-finland/"
+    },
+    {
+      "id": "finland-ai-sandbox-feb-2026",
+      "billCode": "AI Sandbox act",
+      "title": "National AI Regulatory Sandbox (in force 1 Feb 2026)",
+      "summary": "The rules establishing Finland's national AI regulatory sandbox entered into force on 1 February 2026, with full operational readiness required by 2 August 2026 under the EU AI Act. The sandbox allows AI developers — particularly SMEs — to test high-risk and innovative systems under supervisory guidance with legal-certainty benefits.",
+      "stage": "Enacted",
+      "stance": "favorable",
+      "impactTags": [
+        "regulatory-sandbox",
+        "SME-support",
+        "innovation",
+        "AI-Act"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-01",
+      "sourceUrl": "https://tem.fi/en/ai-regulation"
     }
   ],
   "keyFigures": [
@@ -67,8 +84,7 @@
       "name": "Petteri Orpo",
       "role": "Prime Minister of Finland",
       "party": "NCP",
-      "stance": "favorable",
-      "quote": "Public and private sector investments are coming together to take AI research and application in Finland to the next level."
+      "stance": "favorable"
     },
     {
       "id": "finland-purra",
@@ -83,6 +99,34 @@
       "role": "Director-General, Finnish Transport and Communications Agency (Traficom)",
       "party": "",
       "stance": "review"
+    },
+    {
+      "id": "finland-rydman",
+      "name": "Wille Rydman",
+      "role": "Former Minister of Economic Affairs (AI / data-centre roadmap sponsor)",
+      "party": "Finns Party",
+      "stance": "favorable"
+    },
+    {
+      "id": "finland-multala",
+      "name": "Sari Multala",
+      "role": "Minister of Science and Culture; 1st Vice-Chair, Research and Innovation Council",
+      "party": "NCP",
+      "stance": "favorable"
+    },
+    {
+      "id": "finland-mattila",
+      "name": "Veli-Matti Mattila",
+      "role": "Government-appointed Rapporteur for the National Data Centre Roadmap",
+      "party": "N/A",
+      "stance": "favorable"
+    },
+    {
+      "id": "finland-jaatinen",
+      "name": "Anu Talus",
+      "role": "Ombudsman for Data Protection (Tietosuojavaltuutettu)",
+      "party": "N/A",
+      "stance": "concerning"
     }
   ],
   "news": [
@@ -113,6 +157,20 @@
       "source": "Finnish Government (Valtioneuvosto)",
       "date": "2025-06-24",
       "url": "https://valtioneuvosto.fi/en/-/finland-aims-to-host-a-european-ai-gigafactory-"
+    },
+    {
+      "id": "finland-news-6",
+      "headline": "3 E Network progress update on Finland AI Data Centre project: earthworks underway",
+      "source": "GlobeNewswire",
+      "date": "2026-04-06",
+      "url": "https://www.globenewswire.com/news-release/2026/04/06/3268367/0/en/3-E-Network-Announces-Progress-Update-on-Finland-AI-Data-Centre-Project-Site-Clearance-Completed-and-Earthworks-Underway.html"
+    },
+    {
+      "id": "finland-news-8",
+      "headline": "Finland AI Regulation Overview — 2026 update",
+      "source": "Regulations.AI",
+      "date": "2026-01-28",
+      "url": "https://regulations.ai/regulations/RAI-FI-NA-SUMMARY-2026"
     }
   ],
   "stanceDatacenter": "review",

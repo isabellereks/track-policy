@@ -54,6 +54,40 @@
       "updatedDate": "2026-01-01",
       "partyOrigin": "B",
       "sourceUrl": "https://reccessary.com/en/news/taiwan-data-centers-carbon-free"
+    },
+    {
+      "id": "taiwan-ai-basic-act-passage-2025",
+      "billCode": "AI Basic Act",
+      "title": "Taiwan Artificial Intelligence Basic Act (passed 23 Dec 2025)",
+      "summary": "On 23 December 2025 Taiwan's Legislative Yuan passed the AI Basic Act, establishing a national risk-based governance framework. Clause 13 mandates government development of hyperscaler data centres and cloud platforms to make Taiwan a top-three Asian compute hub, supported by budgets, subsidies, investment and tax incentives for AI R&D and infrastructure.",
+      "stage": "Enacted",
+      "stance": "favorable",
+      "impactTags": [
+        "AI-Basic-Act",
+        "hyperscaler-target",
+        "Clause-13",
+        "NSTC-authority"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-12-23",
+      "sourceUrl": "https://focustaiwan.tw/politics/202512230010"
+    },
+    {
+      "id": "taiwan-10-ai-projects-budget-2026",
+      "billCode": "10 Major AI Projects (2026 budget)",
+      "title": "Taiwan 10 Major AI Projects — NT$30B+ 2026 Budget",
+      "summary": "Taiwan's 2026 draft budget includes over NT$30 billion (US$950 million) for the '10 major AI projects' industrial plan, with total potential multi-year investment over NT$100 billion (US$3.2 billion). The programme operationalises the AI Basic Act's compute-infrastructure mandate alongside TSMC-anchored semiconductor support.",
+      "stage": "Enacted",
+      "stance": "favorable",
+      "impactTags": [
+        "industrial-policy",
+        "30-billion-NTD",
+        "AI-island",
+        "TSMC"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-01-15",
+      "sourceUrl": "https://law.asia/taiwan-ai-basic-act-legal-framework-risk-policy/"
     }
   ],
   "keyFigures": [
@@ -77,6 +111,34 @@
       "role": "Chairman, Taiwan Power Company (Taipower)",
       "party": "B",
       "stance": "review"
+    },
+    {
+      "id": "taiwan-lin",
+      "name": "Lin Yi-jing",
+      "role": "Minister of Digital Affairs (moda)",
+      "party": "DPP",
+      "stance": "favorable"
+    },
+    {
+      "id": "taiwan-huang",
+      "name": "Huang Yen-nun",
+      "role": "Former Minister of Digital Affairs (2024–2025); AI security expert",
+      "party": "Independent",
+      "stance": "review"
+    },
+    {
+      "id": "taiwan-cho",
+      "name": "Cho Jung-tai",
+      "role": "Premier of the Republic of China (Taiwan)",
+      "party": "DPP",
+      "stance": "favorable"
+    },
+    {
+      "id": "taiwan-kung",
+      "name": "Kuo Jyh-huei",
+      "role": "Minister of Economic Affairs",
+      "party": "DPP",
+      "stance": "favorable"
     }
   ],
   "news": [
@@ -107,6 +169,41 @@
       "source": "Taiwan Insight",
       "date": "2026-04-10",
       "url": "https://taiwaninsight.org/2026/04/10/taiwans-energy-challenges-amid-shifting-geopolitical-realities-national-security-energy-transition-and-technological-ambitions-of-an-insular-democracy-under-pressure/"
+    },
+    {
+      "id": "taiwan-news-5",
+      "headline": "Taiwan legislature passes new artificial intelligence law",
+      "source": "Taipei Times",
+      "date": "2025-12-24",
+      "url": "https://www.taipeitimes.com/News/front/archives/2025/12/24/2003849407"
+    },
+    {
+      "id": "taiwan-news-6",
+      "headline": "AI Basic Act passed, tries to balance AI promotion with social welfare",
+      "source": "Focus Taiwan",
+      "date": "2025-12-23",
+      "url": "https://focustaiwan.tw/politics/202512230010"
+    },
+    {
+      "id": "taiwan-news-7",
+      "headline": "Taiwan's AI Basic Act 2026: Legal framework, risk rules, policy impact",
+      "source": "Law.asia",
+      "date": "2026-01-18",
+      "url": "https://law.asia/taiwan-ai-basic-act-legal-framework-risk-policy/"
+    },
+    {
+      "id": "taiwan-news-8",
+      "headline": "Taiwan's AI Basic Act passed, but poses further questions about AI regulations",
+      "source": "DigiTimes",
+      "date": "2025-12-24",
+      "url": "https://www.digitimes.com/news/a20251224PD230/ai-regulation-policy-moda-nstc-taiwan-government.html"
+    },
+    {
+      "id": "taiwan-news-9",
+      "headline": "Taiwan's strategic leap into AI: Enacting the AI Basic Act to foster innovation, governance",
+      "source": "IAPP",
+      "date": "2026-01-08",
+      "url": "https://iapp.org/news/a/taiwan-s-strategic-leap-into-ai-enacting-the-ai-basic-act-to-foster-innovation-governance"
     }
   ],
   "stanceDatacenter": "concerning",

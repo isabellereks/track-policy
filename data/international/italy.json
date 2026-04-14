@@ -56,6 +56,58 @@
       "updatedDate": "2026-04-01",
       "partyOrigin": "B",
       "sourceUrl": "https://www.whitecase.com/insight-our-thinking/ai-watch-global-regulatory-tracker-italy"
+    },
+    {
+      "id": "italy-law-decree-21-2026",
+      "billCode": "Law Decree 21/2026",
+      "title": "Energy Bills Decree (Law Decree 21/2026) — unified data centre authorisation",
+      "summary": "Adopted by the Council of Ministers on 20 February 2026, Law Decree 21/2026 recognises data centres as strategic infrastructure and consolidates all permits (environmental, construction, grid-connection of any voltage) into a single authorisation under the Italian Environmental Code with a hard 10-month timeline (extendable by up to 3 months). Must be converted into law by 21 April 2026.",
+      "stage": "Enacted",
+      "stance": "favorable",
+      "impactTags": [
+        "data-center-siting",
+        "single-authorisation",
+        "strategic-infrastructure",
+        "10-month-timeline"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-02-21",
+      "sourceUrl": "https://www.lw.com/en/insights/italy-passes-new-data-center-regulations"
+    },
+    {
+      "id": "italy-law-132-implementing-decrees-2026",
+      "billCode": "Law 132/2025 Article 16 decrees",
+      "title": "Implementing Decrees under Italy AI Law 132/2025 (due Oct 2026)",
+      "summary": "Article 16 of Italy's AI Law 132/2025 mandates one or more implementing decrees by October 2026 to define the organic framework for data, algorithms and AI-training methods — including rights, remedies and sanctions. Article 24 delegates government power to designate enforcement authorities (ACN as market-surveillance, AgID as notifying) and harmonise sectoral law with the EU AI Act.",
+      "stage": "Filed",
+      "stance": "concerning",
+      "impactTags": [
+        "AI-Act-implementation",
+        "AgID",
+        "ACN",
+        "sanctions",
+        "workplace-AI"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-20",
+      "sourceUrl": "https://www.nortonrosefulbright.com/en/knowledge/publications/9bfedfea/italy-enacts-law-no-132-2025-on-artificial-intelligence-sector-rules-and-next-steps"
+    },
+    {
+      "id": "italy-ai-workplace-rules-2026",
+      "billCode": "Law 132/2025 Art. 11-12",
+      "title": "Italy AI Workplace Rules (under Law 132/2025)",
+      "summary": "Articles 11–12 of Law 132/2025, reinforced through early-2026 guidance, require employers using AI for workforce decisions to inform workers and trade unions, with fines up to €1,500 per employee plus monthly increases and additional penalties for failure to consult. The rules frontload compliance before EU AI Act high-risk employment-system deadlines in August 2026.",
+      "stage": "Enacted",
+      "stance": "concerning",
+      "impactTags": [
+        "AI-workplace",
+        "worker-information",
+        "trade-union-consultation",
+        "penalties"
+      ],
+      "category": "ai-workforce",
+      "updatedDate": "2026-02-20",
+      "sourceUrl": "https://www.klgates.com/AI-News-Italy-Sets-the-Rules-for-AI-in-the-Workplace-2-20-2026"
     }
   ],
   "keyFigures": [
@@ -64,24 +116,49 @@
       "name": "Alessio Butti",
       "role": "Undersecretary to the Presidency of the Council of Ministers for Digital Innovation",
       "party": "FdI",
-      "stance": "favorable",
-      "quote": "Italy is the first European country with a national framework fully aligned with the AI Act. This decision brings innovation back into the public interest, orienting AI toward growth, rights, and the full protection of citizens."
+      "stance": "favorable"
     },
     {
       "id": "italy-meloni",
       "name": "Giorgia Meloni",
       "role": "Prime Minister of Italy",
       "party": "FdI",
-      "stance": "review",
-      "quote": "There can and must be an Italian way when it comes to artificial intelligence, an Italian way to develop artificial intelligence and an Italian way to govern artificial intelligence."
+      "stance": "review"
     },
     {
       "id": "italy-stanzione",
       "name": "Pasquale Stanzione",
       "role": "President, Garante per la Protezione dei Dati Personali (Italian Data Protection Authority)",
       "party": "B",
-      "stance": "restrictive",
-      "quote": "The Garante per la protezione dei dati personali possesses the competence and independence requirements necessary to implement the European regulation on artificial intelligence consistently with the objective of a high level of protection of fundamental rights."
+      "stance": "restrictive"
+    },
+    {
+      "id": "italy-nobile",
+      "name": "Mario Nobile",
+      "role": "Director General, Agency for Digital Italy (AgID)",
+      "party": "N/A",
+      "stance": "review"
+    },
+    {
+      "id": "italy-frattasi",
+      "name": "Bruno Frattasi",
+      "role": "Director General, National Cybersecurity Agency (ACN)",
+      "party": "N/A",
+      "stance": "review"
+    },
+    {
+      "id": "italy-urso",
+      "name": "Adolfo Urso",
+      "role": "Minister of Enterprises and Made in Italy",
+      "party": "FdI",
+      "stance": "favorable"
+    },
+    {
+      "id": "italy-zanda",
+      "name": "Filippo Sensi",
+      "role": "Deputy, Chamber of Deputies (PD tech and digital rights spokesperson)",
+      "party": "PD",
+      "stance": "concerning"
     }
   ],
   "news": [
@@ -112,6 +189,34 @@
       "source": "Data Center Dynamics",
       "date": "2026-03-24",
       "url": "https://www.datacenterdynamics.com/en/news/digital-realty-plans-milan-data-center-development/"
+    },
+    {
+      "id": "italy-news-5",
+      "headline": "Italy passes new data center regulations (Law Decree 21/2026)",
+      "source": "Latham & Watkins",
+      "date": "2026-02-24",
+      "url": "https://www.lw.com/en/insights/italy-passes-new-data-center-regulations"
+    },
+    {
+      "id": "italy-news-6",
+      "headline": "Italy fast-tracks data centre approvals",
+      "source": "Inspiratia",
+      "date": "2026-03-05",
+      "url": "https://inspiratia.com/article/italys-new-data-centre-authorisation-policy"
+    },
+    {
+      "id": "italy-news-7",
+      "headline": "Italy Sets the Rules for AI in the Workplace",
+      "source": "K&L Gates",
+      "date": "2026-02-20",
+      "url": "https://www.klgates.com/AI-News-Italy-Sets-the-Rules-for-AI-in-the-Workplace-2-20-2026"
+    },
+    {
+      "id": "italy-news-8",
+      "headline": "Italy Introduces Unified Authorization Procedure for Data Centers Under New Energy Decree",
+      "source": "National Law Review",
+      "date": "2026-03-02",
+      "url": "https://natlawreview.com/article/italy-introduces-unified-authorization-procedure-data-centers-under-new-energy"
     }
   ],
   "stanceDatacenter": "favorable",

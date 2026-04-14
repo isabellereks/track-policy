@@ -60,6 +60,58 @@
       "updatedDate": "2026-04-01",
       "partyOrigin": "B",
       "sourceUrl": "https://www.medianama.com/2025/12/223-india-ai-law-digital-india-act-stalled/"
+    },
+    {
+      "id": "india-it-rules-2026-deepfake",
+      "billCode": "IT Intermediary Rules Amendment 2026",
+      "title": "IT (Intermediary Guidelines) Amendment Rules, 2026 — Deepfake and SGI regime",
+      "summary": "Notified 10 February 2026 and in force from 20 February 2026, the IT Rules Amendment requires intermediaries to label Synthetically Generated Information (SGI), take down AI deepfakes within 3 hours (2 hours for non-consensual intimate imagery), and impose enhanced duties on Significant Social Media Intermediaries. Platforms lose safe-harbour immunity for failure to comply.",
+      "stage": "Enacted",
+      "stance": "concerning",
+      "impactTags": [
+        "deepfake",
+        "synthetic-media",
+        "takedown-3-hour",
+        "safe-harbour",
+        "SGI-labelling"
+      ],
+      "category": "synthetic-media",
+      "updatedDate": "2026-02-20",
+      "sourceUrl": "https://www.mondaq.com/india/new-technology/1760554/it-rules-2026-deepfake-regulation-three-hour-takedowns-and-ai-labelling-obligations"
+    },
+    {
+      "id": "india-ai-governance-guidelines-2026",
+      "billCode": "MeitY AI Governance Guidelines",
+      "title": "MeitY AI Governance Guidelines (2026)",
+      "summary": "MeitY's AI Governance Guidelines — finalised in early 2026 — formalise India's preferred approach of regulating AI through existing frameworks (DPDP Act, IT Act, IP law) rather than a standalone AI law. They align with the RBI AI-in-FS framework, CCI AI market study and DPIIT copyright-AI report to form a coherent cross-sector playbook.",
+      "stage": "Enacted",
+      "stance": "review",
+      "impactTags": [
+        "ai-governance",
+        "existing-laws-approach",
+        "cross-regulator",
+        "DPDP-alignment"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-15",
+      "sourceUrl": "https://iapp.org/news/a/notes-from-the-asia-pacific-region-india-releases-dpdpa-rules-ai-governance-guidelines"
+    },
+    {
+      "id": "india-dpdp-phased-rollout-2026",
+      "billCode": "DPDP Act phased rollout",
+      "title": "DPDP Act Phase 1 Compliance (2026-2027 rollout)",
+      "summary": "Indian entities are navigating the phased rollout of the Digital Personal Data Protection Act rules issued in 2025, with full applicability by 13 May 2027. Phase 1 obligations in 2026 cover breach notification, children's data, consent architecture and Significant Data Fiduciary designations — directly impacting AI training data pipelines.",
+      "stage": "Enacted",
+      "stance": "concerning",
+      "impactTags": [
+        "data-privacy",
+        "AI-training-data",
+        "consent",
+        "SDF-designation"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-03-10",
+      "sourceUrl": "https://secureprivacy.ai/blog/india-dpdp-act-phase-1"
     }
   ],
   "keyFigures": [
@@ -68,16 +120,14 @@
       "name": "Ashwini Vaishnaw",
       "role": "Union Minister for Electronics and Information Technology (MeitY)",
       "party": "BJP",
-      "stance": "favorable",
-      "quote": "We are creating a framework where ethical AI is not a mandate but a culture. Innovation must go hand in hand with responsibility — but through trust, not fear."
+      "stance": "favorable"
     },
     {
       "id": "india-krishnan",
       "name": "S. Krishnan",
       "role": "Secretary, Ministry of Electronics and Information Technology (MeitY)",
       "party": "B",
-      "stance": "favorable",
-      "quote": "India will follow a light-touch governance model that promotes responsible AI innovation without stifling it through excessive compliance burdens."
+      "stance": "favorable"
     },
     {
       "id": "india-sitharaman",
@@ -85,6 +135,34 @@
       "role": "Union Finance Minister",
       "party": "BJP",
       "stance": "favorable"
+    },
+    {
+      "id": "india-prasada",
+      "name": "Jitin Prasada",
+      "role": "Minister of State for Electronics and Information Technology",
+      "party": "BJP",
+      "stance": "favorable"
+    },
+    {
+      "id": "india-abhishek-singh",
+      "name": "Abhishek Singh",
+      "role": "CEO, IndiaAI Mission",
+      "party": "N/A",
+      "stance": "favorable"
+    },
+    {
+      "id": "india-modi",
+      "name": "Narendra Modi",
+      "role": "Prime Minister of India",
+      "party": "BJP",
+      "stance": "favorable"
+    },
+    {
+      "id": "india-chandrasekhar",
+      "name": "Rajeev Chandrasekhar",
+      "role": "Former Minister of State for Electronics and IT (active AI commentator)",
+      "party": "BJP",
+      "stance": "review"
     }
   ],
   "news": [
@@ -115,6 +193,41 @@
       "source": "The Washington Post",
       "date": "2025-12-26",
       "url": "https://www.washingtonpost.com/world/2025/12/26/india-ai-google-microsoft-amazon/"
+    },
+    {
+      "id": "india-news-5",
+      "headline": "India becomes first major economy to regulate deepfakes",
+      "source": "India Tech Desk",
+      "date": "2026-02-12",
+      "url": "https://indiatechdesk.com/india-becomes-the-first-major-economy-to-regulate-deepfakes/"
+    },
+    {
+      "id": "india-news-6",
+      "headline": "India unlikely to rush new AI regulations, will use DPDP Act and existing laws: MeitY",
+      "source": "Storyboard18",
+      "date": "2025-12-05",
+      "url": "https://www.storyboard18.com/digital/india-unlikely-to-rush-new-ai-regulations-will-use-dpdp-act-and-existing-laws-meity-85988.htm"
+    },
+    {
+      "id": "india-news-7",
+      "headline": "Are platforms following India's deepfake and AI content rules?",
+      "source": "MediaNama",
+      "date": "2026-04-08",
+      "url": "https://www.medianama.com/2026/04/223-it-amendment-rules-2026-platform-compliance-india-deepfake-ai-content/"
+    },
+    {
+      "id": "india-news-8",
+      "headline": "AI, DPDP and IT rules will drive new phase of Big Tech regulation in India in 2026",
+      "source": "Storyboard18",
+      "date": "2026-01-07",
+      "url": "https://www.storyboard18.com/digital/ai-dpdp-and-it-rules-will-drive-new-phase-of-big-tech-regulation-in-india-in-2026-86739.htm"
+    },
+    {
+      "id": "india-news-9",
+      "headline": "Global firms face legal risks under India's 2026 AI regulation",
+      "source": "India Briefing",
+      "date": "2026-03-03",
+      "url": "https://www.india-briefing.com/news/india-ai-regulation-2026-foreign-platform-compliance-42745.html/"
     }
   ],
   "stanceDatacenter": "favorable",

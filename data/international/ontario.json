@@ -58,6 +58,59 @@
       "updatedDate": "2025-11-19",
       "partyOrigin": "NDP",
       "sourceUrl": "https://www.ola.org/en/legislative-business/bills/parliament-44/session-1/bill-61"
+    },
+    {
+      "id": "ontario-ai-hiring-disclosure-2026",
+      "billCode": "Working for Workers Four Act — AI disclosure",
+      "title": "AI Disclosure in Job Postings (effective 1 Jan 2026)",
+      "summary": "Effective 1 January 2026, Ontario employers with 25+ employees must disclose in publicly advertised job postings if they use AI to screen, assess or select applicants. The provision builds on the Working for Workers Four Act and aligns with the province's January 2026 joint IPC/OHRC principles for responsible AI use.",
+      "stage": "Enacted",
+      "stance": "concerning",
+      "impactTags": [
+        "AI-hiring",
+        "job-posting-disclosure",
+        "IPC-OHRC-principles",
+        "employer-duty"
+      ],
+      "category": "ai-workforce",
+      "updatedDate": "2026-01-01",
+      "sourceUrl": "https://www.mltaikins.com/insights/ai-governance-what-organizations-need-to-know/"
+    },
+    {
+      "id": "ontario-msft-ai-dc-2026",
+      "billCode": "Microsoft AI Infrastructure Expansion",
+      "title": "Microsoft Multi-Billion AI Infrastructure Expansion in Ontario",
+      "summary": "Announced 7 April 2026 with Invest Ontario, Microsoft's expansion of its Azure Canada Central region includes two new York Region data centres as part of its $19 billion Canadian commitment. Projects will create ~1,000 construction and 250 permanent jobs, tied to a Community-First approach emphasising workforce training and digital sovereignty.",
+      "stage": "Enacted",
+      "stance": "favorable",
+      "impactTags": [
+        "Microsoft",
+        "Azure",
+        "York-Region",
+        "19-billion",
+        "digital-sovereignty"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-04-08",
+      "sourceUrl": "https://news.ontario.ca/en/release/1007259/ontario-welcomes-microsofts-ai-infrastructure-expansion"
+    },
+    {
+      "id": "ontario-ipc-ohrc-ai-principles-2026",
+      "billCode": "IPC-OHRC Responsible AI Principles",
+      "title": "Ontario IPC + OHRC Responsible AI Principles (Jan 2026)",
+      "summary": "In January 2026 Ontario's Information and Privacy Commissioner and Human Rights Commission jointly released six principles for responsible public-sector AI use, covering transparency, accountability, non-discrimination, privacy, explainability and human oversight. The principles guide implementation of Ontario's Enhancing Digital Security and Trust Act.",
+      "stage": "Enacted",
+      "stance": "review",
+      "impactTags": [
+        "public-sector-AI",
+        "six-principles",
+        "IPC",
+        "OHRC",
+        "explainability"
+      ],
+      "category": "ai-government",
+      "updatedDate": "2026-01-16",
+      "sourceUrl": "https://www.mltaikins.com/insights/ai-governance-what-organizations-need-to-know/"
     }
   ],
   "keyFigures": [
@@ -66,24 +119,49 @@
       "name": "Stephen Lecce",
       "role": "Minister of Energy and Mines",
       "party": "PC",
-      "stance": "favorable",
-      "quote": "Ontario is attracting the right data centers to the province that maximize economic value, with Microsoft accepting full cost recovery on any required infrastructure upgrade."
+      "stance": "favorable"
     },
     {
       "id": "ontario-fedeli",
       "name": "Vic Fedeli",
       "role": "Minister of Economic Development, Job Creation and Trade",
       "party": "PC",
-      "stance": "favorable",
-      "quote": "As demand for AI, cloud computing and data processing continues to grow, Microsoft's investment will ensure companies looking to invest in the province have the infrastructure they need to stay competitive and meet the moment."
+      "stance": "favorable"
     },
     {
       "id": "ontario-cerjanec",
       "name": "Rob Cerjanec",
       "role": "MPP for Ajax, Ontario NDP",
       "party": "NDP",
-      "stance": "favorable",
-      "quote": "If Ontario wants to be a major player in this century defining technology, well we can't wait for someone else to lead."
+      "stance": "favorable"
+    },
+    {
+      "id": "ontario-rasheed",
+      "name": "Kaleed Rasheed",
+      "role": "Associate Minister for Digital Government (Ontario AI rules lead)",
+      "party": "PC",
+      "stance": "review"
+    },
+    {
+      "id": "ontario-ford",
+      "name": "Doug Ford",
+      "role": "Premier of Ontario",
+      "party": "PC",
+      "stance": "favorable"
+    },
+    {
+      "id": "ontario-kerzner",
+      "name": "Patrice Barnes",
+      "role": "MPP, Parliamentary Assistant to the Minister of Economic Development",
+      "party": "PC",
+      "stance": "favorable"
+    },
+    {
+      "id": "ontario-kosseim",
+      "name": "Patricia Kosseim",
+      "role": "Information and Privacy Commissioner of Ontario",
+      "party": "N/A",
+      "stance": "concerning"
     }
   ],
   "news": [
@@ -114,6 +192,34 @@
       "source": "NOW Toronto",
       "date": "2026-04-08",
       "url": "https://nowtoronto.com/news/ontario-is-getting-a-major-ai-boost-thanks-to-microsofts-19-billion-investment"
+    },
+    {
+      "id": "ontario-news-5",
+      "headline": "Ontario welcomes Microsoft's AI infrastructure expansion supporting 1,250 jobs",
+      "source": "Invest Ontario",
+      "date": "2026-04-08",
+      "url": "https://www.investontario.ca/press-release/invest-ontario-welcomes-microsofts-ai-infrastructure-expansion-ontario-supporting-1250-jobs"
+    },
+    {
+      "id": "ontario-news-6",
+      "headline": "Microsoft to spend $7.5 billion on AI data centre expansion with Canadian 'digital sovereignty' pledge",
+      "source": "BetaKit",
+      "date": "2026-04-07",
+      "url": "https://betakit.com/microsoft-to-spend-7-5-billion-on-ai-data-centre-expansion-with-pledge-to-protect-canadas-digital-sovereignty/"
+    },
+    {
+      "id": "ontario-news-7",
+      "headline": "AI governance: What organizations need to know in 2026",
+      "source": "MLT Aikins",
+      "date": "2026-01-20",
+      "url": "https://www.mltaikins.com/insights/ai-governance-what-organizations-need-to-know/"
+    },
+    {
+      "id": "ontario-news-8",
+      "headline": "Building AI infrastructure the Community-First way in Canada",
+      "source": "Microsoft On the Issues",
+      "date": "2026-04-07",
+      "url": "https://blogs.microsoft.com/on-the-issues/2026/04/07/building-ai-infrastructure-the-community-first-way-in-canada/"
     }
   ],
   "stanceDatacenter": "favorable",

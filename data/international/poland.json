@@ -60,6 +60,57 @@
       "updatedDate": "2024-11-01",
       "partyOrigin": "B",
       "sourceUrl": "https://www.globallegalinsights.com/practice-areas/ai-machine-learning-and-big-data-laws-and-regulations/poland/"
+    },
+    {
+      "id": "poland-ai-act-project-uc71-2026",
+      "billCode": "Project UC71 (AI Systems Act)",
+      "title": "Polish Act on Artificial Intelligence Systems (adopted by Council of Ministers 31 Mar 2026)",
+      "summary": "Adopted by the Council of Ministers on 31 March 2026, the draft creates the Commission for the Development and Safety of Artificial Intelligence (KRiBSI) as Poland's single national market-surveillance authority under the EU AI Act — a uniquely centralised model. KRiBSI's collegiate structure embeds competition, financial, broadcasting and telecoms regulators, and introduces binding individual opinions for upfront legal certainty.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "impactTags": [
+        "KRiBSI",
+        "single-authority",
+        "AI-Act-national",
+        "binding-opinions"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-31",
+      "sourceUrl": "https://www.interface-eu.org/publications/poland-ai-act-implementation"
+    },
+    {
+      "id": "poland-kribsi-collegiate-structure-2026",
+      "billCode": "KRiBSI constitution",
+      "title": "KRiBSI Collegiate Structure and Cross-Sector Expertise",
+      "summary": "KRiBSI is designed as a collegiate body including representatives of UOKiK (competition), KNF (financial supervision), KRRiT (broadcasting) and UKE (telecoms) — an explicit compromise to give Poland's single horizontal AI authority sectoral depth. The draft grants KRiBSI enforcement tools beyond the AI Act, including binding individual opinions, guidance and best-practice issuance.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "impactTags": [
+        "collegiate-authority",
+        "cross-sector",
+        "enforcement-powers",
+        "individual-opinions"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-31",
+      "sourceUrl": "https://blog.ai-laws.org/unfinished-architecture-polands-draft-act-on-ai-systems-and-the-struggle-for-supervisory-clarity/"
+    },
+    {
+      "id": "poland-ai-act-fundamental-rights-2026",
+      "billCode": "AI Act FRIA provisions",
+      "title": "EU AI Act Fundamental Rights Impact Assessment (applicable Aug 2026)",
+      "summary": "From 2 August 2026, Polish public-sector deployers and entities providing essential private services using high-risk AI must complete a Fundamental Rights Impact Assessment prior to deployment under Article 27 of the EU AI Act. KRiBSI will supervise the obligation once operational.",
+      "stage": "Enacted",
+      "stance": "concerning",
+      "impactTags": [
+        "FRIA",
+        "public-sector",
+        "high-risk-AI",
+        "rights-protection"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-15",
+      "sourceUrl": "https://aichamber.eu/the-ai-act-comes-into-force-poland-has-a-chance-to-build-the-regulator-of-the-future-but-time-is-running-out/"
     }
   ],
   "keyFigures": [
@@ -68,8 +119,7 @@
       "name": "Krzysztof Gawkowski",
       "role": "Deputy Prime Minister and Minister of Digital Affairs",
       "party": "Lewica",
-      "stance": "review",
-      "quote": "We are giving entrepreneurs stable and favourable conditions for innovation. Citizens gain real influence over how AI systems work, and the state will guarantee their safety when technology gets out of control."
+      "stance": "review"
     },
     {
       "id": "poland-standerski",
@@ -84,6 +134,27 @@
       "role": "Prime Minister of Poland",
       "party": "KO",
       "stance": "favorable"
+    },
+    {
+      "id": "poland-wroblewski",
+      "name": "Mirosław Wróblewski",
+      "role": "President, Personal Data Protection Office (UODO)",
+      "party": "N/A",
+      "stance": "concerning"
+    },
+    {
+      "id": "poland-magdziarz",
+      "name": "Michał Gramatyka",
+      "role": "Secretary of State, Ministry of Digital Affairs",
+      "party": "Polska 2050",
+      "stance": "favorable"
+    },
+    {
+      "id": "poland-duda",
+      "name": "Karol Nawrocki",
+      "role": "President of Poland",
+      "party": "Independent (PiS-backed)",
+      "stance": "review"
     }
   ],
   "news": [
@@ -114,6 +185,27 @@
       "source": "Data Center Dynamics",
       "date": "2025-11-10",
       "url": "https://www.datacenterdynamics.com/en/news/data4-launches-second-polish-data-center-outside-warsaw/"
+    },
+    {
+      "id": "poland-news-6",
+      "headline": "Poland Cybersecurity Draft AI Law Adopted",
+      "source": "U.S. International Trade Administration",
+      "date": "2026-04-01",
+      "url": "https://www.trade.gov/market-intelligence/poland-cybersecurity-draft-ai-law-adopted"
+    },
+    {
+      "id": "poland-news-7",
+      "headline": "Unfinished Architecture? Poland's Draft Act on AI Systems",
+      "source": "RAILS Blog",
+      "date": "2026-02-28",
+      "url": "https://blog.ai-laws.org/unfinished-architecture-polands-draft-act-on-ai-systems-and-the-struggle-for-supervisory-clarity/"
+    },
+    {
+      "id": "poland-news-8",
+      "headline": "Building a Centralised National AI Authority",
+      "source": "Interface EU",
+      "date": "2026-03-10",
+      "url": "https://www.interface-eu.org/publications/poland-ai-act-implementation"
     }
   ],
   "stanceDatacenter": "favorable",

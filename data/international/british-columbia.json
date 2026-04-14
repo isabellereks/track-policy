@@ -59,6 +59,57 @@
       "updatedDate": "2026-01-30",
       "partyOrigin": "B",
       "sourceUrl": "https://www2.gov.bc.ca/gov/content/industry/electricity-alternative-energy/electricity/industrial-electricity-allocation-framework"
+    },
+    {
+      "id": "bc-ai-dc-competitive-call-2026",
+      "billCode": "BCH-CC-AI-DC-2026",
+      "title": "BC Hydro Competitive Call for AI and Data Centre Power (Jan 2026)",
+      "summary": "Launched 30 January 2026, BC Hydro's competitive allocation process reserves 300 MW for AI projects and 100 MW for conventional data centres over a two-year window, with successful applicants notified by September 2026. Projects are scored on price plus economic, community, data-sovereignty and environmental benefits, operationalising the Energy Statutes Amendment Act.",
+      "stage": "Enacted",
+      "stance": "concerning",
+      "impactTags": [
+        "data-center-energy",
+        "competitive-allocation",
+        "data-sovereignty",
+        "clean-power"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-02-02",
+      "sourceUrl": "https://news.gov.bc.ca/releases/2026ECS0005-000095"
+    },
+    {
+      "id": "bc-cryptomine-ban-extension-2026",
+      "billCode": "BC-ESAA-crypto",
+      "title": "BC Energy Statutes Amendment Act — Cryptomining Ban and DC Energy Caps",
+      "summary": "The Energy Statutes Amendment Act bans new cryptocurrency-mining grid connections and imposes energy-use caps on new data centres in British Columbia, redirecting scarce clean electricity toward economic activity with broader social benefits. BC Hydro may refuse connections where projects fail the economic/community/environmental test.",
+      "stage": "Enacted",
+      "stance": "restrictive",
+      "impactTags": [
+        "cryptomining-ban",
+        "energy-cap",
+        "BC-Hydro",
+        "data-center-siting"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2025-11-20",
+      "sourceUrl": "https://www.datacenterdynamics.com/en/news/canadas-british-columbia-to-limit-data-center-energy-use-and-ban-new-cryptomining-projects/"
+    },
+    {
+      "id": "bc-federal-aida-call-2026",
+      "billCode": "Canada-AI-DC-RFP-2026",
+      "title": "Federal Sovereign AI Data Centre Call for Proposals (applies in BC)",
+      "summary": "On 15 January 2026 the Government of Canada opened a call for proposals to build sovereign, large-scale AI data centres above 100 MW, with MOU-based support packages that BC operators can access alongside provincial competitive process. The federal program complements BC's ESAA by prioritising sovereign Canadian compute.",
+      "stage": "Enacted",
+      "stance": "favorable",
+      "impactTags": [
+        "sovereign-ai",
+        "federal-funding",
+        "100MW-plus",
+        "MOU-process"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-01-15",
+      "sourceUrl": "https://www.torys.com/our-latest-thinking/publications/2026/01/canada-promotes-investment-in-sovereign-large-scale-ai-data-centres"
     }
   ],
   "keyFigures": [
@@ -67,24 +118,49 @@
       "name": "Adrian Dix",
       "role": "Minister of Energy and Climate Solutions",
       "party": "NDP",
-      "stance": "concerning",
-      "quote": "The allocation framework allows for the paced growth of these sectors and avoids mistakes we've seen in other jurisdictions where growth has outpaced infrastructure, resulting in higher costs for everyday residential customers."
+      "stance": "concerning"
     },
     {
       "id": "british-columbia-kahlon",
       "name": "Ravi Kahlon",
       "role": "Minister of Jobs and Economic Growth",
       "party": "NDP",
-      "stance": "review",
-      "quote": "As demand for technology infrastructure grows, British Columbia needs a strategic approach to ensure our clean electricity supports the right projects."
+      "stance": "review"
     },
     {
       "id": "british-columbia-glumac",
       "name": "Rick Glumac",
       "role": "Minister of State for Artificial Intelligence and New Technologies",
       "party": "NDP",
-      "stance": "favorable",
-      "quote": "We can help ensure the next chapter of innovation is built here, powered by clean energy, and open to everyone who wants to be part of it."
+      "stance": "favorable"
+    },
+    {
+      "id": "british-columbia-bailey",
+      "name": "Brenda Bailey",
+      "role": "Minister of Finance (former Minister of Jobs, Economic Development and Innovation)",
+      "party": "BC NDP",
+      "stance": "favorable"
+    },
+    {
+      "id": "british-columbia-eby",
+      "name": "David Eby",
+      "role": "Premier of British Columbia",
+      "party": "BC NDP",
+      "stance": "review"
+    },
+    {
+      "id": "british-columbia-obrien",
+      "name": "Chris O'Riley",
+      "role": "President and CEO, BC Hydro",
+      "party": "N/A",
+      "stance": "review"
+    },
+    {
+      "id": "british-columbia-mcnaney",
+      "name": "Jill Tipping",
+      "role": "President and CEO, BC Tech Association",
+      "party": "N/A",
+      "stance": "favorable"
     }
   ],
   "news": [
@@ -115,6 +191,34 @@
       "source": "Techcouver",
       "date": "2026-02-04",
       "url": "https://techcouver.com/2026/02/04/province-ai-data-centres-energy-management/"
+    },
+    {
+      "id": "british-columbia-news-5",
+      "headline": "AI, data centre companies will have to compete for electricity in B.C.",
+      "source": "CBC News",
+      "date": "2026-01-30",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/ai-data-centres-competitive-bid-process-bc-9.7069103"
+    },
+    {
+      "id": "british-columbia-news-6",
+      "headline": "B.C. launches competitive process for clean power in high-demand sectors",
+      "source": "Government of British Columbia",
+      "date": "2026-01-30",
+      "url": "https://news.gov.bc.ca/releases/2026ECS0005-000095"
+    },
+    {
+      "id": "british-columbia-news-7",
+      "headline": "British Columbia proposes new power rules for AI, data centres, prioritizes jobs",
+      "source": "Business in Vancouver",
+      "date": "2025-11-19",
+      "url": "https://www.biv.com/news/british-columbia-proposes-new-power-rules-for-ai-data-centres-prioritizes-jobs-11371404"
+    },
+    {
+      "id": "british-columbia-news-8",
+      "headline": "Canada promotes investment in sovereign, large-scale AI data centres via new MOU process",
+      "source": "Torys LLP",
+      "date": "2026-01-20",
+      "url": "https://www.torys.com/our-latest-thinking/publications/2026/01/canada-promotes-investment-in-sovereign-large-scale-ai-data-centres"
     }
   ],
   "stanceDatacenter": "restrictive",

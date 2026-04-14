@@ -57,6 +57,57 @@
       "updatedDate": "2026-02-27",
       "partyOrigin": "CAQ",
       "sourceUrl": "https://mila.quebec/en/news/the-quebec-government-grants-36m-to-mila-to-strengthen-artificial-intelligence-research-and"
+    },
+    {
+      "id": "quebec-hq-data-center-tariff-2026",
+      "billCode": "HQ DC tariff application",
+      "title": "Hydro-Québec Data Centre Tariff (Régie de l'énergie, late 2026)",
+      "summary": "Hydro-Québec filed a new electricity-rate structure for data centres at the Régie de l'énergie setting ~13¢/kWh — roughly double current large-power tariffs — for facilities consuming more than 5 MW per year. The tariff is expected to take effect in the second half of 2026 and applies to all new data-centre customers, alongside continued ministerial authorisation under Bill 69.",
+      "stage": "Filed",
+      "stance": "restrictive",
+      "impactTags": [
+        "HQ-tariff",
+        "5MW-threshold",
+        "Régie-de-l-énergie",
+        "rate-doubling"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-02-20",
+      "sourceUrl": "https://news.hydroquebec.com/news/press-releases/all-quebec/hydro-quebec-proposing-regie-energie-new-rate-large-data-centres-adjustment-rate-cryptographic-use-applied-blockchains.html"
+    },
+    {
+      "id": "quebec-law-25-2026-enforcement",
+      "billCode": "Law 25 (CAI enforcement)",
+      "title": "Quebec Law 25 — 2026 AI and Cross-Border Enforcement Push",
+      "summary": "The Commission d'accès à l'information signalled in early 2026 that routine compliance audits under Law 25 §70 would increase, especially around AI-driven automated decision-making (§12.1, §14) and cross-border transfers outside Quebec (§17). Penalties reach C$10 million or 2% of worldwide turnover, with repeat offences up to C$25 million.",
+      "stage": "Enacted",
+      "stance": "concerning",
+      "impactTags": [
+        "Law-25",
+        "automated-decisions",
+        "cross-border-transfers",
+        "CAI-enforcement"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-02-28",
+      "sourceUrl": "https://www.blg.com/en/insights/2026/02/quebecs-private-sector-act-compliance-guide-for-organizations"
+    },
+    {
+      "id": "quebec-bill-69-5mw-authorization",
+      "billCode": "Bill 69 — 5 MW rule",
+      "title": "Bill 69 — Ministerial Authorisation for New Loads ≥ 5 MW",
+      "summary": "Enacted June 2025 and operationalised through 2026, Bill 69 requires the Minister of Economy, Innovation and Energy to authorise any new electricity load of 5 MW or more — directly capturing AI data centres. Combined with Hydro-Québec's proposed doubled tariff, it effectively halts speculative data-centre build-out unless projects deliver clear economic benefit.",
+      "stage": "Enacted",
+      "stance": "restrictive",
+      "impactTags": [
+        "Bill-69",
+        "5MW-authorization",
+        "grid-gatekeeping",
+        "economic-benefit-test"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-01-15",
+      "sourceUrl": "https://thelogic.co/commentary/quebec-ink/quebec-ai-data-centres-bitcoin-cryptocurrency/"
     }
   ],
   "keyFigures": [
@@ -65,8 +116,7 @@
       "name": "Jean Boulet",
       "role": "Minister of Economy, Innovation and Energy; Minister of Labour",
       "party": "CAQ",
-      "stance": "favorable",
-      "quote": "In Quebec, we want to stimulate university research, the training of talent and the use of a skilled workforce in AI. This is essential to create wealth and maintain our global competitiveness in this highly competitive sector."
+      "stance": "favorable"
     },
     {
       "id": "quebec-haytayan",
@@ -80,8 +130,35 @@
       "name": "Valérie Pisano",
       "role": "President and CEO, Mila – Quebec Artificial Intelligence Institute",
       "party": "N/A",
-      "stance": "favorable",
-      "quote": "By placing people and ethics at the heart of our priorities, we make responsible AI a unique competitive advantage, capable of driving our economy while ensuring a technological development that distinguishes itself globally."
+      "stance": "favorable"
+    },
+    {
+      "id": "quebec-frechette",
+      "name": "Christine Fréchette",
+      "role": "Premier-designate of Quebec; former Minister of Economy, Innovation and Energy",
+      "party": "CAQ",
+      "stance": "favorable"
+    },
+    {
+      "id": "quebec-skeete",
+      "name": "Gilles Bélanger",
+      "role": "Minister Responsible for Artificial Intelligence (Quebec)",
+      "party": "CAQ",
+      "stance": "favorable"
+    },
+    {
+      "id": "quebec-bengio",
+      "name": "Yoshua Bengio",
+      "role": "Scientific Director, Mila – Quebec AI Institute; Chair, International Scientific Report on Advanced AI Safety",
+      "party": "N/A",
+      "stance": "concerning"
+    },
+    {
+      "id": "quebec-poitras",
+      "name": "Cynthia Marchildon",
+      "role": "President, Commission d'accès à l'information du Québec (CAI)",
+      "party": "N/A",
+      "stance": "concerning"
     }
   ],
   "news": [
@@ -112,6 +189,34 @@
       "source": "Stikeman Elliott",
       "date": "2025-06-20",
       "url": "https://stikeman.com/en-ca/kh/canadian-energy-law/quebec-government-adopts-bill-69-to-modernize-energy-legislation"
+    },
+    {
+      "id": "quebec-news-5",
+      "headline": "Hydro-Quebec wants to double electricity rates for energy-hungry data centres",
+      "source": "CBC News",
+      "date": "2026-02-19",
+      "url": "https://www.cbc.ca/news/canada/montreal/hydro-quebec-rates-data-centres-9.7099056"
+    },
+    {
+      "id": "quebec-news-6",
+      "headline": "Canadian utility Hydro-Québec proposes electricity tariff for data centers",
+      "source": "Data Center Dynamics",
+      "date": "2026-02-20",
+      "url": "https://www.datacenterdynamics.com/en/news/canadian-utility-hydro-qu%C3%A9bec-proposes-electricity-tariff-for-data-centers/"
+    },
+    {
+      "id": "quebec-news-7",
+      "headline": "Quebec's Private Sector Act: Compliance guide for organizations",
+      "source": "BLG",
+      "date": "2026-02-05",
+      "url": "https://www.blg.com/en/insights/2026/02/quebecs-private-sector-act-compliance-guide-for-organizations"
+    },
+    {
+      "id": "quebec-news-8",
+      "headline": "Quebec shut the door on crypto. It just flung it wide open to AI",
+      "source": "The Logic",
+      "date": "2026-01-22",
+      "url": "https://thelogic.co/commentary/quebec-ink/quebec-ai-data-centres-bitcoin-cryptocurrency/"
     }
   ],
   "stanceDatacenter": "restrictive",

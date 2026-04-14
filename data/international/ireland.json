@@ -62,6 +62,23 @@
       "updatedDate": "2026-02-04",
       "partyOrigin": "B",
       "sourceUrl": "https://enterprise.gov.ie/en/legislation/general-scheme-of-the-regulation-of-artificial-intelligence-bill-2026.html"
+    },
+    {
+      "id": "ireland-so-dc-process-march-2026",
+      "billCode": "SO Engagement Process",
+      "title": "System Operators Data Centre Engagement Process (March 2026)",
+      "summary": "Pursuant to the CRU's LEU decision, EirGrid and ESB Networks published their dedicated engagement and connection process for data-centre applicants by 31 March 2026, standardising how projects demonstrate dispatchable generation, storage, and SEM participation ahead of grid offers.",
+      "stage": "Enacted",
+      "stance": "review",
+      "impactTags": [
+        "EirGrid",
+        "ESB-Networks",
+        "data-center",
+        "connection-process"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-03-31",
+      "sourceUrl": "https://www.pinsentmasons.com/out-law/news/irish-data-centres-power-national-grid-regulator"
     }
   ],
   "keyFigures": [
@@ -70,24 +87,49 @@
       "name": "Peter Burke",
       "role": "Minister for Enterprise, Tourism and Employment",
       "party": "FG",
-      "stance": "favorable",
-      "quote": "Ireland's ambition is to lead globally in AI adoption, anchored in collaboration, ethical standards and proportionate regulation."
+      "stance": "favorable"
     },
     {
       "id": "ireland-obrien",
       "name": "Darragh O'Brien",
       "role": "Minister for Climate, Energy and the Environment",
       "party": "FF",
-      "stance": "review",
-      "quote": "Future industrial development will be aligned with Ireland's continued green transition, robust energy security, infrastructure delivery, and affordability of energy for households and businesses throughout the country."
+      "stance": "review"
     },
     {
       "id": "ireland-smyth",
       "name": "Niamh Smyth",
       "role": "Minister of State for Trade Promotion, Artificial Intelligence and Digital Transformation",
       "party": "FF",
-      "stance": "favorable",
-      "quote": "We're creating a system that protects the vulnerable, empowers innovators, and positions Ireland as a global hub for ethical AI."
+      "stance": "favorable"
+    },
+    {
+      "id": "ireland-sweeney",
+      "name": "Niamh Sweeney",
+      "role": "Commissioner, Data Protection Commission (DPC)",
+      "party": "N/A",
+      "stance": "concerning"
+    },
+    {
+      "id": "ireland-hogan",
+      "name": "Des Hogan",
+      "role": "Chairperson and Commissioner, Data Protection Commission (DPC)",
+      "party": "N/A",
+      "stance": "concerning"
+    },
+    {
+      "id": "ireland-ocallaghan",
+      "name": "Jim O'Callaghan",
+      "role": "Minister for Justice, Home Affairs and Migration",
+      "party": "Fianna Fáil",
+      "stance": "review"
+    },
+    {
+      "id": "ireland-martin",
+      "name": "Micheál Martin",
+      "role": "Taoiseach (Prime Minister of Ireland)",
+      "party": "Fianna Fáil",
+      "stance": "favorable"
     }
   ],
   "news": [
@@ -118,6 +160,27 @@
       "source": "PV Magazine",
       "date": "2026-03-30",
       "url": "https://www.pv-magazine.com/2026/03/30/pv-and-storage-will-be-central-to-irelands-first-co-located-data-center-and-renewables-campus/"
+    },
+    {
+      "id": "ireland-news-5",
+      "headline": "New Irish data centres must generate power back into national grid, rules regulator",
+      "source": "Pinsent Masons",
+      "date": "2025-12-19",
+      "url": "https://www.pinsentmasons.com/out-law/news/irish-data-centres-power-national-grid-regulator"
+    },
+    {
+      "id": "ireland-news-7",
+      "headline": "Powering AI: Europe switches on its first microgrid-connected data center",
+      "source": "CNBC",
+      "date": "2026-03-11",
+      "url": "https://www.cnbc.com/2026/03/11/data-center-microgrid-power-ireland-ai-boom-avk-pure-dc.html"
+    },
+    {
+      "id": "ireland-news-8",
+      "headline": "What the world can learn from Ireland's battle to power data centres",
+      "source": "Irish Times",
+      "date": "2026-03-17",
+      "url": "https://www.irishtimes.com/business/2026/03/17/what-the-world-can-learn-from-irelands-battle-to-power-data-centres/"
     }
   ],
   "stanceDatacenter": "concerning",

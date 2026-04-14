@@ -57,6 +57,57 @@
       "updatedDate": "2026-02-05",
       "partyOrigin": "B",
       "sourceUrl": "https://rri.co.id/en/national/2105710/indonesia-moves-toward-national-ai-regulation"
+    },
+    {
+      "id": "indonesia-ai-ethics-perpres-2026",
+      "billCode": "Perpres AI Ethics (pending)",
+      "title": "Presidential Regulation on AI Ethics (awaiting signature)",
+      "summary": "Indonesia's Presidential Regulation on AI Ethics — reported ~90% complete and awaiting President Prabowo's signature as of Q1 2026 — formalises the Stranas KA 2020–2045 as binding, introduces AI-content labelling, risk-tier safeguards and priority-sector obligations (health, education, food, mobility, public administration). Detailed enforcement will follow through sectoral regulations.",
+      "stage": "Filed",
+      "stance": "review",
+      "impactTags": [
+        "presidential-regulation",
+        "AI-ethics",
+        "risk-tiered",
+        "content-labelling"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-28",
+      "sourceUrl": "https://thelegalwire.ai/two-priority-ai-presidential-decrees-to-be-signed-by-prabowo-in-early-2026/"
+    },
+    {
+      "id": "indonesia-ai-roadmap-perpres-2026",
+      "billCode": "Perpres AI Roadmap",
+      "title": "Presidential Regulation on the National AI Roadmap",
+      "summary": "Companion Presidential Regulation elevating Indonesia's AI Roadmap (2020–2045) into binding national policy, setting priority sectors, workforce targets and sovereign-infrastructure ambitions. After publication, ministries must draft their own sectoral AI guidelines within an implementation window.",
+      "stage": "Filed",
+      "stance": "favorable",
+      "impactTags": [
+        "AI-roadmap",
+        "sovereign-infrastructure",
+        "sector-guidelines",
+        "digital-talent"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-28",
+      "sourceUrl": "https://ps-engage.com/indonesias-ai-national-roadmap-white-paper-paving-the-way-toward-a-smarter-and-sovereign-digital-future/"
+    },
+    {
+      "id": "indonesia-sovereign-ai-dc-2025",
+      "billCode": "Sovereign AI DC policy",
+      "title": "BDx Sovereign AI Data Center (national infrastructure policy)",
+      "summary": "Launched December 2024 as a joint venture between Indosat Ooredoo Hutchison, Lintasarta and BDx Data Centers, Indonesia's first sovereign AI data centre — powered by NVIDIA accelerated computing — is now the de-facto reference facility for the government's sovereign-compute strategy referenced in the 2026 Perpres package.",
+      "stage": "Enacted",
+      "stance": "favorable",
+      "impactTags": [
+        "sovereign-ai",
+        "data-center",
+        "NVIDIA",
+        "SEZ-tax-incentives"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2025-12-10",
+      "sourceUrl": "https://introl.com/blog/indonesia-first-sovereign-ai-data-center-market-analysis"
     }
   ],
   "keyFigures": [
@@ -65,22 +116,41 @@
       "name": "Meutya Hafid",
       "role": "Minister of Communication and Digital Affairs (Komdigi)",
       "party": "Golkar",
-      "stance": "review",
-      "quote": "Wars have gone beyond actual arms, but they now revolve around digital technology. This shows how every country, including Indonesia, needs to develop AI and digital economy."
+      "stance": "review"
     },
     {
       "id": "indonesia-patria",
       "name": "Nezar Patria",
       "role": "Deputy Minister of Communication and Digital Affairs",
       "party": "Independent",
-      "stance": "favorable",
-      "quote": "The principle is to maximize the benefits of AI and minimize the risks. These ethical guidelines will serve as a reference for developers, ensuring their AI products align with the established ethical values."
+      "stance": "favorable"
     },
     {
       "id": "indonesia-prabowo",
       "name": "Prabowo Subianto",
       "role": "President of Indonesia",
       "party": "Gerindra",
+      "stance": "favorable"
+    },
+    {
+      "id": "indonesia-prabowo-angga",
+      "name": "Angga Raka Prabowo",
+      "role": "Deputy Minister of Communication and Digital Affairs",
+      "party": "Gerindra",
+      "stance": "review"
+    },
+    {
+      "id": "indonesia-roeslani",
+      "name": "Rosan Roeslani",
+      "role": "Minister of Investment and Downstream Industry (BKPM)",
+      "party": "Independent",
+      "stance": "favorable"
+    },
+    {
+      "id": "indonesia-sugiono",
+      "name": "Ismail",
+      "role": "Director General of Digital Infrastructure, Komdigi",
+      "party": "N/A",
       "stance": "favorable"
     }
   ],
@@ -112,6 +182,34 @@
       "source": "Tempo.co",
       "date": "2025-09-19",
       "url": "https://en.tempo.co/amp/2050472/indonesia-expected-to-complete-ai-regulations-draft-this-month"
+    },
+    {
+      "id": "indonesia-news-5",
+      "headline": "Two priority AI presidential decrees to be signed by Prabowo in early 2026",
+      "source": "The Legal Wire",
+      "date": "2026-01-22",
+      "url": "https://thelegalwire.ai/two-priority-ai-presidential-decrees-to-be-signed-by-prabowo-in-early-2026/"
+    },
+    {
+      "id": "indonesia-news-6",
+      "headline": "AI rules pushed to 2026 as govt charts next move",
+      "source": "The Jakarta Post",
+      "date": "2025-10-29",
+      "url": "https://www.thejakartapost.com/business/2025/10/29/ai-rules-pushed-to-2026-as-govt-charts-next-move.html"
+    },
+    {
+      "id": "indonesia-news-7",
+      "headline": "Indonesia pushes back AI roadmap to early 2026, ethics first amid pressure to move faster",
+      "source": "Complete AI Training",
+      "date": "2025-11-14",
+      "url": "https://completeaitraining.com/news/indonesia-pushes-back-ai-roadmap-to-early-2026-ethics-first/"
+    },
+    {
+      "id": "indonesia-news-8",
+      "headline": "Indonesia's AI regulatory ambitions will face enforcement realities",
+      "source": "MLex",
+      "date": "2026-02-17",
+      "url": "https://www.mlex.com/mlex/articles/2446189/indonesia-s-ai-regulatory-ambitions-will-face-enforcement-realities"
     }
   ],
   "stanceDatacenter": "favorable",

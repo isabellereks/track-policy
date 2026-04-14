@@ -59,6 +59,23 @@
       "updatedDate": "2026-03-23",
       "partyOrigin": "B",
       "sourceUrl": "https://www.industry.gov.au/publications/expectations-data-centres-and-ai-infrastructure-developers"
+    },
+    {
+      "id": "australia-ai-safety-institute-2026",
+      "billCode": "AISI-2026",
+      "title": "Australian AI Safety Institute (AISI)",
+      "summary": "Announced 25 November 2025 with AUD 29.9 million in funding, the AI Safety Institute launched in early 2026 to monitor, evaluate and coordinate regulatory responses to frontier AI risks. It works directly with privacy, consumer, competition, online-safety and sector regulators and partners with international AI Safety Institutes, acting as Australia's central hub for AI safety science rather than a dedicated AI law.",
+      "stage": "Enacted",
+      "stance": "review",
+      "impactTags": [
+        "ai-safety",
+        "frontier-models",
+        "regulator-coordination",
+        "AUD-29.9m"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-01",
+      "sourceUrl": "https://www.industry.gov.au/news/australia-establish-new-institute-strengthen-ai-safety"
     }
   ],
   "keyFigures": [
@@ -67,24 +84,49 @@
       "name": "Tim Ayres",
       "role": "Minister for Industry and Innovation, Minister for Science",
       "party": "ALP",
-      "stance": "favorable",
-      "quote": "Australia is open for business – but the kind of business that puts Australia's national interest first."
+      "stance": "favorable"
     },
     {
       "id": "australia-inman-grant",
       "name": "Julie Inman Grant",
       "role": "eSafety Commissioner",
       "party": "N/A",
-      "stance": "restrictive",
-      "quote": "I do not want Australian children and young people serving as casualties of powerful technologies thrust onto the market without guardrails and without regard for their safety and wellbeing."
+      "stance": "restrictive"
     },
     {
       "id": "australia-rowland",
       "name": "Michelle Rowland",
       "role": "Attorney-General",
       "party": "ALP",
-      "stance": "concerning",
-      "quote": "We will not have our privacy reforms dictated by multinational tech giants who are trying to assert that you can either have innovation or you can have privacy protection, but not both."
+      "stance": "concerning"
+    },
+    {
+      "id": "australia-husic",
+      "name": "Ed Husic",
+      "role": "Former Minister for Industry and Science (AI policy architect)",
+      "party": "ALP",
+      "stance": "concerning"
+    },
+    {
+      "id": "australia-hanson-young",
+      "name": "Sarah Hanson-Young",
+      "role": "Senator, Greens Spokesperson for Communications and the Arts",
+      "party": "Greens",
+      "stance": "restrictive"
+    },
+    {
+      "id": "australia-leonard",
+      "name": "Anna Leonard",
+      "role": "Acting Australian Information Commissioner and Privacy Commissioner",
+      "party": "N/A",
+      "stance": "concerning"
+    },
+    {
+      "id": "australia-mchugh",
+      "name": "Tom McHugh",
+      "role": "Assistant Secretary, AI Policy Branch, Department of Industry, Science and Resources",
+      "party": "N/A",
+      "stance": "review"
     }
   ],
   "news": [
@@ -115,6 +157,34 @@
       "source": "eSafety Commissioner",
       "date": "2026-01-08",
       "url": "https://www.esafety.gov.au/newsroom/media-releases/new-industry-codes-seek-to-take-on-ai-chatbots-that-encourage-suicide-and-engage-in-sexually-explicit-conversations-with-aussie-kids"
+    },
+    {
+      "id": "australia-news-5",
+      "headline": "Stockland hyperscale data centre at Macquarie Park gets NSW approval",
+      "source": "w.media",
+      "date": "2026-02-18",
+      "url": "https://w.media/nsw-approves-stockland-data-centre-for-sydney-innovation-precinct/"
+    },
+    {
+      "id": "australia-news-6",
+      "headline": "Australia launches AI Safety Institute and releases National AI Plan",
+      "source": "Gadens",
+      "date": "2025-12-04",
+      "url": "https://www.gadens.com/legal-insights/australia-launches-ai-safety-institute-and-releases-national-ai-plan/"
+    },
+    {
+      "id": "australia-news-7",
+      "headline": "Southern Hemisphere's biggest data centre gets the green light",
+      "source": "NSW Government",
+      "date": "2026-01-30",
+      "url": "https://www.nsw.gov.au/ministerial-releases/southern-hemispheres-biggest-data-centre-gets-green-light"
+    },
+    {
+      "id": "australia-news-8",
+      "headline": "Australia Puts AI Data Centers on Notice With New Approval Rules",
+      "source": "Data Center Knowledge",
+      "date": "2026-03-24",
+      "url": "https://www.datacenterknowledge.com/regulations/australia-puts-ai-data-centers-on-notice-with-new-approval-rules"
     }
   ],
   "stanceDatacenter": "review",

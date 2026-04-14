@@ -53,6 +53,24 @@
       "updatedDate": "2026-01-13",
       "partyOrigin": "B",
       "sourceUrl": "https://strategicenergy.eu/spanish-energy-companies-gear-up-to-power-data-centres-12-gw-at-stake-and-over-e30-billion-in-investment/"
+    },
+    {
+      "id": "spain-msft-aragon-piga-2026",
+      "billCode": "PIGA MSFT Region",
+      "title": "Aragón General Interest Plan (PIGA) for Microsoft MSFT Region",
+      "summary": "The Government of Aragón approved the Plan of General Interest ('PIGA') for Microsoft's three-campus data-centre complex spanning La Muela, Villamayor de Gállego and Zaragoza — 283.79 ha total, with first-phase construction of €582 million starting in 2026. The approval mirrors similar 2026 DIGA grants to Azora/Tillion and Blackstone's 8-DC programme (Q2 2026).",
+      "stage": "Enacted",
+      "stance": "favorable",
+      "impactTags": [
+        "Microsoft",
+        "Aragon",
+        "PIGA",
+        "AWS-hub",
+        "hyperscale-campus"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-03-10",
+      "sourceUrl": "https://www.datacenterdynamics.com/en/news/microsoft-gets-initial-approval-for-data-center-campuses-in-arag%C3%B3n-spain/"
     }
   ],
   "keyFigures": [
@@ -75,8 +93,35 @@
       "name": "Mateo Valero",
       "role": "Director, Barcelona Supercomputing Center (BSC-CNS)",
       "party": "N/A",
-      "stance": "favorable",
-      "quote": "The AI Factory located at BSC will be a key pole for the promotion of the innovation ecosystem in artificial intelligence in Europe."
+      "stance": "favorable"
+    },
+    {
+      "id": "spain-gago",
+      "name": "Alberto Gago",
+      "role": "Director General, Spanish Agency for the Supervision of AI (AESIA)",
+      "party": "N/A",
+      "stance": "concerning"
+    },
+    {
+      "id": "spain-belda",
+      "name": "Ignasi Belda",
+      "role": "Founding Director, AESIA (2024–2025)",
+      "party": "N/A",
+      "stance": "concerning"
+    },
+    {
+      "id": "spain-sanchez",
+      "name": "Pedro Sánchez",
+      "role": "Prime Minister of Spain",
+      "party": "PSOE",
+      "stance": "concerning"
+    },
+    {
+      "id": "spain-aepd",
+      "name": "Mar España Martí",
+      "role": "Director, Spanish Data Protection Agency (AEPD)",
+      "party": "N/A",
+      "stance": "concerning"
     }
   ],
   "news": [
@@ -107,6 +152,27 @@
       "source": "Data Center Dynamics",
       "date": "2026-03-11",
       "url": "https://www.datacenterdynamics.com/en/news/amazon-invests-337-million-in-data-centers-in-aragon-for-ai/"
+    },
+    {
+      "id": "spain-news-5",
+      "headline": "Microsoft gets initial approval for data center campuses in Aragón, Spain",
+      "source": "Data Center Dynamics",
+      "date": "2026-03-10",
+      "url": "https://www.datacenterdynamics.com/en/news/microsoft-gets-initial-approval-for-data-center-campuses-in-arag%C3%B3n-spain/"
+    },
+    {
+      "id": "spain-news-6",
+      "headline": "Amazon to invest $21B more in Spain with focus on data centers",
+      "source": "SiliconANGLE",
+      "date": "2026-03-02",
+      "url": "https://siliconangle.com/2026/03/02/amazon-invest-another-21b-spain-focus-data-centers/"
+    },
+    {
+      "id": "spain-news-8",
+      "headline": "Blackstone doubles down on building cloud power in Spain",
+      "source": "Finimize",
+      "date": "2026-02-21",
+      "url": "https://finimize.com/content/blackstone-doubles-down-on-building-cloud-power-in-spain"
     }
   ],
   "stanceDatacenter": "favorable",

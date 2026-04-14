@@ -61,6 +61,57 @@
       "updatedDate": "2025-12-01",
       "partyOrigin": "B",
       "sourceUrl": "https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/factsheets/2025/launch-of-second-data-centre"
+    },
+    {
+      "id": "singapore-agentic-ai-framework-2026",
+      "billCode": "MAI-GOV-Agentic-2026",
+      "title": "Model AI Governance Framework for Agentic AI",
+      "summary": "Unveiled by IMDA on 22 January 2026 at the World Economic Forum, this world-first framework covers agentic AI systems capable of autonomous reasoning, planning and action. It guides deployers on technical and non-technical mitigations, with humans ultimately accountable — complementing the 2024 Generative AI framework.",
+      "stage": "Enacted",
+      "stance": "favorable",
+      "impactTags": [
+        "agentic-AI",
+        "voluntary-framework",
+        "human-accountability",
+        "WEF-launch"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-22",
+      "sourceUrl": "https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/press-releases/2026/new-model-ai-governance-framework-for-agentic-ai"
+    },
+    {
+      "id": "singapore-online-safety-bill-2026",
+      "billCode": "OSRA Bill",
+      "title": "Online Safety (Relief and Accountability) Bill 2026",
+      "summary": "Expected to lead to the launch of Singapore's Online Safety Commission in 2026, the Bill expands government powers to regulate AI-generated content on social media and messaging platforms, including new victim-relief mechanisms and accountability duties on platforms for synthetic harms.",
+      "stage": "Filed",
+      "stance": "concerning",
+      "impactTags": [
+        "Online-Safety-Commission",
+        "AI-content",
+        "platform-duties",
+        "victim-relief"
+      ],
+      "category": "synthetic-media",
+      "updatedDate": "2026-03-03",
+      "sourceUrl": "https://www.whitecase.com/insight-our-thinking/ai-watch-global-regulatory-tracker-singapore"
+    },
+    {
+      "id": "singapore-mas-ai-risk-guidelines-2026",
+      "billCode": "MAS AI Risk Guidelines",
+      "title": "MAS Guidelines on AI Risk Management for Financial Institutions",
+      "summary": "The Monetary Authority of Singapore is finalising binding Guidelines on AI Risk Management for financial institutions, expected in early 2026. The guidance will set a regional benchmark for central-bank oversight of AI — covering model governance, explainability, third-party risk and monitoring.",
+      "stage": "Filed",
+      "stance": "concerning",
+      "impactTags": [
+        "MAS",
+        "financial-AI",
+        "model-governance",
+        "third-party-risk"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-05",
+      "sourceUrl": "https://iclg.com/practice-areas/cybersecurity-laws-and-regulations/02-generative-ai-and-cyber-risk-in-singapore"
     }
   ],
   "keyFigures": [
@@ -69,22 +120,48 @@
       "name": "Josephine Teo",
       "role": "Minister for Digital Development and Information; Minister-in-Charge of Smart Nation and Cybersecurity",
       "party": "PAP",
-      "stance": "favorable",
-      "quote": "What we thought was meaningful for us to do as a nation was to consider how AI could be used for the public good."
+      "stance": "favorable"
     },
     {
       "id": "singapore-puthucheary",
       "name": "Janil Puthucheary",
       "role": "Senior Minister of State for Communications and Information",
       "party": "PAP",
-      "stance": "favorable",
-      "quote": "We are determined to turn these constraints into opportunities to innovate and capture value from the growth of sustainable data centres."
+      "stance": "favorable"
     },
     {
       "id": "singapore-wong",
       "name": "Lawrence Wong",
       "role": "Prime Minister and Minister for Finance",
       "party": "PAP",
+      "stance": "favorable"
+    },
+    {
+      "id": "singapore-tan-kiat",
+      "name": "Tan Kiat How",
+      "role": "Senior Minister of State, Ministry of Digital Development and Information",
+      "party": "PAP",
+      "stance": "favorable"
+    },
+    {
+      "id": "singapore-soh",
+      "name": "Soh Yi Da",
+      "role": "Assistant Chief Executive, Infocomm Media Development Authority (IMDA)",
+      "party": "N/A",
+      "stance": "review"
+    },
+    {
+      "id": "singapore-denise-wong",
+      "name": "Denise Wong",
+      "role": "Assistant Chief Executive (Data Innovation and Protection), IMDA; Deputy Commissioner, Personal Data Protection Commission (PDPC)",
+      "party": "N/A",
+      "stance": "review"
+    },
+    {
+      "id": "singapore-chia",
+      "name": "Aileen Chia",
+      "role": "Deputy Chief Executive (Connectivity Development and Regulation), IMDA",
+      "party": "N/A",
       "stance": "favorable"
     }
   ],
@@ -116,6 +193,34 @@
       "source": "Data Center Dynamics",
       "date": "2025-12-01",
       "url": "https://www.datacenterdynamics.com/en/news/singapore-opens-call-to-develop-200mw-of-data-center-capacity/"
+    },
+    {
+      "id": "singapore-news-5",
+      "headline": "Singapore launches new Model AI Governance Framework for Agentic AI",
+      "source": "IMDA",
+      "date": "2026-01-22",
+      "url": "https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/press-releases/2026/new-model-ai-governance-framework-for-agentic-ai"
+    },
+    {
+      "id": "singapore-news-6",
+      "headline": "Cybersecurity Laws 2026 — Generative AI and Cyber Risk in Singapore",
+      "source": "ICLG",
+      "date": "2026-02-05",
+      "url": "https://iclg.com/practice-areas/cybersecurity-laws-and-regulations/02-generative-ai-and-cyber-risk-in-singapore"
+    },
+    {
+      "id": "singapore-news-7",
+      "headline": "AI Watch: Global regulatory tracker — Singapore",
+      "source": "White & Case",
+      "date": "2026-03-03",
+      "url": "https://www.whitecase.com/insight-our-thinking/ai-watch-global-regulatory-tracker-singapore"
+    },
+    {
+      "id": "singapore-news-8",
+      "headline": "Singapore AI Regulation Overview — 2026 update",
+      "source": "Regulations.AI",
+      "date": "2026-01-28",
+      "url": "https://regulations.ai/regulations/RAI-SG-NA-SUMMARY-2026"
     }
   ],
   "stanceDatacenter": "favorable",

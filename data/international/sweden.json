@@ -61,6 +61,23 @@
       "updatedDate": "2026-03-03",
       "partyOrigin": "B",
       "sourceUrl": "https://riksdagsmonitor.com/news/2026-03-03-ai-facial-recognition-police-en.html"
+    },
+    {
+      "id": "sweden-ai-strategy-feb-2026",
+      "billCode": "National AI Strategy 2026",
+      "title": "Sweden's First Comprehensive AI Strategy (Feb 2026)",
+      "summary": "Adopted by the Swedish Government in February 2026, the first comprehensive national AI Strategy aligns Sweden with EU AI Act implementation while prioritising competitiveness, public-sector adoption, and workforce re-skilling. The Swedish Post- and Telecoms Authority (PTS) is proposed as the coordinating market-surveillance authority.",
+      "stage": "Enacted",
+      "stance": "favorable",
+      "impactTags": [
+        "national-AI-strategy",
+        "PTS-coordinator",
+        "AI-Act-alignment",
+        "public-sector"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-11",
+      "sourceUrl": "https://www.government.se/articles/2026/02/swedens-ai-strategy-in-five-minutes/"
     }
   ],
   "keyFigures": [
@@ -69,22 +86,48 @@
       "name": "Erik Slottner",
       "role": "Minister for Public Administration, Ministry of Finance",
       "party": "KD",
-      "stance": "favorable",
-      "quote": "Sweden aims to be a leader in AI, which is why it's important that we take a comprehensive approach to AI issues."
+      "stance": "favorable"
     },
     {
       "id": "sweden-stromme",
       "name": "Gunnar Strömmer",
       "role": "Minister for Justice",
       "party": "M",
-      "stance": "favorable",
-      "quote": "To push back gang crime and restore security in society, the police must have access to effective tools."
+      "stance": "favorable"
     },
     {
       "id": "sweden-kristersson",
       "name": "Ulf Kristersson",
       "role": "Prime Minister of Sweden",
       "party": "M",
+      "stance": "favorable"
+    },
+    {
+      "id": "sweden-svanberg",
+      "name": "Carl-Henric Svanberg",
+      "role": "Chair, Swedish AI Commission (former CEO of Ericsson, Chair of Volvo)",
+      "party": "N/A",
+      "stance": "favorable"
+    },
+    {
+      "id": "sweden-sundin",
+      "name": "Mathias Sundin",
+      "role": "Member, Swedish AI Commission; former Riksdag member",
+      "party": "L (Liberals)",
+      "stance": "favorable"
+    },
+    {
+      "id": "sweden-enarsson",
+      "name": "Maria Rankka",
+      "role": "Member, Swedish AI Commission",
+      "party": "N/A",
+      "stance": "favorable"
+    },
+    {
+      "id": "sweden-busch",
+      "name": "Ebba Busch",
+      "role": "Minister for Energy, Business and Industry; Deputy Prime Minister",
+      "party": "KD (Christian Democrats)",
       "stance": "favorable"
     }
   ],
@@ -116,6 +159,27 @@
       "source": "Setterwalls",
       "date": "2025-11-24",
       "url": "https://setterwalls.se/en/article/a-brief-update-on-swedens-adaptations-to-the-ai-act-sou-2025101-2/"
+    },
+    {
+      "id": "sweden-news-5",
+      "headline": "Sweden's AI Strategy in five minutes",
+      "source": "Government of Sweden",
+      "date": "2026-02-11",
+      "url": "https://www.government.se/articles/2026/02/swedens-ai-strategy-in-five-minutes/"
+    },
+    {
+      "id": "sweden-news-7",
+      "headline": "State of AI in Sweden 2026",
+      "source": "Alice Labs",
+      "date": "2026-02-28",
+      "url": "https://alicelabs.ai/reports/state-of-ai-sweden-2026"
+    },
+    {
+      "id": "sweden-news-8",
+      "headline": "Top upcoming data centers in Sweden 2026",
+      "source": "BlackRidge Research",
+      "date": "2026-03-18",
+      "url": "https://www.blackridgeresearch.com/blog/latest-list-of-top-upcoming-data-centers-in-sweden-europe-nordics"
     }
   ],
   "stanceDatacenter": "favorable",
