@@ -1,0 +1,419 @@
+{
+  "generatedAt": "2026-04-13T20:52:27.217Z",
+  "politicians": [
+    {
+      "id": "eu-benifei",
+      "name": "Brando Benifei",
+      "role": "MEP · AI Act Co-Rapporteur (IMCO)",
+      "party": "S&D",
+      "nationalParty": "Partito Democratico",
+      "stance": "restrictive",
+      "country": "EU",
+      "chamber": "ep",
+      "constituency": "Italy",
+      "summary": "Co-rapporteur for the AI Act in the IMCO committee, Benifei co-led negotiations from 2022 through the December 2023 trilogue deal and the March 2024 final plenary vote. He championed a ban on real-time biometric identification in public spaces and pushed for stronger rules on foundation models and generative AI.",
+      "keyPoints": [
+        "Co-rapporteur (IMCO) for AI Act alongside Tudorache; unveiled joint draft report April 2022.",
+        "Pushed to extend biometric surveillance ban; resisted industry lobbying to weaken it during trilogue.",
+        "Advocated for expanded regulation of general-purpose AI and foundation models such as GPT.",
+        "Stated AI Act is 'world's first binding law on artificial intelligence' after March 2024 final plenary vote."
+      ],
+      "votes": [
+        {
+          "billId": "eu-ai-act",
+          "billCode": "2021/0106(COD) — Regulation (EU) 2024/1689",
+          "voteDate": "2023-06-14",
+          "position": "yea",
+          "sourceUrl": "https://www.europarl.europa.eu/news/en/press-room/20230609IPR96212/meps-ready-to-negotiate-first-ever-rules-for-safe-and-transparent-ai"
+        },
+        {
+          "billId": "eu-ai-act-final",
+          "billCode": "2021/0106(COD) — Final adoption",
+          "voteDate": "2024-03-13",
+          "position": "yea",
+          "sourceUrl": "https://www.europarl.europa.eu/news/en/press-room/20240308IPR19015/artificial-intelligence-act-meps-adopt-landmark-law"
+        }
+      ]
+    },
+    {
+      "id": "eu-tudorache",
+      "name": "Dragoș Tudorache",
+      "role": "MEP · AI Act Co-Rapporteur (LIBE)",
+      "party": "Renew",
+      "nationalParty": "Uniunea Salvați România (USR)",
+      "stance": "favorable",
+      "country": "EU",
+      "chamber": "ep",
+      "constituency": "Romania",
+      "summary": "Co-rapporteur for the AI Act in the LIBE committee, Tudorache co-led all parliamentary negotiations and trilogue talks, steering the risk-based framework and pushing for a centralized EU-level AI Office with an independent secretariat. He was jointly awarded MEP of the Mandate in 2024 for this work.",
+      "keyPoints": [
+        "Co-rapporteur (LIBE) for AI Act; co-led trilogue negotiations culminating in December 2023 deal.",
+        "Championed OECD-aligned AI definition to ensure 80–90% of AI activities remain unregulated.",
+        "Advocated for EU AI Office with reinforced secretariat for centralized enforcement.",
+        "Called for bottom-up standard-setting to ensure AI developers have input into technical standards."
+      ],
+      "votes": [
+        {
+          "billId": "eu-ai-act",
+          "billCode": "2021/0106(COD) — Parliament negotiating mandate",
+          "voteDate": "2023-06-14",
+          "position": "yea",
+          "sourceUrl": "https://www.europarl.europa.eu/news/en/press-room/20230609IPR96212/meps-ready-to-negotiate-first-ever-rules-for-safe-and-transparent-ai"
+        },
+        {
+          "billId": "eu-ai-act-final",
+          "billCode": "2021/0106(COD) — Final adoption",
+          "voteDate": "2024-03-13",
+          "position": "yea",
+          "sourceUrl": "https://www.europarl.europa.eu/news/en/press-room/20240308IPR19015/artificial-intelligence-act-meps-adopt-landmark-law"
+        }
+      ]
+    },
+    {
+      "id": "eu-voss",
+      "name": "Axel Voss",
+      "role": "MEP · AI Act JURI Rapporteur & LIBE EPP Shadow",
+      "party": "EPP",
+      "nationalParty": "CDU",
+      "stance": "review",
+      "country": "EU",
+      "chamber": "ep",
+      "constituency": "Germany",
+      "summary": "Rapporteur for the JURI committee's AI Act opinion (4 exclusive articles including transparency and human oversight) and EPP shadow rapporteur in LIBE, making him the third most influential MEP on the file. He pushed to narrow the definition of 'high-risk' AI, align the AI definition with OECD standards, and called for a stronger civil liability framework for AI.",
+      "keyPoints": [
+        "JURI rapporteur with exclusive competences on AI Act Articles 13, 14, 52, and 69 (transparency, human oversight, codes of conduct).",
+        "Advocated for a narrower definition of 'high-risk' AI, arguing the Commission's scope was too broad.",
+        "Pushed alongside Eva Maydell to exclude general-purpose AI from high-risk categories.",
+        "As EPP LIBE shadow, queried transparency of AI Office recruitment process post-adoption in 2024."
+      ],
+      "votes": [
+        {
+          "billId": "eu-ai-act-final",
+          "billCode": "2021/0106(COD) — Final adoption",
+          "voteDate": "2024-03-13",
+          "position": "yea",
+          "sourceUrl": "https://www.europarl.europa.eu/doceo/document/A-9-2023-0188_EN.html"
+        }
+      ]
+    },
+    {
+      "id": "eu-maydell",
+      "name": "Eva Maydell",
+      "role": "MEP · AI Act ITRE Rapporteur",
+      "party": "EPP",
+      "nationalParty": "GERB",
+      "stance": "favorable",
+      "country": "EU",
+      "chamber": "ep",
+      "constituency": "Bulgaria",
+      "summary": "Rapporteur for the ITRE committee's opinion on the AI Act, with exclusive competences on Articles 15 (accuracy, robustness, cybersecurity) and 55 (measures for small-scale providers). She pushed for OECD-aligned AI definition, exclusion of general-purpose AI from high-risk categories, and creation of a European Benchmarking Institute and regulatory sandboxes to protect SMEs.",
+      "keyPoints": [
+        "ITRE rapporteur with exclusive competence over AI Act Articles 15 and 55 covering SME support measures.",
+        "Proposed creation of an EU AI Regulatory Sandboxing Programme specifically for start-ups.",
+        "Pushed for a European Benchmarking Institute to create standardised EU metrics for AI accuracy.",
+        "Called for OECD-aligned definition of AI to ensure international compatibility and prevent regulatory overlap."
+      ],
+      "votes": [
+        {
+          "billId": "eu-ai-act-final",
+          "billCode": "2021/0106(COD) — Final adoption",
+          "voteDate": "2024-03-13",
+          "position": "yea",
+          "sourceUrl": "https://www.europarl.europa.eu/doceo/document/A-9-2023-0188_EN.html"
+        }
+      ]
+    },
+    {
+      "id": "eu-hahn",
+      "name": "Svenja Hahn",
+      "role": "MEP · AI Act IMCO Shadow Rapporteur (Renew)",
+      "party": "Renew",
+      "nationalParty": "FDP",
+      "stance": "favorable",
+      "country": "EU",
+      "chamber": "ep",
+      "constituency": "Germany",
+      "summary": "Renew Europe's shadow rapporteur in the IMCO committee for the AI Act, Hahn successfully fought to prevent blanket high-risk classification of general-purpose AI (GPAI) and to create a two-tier compliance model. She abstained in the May 2023 committee vote, citing residual concerns about GPAI rules being overly burdensome for European companies.",
+      "keyPoints": [
+        "Secured prevention of blanket high-risk GPAI classification; pushed two-tier model for foundation models.",
+        "Abstained in May 2023 IMCO committee vote citing GPAI rules still too burdensome for EU companies.",
+        "Pushed strongly for regulatory sandboxes and exclusion of R&D from AI Act scope.",
+        "In 38-hour trilogue, helped prevent biometric mass surveillance while failing to achieve full real-time RBI ban."
+      ],
+      "votes": [
+        {
+          "billId": "eu-ai-act-committee",
+          "billCode": "2021/0106(COD) — IMCO committee vote",
+          "voteDate": "2023-05-11",
+          "position": "abstain",
+          "sourceUrl": "https://www.svenja-hahn.eu/post/ai-act-svenja-hahn-on-the-vote-in-committee"
+        },
+        {
+          "billId": "eu-ai-act-final",
+          "billCode": "2021/0106(COD) — Final adoption",
+          "voteDate": "2024-03-13",
+          "position": "yea",
+          "sourceUrl": "https://www.europarl.europa.eu/news/en/press-room/20240308IPR19015/artificial-intelligence-act-meps-adopt-landmark-law"
+        }
+      ]
+    },
+    {
+      "id": "eu-van-sparrentak",
+      "name": "Kim van Sparrentak",
+      "role": "MEP · AI Act IMCO Shadow Rapporteur (Greens/EFA)",
+      "party": "Greens/EFA",
+      "nationalParty": "GroenLinks",
+      "stance": "restrictive",
+      "country": "EU",
+      "chamber": "ep",
+      "constituency": "Netherlands",
+      "summary": "Greens/EFA shadow rapporteur in the IMCO committee for the AI Act, van Sparrentak campaigned for a total ban on biometric mass surveillance and led Greens' anti-facial-recognition campaign. She welcomed the final text as a historic milestone but noted the protections against facial recognition could have been more robust.",
+      "keyPoints": [
+        "Greens/EFA IMCO shadow rapporteur; led campaign for full ban on biometric mass surveillance in public spaces.",
+        "Voted against allowing real-time face recognition during June 2023 AI Act plenary vote.",
+        "Queried AI Office leadership recruitment transparency alongside Voss and Hahn post-adoption.",
+        "Fought expanded biometric categorisation prohibitions and mandatory fundamental rights impact assessments."
+      ],
+      "votes": [
+        {
+          "billId": "eu-ai-act",
+          "billCode": "2021/0106(COD) — Parliament negotiating mandate",
+          "voteDate": "2023-06-14",
+          "position": "yea",
+          "sourceUrl": "https://www.greens-efa.eu/en/article/press/ai-act-greens-efa-group-welcomes-historic-step-towards-ethical-ai-governance"
+        },
+        {
+          "billId": "eu-ai-act-final",
+          "billCode": "2021/0106(COD) — Final adoption",
+          "voteDate": "2024-03-13",
+          "position": "yea",
+          "sourceUrl": "https://www.greens-efa.eu/en/article/press/ai-act-greens-efa-group-welcomes-historic-step-towards-ethical-ai-governance"
+        }
+      ]
+    },
+    {
+      "id": "eu-lagodinsky",
+      "name": "Sergey Lagodinsky",
+      "role": "MEP · AI Act LIBE Shadow Rapporteur (Greens/EFA); AI Omnibus JURI Rapporteur",
+      "party": "Greens/EFA",
+      "nationalParty": "Bündnis 90/Die Grünen",
+      "stance": "restrictive",
+      "country": "EU",
+      "chamber": "ep",
+      "constituency": "Germany",
+      "summary": "LIBE shadow rapporteur for the AI Act and rapporteur for the JURI committee's AI Omnibus opinion (2025–2026), Lagodinsky pushed for AI Act prohibitions as a global model and strongly criticised the AI Omnibus's high-risk deadline extensions as creating 'loopholes' and perverse incentives to rush risky systems to market before obligations kick in.",
+      "keyPoints": [
+        "Greens LIBE shadow rapporteur on AI Act; ensured bans on emotion surveillance and predictive policing.",
+        "JURI rapporteur for AI Omnibus opinion; proposed adding explicit Article 5 ban on non-consensual nudifiers.",
+        "Called AI Omnibus deadline extension 'a loophole' creating incentives to market high-risk AI pre-2027.",
+        "Championed AI Act Article 5 prohibitions as global standard, citing Council of Europe 2024 AI convention."
+      ],
+      "votes": [
+        {
+          "billId": "eu-ai-act-final",
+          "billCode": "2021/0106(COD) — Final adoption",
+          "voteDate": "2024-03-13",
+          "position": "yea",
+          "sourceUrl": "https://www.greens-efa.eu/en/article/press/ai-act-greens-efa-group-welcomes-historic-step-towards-ethical-ai-governance"
+        },
+        {
+          "billId": "eu-ai-omnibus-committee",
+          "billCode": "2025/0359(COD) — IMCO-LIBE joint committee vote",
+          "voteDate": "2026-03-18",
+          "position": "yea",
+          "sourceUrl": "https://www.europarl.europa.eu/news/en/press-room/20260316IPR38219/meps-support-postponement-of-certain-rules-on-artificial-intelligence"
+        }
+      ]
+    },
+    {
+      "id": "eu-mcnamara",
+      "name": "Michael McNamara",
+      "role": "MEP · AI Omnibus Co-Rapporteur (LIBE/IMCO)",
+      "party": "Renew",
+      "nationalParty": "Fianna Fáil",
+      "stance": "review",
+      "country": "EU",
+      "chamber": "ep",
+      "constituency": "Ireland",
+      "summary": "Appointed in January 2026 as co-rapporteur (with Arba Kokalari, EPP) for the Digital Omnibus on AI amending the AI Act, McNamara co-authored the IMCO-LIBE draft report published 5 February 2026. He introduced fixed statutory deadlines (replacing the Commission's discretionary mechanism) for high-risk AI compliance and championed an Article 5 ban on AI-generated non-consensual intimate images (nudifiers).",
+      "keyPoints": [
+        "Co-rapporteur for AI Omnibus (2025/0359(COD)); co-authored IMCO-LIBE draft report of 5 February 2026.",
+        "Replaced Commission's discretionary deadline mechanism with fixed statutory date of 2 December 2027 for high-risk AI.",
+        "Introduced new prohibition on 'nudifier' AI systems as Article 5 banned practice.",
+        "Co-chairs AI Act implementation working group; warned against amendments that weaken core safeguards."
+      ],
+      "votes": [
+        {
+          "billId": "eu-ai-omnibus-committee",
+          "billCode": "2025/0359(COD) — IMCO-LIBE joint committee vote",
+          "voteDate": "2026-03-18",
+          "position": "yea",
+          "sourceUrl": "https://www.europarl.europa.eu/news/en/press-room/20260316IPR38219/meps-support-postponement-of-certain-rules-on-artificial-intelligence"
+        },
+        {
+          "billId": "eu-ai-omnibus-plenary",
+          "billCode": "2025/0359(COD) — EP plenary mandate vote",
+          "voteDate": "2026-03-26",
+          "position": "yea",
+          "sourceUrl": "https://www.europarl.europa.eu/legislative-train/package-digital-package/file-digital-omnibus-on-ai"
+        }
+      ]
+    },
+    {
+      "id": "eu-kokalari",
+      "name": "Arba Kokalari",
+      "role": "MEP · AI Omnibus Co-Rapporteur (IMCO)",
+      "party": "EPP",
+      "nationalParty": "Moderaterna",
+      "stance": "favorable",
+      "country": "EU",
+      "chamber": "ep",
+      "constituency": "Sweden",
+      "summary": "Co-rapporteur (with Michael McNamara) for the Digital Omnibus on AI in the IMCO committee, Kokalari co-authored the February 2026 draft report. She shared the goal of simplifying AI Act implementation while ensuring fixed, legally certain deadlines over the Commission's more flexible discretionary approach, and supported industry-friendly provisions for small mid-cap enterprises.",
+      "keyPoints": [
+        "Co-rapporteur for AI Omnibus IMCO-LIBE joint report (PE782.530); co-signed draft report 5 February 2026.",
+        "Backed fixed statutory deadlines over Commission's rolling discretionary mechanism for high-risk systems.",
+        "Supported extension of SME-style support measures to small mid-cap enterprises scaling beyond SME thresholds.",
+        "Backed nuanced sectoral product legislation carve-outs to prevent duplicative requirements on AI in regulated products."
+      ],
+      "votes": [
+        {
+          "billId": "eu-ai-omnibus-committee",
+          "billCode": "2025/0359(COD) — IMCO-LIBE joint committee vote",
+          "voteDate": "2026-03-18",
+          "position": "yea",
+          "sourceUrl": "https://www.europarl.europa.eu/news/en/press-room/20260316IPR38219/meps-support-postponement-of-certain-rules-on-artificial-intelligence"
+        },
+        {
+          "billId": "eu-ai-omnibus-plenary",
+          "billCode": "2025/0359(COD) — EP plenary mandate vote",
+          "voteDate": "2026-03-26",
+          "position": "yea",
+          "sourceUrl": "https://www.europarl.europa.eu/legislative-train/package-digital-package/file-digital-omnibus-on-ai"
+        }
+      ]
+    },
+    {
+      "id": "eu-fuglsang",
+      "name": "Niels Fuglsang",
+      "role": "MEP · EED Recast Rapporteur (ITRE), including Article 12 data centres",
+      "party": "S&D",
+      "nationalParty": "Socialdemokraterne",
+      "stance": "restrictive",
+      "country": "EU",
+      "chamber": "ep",
+      "constituency": "Denmark",
+      "summary": "ITRE rapporteur for the recast Energy Efficiency Directive (EED), Fuglsang drove a landmark compromise that included Article 12, which introduced mandatory annual energy-performance reporting obligations for data centres with IT power demand above 500 kW. He pushed for a more ambitious 19% binding efficiency target (exceeding the Commission's proposal) and secured cross-group support from EPP, S&D, Renew, and Greens.",
+      "keyPoints": [
+        "ITRE rapporteur for EED recast (2021/0203(COD)); personally drafted Article 12 data-centre reporting regime.",
+        "Secured cross-party compromise (EPP, S&D, Renew, Greens) in ITRE on 13 July 2022; plenary adopted September 2022.",
+        "Pushed 19% binding EU energy efficiency target, significantly more ambitious than Commission's original proposal.",
+        "Article 12 he shepherded now requires 500 kW+ data centres to report PUE, water usage, and renewable energy annually."
+      ],
+      "votes": [
+        {
+          "billId": "eu-eed-recast-itre",
+          "billCode": "2021/0203(COD) — ITRE committee vote",
+          "voteDate": "2022-07-13",
+          "position": "yea",
+          "sourceUrl": "https://www.europarl.europa.eu/news/en/press-room/20220711IPR35006/meps-back-boost-for-renewables-use-and-energy-savings"
+        },
+        {
+          "billId": "eu-eed-recast-plenary",
+          "billCode": "2021/0203(COD) — EP plenary position",
+          "voteDate": "2022-09-14",
+          "position": "yea",
+          "sourceUrl": "https://www.europarl.europa.eu/news/en/press-room/20220909IPR40134/"
+        },
+        {
+          "billId": "eu-eed-recast-final",
+          "billCode": "Directive (EU) 2023/1791 — Final adoption",
+          "voteDate": "2023-07-11",
+          "position": "yea",
+          "sourceUrl": "https://www.europarl.europa.eu/legislative-train/theme-a-european-green-deal/file-revision-of-the-energy-efficiency-directive"
+        }
+      ]
+    },
+    {
+      "id": "eu-berendsen",
+      "name": "Tom Berendsen",
+      "role": "MEP · EED Recast EPP Shadow Rapporteur (ITRE)",
+      "party": "EPP",
+      "nationalParty": "CDA",
+      "stance": "review",
+      "country": "EU",
+      "chamber": "ep",
+      "constituency": "Netherlands",
+      "summary": "EPP shadow rapporteur in ITRE on the EED recast, Berendsen participated in the opening plenary debate alongside rapporteur Fuglsang. He represented EPP's more cautious position on binding national efficiency sub-targets while supporting the overall legislative ambition, reflecting his group's role in the cross-party compromise that secured the final text including Article 12.",
+      "keyPoints": [
+        "EPP ITRE shadow rapporteur on EED recast; made opening statement in September 2022 plenary debate.",
+        "Represented EPP in ITRE compromise covering Articles 1–1190, backed by EPP, S&D, Renew, and Greens.",
+        "Supported binding EU-level efficiency targets while EPP was more cautious on binding national sub-targets.",
+        "Participated in trilogue oversight that produced Article 12 data-centre mandatory reporting under Directive (EU) 2023/1791."
+      ],
+      "votes": [
+        {
+          "billId": "eu-eed-recast-plenary",
+          "billCode": "2021/0203(COD) — EP plenary position",
+          "voteDate": "2022-09-14",
+          "position": "yea",
+          "sourceUrl": "https://multimedia.europarl.europa.eu/en/video/energy-efficiency-recast-opening-statements-by-niels-fuglsang-sd-dk-rapporteur-kadri-simson-eu-commissioner-for-energy-ville-niinisto-greensefa-fi-tom-berendsen-epp-nl-and-by-diana-riba-i-giner-greensefa-es_I229617"
+        }
+      ]
+    },
+    {
+      "id": "eu-niinisto",
+      "name": "Ville Niinistö",
+      "role": "MEP · EED Recast Greens/EFA Spokesperson (ITRE)",
+      "party": "Greens/EFA",
+      "nationalParty": "Vihreä liitto (Green League)",
+      "stance": "restrictive",
+      "country": "EU",
+      "chamber": "ep",
+      "constituency": "Finland",
+      "summary": "Greens/EFA spokesperson in the ITRE plenary debate on the EED recast, Niinistö supported an even higher binding efficiency ambition than Fuglsang's already elevated target, reflecting the Greens' consistent push for at least 45% reduction. His group co-signed the final ITRE compromise amendment, giving the cross-party coalition that carried Article 12 data-centre provisions its majority.",
+      "keyPoints": [
+        "Greens/EFA ITRE speaker in September 2022 EED plenary debate, advocating for highest binding efficiency targets.",
+        "Co-signed the four-party ITRE compromise amendment (EPP, S&D, Renew, Greens) covering the full EED text.",
+        "Backed Fuglsang's ambition for binding national contributions under Article 4 alongside data-centre Article 12.",
+        "Part of Greens push for minimum performance standards for data centres to follow Article 12 reporting regime."
+      ],
+      "votes": [
+        {
+          "billId": "eu-eed-recast-plenary",
+          "billCode": "2021/0203(COD) — EP plenary position",
+          "voteDate": "2022-09-14",
+          "position": "yea",
+          "sourceUrl": "https://multimedia.europarl.europa.eu/en/video/energy-efficiency-recast-opening-statements-by-niels-fuglsang-sd-dk-rapporteur-kadri-simson-eu-commissioner-for-energy-ville-niinisto-greensefa-fi-tom-berendsen-epp-nl-and-by-diana-riba-i-giner-greensefa-es_I229617"
+        }
+      ]
+    },
+    {
+      "id": "eu-kanko",
+      "name": "Assita Kanko",
+      "role": "MEP · ECR Coordinator, LIBE Committee",
+      "party": "ECR",
+      "nationalParty": "Nieuw-Vlaamse Alliantie (N-VA)",
+      "stance": "review",
+      "country": "EU",
+      "chamber": "ep",
+      "constituency": "Belgium",
+      "summary": "ECR coordinator in the LIBE committee, Kanko is serving as shadow rapporteur for the AI Omnibus (Digital Omnibus on AI, 2025/0359(COD)) in the current parliamentary term. Her ECR group's approach generally supports more flexible, innovation-friendly AI rules while maintaining core law-enforcement exemptions.",
+      "keyPoints": [
+        "ECR LIBE coordinator; designated shadow rapporteur for AI Omnibus (A10-0073/2026) in current 2024–2029 mandate.",
+        "Part of LIBE deliberations on AI Omnibus simplification of high-risk compliance deadlines.",
+        "ECR's position balances reduced regulatory burden with support for law-enforcement AI carve-outs.",
+        "Re-elected MEP in 2024; brings LIBE security/civil-liberties lens to AI Act implementation debates."
+      ],
+      "votes": [
+        {
+          "billId": "eu-ai-omnibus-committee",
+          "billCode": "2025/0359(COD) — IMCO-LIBE joint committee vote",
+          "voteDate": "2026-03-18",
+          "position": "yea",
+          "sourceUrl": "https://www.europarl.europa.eu/meps/en/197469/ASSITA_KANKO/home"
+        }
+      ]
+    }
+  ]
+}

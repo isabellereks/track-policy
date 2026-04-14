@@ -10,7 +10,6 @@
       "Rules"
     ],
     "stance": "review",
-    "quote": "Master tactician and media-savvy Democratic leader who loves the spotlight",
     "techRegScore": 0.35,
     "lobbying": {
       "topIndustries": [
@@ -39,7 +38,6 @@
       "Rules"
     ],
     "stance": "favorable",
-    "quote": "Master tactician and institutional conservative focused on judicial appointments",
     "techRegScore": 0.63,
     "lobbying": {
       "topIndustries": [
@@ -69,7 +67,6 @@
       "Agriculture"
     ],
     "stance": "review",
-    "quote": "Pragmatic conservative leader who can work across the aisle when needed",
     "techRegScore": 0.68,
     "lobbying": {
       "topIndustries": [
@@ -100,7 +97,6 @@
       "Small Business"
     ],
     "stance": "review",
-    "quote": "Tech industry veteran focused on commerce and energy policy",
     "techRegScore": 0.3,
     "lobbying": {
       "topIndustries": [
@@ -131,7 +127,6 @@
       "Rules"
     ],
     "stance": "favorable",
-    "quote": "Fiery conservative rhetoric, presidential ambitions, and contentious relationships with colleagues",
     "techRegScore": 0.8,
     "lobbying": {
       "topIndustries": [
@@ -163,7 +158,6 @@
       "Rules"
     ],
     "stance": "review",
-    "quote": "Tech-savvy dealmaker who bridges Democrats and business community",
     "techRegScore": 0.45,
     "lobbying": {
       "topIndustries": [
@@ -194,7 +188,6 @@
       "Agriculture"
     ],
     "stance": "review",
-    "quote": "Practical Midwestern moderate known for bipartisan dealmaking and anti-monopoly work",
     "techRegScore": 0.2,
     "lobbying": {
       "topIndustries": [
@@ -225,7 +218,6 @@
       "Small Business"
     ],
     "stance": "favorable",
-    "quote": "National conservative star who challenges Big Tech while championing working-class populism",
     "techRegScore": 0.82,
     "lobbying": {
       "topIndustries": [
@@ -256,7 +248,6 @@
       "Environment"
     ],
     "stance": "review",
-    "quote": "Charismatic progressive advocate focused on criminal justice reform and social equity",
     "techRegScore": 0.35,
     "lobbying": {
       "topIndustries": [
@@ -287,7 +278,6 @@
       "Small Business"
     ],
     "stance": "review",
-    "quote": "Foreign policy hawk and innovation advocate who emphasizes America's technological competitiveness with China",
     "techRegScore": 0.55,
     "lobbying": {
       "topIndustries": [
@@ -318,7 +308,6 @@
       "Veterans Affairs"
     ],
     "stance": "review",
-    "quote": "Conservative firebrand who rose from Tennessee state legislature to become Trump ally",
     "techRegScore": 0.75,
     "lobbying": {
       "topIndustries": [
@@ -349,7 +338,6 @@
       "Veterans Affairs"
     ],
     "stance": "review",
-    "quote": "Democratic socialist focused on economic inequality and Medicare for All",
     "techRegScore": 0.15,
     "lobbying": {
       "topIndustries": [
@@ -379,7 +367,6 @@
       "Armed Services"
     ],
     "stance": "none",
-    "quote": "Aggressive questioning of bank CEOs and corporate accountability crusade",
     "techRegScore": 0.15,
     "lobbying": {
       "topIndustries": [
@@ -410,7 +397,6 @@
       "HELP"
     ],
     "stance": "review",
-    "quote": "Most independent Republican willing to break from party on key votes",
     "techRegScore": 0.58,
     "lobbying": {
       "topIndustries": [
@@ -436,7 +422,6 @@
     "chamber": "house",
     "committees": [],
     "stance": "review",
-    "quote": "Eloquent speaker leading House Democrats with prosecutorial precision",
     "techRegScore": 0.65,
     "lobbying": {
       "topIndustries": [
@@ -461,7 +446,6 @@
     "chamber": "house",
     "committees": [],
     "stance": "review",
-    "quote": "Constitutional lawyer who rose quickly to Speaker through institutional loyalty",
     "techRegScore": 0.75,
     "lobbying": {
       "topIndustries": [
@@ -488,7 +472,6 @@
       "Energy and Commerce"
     ],
     "stance": "review",
-    "quote": "Survivor of 2017 congressional baseball shooting who became a unifying figure",
     "techRegScore": 0.68,
     "lobbying": {
       "topIndustries": [
@@ -539,7 +522,6 @@
       "Judiciary"
     ],
     "stance": "favorable",
-    "quote": "Aggressive questioner who became Trump's fiercest defender in Congress",
     "techRegScore": 0.82,
     "lobbying": {
       "topIndustries": [
@@ -567,7 +549,6 @@
       "Budget"
     ],
     "stance": "review",
-    "quote": "Strategic progressive leader who builds coalitions",
     "techRegScore": 0.2,
     "lobbying": {
       "topIndustries": [
@@ -595,7 +576,6 @@
       "Oversight"
     ],
     "stance": "none",
-    "quote": "Tech-savvy progressive who bridges Silicon Valley and populism",
     "techRegScore": 0.35,
     "lobbying": {
       "topIndustries": [
@@ -647,7 +627,6 @@
       "Financial Services"
     ],
     "stance": "concerning",
-    "quote": "Social media-savvy democratic socialist championing Green New Deal",
     "techRegScore": 0.85,
     "lobbying": {
       "topIndustries": [
@@ -773,7 +752,6 @@
       "Budget"
     ],
     "stance": "review",
-    "quote": "Folksy Iowa farmer who asks tough questions and champions government oversight",
     "techRegScore": 0.72,
     "lobbying": {
       "topIndustries": [
@@ -803,7 +781,6 @@
       "Indian Affairs"
     ],
     "stance": "review",
-    "quote": "Fierce defender of fossil fuel industry and opponent of climate regulations",
     "techRegScore": 0.71,
     "lobbying": {
       "topIndustries": [
@@ -952,7 +929,6 @@
       "Homeland Security"
     ],
     "stance": "favorable",
-    "quote": "Inflammatory rhetoric and conspiracy theories, MAGA movement champion",
     "techRegScore": 0.8,
     "lobbying": {
       "topIndustries": [
@@ -1030,7 +1006,6 @@
       "Joint Economic"
     ],
     "stance": "favorable",
-    "quote": "Constitutional scholar and strict constructionist with libertarian leanings",
     "techRegScore": 0.78,
     "lobbying": {
       "topIndustries": [
@@ -1061,7 +1036,6 @@
       "Judiciary"
     ],
     "stance": "favorable",
-    "quote": "Colorful Louisiana lawyer known for folksy one-liners and sharp questioning in hearings",
     "techRegScore": 0.78,
     "lobbying": {
       "topIndustries": [
@@ -1258,7 +1232,6 @@
       "Environment"
     ],
     "stance": "favorable",
-    "quote": "Rancher-senator who champions cryptocurrency, opposes climate regulations, and defends Wyoming's energy economy",
     "techRegScore": 0.76,
     "lobbying": {
       "topIndustries": [
@@ -1288,7 +1261,6 @@
       "Homeland Security"
     ],
     "stance": "favorable",
-    "quote": "Former Florida Attorney General with strong law enforcement credentials",
     "techRegScore": 0.76,
     "lobbying": {
       "topIndustries": [
@@ -1318,7 +1290,6 @@
       "Budget"
     ],
     "stance": "review",
-    "quote": "Foreign policy hawk who loves media attention and dramatic statements",
     "techRegScore": 0.75,
     "lobbying": {
       "topIndustries": [
@@ -1349,7 +1320,6 @@
       "Foreign Relations"
     ],
     "stance": "review",
-    "quote": "Controversial statements and conspiracy theory promotion, fierce government spending critic",
     "techRegScore": 0.75,
     "lobbying": {
       "topIndustries": [
@@ -1380,7 +1350,6 @@
       "Joint Economic"
     ],
     "stance": "review",
-    "quote": "Former Attorney General known for fighting Big Tech and federal overreach",
     "techRegScore": 0.75,
     "lobbying": {
       "topIndustries": [
@@ -1745,7 +1714,6 @@
       "Foreign Relations"
     ],
     "stance": "review",
-    "quote": "Wealthy former governor who brings business background to conservative politics",
     "techRegScore": 0.73,
     "lobbying": {
       "topIndustries": [
@@ -1775,7 +1743,6 @@
       "Agriculture"
     ],
     "stance": "review",
-    "quote": "Rancher-turned-senator focused on agriculture and rural issues",
     "techRegScore": 0.73,
     "lobbying": {
       "topIndustries": [
@@ -1853,7 +1820,6 @@
       "Judiciary"
     ],
     "stance": "review",
-    "quote": "The most hawkish foreign policy voice in the Senate",
     "techRegScore": 0.72,
     "lobbying": {
       "topIndustries": [
@@ -1884,7 +1850,6 @@
       "Indian Affairs"
     ],
     "stance": "review",
-    "quote": "Former tech executive who champions Montana's outdoor recreation economy and energy independence",
     "techRegScore": 0.72,
     "lobbying": {
       "topIndustries": [
@@ -1915,7 +1880,6 @@
       "Budget"
     ],
     "stance": "review",
-    "quote": "Senior Finance Committee member focused on tax policy and financial regulation",
     "techRegScore": 0.72,
     "lobbying": {
       "topIndustries": [
@@ -2111,7 +2075,6 @@
       "Homeland Security"
     ],
     "stance": "review",
-    "quote": "Wealthy former governor focused on fiscal conservatism and business-friendly policies",
     "techRegScore": 0.71,
     "lobbying": {
       "topIndustries": [

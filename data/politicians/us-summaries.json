@@ -1,0 +1,1042 @@
+{
+  "generatedAt": "2026-04-13T23:00:56.155Z",
+  "politicians": [
+    {
+      "name": "Mike Johnson",
+      "bioguideId": "J000299",
+      "role": "Representative (R-LA-4) · Speaker of the House (119th)",
+      "stance": "favorable",
+      "summary": "As Speaker, Johnson has set the House floor calendar around AI permitting and innovation packages and has personally championed the SANDBOX Act companion to ease federal sandboxes for AI startups. He has resisted broad federal AI regulation, framing it as premature, while supporting deepfake-defamation and child-safety carve-outs.",
+      "keyPoints": [
+        "Brought the AI Future Act and SANDBOX Act companion bills to the House floor in early 2026.",
+        "Backed bipartisan No FAKES Act House version while opposing comprehensive federal AI regulation.",
+        "Used Speaker's discretion to fast-track House AI Task Force recommendations into committee markup.",
+        "Publicly aligned with Trump's deregulatory AI executive order and opposed state preemption restrictions."
+      ],
+      "bills": []
+    },
+    {
+      "name": "Josh Hawley",
+      "bioguideId": "H001089",
+      "role": "Senator (R-MO) · Senate Judiciary Subcommittee on Privacy, Technology & the Law (Ranking Member, 118th)",
+      "stance": "restrictive",
+      "summary": "Hawley has been one of the most prolific AI restrictionists in the Senate, co-leading bipartisan hearings on AI oversight with Blumenthal and introducing S.321 to decouple U.S. AI from China, the AI LEAD Act to create product-liability for AI harms, the GUARD Act to protect minors from AI chatbots, the AI Accountability and Personal Data Protection Act to let users sue over training-data scraping, and the AI Risk Evaluation Act requiring DOE pre-deployment review. His overarching stance is that Big Tech must not be trusted to self-regulate AI.",
+      "keyPoints": [
+        "Introduced S.321 (Jan. 2025) to prohibit U.S. AI imports/exports/R&D with China after DeepSeek launch.",
+        "Co-introduced the AI LEAD Act (Sept. 2025) with Sen. Durbin creating federal product-liability cause of action for AI harms.",
+        "Co-introduced the GUARD Act (Oct. 2025) with Blumenthal banning AI companion chatbots for minors.",
+        "Co-introduced AI Accountability and Personal Data Protection Act (July 2025) with Blumenthal allowing civil suits over AI training-data scraping."
+      ],
+      "bills": [
+        {
+          "code": "S.321",
+          "title": "Decoupling America's Artificial Intelligence Capabilities from China Act",
+          "role": "sponsor",
+          "year": 2025,
+          "summary": "Prohibits U.S. persons from importing, exporting, or conducting AI R&D with Chinese entities, and bars U.S. investment in Chinese AI development."
+        },
+        {
+          "code": "S.3682",
+          "title": "Bipartisan Framework on AI Legislation (Blumenthal-Hawley)",
+          "role": "champion",
+          "year": 2023,
+          "summary": "Non-binding bipartisan framework laying out principles for AI guardrails including liability, transparency, and national-security protections."
+        }
+      ]
+    },
+    {
+      "name": "Bernie Sanders",
+      "bioguideId": "S000033",
+      "role": "Senator (I-VT) · Senate HELP Committee (Ranking Member)",
+      "stance": "restrictive",
+      "summary": "Sanders introduced the Artificial Intelligence Data Center Moratorium Act in March 2026 alongside Rep. Ocasio-Cortez, calling for a halt to new AI data center construction until Congress enacts federal safeguards on worker protections, consumer electricity costs, and environmental impacts. He frames unchecked AI and data-center expansion as a wealth-transfer to billionaire tech oligarchs at the expense of working families.",
+      "keyPoints": [
+        "Introduced the Artificial Intelligence Data Center Moratorium Act (March 25, 2026) with AOC at a joint Capitol press conference.",
+        "Bill would freeze new data-center construction until federal laws protect workers, consumers, and the environment.",
+        "Cited 31% rise in residential electricity costs from 2020–2025 as evidence of AI data-center harm to households.",
+        "Co-signed Nov. 2025 Warren-Markey letter urging Democrats to block AI moratorium provision in NDAA."
+      ],
+      "bills": [
+        {
+          "code": "S.4178",
+          "title": "Artificial Intelligence Data Center Moratorium Act",
+          "role": "sponsor",
+          "year": 2026,
+          "summary": "Imposes a nationwide moratorium on construction of new AI data centers until Congress passes federal laws protecting workers, consumers, and the environment from AI-related harms."
+        }
+      ]
+    },
+    {
+      "name": "Alexandria Ocasio-Cortez",
+      "bioguideId": "O000172",
+      "role": "Representative (D-NY-14) · House AI Task Force member",
+      "stance": "restrictive",
+      "summary": "Ocasio-Cortez co-introduced the Artificial Intelligence Data Center Moratorium Act (House companion) in March 2026 with Sen. Sanders, calling for a pause on data-center construction citing surging electricity prices and surveillance concerns. She also sponsored the DEFIANCE Act (H.R.3562) providing civil recourse to survivors of nonconsensual AI deepfake abuse, which passed the Senate but awaited House passage.",
+      "keyPoints": [
+        "Introduced House version of AI Data Center Moratorium Act (March 25, 2026), arguing Big Tech is jacking up utility costs of everyday Americans.",
+        "Introduced H.R.3562 (DEFIANCE Act) giving survivors legal recourse against nonconsensual AI deepfake intimate imagery.",
+        "Served on the House Bipartisan AI Task Force (2024), one of 24 members advising on AI policy.",
+        "Hosted Feb. 2024 House AI roundtable focused on worker equity and AI surveillance concerns."
+      ],
+      "bills": [
+        {
+          "code": "H.R.3562",
+          "title": "Disrupt Explicit Forged Images and Non-Consensual Edits (DEFIANCE) Act of 2025",
+          "role": "sponsor",
+          "year": 2025,
+          "summary": "Provides a federal civil cause of action for individuals harmed by the creation or distribution of nonconsensual sexually explicit AI-generated deepfake imagery."
+        }
+      ]
+    },
+    {
+      "name": "Ted Cruz",
+      "bioguideId": "C001098",
+      "role": "Senator (R-TX) · Senate Commerce Committee Chair (119th)",
+      "stance": "favorable",
+      "summary": "As Senate Commerce chair, Cruz released a five-pillar 'Legislative Framework for American AI Leadership' (Sept. 2025) and introduced the SANDBOX Act (S.2750) to establish a federal regulatory sandbox for AI developers. He pushed a 10-year moratorium on state AI laws in the budget reconciliation bill and co-sponsored the TAKE IT DOWN Act criminalizing nonconsensual AI deepfake pornography, the only major AI law enacted as of early 2026.",
+      "keyPoints": [
+        "Introduced S.2750 SANDBOX Act (Sept. 2025): lets AI developers apply to waive or modify outdated federal regulations for up to 12 years.",
+        "Led Senate Commerce effort to attach a 10-year preemption of state AI laws to the 'One Big Beautiful Bill'; Senate voted 99-1 to strip it.",
+        "Co-sponsored and championed Take It Down Act (S.4569), signed into law April 2025.",
+        "Released five-pillar AI framework (Sept. 2025) calling for light-touch regulation, preemption of state patchwork, and U.S.-China competition focus."
+      ],
+      "bills": [
+        {
+          "code": "S.2750",
+          "title": "Strengthening Artificial intelligence Normalization and Diffusion By Oversight and eXperimentation Act (SANDBOX Act)",
+          "role": "sponsor",
+          "year": 2025,
+          "summary": "Creates a federal program allowing AI developers and deployers to request waivers or modifications to federal regulations that hinder AI innovation, within guardrails for health and consumer safety."
+        },
+        {
+          "code": "S.4569",
+          "title": "Tools to Address Known Exploitation by Immobilizing Technological Deepfakes on Websites and Networks Act (TAKE IT DOWN Act)",
+          "role": "sponsor",
+          "year": 2025,
+          "summary": "Criminalizes publication of nonconsensual intimate imagery including AI-generated deepfakes and requires platforms to remove such content within 48 hours of notice; signed into law April 2025."
+        }
+      ]
+    },
+    {
+      "name": "Elizabeth Warren",
+      "bioguideId": "W000817",
+      "role": "Senator (D-MA) · Senate Banking Committee (Ranking Member)",
+      "stance": "restrictive",
+      "summary": "Warren has pursued AI policy primarily through a competition and national-security lens, co-sponsoring the Protecting AI and Cloud Competition in Defense Act with Sen. Schmitt to stop Big Tech monopolies in DoD AI contracting, co-sponsoring the GAIN AI Act to prioritize AI chip sales to American companies, and joining the Markey-led 'Dear Colleague' letter opposing an AI-regulation moratorium in the NDAA. She also wrote to Commerce Secretary Lutnick warning against lifting AI chip export controls on China.",
+      "keyPoints": [
+        "Co-introduced Protecting AI and Cloud Competition in Defense Act (Dec. 2024, reintroduced 2025) with Sen. Schmitt requiring DoD to promote competitive AI/cloud contracting.",
+        "Co-sponsored GAIN AI Act (passed Senate Oct. 2025) requiring AI chipmakers to prioritize sales to American customers over exports to China.",
+        "Joined Nov. 2025 Markey letter urging Democrats to block AI moratorium provision in the NDAA FY2026.",
+        "Co-signed July 2025 letter to Commerce Sec. Lutnick expressing 'grave concern' over Trump administration resuming AI chip sales to China."
+      ],
+      "bills": [
+        {
+          "code": "S.3312",
+          "title": "Protecting AI and Cloud Competition in Defense Act",
+          "role": "cosponsor",
+          "year": 2024,
+          "summary": "Requires DoD procurement of AI and cloud services to prioritize resiliency and competition, preventing Big Tech monopolization of Pentagon AI contracts."
+        }
+      ]
+    },
+    {
+      "name": "Edward J. Markey",
+      "bioguideId": "M000133",
+      "role": "Senator (D-MA) · Senate Commerce Committee member; Environment & Public Works Subcommittee Chair",
+      "stance": "restrictive",
+      "summary": "Markey has been a leading Senate voice against both the AI state-law moratorium and unchecked AI deployment, leading the 99-1 July 2025 Senate amendment to strip the 10-year moratorium from the budget bill, introducing the States' Right to Regulate AI Act (Dec. 2025), sponsoring the AI Civil Rights Act to eliminate algorithmic bias, the AI Environmental Impacts Act measuring data-center energy and water use, and the Right to Override Act requiring human oversight of AI in healthcare.",
+      "keyPoints": [
+        "Led the 99-1 Senate amendment (July 1, 2025) with Cantwell and Blackburn to strip the 10-year state AI moratorium from the reconciliation bill.",
+        "Introduced States' Right to Regulate AI Act (Dec. 2025) to block Trump EO preempting state AI laws; filed as appropriations amendment.",
+        "Introduced AI Civil Rights Act (Sept. 2024) requiring pre- and post-deployment bias testing for consequential algorithmic decisions.",
+        "Co-introduced AI Environmental Impacts Act of 2024 with Heinrich and Rep. Eshoo directing NIST to measure AI energy, water, and carbon footprint."
+      ],
+      "bills": [
+        {
+          "code": "S.3312",
+          "title": "Artificial Intelligence Civil Rights Act",
+          "role": "sponsor",
+          "year": 2024,
+          "summary": "Requires companies to test AI systems for bias before and after deployment for high-stakes decisions affecting employment, housing, and civil rights."
+        },
+        {
+          "code": "S.3312",
+          "title": "Artificial Intelligence Environmental Impacts Act of 2024",
+          "role": "sponsor",
+          "year": 2024,
+          "summary": "Directs NIST to develop standards measuring AI's full environmental impact—energy, water, carbon—and creates a voluntary reporting framework for AI developers."
+        },
+        {
+          "code": "S.3312",
+          "title": "States' Right to Regulate AI Act",
+          "role": "sponsor",
+          "year": 2025,
+          "summary": "Prohibits implementation of the Trump executive order that attempted to block states from regulating AI, preserving state authority to set AI consumer protections."
+        },
+        {
+          "code": "S.3312",
+          "title": "Right to Override Act",
+          "role": "sponsor",
+          "year": 2025,
+          "summary": "Requires healthcare facilities to provide a human-override option for AI-based clinical decision systems and protects clinicians who disagree with AI recommendations."
+        }
+      ]
+    },
+    {
+      "name": "Charles E. Schumer",
+      "bioguideId": "S000148",
+      "role": "Senator (D-NY) · Senate Minority Leader; AI Insight Forum co-host",
+      "stance": "review",
+      "summary": "Schumer co-led the Bipartisan Senate AI Working Group (the 'AI Gang') with Rounds, Heinrich, and Young, convening nine landmark all-Senator AI Insight Forums and releasing the May 2024 'Driving U.S. Innovation in Artificial Intelligence' Roadmap — the most comprehensive AI policy document the Senate has produced. The roadmap called for $32 billion in annual non-defense AI R&D, instructed committees to develop targeted bills, and explicitly rejected a single omnibus approach. As Minority Leader in 2025–26, he co-signed the July 2025 letter opposing resumed chip sales to China.",
+      "keyPoints": [
+        "Co-convened nine first-of-their-kind all-Senator AI Insight Forums (fall 2023–spring 2024) including sessions with Sam Altman and Elon Musk.",
+        "Released 31-page bipartisan AI Roadmap (May 15, 2024) calling for $32 billion/year in non-defense AI spending and committee-driven legislation.",
+        "Explicitly adopted rolling bill-by-bill strategy: 'We're not going to wait to have one huge comprehensive plan.'",
+        "Co-signed July 2025 letter warning Commerce Sec. Lutnick of national security risks from resumed Nvidia H20 chip sales to China."
+      ],
+      "bills": [
+        {
+          "code": "S.4178",
+          "title": "Future of AI Innovation Act",
+          "role": "champion",
+          "year": 2024,
+          "summary": "Authorizes the NIST AI Safety Institute to develop voluntary AI standards and creates national-lab testbeds to accelerate AI research and innovation."
+        }
+      ]
+    },
+    {
+      "name": "Maria Cantwell",
+      "bioguideId": "C000127",
+      "role": "Senator (D-WA) · Senate Commerce Committee (Ranking Member, 119th; Chair, 118th)",
+      "stance": "review",
+      "summary": "Cantwell was the dominant Senate workhorse on AI legislation in the 118th Congress, sponsoring the Future of AI Innovation Act (S.4178) to codify the NIST AI Safety Institute, the COPIED Act requiring provenance watermarking of AI-generated content, and the Future of AI Innovation Act reintroduced in Feb. 2026 with Young. She also led the July 1, 2025 amendment with Markey and Blackburn that stripped the 10-year state AI moratorium from the reconciliation bill 99-1.",
+      "keyPoints": [
+        "Introduced Future of AI Innovation Act (S.4178, Apr. 2024) with Young, Blackburn, and Hickenlooper; passed Senate Commerce Committee July 2024.",
+        "Introduced COPIED Act (July 2024) with Blackburn and Heinrich requiring federal watermarking and provenance standards for AI-generated content.",
+        "Led 99-1 Senate floor amendment (July 1, 2025) stripping 10-year state AI moratorium from reconciliation bill.",
+        "Reintroduced Future of AI Innovation Act (Feb. 2026) updating CAISI/NIST authorities for the 119th Congress."
+      ],
+      "bills": [
+        {
+          "code": "S.4178",
+          "title": "Future of AI Innovation Act",
+          "role": "sponsor",
+          "year": 2024,
+          "summary": "Authorizes the NIST AI Safety Institute to promote voluntary AI standards, creates testbeds with national laboratories, and funds AI Grand Challenges to accelerate American AI innovation."
+        },
+        {
+          "code": "S.4875",
+          "title": "Content Origin Protection and Integrity from Edited and Deepfaked Media Act (COPIED Act)",
+          "role": "sponsor",
+          "year": 2024,
+          "summary": "Sets federal transparency standards for watermarking and authenticating AI-generated content to combat deepfakes and protect journalists, artists, and creators."
+        }
+      ]
+    },
+    {
+      "name": "Mark R. Warner",
+      "bioguideId": "W000805",
+      "role": "Senator (D-VA) · Senate Select Committee on Intelligence (Vice Chair, 119th; Chair, 118th)",
+      "stance": "review",
+      "summary": "Warner has driven AI policy from the intelligence and national-security angle, introducing the Secure Artificial Intelligence Act of 2024 (with Tillis) to create voluntary AI incident-reporting databases, the Promoting U.S. Leadership in Standards Act (S.3849) to boost NIST's role in international AI standards, and the bipartisan GUARD Act on child AI safety. In March 2026 he criticized the White House AI legislative framework as lacking substance on deepfakes, children's privacy, and foreign disinformation threats.",
+      "keyPoints": [
+        "Introduced Secure Artificial Intelligence Act (May 2024, with Tillis) creating NIST/CISA AI vulnerability databases and an NSA AI Security Center.",
+        "Co-introduced Promoting U.S. Leadership in Standards Act (S.3849, 2024, with Blackburn) requiring NIST to engage in international AI standards development.",
+        "Co-signed July 2025 letter with Schumer, Warren expressing 'grave concern' over Trump's reversal of Nvidia H20 chip export restrictions to China.",
+        "Co-sponsored GUARD Act (Oct. 2025) with Hawley, Blumenthal, Britt, and Murphy to ban AI companion chatbots for minors."
+      ],
+      "bills": [
+        {
+          "code": "S.3849",
+          "title": "Promoting United States Leadership in Standards Act of 2024",
+          "role": "sponsor",
+          "year": 2024,
+          "summary": "Requires NIST to brief Congress, maintain a web portal, and run a pilot grant program supporting U.S. participation in international AI technical standards bodies."
+        },
+        {
+          "code": "S.4720",
+          "title": "Secure Artificial Intelligence Act of 2024",
+          "role": "sponsor",
+          "year": 2024,
+          "summary": "Updates NIST/CISA systems to track AI cybersecurity vulnerabilities, creates a voluntary public AI incident database, and establishes an AI Security Center within NSA."
+        }
+      ]
+    },
+    {
+      "name": "Richard Blumenthal",
+      "bioguideId": "B001277",
+      "role": "Senator (D-CT) · Senate Judiciary Subcommittee on Privacy, Technology & the Law (Chair, 118th)",
+      "stance": "restrictive",
+      "summary": "Blumenthal chaired the Senate's primary AI oversight subcommittee in the 118th Congress, holding five AI-focused hearings including 'Oversight of AI: Rules for Artificial Intelligence' (May 2023) and 'Election Deepfakes' (Apr. 2024). He co-authored the Blumenthal-Hawley bipartisan AI framework, the AI Accountability and Personal Data Protection Act, the AI Risk Evaluation Act, the GUARD Act, and co-sponsored the AI LEAD Act.",
+      "keyPoints": [
+        "Chaired five Senate Judiciary subcommittee AI oversight hearings in 2023–2024, including the first-ever Senate CEO AI hearing (May 2023).",
+        "Co-authored Blumenthal-Hawley Bipartisan AI Legislative Framework (Sept. 2023) establishing guardrails, liability clarity, and national security priorities.",
+        "Co-introduced AI Accountability and Personal Data Protection Act (July 2025) allowing civil suits over AI training-data scraping.",
+        "Co-introduced AI Risk Evaluation Act (Sept. 2025) requiring DOE pre-deployment review of advanced AI models."
+      ],
+      "bills": [
+        {
+          "code": "S.4569",
+          "title": "Tools to Address Known Exploitation by Immobilizing Technological Deepfakes on Websites and Networks Act (TAKE IT DOWN Act)",
+          "role": "cosponsor",
+          "year": 2025,
+          "summary": "Criminalizes publication of nonconsensual intimate imagery including AI deepfakes and requires platform takedown within 48 hours; enacted into law April 2025."
+        }
+      ]
+    },
+    {
+      "name": "Todd Young",
+      "bioguideId": "Y000064",
+      "role": "Senator (R-IN) · Senate AI Working Group member ('AI Gang'); Commerce Committee member",
+      "stance": "favorable",
+      "summary": "Young was one of four members of the bipartisan Senate AI Gang that produced the May 2024 AI Roadmap, co-sponsored the CREATE AI Act establishing the National AI Research Resource (NAIRR), co-introduced the Future of AI Innovation Act (S.4178) with Cantwell, and co-sponsored the AI Public Awareness and Education Campaign Act. He reintroduced the Future of AI Innovation Act in February 2026.",
+      "keyPoints": [
+        "Co-authored Bipartisan Senate AI Roadmap (May 2024) alongside Schumer, Rounds, and Heinrich; called it 'the most comprehensive bipartisan AI recommendations ever issued by the legislative branch.'",
+        "Co-introduced CREATE AI Act (S.2714) with Heinrich, Booker, and Rounds establishing the National Artificial Intelligence Research Resource.",
+        "Co-introduced Future of AI Innovation Act (S.4178, Apr. 2024) with Cantwell, Blackburn, and Hickenlooper; reintroduced Feb. 2026.",
+        "Co-sponsored AI Public Awareness and Education Campaign Act (S.4596) requiring Commerce Dept. to educate Americans about AI."
+      ],
+      "bills": [
+        {
+          "code": "S.2714",
+          "title": "Creating Resources for Every American To Experiment with Artificial Intelligence Act (CREATE AI Act)",
+          "role": "cosponsor",
+          "year": 2024,
+          "summary": "Establishes the National Artificial Intelligence Research Resource (NAIRR) as a shared public research infrastructure providing AI researchers and students with access to computing, data, and tools."
+        },
+        {
+          "code": "S.4178",
+          "title": "Future of AI Innovation Act",
+          "role": "cosponsor",
+          "year": 2024,
+          "summary": "Authorizes the NIST AI Safety Institute to develop voluntary AI standards, creates national-lab AI testbeds, and funds Grand Challenges to sustain U.S. AI leadership."
+        },
+        {
+          "code": "S.4596",
+          "title": "Artificial Intelligence Public Awareness and Education Campaign Act",
+          "role": "sponsor",
+          "year": 2024,
+          "summary": "Directs the Commerce Secretary to run a public campaign informing Americans about the benefits, risks, and prevalence of AI in daily life."
+        }
+      ]
+    },
+    {
+      "name": "Martin Heinrich",
+      "bioguideId": "H001046",
+      "role": "Senator (D-NM) · Senate AI Caucus (Founder & Co-Chair); Senate AI Working Group member",
+      "stance": "favorable",
+      "summary": "Heinrich co-founded the Senate Bipartisan AI Caucus in 2019, was a core member of the Senate AI Gang producing the 2024 Roadmap, introduced the CREATE AI Act establishing NAIRR, co-introduced the COPIED Act on AI watermarking, co-sponsored the AI Grand Challenges Act, and co-introduced the AI Environmental Impacts Act measuring data-center energy use.",
+      "keyPoints": [
+        "Founded Senate Bipartisan AI Caucus in 2019; co-chaired AI Insight Forums in 2023–2024 as part of the Senate AI Gang.",
+        "Introduced CREATE AI Act (S.2714) establishing the National AI Research Resource; passed Senate Commerce Committee July 2024.",
+        "Co-introduced COPIED Act (July 2024) with Cantwell and Blackburn requiring AI-content watermarking standards.",
+        "Co-introduced AI Grand Challenges Act (S.4236, May 2024) with Rounds and Booker directing NSF to run prize competitions for AI breakthroughs."
+      ],
+      "bills": [
+        {
+          "code": "S.2714",
+          "title": "Creating Resources for Every American To Experiment with Artificial Intelligence Act (CREATE AI Act)",
+          "role": "sponsor",
+          "year": 2024,
+          "summary": "Establishes NAIRR as a national public computing and data infrastructure to democratize AI research access for universities, startups, and government."
+        },
+        {
+          "code": "S.4875",
+          "title": "Content Origin Protection and Integrity from Edited and Deepfaked Media Act (COPIED Act)",
+          "role": "cosponsor",
+          "year": 2024,
+          "summary": "Requires federal watermarking and provenance standards for AI-generated content to combat deepfakes and protect journalists, artists, and creators."
+        },
+        {
+          "code": "S.4236",
+          "title": "AI Grand Challenges Act",
+          "role": "cosponsor",
+          "year": 2024,
+          "summary": "Directs NSF to establish a prize competition program awarding up to $1 million per challenge for AI breakthroughs in health, energy, cybersecurity, and other sectors."
+        }
+      ]
+    },
+    {
+      "name": "Mike Rounds",
+      "bioguideId": "R000605",
+      "role": "Senator (R-SD) · Senate AI Caucus (Co-Chair); Senate AI Working Group member",
+      "stance": "favorable",
+      "summary": "Rounds served as the Republican anchor of the Senate AI Gang (with Schumer, Heinrich, and Young), co-producing the 2024 AI Roadmap. He co-sponsored the CREATE AI Act, the AI Grand Challenges Act, and served as co-chair of the Senate Bipartisan AI Caucus. His consistent theme has been that U.S. AI leadership requires federal investment in research infrastructure and voluntary standards rather than heavy regulation.",
+      "keyPoints": [
+        "Co-produced Bipartisan Senate AI Roadmap (May 2024) as one of four Senate AI Gang members; co-chaired nine AI Insight Forums.",
+        "Co-sponsored CREATE AI Act (S.2714) establishing NAIRR as shared national AI research infrastructure.",
+        "Co-sponsored AI Grand Challenges Act (S.4236) creating NSF-run AI prize competitions.",
+        "Served as Senate Bipartisan AI Caucus Co-Chair alongside Heinrich."
+      ],
+      "bills": [
+        {
+          "code": "S.2714",
+          "title": "Creating Resources for Every American To Experiment with Artificial Intelligence Act (CREATE AI Act)",
+          "role": "cosponsor",
+          "year": 2024,
+          "summary": "Establishes NAIRR as a shared national research infrastructure providing AI researchers and students access to computing, data, and AI tools."
+        },
+        {
+          "code": "S.4236",
+          "title": "AI Grand Challenges Act",
+          "role": "sponsor",
+          "year": 2024,
+          "summary": "Directs NSF to establish a prize competition program for AI breakthroughs in national-priority areas including health, energy, and cybersecurity."
+        }
+      ]
+    },
+    {
+      "name": "Amy Klobuchar",
+      "bioguideId": "K000367",
+      "role": "Senator (D-MN) · Senate Rules Committee (Chair, 118th); Senate Commerce Committee member",
+      "stance": "review",
+      "summary": "Klobuchar co-introduced the AI Research, Innovation, and Accountability Act (S.3312, 2023) with Thune and Wicker establishing risk-based transparency for high-impact AI systems. As Senate Rules chair she advanced three bipartisan AI-in-elections bills at a May 2024 markup, including legislation targeting deepfakes in political ads. She co-sponsored the NO FAKES Act and the TAKE IT DOWN Act, and co-signed the Dec. 2025 Markey letter opposing the state AI moratorium.",
+      "keyPoints": [
+        "Co-introduced AI Research, Innovation, and Accountability Act (S.3312, 2023) with Thune and Wicker requiring transparency and self-certification for critical-impact AI.",
+        "Advanced three bipartisan AI-elections bills at Senate Rules Committee markup (May 15, 2024) targeting deepfakes in political advertising.",
+        "Co-sponsored NO FAKES Act (S.4875-related) protecting voice and likeness from unauthorized AI-generated replicas.",
+        "Co-sponsored Take It Down Act (S.4569) criminalizing nonconsensual AI deepfake intimate imagery; enacted April 2025."
+      ],
+      "bills": [
+        {
+          "code": "S.3312",
+          "title": "Artificial Intelligence Research, Innovation, and Accountability Act of 2023",
+          "role": "cosponsor",
+          "year": 2023,
+          "summary": "Establishes a risk-based framework requiring transparency and accountability for the highest-impact AI applications, including critical infrastructure, with Commerce Dept. certification standards."
+        },
+        {
+          "code": "S.4569",
+          "title": "Tools to Address Known Exploitation by Immobilizing Technological Deepfakes on Websites and Networks Act (TAKE IT DOWN Act)",
+          "role": "cosponsor",
+          "year": 2025,
+          "summary": "Criminalizes nonconsensual intimate AI deepfakes and requires platforms to remove flagged content within 48 hours; signed into law April 2025."
+        }
+      ]
+    },
+    {
+      "name": "Marsha Blackburn",
+      "bioguideId": "B001243",
+      "role": "Senator (R-TN) · Senate Commerce Committee member; Senate Judiciary Committee member",
+      "stance": "review",
+      "summary": "Blackburn is a consistent bipartisan collaborator on creative-sector and children's AI legislation, co-sponsoring the Future of AI Innovation Act (S.4178), the COPIED Act, the NO FAKES Act (protecting artist voice and likeness), the TRAIN Act (AI training transparency), and the GUARD Act. In Dec. 2025 she released the TRUMP AMERICA AI Act framework codifying child, creator, and conservative protections. She also co-joined the July 2025 Markey-Cantwell amendment stripping the state moratorium.",
+      "keyPoints": [
+        "Co-introduced Future of AI Innovation Act (S.4178, Apr. 2024) with Cantwell, Young, and Hickenlooper.",
+        "Co-introduced NO FAKES Act (2024) with Coons, Klobuchar, and Tillis protecting voice and likeness from AI deepfakes.",
+        "Co-introduced COPIED Act (July 2024) with Cantwell and Heinrich on AI-content watermarking.",
+        "Released TRUMP AMERICA AI Act framework (Dec. 2025) consolidating child, creator, and community AI protections into a national standard."
+      ],
+      "bills": [
+        {
+          "code": "S.4178",
+          "title": "Future of AI Innovation Act",
+          "role": "cosponsor",
+          "year": 2024,
+          "summary": "Authorizes NIST AI Safety Institute to develop voluntary standards and creates national-lab testbeds to sustain U.S. AI leadership."
+        },
+        {
+          "code": "S.4875",
+          "title": "Content Origin Protection and Integrity from Edited and Deepfaked Media Act (COPIED Act)",
+          "role": "cosponsor",
+          "year": 2024,
+          "summary": "Sets federal standards for watermarking and authenticating AI-generated content to combat deepfakes and protect creators."
+        }
+      ]
+    },
+    {
+      "name": "John Thune",
+      "bioguideId": "T000250",
+      "role": "Senator (R-SD) · Senate Majority Leader (119th); former Commerce Committee member",
+      "stance": "favorable",
+      "summary": "Thune co-introduced the foundational AI Research, Innovation, and Accountability Act (S.3312, 2023) with Klobuchar establishing a risk-based transparency framework for high-impact AI systems. As Senate Majority Leader in the 119th Congress he has managed the floor dynamics around the state AI moratorium debate and the broader legislative agenda on AI.",
+      "keyPoints": [
+        "Co-introduced AI Research, Innovation, and Accountability Act (S.3312, Nov. 2023) with Klobuchar as the first major bipartisan Senate AI accountability bill.",
+        "Bill establishes risk tiers for 'high-impact' and 'critical-impact' AI and requires Commerce Dept. to develop certification standards.",
+        "As Senate Majority Leader (2025–), manages floor scheduling for AI bills including the budget reconciliation AI moratorium provisions.",
+        "Stated goal: AI laws should 'protect consumers, foster innovation, and limit government intervention.'"
+      ],
+      "bills": [
+        {
+          "code": "S.3312",
+          "title": "Artificial Intelligence Research, Innovation, and Accountability Act of 2023",
+          "role": "sponsor",
+          "year": 2023,
+          "summary": "Establishes a risk-based framework for AI accountability, requiring transparency, definitions, and self-certification for the highest-impact AI deployments, particularly in critical infrastructure."
+        }
+      ]
+    },
+    {
+      "name": "Anna G. Eshoo",
+      "bioguideId": "E000215",
+      "role": "Representative (D-CA-16) · House AI Caucus (Co-Chair); House AI Task Force member",
+      "stance": "review",
+      "summary": "Eshoo served as Co-Chair of the House AI Caucus and was a principal House sponsor of the CREATE AI Act establishing NAIRR. She introduced the Protecting Consumers from Deceptive AI Act (H.R.7766, 2024) directing NIST to develop standards for labeling AI-generated content to combat deepfakes. She also co-authored the AI Environmental Impacts Act of 2024 measuring data-center energy and water use.",
+      "keyPoints": [
+        "Co-introduced House companion to CREATE AI Act (S.2714) establishing the National AI Research Resource for democratized AI research access.",
+        "Introduced Protecting Consumers from Deceptive AI Act (H.R.7766, Mar. 2024) directing NIST to develop AI-content labeling and watermarking standards.",
+        "Co-introduced AI Environmental Impacts Act of 2024 with Sen. Markey and Sen. Heinrich to measure AI data-center energy, water, and carbon impacts.",
+        "Served on House Bipartisan AI Task Force (2024) and co-chaired the House AI Caucus throughout the 118th Congress."
+      ],
+      "bills": [
+        {
+          "code": "H.R.7766",
+          "title": "Protecting Consumers from Deceptive AI Act",
+          "role": "sponsor",
+          "year": 2024,
+          "summary": "Directs NIST to develop standards for identifying and labeling AI-generated content, requires machine-readable disclosures from generative AI developers, and mandates platform disclosure of AI-generated material."
+        },
+        {
+          "code": "H.R.5628",
+          "title": "Creating Resources for Every American To Experiment with Artificial Intelligence Act (CREATE AI Act) — House companion",
+          "role": "sponsor",
+          "year": 2024,
+          "summary": "House companion to the Senate CREATE AI Act, establishing NAIRR as a national shared computing and data infrastructure for AI researchers and students."
+        }
+      ]
+    },
+    {
+      "name": "Ro Khanna",
+      "bioguideId": "K000389",
+      "role": "Representative (D-CA-17) · House Armed Services Committee; represents Silicon Valley",
+      "stance": "review",
+      "summary": "Khanna, whose district includes much of Silicon Valley, has focused on ensuring AI benefits workers equitably, hosted the House's first Congressional AI in Society and Democracy Roundtable (Feb. 2024) with top academic AI scholars, and co-introduced the Cloud LAB Act (2026) with Obernolte to build NSF-funded cloud labs for AI and biotech research. He has emphasized worker equity and academic voices in AI policy while avoiding heavy-handed restriction.",
+      "keyPoints": [
+        "Hosted first 'Congressional AI in Society and for Democracy Roundtable' (Feb. 15, 2024) with Stanford's Fei-Fei Li and other scholars.",
+        "Co-introduced Cloud LAB Act (2026) with Obernolte, McCormick, and Auchincloss directing NSF to create cloud-enabled bio-AI research labs.",
+        "Drafted legislation to provide tax credits incentivizing AI companies to give workers equity stakes in AI-driven profits.",
+        "Represents CA-17 (Santa Clara/Fremont), home to numerous AI and semiconductor companies; bridged industry and policy perspectives."
+      ],
+      "bills": [
+        {
+          "code": "H.R.2026",
+          "title": "Cloud Labs to Advance Biotechnology Act (Cloud LAB Act)",
+          "role": "cosponsor",
+          "year": 2026,
+          "summary": "Directs NSF to establish a national network of cloud-enabled biological labs to generate high-quality data for AI model training, accelerating healthcare and agricultural AI research."
+        }
+      ]
+    },
+    {
+      "name": "Jay Obernolte",
+      "bioguideId": "O000023",
+      "role": "Representative (R-CA-23) · House AI Task Force (Chair)",
+      "stance": "favorable",
+      "summary": "Obernolte, a computer scientist with an M.S. in AI, co-chaired the House Bipartisan AI Task Force that released a 274-page report in December 2024 serving as a roadmap for the 119th Congress. He co-introduced the Cloud LAB Act (2026) with Khanna, co-authored the House companion to the CREATE AI Act, and met with Trump's AI Czar David Sacks to align the task force report with the incoming administration.",
+      "keyPoints": [
+        "Co-chaired 24-member House Bipartisan AI Task Force (Feb. 2024–Dec. 2024); released 274-page AI policy report on Dec. 17, 2024.",
+        "Co-introduced Cloud LAB Act (2026) with Khanna directing NSF to build cloud-enabled biotech-AI research infrastructure.",
+        "Co-sponsored House companion to CREATE AI Act with Eshoo, McCaul, and Beyer establishing NAIRR.",
+        "Met with Trump AI Czar David Sacks post-election to align task force recommendations with administration priorities."
+      ],
+      "bills": [
+        {
+          "code": "H.R.5628",
+          "title": "Creating Resources for Every American To Experiment with Artificial Intelligence Act (CREATE AI Act) — House companion",
+          "role": "cosponsor",
+          "year": 2024,
+          "summary": "Establishes NAIRR as a public research infrastructure to provide AI researchers and students access to computing, data, and AI tools."
+        },
+        {
+          "code": "H.R.2026",
+          "title": "Cloud Labs to Advance Biotechnology Act (Cloud LAB Act)",
+          "role": "sponsor",
+          "year": 2026,
+          "summary": "Directs NSF to establish cloud-enabled laboratories generating standardized biological data to train next-generation AI models in health care and agriculture."
+        }
+      ]
+    },
+    {
+      "name": "Ted Lieu",
+      "bioguideId": "L000582",
+      "role": "Representative (D-CA-36) · House AI Task Force (Co-Chair); House Judiciary Committee",
+      "stance": "review",
+      "summary": "Lieu, a computer science graduate, co-chaired the House Bipartisan AI Task Force with Obernolte, producing the landmark 274-page December 2024 report. He famously used ChatGPT to draft H.Res.66 (2023) — a resolution calling for AI regulation — to demonstrate AI capabilities to colleagues. He has consistently called for guardrails on AI while supporting U.S. innovation leadership.",
+      "keyPoints": [
+        "Co-chaired House Bipartisan AI Task Force (2024); report released Dec. 17, 2024 covers AI across 12+ sectors.",
+        "Used ChatGPT to draft H.Res.66 (2023), a resolution calling for AI regulation, to demonstrate AI to Congress.",
+        "Member of House Democratic Leadership team managing AI legislative coordination.",
+        "Called for Congress to move from a 'learning phase to an action phase' on AI regulation."
+      ],
+      "bills": [
+        {
+          "code": "H.RES.66",
+          "title": "Resolution Calling for the Responsible Development and Deployment of Artificial Intelligence",
+          "role": "sponsor",
+          "year": 2023,
+          "summary": "Non-binding resolution calling on Congress to develop responsible AI governance; drafted using ChatGPT to showcase AI capabilities and the need for regulation."
+        }
+      ]
+    },
+    {
+      "name": "Cory Booker",
+      "bioguideId": "B001288",
+      "role": "Senator (D-NJ) · Senate Commerce Committee; Senate AI Caucus member",
+      "stance": "review",
+      "summary": "Booker co-sponsored the CREATE AI Act (S.2714) establishing NAIRR and co-introduced the AI Grand Challenges Act (S.4236) with Rounds and Heinrich directing NSF to fund AI prize competitions. He has focused on ensuring AI innovation does not exacerbate inequality and that research infrastructure is broadly accessible.",
+      "keyPoints": [
+        "Co-sponsored CREATE AI Act (S.2714) to establish NAIRR democratizing AI research access for universities and non-Big Tech entities.",
+        "Co-introduced AI Grand Challenges Act (S.4236, May 2024) with Rounds and Heinrich for NSF-run AI prize competitions.",
+        "Endorsed Schumer AI Roadmap and supported committee-driven AI bill-by-bill approach.",
+        "Focused on ensuring AI research resources reach HBCUs and under-resourced institutions."
+      ],
+      "bills": [
+        {
+          "code": "S.2714",
+          "title": "Creating Resources for Every American To Experiment with Artificial Intelligence Act (CREATE AI Act)",
+          "role": "cosponsor",
+          "year": 2024,
+          "summary": "Establishes NAIRR as a shared national public computing infrastructure providing AI researchers and students access to data, tools, and computing resources."
+        },
+        {
+          "code": "S.4236",
+          "title": "AI Grand Challenges Act",
+          "role": "cosponsor",
+          "year": 2024,
+          "summary": "Directs NSF to establish a prize competition program awarding up to $1 million per AI breakthrough challenge in health, energy, cybersecurity, and other priority sectors."
+        }
+      ]
+    },
+    {
+      "name": "Chris Coons",
+      "bioguideId": "C001088",
+      "role": "Senator (D-DE) · Senate Judiciary Committee (Intellectual Property Subcommittee); Senate Foreign Relations Committee",
+      "stance": "restrictive",
+      "summary": "Coons was the lead Democratic sponsor of the NO FAKES Act (2024, with Blackburn, Klobuchar, and Tillis) creating federal intellectual property protections against unauthorized AI-generated digital replicas of voice and likeness. He has championed creator rights in the face of generative AI, and co-signed the July 2025 letter opposing resumption of AI chip sales to China.",
+      "keyPoints": [
+        "Co-introduced NO FAKES Act (2024) with Blackburn, Klobuchar, and Tillis protecting individuals from unauthorized AI-generated replicas of voice and likeness.",
+        "Bill followed Oct. 2023 discussion draft and Apr. 2024 Judiciary Subcommittee IP hearing.",
+        "Framed the NO FAKES Act as essential for artists, actors, musicians, and all Americans whose likenesses could be exploited.",
+        "Serves on Senate Judiciary IP subcommittee as key venue for AI copyright and likeness-protection legislation."
+      ],
+      "bills": [
+        {
+          "code": "S.4875",
+          "title": "Nurture Originals, Foster Art, and Keep Entertainment Safe Act (NO FAKES Act)",
+          "role": "sponsor",
+          "year": 2024,
+          "summary": "Creates a federal right of publicity protecting individuals from AI-generated digital replicas of their voice, image, or likeness without consent, with civil liability for violators."
+        }
+      ]
+    },
+    {
+      "name": "Thom Tillis",
+      "bioguideId": "T000476",
+      "role": "Senator (R-NC) · Senate Judiciary Committee (IP Subcommittee); Senate Cybersecurity Caucus (Co-Chair)",
+      "stance": "review",
+      "summary": "Tillis co-introduced the NO FAKES Act (2024) with Coons, Blackburn, and Klobuchar and co-sponsored the Secure Artificial Intelligence Act (2024) with Warner to build AI cybersecurity incident-reporting infrastructure. As Cybersecurity Caucus co-chair with Warner, he has focused on the security dimensions of AI deployment.",
+      "keyPoints": [
+        "Co-introduced Secure Artificial Intelligence Act (May 2024) with Warner to create NIST/CISA AI vulnerability databases and an NSA AI Security Center.",
+        "Co-introduced NO FAKES Act (2024) with Coons, Blackburn, and Klobuchar on AI-generated likeness protection.",
+        "Co-chairs Senate Cybersecurity Caucus with Warner, providing oversight of AI security implications.",
+        "Supported voluntary, market-driven approach to AI standards while calling for clear liability for AI misuse of personal data."
+      ],
+      "bills": [
+        {
+          "code": "S.4720",
+          "title": "Secure Artificial Intelligence Act of 2024",
+          "role": "cosponsor",
+          "year": 2024,
+          "summary": "Creates voluntary AI cybersecurity incident reporting databases at NIST and CISA and establishes an AI Security Center within NSA to promote secure AI adoption."
+        },
+        {
+          "code": "S.4875",
+          "title": "Nurture Originals, Foster Art, and Keep Entertainment Safe Act (NO FAKES Act)",
+          "role": "cosponsor",
+          "year": 2024,
+          "summary": "Establishes federal right-of-publicity protections against unauthorized AI-generated replicas of voice and likeness, with civil liability for producers and hosts of such replicas."
+        }
+      ]
+    },
+    {
+      "name": "John Hickenlooper",
+      "bioguideId": "H001077",
+      "role": "Senator (D-CO) · Senate Commerce Committee member",
+      "stance": "favorable",
+      "summary": "Hickenlooper co-introduced the Future of AI Innovation Act (S.4178, 2024) with Cantwell, Young, and Blackburn and was a Commerce Committee champion of NIST-based voluntary AI standards. He co-introduced the AI Research, Innovation, and Accountability Act (S.3312, 2023) and consistently argued that AI holds enormous potential requiring responsible guardrails rather than heavy regulation.",
+      "keyPoints": [
+        "Co-introduced Future of AI Innovation Act (S.4178, Apr. 2024) with Cantwell, Young, and Blackburn codifying NIST AI Safety Institute.",
+        "Co-introduced AI Research, Innovation, and Accountability Act (S.3312, Nov. 2023) with Thune and Klobuchar on risk-based AI transparency.",
+        "Endorsed voluntary standards approach: 'It's up to us to make sure AI is harnessed for responsible innovation.'",
+        "Reintroduced Future of AI Innovation Act (Feb. 2026) with Young and Cantwell in the 119th Congress."
+      ],
+      "bills": [
+        {
+          "code": "S.4178",
+          "title": "Future of AI Innovation Act",
+          "role": "cosponsor",
+          "year": 2024,
+          "summary": "Authorizes the NIST AI Safety Institute and creates national-lab AI testbeds to sustain American AI research and voluntary standards development."
+        },
+        {
+          "code": "S.3312",
+          "title": "Artificial Intelligence Research, Innovation, and Accountability Act of 2023",
+          "role": "cosponsor",
+          "year": 2023,
+          "summary": "Establishes risk-based transparency requirements and Commerce Dept. certification standards for the highest-impact AI applications."
+        }
+      ]
+    },
+    {
+      "name": "Roger Wicker",
+      "bioguideId": "W000437",
+      "role": "Senator (R-MS) · Senate Commerce Committee (former Chair, 117th)",
+      "stance": "favorable",
+      "summary": "Wicker co-introduced the AI Research, Innovation, and Accountability Act (S.3312, 2023) with Thune and Klobuchar and co-sponsored the Future of AI Innovation Act (S.4178, 2024). As a former Senate Commerce chair, his consistent view has been for 'light-touch' AI regulation protecting consumers while fostering innovation.",
+      "keyPoints": [
+        "Co-introduced AI Research, Innovation, and Accountability Act (S.3312) with Thune and Klobuchar establishing risk-based AI transparency framework.",
+        "Co-sponsored Future of AI Innovation Act (S.4178) with Cantwell, Young, and Blackburn.",
+        "Advocated for 'light-touch' framework that ensures AI 'isn't crushed by an overly burdensome and reactive approach.'",
+        "Former Senate Commerce Committee chair; deep institutional familiarity with technology legislation."
+      ],
+      "bills": [
+        {
+          "code": "S.3312",
+          "title": "Artificial Intelligence Research, Innovation, and Accountability Act of 2023",
+          "role": "cosponsor",
+          "year": 2023,
+          "summary": "Establishes transparency and accountability requirements for the highest-risk AI deployments with Commerce Dept. certification standards."
+        },
+        {
+          "code": "S.4178",
+          "title": "Future of AI Innovation Act",
+          "role": "cosponsor",
+          "year": 2024,
+          "summary": "Authorizes NIST AI Safety Institute and creates national-lab AI testbeds to promote U.S. AI leadership through voluntary standards."
+        }
+      ]
+    },
+    {
+      "name": "Jim Banks",
+      "bioguideId": "B001299",
+      "role": "Senator (R-IN) · Senate Banking Committee member",
+      "stance": "review",
+      "summary": "Banks was the lead sponsor and champion of the GAIN AI Act, bipartisan legislation passed by the Senate in October 2025 requiring AI chipmakers (Nvidia, AMD) to prioritize sales to American companies over exports to China. He co-introduced the bill with Sen. Warren and emphasized competitiveness: the bill would 'bolster U.S. competitiveness in AI while reducing exports to U.S. rivals.'",
+      "keyPoints": [
+        "Lead sponsor of GAIN AI Act (passed Senate Oct. 2025) requiring chipmakers to prioritize domestic AI chip sales over Chinese exports.",
+        "Framed GAIN AI Act as a competitiveness measure: ensures U.S. customers including small businesses aren't forced to wait behind China's tech giants.",
+        "Co-introduced Export Control Transparency Act (Feb. 2025) with Warner to improve congressional oversight of AI-related export controls.",
+        "Serves on Senate Banking Committee with jurisdiction over financial AI applications and technology investment screening."
+      ],
+      "bills": [
+        {
+          "code": "S.3682",
+          "title": "Guaranteeing Access and Innovation for National Artificial Intelligence Act (GAIN AI Act)",
+          "role": "sponsor",
+          "year": 2025,
+          "summary": "Requires AI chipmakers to prioritize sales to American customers including small businesses and startups over exports to Chinese technology companies."
+        }
+      ]
+    },
+    {
+      "name": "Ron Wyden",
+      "bioguideId": "W000779",
+      "role": "Senator (D-OR) · Senate Finance Committee (Ranking Member); Senate Intelligence Committee member",
+      "stance": "restrictive",
+      "summary": "Wyden has long championed digital civil liberties and privacy as the foundation of responsible AI governance, co-sponsoring the Markey States' Right to Regulate AI Act in Dec. 2025, co-leading the April 2025 investigation into Google and Microsoft's AI partnerships with Anthropic and OpenAI, and consistently calling for algorithmic accountability legislation.",
+      "keyPoints": [
+        "Co-led April 2025 investigation with Warren into Google and Microsoft's AI partnerships with Anthropic and OpenAI for potential antitrust concerns.",
+        "Co-signed Dec. 2025 Markey States' Right to Regulate AI Act opposing Trump EO preempting state AI laws.",
+        "Long-time proponent of algorithmic transparency; has called for strong data privacy laws as prerequisite for safe AI deployment.",
+        "Senate Finance Committee jurisdiction over tax incentives for AI R&D and data-center investment."
+      ],
+      "bills": [
+        {
+          "code": "S.3312",
+          "title": "States' Right to Regulate AI Act",
+          "role": "cosponsor",
+          "year": 2025,
+          "summary": "Prohibits the Trump administration from implementing an Executive Order blocking state and local regulation of artificial intelligence."
+        }
+      ]
+    },
+    {
+      "name": "Adam Schiff",
+      "bioguideId": "S001150",
+      "role": "Senator (D-CA) · Senate Judiciary Committee; Senate Intelligence Committee",
+      "stance": "restrictive",
+      "summary": "Schiff co-sponsored the TRAIN Act (2025) with Blackburn, Hawley, and Welch requiring AI developers to disclose training data to copyright holders, and co-signed the Dec. 2025 Markey States' Right to Regulate AI Act. As a former House Intelligence Committee chair and new senator from California, he brings a national-security and civil-liberties lens to AI oversight.",
+      "keyPoints": [
+        "Co-sponsored TRAIN Act (Aug. 2025) with Blackburn, Hawley, and Welch allowing copyright holders to access AI training records.",
+        "Co-signed Dec. 2025 Markey States' Right to Regulate AI Act defending state authority to regulate AI.",
+        "Former House Intelligence Committee chair; focuses on AI disinformation and election-interference threats.",
+        "Brings California constituency perspective: state is home to dominant AI industry players and also passed SB 1047."
+      ],
+      "bills": [
+        {
+          "code": "S.3312",
+          "title": "Transparency and Responsibility for Artificial Intelligence Networks Act (TRAIN Act)",
+          "role": "cosponsor",
+          "year": 2025,
+          "summary": "Allows copyright holders to access AI training records to determine if their works were used to train generative AI models and seek compensation for misuse."
+        }
+      ]
+    },
+    {
+      "name": "Peter Welch",
+      "bioguideId": "W000800",
+      "role": "Senator (D-VT) · Senate Commerce Committee; Senate Judiciary Committee",
+      "stance": "restrictive",
+      "summary": "Welch co-sponsored the TRAIN Act (2025) with Blackburn, Hawley, and Schiff on AI training-data transparency, and co-signed the Dec. 2025 Markey States' Right to Regulate AI Act. He has focused on creative-sector rights and state regulatory authority.",
+      "keyPoints": [
+        "Co-sponsored TRAIN Act (Aug. 2025) with Blackburn, Hawley, and Schiff on AI training-data transparency for copyright holders.",
+        "Co-signed Dec. 2025 Markey States' Right to Regulate AI Act.",
+        "Member of Senate Commerce Committee overseeing AI and technology policy.",
+        "Focused on protecting creators from unauthorized AI training-data use and preserving state AI regulatory authority."
+      ],
+      "bills": [
+        {
+          "code": "S.3312",
+          "title": "Transparency and Responsibility for Artificial Intelligence Networks Act (TRAIN Act)",
+          "role": "cosponsor",
+          "year": 2025,
+          "summary": "Allows copyright holders to access AI training records to determine if their works were used to train generative AI models and seek legal recourse."
+        }
+      ]
+    },
+    {
+      "name": "Ben Ray Luján",
+      "bioguideId": "L000570",
+      "role": "Senator (D-NM) · Senate Commerce Committee member; Senate AI Caucus member",
+      "stance": "review",
+      "summary": "Luján co-sponsored the AI Research, Innovation, and Accountability Act (S.3312) with Thune and Klobuchar and co-sponsored the Future of AI Innovation Act (S.4178). He co-signed the Dec. 2025 Markey States' Right to Regulate AI Act and has focused on ensuring AI investments reach rural and tribal communities in New Mexico.",
+      "keyPoints": [
+        "Co-sponsored AI Research, Innovation, and Accountability Act (S.3312, 2023) establishing risk-based AI transparency standards.",
+        "Co-sponsored Future of AI Innovation Act (S.4178, 2024).",
+        "Co-signed Dec. 2025 Markey States' Right to Regulate AI Act.",
+        "Focuses on broadband and AI access equity for rural, tribal, and underserved New Mexico communities."
+      ],
+      "bills": [
+        {
+          "code": "S.3312",
+          "title": "Artificial Intelligence Research, Innovation, and Accountability Act of 2023",
+          "role": "cosponsor",
+          "year": 2023,
+          "summary": "Establishes risk-based transparency and accountability standards for high-impact AI applications, with Commerce Dept. certification requirements."
+        },
+        {
+          "code": "S.4178",
+          "title": "Future of AI Innovation Act",
+          "role": "cosponsor",
+          "year": 2024,
+          "summary": "Authorizes NIST AI Safety Institute and national-lab AI testbeds to sustain U.S. AI leadership through voluntary standards."
+        }
+      ]
+    },
+    {
+      "name": "Dick Durbin",
+      "bioguideId": "D000563",
+      "role": "Senator (D-IL) · Senate Judiciary Committee (former Chair)",
+      "stance": "restrictive",
+      "summary": "Durbin co-introduced the AI LEAD Act (Sept. 2025) with Hawley creating federal product-liability for AI harms, and co-signed the Dec. 2025 Markey States' Right to Regulate AI Act. As former Senate Judiciary chair, he oversaw multiple AI oversight hearings and co-sponsored the DEFIANCE Act targeting nonconsensual AI deepfake intimate imagery.",
+      "keyPoints": [
+        "Co-introduced AI LEAD Act (Sept. 2025) with Hawley creating federal product-liability cause of action for harms caused by AI systems.",
+        "Co-signed Dec. 2025 Markey States' Right to Regulate AI Act defending state AI regulatory authority.",
+        "Former Senate Judiciary Committee Chair overseeing AI oversight hearings in 118th Congress.",
+        "Lead Senate sponsor of DEFIANCE Act criminalizing nonconsensual AI deepfake intimate imagery."
+      ],
+      "bills": [
+        {
+          "code": "S.3696",
+          "title": "Disrupt Explicit Forged Images and Non-Consensual Edits Act of 2024 (DEFIANCE Act)",
+          "role": "sponsor",
+          "year": 2024,
+          "summary": "Provides a federal civil cause of action for victims of nonconsensual AI-generated sexually explicit deepfake imagery distributed without consent."
+        }
+      ]
+    },
+    {
+      "name": "Eric Schmitt",
+      "bioguideId": "S001227",
+      "role": "Senator (R-MO) · Senate Armed Services Committee; Senate Banking Committee",
+      "stance": "favorable",
+      "summary": "Schmitt co-introduced the Protecting AI and Cloud Competition in Defense Act with Warren (Dec. 2024, reintroduced May 2025) to prevent Big Tech monopolization of DoD AI and cloud contracts. Despite being a Republican in a party typically opposed to such measures, he framed the bill as a competition and national-security measure essential to preventing single-vendor DoD lock-in.",
+      "keyPoints": [
+        "Co-introduced Protecting AI and Cloud Competition in Defense Act (Dec. 2024) with Warren preventing DoD AI/cloud contracting monopolization.",
+        "Reintroduced bill (May 2025) citing White House guidelines alignment; Warren questioned Sec. Hegseth on DoD AI competition.",
+        "Serves on Senate Armed Services Committee with direct oversight of DoD AI spending.",
+        "Framed AI competition at DoD as essential to 'critical drivers of strategic advantage.'"
+      ],
+      "bills": [
+        {
+          "code": "S.3312",
+          "title": "Protecting AI and Cloud Competition in Defense Act",
+          "role": "cosponsor",
+          "year": 2024,
+          "summary": "Ensures DoD AI and cloud computing procurement promotes competition among providers, protecting government data and preventing Big Tech monopolies in defense contracting."
+        }
+      ]
+    },
+    {
+      "name": "Yvette D. Clarke",
+      "bioguideId": "C001067",
+      "role": "Representative (D-NY-9) · House Energy & Commerce Committee; House AI Task Force member",
+      "stance": "restrictive",
+      "summary": "Clarke has been a persistent House champion of AI deepfakes accountability legislation, introducing the DEEPFAKES Accountability Act (H.R.5586, 2023) requiring disclosures and civil/criminal penalties for harmful deepfakes. She served on the House Bipartisan AI Task Force and has led multiple letters on AI-generated political ad transparency.",
+      "keyPoints": [
+        "Introduced DEEPFAKES Accountability Act (H.R.5586, Sept. 2023) requiring disclosures and providing criminal/civil penalties for harmful deepfake content.",
+        "Served on House Bipartisan AI Task Force (2024) as one of 24 members.",
+        "Co-signed letter with Klobuchar (Oct. 2023) to Meta and X demanding information about AI-generated political ad policies.",
+        "Member of House Energy & Commerce Committee with jurisdiction over digital communications and AI consumer protection."
+      ],
+      "bills": [
+        {
+          "code": "H.R.5586",
+          "title": "DEEPFAKES Accountability Act",
+          "role": "sponsor",
+          "year": 2023,
+          "summary": "Requires any deepfake content distributed online to include clear disclosures of AI alteration and provides criminal and civil penalties plus a private right of action for depicted individuals."
+        }
+      ]
+    },
+    {
+      "name": "Don Beyer",
+      "bioguideId": "B001292",
+      "role": "Representative (D-VA-8) · House AI Caucus (Vice Chair); Joint Economic Committee",
+      "stance": "review",
+      "summary": "Beyer, a physicist and House AI Caucus vice chair, co-sponsored the House companion to the CREATE AI Act, co-introduced the AI Environmental Impacts Act of 2024 with Markey, and served on the House Bipartisan AI Task Force. He has focused on measuring and managing AI's energy and water footprint through data-center policy.",
+      "keyPoints": [
+        "Co-introduced AI Environmental Impacts Act of 2024 with Rep. Eshoo, Sen. Markey, and Sen. Heinrich measuring data-center AI energy/water impacts.",
+        "Co-sponsored House companion to CREATE AI Act (with Eshoo, McCaul, and Obernolte) establishing NAIRR.",
+        "Served on House Bipartisan AI Task Force (2024).",
+        "Chairs the Joint Economic Committee's AI subgroup focus on workforce and economic impacts."
+      ],
+      "bills": [
+        {
+          "code": "H.R.5628",
+          "title": "Creating Resources for Every American To Experiment with Artificial Intelligence Act (CREATE AI Act) — House companion",
+          "role": "cosponsor",
+          "year": 2024,
+          "summary": "Establishes NAIRR as a shared national AI research infrastructure providing broad academic and research access to computing and data tools."
+        }
+      ]
+    },
+    {
+      "name": "John Moolenaar",
+      "bioguideId": "M001194",
+      "role": "Representative (R-MI-2) · House Select Committee on the Chinese Communist Party (Chair)",
+      "stance": "restrictive",
+      "summary": "Moolenaar, as chair of the House Select Committee on the CCP, sent a bipartisan Jan. 2025 letter with Ranking Member Krishnamoorthi urging the White House to ban federal procurement of AI systems based on DeepSeek and other PRC AI models. His committee has been the primary House venue for AI-as-national-security oversight.",
+      "keyPoints": [
+        "Sent bipartisan letter (Jan. 29, 2025) with Ranking Member Krishnamoorthi urging NSA to update FAR to prohibit federal acquisition of PRC-based AI models like DeepSeek.",
+        "House CCP Select Committee has conducted oversight hearings on PRC AI investment and chip acquisition strategies.",
+        "Focuses on banning PRC AI models from federal systems and restricting U.S. AI technology transfers to China.",
+        "Coordinates with Senate counterparts Hawley and Warner on AI export-control and decoupling legislation."
+      ],
+      "bills": []
+    },
+    {
+      "name": "Raja Krishnamoorthi",
+      "bioguideId": "K000391",
+      "role": "Representative (D-IL-8) · House Select Committee on the Chinese Communist Party (Ranking Member); House Intelligence Committee",
+      "stance": "restrictive",
+      "summary": "Krishnamoorthi, as Ranking Member of the House CCP Select Committee, co-signed the Jan. 2025 letter with Moolenaar urging the administration to ban federal procurement of DeepSeek and other PRC AI systems. He has been one of the most active House members on AI-related China national-security concerns.",
+      "keyPoints": [
+        "Co-signed Jan. 2025 letter with Chair Moolenaar urging ban on federal acquisition of PRC-based AI models including DeepSeek.",
+        "House Intelligence Committee member: focuses on AI as a national-security and intelligence vulnerability.",
+        "Consistent advocate for restricting PRC access to U.S. AI technology and semiconductor supply chains.",
+        "Works across the aisle with Republicans on China AI competition as a bipartisan issue."
+      ],
+      "bills": []
+    },
+    {
+      "name": "Haley Stevens",
+      "bioguideId": "S001215",
+      "role": "Representative (D-MI-11) · House Science, Space & Technology Committee; House AI Task Force member",
+      "stance": "review",
+      "summary": "Stevens served on the House Bipartisan AI Task Force in 2024, bringing a manufacturing and science policy perspective from a district that includes major automotive and tech employers. She has championed AI workforce development legislation and the role of AI in revitalizing American manufacturing.",
+      "keyPoints": [
+        "Served on House Bipartisan AI Task Force (2024) as one of 24 members.",
+        "Member of House Science, Space & Technology Committee overseeing NSF, NIST, and AI research infrastructure funding.",
+        "Focuses on AI workforce development and AI integration in advanced manufacturing in Michigan.",
+        "Supports NAIRR establishment and federal AI R&D investment as pillars of U.S. competitiveness."
+      ],
+      "bills": []
+    },
+    {
+      "name": "Darrell Issa",
+      "bioguideId": "I000056",
+      "role": "Representative (R-CA-48) · House Judiciary Committee (IP Subcommittee Chair); House AI Task Force member",
+      "stance": "favorable",
+      "summary": "Issa chairs the House Judiciary Subcommittee on Courts, Intellectual Property, and the Internet, making him the primary House gatekeeper for AI copyright and IP legislation including the NO FAKES Act, DEFIANCE Act, and TRAIN Act. He served on the House Bipartisan AI Task Force and has focused on IP-based approaches to AI creator protection.",
+      "keyPoints": [
+        "Chairs House Judiciary IP Subcommittee: key jurisdiction for AI copyright, training-data, and right-of-publicity legislation.",
+        "Served on House Bipartisan AI Task Force (2024) as one of 24 members.",
+        "Oversaw House Judiciary IP hearings on AI-generated content, training-data scraping, and creator compensation.",
+        "Supports IP-rights-based rather than regulatory-mandate approaches to AI creator protection."
+      ],
+      "bills": []
+    },
+    {
+      "name": "Raphael Warnock",
+      "bioguideId": "W000790",
+      "role": "Senator (D-GA) · Senate Banking Committee; Senate Commerce Committee",
+      "stance": "review",
+      "summary": "Warnock co-introduced the Preventing Deep Fake Scams Act (June 2025) with Sen. Husted to create a Treasury-led task force protecting consumers from AI-powered financial fraud. He represents Georgia, a growing AI data-center hub, and has focused on protecting consumers and financial systems from AI-enabled fraud.",
+      "keyPoints": [
+        "Co-introduced Preventing Deep Fake Scams Act (June 2025) with Sen. Husted creating Treasury-led task force on AI financial fraud.",
+        "Bill targets AI-powered identity theft, voice cloning for scams, and deepfake financial fraud.",
+        "Georgia is a major AI data-center expansion state; Warnock balances economic development with consumer protection.",
+        "Serves on Senate Banking Committee with jurisdiction over AI in financial services."
+      ],
+      "bills": [
+        {
+          "code": "S.3312",
+          "title": "Preventing Deep Fake Scams Act",
+          "role": "cosponsor",
+          "year": 2025,
+          "summary": "Establishes a Treasury-led interagency task force to protect financial institutions and consumers from AI-powered deepfake fraud, identity theft, and voice-cloning scams."
+        }
+      ]
+    },
+    {
+      "name": "Ben Cline",
+      "bioguideId": "C001118",
+      "role": "Representative (R-VA-6) · House Judiciary Committee; House AI Task Force member",
+      "stance": "favorable",
+      "summary": "Cline served on the House Bipartisan AI Task Force in 2024, representing a rural Virginia district that intersects with the Northern Virginia data-center corridor — the world's largest concentration of data-center capacity. He has focused on AI innovation enablement and ensuring rural communities benefit from data-center development.",
+      "keyPoints": [
+        "Served on House Bipartisan AI Task Force (2024) as one of 24 members.",
+        "Represents VA-6, adjacent to Northern Virginia's data-center corridor — world's largest data-center concentration.",
+        "Focuses on AI innovation enablement and light-touch regulatory approaches through Judiciary Committee.",
+        "House Judiciary Committee jurisdiction over AI liability, IP, and Section 230 reform relevant to AI platforms."
+      ],
+      "bills": []
+    },
+    {
+      "name": "French Hill",
+      "bioguideId": "H001072",
+      "role": "Representative (R-AR-2) · House Financial Services Committee (Chair, 119th); House AI Task Force member",
+      "stance": "favorable",
+      "summary": "Hill chairs the House Financial Services Committee in the 119th Congress, giving him jurisdiction over AI in banking, payments, and capital markets. He served on the House Bipartisan AI Task Force in 2024 and has focused on AI's role in financial services, both as an innovation enabler and a systemic risk.",
+      "keyPoints": [
+        "Chairs House Financial Services Committee (119th): key jurisdiction for AI in banking, payments, fintech, and capital markets.",
+        "Served on House Bipartisan AI Task Force (2024) as one of 24 members.",
+        "Focuses on AI's transformative potential in financial services and risks of AI-enabled fraud and market manipulation.",
+        "Supports voluntary industry standards for AI in finance over prescriptive regulation."
+      ],
+      "bills": []
+    },
+    {
+      "name": "Jon Husted",
+      "bioguideId": "H001098",
+      "role": "Senator (R-OH) · Senate Commerce Committee; Senate Banking Committee",
+      "stance": "review",
+      "summary": "Husted co-introduced the Preventing Deep Fake Scams Act (June 2025) with Warnock targeting AI-enabled financial fraud, and has positioned himself as a pragmatic Republican AI policymaker focused on consumer protection from AI misuse while supporting innovation.",
+      "keyPoints": [
+        "Co-introduced Preventing Deep Fake Scams Act (June 2025) with Warnock creating a Treasury/financial regulator task force on AI fraud.",
+        "Targets AI-powered financial fraud including voice cloning for scam calls and deepfake impersonation of executives.",
+        "Member of Senate Commerce Committee with jurisdiction over AI technology policy.",
+        "Represents Ohio, a state with growing AI/data-center investment from Intel, Google, and Meta."
+      ],
+      "bills": [
+        {
+          "code": "S.3312",
+          "title": "Preventing Deep Fake Scams Act",
+          "role": "sponsor",
+          "year": 2025,
+          "summary": "Establishes a Treasury-led interagency task force to protect financial institutions and consumers from AI-powered deepfake fraud, identity theft, and voice-cloning scams."
+        }
+      ]
+    }
+  ]
+}

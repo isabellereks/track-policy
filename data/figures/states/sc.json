@@ -36,7 +36,6 @@
       "Budget"
     ],
     "stance": "review",
-    "quote": "Foreign policy hawk who loves media attention and dramatic statements",
     "techRegScore": 0.75,
     "lobbying": {
       "topIndustries": [
@@ -65,7 +64,6 @@
       "Financial Services"
     ],
     "stance": "favorable",
-    "quote": "Freedom Caucus fiscal hawk known for dramatic gestures",
     "techRegScore": 0.75,
     "lobbying": {
       "topIndustries": [
@@ -142,7 +140,6 @@
       "HELP"
     ],
     "stance": "favorable",
-    "quote": "Optimistic conservative message and police reform efforts, potential presidential candidate",
     "techRegScore": 0.72,
     "lobbying": {
       "topIndustries": [
@@ -194,7 +191,6 @@
       "Oversight"
     ],
     "stance": "review",
-    "quote": "First woman to graduate from The Citadel, unpredictable Trump critic who still votes mostly with GOP",
     "techRegScore": 0.55,
     "lobbying": {
       "topIndustries": [
@@ -219,7 +215,6 @@
     "chamber": "house",
     "committees": [],
     "stance": "review",
-    "quote": "The kingmaker who helped secure Biden's 2020 nomination",
     "techRegScore": 0.2,
     "lobbying": {
       "topIndustries": [

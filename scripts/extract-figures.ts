@@ -58,7 +58,6 @@ interface KeyFigure {
   chamber: Chamber;
   committees: string[];
   stance: StanceType;
-  quote?: string;
   techRegScore: number;
   lobbying: {
     topIndustries: string[];
@@ -188,10 +187,6 @@ function buildRole(m: SimMember, chamber: Chamber): string {
   return parts.join(" ");
 }
 
-function buildQuote(m: SimMember): string | undefined {
-  return m.personality?.known_for || m.personality?.pressure_point || undefined;
-}
-
 function buildFigure(m: SimMember, chamber: Chamber): KeyFigure {
   const state = m.state ?? "";
   const partyLetter = (m.party ?? "").charAt(0).toUpperCase();
@@ -204,7 +199,6 @@ function buildFigure(m: SimMember, chamber: Chamber): KeyFigure {
     chamber,
     committees: m.committees ?? [],
     stance: deriveStance(m),
-    quote: buildQuote(m),
     techRegScore: m.issues?.tech_regulation ?? 0,
     lobbying: {
       topIndustries: m.lobbying?.top_industries ?? [],

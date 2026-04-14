@@ -1,0 +1,455 @@
+{
+  "generatedAt": "2026-04-13T20:50:16.574Z",
+  "politicians": [
+    {
+      "id": "uk-kendall",
+      "name": "Liz Kendall",
+      "role": "MP · Secretary of State for Science, Innovation and Technology (DSIT)",
+      "party": "Labour",
+      "stance": "favorable",
+      "country": "GB",
+      "chamber": "commons",
+      "constituency": "Leicester West",
+      "summary": "Appointed Secretary of State for DSIT in September 2025, Kendall oversees the UK's AI Opportunities Action Plan and data-centre infrastructure programme. On 18 March 2026 she made a written statement to Parliament on Copyright and AI, committing to evidence-led reform while stating 'it will take time to get this right'.",
+      "keyPoints": [
+        "Replaced Peter Kyle as DSIT Secretary of State on 5 September 2025.",
+        "Published the AI Opportunities Action Plan: One Year On progress report on 29 January 2026.",
+        "Made written statement to Parliament on Copyright and AI on 18 March 2026 under the Data (Use and Access) Act 2025.",
+        "Co-chairs the AI Energy Council alongside the Energy Secretary to coordinate data-centre power infrastructure."
+      ],
+      "votes": [
+        {
+          "billId": "uk-data-use-access-act-2025",
+          "billCode": "Data (Use and Access) Act 2025",
+          "voteDate": "2025-06-10",
+          "position": "yea",
+          "sourceUrl": "https://hansard.parliament.uk/commons/2025-06-10/debates/476ED2DB-F9D2-406A-B7D2-269A2A33A08A/Data(UseAndAccess)Bill(Lords)"
+        }
+      ]
+    },
+    {
+      "id": "uk-narayan",
+      "name": "Kanishka Narayan",
+      "role": "MP · Parliamentary Under-Secretary of State for AI and Online Safety (DSIT)",
+      "party": "Labour",
+      "stance": "favorable",
+      "country": "GB",
+      "chamber": "commons",
+      "constituency": "Vale of Glamorgan",
+      "summary": "Appointed Minister for AI and Online Safety on 7 September 2025, Narayan oversees the AI Security Institute, semiconductor strategy, and the Tech for Growth and AI Opportunities initiatives. He announced the South Wales AI Growth Zone — a £10 billion Vantage Data Centres site projected to create 5,000 jobs — and co-published the AI for Science Strategy in November 2025.",
+      "keyPoints": [
+        "Appointed Parliamentary Under-Secretary of State for AI and Online Safety, DSIT, on 7 September 2025.",
+        "Announced South Wales AI Growth Zone (£10bn Vantage Data Centres investment) in November 2025.",
+        "Co-published UK AI for Science Strategy on 20 November 2025, allocating up to £137 million.",
+        "Stated '14,000+ AI jobs created' across the UK within first 100 days in post."
+      ]
+    },
+    {
+      "id": "uk-murray-ian",
+      "name": "Ian Murray",
+      "role": "MP · Minister of State for Digital Government and Data (DSIT/DCMS)",
+      "party": "Labour",
+      "stance": "favorable",
+      "country": "GB",
+      "chamber": "commons",
+      "constituency": "Edinburgh South",
+      "summary": "Appointed in September 2025 with a remit split between DSIT and DCMS, Murray holds responsibility for public sector digital reform, digital identity, digital products, and data policy — directly relevant to AI data infrastructure governance.",
+      "keyPoints": [
+        "Appointed Minister for Digital Government and Data in September 2025 reshuffle.",
+        "Remit covers public sector reform, digital identity, digital products, and data policy.",
+        "Role straddles DSIT and Department for Culture, Media and Sport.",
+        "Previously served as Secretary of State for Scotland before joining DSIT."
+      ]
+    },
+    {
+      "id": "uk-onwurah",
+      "name": "Chi Onwurah",
+      "role": "MP · Chair, Science, Innovation and Technology Select Committee",
+      "party": "Labour",
+      "stance": "review",
+      "country": "GB",
+      "chamber": "commons",
+      "constituency": "Newcastle upon Tyne Central and West",
+      "summary": "A chartered engineer and former telecoms professional, Onwurah chairs the Science, Innovation and Technology Committee and has been an active parliamentary voice on AI infrastructure, data governance, and technology sovereignty. She opened a Westminster Hall debate on technology sovereignty on 10 March 2026 and has pressed the government on the NHS Palantir contract and AI copyright transparency.",
+      "keyPoints": [
+        "Elected Chair of the Science, Innovation and Technology Committee in September 2024.",
+        "Opened Westminster Hall debate on technology sovereignty, 10 March 2026 (HC Deb).",
+        "Called for government review of all options on NHS–Palantir contract over vendor lock-in concerns (March 2026).",
+        "Tabled written questions on Microsoft CoPilot cost-benefit analysis and AI use in Parliament."
+      ],
+      "votes": [
+        {
+          "billId": "uk-data-use-access-act-2025",
+          "billCode": "Data (Use and Access) Act 2025",
+          "voteDate": "2025-05-07",
+          "position": "yea",
+          "sourceUrl": "https://hansard.parliament.uk/commons/2025-05-07/debates/Data(UseAndAccess)Bill"
+        }
+      ]
+    },
+    {
+      "id": "uk-lopez",
+      "name": "Julia Lopez",
+      "role": "MP · Shadow Secretary of State for Science, Innovation and Technology",
+      "party": "Conservative",
+      "stance": "review",
+      "country": "GB",
+      "chamber": "commons",
+      "constituency": "Hornchurch and Upminster",
+      "summary": "As Shadow DSIT Secretary of State, Lopez scrutinises the government's AI and data-centre policy from the opposition front bench, challenging DSIT on systemic risks from cloud-provider concentration and engaging on the Cyber Security and Resilience Bill. She was extensively active in the Data (Use and Access) Bill passage and questioned DSIT on reliance on two dominant cloud providers following recent outages.",
+      "keyPoints": [
+        "Shadow Secretary of State for Science, Innovation and Technology under Badenoch shadow cabinet.",
+        "Questioned DSIT on 'systemic risk from reliance on two dominant cloud providers following recent outages'.",
+        "Active in scrutiny of the Cyber Security and Resilience (Network and Information Systems) Bill (first reading November 2025).",
+        "Contributed to debates on Data (Use and Access) Act 2025 throughout its passage."
+      ]
+    },
+    {
+      "id": "uk-spencer-ben",
+      "name": "Ben Spencer",
+      "role": "MP · Shadow Minister of State, Science, Innovation and Technology",
+      "party": "Conservative",
+      "stance": "review",
+      "country": "GB",
+      "chamber": "commons",
+      "constituency": "Runnymede and Weybridge",
+      "summary": "As Shadow DSIT Minister of State, Spencer has been the Conservatives' lead opposition voice on AI copyright and data legislation, acting as shadow minister during Data (Use and Access) Bill ping-pong in May–June 2025. He raised concerns that the government's AI/copyright working group risked being a one-way reporting channel rather than genuine parliamentary input.",
+      "keyPoints": [
+        "Shadow Minister of State for DSIT; led Conservative opposition in Data (Use and Access) Bill debates 2025.",
+        "Criticised the government's parliamentary working group on AI and copyright as insufficient scrutiny.",
+        "Active in Cyber Security and Resilience (Network and Information Systems) Bill committee from January 2026.",
+        "Stated at December 2024 debate on Copyright and AI: 'while we need science to live, the arts make life worth living'."
+      ],
+      "votes": [
+        {
+          "billId": "uk-data-use-access-act-2025",
+          "billCode": "Data (Use and Access) Act 2025",
+          "voteDate": "2025-06-10",
+          "position": "nay",
+          "sourceUrl": "https://hansard.parliament.uk/commons/2025-06-10/debates/476ED2DB-F9D2-406A-B7D2-269A2A33A08A/Data(UseAndAccess)Bill(Lords)"
+        }
+      ]
+    },
+    {
+      "id": "uk-frith",
+      "name": "James Frith",
+      "role": "MP · Parliamentary Under-Secretary of State (DSIT, unpaid)",
+      "party": "Labour",
+      "stance": "favorable",
+      "country": "GB",
+      "chamber": "commons",
+      "constituency": "Bury North",
+      "summary": "Appointed unpaid Parliamentary Under-Secretary of State at DSIT following the September 2025 reshuffle, Frith holds a junior ministerial role within the department responsible for the AI Opportunities Action Plan, data-centre growth zones, and digital infrastructure policy.",
+      "keyPoints": [
+        "Appointed unpaid Parliamentary Under-Secretary of State at DSIT in September 2025.",
+        "Role sits within DSIT alongside Kanishka Narayan and Ian Murray.",
+        "Department oversees AI Growth Zones and data-centre nationally significant infrastructure planning."
+      ]
+    },
+    {
+      "id": "uk-kyle",
+      "name": "Peter Kyle",
+      "role": "MP · Minister of State, Department for Business and Trade (former DSIT Secretary of State)",
+      "party": "Labour",
+      "stance": "favorable",
+      "country": "GB",
+      "chamber": "commons",
+      "constituency": "Hove and Portslade",
+      "summary": "Kyle served as the inaugural Labour DSIT Secretary of State from July 2024 to September 2025, publishing the AI Opportunities Action Plan in January 2025 and co-chairing the AI Energy Council. After the September 2025 reshuffle he moved to DBT, but signalled continued AI engagement by appearing on stage with Nvidia CEO Jensen Huang shortly after departing DSIT.",
+      "keyPoints": [
+        "Served as DSIT Secretary of State July 2024 – September 2025; published AI Opportunities Action Plan January 2025.",
+        "Created the AI Energy Council co-chaired with the Energy Secretary to accelerate data-centre grid connections.",
+        "Launched AI Growth Zones framework including the first zone at Culham, Oxfordshire.",
+        "Appeared on stage with Nvidia CEO Jensen Huang post-reshuffle, signalling continued AI industry engagement."
+      ]
+    },
+    {
+      "id": "uk-murrison",
+      "name": "Andrew Murrison",
+      "role": "MP · Member, Science, Innovation and Technology Committee",
+      "party": "Conservative",
+      "stance": "review",
+      "country": "GB",
+      "chamber": "commons",
+      "constituency": "South West Wiltshire",
+      "summary": "Murrison chaired the November 2025 General Committee considering the Draft Infrastructure Planning (Business or Commercial Projects) (Amendment) Regulations 2025 — the statutory instrument classifying large data centres as Nationally Significant Infrastructure Projects (NSIPs). He questioned ministers on the implications for planning consent timelines.",
+      "keyPoints": [
+        "Chaired November 2025 General Committee on Draft Infrastructure Planning (Data Centres as NSIPs) Regulations 2025.",
+        "Scrutinised government's plan to allow large data centres to enter NSIP consenting process.",
+        "Pressed DSIT on National Policy Statement for data centres and decision-making thresholds."
+      ],
+      "votes": [
+        {
+          "billId": "uk-infrastructure-planning-data-centres-regs-2025",
+          "billCode": "Draft Infrastructure Planning (Business or Commercial Projects) (Amendment) Regulations 2025",
+          "voteDate": "2025-11-12",
+          "position": "not-voting",
+          "sourceUrl": "https://hansard.parliament.uk/commons/2025-11-12/debates/238160f2-d451-4d94-a0f8-b755e63f1a6c/DraftInfrastructurePlanning(BusinessOrCommercialProjects)(Amendment)Regulations2025"
+        }
+      ]
+    },
+    {
+      "id": "uk-griffiths-alison",
+      "name": "Alison Griffiths",
+      "role": "MP · Conservative front bench spokesperson, DSIT",
+      "party": "Conservative",
+      "stance": "review",
+      "country": "GB",
+      "chamber": "commons",
+      "constituency": "Bognor Regis and Littlehampton",
+      "summary": "Griffiths is among the top Conservative sparring partners for DSIT ministers including Kanishka Narayan, with 17 recorded debate interactions on DSIT matters. She raised constituency concerns about data-centre siting on green belt, asking (January 2025 AI Action Plan debate) how the Secretary of State would prevent data centres being built as 'white elephants in the wrong places' — specifically referencing a proposed site in Kings Langley on prime green belt.",
+      "keyPoints": [
+        "Raised data-centre siting concern at AI Opportunities Action Plan debate, 13 January 2025 (Hansard).",
+        "Challenged government on Kings Langley green-belt data-centre proposal: 'housing would make better sense'.",
+        "One of 17 recorded DSIT debate interactions with minister Kanishka Narayan.",
+        "Scrutinises AI infrastructure planning decisions affecting constituents and green-belt land."
+      ],
+      "votes": [
+        {
+          "billId": "uk-ai-opportunities-action-plan-debate",
+          "billCode": "AI Opportunities Action Plan (Statement and Debate)",
+          "voteDate": "2025-01-13",
+          "position": "not-voting",
+          "sourceUrl": "https://hansard.parliament.uk/commons/2025-01-13/debates/8C036071-5845-443C-B903-57483D552854/ArtificialIntelligenceOpportunitiesActionPlan"
+        }
+      ]
+    },
+    {
+      "id": "uk-carling",
+      "name": "Sam Carling",
+      "role": "MP · Chair, Parliamentary and Scientific Committee APPG",
+      "party": "Labour",
+      "stance": "favorable",
+      "country": "GB",
+      "chamber": "commons",
+      "constituency": "North West Cambridgeshire",
+      "summary": "Elected Chair of the Parliamentary and Scientific Committee APPG on 27 October 2025, Carling represents a constituency adjacent to the Cambridge AI research cluster hosting the DAWN supercomputer and the University of Cambridge AI Research Resource — infrastructure the government committed to expand sixfold in January 2026.",
+      "keyPoints": [
+        "Elected Chair of the Parliamentary and Scientific Committee APPG, 27 October 2025.",
+        "Represents North West Cambridgeshire, adjacent to Cambridge's DAWN supercomputer and AI Research Resource.",
+        "Government confirmed £36m investment into Cambridge's AI compute infrastructure in January 2026.",
+        "APPG role places him at the intersection of scientific computing and parliamentary science policy."
+      ]
+    },
+    {
+      "id": "uk-jopp-lincoln",
+      "name": "Lincoln Jopp",
+      "role": "MP · Conservative front bench spokesperson, DSIT",
+      "party": "Conservative",
+      "stance": "review",
+      "country": "GB",
+      "chamber": "commons",
+      "constituency": "Sleaford and North Hykeham",
+      "summary": "Jopp is a front-bench DSIT spokesperson who has engaged in 22 recorded debate interactions with DSIT ministers including Kanishka Narayan. Lincolnshire is the location of a planned 1,000 MW data centre at Elsham Tech Park, making grid and planning issues directly relevant to his constituency engagement.",
+      "keyPoints": [
+        "Conservative DSIT front-bench spokesperson with 22 recorded debate interactions with DSIT ministers.",
+        "Lincolnshire hosts the planned Elsham Tech Park 1,000 MW data-centre project.",
+        "Active in scrutiny of DSIT ministerial decisions on AI infrastructure and data policy.",
+        "Engaged in debates on the Cyber Security and Resilience (Network and Information Systems) Bill."
+      ]
+    },
+    {
+      "id": "uk-starmer",
+      "name": "Keir Starmer",
+      "role": "MP · Prime Minister",
+      "party": "Labour",
+      "stance": "favorable",
+      "country": "GB",
+      "chamber": "commons",
+      "constituency": "Holborn and St Pancras",
+      "summary": "Starmer personally launched the AI Opportunities Action Plan on 13 January 2025, declaring his ambition to make the UK an 'AI superpower' and committing to treat AI as central to the government's economic growth plan. He oversaw £14 billion of private-sector data-centre investment announcements as part of the action plan launch.",
+      "keyPoints": [
+        "Launched the AI Opportunities Action Plan on 13 January 2025, pledging to make UK an 'AI superpower'.",
+        "Oversaw £14bn of private-sector data-centre investment announcements at the January 2025 launch event.",
+        "Stated: 'The AI industry needs a government that is on their side… we must move fast.'",
+        "Established AI Growth Zones and the AI Energy Council as part of the action plan framework."
+      ]
+    },
+    {
+      "id": "uk-rayner",
+      "name": "Angela Rayner",
+      "role": "MP · Deputy Prime Minister and Secretary of State for Housing, Communities and Local Government",
+      "party": "Labour",
+      "stance": "favorable",
+      "country": "GB",
+      "chamber": "commons",
+      "constituency": "Ashton-under-Lyne",
+      "summary": "In December 2024 Rayner exercised call-in powers to approve a data-centre development in Buckinghamshire that local planning authorities had rejected, signalling government willingness to override local planning objections for AI infrastructure. This power is being formalised through DSIT's proposed updates to the Consultation Direction.",
+      "keyPoints": [
+        "Called in and approved a Buckinghamshire data-centre project rejected by local councillors (December 2024).",
+        "Planning policy role is central to AI Growth Zones and NPPF consultation on data-centre siting (December 2025).",
+        "DSIT's Consultation Direction updates — enabling ministerial call-in for AI infrastructure — fall within her planning remit.",
+        "Planning and Infrastructure Bill (currently before Parliament) includes provisions relevant to data-centre NSIPs."
+      ]
+    },
+    {
+      "id": "uk-freer-mike",
+      "name": "Ellie Reeves",
+      "role": "MP · Minister without Portfolio / Cabinet Office",
+      "party": "Labour",
+      "stance": "none",
+      "country": "GB",
+      "chamber": "commons",
+      "constituency": "Lewisham West and East Dulwich"
+    },
+    {
+      "id": "uk-joanne-harris",
+      "name": "Steff Aquarone",
+      "role": "MP · Liberal Democrat science and technology spokesperson",
+      "party": "Liberal Democrat",
+      "stance": "review",
+      "country": "GB",
+      "chamber": "commons",
+      "constituency": "North Norfolk"
+    },
+    {
+      "id": "uk-miliband",
+      "name": "Ed Miliband",
+      "role": "MP · Secretary of State for Energy Security and Net Zero",
+      "party": "Labour",
+      "stance": "review",
+      "country": "GB",
+      "chamber": "commons",
+      "constituency": "South Shields",
+      "summary": "As Energy Secretary, Miliband's department is a key counterpart to DSIT on data-centre policy: his department oversees grid connections and power allocation for AI Growth Zones, and DSIT has been reported as feuding with his department over the pace of building out power infrastructure for data centres. He co-chairs the AI Energy Council with the DSIT Secretary of State.",
+      "keyPoints": [
+        "Co-chairs the AI Energy Council with the DSIT Secretary of State to coordinate data-centre grid connections.",
+        "DSIT reportedly in tension with Miliband's department over pace of power infrastructure for data centres.",
+        "AI Growth Zones require his department's agreement on grid connections and renewable energy co-location.",
+        "Government committed to targeted pricing support for data centres in Scotland, Cumbria, and the North East."
+      ]
+    },
+    {
+      "id": "uk-taunton-mp",
+      "name": "Gideon Amos",
+      "role": "MP · Liberal Democrat, Planning and Infrastructure Bill scrutiny",
+      "party": "Liberal Democrat",
+      "stance": "review",
+      "country": "GB",
+      "chamber": "commons",
+      "constituency": "Taunton and Wellington",
+      "summary": "In the November 2025 General Committee on Draft Infrastructure Planning (Data Centres as NSIPs) Regulations, the MP for Taunton and Wellington raised the issue of data-centre heat capture — noting that data centres produce significant waste heat and that the technology exists to capture it for district heating networks — prompting a ministerial commitment to factor this into NSIP guidance.",
+      "keyPoints": [
+        "Raised data-centre heat capture issue at November 2025 NSIP Regulations Committee debate.",
+        "Pressed government to require data-centre developers to utilise waste heat for district heating networks.",
+        "Cited Devon example of data-centre heat warming a local swimming pool as best practice.",
+        "Active in Planning and Infrastructure Bill scrutiny, relevant to AI data-centre NSIP consenting."
+      ],
+      "votes": [
+        {
+          "billId": "uk-infrastructure-planning-data-centres-regs-2025",
+          "billCode": "Draft Infrastructure Planning (Business or Commercial Projects) (Amendment) Regulations 2025",
+          "voteDate": "2025-11-12",
+          "position": "yea",
+          "sourceUrl": "https://hansard.parliament.uk/commons/2025-11-12/debates/238160f2-d451-4d94-a0f8-b755e63f1a6c/DraftInfrastructurePlanning(BusinessOrCommercialProjects)(Amendment)Regulations2025"
+        }
+      ]
+    },
+    {
+      "id": "uk-ruislip-mp",
+      "name": "David Simmonds",
+      "role": "MP · Conservative Opposition Whip; Planning and Infrastructure Bill Committee",
+      "party": "Conservative",
+      "stance": "review",
+      "country": "GB",
+      "chamber": "commons",
+      "constituency": "Ruislip, Northwood and Pinner",
+      "summary": "As the Opposition Whip involved in scrutinising the Planning and Infrastructure Bill in Committee, the MP for Ruislip, Northwood and Pinner was cited by ministers in November 2025 Hansard as having engaged with the data-centre NSIP consenting provisions. The constituency is near the established data-centre cluster in West London.",
+      "keyPoints": [
+        "Named by ministers in November 2025 Hansard as involved in Planning and Infrastructure Bill Committee scrutiny.",
+        "Constituency adjacent to West London/Slough data-centre corridor.",
+        "Conservative Opposition Whip role includes coordinating scrutiny of AI infrastructure legislation.",
+        "Planning and Infrastructure Bill includes NSIP consenting provisions directly affecting data-centre development."
+      ],
+      "votes": [
+        {
+          "billId": "uk-infrastructure-planning-data-centres-regs-2025",
+          "billCode": "Draft Infrastructure Planning (Business or Commercial Projects) (Amendment) Regulations 2025",
+          "voteDate": "2025-11-12",
+          "position": "not-voting",
+          "sourceUrl": "https://hansard.parliament.uk/commons/2025-11-12/debates/238160f2-d451-4d94-a0f8-b755e63f1a6c/DraftInfrastructurePlanning(BusinessOrCommercialProjects)(Amendment)Regulations2025"
+        }
+      ]
+    },
+    {
+      "id": "uk-jones-darren",
+      "name": "Darren Jones",
+      "role": "MP · Chief Secretary to the Treasury",
+      "party": "Labour",
+      "stance": "favorable",
+      "country": "GB",
+      "chamber": "commons",
+      "constituency": "Bristol North West",
+      "summary": "As Chief Secretary to the Treasury, Jones oversees the public R&D spending envelope — including the £2 billion AI investment (2026–2030) and R&D budget rising from £13.9 billion in 2025–26 to £15.2 billion in 2029–30 — making him central to the financial architecture behind the AI data-centre and compute programme. He also published the government's National Security and Investment Act consultation response on qualifying tech entities.",
+      "keyPoints": [
+        "Oversees R&D budget rising to £15.2bn by 2029–30 and the £2bn AI investment envelope (2026–2030).",
+        "Published government response to National Security and Investment Act consultation on qualifying technology entities.",
+        "Treasury approval underpins AI Growth Zone public-private partnerships and sovereign AI compute investments.",
+        "Spending Review 2025 backed the National Data Library with over £100 million."
+      ]
+    },
+    {
+      "id": "uk-cleverly",
+      "name": "James Cleverly",
+      "role": "MP · Former Home Secretary; active on AI security written questions",
+      "party": "Conservative",
+      "stance": "review",
+      "country": "GB",
+      "chamber": "commons",
+      "constituency": "Braintree",
+      "summary": "Cleverly has been active in tabling written questions on AI and data policy as of early 2026, including on housing and data infrastructure questions catalogued in TheyWorkForYou. As a former Home Secretary and Foreign Secretary, he brings a national-security lens to AI governance debates.",
+      "keyPoints": [
+        "Active in tabling written questions on data and digital infrastructure matters into 2026.",
+        "Brings national-security perspective from former roles as Home Secretary and Foreign Secretary.",
+        "Engaged in parliamentary scrutiny of AI governance and data-centre security frameworks.",
+        "Conservative front bench figure whose party held AI policy responsibility until July 2024."
+      ]
+    },
+    {
+      "id": "uk-starmer-tech-sovereignty",
+      "name": "Gill Furniss",
+      "role": "MP · Labour backbencher, Technology Sovereignty debate participant",
+      "party": "Labour",
+      "stance": "favorable",
+      "country": "GB",
+      "chamber": "commons",
+      "constituency": "Sheffield Brightside and Hillsborough"
+    },
+    {
+      "id": "uk-mcguinness",
+      "name": "Alison McGovern",
+      "role": "MP · Minister of State for Employment (DWP); AI and labour-market engagement",
+      "party": "Labour",
+      "stance": "favorable",
+      "country": "GB",
+      "chamber": "commons",
+      "constituency": "Wirral South"
+    },
+    {
+      "id": "uk-freer-tech-sov",
+      "name": "Iqbal Mohamed",
+      "role": "MP · Independent; Technology Sovereignty debate, AI national security concerns",
+      "party": "Independent",
+      "stance": "concerning",
+      "country": "GB",
+      "chamber": "commons",
+      "constituency": "Dewsbury and Batley",
+      "summary": "Mohamed spoke in the 10 March 2026 Westminster Hall technology sovereignty debate chaired by Chi Onwurah, raising concerns about AI and national security. He warned that Ministry of Defence contracts with companies such as Palantir — whose AI security expert stated 'the market for military AI does not pause for ethics' — risk entangling the UK with firms that believe they are 'too big to follow national law'.",
+      "keyPoints": [
+        "Spoke in Westminster Hall technology sovereignty debate, 10 March 2026.",
+        "Raised concerns about MoD AI contracts with Palantir, citing ethical and legal accountability risks.",
+        "Argued technology sovereignty must be grounded in 'UK values' and compliance with international law.",
+        "Cautioned against foreign-interference risk when UK intellectual property is traded for Silicon Valley venture capital."
+      ],
+      "votes": [
+        {
+          "billId": "uk-tech-sovereignty-debate",
+          "billCode": "Technology Sovereignty Westminster Hall Debate",
+          "voteDate": "2026-03-10",
+          "position": "not-voting",
+          "sourceUrl": "https://hansard.parliament.uk/commons/2026-03-10/debates/A91DF2A1-6231-4A38-AF17-56B742D06E95/TechnologySovereignty"
+        }
+      ]
+    }
+  ]
+}

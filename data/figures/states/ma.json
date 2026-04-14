@@ -8,7 +8,6 @@
     "chamber": "house",
     "committees": [],
     "stance": "review",
-    "quote": "Tech policy expert and fierce advocate for working families",
     "techRegScore": 0.75,
     "lobbying": {
       "topIndustries": [
@@ -157,7 +156,6 @@
       "Small Business"
     ],
     "stance": "review",
-    "quote": "Progressive climate warrior and tech regulation advocate, co-author of Green New Deal",
     "techRegScore": 0.2,
     "lobbying": {
       "topIndustries": [
@@ -210,7 +208,6 @@
       "Armed Services"
     ],
     "stance": "none",
-    "quote": "Aggressive questioning of bank CEOs and corporate accountability crusade",
     "techRegScore": 0.15,
     "lobbying": {
       "topIndustries": [
