@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-04T03:36:33.067Z",
+  "generatedAt": "2026-05-06T05:28:45.100Z",
   "regional": {
     "na": {
-      "summary": "Senators Tillis and Alsobrooks reached a compromise on stablecoin yield provisions within the Clarity Act, with Coinbase announcing the deal clears the path to a long-stalled Senate markup. The agreement allows cryptocurrency firms to continue offering rewards to users who hold stablecoins, resolving opposition from firms such as Phantom and Consensys who had challenged the OCC's proposed ban on stablecoin yield under the GENIUS Act. Separately, FinCEN and OFAC proposed a rule requiring payment stablecoin issuers to implement requirements under the GENIUS Act, while BlackRock challenged the OCC's proposed 20% reserve requirement cap for stablecoin issuers. Brazil's central bank moved in the opposite direction, prohibiting the liquidation of stablecoins and cryptocurrencies in cross-border payments through its eFX system and recommending restrictions on issuance by unregulated companies.",
+      "summary": "Senators Tillis and Alsobrooks reached a compromise on stablecoin yield provisions within the Clarity Act, with Coinbase announcing the deal clears the path to a long-stalled Senate markup. Separately, FinCEN and OFAC proposed a rule requiring payment stablecoin issuers to implement requirements under the GENIUS Act, while the OCC's proposed 20% reserve cap for stablecoin issuers drew a challenge from BlackRock. Senate Democrats pressed nominee Marco Lutnick on a loan from a stablecoin company to a trust, adding political friction to an already contested legislative process. In Canada-adjacent regulatory contrast, Brazil's central bank prohibited the liquidation of stablecoins and cryptocurrencies in cross-border payments and proposed barring unregulated stablecoin issuers, tightening controls even as stablecoins overtake Bitcoin in Latin America crypto purchases according to Bitso.",
       "keyDevelopments": [],
       "highlights": [
         {
@@ -18,22 +18,30 @@
           "topic": "legislation"
         },
         {
-          "text": "BlackRock challenged the OCC's proposed 20% reserve requirement cap",
+          "text": "OCC's proposed 20% reserve cap for stablecoin issuers",
           "topic": "legislation"
         },
         {
-          "text": "prohibiting the liquidation of stablecoins and cryptocurrencies in cross-border payments",
+          "text": "challenge from BlackRock",
           "topic": "legislation"
         },
         {
-          "text": "recommending restrictions on issuance by unregulated companies",
+          "text": "Senate Democrats pressed nominee Marco Lutnick",
           "topic": "legislation"
+        },
+        {
+          "text": "Brazil's central bank prohibited the liquidation of stablecoins and cryptocurrencies in cross-border payments",
+          "topic": "legislation"
+        },
+        {
+          "text": "stablecoins overtake Bitcoin in Latin America crypto purchases",
+          "topic": "cooperation"
         }
       ],
-      "generatedAt": "2026-05-04T03:36:18.790Z"
+      "generatedAt": "2026-05-06T05:28:29.355Z"
     },
     "eu": {
-      "summary": "UBS partnered with five Swiss banks to test a Swiss franc stablecoin in a regulatory sandbox, with the pilot designed to bridge blockchain technology with traditional fiat payment systems. Six Swiss banks have formally launched a Swiss franc (CHF) stablecoin sandbox as of April 2026, signaling coordinated momentum in Switzerland toward tokenized domestic currency. In the United Kingdom, the Financial Conduct Authority is conducting a consultation on cryptoasset activities including stablecoin issuance, with full FCA compliance requirements expected to take effect for UK payment firms in 2026. Bank of England Governor Andrew Bailey has noted that progress on global stablecoin standards has slowed, a concern that has prompted calls for the UK to act more swiftly to develop stablecoins. Coinbase listed the first GBP stablecoin on April 22, 2026, while Worldline partnered with Circle to integrate stablecoin payment capabilities through the Circle Payments Network.",
+      "summary": "UBS partnered with five Swiss banks to test a Swiss franc stablecoin in a regulatory sandbox, advancing a CHF stablecoin pilot designed to bridge blockchain and fiat payment systems. In the United Kingdom, the Financial Conduct Authority is conducting a consultation on cryptoasset activities including stablecoin issuance, with full compliance requirements expected to be implemented in 2026 for UK payment firms. Bank of England Governor Andrew Bailey has cautioned that progress on global stablecoin standards has slowed, even as Coinbase listed the first GBP stablecoin on April 22 and Worldline partnered with Circle to integrate stablecoin payment capabilities into its managed payments offering. The FCA consultation and the Swiss sandbox together represent the two most active regulatory fronts in Europe, with Switzerland's initiative notably involving six banks in structured testing of a Swiss franc-denominated stablecoin ahead of any formal legislative framework.",
       "keyDevelopments": [],
       "highlights": [
         {
@@ -41,15 +49,15 @@
           "topic": "cooperation"
         },
         {
-          "text": "Swiss franc (CHF) stablecoin sandbox",
+          "text": "CHF stablecoin pilot",
           "topic": "legislation"
+        },
+        {
+          "text": "bridge blockchain and fiat payment systems",
+          "topic": "infrastructure"
         },
         {
           "text": "Financial Conduct Authority is conducting a consultation on cryptoasset activities including stablecoin issuance",
-          "topic": "legislation"
-        },
-        {
-          "text": "FCA compliance requirements expected to take effect for UK payment firms in 2026",
           "topic": "legislation"
         },
         {
@@ -57,22 +65,18 @@
           "topic": "cooperation"
         },
         {
-          "text": "UK to act more swiftly to develop stablecoins",
+          "text": "Coinbase listed the first GBP stablecoin",
           "topic": "legislation"
         },
         {
-          "text": "Coinbase listed the first GBP stablecoin on April 22, 2026",
-          "topic": "legislation"
-        },
-        {
-          "text": "Circle Payments Network",
-          "topic": "infrastructure"
+          "text": "six banks in structured testing of a Swiss franc-denominated stablecoin",
+          "topic": "cooperation"
         }
       ],
-      "generatedAt": "2026-05-04T03:36:25.449Z"
+      "generatedAt": "2026-05-06T05:28:36.103Z"
     },
     "asia": {
-      "summary": "HSBC has received a stablecoin licence in Hong Kong, marking a significant regulatory milestone as the Hong Kong Monetary Authority simultaneously launched an AI-powered anti-fraud platform to support the licensed stablecoin framework. The HKMA also issued public warnings about fake HSBC and HKDAP tokens circulating ahead of the first authorized products going live. In Japan, the Financial Services Agency classified JPYC under its regulated payment services framework, adding another jurisdiction-level determination to the region's stablecoin governance landscape. Australia released a draft payments vision that includes stablecoin interoperability, while a separate Treasury report calls for stricter oversight of stablecoins, signaling a dual-track approach of integration and prudential caution. Western Union announced plans to launch a B2B stablecoin for agent settlements in May 2026, with the rollout originating from Singapore operations, and Visa expanded its stablecoin settlement pilot to include five additional blockchains.",
+      "summary": "HSBC has received a stablecoin licence in Hong Kong, marking a significant step in the jurisdiction's licensed stablecoin framework, even as the Hong Kong Monetary Authority warned the public about counterfeit tokens impersonating HSBC and HKDAP ahead of the first authorized issuances; Hong Kong simultaneously launched an AI-powered anti-fraud platform to support the rollout. Australia released a draft payments vision that includes stablecoin interoperability, while a separate Treasury report called for stricter oversight of stablecoins across the country's financial system. Japan's Financial Services Agency classified JPYC under its regulated payment services framework, adding another jurisdiction-level regulatory action to the region. In Singapore, Western Union announced plans to launch a B2B stablecoin for agent settlements in May 2026, and Visa expanded its stablecoin settlement pilot to include five additional blockchains.",
       "keyDevelopments": [],
       "highlights": [
         {
@@ -80,27 +84,27 @@
           "topic": "legislation"
         },
         {
+          "text": "Hong Kong Monetary Authority warned the public about counterfeit tokens impersonating HSBC and HKDAP",
+          "topic": "legislation"
+        },
+        {
           "text": "AI-powered anti-fraud platform",
           "topic": "infrastructure"
-        },
-        {
-          "text": "fake HSBC and HKDAP tokens",
-          "topic": "legislation"
-        },
-        {
-          "text": "Financial Services Agency classified JPYC under its regulated payment services framework",
-          "topic": "legislation"
         },
         {
           "text": "draft payments vision that includes stablecoin interoperability",
           "topic": "legislation"
         },
         {
-          "text": "Treasury report calls for stricter oversight of stablecoins",
+          "text": "Treasury report called for stricter oversight of stablecoins",
           "topic": "legislation"
         },
         {
-          "text": "B2B stablecoin for agent settlements in May 2026",
+          "text": "Japan's Financial Services Agency classified JPYC under its regulated payment services framework",
+          "topic": "legislation"
+        },
+        {
+          "text": "Western Union announced plans to launch a B2B stablecoin for agent settlements in May 2026",
           "topic": "cooperation"
         },
         {
@@ -108,7 +112,7 @@
           "topic": "infrastructure"
         }
       ],
-      "generatedAt": "2026-05-04T03:36:33.067Z"
+      "generatedAt": "2026-05-06T05:28:45.100Z"
     }
   },
   "entities": {
