@@ -1,0 +1,60 @@
+{
+  "id": "cyprus",
+  "geoId": "196",
+  "name": "Cyprus",
+  "region": "eu",
+  "level": "federal",
+  "stance": "concerning",
+  "stanceDatacenter": "concerning",
+  "stanceAI": "concerning",
+  "contextBlurb": "Cyprus applies MiCA to stablecoin issuers and crypto-asset service providers. Fiat-referenced tokens are legal only inside the EU authorisation framework, with reserve, redemption, white paper, custody, governance and AML obligations. CySEC supervises much of the crypto-asset market conduct perimeter.",
+  "legislation": [
+    {
+      "id": "cyprus-leg-1",
+      "billCode": "Reg. (EU) 2023/1114",
+      "title": "Markets in Crypto-Assets Regulation (MiCA)",
+      "summary": "EU stablecoin framework for EMTs and ARTs, directly applicable in Cyprus.",
+      "stage": "Enacted",
+      "stance": "concerning",
+      "impactTags": [],
+      "category": "stablecoin-regulation",
+      "updatedDate": "2024-06-30",
+      "sourceUrl": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1114"
+    }
+  ],
+  "keyFigures": [],
+  "news": [
+    {
+      "id": "cyprus-news-1",
+      "headline": "MiCA information for crypto-asset service providers",
+      "source": "CySEC",
+      "date": "2025-01-01",
+      "url": "https://www.cysec.gov.cy/"
+    }
+  ],
+  "stablecoinMeta": {
+    "code": "CY",
+    "nameZh": "塞浦路斯",
+    "flagImg": "https://flagcdn.com/w320/cy.png",
+    "lastUpdated": "2025-01-01",
+    "summaryEn": "Cyprus follows MiCA. Stablecoin issuance is allowed with restrictions for authorised EMT and ART issuers; passporting is available for compliant EU issuers.",
+    "tags": ["licensing-required", "non-bank-permitted", "fiat-reserve-11", "algorithmic-banned", "monthly-attestation", "redemption-rights", "passporting", "aml-kyc", "travel-rule"],
+    "legalStatus": "legal_with_restrictions",
+    "regulatoryClarity": 5,
+    "regimeStatus": "finalized",
+    "classification": "e_money",
+    "allowsFiatBacked": true,
+    "allowsAlgorithmic": false,
+    "allowsAssetBacked": true,
+    "regulators": [
+      {
+        "id": "cyprus-reg-1",
+        "name": "Cyprus Securities and Exchange Commission",
+        "acronym": "CySEC",
+        "role": "National supervisor for crypto-asset market conduct and MiCA authorisation matters in Cyprus.",
+        "websiteUrl": "https://www.cysec.gov.cy/",
+        "isPrimary": true
+      }
+    ]
+  }
+}

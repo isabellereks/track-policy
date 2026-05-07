@@ -28,6 +28,7 @@ const KEYBOARD_GROUPS: { title: string; rows: Row[] }[] = [
       { keys: ["1"], label: "North America" },
       { keys: ["2"], label: "Europe" },
       { keys: ["3"], label: "Asia" },
+      { keys: ["4"], label: "Africa" },
     ],
   },
   {
@@ -53,7 +54,7 @@ const TOUCH_GROUPS: { title: string; rows: { label: string; hint: string }[] }[]
   {
     title: "Move between regions",
     rows: [
-      { label: "Switch region", hint: "Tap a pill at the top (Americas / Europe / Asia)" },
+      { label: "Switch region", hint: "Tap a pill at the top (Americas / Europe / Asia / Africa)" },
       { label: "Pan the map", hint: "Two-finger drag" },
       { label: "Zoom the map", hint: "Pinch in or out" },
     ],
@@ -114,6 +115,7 @@ export default function ShortcutsHelp({ open, onClose }: ShortcutsHelpProps) {
               { keys: ["1"], label: "北美" },
               { keys: ["2"], label: "欧洲" },
               { keys: ["3"], label: "亚洲" },
+              { keys: ["4"], label: "非洲" },
             ],
           },
           {
@@ -139,7 +141,7 @@ export default function ShortcutsHelp({ open, onClose }: ShortcutsHelpProps) {
           {
             title: "切换区域",
             rows: [
-              { label: "切换区域", hint: "点击顶部区域按钮（美洲 / 欧洲 / 亚洲）" },
+              { label: "切换区域", hint: "点击顶部区域按钮（美洲 / 欧洲 / 亚洲 / 非洲）" },
               { label: "平移地图", hint: "双指拖动" },
               { label: "缩放地图", hint: "双指捏合" },
             ],

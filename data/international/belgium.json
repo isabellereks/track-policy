@@ -1,0 +1,68 @@
+{
+  "id": "belgium",
+  "geoId": "056",
+  "name": "Belgium",
+  "region": "eu",
+  "level": "federal",
+  "stance": "concerning",
+  "stanceDatacenter": "concerning",
+  "stanceAI": "concerning",
+  "contextBlurb": "Belgium regulates stablecoins under MiCA and Belgian financial supervision. Fiat-backed stablecoins can be offered when the issuer qualifies and complies with MiCA's e-money token or asset-referenced token rules. Belgian authorities also retain AML, consumer-protection and financial-promotion oversight for crypto-asset services.",
+  "legislation": [
+    {
+      "id": "belgium-leg-1",
+      "billCode": "Reg. (EU) 2023/1114",
+      "title": "Markets in Crypto-Assets Regulation (MiCA)",
+      "summary": "MiCA provides Belgium's stablecoin regime for EMTs and ARTs, including authorisation, reserves, redemption, white papers and supervision.",
+      "stage": "Enacted",
+      "stance": "concerning",
+      "impactTags": [],
+      "category": "stablecoin-regulation",
+      "updatedDate": "2024-06-30",
+      "sourceUrl": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1114"
+    }
+  ],
+  "keyFigures": [],
+  "news": [
+    {
+      "id": "belgium-news-1",
+      "headline": "Crypto-assets and MiCA information",
+      "source": "FSMA",
+      "date": "2025-01-01",
+      "url": "https://www.fsma.be/en/crypto-assets"
+    }
+  ],
+  "stablecoinMeta": {
+    "code": "BE",
+    "nameZh": "比利时",
+    "flagImg": "https://flagcdn.com/w320/be.png",
+    "lastUpdated": "2025-01-01",
+    "summaryEn": "Belgium follows MiCA. Stablecoins are legal with restrictions when issued as compliant EMTs or ARTs, with licensing, reserve, redemption, disclosure and AML obligations.",
+    "tags": ["licensing-required", "non-bank-permitted", "fiat-reserve-11", "algorithmic-banned", "monthly-attestation", "redemption-rights", "passporting", "aml-kyc", "travel-rule"],
+    "legalStatus": "legal_with_restrictions",
+    "regulatoryClarity": 5,
+    "regimeStatus": "finalized",
+    "classification": "e_money",
+    "allowsFiatBacked": true,
+    "allowsAlgorithmic": false,
+    "allowsAssetBacked": true,
+    "regulators": [
+      {
+        "id": "belgium-reg-1",
+        "name": "Financial Services and Markets Authority",
+        "acronym": "FSMA",
+        "role": "Belgian conduct supervisor and MiCA national competent authority for relevant crypto-asset services.",
+        "websiteUrl": "https://www.fsma.be/en",
+        "isPrimary": true
+      },
+      {
+        "id": "belgium-reg-2",
+        "name": "National Bank of Belgium",
+        "acronym": "NBB",
+        "role": "Prudential supervisor for banks and payment/e-money institutions involved in stablecoin activity.",
+        "websiteUrl": "https://www.nbb.be/en",
+        "isPrimary": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "denmark",
+  "geoId": "208",
+  "name": "Denmark",
+  "region": "eu",
+  "level": "federal",
+  "stance": "concerning",
+  "stanceDatacenter": "concerning",
+  "stanceAI": "concerning",
+  "contextBlurb": "Denmark's stablecoin framework is MiCA-based. Fiat-backed stablecoins are permitted only through authorised EMT or ART issuers that satisfy reserve, redemption, white paper, governance and AML requirements. The Danish Financial Supervisory Authority supervises relevant crypto-asset activity under the EU framework.",
+  "legislation": [
+    {
+      "id": "denmark-leg-1",
+      "billCode": "Reg. (EU) 2023/1114",
+      "title": "Markets in Crypto-Assets Regulation (MiCA)",
+      "summary": "EU stablecoin rules for EMTs and ARTs, including authorisation, prudential requirements and investor protections.",
+      "stage": "Enacted",
+      "stance": "concerning",
+      "impactTags": [],
+      "category": "stablecoin-regulation",
+      "updatedDate": "2024-06-30",
+      "sourceUrl": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1114"
+    }
+  ],
+  "keyFigures": [],
+  "news": [],
+  "stablecoinMeta": {
+    "code": "DK",
+    "nameZh": "丹麦",
+    "flagImg": "https://flagcdn.com/w320/dk.png",
+    "lastUpdated": "2025-01-01",
+    "summaryEn": "Denmark follows MiCA. Stablecoin activity is legal with restrictions for authorised EMT and ART issuers, including reserve, redemption, disclosure and AML obligations.",
+    "tags": ["licensing-required", "non-bank-permitted", "fiat-reserve-11", "algorithmic-banned", "monthly-attestation", "redemption-rights", "passporting", "aml-kyc", "travel-rule"],
+    "legalStatus": "legal_with_restrictions",
+    "regulatoryClarity": 5,
+    "regimeStatus": "finalized",
+    "classification": "e_money",
+    "allowsFiatBacked": true,
+    "allowsAlgorithmic": false,
+    "allowsAssetBacked": true,
+    "regulators": [
+      {
+        "id": "denmark-reg-1",
+        "name": "Danish Financial Supervisory Authority",
+        "acronym": "DFSA",
+        "role": "National financial supervisor for MiCA authorisation and oversight in Denmark.",
+        "websiteUrl": "https://www.dfsa.dk/",
+        "isPrimary": true
+      }
+    ]
+  }
+}

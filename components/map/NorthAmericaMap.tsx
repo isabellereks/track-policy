@@ -49,10 +49,11 @@ const STATES_URL =
   "https://cdn.jsdelivr.net/npm/us-atlas@3/states-10m.json";
 
 // Americas — interactive countries (have stablecoin policy entities).
-const INTERACTIVE_IDS = new Set(["124", "484", "076", "032", "152"]);
+const INTERACTIVE_IDS = new Set(["124", "304", "484", "076", "032", "152"]);
 // geoId → display name for tooltip fallback
 const COUNTRY_NAMES: Record<string, string> = {
   "124": "Canada",
+  "304": "Greenland",
   "484": "Mexico",
   "076": "Brazil",
   "032": "Argentina",
@@ -61,6 +62,7 @@ const COUNTRY_NAMES: Record<string, string> = {
 // Each country's region as stored in ENTITIES
 const COUNTRY_REGION: Record<string, "na" | "latam"> = {
   "124": "na",
+  "304": "na",
   "484": "latam",
   "076": "latam",
   "032": "latam",

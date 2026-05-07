@@ -1,0 +1,52 @@
+{
+  "id": "hungary",
+  "geoId": "348",
+  "name": "Hungary",
+  "region": "eu",
+  "level": "federal",
+  "stance": "concerning",
+  "stanceDatacenter": "concerning",
+  "stanceAI": "concerning",
+  "contextBlurb": "Hungary regulates stablecoins through MiCA. EMT and ART issuers need EU authorisation and must meet reserve, redemption, disclosure, governance and AML standards. The Magyar Nemzeti Bank acts as the main domestic financial supervisor for crypto-asset regulation.",
+  "legislation": [
+    {
+      "id": "hungary-leg-1",
+      "billCode": "Reg. (EU) 2023/1114",
+      "title": "Markets in Crypto-Assets Regulation (MiCA)",
+      "summary": "Directly applicable EU stablecoin regime covering EMTs and ARTs.",
+      "stage": "Enacted",
+      "stance": "concerning",
+      "impactTags": [],
+      "category": "stablecoin-regulation",
+      "updatedDate": "2024-06-30",
+      "sourceUrl": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1114"
+    }
+  ],
+  "keyFigures": [],
+  "news": [],
+  "stablecoinMeta": {
+    "code": "HU",
+    "nameZh": "匈牙利",
+    "flagImg": "https://flagcdn.com/w320/hu.png",
+    "lastUpdated": "2025-01-01",
+    "summaryEn": "Hungary follows MiCA. Stablecoins are legal with restrictions under EU authorisation, reserve, redemption, disclosure and AML requirements.",
+    "tags": ["licensing-required", "non-bank-permitted", "fiat-reserve-11", "algorithmic-banned", "monthly-attestation", "redemption-rights", "passporting", "aml-kyc", "travel-rule"],
+    "legalStatus": "legal_with_restrictions",
+    "regulatoryClarity": 5,
+    "regimeStatus": "finalized",
+    "classification": "e_money",
+    "allowsFiatBacked": true,
+    "allowsAlgorithmic": false,
+    "allowsAssetBacked": true,
+    "regulators": [
+      {
+        "id": "hungary-reg-1",
+        "name": "Magyar Nemzeti Bank",
+        "acronym": "MNB",
+        "role": "Hungarian central bank and financial supervisor for MiCA-related crypto-asset oversight.",
+        "websiteUrl": "https://www.mnb.hu/en",
+        "isPrimary": true
+      }
+    ]
+  }
+}

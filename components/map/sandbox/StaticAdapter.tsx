@@ -1,6 +1,7 @@
 "use client";
 
 import NorthAmericaMap from "../NorthAmericaMap";
+import AfricaMap from "../AfricaMap";
 import USStatesMap from "../USStatesMap";
 import EuropeMap from "../EuropeMap";
 import AsiaMap from "../AsiaMap";
@@ -81,5 +82,7 @@ export default function StaticAdapter({
       return <EuropeMap {...common} />;
     case "asia":
       return <AsiaMap {...common} />;
+    case "africa":
+      return <AfricaMap {...common} />;
   }
 }

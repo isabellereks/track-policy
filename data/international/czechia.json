@@ -1,0 +1,52 @@
+{
+  "id": "czechia",
+  "geoId": "203",
+  "name": "Czechia",
+  "region": "eu",
+  "level": "federal",
+  "stance": "concerning",
+  "stanceDatacenter": "concerning",
+  "stanceAI": "concerning",
+  "contextBlurb": "Czechia regulates stablecoins through MiCA. EMTs and ARTs can be issued or offered only by authorised entities that meet EU reserve, redemption, disclosure, governance and AML standards. Czech national authorities implement MiCA alongside existing financial-market and AML rules.",
+  "legislation": [
+    {
+      "id": "czechia-leg-1",
+      "billCode": "Reg. (EU) 2023/1114",
+      "title": "Markets in Crypto-Assets Regulation (MiCA)",
+      "summary": "Directly applicable EU regime for stablecoin issuance and trading in Czechia.",
+      "stage": "Enacted",
+      "stance": "concerning",
+      "impactTags": [],
+      "category": "stablecoin-regulation",
+      "updatedDate": "2024-06-30",
+      "sourceUrl": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1114"
+    }
+  ],
+  "keyFigures": [],
+  "news": [],
+  "stablecoinMeta": {
+    "code": "CZ",
+    "nameZh": "捷克",
+    "flagImg": "https://flagcdn.com/w320/cz.png",
+    "lastUpdated": "2025-01-01",
+    "summaryEn": "Czechia follows MiCA. Fiat-backed stablecoins are legal with EU licensing, reserve, redemption, disclosure and AML restrictions.",
+    "tags": ["licensing-required", "non-bank-permitted", "fiat-reserve-11", "algorithmic-banned", "monthly-attestation", "redemption-rights", "passporting", "aml-kyc", "travel-rule"],
+    "legalStatus": "legal_with_restrictions",
+    "regulatoryClarity": 5,
+    "regimeStatus": "finalized",
+    "classification": "e_money",
+    "allowsFiatBacked": true,
+    "allowsAlgorithmic": false,
+    "allowsAssetBacked": true,
+    "regulators": [
+      {
+        "id": "czechia-reg-1",
+        "name": "Czech National Bank",
+        "acronym": "CNB",
+        "role": "Financial-market supervisor and national authority involved in MiCA implementation.",
+        "websiteUrl": "https://www.cnb.cz/en/",
+        "isPrimary": true
+      }
+    ]
+  }
+}

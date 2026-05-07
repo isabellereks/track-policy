@@ -1,0 +1,52 @@
+{
+  "id": "bulgaria",
+  "geoId": "100",
+  "name": "Bulgaria",
+  "region": "eu",
+  "level": "federal",
+  "stance": "concerning",
+  "stanceDatacenter": "concerning",
+  "stanceAI": "concerning",
+  "contextBlurb": "Bulgaria's stablecoin rules are primarily MiCA-based. Stablecoins are permitted under the EU regime when issuers obtain the required authorisation and meet reserve, redemption, governance, disclosure and AML obligations. Domestic supervisors share implementation responsibilities for market conduct, prudential and AML matters.",
+  "legislation": [
+    {
+      "id": "bulgaria-leg-1",
+      "billCode": "Reg. (EU) 2023/1114",
+      "title": "Markets in Crypto-Assets Regulation (MiCA)",
+      "summary": "MiCA applies directly in Bulgaria and regulates EMT and ART issuance, public offers and admission to trading.",
+      "stage": "Enacted",
+      "stance": "concerning",
+      "impactTags": [],
+      "category": "stablecoin-regulation",
+      "updatedDate": "2024-06-30",
+      "sourceUrl": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1114"
+    }
+  ],
+  "keyFigures": [],
+  "news": [],
+  "stablecoinMeta": {
+    "code": "BG",
+    "nameZh": "保加利亚",
+    "flagImg": "https://flagcdn.com/w320/bg.png",
+    "lastUpdated": "2025-01-01",
+    "summaryEn": "Bulgaria follows the EU MiCA framework. Fiat-backed stablecoins can be issued and used only through authorised EMT or ART structures, with 1:1 reserve and redemption safeguards where applicable.",
+    "tags": ["licensing-required", "non-bank-permitted", "fiat-reserve-11", "algorithmic-banned", "monthly-attestation", "redemption-rights", "passporting", "aml-kyc", "travel-rule"],
+    "legalStatus": "legal_with_restrictions",
+    "regulatoryClarity": 5,
+    "regimeStatus": "finalized",
+    "classification": "e_money",
+    "allowsFiatBacked": true,
+    "allowsAlgorithmic": false,
+    "allowsAssetBacked": true,
+    "regulators": [
+      {
+        "id": "bulgaria-reg-1",
+        "name": "Financial Supervision Commission",
+        "acronym": "FSC",
+        "role": "Bulgarian financial market supervisor involved in MiCA implementation and crypto-asset market conduct.",
+        "websiteUrl": "https://www.fsc.bg/en/",
+        "isPrimary": true
+      }
+    ]
+  }
+}

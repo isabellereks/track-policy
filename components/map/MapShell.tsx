@@ -50,6 +50,7 @@ import dynamic from "next/dynamic";
 // these render into an SVG inside a fixed-position overlay; nothing
 // meaningful to prerender.
 const NorthAmericaMap = dynamic(() => import("./NorthAmericaMap"), { ssr: false });
+const AfricaMap = dynamic(() => import("./AfricaMap"), { ssr: false });
 const USStatesMap = dynamic(() => import("./USStatesMap"), { ssr: false });
 const CountyMap = dynamic(() => import("./CountyMap"), { ssr: false });
 const EuropeMap = dynamic(() => import("./EuropeMap"), { ssr: false });
@@ -702,11 +703,11 @@ export default function MapShell({
   const handleSearchNavigate = (target: ViewTarget) => navigateTo(target);
 
   // ─── Keyboard navigation ───────────────────────────────────────────
-  // The map is discrete-view (NA / EU / Asia + drill levels), not a
+  // The map is discrete-view (NA / EU / Asia / Africa + drill levels), not a
   // continuous pan, so WASD / arrows step between views rather than
   // panning pixels. Mapping:
   //   A / ←  → previous region          D / →  → next region
-  //   1 / 2 / 3                          jump to NA / EU / Asia
+  //   1 / 2 / 3 / 4                      jump to NA / EU / Asia / Africa
   //   W / ↑                              drill out (browser-back, follows the rich stack)
   //   S / ↓                              drill into the currently-selected country / state
   //   Esc                                close facility card or reset selection
@@ -757,6 +758,10 @@ export default function MapShell({
           return;
         case "3":
           handleRegionChange("asia");
+          e.preventDefault();
+          return;
+        case "4":
+          handleRegionChange("africa");
           e.preventDefault();
           return;
         case "w":
@@ -1641,6 +1646,18 @@ export default function MapShell({
             )}
             {r === "asia" && (
               <AsiaMap
+                onSelectEntity={handleSelectEntity}
+                selectedGeoId={r === region ? selectedGeoId : null}
+                setTooltip={setTooltip}
+                dimension={dimension} lens={lens}
+                showDataCenters={showDataCenters}
+                onHoverFacility={handleHoverFacility}
+                onLeaveFacility={handleLeaveFacility}
+                onSelectFacility={handleSelectFacility}
+              />
+            )}
+            {r === "africa" && (
+              <AfricaMap
                 onSelectEntity={handleSelectEntity}
                 selectedGeoId={r === region ? selectedGeoId : null}
                 setTooltip={setTooltip}

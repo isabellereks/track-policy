@@ -1,0 +1,52 @@
+{
+  "id": "egypt",
+  "geoId": "818",
+  "name": "Egypt",
+  "region": "africa",
+  "level": "federal",
+  "stance": "restrictive",
+  "stanceDatacenter": "restrictive",
+  "stanceAI": "restrictive",
+  "contextBlurb": "Egypt is highly restrictive for private stablecoins. The Central Bank and Banking Sector Law prohibits issuing, trading or promoting cryptocurrencies, creating or operating crypto platforms, or carrying out related activities without a Central Bank of Egypt licence. No public stablecoin issuer licensing route is currently available, and payment use remains effectively blocked.",
+  "legislation": [
+    {
+      "id": "egypt-leg-1",
+      "billCode": "Law No. 194 of 2020",
+      "title": "Central Bank and Banking Sector Law crypto restrictions",
+      "summary": "Egypt restricts issuing, trading or promoting cryptocurrencies and related platforms without Central Bank approval, and no stablecoin issuer framework has been opened.",
+      "stage": "Enacted",
+      "stance": "restrictive",
+      "impactTags": [],
+      "category": "stablecoin-regulation",
+      "updatedDate": "2020-09-15"
+    }
+  ],
+  "keyFigures": [],
+  "news": [],
+  "stablecoinMeta": {
+    "code": "EG",
+    "nameZh": "埃及",
+    "flagImg": "https://flagcdn.com/w320/eg.png",
+    "lastUpdated": "2025-01-01",
+    "summaryEn": "Egypt does not provide an open stablecoin regime. Crypto issuance, trading, promotion and platform operation require Central Bank approval, and private stablecoin payment activity is effectively restricted.",
+    "tags": ["licensing-required", "private-stablecoin-banned", "foreign-stablecoin-banned", "capital-flow-controls"],
+    "legalStatus": "banned",
+    "regulatoryClarity": 4,
+    "regimeStatus": "finalized",
+    "classification": "crypto_asset",
+    "classificationNote": "Stablecoins are not separately defined and are treated within the broader cryptocurrency restriction.",
+    "allowsFiatBacked": false,
+    "allowsAlgorithmic": false,
+    "allowsAssetBacked": false,
+    "regulators": [
+      {
+        "id": "egypt-reg-1",
+        "name": "Central Bank of Egypt",
+        "acronym": "CBE",
+        "role": "Central bank and licensing authority for payment, banking and crypto-related activity.",
+        "websiteUrl": "https://www.cbe.org.eg/",
+        "isPrimary": true
+      }
+    ]
+  }
+}

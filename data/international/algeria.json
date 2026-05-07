@@ -1,0 +1,51 @@
+{
+  "id": "algeria",
+  "geoId": "012",
+  "name": "Algeria",
+  "region": "africa",
+  "level": "federal",
+  "stance": "restrictive",
+  "stanceDatacenter": "restrictive",
+  "stanceAI": "restrictive",
+  "contextBlurb": "Algeria is a restrictive jurisdiction for stablecoins because its virtual-currency ban captures crypto assets used as payment or exchange instruments. Stablecoins are not separately licensed, and issuance, holding, purchase, sale or use of virtual currency is generally prohibited under the Financial Law framework. The regime does not provide a stablecoin issuer pathway comparable to MiCA or US-style payment stablecoin laws.",
+  "legislation": [
+    {
+      "id": "algeria-leg-1",
+      "billCode": "Financial Law 2018, Art. 117",
+      "title": "Virtual currency prohibition",
+      "summary": "Algeria prohibits the purchase, sale, use and holding of virtual currency, leaving no domestic pathway for stablecoin issuance or payment use.",
+      "stage": "Enacted",
+      "stance": "restrictive",
+      "impactTags": [],
+      "category": "stablecoin-regulation",
+      "updatedDate": "2018-01-01"
+    }
+  ],
+  "keyFigures": [],
+  "news": [],
+  "stablecoinMeta": {
+    "code": "DZ",
+    "nameZh": "阿尔及利亚",
+    "flagImg": "https://flagcdn.com/w320/dz.png",
+    "lastUpdated": "2025-01-01",
+    "summaryEn": "Algeria treats stablecoins within a broad virtual-currency prohibition. There is no licensed private stablecoin regime, and domestic issuance, holding, purchase, sale or use is generally banned.",
+    "tags": ["private-stablecoin-banned", "foreign-stablecoin-banned", "capital-flow-controls"],
+    "legalStatus": "banned",
+    "regulatoryClarity": 4,
+    "regimeStatus": "finalized",
+    "classification": "crypto_asset",
+    "classificationNote": "Stablecoins are not separately defined; they fall within the practical scope of Algeria's virtual-currency prohibition.",
+    "allowsFiatBacked": false,
+    "allowsAlgorithmic": false,
+    "allowsAssetBacked": false,
+    "regulators": [
+      {
+        "id": "algeria-reg-1",
+        "name": "Bank of Algeria",
+        "role": "Central bank and payments authority in a jurisdiction where virtual-currency use is broadly prohibited.",
+        "websiteUrl": "https://www.bank-of-algeria.dz/",
+        "isPrimary": true
+      }
+    ]
+  }
+}

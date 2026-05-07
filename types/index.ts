@@ -696,4 +696,4 @@ export const REGION_LABEL: Record<Region, string> = {
   oceania: "Asia-Pacific",
 };
 
-export const REGION_ORDER: Region[] = ["na", "eu", "asia"];
+export const REGION_ORDER: Region[] = ["na", "eu", "asia", "africa"];

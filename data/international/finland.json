@@ -1,0 +1,60 @@
+{
+  "id": "finland",
+  "geoId": "246",
+  "name": "Finland",
+  "region": "eu",
+  "level": "federal",
+  "stance": "concerning",
+  "stanceDatacenter": "concerning",
+  "stanceAI": "concerning",
+  "contextBlurb": "Finland applies MiCA to stablecoin issuance and crypto-asset services. Fiat-referenced stablecoins are permitted when authorised as EMTs or ARTs and subject to EU reserve, redemption, white paper, governance and AML obligations. FIN-FSA is the main national financial supervisor.",
+  "legislation": [
+    {
+      "id": "finland-leg-1",
+      "billCode": "Reg. (EU) 2023/1114",
+      "title": "Markets in Crypto-Assets Regulation (MiCA)",
+      "summary": "Directly applicable EU stablecoin framework for EMTs and ARTs.",
+      "stage": "Enacted",
+      "stance": "concerning",
+      "impactTags": [],
+      "category": "stablecoin-regulation",
+      "updatedDate": "2024-06-30",
+      "sourceUrl": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1114"
+    }
+  ],
+  "keyFigures": [],
+  "news": [
+    {
+      "id": "finland-news-1",
+      "headline": "FIN-FSA MiCA information",
+      "source": "FIN-FSA",
+      "date": "2025-01-01",
+      "url": "https://www.finanssivalvonta.fi/en/"
+    }
+  ],
+  "stablecoinMeta": {
+    "code": "FI",
+    "nameZh": "芬兰",
+    "flagImg": "https://flagcdn.com/w320/fi.png",
+    "lastUpdated": "2025-01-01",
+    "summaryEn": "Finland follows MiCA. Stablecoin activity is legal with EU licensing, reserve, redemption, disclosure and AML restrictions.",
+    "tags": ["licensing-required", "non-bank-permitted", "fiat-reserve-11", "algorithmic-banned", "monthly-attestation", "redemption-rights", "passporting", "aml-kyc", "travel-rule"],
+    "legalStatus": "legal_with_restrictions",
+    "regulatoryClarity": 5,
+    "regimeStatus": "finalized",
+    "classification": "e_money",
+    "allowsFiatBacked": true,
+    "allowsAlgorithmic": false,
+    "allowsAssetBacked": true,
+    "regulators": [
+      {
+        "id": "finland-reg-1",
+        "name": "Finnish Financial Supervisory Authority",
+        "acronym": "FIN-FSA",
+        "role": "National financial supervisor responsible for MiCA implementation and crypto-asset service oversight in Finland.",
+        "websiteUrl": "https://www.finanssivalvonta.fi/en/",
+        "isPrimary": true
+      }
+    ]
+  }
+}

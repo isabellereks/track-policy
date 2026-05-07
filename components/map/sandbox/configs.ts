@@ -164,6 +164,42 @@ export const ASIA_CONFIG: MapConfig = {
   ],
 };
 
+// --- Africa ---------------------------------------------------------------
+
+const AFRICA_CODES = new Set<number>([
+  12, 24, 72, 108, 120, 132, 140, 148, 174, 178, 180, 204, 226, 231, 232,
+  262, 266, 270, 288, 324, 384, 404, 426, 430, 434, 450, 454, 466, 478, 480,
+  504, 508, 516, 562, 566, 646, 686, 690, 694, 706, 710, 716, 728, 729, 732,
+  748, 768, 788, 800, 818, 834, 854, 894,
+]);
+
+export const AFRICA_CONFIG: MapConfig = {
+  projection: geoMercator()
+    .center([20, 1])
+    .scale(430)
+    .translate([480, 300]) as unknown as ProjectionFunction,
+  initialCenter: [20, 1],
+  initialZoom: 1,
+  clamp: WORLD_CLAMP,
+  facilities: [],
+  highDetailUrl: WORLD_HIGH,
+  highDetailTargetUrl: WORLD_LOW,
+  layers: [
+    WORLD_BASE_LAYER,
+    {
+      id: "countries",
+      geography: WORLD_LOW,
+      filter: (g) => AFRICA_CODES.has(parseInt(String(g.id ?? ""), 10)),
+      getKey: (g) => String(g.id),
+      getLabel: (g) =>
+        (g.properties as { name?: string } | null)?.name ?? String(g.id),
+      entityRegion: "africa",
+      role: "primary",
+      strokeWidth: 1.5,
+    },
+  ],
+};
+
 // --- North America (world + clickable US states) -------------------------
 
 export const NA_CONFIG: MapConfig = {
@@ -248,6 +284,8 @@ export function configFor(view: SandboxView): MapConfig | null {
       return EUROPE_CONFIG;
     case "asia":
       return ASIA_CONFIG;
+    case "africa":
+      return AFRICA_CONFIG;
     case "na":
       return NA_CONFIG;
     default:

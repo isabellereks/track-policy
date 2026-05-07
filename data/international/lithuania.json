@@ -1,0 +1,59 @@
+{
+  "id": "lithuania",
+  "geoId": "440",
+  "name": "Lithuania",
+  "region": "eu",
+  "level": "federal",
+  "stance": "concerning",
+  "stanceDatacenter": "concerning",
+  "stanceAI": "concerning",
+  "contextBlurb": "Lithuania applies MiCA to stablecoins and crypto-asset services. Stablecoins are permitted when issued as compliant EMTs or ARTs with authorisation, reserves, redemption rights, governance and AML controls. The Bank of Lithuania is the primary financial supervisor.",
+  "legislation": [
+    {
+      "id": "lithuania-leg-1",
+      "billCode": "Reg. (EU) 2023/1114",
+      "title": "Markets in Crypto-Assets Regulation (MiCA)",
+      "summary": "EU stablecoin framework for EMTs and ARTs, directly applicable in Lithuania.",
+      "stage": "Enacted",
+      "stance": "concerning",
+      "impactTags": [],
+      "category": "stablecoin-regulation",
+      "updatedDate": "2024-06-30",
+      "sourceUrl": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1114"
+    }
+  ],
+  "keyFigures": [],
+  "news": [
+    {
+      "id": "lithuania-news-1",
+      "headline": "Crypto-asset services and MiCA information",
+      "source": "Bank of Lithuania",
+      "date": "2025-01-01",
+      "url": "https://www.lb.lt/en/"
+    }
+  ],
+  "stablecoinMeta": {
+    "code": "LT",
+    "nameZh": "立陶宛",
+    "flagImg": "https://flagcdn.com/w320/lt.png",
+    "lastUpdated": "2025-01-01",
+    "summaryEn": "Lithuania follows MiCA. Stablecoins are legal with restrictions for authorised EMT and ART issuers, with EU reserve, redemption, disclosure and AML requirements.",
+    "tags": ["licensing-required", "non-bank-permitted", "fiat-reserve-11", "algorithmic-banned", "monthly-attestation", "redemption-rights", "passporting", "aml-kyc", "travel-rule"],
+    "legalStatus": "legal_with_restrictions",
+    "regulatoryClarity": 5,
+    "regimeStatus": "finalized",
+    "classification": "e_money",
+    "allowsFiatBacked": true,
+    "allowsAlgorithmic": false,
+    "allowsAssetBacked": true,
+    "regulators": [
+      {
+        "id": "lithuania-reg-1",
+        "name": "Bank of Lithuania",
+        "role": "Lithuania's central bank and financial-market supervisor for MiCA and crypto-asset service oversight.",
+        "websiteUrl": "https://www.lb.lt/en/",
+        "isPrimary": true
+      }
+    ]
+  }
+}

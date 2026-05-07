@@ -1,0 +1,39 @@
+{
+  "id": "greenland",
+  "geoId": "304",
+  "name": "Greenland",
+  "region": "na",
+  "level": "federal",
+  "stance": "review",
+  "stanceDatacenter": "review",
+  "stanceAI": "review",
+  "contextBlurb": "Greenland does not have a dedicated private stablecoin regime. Financial regulation is closely connected to the Kingdom of Denmark, but EU MiCA does not automatically apply to Greenland as it does in Denmark. In practice, stablecoin activity is best treated as unclear and subject to general financial, AML and payment-law constraints rather than a bespoke issuer framework.",
+  "legislation": [],
+  "keyFigures": [],
+  "news": [],
+  "stablecoinMeta": {
+    "code": "GL",
+    "nameZh": "格陵兰",
+    "flagImg": "https://flagcdn.com/w320/gl.png",
+    "lastUpdated": "2025-01-01",
+    "summaryEn": "Greenland has no dedicated stablecoin framework. MiCA does not automatically apply as it does in Denmark, so private stablecoin issuance and payment use remain unclear and would be assessed under general financial, payments and AML rules.",
+    "tags": ["aml-kyc", "travel-rule"],
+    "legalStatus": "unclear",
+    "regulatoryClarity": 1,
+    "regimeStatus": "none",
+    "classification": "unclear",
+    "allowsFiatBacked": false,
+    "allowsAlgorithmic": false,
+    "allowsAssetBacked": false,
+    "regulators": [
+      {
+        "id": "greenland-reg-1",
+        "name": "Financial Supervisory Authority of Denmark",
+        "acronym": "DFSA",
+        "role": "Danish financial supervisor; Greenland-specific application depends on the relevant financial legislation and home-rule arrangements.",
+        "websiteUrl": "https://www.dfsa.dk/",
+        "isPrimary": true
+      }
+    ]
+  }
+}

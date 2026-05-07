@@ -1,0 +1,71 @@
+{
+  "id": "austria",
+  "geoId": "040",
+  "name": "Austria",
+  "region": "eu",
+  "level": "federal",
+  "stance": "concerning",
+  "stanceDatacenter": "concerning",
+  "stanceAI": "concerning",
+  "contextBlurb": "Austria regulates stablecoins through the EU Markets in Crypto-Assets Regulation (MiCA). Fiat-referenced stablecoins are permitted when issued as e-money tokens by authorised credit institutions or electronic money institutions, with 1:1 reserve, redemption, disclosure, custody and AML obligations. Austria's Financial Market Authority is the national competent authority for crypto-asset service providers and token issuers under the EU framework.",
+  "legislation": [
+    {
+      "id": "austria-leg-1",
+      "billCode": "Reg. (EU) 2023/1114",
+      "title": "Markets in Crypto-Assets Regulation (MiCA)",
+      "summary": "EU-wide framework for asset-referenced tokens and e-money tokens, including licensing, reserve, redemption, governance, white paper and supervisory requirements.",
+      "stage": "Enacted",
+      "stance": "concerning",
+      "impactTags": [],
+      "category": "stablecoin-regulation",
+      "updatedDate": "2024-06-30",
+      "sourceUrl": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1114"
+    }
+  ],
+  "keyFigures": [],
+  "news": [
+    {
+      "id": "austria-news-1",
+      "headline": "FMA information on MiCA supervision",
+      "source": "FMA Austria",
+      "date": "2025-01-01",
+      "url": "https://www.fma.gv.at/en/markets-in-crypto-assets-mica/"
+    }
+  ],
+  "stablecoinMeta": {
+    "code": "AT",
+    "nameZh": "奥地利",
+    "flagImg": "https://flagcdn.com/w320/at.png",
+    "lastUpdated": "2025-01-01",
+    "summaryEn": "Austria follows MiCA. Stablecoin issuance and use are legal with restrictions: EMT and ART issuers need the relevant EU authorisation, compliant reserves, redemption rights, disclosures and AML controls. MiCA passporting applies across the EU once authorised.",
+    "tags": [
+      "licensing-required",
+      "non-bank-permitted",
+      "fiat-reserve-11",
+      "algorithmic-banned",
+      "monthly-attestation",
+      "redemption-rights",
+      "passporting",
+      "aml-kyc",
+      "travel-rule"
+    ],
+    "legalStatus": "legal_with_restrictions",
+    "regulatoryClarity": 5,
+    "regimeStatus": "finalized",
+    "classification": "e_money",
+    "classificationNote": "Single-fiat stablecoins are generally e-money tokens under MiCA; basket-backed stablecoins are asset-referenced tokens.",
+    "allowsFiatBacked": true,
+    "allowsAlgorithmic": false,
+    "allowsAssetBacked": true,
+    "regulators": [
+      {
+        "id": "austria-reg-1",
+        "name": "Austrian Financial Market Authority",
+        "acronym": "FMA",
+        "role": "National competent authority for MiCA authorisations and supervision in Austria.",
+        "websiteUrl": "https://www.fma.gv.at/en/",
+        "isPrimary": true
+      }
+    ]
+  }
+}

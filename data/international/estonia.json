@@ -1,0 +1,59 @@
+{
+  "id": "estonia",
+  "geoId": "233",
+  "name": "Estonia",
+  "region": "eu",
+  "level": "federal",
+  "stance": "concerning",
+  "stanceDatacenter": "concerning",
+  "stanceAI": "concerning",
+  "contextBlurb": "Estonia moved from a national virtual-asset service provider regime into the EU MiCA framework. Stablecoins are legal with restrictions when structured as MiCA-compliant EMTs or ARTs, with licensing, reserve, redemption, disclosure and AML controls. The Finantsinspektsioon is the core financial supervisor for MiCA activity.",
+  "legislation": [
+    {
+      "id": "estonia-leg-1",
+      "billCode": "Reg. (EU) 2023/1114",
+      "title": "Markets in Crypto-Assets Regulation (MiCA)",
+      "summary": "EU regime for stablecoin issuance and crypto-asset service provision, directly applicable in Estonia.",
+      "stage": "Enacted",
+      "stance": "concerning",
+      "impactTags": [],
+      "category": "stablecoin-regulation",
+      "updatedDate": "2024-06-30",
+      "sourceUrl": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1114"
+    }
+  ],
+  "keyFigures": [],
+  "news": [
+    {
+      "id": "estonia-news-1",
+      "headline": "MiCA authorisation and crypto-asset services information",
+      "source": "Finantsinspektsioon",
+      "date": "2025-01-01",
+      "url": "https://www.fi.ee/en"
+    }
+  ],
+  "stablecoinMeta": {
+    "code": "EE",
+    "nameZh": "爱沙尼亚",
+    "flagImg": "https://flagcdn.com/w320/ee.png",
+    "lastUpdated": "2025-01-01",
+    "summaryEn": "Estonia follows MiCA. Stablecoins are legal with restrictions and require EU-compliant authorisation, reserves, redemption rights, disclosure and AML controls.",
+    "tags": ["licensing-required", "non-bank-permitted", "fiat-reserve-11", "algorithmic-banned", "monthly-attestation", "redemption-rights", "passporting", "aml-kyc", "travel-rule"],
+    "legalStatus": "legal_with_restrictions",
+    "regulatoryClarity": 5,
+    "regimeStatus": "finalized",
+    "classification": "e_money",
+    "allowsFiatBacked": true,
+    "allowsAlgorithmic": false,
+    "allowsAssetBacked": true,
+    "regulators": [
+      {
+        "id": "estonia-reg-1",
+        "name": "Finantsinspektsioon",
+        "role": "Estonian financial supervisor for MiCA authorisations and regulated crypto-asset services.",
+        "websiteUrl": "https://www.fi.ee/en",
+        "isPrimary": true
+      }
+    ]
+  }
+}

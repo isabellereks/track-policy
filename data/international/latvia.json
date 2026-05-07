@@ -1,0 +1,51 @@
+{
+  "id": "latvia",
+  "geoId": "428",
+  "name": "Latvia",
+  "region": "eu",
+  "level": "federal",
+  "stance": "concerning",
+  "stanceDatacenter": "concerning",
+  "stanceAI": "concerning",
+  "contextBlurb": "Latvia applies the EU MiCA regime to stablecoins. EMT and ART issuance is legal with restrictions, including authorisation, reserve backing, redemption rights, governance, disclosures and AML compliance. Latvijas Banka is the integrated financial supervisor.",
+  "legislation": [
+    {
+      "id": "latvia-leg-1",
+      "billCode": "Reg. (EU) 2023/1114",
+      "title": "Markets in Crypto-Assets Regulation (MiCA)",
+      "summary": "EU framework for stablecoins and crypto-asset service providers, directly applicable in Latvia.",
+      "stage": "Enacted",
+      "stance": "concerning",
+      "impactTags": [],
+      "category": "stablecoin-regulation",
+      "updatedDate": "2024-06-30",
+      "sourceUrl": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1114"
+    }
+  ],
+  "keyFigures": [],
+  "news": [],
+  "stablecoinMeta": {
+    "code": "LV",
+    "nameZh": "拉脱维亚",
+    "flagImg": "https://flagcdn.com/w320/lv.png",
+    "lastUpdated": "2025-01-01",
+    "summaryEn": "Latvia follows MiCA. Stablecoin activity is legal with restrictions for authorised EMT and ART issuers, with reserve, redemption, disclosure and AML controls.",
+    "tags": ["licensing-required", "non-bank-permitted", "fiat-reserve-11", "algorithmic-banned", "monthly-attestation", "redemption-rights", "passporting", "aml-kyc", "travel-rule"],
+    "legalStatus": "legal_with_restrictions",
+    "regulatoryClarity": 5,
+    "regimeStatus": "finalized",
+    "classification": "e_money",
+    "allowsFiatBacked": true,
+    "allowsAlgorithmic": false,
+    "allowsAssetBacked": true,
+    "regulators": [
+      {
+        "id": "latvia-reg-1",
+        "name": "Latvijas Banka",
+        "role": "Latvia's central bank and financial supervisor, responsible for MiCA supervision in Latvia.",
+        "websiteUrl": "https://www.bank.lv/en/",
+        "isPrimary": true
+      }
+    ]
+  }
+}
