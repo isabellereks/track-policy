@@ -8,55 +8,36 @@
     "type": "county",
     "actions": [
       {
-        "title": "Phase 1 Zoning Ordinance Amendment — End of By-Right Data Center Development",
+        "title": "Phase 1 Zoning Ordinance Amendment – Elimination of By-Right Data Center Development",
         "date": "2025-03-18",
         "status": "enacted",
-        "summary": "The Board of Supervisors eliminated by-right data center development, requiring all new data centers to obtain a Special Exception (SPEX) with public hearings before the Planning Commission and Board of Supervisors.",
-        "sourceUrl": "https://www.loudoun.gov/6221/Phase-1-Project-Plan-for-Data-Center-Sta"
+        "summary": "The Board of Supervisors eliminated by-right data center development county-wide, requiring all new data centers to obtain a Special Exception (SPEX) with public hearings before the Planning Commission and Board.",
+        "sourceUrl": "https://www.hklaw.com/en/insights/publications/2025/04/loudoun-county-virginia-eliminates-by-right-data-center-development"
       },
       {
-        "title": "Phase 2 Data Center Standards & Locations — Zoning Ordinance and Comprehensive Plan Amendments Under Development",
+        "title": "Grandfathering Resolution for Pre-February 2025 Applications",
+        "date": "2025-03-18",
+        "status": "enacted",
+        "summary": "Alongside the Phase 1 ZOAM, the Board adopted a resolution allowing data center applications accepted before February 12, 2025 to continue under prior rules, provided they are more than 500 feet from residential areas and have no substantial changes.",
+        "sourceUrl": "https://www.loudoun.gov/5990/Data-Center-Standards-Locations"
+      },
+      {
+        "title": "Phase 2 Data Center Standards & Locations Project Plan",
         "date": "2025-09-16",
         "status": "under-review",
-        "summary": "The Board approved a Phase 2 project plan to draft new use-specific zoning standards for data centers and utility substations, covering noise, building height, onsite power generation, energy storage, and parking.",
+        "summary": "The Board approved a Phase 2 project plan to research and draft new zoning text amendments covering noise limits, building height rules, on-site power generation, energy storage, and utility substation policy for data centers, with drafting running October 2025 through April 2026.",
         "sourceUrl": "https://www.loudoun.gov/6222/Phase-2-Data-Center-Standards-Locations"
       }
     ],
     "concerns": [
       "noise-vibration",
-      "local-zoning",
-      "local-control",
       "residential-proximity",
+      "local-zoning",
       "grid-capacity",
-      "carbon-emissions",
-      "water-consumption"
+      "property-values",
+      "environmental-review"
     ],
-    "contextBlurb": "Loudoun County — home to Ashburn's 'Data Center Alley,' the largest data center market in the world — ended by-right approvals for data centers in March 2025, requiring all projects to go through a legislative Special Exception process with public hearings. Data center tax revenue constitutes over one-third of the county's tax base, yet sustained community pressure has driven both Phase 1 zoning restrictions and an ongoing Phase 2 effort to establish stricter use-specific standards. A grandfathering resolution protects applications accepted before February 12, 2025, for sites more than 500 feet from residential areas."
-  },
-  {
-    "id": "fairfax-county-va",
-    "name": "Fairfax County",
-    "fips": "51059",
-    "state": "Virginia",
-    "stateCode": "VA",
-    "type": "county",
-    "actions": [
-      {
-        "title": "Zoning Ordinance Amendment — Comprehensive Data Center Use Standards",
-        "date": "2024-09-10",
-        "status": "enacted",
-        "summary": "The Board of Supervisors enacted new data center rules requiring 200-foot residential setbacks, 300-foot setbacks for ground equipment, a 1-mile buffer from Metro stations, mandatory pre- and post-construction noise studies, full equipment enclosure, and new architectural standards.",
-        "sourceUrl": "https://www.fairfaxcounty.gov/news/board-supervisors-approve-new-data-center-zoning-ordinance-amendment"
-      }
-    ],
-    "concerns": [
-      "noise-vibration",
-      "residential-proximity",
-      "local-zoning",
-      "local-control",
-      "carbon-emissions"
-    ],
-    "contextBlurb": "Fairfax County, with roughly 3 million square feet of data centers, enacted sweeping zoning changes in September 2024 after extensive community input including more than four hours of public testimony. The new rules require special exception approval for nearly all new data center projects, enforce strict setbacks from residences and Metro stations, and mandate noise studies — a direct response to community concerns about residential disruption. Applications accepted as complete before July 16, 2024 were grandfathered under the prior rules."
+    "contextBlurb": "Loudoun County, the self-described 'Data Center Alley,' hosts the world's largest concentration of hyperscale data centers and derives the vast majority of its operating budget from data center tax revenue. Resident pushback over noise, grid strain, and proximity to homes prompted the Board to end by-right development in March 2025, requiring all new projects to undergo full public legislative review. A Phase 2 standards process was underway through April 2026 to add specific noise, height, and energy storage rules."
   },
   {
     "id": "prince-william-county-va",
@@ -67,55 +48,149 @@
     "type": "county",
     "actions": [
       {
-        "title": "Digital Gateway Rezoning Voided by Virginia Court of Appeals",
-        "date": "2026-03-31",
-        "status": "failed",
-        "summary": "The Virginia Court of Appeals invalidated three rezoning ordinances approving the PW Digital Gateway — a proposed 2,100-acre, 37-data-center corridor near Manassas National Battlefield — after ruling the county failed to meet statutory public advertising requirements.",
-        "sourceUrl": "https://www.insidenova.com/news/prince_william/update-second-ruling-voids-digital-gateway-data-center-project-in-prince-william/article_846b8581-c99e-4f00-bb67-512c78952773.html"
+        "title": "Resolution to Initiate Zoning Text Amendment Eliminating Data Center Opportunity Zone Overlay District (DCOZOD)",
+        "date": "2026-03-03",
+        "status": "under-review",
+        "summary": "The Board of County Supervisors approved a resolution directing staff to draft a Zoning Text Amendment that would eliminate by-right data center development by sunsetting the Data Center Opportunity Zone Overlay District and requiring special use permits for all new data center projects.",
+        "sourceUrl": "https://www.venable.com/insights/publications/2026/04/prince-william-county-moves-to-eliminate-by-right"
       },
       {
-        "title": "Noise Ordinance Amendment — Removal of Commercial HVAC Nighttime Exemption",
-        "date": "2023-02-28",
+        "title": "Digital Gateway Project Voided – Court Upheld by Virginia Court of Appeals",
+        "date": "2026-03-01",
         "status": "enacted",
-        "summary": "The Board of Supervisors amended the county's noise ordinance to remove the commercial HVAC exemption from nighttime maximum permissible sound levels, with a one-year sunset clause, and initiated a Data Center Ordinance Advisory Group.",
-        "sourceUrl": "https://www.pwcva.gov/news/prince-william-board-county-supervisors-votes-initiate-amendments-county-code-regarding-data"
+        "summary": "The Virginia Court of Appeals upheld a lower-court ruling voiding the Digital Gateway data center project approval in Prince William County, finding the county failed to follow state public-notice regulations, a significant community-opposition victory.",
+        "sourceUrl": "https://technical.ly/civics/digital-gateway-data-center-battle-virginia-supreme-court/"
+      },
+      {
+        "title": "Dulles South Innovation Center (2,000-Acre Campus) Unanimously Rejected",
+        "date": "2026-07-08",
+        "status": "failed",
+        "summary": "The Board of Supervisors voted unanimously to reject the Dulles South Innovation Center, which would have been the largest data center development in county history, following strong community and state-level opposition.",
+        "sourceUrl": "https://www.nbcwashington.com/news/local/northern-virginia/proposed-2000-acre-data-center-in-prince-william-stirs-debate/4127320/"
       }
     ],
     "concerns": [
-      "noise-vibration",
       "local-zoning",
       "local-control",
+      "noise-vibration",
+      "grid-capacity",
       "residential-proximity",
-      "environmental-review",
-      "grid-capacity"
+      "carbon-emissions",
+      "environmental-review"
     ],
-    "contextBlurb": "Prince William County is ground zero for one of Virginia's most contentious data center battles: the proposed PW Digital Gateway, a massive corridor that would have created nearly 23 million square feet of data center space near Manassas National Battlefield Park. Community groups led by the Coalition to Protect Prince William County won successive court rulings invalidating the rezoning approvals, with the Virginia Court of Appeals issuing a decisive void-ab-initio ruling in late March 2026. The county's 26 existing data centers already generate $79 million in annual tax revenue, creating political tension between economic interests and community opposition."
+    "contextBlurb": "Prince William County hosts tens of millions of square feet of data center development both inside and outside its Data Center Opportunity Zone Overlay District, drawing intense community backlash over noise, grid strain, and the pace of by-right approvals. Sustained pressure from the Coalition to Protect Prince William County and other groups led the Board to initiate a process to eliminate the overlay and end by-right development entirely in early 2026. The county also saw a high-profile court ruling void the Digital Gateway project and unanimously blocked what would have been the world's largest single data center campus."
   },
   {
-    "id": "chesapeake-city-va",
-    "name": "City of Chesapeake",
-    "fips": "51550",
+    "id": "fairfax-county-va",
+    "name": "Fairfax County",
+    "fips": "51059",
     "state": "Virginia",
     "stateCode": "VA",
     "type": "county",
     "actions": [
       {
-        "title": "City Council Rejection of Data Center Rezoning — Emerald Lake Estates / Great Bridge",
-        "date": "2025-06-17",
-        "status": "failed",
-        "summary": "Following a 6-1 Planning Commission denial and a petition of nearly 450 residents opposing the project, the City Council voted 7-0 to reject rezoning of 22.6 agricultural acres to light industrial for a proposed 350,000-square-foot AI data center.",
-        "sourceUrl": "https://earthlyinfrastructure.com/hrcnn/chesapeake-data-center-zoning-decision"
+        "title": "Data Centers Zoning Ordinance Amendment (ZO 112.1-2024-9)",
+        "date": "2024-09-10",
+        "status": "enacted",
+        "summary": "The Board of Supervisors enacted a comprehensive zoning ordinance amendment imposing 200-ft residential setbacks for data center buildings, 300-ft setbacks for generators, a one-mile buffer from Metro stations, mandatory pre- and post-construction noise studies, equipment enclosure requirements, and new architectural design standards.",
+        "sourceUrl": "https://www.fairfaxcounty.gov/news/board-supervisors-approve-new-data-center-zoning-ordinance-amendment"
       }
     ],
     "concerns": [
       "noise-vibration",
       "residential-proximity",
       "local-zoning",
-      "environmental-review",
       "grid-capacity",
-      "water-consumption"
+      "carbon-emissions",
+      "property-values"
     ],
-    "contextBlurb": "Chesapeake faced its first industrial-scale data center proposal in 2025, when developer Doug Fuller sought to rezone agricultural land near Great Bridge for a 350,000-square-foot AI data center. Hundreds of residents organized in opposition, citing noise, light pollution, proximity to homes and schools, and fears of setting a precedent for further industrial encroachment. The City Council's unanimous 7-0 rejection in June 2025 followed the Planning Commission's own 6-1 denial, making Chesapeake one of the few Virginia localities to fully block a data center at the rezoning stage."
+    "contextBlurb": "Fairfax County's September 2024 zoning ordinance amendment was driven by resident concerns, particularly in communities like Rose Hill and Bren Mar, about noise, visual bulk, and proximity of data centers to homes and Metro stations. The new rules require a Special Exception for most new data center projects that cannot meet the tightened standards, and include some of the strictest setback and noise-study requirements in Northern Virginia. Neighborhood coalitions and the Sierra Club had pushed for even stricter measures, including a full pause on approvals."
+  },
+  {
+    "id": "henrico-county-va",
+    "name": "Henrico County",
+    "fips": "51087",
+    "state": "Virginia",
+    "stateCode": "VA",
+    "type": "county",
+    "actions": [
+      {
+        "title": "Provisional Use Permit (PUP) Requirement for All Data Centers",
+        "date": "2025-06-10",
+        "status": "enacted",
+        "summary": "The Board of Supervisors enacted regulations requiring a Provisional Use Permit for all new hyperscale data centers county-wide—including in the White Oak Technology Park—with a 500-ft residential setback, substation screening, and vegetative buffer requirements, effective January 10, 2025.",
+        "sourceUrl": "https://www.datacenterfrontier.com/hyperscale/article/55296394/henrico-county-virginia-moves-to-slow-data-center-growth"
+      }
+    ],
+    "concerns": [
+      "residential-proximity",
+      "noise-vibration",
+      "grid-capacity",
+      "local-zoning",
+      "water-consumption",
+      "environmental-review"
+    ],
+    "contextBlurb": "Henrico County, home to major facilities operated by Meta, QTS, and Iron Mountain at the White Oak Technology Park, moved to slow unchecked data center expansion after Varina District Supervisor Tyrone Nelson cited concerns that facilities were spreading beyond designated industrial zones. The June 2025 ordinance—retroactive in effect—ended by-right development and imposed 500-ft residential buffers, responding to growing community objections over noise, aesthetics, and energy demand. Henrico's action was seen as a bellwether for Richmond-area counties grappling with the second wave of Virginia's data center boom."
+  },
+  {
+    "id": "chesterfield-county-va",
+    "name": "Chesterfield County",
+    "fips": "51041",
+    "state": "Virginia",
+    "stateCode": "VA",
+    "type": "county",
+    "actions": [
+      {
+        "title": "Zoning Ordinance Change Requiring Conditional Use Permit for Data Centers",
+        "date": "2026-01-01",
+        "status": "enacted",
+        "summary": "Chesterfield County's January 2026 ordinance change reclassified data centers from by-right uses to uses requiring a conditional use permit with full legislative approval from the Board of Supervisors, prompting multiple lawsuits from developers with applications in progress.",
+        "sourceUrl": "https://www.wric.com/news/local-news/chesterfield-county/new-chesterfield-data-center-on-pause-as-county-faces-lawsuits/"
+      }
+    ],
+    "concerns": [
+      "local-zoning",
+      "grid-capacity",
+      "noise-vibration",
+      "carbon-emissions",
+      "environmental-review",
+      "residential-proximity"
+    ],
+    "contextBlurb": "Chesterfield County's January 2026 ordinance shift—reclassifying data centers as conditional uses—immediately stalled at least one major project and triggered three lawsuits before the Board of Zoning Appeals from developers who argued they had vested rights under prior by-right rules. Residents at public meetings raised concerns about energy usage, emissions, noise, and pollution. The county is part of a broader Richmond-area wave of jurisdictions tightening oversight as Google and other hyperscalers target the region for expansion."
+  },
+  {
+    "id": "caroline-county-va",
+    "name": "Caroline County",
+    "fips": "51033",
+    "state": "Virginia",
+    "stateCode": "VA",
+    "type": "county",
+    "actions": [
+      {
+        "title": "M-1 District Zoning Ordinance Amended to Require Special Exception for Data Centers (PIRT Standards)",
+        "date": "2025-08-01",
+        "status": "enacted",
+        "summary": "Caroline County amended its zoning ordinance to require data centers in the M-1 industrial district to obtain a Special Exception Permit subject to the Planned Innovation, Research and Technology (PIRT) standards, which govern setbacks, noise, buffers, building heights, and access.",
+        "sourceUrl": "https://co.caroline.va.us/AgendaCenter/ViewFile/ArchivedAgenda/_01222026-669?packet=true"
+      },
+      {
+        "title": "Avaio Digital Large-Scale Campus Rezoning Application Withdrawn",
+        "date": "2025-08-01",
+        "status": "failed",
+        "summary": "A large-scale Avaio Digital data center rezoning application for a PIRT classification in Caroline County was withdrawn in August 2025 amid community opposition over water withdrawal from the Rappahannock River, noise, and transmission infrastructure impacts.",
+        "sourceUrl": "https://co.caroline.va.us/AgendaCenter/ViewFile/ArchivedAgenda/_01222026-669?packet=true"
+      }
+    ],
+    "concerns": [
+      "water-consumption",
+      "water-infrastructure",
+      "noise-vibration",
+      "grid-capacity",
+      "local-zoning",
+      "environmental-review",
+      "residential-proximity"
+    ],
+    "contextBlurb": "Caroline County, situated along I-95 between Richmond and Fredericksburg, became a flashpoint for data center opposition as developers including Avaio Digital and CleanArc targeted the Ladysmith and Ruther Glen corridors for massive campuses. Community groups and Friends of the Rappahannock raised alarms over a proposed industrial water withdrawal permit from the Rappahannock River for data center cooling, prompting the county to remove that request. The county tightened its zoning ordinance to require special exception review under PIRT standards, and one major rezoning application was withdrawn after public backlash."
   },
   {
     "id": "york-county-va",
@@ -126,44 +201,46 @@
     "type": "county",
     "actions": [
       {
-        "title": "Data Center Zoning Ordinance — Setbacks, Sound Limits, Grid and Water Capacity Requirements",
+        "title": "Data Center Standards Ordinance – Setbacks, Sound Limits, Utility Capacity Letters",
         "date": "2025-06-17",
         "status": "enacted",
-        "summary": "York County enacted a new data center ordinance requiring mandatory setbacks, vegetative buffers, sound studies, grid and water capacity letters from utilities, and a five-year energy-use reporting period — applied retroactively to projects in the pipeline.",
+        "summary": "York County supervisors adopted new standards requiring data center applicants to provide letters from energy and water utilities confirming infrastructure capacity, mandating sound studies, imposing property-line setbacks and vegetative buffers, and establishing a five-year energy usage reporting cycle.",
         "sourceUrl": "https://virginiamercury.com/2025/06/20/virginia-doesnt-have-statewide-data-center-regulations-localities-are-making-their-own-rules-instead/"
       }
     ],
     "concerns": [
-      "noise-vibration",
       "grid-capacity",
+      "noise-vibration",
       "water-infrastructure",
-      "residential-proximity",
       "local-zoning",
-      "local-control"
+      "residential-proximity",
+      "environmental-review"
     ],
-    "contextBlurb": "York County proactively adopted data center standards in June 2025, requiring developers to submit letters from energy and water utilities confirming sufficient infrastructure capacity before approval can be granted. The ordinance also mandates sound studies, property-line setbacks with vegetative buffers, and obligates operators to revisit and report energy usage to the Board every five years. Notably, the rules apply retroactively to data center projects already under review."
+    "contextBlurb": "York County adopted one of Virginia's more proactive local data center frameworks in June 2025, explicitly tying project approval to verified utility capacity and requiring ongoing energy reporting. Supervisors cited the risk of massive grid draw and rising utility bills for regular customers as the primary motivation for the new rules. The ordinance was self-described as a stopgap solution developed in the absence of any statewide Virginia data center siting regulations."
   },
   {
-    "id": "virginia-scc-state",
-    "name": "Virginia State Corporation Commission",
-    "fips": "51000",
+    "id": "prince-william-county-town-of-haymarket-va",
+    "name": "Town of Haymarket",
+    "fips": "51515",
     "state": "Virginia",
     "stateCode": "VA",
-    "type": "county",
+    "type": "municipal",
     "actions": [
       {
-        "title": "SCC Approves New GS-5 Electricity Rate Class for Large-Scale Data Centers",
-        "date": "2025-11-01",
+        "title": "Administrative Moratorium on Data Center Applications",
+        "date": "2025-06-22",
         "status": "enacted",
-        "summary": "Virginia's State Corporation Commission approved Dominion Energy's request to create a new 'GS-5' rate class for electricity customers using over 25 MW — primarily AI data centers — requiring them to pay minimums of 85% of contracted transmission demand and 60% of generation demand, effective January 2027.",
-        "sourceUrl": "https://www.americanactionforum.org/insight/virginias-new-data-center-electricity-rate-class/"
+        "summary": "The Haymarket Town Council voted 6-0 to deny a proposed zoning change that would have defined and allowed data centers via special-use permit, and directed the Planning Commission to draft a text amendment prohibiting data centers in all town zoning districts while establishing an administrative moratorium on data center applications.",
+        "sourceUrl": "https://www.nvdaily.com/nvdaily/council-oks-moratorium-on-data-center-applications/article_8bbfc9ce-d84e-5dd8-a4be-e8f9ee95cc94.html"
       }
     ],
     "concerns": [
-      "grid-capacity",
-      "carbon-emissions",
-      "local-control"
+      "local-control",
+      "local-zoning",
+      "residential-proximity",
+      "noise-vibration",
+      "grid-capacity"
     ],
-    "contextBlurb": "The Virginia SCC approved a new electricity rate class in November 2025 specifically targeting large-scale AI data centers, requiring them to pay guaranteed minimums for contracted transmission and generation capacity. The action was driven by concerns that AI data center demand had contributed to an 833% spike in PJM capacity auction prices and that ordinary ratepayers were being forced to subsidize massive grid expansion costs. The new rate class takes effect in January 2027, and the SCC also approved a partial base-rate increase for Dominion Energy."
+    "contextBlurb": "The Town of Haymarket enacted one of the most restrictive local stances in Virginia, with its council voting unanimously in June 2025 to pursue an outright prohibition on data centers in all zoning districts while imposing an administrative moratorium on applications. Town Attorney George Sonnett advised that a legislative zoning moratorium was not permitted under state law, so council used an administrative mechanism to achieve the same effect. The Planning Commission was given 60 days to return a zoning text amendment formally defining and prohibiting the use."
   }
 ]

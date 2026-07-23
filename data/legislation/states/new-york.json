@@ -2,17 +2,286 @@
   "state": "New York",
   "stateCode": "NY",
   "region": "na",
-  "stance": "concerning",
-  "stanceDatacenter": "concerning",
+  "stance": "restrictive",
+  "stanceDatacenter": "restrictive",
   "stanceAI": "concerning",
-  "lastUpdated": "2026-04-14",
-  "contextBlurb": "New York is weighing a moratorium bill that would halt all new data-center construction permits until regulators can protect residents from higher utility bills, alongside separate legislation banning fossil-fuel incentives for data centers and requiring annual energy-use reports. A pending bill would also fund an AI literacy grant program.",
+  "lastUpdated": "2026-07-22",
+  "contextBlurb": "New York is leaning restrictive on data centers and advancing regulation on AI. On data centers: EO 62 (enacted) — Executive Order 62 pauses pending and new discretionary state environmental permits for data centers of 50 MW or more while regulators complete a statewide environmental review, for up to one year. On AI: S08451 (on the floor) — Requires news media outlets to disclose when content is created or significantly altered using generative AI, establishing transparency rules to help readers identify AI-generated journal…",
   "legislation": [
+    {
+      "id": "ny-eo-62",
+      "billCode": "EO 62",
+      "title": "Establishes a temporary statewide moratorium on new hyperscale data centers while New York develops higher standards and a community benefits framework",
+      "summary": "Executive Order 62 pauses pending and new discretionary state environmental permits for data centers of 50 MW or more while regulators complete a statewide environmental review, for up to one year. It also directs work on ratepayer protections, grid investment, water safeguards, and a community investment framework; completed applications and local permits are not covered by the pause.",
+      "stage": "Enacted",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "environmental": "restrictive",
+        "energy": "restrictive",
+        "community": "concerning",
+        "land-use": "restrictive"
+      },
+      "impactTags": [
+        "environmental-review",
+        "grid-capacity",
+        "energy-rates",
+        "water-consumption",
+        "local-control"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-07-14",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.governor.ny.gov/executive-order/no-62-establishing-temporary-moratorium-data-centers-new-york-while-state-develops"
+    },
+    {
+      "id": "ny-s03990",
+      "billCode": "S03990",
+      "title": "Relates to establishing the offense of false pretense; provides civil remedies for the victims of such crime.",
+      "summary": "This bill creates a new criminal offense for impersonating someone under false pretenses, including through AI-generated or synthetic means, and gives victims the right to sue for damages. It targets deceptive identity fraud that can be carried out using deepfakes or voice clones.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "impactTags": [
+        "deepfake-regulation"
+      ],
+      "category": "synthetic-media",
+      "updatedDate": "2026-06-15",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.nysenate.gov/legislation/bills/2025/S3990",
+      "legiscanUrl": "https://legiscan.com/NY/bill/S03990/2025",
+      "legiscanId": 1949916,
+      "sponsors": [
+        "Kevin Parker",
+        "Roxanne Persaud",
+        "Luis Sepulveda",
+        "Toby Stavisky"
+      ]
+    },
+    {
+      "id": "ny-a08962",
+      "billCode": "A08962",
+      "title": "Enacts the \"New York fundamental artificial intelligence requirements in (FAIR) news act\"; provides transparency requirements for news media content composed, authored, or otherwise created through generative AI.",
+      "summary": "This bill requires news media outlets to disclose when content is created or significantly altered using generative AI, establishing transparency requirements for AI-generated news material. The law aims to inform the public about which news stories are produced with AI assistance.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "impactTags": [
+        "algorithmic-transparency"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-06-05",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.nysenate.gov/legislation/bills/2025/A8962",
+      "legiscanUrl": "https://legiscan.com/NY/bill/A08962/2025",
+      "legiscanId": 2041695,
+      "sponsors": [
+        "Nily Rozic",
+        "Anna Kelles",
+        "Micah Lasher",
+        "Patrick Carroll"
+      ]
+    },
+    {
+      "id": "ny-s08451",
+      "billCode": "S08451",
+      "title": "Enacts the \"New York fundamental artificial intelligence requirements in (FAIR) news act\"; provides transparency requirements for news media content composed, authored, or otherwise created through generative AI.",
+      "summary": "This bill requires news media outlets to disclose when content is created or significantly altered using generative AI, establishing transparency rules to help readers identify AI-generated journalism. The law aims to combat misinformation and maintain journalistic integrity by making AI involvement in news production visible to the public.",
+      "stage": "Floor",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-synthetic": "concerning"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "deepfake-regulation"
+      ],
+      "category": "synthetic-media",
+      "updatedDate": "2026-06-05",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.nysenate.gov/legislation/bills/2025/S8451",
+      "legiscanUrl": "https://legiscan.com/NY/bill/S08451/2025",
+      "legiscanId": 2038940,
+      "sponsors": [
+        "Patricia Fahy",
+        "April Baskin",
+        "Erik Bottcher",
+        "Nathalia Fernandez"
+      ]
+    },
+    {
+      "id": "ny-s10642",
+      "billCode": "S10642",
+      "title": "Places a one year moratorium on the issuance of data center permits; requires utilities to establish an independent classification of service for large data centers; sets energy efficiency goals for data centers; provides for benefits for host communities; sets labor standards for the construction of data centers.",
+      "summary": "This bill pauses all new data center permits in New York for one year while establishing new rules for energy efficiency, utility billing, community benefits, and construction labor standards. It aims to slow data center growth until stronger oversight and community protections are in place.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "energy": "restrictive",
+        "community": "concerning",
+        "land-use": "restrictive"
+      },
+      "impactTags": [
+        "grid-capacity",
+        "energy-rates",
+        "local-control",
+        "job-creation",
+        "local-zoning"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-06-04",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.nysenate.gov/legislation/bills/2025/S10642",
+      "legiscanUrl": "https://legiscan.com/NY/bill/S10642/2025",
+      "legiscanId": 2152628,
+      "sponsors": [
+        "Kristen Gonzalez",
+        "Samra Brouk",
+        "Patricia Fahy",
+        "Peter Harckham"
+      ]
+    },
+    {
+      "id": "ny-a11560",
+      "billCode": "A11560",
+      "title": "Places a one year moratorium on the issuance of data center permits; requires utilities to establish an independent classification of service for large data centers; sets energy efficiency goals for data centers; provides for benefits for host communities; sets labor standards for the construction of data centers.",
+      "summary": "This bill pauses all new data center construction permits in New York for one year while establishing new rules for energy efficiency, utility rates, community benefits, and worker protections for data centers. It aims to slow rapid data center growth while setting long-term standards for how these facilities operate and impact local communities.",
+      "stage": "Floor",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "energy": "restrictive",
+        "community": "concerning",
+        "land-use": "restrictive"
+      },
+      "impactTags": [
+        "grid-capacity",
+        "energy-rates",
+        "local-control",
+        "job-creation",
+        "local-zoning"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-06-04",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.nysenate.gov/legislation/bills/2025/A11560",
+      "legiscanUrl": "https://legiscan.com/NY/bill/A11560/2025",
+      "legiscanId": 2152632,
+      "sponsors": [
+        "Didi Barrett",
+        "Anna Kelles",
+        "Yudelka Tapia",
+        "Deborah Glick"
+      ]
+    },
+    {
+      "id": "ny-a06578",
+      "billCode": "A06578",
+      "title": "Establishes the artificial intelligence training data transparency act requiring developers of generative artificial intelligence models or services to post on the developer's website information regarding the data used by the developer to train the generative artificial intelligence model or service, including a high-level summary of the datasets used in the development of such system or service.",
+      "summary": "This New York bill would require companies that build generative AI systems to publicly disclose information about the data used to train those systems on their websites. Developers would need to provide at least a high-level summary of the datasets used, increasing transparency around how AI models are built.",
+      "stage": "Floor",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "concerning"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-06-04",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.nysenate.gov/legislation/bills/2025/A6578",
+      "legiscanUrl": "https://legiscan.com/NY/bill/A06578/2025",
+      "legiscanId": 1993863,
+      "sponsors": [
+        "Alex Bores",
+        "Brian Cunningham",
+        "Anna Kelles",
+        "Phara Souffrant Forrest"
+      ]
+    },
+    {
+      "id": "ny-s06955",
+      "billCode": "S06955",
+      "title": "Establishes the artificial intelligence training data transparency act requiring developers of generative artificial intelligence models or services to post on the developer's website information regarding the data used by the developer to train the generative artificial intelligence model or service, including a high-level summary of the datasets used in the development of such system or service.",
+      "summary": "This New York bill would require companies that build generative AI models to publicly disclose information about the data used to train those models on their websites. Developers would need to provide a high-level summary of their training datasets, increasing transparency around how AI systems are built.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "concerning"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-06-04",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.nysenate.gov/legislation/bills/2025/S6955",
+      "legiscanUrl": "https://legiscan.com/NY/bill/S06955/2025",
+      "legiscanId": 2015656,
+      "sponsors": [
+        "Andrew Gounardes"
+      ]
+    },
+    {
+      "id": "ny-a09581",
+      "billCode": "A09581",
+      "title": "Requires covered businesses to annually report to the department of labor regarding the impact of artificial intelligence on hiring and the nature of artificial intelligence use for the previous year; requires the department of labor to file an annual report on the impact of artificial intelligence on hiring and the nature of artificial intelligence use in the state; establishes penalties for covered business that fail to submit such reports.",
+      "summary": "New York requires large employers to annually report on their use of AI in hiring decisions and its employment impact, with the state labor department aggregating findings and imposing penalties for non-compliance. This establishes mandatory disclosure and oversight of algorithmic hiring practices.",
+      "stage": "Floor",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "review",
+        "ai-workforce": "concerning"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "ai-in-employment"
+      ],
+      "category": "ai-workforce",
+      "updatedDate": "2026-06-04",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.nysenate.gov/legislation/bills/2025/A9581",
+      "legiscanUrl": "https://legiscan.com/NY/bill/A09581/2025",
+      "legiscanId": 2088941,
+      "sponsors": [
+        "Harry Bronson",
+        "Jonathan Jacobson",
+        "William Colton",
+        "Philip Ramos"
+      ]
+    },
+    {
+      "id": "ny-s08706",
+      "billCode": "S08706",
+      "title": "Requires covered businesses to annually report to the department of labor regarding the impact of artificial intelligence on hiring and the nature of artificial intelligence use for the previous year; requires the department of labor to file an annual report on the impact of artificial intelligence on hiring and the nature of artificial intelligence use in the state; establishes penalties for covered business that fail to submit such reports.",
+      "summary": "New York would require businesses to annually report on their use of AI in hiring decisions and the impact on employment, with the state labor department publishing aggregate findings and penalties for non-compliance. This creates mandatory disclosure and oversight of algorithmic hiring practices.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "review",
+        "ai-workforce": "concerning"
+      },
+      "impactTags": [
+        "ai-in-employment",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-workforce",
+      "updatedDate": "2026-06-04",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.nysenate.gov/legislation/bills/2025/S8706",
+      "legiscanUrl": "https://legiscan.com/NY/bill/S08706/2025",
+      "legiscanId": 2067301,
+      "sponsors": [
+        "Michelle Hinchey"
+      ]
+    },
     {
       "id": "ny-a09086",
       "billCode": "A09086",
-      "title": "Regulates energy consumption by data centers; requires annual disclosure reporting; prohibits incentives in fossil fuel power purchase agreements with utilities; directs the public service commission to establish a data center surcharge and discount plan.",
-      "summary": "This bill requires data centers in New York to report their annual energy use and bans them from receiving incentives tied to fossil fuel energy contracts. It also directs state regulators to create a special surcharge and discount system to manage the grid costs that data centers impose on other utility customers.",
+      "title": "Regulates energy consumption by data centers; requires annual disclosure reporting; prohibits incentives in fossil fuel power purchase agreements with utilities.",
+      "summary": "This bill requires New York data centers to annually report their energy consumption and bans them from receiving financial incentives tied to fossil fuel energy contracts with utilities. It aims to push data centers toward cleaner energy sources by removing economic benefits for fossil fuel use.",
       "stage": "Committee",
       "stance": "concerning",
       "dimensionStances": {
@@ -22,13 +291,12 @@
       },
       "impactTags": [
         "carbon-emissions",
-        "energy-rates",
-        "grid-capacity",
         "renewable-energy",
+        "grid-capacity",
         "algorithmic-transparency"
       ],
       "category": "data-center-energy",
-      "updatedDate": "2025-09-12",
+      "updatedDate": "2026-06-01",
       "partyOrigin": "D",
       "sourceUrl": "https://www.nysenate.gov/legislation/bills/2025/A9086",
       "legiscanUrl": "https://legiscan.com/NY/bill/A09086/2025",
@@ -41,33 +309,10 @@
       ]
     },
     {
-      "id": "ny-a06874",
-      "billCode": "A06874",
-      "title": "Establishes the Artificial Intelligence Literacy Act which establishes an artificial intelligence literacy in the digital equity competitive grant program.",
-      "summary": "This bill creates an AI literacy grant program in New York to help people learn about artificial intelligence as part of a broader digital equity initiative. It provides competitive funding to support AI education and skills development across communities.",
-      "stage": "Committee",
-      "stance": "favorable",
-      "impactTags": [
-        "ai-in-education"
-      ],
-      "category": "ai-education",
-      "updatedDate": "2025-03-18",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.nysenate.gov/legislation/bills/2025/A6874",
-      "legiscanUrl": "https://legiscan.com/NY/bill/A06874/2025",
-      "legiscanId": 2009915,
-      "sponsors": [
-        "Emerita Torres",
-        "John Zaccaro",
-        "Michaelle Solages",
-        "Landon Dais"
-      ]
-    },
-    {
       "id": "ny-s06394",
       "billCode": "S06394",
-      "title": "Regulates energy consumption by data centers; requires annual disclosure reporting; prohibits incentives in fossil fuel power purchase agreements with utilities; directs the public service commission to establish a data center surcharge and discount plan.",
-      "summary": "This New York bill would require data centers to report their annual energy use and ban them from receiving incentives tied to fossil fuel energy contracts. It also directs state regulators to create a special surcharge and discount system for data center electricity rates.",
+      "title": "Regulates energy consumption by data centers; requires annual disclosure reporting; prohibits incentives in fossil fuel power purchase agreements with utilities.",
+      "summary": "This bill would require data centers in New York to report their annual energy consumption and prohibit them from receiving incentives tied to fossil fuel power agreements with utilities. It aims to reduce the environmental impact of data centers by pushing them away from fossil fuel energy sources.",
       "stage": "Committee",
       "stance": "concerning",
       "dimensionStances": {
@@ -79,25 +324,145 @@
         "carbon-emissions",
         "energy-rates",
         "grid-capacity",
-        "renewable-energy",
         "algorithmic-transparency"
       ],
       "category": "data-center-energy",
-      "updatedDate": "2025-03-13",
+      "updatedDate": "2026-05-30",
       "partyOrigin": "D",
       "sourceUrl": "https://www.nysenate.gov/legislation/bills/2025/S6394",
       "legiscanUrl": "https://legiscan.com/NY/bill/S06394/2025",
       "legiscanId": 2005868,
       "sponsors": [
         "Kristen Gonzalez",
+        "Patricia Fahy",
         "Rachel May"
       ]
     },
     {
-      "id": "ny-a10141",
-      "billCode": "A10141",
-      "title": "Imposes a moratorium on the issuance of permits for new data centers; requires the public service commission to issue an order or orders to minimize the impact of new data centers on electricity and gas rates for residential, commercial, and industrial users.",
-      "summary": "This bill would halt all new data center construction permits in New York while requiring regulators to take action to protect residents, businesses, and industries from higher electricity and gas bills caused by data centers. It aims to pause data center growth until the impact on utility rates can be addressed.",
+      "id": "ny-s09182",
+      "billCode": "S09182",
+      "title": "Prohibits allocation of economic development power to data centers; provides for certain caps on amounts and eligibility for industrial development agency financial assistance; provides for the return of industrial development agency-awarded financial assistance if certain job levels are not maintained within 5 years of project completion; designates the department of environmental conservation as the mandatory lead agency for environmental quality review of any action consuming over 20 megawatts; requires environmental quality review for any action within 10 miles of a federally recognized Indian nation's territory.",
+      "summary": "This bill blocks data centers from receiving cheap state power allocations and tightens rules on tax subsidies, requiring companies to repay financial aid if they don't maintain promised job levels within five years. It also mandates state environmental agency oversight for large energy-consuming projects and any development near Native American tribal lands.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "environmental": "restrictive",
+        "energy": "restrictive",
+        "community": "concerning"
+      },
+      "impactTags": [
+        "tax-incentives",
+        "environmental-review",
+        "grid-capacity",
+        "job-creation",
+        "local-control"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-05-22",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.nysenate.gov/legislation/bills/2025/S9182",
+      "legiscanUrl": "https://legiscan.com/NY/bill/S09182/2025",
+      "legiscanId": 2114621,
+      "sponsors": [
+        "Rachel May",
+        "Joseph Addabbo",
+        "Leroy Comrie",
+        "Patricia Fahy"
+      ]
+    },
+    {
+      "id": "ny-a10852",
+      "billCode": "A10852",
+      "title": "Prohibits allocation of economic development power to data centers; provides for certain caps on amounts and eligibility for industrial development agency financial assistance; provides for the return of industrial development agency-awarded financial assistance if certain job levels are not maintained within 5 years of project completion; designates the department of environmental conservation as the mandatory lead agency for environmental quality review of any action consuming over 20 megawatts; requires environmental quality review for any action within 10 miles of a federally recognized Indian nation's territory.",
+      "summary": "This bill bans data centers from receiving state economic development power subsidies and caps other financial incentives, requiring repayment if job levels aren't sustained. It also mandates strict environmental review led by the state conservation department for large energy users and for projects near Native American tribal territories.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "environmental": "concerning",
+        "energy": "restrictive",
+        "community": "concerning",
+        "land-use": "concerning"
+      },
+      "impactTags": [
+        "tax-incentives",
+        "environmental-review",
+        "grid-capacity",
+        "job-creation",
+        "local-zoning"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-05-21",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.nysenate.gov/legislation/bills/2025/A10852",
+      "legiscanUrl": "https://legiscan.com/NY/bill/A10852/2025",
+      "legiscanId": 2141852,
+      "sponsors": [
+        "Anna Kelles",
+        "Maryjane Shimsky",
+        "Deborah Glick",
+        "Jo Simon"
+      ]
+    },
+    {
+      "id": "ny-a09297",
+      "billCode": "A09297",
+      "title": "Requires hyperscale data centers to offset their electricity demand by funding household electrification measures.",
+      "summary": "This bill requires very large data centers in New York to offset their high electricity consumption by paying into programs that help households switch to electric appliances and heating. It places a financial obligation on data centers tied directly to their grid demand.",
+      "stage": "Floor",
+      "stance": "concerning",
+      "dimensionStances": {
+        "environmental": "concerning",
+        "energy": "concerning"
+      },
+      "impactTags": [
+        "grid-capacity",
+        "energy-rates",
+        "carbon-emissions",
+        "renewable-energy"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-05-18",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.nysenate.gov/legislation/bills/2025/A9297",
+      "legiscanUrl": "https://legiscan.com/NY/bill/A09297/2025",
+      "legiscanId": 2057959,
+      "sponsors": [
+        "Yudelka Tapia",
+        "Grace Lee"
+      ]
+    },
+    {
+      "id": "ny-s10487",
+      "billCode": "S10487",
+      "title": "Enacts the \"data center water stewardship and reuse act\" to reduce reliance on potable public water supply systems and increase use of recycled or reclaimed water; provides for data center water use management into the state's environmental conservation framework, ensuring sustainability, watershed protection, and technological innovation; establishes the data center water stewardship fund.",
+      "summary": "This bill requires data centers to reduce their use of potable water and increase reliance on recycled or reclaimed water sources, integrating water management practices into New York's environmental framework. It establishes a stewardship fund to support sustainable water practices and watershed protection at data center facilities.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "environmental": "concerning",
+        "energy": "concerning"
+      },
+      "impactTags": [
+        "water-consumption",
+        "water-infrastructure",
+        "environmental-review"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-05-15",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.nysenate.gov/legislation/bills/2025/S10487",
+      "legiscanUrl": "https://legiscan.com/NY/bill/S10487/2025",
+      "legiscanId": 2150375,
+      "sponsors": [
+        "Leroy Comrie",
+        "Patricia Fahy"
+      ]
+    },
+    {
+      "id": "ny-s09144",
+      "billCode": "S09144",
+      "title": "Imposes a moratorium on the issuance of permits for new data centers; requires the public service commission to issue an order or orders to minimize the impact of new data centers on electricity and gas rates for residential, commercial, and industrial users; clarifies that certain provisions are applicable to the Long Island power authority.",
+      "summary": "This bill halts the issuance of new permits for data centers in New York and requires regulators to take action to prevent data centers from driving up electricity and gas rates for residents and businesses. It also ensures these rules apply to the Long Island Power Authority.",
       "stage": "Committee",
       "stance": "restrictive",
       "dimensionStances": {
@@ -108,10 +473,42 @@
       "impactTags": [
         "grid-capacity",
         "energy-rates",
-        "local-zoning"
+        "local-zoning",
+        "local-control"
       ],
       "category": "data-center-siting",
-      "updatedDate": "2026-02-09",
+      "updatedDate": "2026-05-12",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.nysenate.gov/legislation/bills/2025/S9144",
+      "legiscanUrl": "https://legiscan.com/NY/bill/S09144/2025",
+      "legiscanId": 2110519,
+      "sponsors": [
+        "Liz Krueger",
+        "Kristen Gonzalez",
+        "Joseph Addabbo",
+        "April Baskin"
+      ]
+    },
+    {
+      "id": "ny-a10141",
+      "billCode": "A10141",
+      "title": "Imposes a moratorium on the issuance of permits for new data centers; requires the public service commission to issue an order or orders to minimize the impact of new data centers on electricity and gas rates for residential, commercial, and industrial users; clarifies that certain provisions are applicable to the Long Island power authority.",
+      "summary": "This bill would pause all new data center construction permits in New York while requiring utility regulators to take steps to protect residents and businesses from higher electricity and gas bills caused by data centers. It also extends these rules to cover the Long Island Power Authority.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "energy": "restrictive",
+        "community": "restrictive",
+        "land-use": "restrictive"
+      },
+      "impactTags": [
+        "grid-capacity",
+        "energy-rates",
+        "local-zoning",
+        "local-control"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-05-12",
       "partyOrigin": "B",
       "sourceUrl": "https://www.nysenate.gov/legislation/bills/2025/A10141",
       "legiscanUrl": "https://legiscan.com/NY/bill/A10141/2025",
@@ -124,40 +521,34 @@
       ]
     },
     {
-      "id": "ny-s09144",
-      "billCode": "S09144",
-      "title": "Imposes a moratorium on the issuance of permits for new data centers; requires the public service commission to issue an order or orders to minimize the impact of new data centers on electricity and gas rates for residential, commercial, and industrial users.",
-      "summary": "This bill would halt all new data center construction permits in New York while requiring state regulators to take action to protect residents, businesses, and industries from rising electricity and gas costs caused by data centers. It directly targets the rapid growth of data centers and their strain on the energy grid.",
+      "id": "ny-s00933",
+      "billCode": "S00933",
+      "title": "Establishes the position of chief artificial intelligence officer and such person's functions, powers and duties; including, but not limited to, developing statewide artificial intelligence policies and governance, coordinating the activities of any and all state departments, boards, commissions, agencies and authorities performing any functions using artificial intelligence tools; makes related provisions.",
+      "summary": "New York would establish a Chief AI Officer position responsible for developing statewide AI policies and coordinating AI use across all state departments and agencies. This creates a governance framework to oversee and standardize how government entities deploy artificial intelligence tools.",
       "stage": "Committee",
-      "stance": "restrictive",
-      "dimensionStances": {
-        "energy": "restrictive",
-        "community": "restrictive",
-        "land-use": "restrictive"
-      },
+      "stance": "concerning",
       "impactTags": [
-        "grid-capacity",
-        "energy-rates",
-        "local-zoning"
+        "algorithmic-transparency",
+        "ai-safety"
       ],
-      "category": "data-center-siting",
-      "updatedDate": "2026-02-06",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.nysenate.gov/legislation/bills/2025/S9144",
-      "legiscanUrl": "https://legiscan.com/NY/bill/S09144/2025",
-      "legiscanId": 2110519,
+      "category": "ai-governance",
+      "updatedDate": "2026-03-05",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.nysenate.gov/legislation/bills/2025/S933",
+      "legiscanUrl": "https://legiscan.com/NY/bill/S00933/2025",
+      "legiscanId": 1903647,
       "sponsors": [
-        "Liz Krueger",
         "Kristen Gonzalez",
-        "Jabari Brisport",
-        "Cordell Cleare"
+        "Andrew Gounardes",
+        "Robert Jackson",
+        "William Weber"
       ]
     },
     {
       "id": "ny-s08645",
       "billCode": "S08645",
       "title": "Authorizes ORES to issue siting permits for battery energy storage systems for use by data centers, regardless of the expected storage or transmission capacity of such battery energy storage systems, and whether or not such battery energy storage systems will be co-located with renewable energy systems; requires data centers to submit carbon reduction plans.",
-      "summary": "This bill allows New York's Office of Renewable Energy Siting to issue permits for battery energy storage systems used by data centers, even when not paired with renewable energy. It also requires data centers to submit plans showing how they will reduce their carbon emissions.",
+      "summary": "This bill allows New York's siting authority to issue permits for battery energy storage systems used by data centers, regardless of their size or whether they are paired with renewable energy. It also requires data centers to submit plans showing how they will reduce carbon emissions.",
       "stage": "Committee",
       "stance": "concerning",
       "dimensionStances": {
@@ -181,50 +572,26 @@
       ]
     },
     {
-      "id": "ny-a01988",
-      "billCode": "A01988",
-      "title": "Establishes an age-friendly health system technical assistance center to provide assistance in relation to age-friendly health systems; relates to hospital performance data.",
-      "summary": "This bill creates a technical assistance center to help hospitals adopt age-friendly health practices and improve performance data reporting. It does not address AI or data-center policy.",
-      "stage": "Dead",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-healthcare",
-      "updatedDate": "2025-12-05",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.nysenate.gov/legislation/bills/2025/A1988",
-      "legiscanUrl": "https://legiscan.com/NY/bill/A01988/2025",
-      "legiscanId": 1917977,
-      "sponsors": [
-        "Amy Paulin",
-        "Nader Sayegh"
-      ]
-    },
-    {
-      "id": "ny-a06578",
-      "billCode": "A06578",
-      "title": "Establishes the artificial intelligence training data transparency act requiring developers of generative artificial intelligence models or services to post on the developer's website information regarding the data used by the developer to train the generative artificial intelligence model or service, including a high-level summary of the datasets used in the development of such system or service.",
-      "summary": "This New York bill would require companies that build generative AI systems to publicly disclose information about the data used to train those systems on their websites. Developers would need to provide at least a high-level summary of the datasets used, increasing transparency around how AI models are built.",
+      "id": "ny-a06874",
+      "billCode": "A06874",
+      "title": "Establishes the Artificial Intelligence Literacy Act which establishes an artificial intelligence literacy in the digital equity competitive grant program.",
+      "summary": "This bill creates an AI literacy grant program in New York to help people develop skills and understanding of artificial intelligence as part of a broader digital equity initiative. It provides competitive funding to support AI education across communities.",
       "stage": "Committee",
-      "stance": "concerning",
-      "dimensionStances": {
-        "ai-governance-dim": "concerning",
-        "ai-consumer": "concerning"
-      },
+      "stance": "favorable",
       "impactTags": [
-        "algorithmic-transparency",
-        "data-privacy"
+        "ai-in-education"
       ],
-      "category": "data-privacy",
-      "updatedDate": "2025-06-10",
+      "category": "ai-education",
+      "updatedDate": "2026-01-07",
       "partyOrigin": "D",
-      "sourceUrl": "https://www.nysenate.gov/legislation/bills/2025/A6578",
-      "legiscanUrl": "https://legiscan.com/NY/bill/A06578/2025",
-      "legiscanId": 1993863,
+      "sourceUrl": "https://www.nysenate.gov/legislation/bills/2025/A6874",
+      "legiscanUrl": "https://legiscan.com/NY/bill/A06874/2025",
+      "legiscanId": 2009915,
       "sponsors": [
-        "Alex Bores",
-        "Brian Cunningham",
-        "Anna Kelles",
-        "Phara Souffrant Forrest"
+        "Emerita Torres",
+        "John Zaccaro",
+        "Michaelle Solages",
+        "Landon Dais"
       ]
     },
     {
@@ -244,7 +611,7 @@
         "data-privacy"
       ],
       "category": "ai-governance",
-      "updatedDate": "2025-01-14",
+      "updatedDate": "2026-01-07",
       "partyOrigin": "D",
       "sourceUrl": "https://www.nysenate.gov/legislation/bills/2025/S1962",
       "legiscanUrl": "https://legiscan.com/NY/bill/S01962/2025",
@@ -270,38 +637,13 @@
         "data-privacy"
       ],
       "category": "ai-governance",
-      "updatedDate": "2025-01-08",
+      "updatedDate": "2026-01-07",
       "partyOrigin": "D",
       "sourceUrl": "https://www.nysenate.gov/legislation/bills/2025/A768",
       "legiscanUrl": "https://legiscan.com/NY/bill/A00768/2025",
       "legiscanId": 1902981,
       "sponsors": [
         "Alex Bores"
-      ]
-    },
-    {
-      "id": "ny-s06955",
-      "billCode": "S06955",
-      "title": "Establishes the artificial intelligence training data transparency act requiring developers of generative artificial intelligence models or services to post on the developer's website information regarding the data used by the developer to train the generative artificial intelligence model or service, including a high-level summary of the datasets used in the development of such system or service.",
-      "summary": "This New York bill would require companies that build generative AI models to publicly disclose information about the data used to train those models on their websites. Developers would need to provide a high-level summary of their training datasets, increasing transparency around how AI systems are built.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "dimensionStances": {
-        "ai-governance-dim": "concerning",
-        "ai-consumer": "concerning"
-      },
-      "impactTags": [
-        "algorithmic-transparency",
-        "data-privacy"
-      ],
-      "category": "data-privacy",
-      "updatedDate": "2025-03-27",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.nysenate.gov/legislation/bills/2025/S6955",
-      "legiscanUrl": "https://legiscan.com/NY/bill/S06955/2025",
-      "legiscanId": 2015656,
-      "sponsors": [
-        "Andrew Gounardes"
       ]
     },
     {
@@ -316,7 +658,7 @@
         "ai-safety"
       ],
       "category": "ai-government",
-      "updatedDate": "2025-01-09",
+      "updatedDate": "2026-01-07",
       "partyOrigin": "B",
       "sourceUrl": "https://www.nysenate.gov/legislation/bills/2025/A1205",
       "legiscanUrl": "https://legiscan.com/NY/bill/A01205/2025",
@@ -326,6 +668,154 @@
         "Karines Reyes",
         "Angelo Santabarbara",
         "Judy Griffin"
+      ]
+    },
+    {
+      "id": "ny-a01338",
+      "billCode": "A01338",
+      "title": "Sets rules and procedures for the admissibility of evidence created or processed by artificial intelligence.",
+      "summary": "This bill establishes rules for when courts can accept evidence that was created or processed using AI, requiring procedures to verify reliability and transparency. It advances guardrails around AI use in the criminal justice system by setting standards for admissibility rather than banning AI evidence outright.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "impactTags": [
+        "algorithmic-transparency"
+      ],
+      "category": "ai-government",
+      "updatedDate": "2026-01-07",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.nysenate.gov/legislation/bills/2025/A1338",
+      "legiscanUrl": "https://legiscan.com/NY/bill/A01338/2025",
+      "legiscanId": 1909120,
+      "sponsors": [
+        "Clyde Vanel",
+        "Jacob Blumencranz",
+        "Alicia Hyndman",
+        "Deborah Glick"
+      ]
+    },
+    {
+      "id": "ny-a08595",
+      "billCode": "A08595",
+      "title": "Enacts the \"New York artificial intelligence transparency for journalism act\"; requires developers of generative artificial intelligence systems or services to post certain information on the developer's website regarding video, audio, text and data from a covered publication used to train the generative artificial intelligence system or service; allows journalism providers to bring an action for damages or injunctive relief against developers.",
+      "summary": "This law requires AI developers to publicly disclose what journalistic content they used to train their systems and gives news organizations the right to sue for damages if their work was used without permission. It aims to protect journalism by increasing transparency around AI training data and creating legal recourse for publishers.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "restrictive"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "data-privacy"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-07",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.nysenate.gov/legislation/bills/2025/A8595",
+      "legiscanUrl": "https://legiscan.com/NY/bill/A08595/2025",
+      "legiscanId": 2033110,
+      "sponsors": [
+        "Steven Otis"
+      ]
+    },
+    {
+      "id": "ny-a08556",
+      "billCode": "A08556",
+      "title": "Prescribes requirements and safeguards for the use of an artificial intelligence, algorithm, or other software tool for the purpose of utilization review for health and accident insurance.",
+      "summary": "This bill establishes safeguards and transparency requirements for AI tools used by health insurers to review and approve medical claims and coverage decisions. It aims to ensure algorithmic accountability in automated insurance determinations that affect patient care access.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-public": "concerning"
+      },
+      "impactTags": [
+        "ai-in-healthcare",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-healthcare",
+      "updatedDate": "2026-01-07",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.nysenate.gov/legislation/bills/2025/A8556",
+      "legiscanUrl": "https://legiscan.com/NY/bill/A08556/2025",
+      "legiscanId": 2032707,
+      "sponsors": [
+        "Pamela Hunter"
+      ]
+    },
+    {
+      "id": "ny-s07896",
+      "billCode": "S07896",
+      "title": "Prescribes requirements and safeguards for the use of an artificial intelligence, algorithm, or other software tool for the purpose of utilization review for health and accident insurance.",
+      "summary": "This bill establishes requirements and safeguards for AI tools and algorithms used by health insurers to make utilization review decisions. It aims to ensure transparency and safety in how insurers deploy automated decision-making for coverage determinations.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-public": "concerning"
+      },
+      "impactTags": [
+        "ai-in-healthcare",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-healthcare",
+      "updatedDate": "2026-01-07",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.nysenate.gov/legislation/bills/2025/S7896",
+      "legiscanUrl": "https://legiscan.com/NY/bill/S07896/2025",
+      "legiscanId": 2030838,
+      "sponsors": [
+        "Kristen Gonzalez"
+      ]
+    },
+    {
+      "id": "ny-s08331",
+      "billCode": "S08331",
+      "title": "Enacts the \"New York artificial intelligence transparency for journalism act\"; requires developers of generative artificial intelligence systems or services to post certain information on the developer's website regarding video, audio, text and data from a covered publication used to train the generative artificial intelligence system or service; allows journalism providers to bring an action for damages or injunctive relief against developers.",
+      "summary": "New York requires AI developers to publicly disclose what video, audio, text, and data from news publications were used to train their generative AI systems, and allows news organizations to sue for damages if developers fail to comply. This creates transparency and enforcement mechanisms around AI training data sourcing from journalistic content.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "concerning"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "data-privacy"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-07",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.nysenate.gov/legislation/bills/2025/S8331",
+      "legiscanUrl": "https://legiscan.com/NY/bill/S08331/2025",
+      "legiscanId": 2035218,
+      "sponsors": [
+        "Kristen Gonzalez"
+      ]
+    },
+    {
+      "id": "ny-a06972",
+      "billCode": "A06972",
+      "title": "Creates an artificial intelligence working group within the department of education for the purpose of developing guidance and a model policy on the safe and effective use of artificial intelligence in ways that benefit, and do not harm, pupils and educators.",
+      "summary": "This bill establishes a working group within the New York Department of Education to develop guidance and model policies for safe and effective AI use in schools. The group will create recommendations to ensure AI benefits students and educators while preventing harm.",
+      "stage": "Committee",
+      "stance": "review",
+      "dimensionStances": {
+        "ai-consumer": "review",
+        "ai-public": "review"
+      },
+      "impactTags": [
+        "ai-in-education",
+        "child-safety"
+      ],
+      "category": "ai-education",
+      "updatedDate": "2026-01-07",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.nysenate.gov/legislation/bills/2025/A6972",
+      "legiscanUrl": "https://legiscan.com/NY/bill/A06972/2025",
+      "legiscanId": 2010112,
+      "sponsors": [
+        "Michaelle Solages"
       ]
     }
   ]

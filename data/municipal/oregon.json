@@ -1,44 +1,58 @@
 [
   {
     "id": "washington-county-or",
-    "name": "Washington County / City of Hillsboro",
+    "name": "Washington County",
     "fips": "41067",
     "state": "Oregon",
     "stateCode": "OR",
     "type": "county",
     "actions": [
       {
-        "title": "Hillsboro City Councilor Petition for Data Center Moratorium",
-        "date": "2026-04-05",
+        "title": "HB 4084 Enterprise Zone Moratorium — Pre-Deadline Application Rush",
+        "date": "2026-03-01",
+        "status": "enacted",
+        "summary": "Oregon's 2026 Legislature passed HB 4084 placing a moratorium on new data center Enterprise Zone tax-break applications effective June 6, 2026, triggering a rush of 17 applications in Hillsboro before the deadline.",
+        "sourceUrl": "https://www.hillsboro-oregon.gov/community/data-centers"
+      },
+      {
+        "title": "Hillsboro City Councilor Moratorium Petition",
+        "date": "2026-04-08",
         "status": "proposed",
-        "summary": "Sitting Hillsboro City Councilor Kipperlyn Sinclair launched a public petition calling for a temporary moratorium on all new data center development in Washington County and Hillsboro, citing rising electricity rates, farmland loss, and water consumption.",
+        "summary": "Hillsboro City Councilor Kipperlyn Sinclair launched a public petition calling for a temporary local moratorium on new data center development to allow study of economic, environmental, and energy impacts.",
         "sourceUrl": "https://katu.com/news/local/hillsboro-petition-seeks-pause-data-centers-amid-energy-and-farmland-concerns-washington-county-oregon-city-councilor-kipperlyn-sinclair-jacob-roloff-tammy-carpenter-illsboro-herald-editor-dirk-knudsen-tualatin-riverkeepers-pge"
       },
       {
-        "title": "Senate Bill 1586 Defeat — Urban Growth Boundary Expansion Blocked",
-        "date": "2026-03-04",
-        "status": "failed",
-        "summary": "Senator Janeen Sollman withdrew SB 1586, which would have brought 373 acres of rural land near Hillsboro into the urban growth boundary for advanced technology and data center industries, after ardent opposition from residents, farmers, and land-policy watchdogs.",
-        "sourceUrl": "https://www.opb.org/article/2026/03/03/hillsboro-will-not-get-more-industrial-land-for-high-tech-data-centers/"
+        "title": "Hillsboro City Council Data Center Work Sessions",
+        "date": "2026-06-02",
+        "status": "under-review",
+        "summary": "Hillsboro City Council held public work sessions on June 2 and 9, 2026 to evaluate data center impacts and explore potential changes to the city's land use code, including requiring environmental review.",
+        "sourceUrl": "https://www.dwt.com/blogs/energy--environmental-law-blog/2026/06/oregon-data-center-tax-break-moratorium"
       },
       {
-        "title": "Community Opposition to Discounted Data Center Power Rates (PGE)",
-        "date": "2026-04-05",
+        "title": "Lawsuit to Block 17 Data Center Enterprise Zone Agreements",
+        "date": "2026-06-22",
         "status": "under-review",
-        "summary": "Hillsboro residents and the moratorium petition publicly challenged the arrangement by which data centers pay less than half the per-kilowatt-hour rate charged to residential customers, with petitioners calling on local leaders to require rate parity.",
-        "sourceUrl": "https://sign.moveon.org/petitions/data-center-moratorium-petition"
+        "summary": "1000 Friends of Oregon, Oregon Education Association, Tax Fairness Oregon, and Tualatin Riverkeepers filed suit in Washington County Circuit Court alleging Hillsboro and the county improperly approved 17 data center Enterprise Zone tax breaks without required public notice.",
+        "sourceUrl": "https://www.wweek.com/news/courts/2026/06/23/opponents-sue-to-block-17-proposed-data-centers-in-hillsboro/"
+      },
+      {
+        "title": "Oregon PUC POWER Act Order — PGE Data Center Rate Increase",
+        "date": "2026-05-01",
+        "status": "enacted",
+        "summary": "Oregon's Public Utility Commission issued an order implementing the POWER Act, approving a 29% rate increase for data centers served by Portland General Electric and requiring data centers to pay for generation and transmission infrastructure they cause to be built.",
+        "sourceUrl": "https://www.columbiariverkeeper.org/2026/implementing-oregons-power-act-victory/"
       }
     ],
     "concerns": [
-      "grid-capacity",
       "local-zoning",
       "local-control",
+      "grid-capacity",
       "water-consumption",
       "carbon-emissions",
       "environmental-review",
       "property-values"
     ],
-    "contextBlurb": "Washington County, anchored by Hillsboro, has become Oregon's primary data center hub, hosting upwards of 30 facilities with hundreds of megawatts of demand that critics say has maxed out PGE's local grid. Residential electricity rates have risen nearly 50% while data centers pay less than half that rate per kilowatt-hour, and the Hillsboro School District reportedly lost $128 million in 2024 alone to data center tax abatements. A sitting city councilor launched a moratorium petition in April 2026, and a state bill to expand industrial land near Hillsboro for data centers was defeated in March 2026 following community opposition."
+    "contextBlurb": "Washington County — centered on Hillsboro — is Oregon's largest data center market, home to 21 data centers on 436 acres with over $11.6 billion in active enterprise zone investments. Community opposition surged in early 2026, culminating in a major public rally in May, a city council moratorium petition, and a landmark lawsuit challenging 17 last-minute tax-break agreements. The Oregon Legislature's HB 4084 moratorium on Enterprise Zone incentives for data centers (effective June 6, 2026) and the PUC's POWER Act rate order have made Washington County the epicenter of Oregon's data center policy battles."
   },
   {
     "id": "morrow-county-or",
@@ -49,73 +63,58 @@
     "type": "county",
     "actions": [
       {
-        "title": "Water Advisory Committee Established for Data Center Water Impact Review",
+        "title": "Morrow County Commission Emergency Declaration — Nitrate Groundwater Contamination",
         "date": "2024-01-01",
         "status": "enacted",
-        "summary": "Morrow County established a Water Advisory Committee to address ongoing water quantity and quality issues in the Umatilla Basin, a crisis substantially worsened by data center water consumption from Amazon's seven hyperscale facilities in Boardman.",
-        "sourceUrl": "https://www.morrowcountyor.gov/planning/page/water-advisory-committee"
+        "summary": "The Morrow County Commission declared a public health emergency over nitrate contamination of the Lower Umatilla Basin groundwater, which residents and advocates linked in part to data center cooling water discharges.",
+        "sourceUrl": "https://oregoncapitalchronicle.com/2026/03/31/amazon-to-pay-20-5-million-settlement-over-northeast-oregon-nitrate-pollution/"
       },
       {
-        "title": "Morrow County Approves Land Re-Zoning for Percheron (Rowan) Data Center",
-        "date": "2023-09-11",
-        "status": "enacted",
-        "summary": "Morrow County's Planning Commission approved a land re-zoning application for Rowan Green Data's Percheron hyperscale data center campus, expected to join Amazon's existing seven facilities in the county.",
-        "sourceUrl": "https://www.datacenterdynamics.com/en/news/oregons-morrow-county-approves-land-re-zoning-for-percheron-data-center/"
+        "title": "Amazon Data Services $20.5M Nitrate Groundwater Settlement",
+        "date": "2026-03-31",
+        "status": "under-review",
+        "summary": "A class-action settlement requiring Amazon to pay $20.5 million for alleged contribution to nitrate groundwater contamination in the Lower Umatilla Basin Groundwater Management Area spanning Morrow and Umatilla counties was filed for court approval.",
+        "sourceUrl": "https://oregoncapitalchronicle.com/2026/03/31/amazon-to-pay-20-5-million-settlement-over-northeast-oregon-nitrate-pollution/"
       },
       {
-        "title": "Governor Grants Port of Morrow Wastewater Penalty Waiver Linked to Data Center Load",
-        "date": "2025-01-01",
+        "title": "Oregon Nitrate Reduction Plan — DEQ Wastewater Permit Modernization",
+        "date": "2026-01-01",
         "status": "enacted",
-        "summary": "Governor Kotek granted the Port of Morrow a six-week waiver from DEQ fines for spraying contaminated wastewater, a problem exacerbated by massive data center water use that has strained the county's wastewater treatment infrastructure.",
-        "sourceUrl": "https://www.rollingstone.com/culture/culture-features/data-center-water-pollution-amazon-oregon-1235466613/"
+        "summary": "Oregon DEQ began implementing the Oregon Nitrate Reduction Plan, modernizing wastewater permits to limit nitrogen application to soil from data centers and other industrial users in Morrow County, with enforcement authority taking effect in 2026.",
+        "sourceUrl": "https://www.kptv.com/2025/12/23/morrow-county-water-emergency-former-commissioner-leads-fight-against-nitrate-contamination/"
       }
     ],
     "concerns": [
       "water-consumption",
       "water-infrastructure",
       "environmental-review",
-      "grid-capacity",
+      "residential-proximity",
       "local-control"
     ],
-    "contextBlurb": "Morrow County hosts at least seven Amazon hyperscale data centers near Boardman and has agreements for five more, making it one of the most data center-dense rural counties in the U.S. The county's sole underground aquifer — serving up to 45,000 residents — faces nitrate contamination, a problem compounded by the enormous wastewater volumes generated by data center cooling operations. Amazon avoided an estimated $83.9 million in local taxes over 15 years under enterprise zone abatements, and the Port of Morrow required a gubernatorial waiver in early 2025 to avoid DEQ fines for contaminated wastewater discharge linked to the industrial load."
+    "contextBlurb": "Morrow County hosts roughly 13 Amazon data centers at the Port of Morrow along with other hyperscale operators, drawn by cheap hydropower and Columbia River water access. The county declared a groundwater emergency over nitrate contamination affecting at least 634 domestic wells in the Lower Umatilla Basin, a crisis that litigation tied in part to data center cooling water discharges. Amazon's $20.5 million settlement in March 2026 — the first of its kind nationally — triggered intensified scrutiny of data center siting and water practices across the region."
   },
   {
-    "id": "oregon-state-hb4084",
-    "name": "Oregon (Statewide — HB 4084 / Enterprise Zone Moratorium)",
-    "fips": "41000",
+    "id": "umatilla-county-or",
+    "name": "Umatilla County",
+    "fips": "41059",
     "state": "Oregon",
     "stateCode": "OR",
     "type": "county",
     "actions": [
       {
-        "title": "HB 4084 Amended: One-Year Moratorium on New Data Center Enterprise Zone Tax Breaks",
-        "date": "2026-03-02",
-        "status": "enacted",
-        "summary": "Oregon's 2026 short legislative session amended HB 4084 to impose a one-year moratorium barring new or expanded data centers from claiming Standard Enterprise Zone property tax breaks, after community opposition blocked the governor's original plan to expand those incentives.",
-        "sourceUrl": "https://www.opb.org/article/2026/03/02/data-centers-cut-bill-expanding-oregon-tax-breaks/"
-      },
-      {
-        "title": "Oregon POWER Act (HB 3546) — Large Energy User Grid Cost Allocation",
-        "date": "2025-06-27",
-        "status": "enacted",
-        "summary": "Oregon enacted the POWER Act requiring large energy users consuming 20 MW or more (primarily data centers) to purchase power from state-regulated utilities under 10-year contracts and to fund any additional grid infrastructure their operations require, protecting residential ratepayers from cost-shifting.",
-        "sourceUrl": "https://www.cleanenergytransition.org/post/oregons-power-act-addresses-ratepayer-impact-of-large-energy-users"
-      },
-      {
-        "title": "Governor Kotek Creates Data Center Advisory Committee",
-        "date": "2026-01-20",
-        "status": "enacted",
-        "summary": "Governor Tina Kotek announced a seven-member Data Center Advisory Committee tasked with developing statewide policy recommendations on data center expansion, ratepayer affordability, and protection of farmlands and forests.",
-        "sourceUrl": "https://www.opb.org/article/2026/01/20/oregon-data-center-advisory-committee/"
+        "title": "Pearson v. Port of Morrow — Class Action Including Umatilla County Residents",
+        "date": "2024-02-01",
+        "status": "under-review",
+        "summary": "Residents of Morrow and Umatilla counties sued the Port of Morrow and multiple industrial defendants — including Amazon data centers — alleging nitrate contamination of the Lower Umatilla Basin Groundwater Management Area, seeking class-action status for all affected well users.",
+        "sourceUrl": "https://www.hbsslaw.com/press/oregon-groundwater-contamination/205m-settlement-reached-with-amazon-data-services-inc-over-alleged-nitrate-groundwater-contamination-in-oregons-lubgwma"
       }
     ],
     "concerns": [
-      "grid-capacity",
-      "local-control",
       "water-consumption",
-      "carbon-emissions",
-      "environmental-review"
+      "water-infrastructure",
+      "environmental-review",
+      "residential-proximity"
     ],
-    "contextBlurb": "Oregon ranks 9th nationally in data center concentration and has seen residential electricity rates rise an average of 50% over five years, with data centers driving most of the state's 20%-plus electricity consumption growth since 2013. The 2025 POWER Act shifted grid infrastructure costs onto large data center users rather than ratepayers, and the 2026 legislative session imposed a one-year pause on new enterprise zone tax breaks for data centers after public backlash against further subsidies. Governor Kotek's Data Center Advisory Committee began meeting in early 2026 to shape longer-term statewide policy."
+    "contextBlurb": "Umatilla County shares the Lower Umatilla Basin Groundwater Management Area with Morrow County, a 562-square-mile zone that is the sole water source for approximately 45,000 residents. Data center cooling operations at the Port of Morrow have been alleged in ongoing litigation to have worsened decades-long nitrate contamination affecting thousands of private wells. The Amazon settlement and continuing suit against remaining defendants are shaping local and state policy on data center water use across the Columbia Basin."
   }
 ]

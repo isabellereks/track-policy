@@ -1,5 +1,39 @@
 [
   {
+    "id": "spartanburg-county-sc",
+    "name": "Spartanburg County",
+    "fips": "45083",
+    "state": "South Carolina",
+    "stateCode": "SC",
+    "type": "county",
+    "actions": [
+      {
+        "title": "Rejection of $3 Billion TigerDC / Tyger River Industrial Park Data Center",
+        "date": "2026-02-01",
+        "status": "enacted",
+        "summary": "County council reversed its prior approvals of a $3 billion data center in the Tyger River Industrial Park following sustained community pushback and growing state legislative pressure.",
+        "sourceUrl": "https://www.wspa.com/news/local-news/spartanburg-county-council-gives-first-approval-of-data-center-moratorium/"
+      },
+      {
+        "title": "One-Year Data Center Development Moratorium — First Reading",
+        "date": "2026-06-23",
+        "status": "under-review",
+        "summary": "County council unanimously passed the first reading of a one-year moratorium on new data center land-use applications, prompted by a permit filed by Lighthouse Data Centers for 300 Jones Road, with two additional readings required for full enactment.",
+        "sourceUrl": "https://www.wspa.com/news/local-news/spartanburg-county-council-gives-first-approval-of-data-center-moratorium/"
+      }
+    ],
+    "concerns": [
+      "noise-vibration",
+      "carbon-emissions",
+      "grid-capacity",
+      "local-zoning",
+      "local-control",
+      "residential-proximity",
+      "environmental-review"
+    ],
+    "contextBlurb": "Spartanburg County has been a focal point of South Carolina's data-center debate throughout 2025–2026, with residents successfully defeating a proposed $3 billion facility and pushing council toward a moratorium. A separate $2.8 billion NorthMark Strategies project at the former Kohler plant — permitted before the moratorium — has drawn hundreds of residents to public hearings over its plan to expand on-site natural gas power generation from ~50 MW to 450 MW, raising air-quality and noise concerns."
+  },
+  {
     "id": "colleton-county-sc",
     "name": "Colleton County",
     "fips": "45029",
@@ -8,45 +42,44 @@
     "type": "county",
     "actions": [
       {
-        "title": "Ordinance 25-O-10: Data Center Special Exception Added to Rural Zoning Districts",
-        "date": "2025-11-10",
+        "title": "Zoning Code Amendment Permitting Data Centers via Special Exception",
+        "date": "2025-12-01",
         "status": "enacted",
-        "summary": "Colleton County amended its code of ordinances to allow data centers by special exception in Rural Development-1 and Rural Development-2 zoning districts, including areas within the ACE Basin watershed.",
-        "sourceUrl": "https://www.live5news.com/2026/02/05/colleton-county-lawmakers-oppose-proposed-data-center-ace-basin/"
+        "summary": "County council amended its zoning code in late 2025 to allow data centers as a special exception in rural/light-industrial zones and as a conditional use in heavy-industrial zones, delegating approval authority to the Zoning Board of Appeals.",
+        "sourceUrl": "https://www.postandcourier.com/rising-waters/colleton-county-data-center-moratorium-council/article_69012926-1f61-4283-b0ec-786c5673158f.html"
       },
       {
-        "title": "SELC Lawsuit Challenging Ordinance 25-O-10",
-        "date": "2026-01-09",
-        "status": "under-review",
-        "summary": "The Southern Environmental Law Center filed suit in Colleton County state court on behalf of two landowners, arguing that the special-exception ordinance violates state law, the county's comprehensive plan, and its zoning code.",
-        "sourceUrl": "https://www.selc.org/press-release/landowners-sue-colleton-county-over-data-center-ordinance/"
-      },
-      {
-        "title": "Zoning Board of Appeals Requires Eagle Rock Partners to Reapply for Special Exception",
+        "title": "Community Opposition to 1,000-MW Eagle Rock Partners Data Center Campus",
         "date": "2025-12-18",
-        "status": "under-review",
-        "summary": "Following a packed public hearing where hundreds of residents opposed the proposed 859-acre, 1,000-megawatt data center campus, the Colleton County Zoning Board of Appeals ruled that Eagle Rock Partners must reapply for its special exception.",
-        "sourceUrl": "https://www.selc.org/news/were-suing-to-protect-one-of-the-most-important-conservation-areas-in-the-south-from-data-centers/"
+        "status": "failed",
+        "summary": "Approximately 400 residents packed the Dec. 18 Zoning Board of Appeals meeting to oppose a proposed 1,000-MW, 859-acre data center campus near the ACE Basin; no vote occurred due to a defective meeting notice, and the developer (Eagle Rock Partners) did not refile.",
+        "sourceUrl": "https://www.postandcourier.com/rising-waters/colleton-county-data-center-moratorium-council/article_69012926-1f61-4283-b0ec-786c5673158f.html"
       },
       {
-        "title": "Colleton County Legislative Delegation Resolution Opposing ACE Basin Data Center",
-        "date": "2026-02-05",
-        "status": "enacted",
-        "summary": "Seven state lawmakers representing Colleton County—four Republicans and three Democrats—issued a bipartisan resolution declaring data center development inappropriate in the ACE Basin watershed.",
-        "sourceUrl": "https://scdailygazette.com/2026/02/05/sc-legislators-denounce-lowcountry-data-center-while-mulling-regulations-for-the-industry/"
+        "title": "SELC Lawsuit Challenging Zoning Code Changes",
+        "date": "2026-01-01",
+        "status": "under-review",
+        "summary": "Residents Miles Crosby and Jennifer Singleton, supported by the Southern Environmental Law Center, sued Colleton County challenging the zoning ordinance changes as inconsistent with the county's comprehensive plan.",
+        "sourceUrl": "https://www.live5news.com/2026/07/08/6-month-pause-on-data-center-developments-in-colleton-county-lawsuit-paused/"
+      },
+      {
+        "title": "Six-Month Data Center Development Moratorium — First Reading",
+        "date": "2026-05-04",
+        "status": "under-review",
+        "summary": "County council unanimously advanced a six-month moratorium on all data center land-use approvals to a second reading, aiming to update its comprehensive plan and revise zoning rules in response to community pressure.",
+        "sourceUrl": "https://www.postandcourier.com/rising-waters/colleton-county-data-center-moratorium-council/article_69012926-1f61-4283-b0ec-786c5673158f.html"
       }
     ],
     "concerns": [
       "local-zoning",
-      "residential-proximity",
-      "water-consumption",
-      "water-infrastructure",
+      "local-control",
       "environmental-review",
-      "noise-vibration",
       "grid-capacity",
-      "carbon-emissions"
+      "water-infrastructure",
+      "residential-proximity",
+      "water-consumption"
     ],
-    "contextBlurb": "Colleton County passed Ordinance 25-O-10 in November 2025 adding data centers as a special exception in rural zoning districts, which promptly drew an application from Eagle Rock Partners to build an 859-acre, 1,000-megawatt campus near the ecologically sensitive ACE Basin. Hundreds of residents packed a December 2025 public hearing in opposition, and the Southern Environmental Law Center filed suit in January 2026 arguing the ordinance violated state law and the county's own comprehensive plan. Seven county legislators issued a bipartisan resolution in February 2026 opposing the project, while the Zoning Board of Appeals required the developer to reapply for its special exception."
+    "contextBlurb": "Colleton County became a flashpoint for South Carolina's rural data-center debate after a Charlotte developer proposed converting 859 acres near the environmentally sensitive ACE Basin into a gigawatt-scale data center campus. Around 400 residents mobilized against the project, leading to a legal challenge by the Southern Environmental Law Center and, ultimately, a county-initiated moratorium to pause approvals while the comprehensive plan is updated."
   },
   {
     "id": "marion-county-sc",
@@ -57,54 +90,120 @@
     "type": "county",
     "actions": [
       {
-        "title": "Ordinance 2026-01: Approval of $2.4 Billion 'Project Liberty' Data Center",
+        "title": "Approval of $2.4 Billion 'Project Liberty' Data Center Under NDA",
         "date": "2026-01-22",
         "status": "enacted",
-        "summary": "Marion County Council voted to approve a $2.4 billion data center project (listed only as 'Project Liberty' on the agenda) during a winter storm when most residents were unaware, having been bound by an NDA with the developer.",
+        "summary": "Marion County council approved a $2.4 billion data center project and fee-in-lieu-of-tax agreement at a meeting held during a winter storm, with the project listed on the agenda only as 'Project Liberty' under a nondisclosure agreement that blocked public disclosure of details until the final vote.",
         "sourceUrl": "https://capitalbnews.org/secret-data-center-deal-marion-county-south-carolina/"
-      },
-      {
-        "title": "Community Opposition and Public Hearing Pressure Over Lack of Transparency",
-        "date": "2026-02-11",
-        "status": "proposed",
-        "summary": "Roughly 100 Marion County residents attended a subsequent council meeting to voice opposition to the data center, citing lack of public transparency, the NDA process, and concerns about water and power impacts on the rural community.",
-        "sourceUrl": "https://scnow.com/news/local/government-politics/article_bf009e55-d9e4-4084-9910-24459896aa37.html"
       }
     ],
     "concerns": [
       "local-control",
-      "water-consumption",
-      "water-infrastructure",
       "grid-capacity",
-      "environmental-review",
+      "water-consumption",
       "residential-proximity",
       "property-values"
     ],
-    "contextBlurb": "Marion County Council approved a $2.4 billion data center project on January 22, 2026, during a historic winter storm, with the agenda item listed only as 'Project Liberty' and council members bound by an NDA that prevented them from disclosing details to the public. Approximately 100 residents showed up at a subsequent council meeting in February 2026 to protest, citing the lack of transparency and concerns about the project's impact on a county already burdened by high poverty and unemployment. The controversy helped fuel the statewide push for House Bill H-5286, a proposed moratorium on data center approvals through 2028."
+    "contextBlurb": "Marion County quietly approved a $2.4 billion data center project in January 2026 during a major winter storm, with the project shielded from public scrutiny by a nondisclosure agreement and listed only under the codename 'Project Liberty.' Residents voiced anger at the lack of transparency, noting the county's $25 million annual budget made the economic offer difficult to refuse, while also expressing concern about utility costs and long-term impacts on this majority-Black rural community."
   },
   {
-    "id": "spartanburg-county-sc",
-    "name": "Spartanburg County",
-    "fips": "45083",
+    "id": "newberry-county-sc",
+    "name": "Newberry County",
+    "fips": "45071",
     "state": "South Carolina",
     "stateCode": "SC",
     "type": "county",
     "actions": [
       {
-        "title": "TigerDC Data Center Proposal Draws NDA Controversy and Local Opposition",
-        "date": "2025-11-01",
-        "status": "under-review",
-        "summary": "A data center project by developer TigerDC was negotiated under a non-disclosure agreement with OneSpartanburg (the local chamber of commerce), preventing public disclosure until community opposition exploded and drew regional media scrutiny.",
-        "sourceUrl": "https://www.postandcourier.com/rising-waters/data-center-secrecy-water-power-electric-colleton-county/article_5434700a-6506-4115-980f-51cf7440b5fb.html"
+        "title": "Rejection of County Industrial Park Land Sale to Data Center Developer",
+        "date": "2026-06-01",
+        "status": "enacted",
+        "summary": "Newberry County Council voted down a proposal to sell county-owned industrial park land to a data center developer, then promptly initiated a data center moratorium ordinance.",
+        "sourceUrl": "https://scdailygazette.com/2026/06/26/sc-counties-enacting-data-center-moratoriums/"
+      },
+      {
+        "title": "Data Center Development Moratorium Enacted",
+        "date": "2026-06-10",
+        "status": "enacted",
+        "summary": "Newberry County enacted a moratorium ordinance on data center development following council's rejection of a proposal to sell county industrial park property to a data center developer.",
+        "sourceUrl": "https://scdailygazette.com/2026/06/26/sc-counties-enacting-data-center-moratoriums/"
       }
     ],
     "concerns": [
       "local-control",
       "local-zoning",
+      "grid-capacity"
+    ],
+    "contextBlurb": "Newberry County moved swiftly to enact a data center moratorium in mid-2026 after county council voted against selling property in a county-owned industrial park to a data center developer. The moratorium is part of a broader wave of county-level pauses across South Carolina aimed at establishing local standards before state-level regulations are finalized."
+  },
+  {
+    "id": "chesterfield-county-sc",
+    "name": "Chesterfield County",
+    "fips": "45025",
+    "state": "South Carolina",
+    "stateCode": "SC",
+    "type": "county",
+    "actions": [
+      {
+        "title": "Data Center Development Moratorium Enacted",
+        "date": "2026-06-10",
+        "status": "enacted",
+        "summary": "Chesterfield County enacted a data center moratorium ordinance in early June 2026, joining a wave of South Carolina counties pausing data center approvals to establish local land-use standards.",
+        "sourceUrl": "https://scdailygazette.com/2026/06/26/sc-counties-enacting-data-center-moratoriums/"
+      }
+    ],
+    "concerns": [
+      "local-control",
+      "local-zoning",
+      "grid-capacity"
+    ],
+    "contextBlurb": "Chesterfield County was among the first South Carolina counties to formally enact a data center moratorium ordinance, doing so in early June 2026 alongside Newberry County. The action reflects a statewide trend of rural and smaller counties seeking to pause development while the General Assembly works toward comprehensive data center oversight legislation."
+  },
+  {
+    "id": "york-county-sc",
+    "name": "York County",
+    "fips": "45091",
+    "state": "South Carolina",
+    "stateCode": "SC",
+    "type": "county",
+    "actions": [
+      {
+        "title": "Consideration of Local Data Center Regulations Before Any Approval",
+        "date": "2026-03-01",
+        "status": "proposed",
+        "summary": "York County began developing its own local data center regulations proactively before considering any approval, in response to the statewide debate over siting, utility impacts, and community concerns.",
+        "sourceUrl": "https://www.scpolicycouncil.org/s_c_senate_waters_down_data_center_reform"
+      }
+    ],
+    "concerns": [
+      "local-zoning",
+      "local-control",
       "grid-capacity",
-      "water-consumption",
       "residential-proximity"
     ],
-    "contextBlurb": "Spartanburg County became part of a statewide pattern in which data center developers used NDAs with local economic development entities to keep project details secret until late in the approval process. The TigerDC proposal in Spartanburg drew fierce local opposition once it became public, mirroring similar controversies in Colleton and Marion counties. The Post and Courier reported that an NDA between TigerDC and OneSpartanburg, the local chamber, had prevented the chamber from releasing project information before public backlash erupted."
+    "contextBlurb": "York County proactively moved to develop its own data center regulatory framework before entertaining any approval applications, reflecting growing awareness among South Carolina county governments of the need for local land-use standards. The county's approach mirrors similar regulatory consideration underway in Horry County, as both seek to get ahead of the AI-driven data center development wave."
+  },
+  {
+    "id": "greenwood-county-sc",
+    "name": "Greenwood County",
+    "fips": "45047",
+    "state": "South Carolina",
+    "stateCode": "SC",
+    "type": "county",
+    "actions": [
+      {
+        "title": "Twelve-Month Data Center Development Moratorium",
+        "date": "2026-07-21",
+        "status": "enacted",
+        "summary": "Greenwood County Council approved Ordinance 2026-25 on third and final reading in a 4-3 vote, blocking new data center approvals for 12 months while the county develops local standards.",
+        "sourceUrl": "https://www.foxcarolina.com/2026/07/21/greenwood-co-council-approves-final-reading-one-year-moratorium-data-centers/"
+      }
+    ],
+    "concerns": [
+      "local-control",
+      "local-zoning",
+      "grid-capacity"
+    ],
+    "contextBlurb": "Greenwood County enacted a 12-month pause on new data center approvals on July 21, 2026, after three readings and sustained public debate. Ordinance 2026-25 passed 4-3, giving the county time to develop standards for siting, utility impacts, noise, water use, and environmental protections amid interest from multiple developers."
   }
 ]

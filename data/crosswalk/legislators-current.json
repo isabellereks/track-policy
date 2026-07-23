@@ -1218,129 +1218,6 @@
   },
   {
     "id": {
-      "bioguide": "G000359",
-      "thomas": "00452",
-      "lis": "S293",
-      "govtrack": 300047,
-      "opensecrets": "N00009975",
-      "votesmart": 21992,
-      "fec": [
-        "S0SC00149",
-        "H4SC03087"
-      ],
-      "cspan": 36782,
-      "wikipedia": "Lindsey Graham",
-      "house_history": 14015,
-      "ballotpedia": "Lindsey Graham",
-      "maplight": 569,
-      "icpsr": 29566,
-      "wikidata": "Q22212",
-      "google_entity_id": "kg:/m/01_pdg",
-      "pictorial": 13440
-    },
-    "name": {
-      "first": "Lindsey",
-      "middle": "O.",
-      "last": "Graham",
-      "official_full": "Lindsey Graham"
-    },
-    "bio": {
-      "birthday": "1955-07-09",
-      "gender": "M"
-    },
-    "terms": [
-      {
-        "type": "rep",
-        "start": "1995-01-04",
-        "end": "1997-01-03",
-        "state": "SC",
-        "district": 3,
-        "party": "Republican"
-      },
-      {
-        "type": "rep",
-        "start": "1997-01-07",
-        "end": "1999-01-03",
-        "state": "SC",
-        "district": 3,
-        "party": "Republican"
-      },
-      {
-        "type": "rep",
-        "start": "1999-01-06",
-        "end": "2001-01-03",
-        "state": "SC",
-        "district": 3,
-        "party": "Republican"
-      },
-      {
-        "type": "rep",
-        "start": "2001-01-03",
-        "end": "2003-01-03",
-        "state": "SC",
-        "district": 3,
-        "party": "Republican"
-      },
-      {
-        "type": "sen",
-        "start": "2003-01-07",
-        "end": "2009-01-03",
-        "state": "SC",
-        "class": 2,
-        "party": "Republican",
-        "url": "http://lgraham.senate.gov/"
-      },
-      {
-        "type": "sen",
-        "start": "2009-01-06",
-        "end": "2015-01-03",
-        "state": "SC",
-        "class": 2,
-        "party": "Republican",
-        "url": "http://www.lgraham.senate.gov",
-        "address": "290 Russell Senate Office Building Washington DC 20510",
-        "phone": "202-224-5972",
-        "fax": "202-224-3808",
-        "contact_form": "http://www.lgraham.senate.gov/public/index.cfm?FuseAction=Contact.EmailSenatorGraham",
-        "office": "290 Russell Senate Office Building",
-        "state_rank": "senior",
-        "rss_url": "http://www.lgraham.senate.gov/public/index.cfm?FuseAction=Rss.Feed"
-      },
-      {
-        "type": "sen",
-        "start": "2015-01-06",
-        "end": "2021-01-03",
-        "state": "SC",
-        "class": 2,
-        "party": "Republican",
-        "url": "https://www.lgraham.senate.gov/public",
-        "address": "290 Russell Senate Office Building Washington DC 20510",
-        "phone": "202-224-5972",
-        "fax": "202-224-3808",
-        "contact_form": "https://www.lgraham.senate.gov/public/index.cfm/e-mail-senator-graham",
-        "office": "290 Russell Senate Office Building",
-        "state_rank": "senior",
-        "rss_url": "http://www.lgraham.senate.gov/public/index.cfm?FuseAction=Rss.Feed"
-      },
-      {
-        "type": "sen",
-        "start": "2021-01-03",
-        "end": "2027-01-03",
-        "state": "SC",
-        "class": 2,
-        "state_rank": "senior",
-        "party": "Republican",
-        "url": "https://www.lgraham.senate.gov/public",
-        "rss_url": "http://www.lgraham.senate.gov/public/index.cfm?FuseAction=Rss.Feed",
-        "contact_form": "https://www.lgraham.senate.gov/public/index.cfm/e-mail-senator-graham",
-        "address": "211 Russell Senate Office Building Washington DC 20510",
-        "office": "211 Russell Senate Office Building",
-        "phone": "202-224-5972"
-      }
-    ]
-  },
-  {
-    "id": {
       "bioguide": "M000355",
       "thomas": "01395",
       "lis": "S174",
@@ -10221,7 +10098,7 @@
       "cspan": 1022879,
       "wikipedia": "Jim Jordan",
       "house_history": 16067,
-      "ballotpedia": "Jim Jordan",
+      "ballotpedia": "Jim Jordan (Ohio)",
       "maplight": 711,
       "icpsr": 20738,
       "wikidata": "Q186215",
@@ -10637,7 +10514,7 @@
         "H0MA10082"
       ],
       "cspan": 61856,
-      "wikipedia": "Bill Keating (politician)",
+      "wikipedia": "Bill Keating",
       "house_history": 16570,
       "maplight": 1446,
       "icpsr": 21140,
@@ -11413,7 +11290,7 @@
       "cspan": 1028071,
       "wikipedia": "Bob Latta",
       "house_history": 17309,
-      "ballotpedia": "Robert E. Latta",
+      "ballotpedia": "Bob Latta",
       "maplight": 737,
       "icpsr": 20755,
       "wikidata": "Q888061",
@@ -17521,7 +17398,7 @@
         "H0GA08099"
       ],
       "cspan": 623344,
-      "wikipedia": "Austin Scott (politician)",
+      "wikipedia": "Austin Scott",
       "ballotpedia": "Austin Scott",
       "maplight": 1429,
       "icpsr": 21123,
@@ -17648,184 +17525,6 @@
         "address": "2185 Rayburn House Office Building Washington DC 20515-1008",
         "office": "2185 Rayburn House Office Building",
         "phone": "202-225-6531"
-      }
-    ]
-  },
-  {
-    "id": {
-      "bioguide": "S001157",
-      "thomas": "01722",
-      "govtrack": 400363,
-      "opensecrets": "N00024871",
-      "votesmart": 7826,
-      "fec": [
-        "H2GA13012"
-      ],
-      "cspan": 1003567,
-      "wikipedia": "David Scott (Georgia politician)",
-      "ballotpedia": "David Scott (Georgia)",
-      "maplight": 454,
-      "icpsr": 20321,
-      "house_history": 22574,
-      "wikidata": "Q132071",
-      "google_entity_id": "kg:/m/0255r4",
-      "pictorial": 13022
-    },
-    "name": {
-      "first": "David",
-      "last": "Scott",
-      "official_full": "David Scott"
-    },
-    "bio": {
-      "birthday": "1945-06-27",
-      "gender": "M"
-    },
-    "terms": [
-      {
-        "type": "rep",
-        "start": "2003-01-07",
-        "end": "2005-01-03",
-        "state": "GA",
-        "district": 13,
-        "party": "Democrat",
-        "url": "http://www.house.gov/davidscott"
-      },
-      {
-        "type": "rep",
-        "start": "2005-01-04",
-        "end": "2007-01-03",
-        "state": "GA",
-        "district": 13,
-        "party": "Democrat",
-        "url": "http://www.house.gov/davidscott"
-      },
-      {
-        "type": "rep",
-        "start": "2007-01-04",
-        "end": "2009-01-03",
-        "state": "GA",
-        "district": 13,
-        "party": "Democrat",
-        "url": "http://davidscott.house.gov"
-      },
-      {
-        "type": "rep",
-        "start": "2009-01-06",
-        "end": "2011-01-03",
-        "state": "GA",
-        "district": 13,
-        "party": "Democrat",
-        "url": "http://davidscott.house.gov"
-      },
-      {
-        "type": "rep",
-        "start": "2011-01-05",
-        "end": "2013-01-03",
-        "state": "GA",
-        "district": 13,
-        "party": "Democrat",
-        "url": "http://davidscott.house.gov",
-        "address": "225 Cannon HOB; Washington DC 20515-1013",
-        "phone": "202-225-2939",
-        "fax": "202-225-4628",
-        "contact_form": "http://www.house.gov/writerep",
-        "office": "225 Cannon House Office Building"
-      },
-      {
-        "type": "rep",
-        "start": "2013-01-03",
-        "end": "2015-01-03",
-        "state": "GA",
-        "party": "Democrat",
-        "district": 13,
-        "url": "http://davidscott.house.gov",
-        "address": "225 Cannon HOB; Washington DC 20515-1013",
-        "phone": "202-225-2939",
-        "fax": "202-225-4628",
-        "contact_form": "https://davidscott.house.gov/contact/contactform.htm",
-        "office": "225 Cannon House Office Building",
-        "rss_url": "http://davidscott.house.gov/news/rss.aspx"
-      },
-      {
-        "type": "rep",
-        "start": "2015-01-06",
-        "end": "2017-01-03",
-        "state": "GA",
-        "party": "Democrat",
-        "district": 13,
-        "url": "http://davidscott.house.gov",
-        "address": "225 Cannon HOB; Washington DC 20515-1013",
-        "phone": "202-225-2939",
-        "fax": "202-225-4628",
-        "contact_form": "https://davidscott.house.gov/contact/contactform.htm",
-        "office": "225 Cannon House Office Building",
-        "rss_url": "http://davidscott.house.gov/news/rss.aspx"
-      },
-      {
-        "type": "rep",
-        "start": "2017-01-03",
-        "end": "2019-01-03",
-        "state": "GA",
-        "district": 13,
-        "party": "Democrat",
-        "phone": "202-225-2939",
-        "url": "https://davidscott.house.gov",
-        "rss_url": "http://davidscott.house.gov/news/rss.aspx",
-        "address": "225 Cannon House Office Building; Washington DC 20515-1013",
-        "office": "225 Cannon House Office Building",
-        "fax": "202-225-4628"
-      },
-      {
-        "type": "rep",
-        "start": "2019-01-03",
-        "end": "2021-01-03",
-        "state": "GA",
-        "district": 13,
-        "party": "Democrat",
-        "phone": "202-225-2939",
-        "address": "225 Cannon House Office Building Washington DC 20515-1013",
-        "office": "225 Cannon House Office Building",
-        "url": "https://davidscott.house.gov",
-        "rss_url": "http://davidscott.house.gov/news/rss.aspx"
-      },
-      {
-        "type": "rep",
-        "start": "2021-01-03",
-        "end": "2023-01-03",
-        "state": "GA",
-        "district": 13,
-        "party": "Democrat",
-        "url": "https://davidscott.house.gov",
-        "rss_url": "http://davidscott.house.gov/news/rss.aspx",
-        "address": "468 Cannon House Office Building Washington DC 20515-1013",
-        "office": "468 Cannon House Office Building",
-        "phone": "202-225-2939"
-      },
-      {
-        "type": "rep",
-        "start": "2023-01-03",
-        "end": "2025-01-03",
-        "state": "GA",
-        "district": 13,
-        "party": "Democrat",
-        "url": "https://davidscott.house.gov",
-        "rss_url": "http://davidscott.house.gov/news/rss.aspx",
-        "address": "468 Cannon House Office Building Washington DC 20515-1013",
-        "office": "468 Cannon House Office Building",
-        "phone": "202-225-2939"
-      },
-      {
-        "type": "rep",
-        "start": "2025-01-03",
-        "end": "2027-01-03",
-        "state": "GA",
-        "district": 13,
-        "party": "Democrat",
-        "url": "https://davidscott.house.gov",
-        "rss_url": "http://davidscott.house.gov/news/rss.aspx",
-        "address": "468 Cannon House Office Building Washington DC 20515-1013",
-        "office": "468 Cannon House Office Building",
-        "phone": "202-225-2939"
       }
     ]
   },
@@ -18156,7 +17855,7 @@
         "end": "2029-01-03",
         "state": "SC",
         "class": 3,
-        "state_rank": "junior",
+        "state_rank": "senior",
         "party": "Republican",
         "url": "https://www.scott.senate.gov",
         "rss_url": "http://www.scott.senate.gov/rss.xml",
@@ -19754,7 +19453,7 @@
         "H8CA01109"
       ],
       "cspan": 57872,
-      "wikipedia": "Mike Thompson (California politician)",
+      "wikipedia": "Mike Thompson",
       "maplight": 489,
       "icpsr": 29901,
       "house_history": 23200,
@@ -20398,7 +20097,7 @@
       ],
       "cspan": 1003607,
       "wikipedia": "Mike Turner",
-      "ballotpedia": "Michael R. Turner",
+      "ballotpedia": "Michael Turner (Ohio)",
       "maplight": 496,
       "icpsr": 20342,
       "house_history": 23206,
@@ -21768,7 +21467,7 @@
         "H2SC02059"
       ],
       "cspan": 1002567,
-      "wikipedia": "Joe Wilson (American politician)",
+      "wikipedia": "Joe Wilson",
       "ballotpedia": "Joe Wilson",
       "maplight": 519,
       "icpsr": 20138,
@@ -23959,123 +23658,6 @@
   },
   {
     "id": {
-      "govtrack": 412514,
-      "bioguide": "S001193",
-      "thomas": "02104",
-      "cspan": 79729,
-      "opensecrets": "N00033508",
-      "votesmart": 129529,
-      "wikipedia": "Eric Swalwell",
-      "fec": [
-        "H2CA15094"
-      ],
-      "ballotpedia": "Eric Swalwell",
-      "maplight": 1738,
-      "icpsr": 21306,
-      "wikidata": "Q3466996",
-      "google_entity_id": "kg:/m/0ncq55g",
-      "pictorial": 12928
-    },
-    "name": {
-      "first": "Eric",
-      "last": "Swalwell",
-      "official_full": "Eric Swalwell"
-    },
-    "bio": {
-      "gender": "M",
-      "birthday": "1980-11-16"
-    },
-    "terms": [
-      {
-        "type": "rep",
-        "start": "2013-01-03",
-        "end": "2015-01-03",
-        "state": "CA",
-        "party": "Democrat",
-        "district": 15,
-        "office": "501 Cannon House Office Building",
-        "address": "501 Cannon HOB; Washington DC 20515-0515",
-        "phone": "202-225-5065",
-        "url": "http://swalwell.house.gov",
-        "contact_form": "http://swalwell.house.gov/contact-me/email-eric/"
-      },
-      {
-        "type": "rep",
-        "start": "2015-01-06",
-        "end": "2017-01-03",
-        "state": "CA",
-        "party": "Democrat",
-        "district": 15,
-        "office": "129 Cannon House Office Building",
-        "address": "129 Cannon HOB; Washington DC 20515-0515",
-        "phone": "202-225-5065",
-        "url": "http://swalwell.house.gov",
-        "contact_form": "http://swalwell.house.gov/contact-me/email-eric/"
-      },
-      {
-        "type": "rep",
-        "start": "2017-01-03",
-        "end": "2019-01-03",
-        "state": "CA",
-        "district": 15,
-        "party": "Democrat",
-        "phone": "202-225-5065",
-        "url": "https://swalwell.house.gov",
-        "address": "129 Cannon House Office Building; Washington DC 20515-0515",
-        "office": "129 Cannon House Office Building"
-      },
-      {
-        "type": "rep",
-        "start": "2019-01-03",
-        "end": "2021-01-03",
-        "state": "CA",
-        "district": 15,
-        "party": "Democrat",
-        "phone": "202-225-5065",
-        "address": "407 Cannon House Office Building Washington DC 20515-0515",
-        "office": "407 Cannon House Office Building",
-        "url": "https://swalwell.house.gov"
-      },
-      {
-        "type": "rep",
-        "start": "2021-01-03",
-        "end": "2023-01-03",
-        "state": "CA",
-        "district": 15,
-        "party": "Democrat",
-        "url": "https://swalwell.house.gov",
-        "address": "174 Cannon House Office Building Washington DC 20515-0515",
-        "office": "174 Cannon House Office Building",
-        "phone": "202-225-5065"
-      },
-      {
-        "type": "rep",
-        "start": "2023-01-03",
-        "end": "2025-01-03",
-        "state": "CA",
-        "district": 14,
-        "party": "Democrat",
-        "url": "https://swalwell.house.gov",
-        "address": "174 Cannon House Office Building Washington DC 20515-0514",
-        "office": "174 Cannon House Office Building",
-        "phone": "202-225-5065"
-      },
-      {
-        "type": "rep",
-        "start": "2025-01-03",
-        "end": "2027-01-03",
-        "state": "CA",
-        "district": 14,
-        "party": "Democrat",
-        "url": "https://swalwell.house.gov",
-        "address": "174 Cannon House Office Building Washington DC 20515-0514",
-        "office": "174 Cannon House Office Building",
-        "phone": "202-225-5065"
-      }
-    ]
-  },
-  {
-    "id": {
       "govtrack": 412516,
       "bioguide": "B001285",
       "thomas": "02106",
@@ -24935,7 +24517,7 @@
       "thomas": "02131",
       "cspan": 61848,
       "votesmart": 117290,
-      "wikipedia": "Andy Barr (American politician)",
+      "wikipedia": "Andy Barr",
       "fec": [
         "H0KY06104"
       ],
@@ -26298,7 +25880,7 @@
       "thomas": "02157",
       "cspan": 79873,
       "votesmart": 59980,
-      "wikipedia": "Scott Perry (politician)",
+      "wikipedia": "Scott Perry",
       "fec": [
         "H2PA04135"
       ],
@@ -27949,7 +27531,7 @@
       "thomas": "02221",
       "maplight": 2064,
       "wikidata": "Q17386504",
-      "wikipedia": "Gary Palmer (politician)",
+      "wikipedia": "Gary Palmer",
       "google_entity_id": "kg:/m/0115nklq",
       "votesmart": 146274,
       "cspan": 76094,
@@ -29807,7 +29389,8 @@
       "votesmart": 24799,
       "cspan": 79091,
       "icpsr": 21538,
-      "pictorial": 13161
+      "pictorial": 13161,
+      "ballotpedia": "Bonnie Watson Coleman"
     },
     "name": {
       "first": "Bonnie",
@@ -31338,7 +30921,7 @@
         "H6KY01110"
       ],
       "cspan": 76619,
-      "wikipedia": "James Comer (politician)",
+      "wikipedia": "James Comer",
       "ballotpedia": "James Comer Jr.",
       "google_entity_id": "kg:/m/0j65cf0",
       "wikidata": "Q6131602",
@@ -32410,7 +31993,7 @@
       ],
       "opensecrets": "N00038414",
       "maplight": 2201,
-      "google_entity_id": "kg:/g/11c3yvwbvn",
+      "google_entity_id": "kg:/g/11c328y56v",
       "cspan": 104772,
       "icpsr": 21706,
       "ballotpedia": "Lisa Blunt Rochester",
@@ -33759,7 +33342,7 @@
       ],
       "opensecrets": "N00038734",
       "maplight": 2227,
-      "google_entity_id": "kg:/g/11cntnvwkg",
+      "google_entity_id": "kg:/g/11c5qshznp",
       "cspan": 104738,
       "icpsr": 21743,
       "pictorial": 13386,
@@ -34183,7 +33766,7 @@
     "id": {
       "bioguide": "G000581",
       "govtrack": 412725,
-      "wikipedia": "Vicente Gonzalez (politician)",
+      "wikipedia": "Vicente Gonzalez (American politician)",
       "wikidata": "Q27924921",
       "votesmart": 166483,
       "fec": [
@@ -34736,7 +34319,7 @@
       "govtrack": 412740,
       "opensecrets": "N00041221",
       "votesmart": 123390,
-      "wikipedia": "John Curtis (Utah politician)",
+      "wikipedia": "John Curtis",
       "wikidata": "Q6253810",
       "ballotpedia": "John Curtis (Utah)",
       "google_entity_id": "kg:/m/0bmdhtb",
@@ -35778,7 +35361,8 @@
       "votesmart": 179416,
       "icpsr": 21939,
       "google_entity_id": "kg:/g/11gfd5mdpc",
-      "pictorial": 12963
+      "pictorial": 12963,
+      "ballotpedia": "Mike Levin"
     },
     "name": {
       "first": "Mike",
@@ -36257,7 +35841,7 @@
     },
     "bio": {
       "gender": "M",
-      "birthday": "1973-07-19"
+      "birthday": "1962-03-09"
     },
     "terms": [
       {
@@ -36477,7 +36061,8 @@
       "votesmart": 177001,
       "icpsr": 21979,
       "google_entity_id": "kg:/g/11gfm73_1z",
-      "pictorial": 13046
+      "pictorial": 13046,
+      "ballotpedia": "Lauren Underwood"
     },
     "name": {
       "first": "Lauren",
@@ -37317,7 +36902,8 @@
       "icpsr": 21927,
       "google_entity_id": "kg:/g/11fjx_n80p",
       "ballotpedia": "Michael Guest",
-      "pictorial": 13126
+      "pictorial": 13126,
+      "votesmart": 179667
     },
     "name": {
       "first": "Michael",
@@ -37552,7 +37138,7 @@
         "S4NJ00466"
       ],
       "govtrack": 412797,
-      "wikipedia": "Andy Kim (politician)",
+      "wikipedia": "Andy Kim",
       "wikidata": "Q55639180",
       "opensecrets": "N00041370",
       "icpsr": 21937,
@@ -38175,7 +37761,7 @@
         "H8SC04250"
       ],
       "govtrack": 412815,
-      "wikipedia": "William Timmons (politician)",
+      "wikipedia": "William Timmons",
       "wikidata": "Q28837296",
       "opensecrets": "N00042715",
       "google_entity_id": "kg:/g/11g6ns21_f",
@@ -40796,7 +40382,9 @@
       "wikidata": "Q98523243",
       "wikipedia": "Kat Cammack",
       "google_entity_id": "kg:/g/11fsp_lppx",
-      "pictorial": 12984
+      "pictorial": 12984,
+      "votesmart": 191306,
+      "ballotpedia": "Kat Cammack"
     },
     "name": {
       "first": "Katherine",
@@ -41051,7 +40639,8 @@
       "wikipedia": "María Elvira Salazar",
       "google_entity_id": "kg:/g/1hb_g7r18",
       "votesmart": 182300,
-      "pictorial": 13008
+      "pictorial": 13008,
+      "ballotpedia": "Maria Elvira Salazar"
     },
     "name": {
       "first": "Maria",
@@ -41114,7 +40703,8 @@
       "wikipedia": "Nikema Williams",
       "google_entity_id": "kg:/g/11fctqx0jy",
       "ballotpedia": "Nikema Williams",
-      "pictorial": 13014
+      "pictorial": 13014,
+      "votesmart": 176751
     },
     "name": {
       "first": "Nikema",
@@ -41176,7 +40766,9 @@
       "wikidata": "Q102277679",
       "wikipedia": "Andrew Clyde",
       "google_entity_id": "kg:/g/11j32tm4v4",
-      "pictorial": 13018
+      "pictorial": 13018,
+      "votesmart": 189770,
+      "ballotpedia": "Andrew Clyde"
     },
     "name": {
       "first": "Andrew",
@@ -41493,7 +41085,9 @@
       "wikidata": "Q96077897",
       "wikipedia": "Frank J. Mrvan",
       "google_entity_id": "kg:/g/11gtz3tlbh",
-      "pictorial": 13050
+      "pictorial": 13050,
+      "votesmart": 113775,
+      "ballotpedia": "Frank Mrvan (Indiana congressional member)"
     },
     "name": {
       "first": "Frank",
@@ -41618,7 +41212,9 @@
       "wikidata": "Q48767554",
       "wikipedia": "Tracey Mann",
       "google_entity_id": "kg:/g/11hcbb5b38",
-      "pictorial": 13059
+      "pictorial": 13059,
+      "votesmart": 125007,
+      "ballotpedia": "Tracey Mann"
     },
     "name": {
       "first": "Tracey",
@@ -41680,7 +41276,9 @@
       "wikidata": "Q101196632",
       "wikipedia": "Jake Auchincloss",
       "google_entity_id": "kg:/g/11f0xw2_p4",
-      "pictorial": 13078
+      "pictorial": 13078,
+      "votesmart": 173832,
+      "ballotpedia": "Jake Auchincloss"
     },
     "name": {
       "first": "Jake",
@@ -41878,7 +41476,8 @@
       "wikipedia": "Deborah Ross (politician)",
       "google_entity_id": "kg:/m/02b3x2",
       "ballotpedia": "Deborah Ross",
-      "pictorial": 13131
+      "pictorial": 13131,
+      "votesmart": 41560
     },
     "name": {
       "first": "Deborah",
@@ -41938,9 +41537,11 @@
       "opensecrets": "N00044559",
       "govtrack": 456835,
       "wikidata": "Q96054905",
-      "wikipedia": "Teresa Leger Fernandez",
+      "wikipedia": "Teresa Leger Fernández",
       "google_entity_id": "kg:/g/11h_x7n8f5",
-      "pictorial": 13164
+      "pictorial": 13164,
+      "votesmart": 189882,
+      "ballotpedia": "Teresa Leger Fernandez"
     },
     "name": {
       "first": "Teresa",
@@ -42001,7 +41602,9 @@
       "wikidata": "Q21257859",
       "wikipedia": "Andrew Garbarino",
       "google_entity_id": "kg:/g/11bw8f4j8q",
-      "pictorial": 13170
+      "pictorial": 13170,
+      "votesmart": 143103,
+      "ballotpedia": "Andrew Garbarino"
     },
     "name": {
       "first": "Andrew",
@@ -42063,7 +41666,9 @@
       "wikidata": "Q7030112",
       "wikipedia": "Nicole Malliotakis",
       "google_entity_id": "kg:/m/0g5817m",
-      "pictorial": 13179
+      "pictorial": 13179,
+      "votesmart": 127929,
+      "ballotpedia": "Nicole Malliotakis"
     },
     "name": {
       "first": "Nicole",
@@ -42189,7 +41794,8 @@
       "wikipedia": "Stephanie Bice",
       "google_entity_id": "kg:/g/11h2hmkrv8",
       "ballotpedia": "Stephanie Bice",
-      "pictorial": 13214
+      "pictorial": 13214,
+      "votesmart": 152294
     },
     "name": {
       "first": "Stephanie",
@@ -42251,7 +41857,9 @@
       "wikidata": "Q5132536",
       "wikipedia": "Cliff Bentz",
       "google_entity_id": "kg:/m/0gfdsjb",
-      "pictorial": 13216
+      "pictorial": 13216,
+      "votesmart": 102400,
+      "ballotpedia": "Cliff Bentz"
     },
     "name": {
       "first": "Cliff",
@@ -42504,7 +42112,9 @@
       "wikidata": "Q101196462",
       "wikipedia": "August Pfluger",
       "google_entity_id": "kg:/g/11f3szpd4x",
-      "pictorial": 13268
+      "pictorial": 13268,
+      "votesmart": 188165,
+      "ballotpedia": "August Pfluger"
     },
     "name": {
       "first": "August",
@@ -42681,69 +42291,6 @@
         "address": "1104 Longworth House Office Building Washington DC 20515-4322",
         "office": "1104 Longworth House Office Building",
         "phone": "202-225-5951"
-      }
-    ]
-  },
-  {
-    "id": {
-      "bioguide": "G000594",
-      "fec": [
-        "H0TX35015"
-      ],
-      "opensecrets": "N00044592",
-      "govtrack": 456849,
-      "wikidata": "Q104648170",
-      "google_entity_id": "kg:/g/11fs52clcr",
-      "wikipedia": "Tony Gonzales",
-      "pictorial": 13280
-    },
-    "name": {
-      "first": "Ernest",
-      "middle": "Anthony",
-      "nickname": "Tony",
-      "last": "Gonzales",
-      "official_full": "Tony Gonzales"
-    },
-    "bio": {
-      "gender": "M",
-      "birthday": "1980-10-10"
-    },
-    "terms": [
-      {
-        "type": "rep",
-        "start": "2021-01-03",
-        "end": "2023-01-03",
-        "state": "TX",
-        "district": 23,
-        "party": "Republican",
-        "address": "1009 Longworth House Office Building Washington DC 20515-4323",
-        "office": "1009 Longworth House Office Building",
-        "phone": "202-225-4511",
-        "url": "https://gonzales.house.gov"
-      },
-      {
-        "type": "rep",
-        "start": "2023-01-03",
-        "end": "2025-01-03",
-        "state": "TX",
-        "district": 23,
-        "party": "Republican",
-        "url": "https://gonzales.house.gov",
-        "address": "2244 Rayburn House Office Building Washington DC 20515-4323",
-        "office": "2244 Rayburn House Office Building",
-        "phone": "202-225-4511"
-      },
-      {
-        "type": "rep",
-        "start": "2025-01-03",
-        "end": "2027-01-03",
-        "state": "TX",
-        "district": 23,
-        "party": "Republican",
-        "url": "https://gonzales.house.gov",
-        "address": "2239 Rayburn House Office Building Washington DC 20515-4323",
-        "office": "2239 Rayburn House Office Building",
-        "phone": "202-225-4511"
       }
     ]
   },
@@ -42948,7 +42495,9 @@
       "wikidata": "Q1898180",
       "wikipedia": "Marilyn Strickland",
       "google_entity_id": "kg:/m/0bhb38l",
-      "pictorial": 13321
+      "pictorial": 13321,
+      "votesmart": 80596,
+      "ballotpedia": "Marilyn Strickland"
     },
     "name": {
       "first": "Marilyn",
@@ -43576,7 +43125,9 @@
       "wikipedia": "Shontel Brown",
       "wikidata": "Q107863952",
       "pictorial": 13205,
-      "google_entity_id": "kg:/g/11pqpwbhlx"
+      "google_entity_id": "kg:/g/11pqpwbhlx",
+      "votesmart": 161622,
+      "ballotpedia": "Shontel Brown"
     },
     "name": {
       "first": "Shontel",
@@ -43639,7 +43190,8 @@
       "wikidata": "Q108010312",
       "pictorial": 13209,
       "ballotpedia": "Mike Carey (Ohio)",
-      "google_entity_id": "kg:/g/11q1q1bh32"
+      "google_entity_id": "kg:/g/11q1q1bh32",
+      "votesmart": 196349
     },
     "name": {
       "first": "Mike",
@@ -43686,67 +43238,6 @@
         "address": "1433 Longworth House Office Building Washington DC 20515-3515",
         "office": "1433 Longworth House Office Building",
         "phone": "202-225-2015"
-      }
-    ]
-  },
-  {
-    "id": {
-      "bioguide": "C001127",
-      "fec": [
-        "H8FL20032"
-      ],
-      "govtrack": 456865,
-      "opensecrets": "N00043504",
-      "wikipedia": "Sheila Cherfilus-McCormick",
-      "wikidata": "Q109560948",
-      "pictorial": 13001,
-      "google_entity_id": "kg:/g/11j8p2mk08"
-    },
-    "name": {
-      "first": "Sheila",
-      "last": "Cherfilus-McCormick",
-      "official_full": "Sheila Cherfilus-McCormick"
-    },
-    "bio": {
-      "gender": "F",
-      "birthday": "1979-01-25"
-    },
-    "terms": [
-      {
-        "type": "rep",
-        "start": "2022-01-18",
-        "end": "2023-01-03",
-        "state": "FL",
-        "district": 20,
-        "party": "Democrat",
-        "url": "https://cherfilus-mccormick.house.gov",
-        "address": "2365 Rayburn House Office Building Washington DC 20515-0920",
-        "office": "2365 Rayburn House Office Building",
-        "phone": "202-225-1313"
-      },
-      {
-        "type": "rep",
-        "start": "2023-01-03",
-        "end": "2025-01-03",
-        "state": "FL",
-        "district": 20,
-        "party": "Democrat",
-        "url": "https://cherfilus-mccormick.house.gov",
-        "address": "242 Cannon House Office Building Washington DC 20515-0920",
-        "office": "242 Cannon House Office Building",
-        "phone": "202-225-1313"
-      },
-      {
-        "type": "rep",
-        "start": "2025-01-03",
-        "end": "2027-01-03",
-        "state": "FL",
-        "district": 20,
-        "party": "Democrat",
-        "url": "https://cherfilus-mccormick.house.gov",
-        "address": "2442 Rayburn House Office Building Washington DC 20515-0920",
-        "office": "2442 Rayburn House Office Building",
-        "phone": "202-225-1313"
       }
     ]
   },
@@ -44014,7 +43505,8 @@
       "wikipedia": "Ryan Zinke",
       "google_entity_id": "kg:/m/0gkz1jg",
       "votesmart": 104073,
-      "pictorial": 13128
+      "pictorial": 13128,
+      "ballotpedia": "Ryan Zinke"
     },
     "name": {
       "first": "Ryan",
@@ -44588,7 +44080,8 @@
       "wikidata": "Q16734469",
       "wikipedia": "Brittany Pettersen",
       "votesmart": 138744,
-      "pictorial": 12973
+      "pictorial": 12973,
+      "ballotpedia": "Brittany Pettersen"
     },
     "name": {
       "first": "Brittany",
@@ -44690,7 +44183,8 @@
       "wikipedia": "Cory Mills",
       "votesmart": 209085,
       "pictorial": 12988,
-      "google_entity_id": "kg:/g/11lkx217y6"
+      "google_entity_id": "kg:/g/11lkx217y6",
+      "ballotpedia": "Cory Mills"
     },
     "name": {
       "first": "Cory",
@@ -44740,7 +44234,8 @@
       "wikipedia": "Maxwell Frost",
       "google_entity_id": "kg:/g/11p01k7h4b",
       "votesmart": 209096,
-      "pictorial": 12991
+      "pictorial": 12991,
+      "ballotpedia": "Maxwell Alejandro Frost"
     },
     "name": {
       "first": "Maxwell",
@@ -44843,7 +44338,8 @@
       "wikipedia": "Laurel Lee",
       "google_entity_id": "kg:/g/11h3cbjvc3",
       "votesmart": 186114,
-      "pictorial": 12996
+      "pictorial": 12996,
+      "ballotpedia": "Laurel Lee"
     },
     "name": {
       "first": "Laurel",
@@ -44893,7 +44389,8 @@
       "wikidata": "Q16221073",
       "wikipedia": "Jared Moskowitz",
       "votesmart": 138155,
-      "pictorial": 13004
+      "pictorial": 13004,
+      "ballotpedia": "Jared Moskowitz"
     },
     "name": {
       "first": "Jared",
@@ -44944,7 +44441,8 @@
       "wikipedia": "Rich McCormick",
       "votesmart": 189765,
       "pictorial": 13015,
-      "google_entity_id": "kg:/g/11h4hhl04s"
+      "google_entity_id": "kg:/g/11h4hhl04s",
+      "ballotpedia": "Rich McCormick"
     },
     "name": {
       "first": "Rich",
@@ -44995,7 +44493,8 @@
       "votesmart": 151225,
       "wikidata": "Q115806750",
       "pictorial": 13019,
-      "google_entity_id": "kg:/g/11nnr438zm"
+      "google_entity_id": "kg:/g/11nnr438zm",
+      "ballotpedia": "Mike Collins (Georgia)"
     },
     "name": {
       "first": "Mike",
@@ -45304,7 +44803,8 @@
       "wikipedia": "Nikki Budzinski",
       "votesmart": 204328,
       "pictorial": 13045,
-      "google_entity_id": "kg:/g/11rxhx_k14"
+      "google_entity_id": "kg:/g/11rxhx_k14",
+      "ballotpedia": "Nikki Budzinski"
     },
     "name": {
       "first": "Nicole (Nikki)",
@@ -45355,7 +44855,8 @@
       "wikipedia": "Eric Sorensen (politician)",
       "votesmart": 204339,
       "pictorial": 13049,
-      "google_entity_id": "kg:/g/11pd33ph93"
+      "google_entity_id": "kg:/g/11pd33ph93",
+      "ballotpedia": "Eric Sorensen"
     },
     "name": {
       "first": "Eric",
@@ -45405,7 +44906,8 @@
       "wikipedia": "Erin Houchin",
       "google_entity_id": "kg:/g/11b81xpwnd",
       "votesmart": 149614,
-      "pictorial": 13058
+      "pictorial": 13058,
+      "ballotpedia": "Erin Houchin"
     },
     "name": {
       "first": "Erin",
@@ -45455,7 +44957,8 @@
       "wikidata": "Q16732298",
       "wikipedia": "Morgan McGarvey",
       "votesmart": 139826,
-      "pictorial": 13065
+      "pictorial": 13065,
+      "ballotpedia": "Morgan McGarvey"
     },
     "name": {
       "first": "Morgan",
@@ -45505,7 +45008,8 @@
       "wikipedia": "Glenn Ivey",
       "google_entity_id": "kg:/g/11bxfgrf12",
       "votesmart": 166279,
-      "pictorial": 13087
+      "pictorial": 13087,
+      "ballotpedia": "Glenn Ivey"
     },
     "name": {
       "first": "Glenn",
@@ -45556,7 +45060,8 @@
       "wikipedia": "Hillary Scholten",
       "votesmart": 191584,
       "pictorial": 13096,
-      "google_entity_id": "kg:/g/11j2tyrlxq"
+      "google_entity_id": "kg:/g/11j2tyrlxq",
+      "ballotpedia": "Hillary Scholten"
     },
     "name": {
       "first": "Hillary",
@@ -45706,9 +45211,10 @@
       "govtrack": 456909,
       "opensecrets": "N00049617",
       "wikidata": "Q115137637",
-      "wikipedia": "Mark Alford (politician)",
+      "wikipedia": "Mark Alford",
       "votesmart": 205858,
-      "pictorial": 13118
+      "pictorial": 13118,
+      "ballotpedia": "Mark Alford"
     },
     "name": {
       "first": "Mark",
@@ -45810,7 +45316,8 @@
       "wikipedia": "Mike Ezell",
       "votesmart": 202526,
       "pictorial": 13127,
-      "google_entity_id": "kg:/g/11nfmh8y4w"
+      "google_entity_id": "kg:/g/11nfmh8y4w",
+      "ballotpedia": "Mike Ezell"
     },
     "name": {
       "first": "Mike",
@@ -45910,7 +45417,8 @@
       "wikidata": "Q16729064",
       "wikipedia": "Valerie Foushee",
       "votesmart": 93091,
-      "pictorial": 13133
+      "pictorial": 13133,
+      "ballotpedia": "Valerie Foushee"
     },
     "name": {
       "first": "Valerie",
@@ -45961,7 +45469,8 @@
       "wikipedia": "Chuck Edwards",
       "google_entity_id": "kg:/g/11ghxw1t29",
       "votesmart": 166600,
-      "pictorial": 13140
+      "pictorial": 13140,
+      "ballotpedia": "Chuck Edwards"
     },
     "name": {
       "first": "Charles (Chuck)",
@@ -46167,7 +45676,8 @@
       "wikidata": "Q115168182",
       "wikipedia": "Nick LaLota",
       "votesmart": 191957,
-      "pictorial": 13169
+      "pictorial": 13169,
+      "ballotpedia": "Nicholas J. LaLota"
     },
     "name": {
       "first": "Nicolas",
@@ -46268,9 +45778,10 @@
       "opensecrets": "N00051208",
       "wikidata": "Q105179052",
       "wikipedia": "Mike Lawler",
-      "google_entity_id": "kg:/g/11qwsdzzd6",
+      "google_entity_id": "kg:/g/11jfwsx5qv",
       "votesmart": 192271,
-      "pictorial": 13185
+      "pictorial": 13185,
+      "ballotpedia": "Michael Lawler (New York)"
     },
     "name": {
       "first": "Michael",
@@ -46321,7 +45832,8 @@
       "wikipedia": "Nick Langworthy",
       "google_entity_id": "kg:/g/11g119yyj8",
       "votesmart": 208663,
-      "pictorial": 13191
+      "pictorial": 13191,
+      "ballotpedia": "Nick Langworthy"
     },
     "name": {
       "first": "Nicholas",
@@ -46372,7 +45884,8 @@
       "wikipedia": "Greg Landsman",
       "votesmart": 186237,
       "google_entity_id": "kg:/g/11rn585y5q",
-      "pictorial": 13195
+      "pictorial": 13195,
+      "ballotpedia": "Greg Landsman"
     },
     "name": {
       "first": "Greg",
@@ -46423,7 +45936,8 @@
       "wikipedia": "Max Miller (politician)",
       "votesmart": 206947,
       "pictorial": 13201,
-      "google_entity_id": "kg:/g/11gtz3n8gr"
+      "google_entity_id": "kg:/g/11gtz3n8gr",
+      "ballotpedia": "Max Miller"
     },
     "name": {
       "first": "Max",
@@ -46473,7 +45987,8 @@
       "wikidata": "Q18637943",
       "wikipedia": "Emilia Sykes",
       "votesmart": 152164,
-      "pictorial": 13207
+      "pictorial": 13207,
+      "ballotpedia": "Emilia Sykes"
     },
     "name": {
       "first": "Emilia",
@@ -46731,7 +46246,8 @@
       "wikipedia": "Chris Deluzio",
       "votesmart": 202954,
       "pictorial": 13237,
-      "google_entity_id": "kg:/g/11qgyjrb66"
+      "google_entity_id": "kg:/g/11qgyjrb66",
+      "ballotpedia": "Chris Deluzio"
     },
     "name": {
       "first": "Chris",
@@ -46830,7 +46346,7 @@
       "govtrack": 456938,
       "opensecrets": "N00049165",
       "wikidata": "Q96015883",
-      "wikipedia": "Russell Fry (politician)",
+      "wikipedia": "Russell Fry",
       "google_entity_id": "kg:/g/11f0r9q6_r",
       "votesmart": 157265,
       "pictorial": 13247
@@ -47142,7 +46658,8 @@
       "wikipedia": "Jasmine Crockett",
       "google_entity_id": "kg:/g/11j90m9942",
       "votesmart": 188486,
-      "pictorial": 13287
+      "pictorial": 13287,
+      "ballotpedia": "Jasmine Crockett"
     },
     "name": {
       "first": "Jasmine",
@@ -47296,7 +46813,8 @@
       "wikipedia": "Jen Kiggans",
       "google_entity_id": "kg:/g/11gbjlv65q",
       "votesmart": 186387,
-      "pictorial": 13301
+      "pictorial": 13301,
+      "ballotpedia": "Jennifer Kiggans"
     },
     "name": {
       "first": "Jennifer",
@@ -47448,7 +46966,7 @@
       "opensecrets": "N00046843",
       "wikidata": "Q115155627",
       "wikipedia": "Derrick Van Orden",
-      "google_entity_id": "kg:/g/11j5bmd2d3",
+      "google_entity_id": "kg:/g/11c0xnmrvx",
       "ballotpedia": "Derrick Van Orden",
       "votesmart": 192343,
       "pictorial": 13324
@@ -47662,7 +47180,9 @@
       "wikipedia": "Gabe Amo",
       "wikidata": "Q118901875",
       "ballotpedia": "Gabe Amo",
-      "pictorial": 13239
+      "pictorial": 13239,
+      "google_entity_id": "kg:/g/11gbhzs7wg",
+      "votesmart": 212295
     },
     "name": {
       "first": "Gabe",
@@ -48107,7 +47627,9 @@
       "house_history": 13112,
       "icpsr": 29354,
       "wikidata": "Q1100451",
-      "google_entity_id": "kg:/m/09930w"
+      "google_entity_id": "kg:/m/09930w",
+      "ballotpedia": "Cleo Fields",
+      "votesmart": 26878
     },
     "name": {
       "first": "Cleo",
@@ -48310,7 +47832,10 @@
       "govtrack": 456965,
       "opensecrets": "N00053033",
       "wikipedia": "Angela Alsobrooks",
-      "wikidata": "Q58755148"
+      "wikidata": "Q58755148",
+      "votesmart": 212637,
+      "ballotpedia": "Angela Alsobrooks",
+      "google_entity_id": "kg:/g/11fhksj8jt"
     },
     "name": {
       "first": "Angela",
@@ -48348,8 +47873,11 @@
       ],
       "govtrack": 456966,
       "opensecrets": "N00053174",
-      "wikipedia": "Tim Sheehy (American politician)",
-      "wikidata": "Q124433916"
+      "wikipedia": "Tim Sheehy",
+      "wikidata": "Q124433916",
+      "votesmart": 215303,
+      "ballotpedia": "Tim Sheehy",
+      "google_entity_id": "kg:/g/11f_jbs1jf"
     },
     "name": {
       "first": "Tim",
@@ -48387,7 +47915,10 @@
       "govtrack": 456967,
       "opensecrets": "N00048437",
       "wikipedia": "Bernie Moreno",
-      "wikidata": "Q124858476"
+      "wikidata": "Q124858476",
+      "votesmart": 201791,
+      "ballotpedia": "Bernie Moreno",
+      "google_entity_id": "kg:/g/11r97h3rzn"
     },
     "name": {
       "first": "Bernie",
@@ -48424,7 +47955,8 @@
       "govtrack": 456968,
       "opensecrets": "N00050244",
       "wikipedia": "Dave McCormick",
-      "wikidata": "Q5234544"
+      "wikidata": "Q5234544",
+      "ballotpedia": "David McCormick (Pennsylvania)"
     },
     "name": {
       "first": "Dave",
@@ -48462,7 +47994,10 @@
       "govtrack": 456970,
       "opensecrets": "N00049408",
       "wikipedia": "Nick Begich III",
-      "wikidata": "Q113676482"
+      "wikidata": "Q113676482",
+      "google_entity_id": "kg:/g/11tc3qp2lx",
+      "votesmart": 207684,
+      "ballotpedia": "Nicholas Begich"
     },
     "name": {
       "first": "Nicholas",
@@ -48499,7 +48034,9 @@
       "govtrack": 456971,
       "opensecrets": "N00053909",
       "wikipedia": "Shomari Figures",
-      "wikidata": "Q129431158"
+      "wikidata": "Q129431158",
+      "votesmart": 212889,
+      "ballotpedia": "Shomari Figures"
     },
     "name": {
       "first": "Shomari",
@@ -48535,7 +48072,10 @@
       "govtrack": 456972,
       "opensecrets": "N00052497",
       "wikipedia": "Yassamin Ansari",
-      "wikidata": "Q122226202"
+      "wikidata": "Q122226202",
+      "votesmart": 201437,
+      "ballotpedia": "Yassamin Ansari",
+      "google_entity_id": "kg:/g/11l246bt1h"
     },
     "name": {
       "first": "Yassamin",
@@ -48570,7 +48110,10 @@
       "govtrack": 456973,
       "opensecrets": "N00053795",
       "wikipedia": "Abraham Hamadeh",
-      "wikidata": "Q124307977"
+      "wikidata": "Q124307977",
+      "votesmart": 205532,
+      "ballotpedia": "Abraham Hamadeh",
+      "google_entity_id": "kg:/g/11rj4xtrgt"
     },
     "name": {
       "first": "Abraham",
@@ -48606,7 +48149,9 @@
       "govtrack": 456974,
       "opensecrets": "N00052195",
       "wikipedia": "Lateefah Simon",
-      "wikidata": "Q6495426"
+      "wikidata": "Q6495426",
+      "votesmart": 213551,
+      "ballotpedia": "Lateefah Simon"
     },
     "name": {
       "first": "Lateefah",
@@ -48642,7 +48187,9 @@
       "govtrack": 456975,
       "opensecrets": "N00050061",
       "wikipedia": "Adam Gray",
-      "wikidata": "Q3000097"
+      "wikidata": "Q3000097",
+      "votesmart": 138552,
+      "ballotpedia": "Adam Gray"
     },
     "name": {
       "first": "Adam",
@@ -48678,7 +48225,9 @@
       "govtrack": 456976,
       "opensecrets": "N00054265",
       "wikipedia": "Sam Liccardo",
-      "wikidata": "Q16731481"
+      "wikidata": "Q16731481",
+      "votesmart": 70450,
+      "ballotpedia": "Sam Liccardo"
     },
     "name": {
       "first": "Sam",
@@ -48714,7 +48263,9 @@
       "govtrack": 456977,
       "opensecrets": "N00052205",
       "wikipedia": "George T. Whitesides",
-      "wikidata": "Q3511804"
+      "wikidata": "Q3511804",
+      "votesmart": 213585,
+      "ballotpedia": "George Whitesides"
     },
     "name": {
       "first": "George",
@@ -48750,7 +48301,10 @@
       "govtrack": 456978,
       "opensecrets": "N00054215",
       "wikipedia": "Luz Rivas",
-      "wikidata": "Q54861699"
+      "wikidata": "Q54861699",
+      "votesmart": 178070,
+      "ballotpedia": "Luz Maria Rivas",
+      "google_entity_id": "kg:/g/11f66696qy"
     },
     "name": {
       "first": "Luz",
@@ -48786,7 +48340,9 @@
       "govtrack": 456979,
       "opensecrets": "N00052209",
       "wikipedia": "Laura Friedman",
-      "wikidata": "Q6498920"
+      "wikidata": "Q6498920",
+      "votesmart": 111792,
+      "ballotpedia": "Laura Friedman"
     },
     "name": {
       "first": "Laura",
@@ -48822,7 +48378,10 @@
       "govtrack": 456980,
       "opensecrets": "N00053582",
       "wikipedia": "Derek Tran",
-      "wikidata": "Q131339671"
+      "wikidata": "Q131339671",
+      "google_entity_id": "kg:/g/11vbwrj3mq",
+      "votesmart": 213645,
+      "ballotpedia": "Derek Tran"
     },
     "name": {
       "first": "Derek",
@@ -48858,7 +48417,10 @@
       "govtrack": 456981,
       "opensecrets": "N00040866",
       "wikipedia": "Dave Min",
-      "wikidata": "Q31213321"
+      "wikidata": "Q31213321",
+      "votesmart": 179392,
+      "ballotpedia": "Dave Min",
+      "google_entity_id": "kg:/g/11fx8l8rg9"
     },
     "name": {
       "first": "Dave",
@@ -48893,8 +48455,10 @@
       ],
       "govtrack": 456982,
       "opensecrets": "N00053367",
-      "wikipedia": "Jeff Hurd (politician)",
-      "wikidata": "Q131101500"
+      "wikipedia": "Jeff Hurd",
+      "wikidata": "Q131101500",
+      "votesmart": 217034,
+      "ballotpedia": "Jeff Hurd"
     },
     "name": {
       "first": "Jeff",
@@ -48930,7 +48494,10 @@
       "govtrack": 456983,
       "opensecrets": "N00028132",
       "wikipedia": "Jeff Crank",
-      "wikidata": "Q27663361"
+      "wikidata": "Q27663361",
+      "google_entity_id": "kg:/g/11c5b6072s",
+      "votesmart": 66946,
+      "ballotpedia": "Jeff Crank"
     },
     "name": {
       "first": "Jeff",
@@ -48966,7 +48533,10 @@
       "govtrack": 456984,
       "opensecrets": "N00053312",
       "wikipedia": "Gabe Evans",
-      "wikidata": "Q115458993"
+      "wikidata": "Q115458993",
+      "google_entity_id": "kg:/g/11rzqxsg01",
+      "votesmart": 206217,
+      "ballotpedia": "Gabe Evans"
     },
     "name": {
       "first": "Gabe",
@@ -49001,7 +48571,9 @@
       "govtrack": 456985,
       "opensecrets": "N00052698",
       "wikipedia": "Sarah McBride",
-      "wikidata": "Q17011236"
+      "wikidata": "Q17011236",
+      "votesmart": 195142,
+      "ballotpedia": "Sarah McBride"
     },
     "name": {
       "first": "Sarah",
@@ -49037,7 +48609,9 @@
       "govtrack": 456986,
       "opensecrets": "N00033076",
       "wikipedia": "Mike Haridopolos",
-      "wikidata": "Q6847137"
+      "wikidata": "Q6847137",
+      "votesmart": 53952,
+      "ballotpedia": "Mike Haridopolos"
     },
     "name": {
       "first": "Mike",
@@ -49073,7 +48647,10 @@
       "govtrack": 456987,
       "opensecrets": "N00055118",
       "wikipedia": "Brian Jack",
-      "wikidata": "Q86493775"
+      "wikidata": "Q86493775",
+      "votesmart": 215141,
+      "ballotpedia": "Brian Jack",
+      "google_entity_id": "kg:/g/11f4kg7dlk"
     },
     "name": {
       "first": "Brian",
@@ -49109,7 +48686,9 @@
       "govtrack": 456988,
       "opensecrets": "N00054651",
       "wikipedia": "Jefferson Shreve",
-      "wikidata": "Q130979817"
+      "wikidata": "Q130979817",
+      "votesmart": 148154,
+      "ballotpedia": "Jefferson Shreve"
     },
     "name": {
       "first": "Jefferson",
@@ -49145,7 +48724,9 @@
       "govtrack": 456989,
       "opensecrets": "N00054523",
       "wikipedia": "Mark Messmer",
-      "wikidata": "Q6768869"
+      "wikidata": "Q6768869",
+      "ballotpedia": "Mark Messmer",
+      "votesmart": 102958
     },
     "name": {
       "first": "Mark",
@@ -49180,7 +48761,9 @@
       "govtrack": 456990,
       "opensecrets": "N00055179",
       "wikipedia": "Derek Schmidt",
-      "wikidata": "Q5262335"
+      "wikidata": "Q5262335",
+      "votesmart": 34451,
+      "ballotpedia": "Derek Schmidt"
     },
     "name": {
       "first": "Derek",
@@ -49216,7 +48799,9 @@
       "govtrack": 456991,
       "opensecrets": "N00054814",
       "wikipedia": "Johnny Olszewski",
-      "wikidata": "Q6217866"
+      "wikidata": "Q6217866",
+      "votesmart": 67095,
+      "ballotpedia": "John Olszewski Jr."
     },
     "name": {
       "first": "Johnny",
@@ -49253,7 +48838,10 @@
       "govtrack": 456992,
       "opensecrets": "N00053710",
       "wikipedia": "Sarah Elfreth",
-      "wikidata": "Q61970401"
+      "wikidata": "Q61970401",
+      "votesmart": 178463,
+      "ballotpedia": "Sarah Elfreth",
+      "google_entity_id": "kg:/g/11h5snsfyt"
     },
     "name": {
       "first": "Sarah",
@@ -49288,8 +48876,11 @@
       ],
       "govtrack": 456993,
       "opensecrets": "N00053899",
-      "wikipedia": "April McClain-Delaney",
-      "wikidata": "Q125935301"
+      "wikipedia": "April McClain Delaney",
+      "wikidata": "Q125935301",
+      "google_entity_id": "kg:/g/11fym2333d",
+      "votesmart": 214608,
+      "ballotpedia": "April McClain-Delaney"
     },
     "name": {
       "first": "April",
@@ -49325,7 +48916,9 @@
       "govtrack": 456994,
       "opensecrets": "N00049596",
       "wikipedia": "Tom Barrett (Michigan politician)",
-      "wikidata": "Q18684588"
+      "wikidata": "Q18684588",
+      "votesmart": 153540,
+      "ballotpedia": "Tom Barrett (Michigan)"
     },
     "name": {
       "first": "Tom",
@@ -49361,7 +48954,10 @@
       "govtrack": 456995,
       "opensecrets": "N00054163",
       "wikipedia": "Kristen McDonald Rivet",
-      "wikidata": "Q115227000"
+      "wikidata": "Q115227000",
+      "google_entity_id": "kg:/g/11swd0vjj8",
+      "votesmart": 199213,
+      "ballotpedia": "Kristen McDonald Rivet"
     },
     "name": {
       "first": "Kristen",
@@ -49397,7 +48993,10 @@
       "govtrack": 456996,
       "opensecrets": "N00053930",
       "wikipedia": "Kelly Morrison",
-      "wikidata": "Q58416636"
+      "wikidata": "Q58416636",
+      "votesmart": 183781,
+      "ballotpedia": "Kelly Morrison",
+      "google_entity_id": "kg:/g/11gzs6zmll"
     },
     "name": {
       "first": "Kelly",
@@ -49433,7 +49032,10 @@
       "govtrack": 456997,
       "opensecrets": "N00053042",
       "wikipedia": "Wesley Bell",
-      "wikidata": "Q23806350"
+      "wikidata": "Q23806350",
+      "google_entity_id": "kg:/g/11g234cdqy",
+      "votesmart": 217416,
+      "ballotpedia": "Wesley Bell"
     },
     "name": {
       "first": "Wesley",
@@ -49470,7 +49072,10 @@
       "govtrack": 456998,
       "opensecrets": "N00030025",
       "wikipedia": "Bob Onder",
-      "wikidata": "Q27064117"
+      "wikidata": "Q27064117",
+      "google_entity_id": "kg:/g/11c1tl91ch",
+      "votesmart": 66719,
+      "ballotpedia": "Bob Onder"
     },
     "name": {
       "first": "Robert",
@@ -49506,7 +49111,8 @@
       ],
       "govtrack": 456999,
       "wikipedia": "Kimberlyn King-Hinds",
-      "wikidata": "Q130942218"
+      "wikidata": "Q130942218",
+      "google_entity_id": "kg:/g/11ldv50j57"
     },
     "name": {
       "first": "Kimberlyn",
@@ -49542,7 +49148,10 @@
       "govtrack": 457000,
       "opensecrets": "N00041283",
       "wikipedia": "Troy Downing",
-      "wikidata": "Q103158011"
+      "wikidata": "Q103158011",
+      "google_entity_id": "kg:/g/11m_kv__8j",
+      "votesmart": 178611,
+      "ballotpedia": "Troy Downing"
     },
     "name": {
       "first": "Troy",
@@ -49578,7 +49187,9 @@
       "govtrack": 457001,
       "opensecrets": "N00054055",
       "wikipedia": "Addison McDowell",
-      "wikidata": "Q130979819"
+      "wikidata": "Q130979819",
+      "votesmart": 213685,
+      "ballotpedia": "Addison McDowell"
     },
     "name": {
       "first": "Addison",
@@ -49615,7 +49226,10 @@
       "govtrack": 457002,
       "opensecrets": "N00035491",
       "wikipedia": "Mark Harris (North Carolina politician)",
-      "wikidata": "Q55622212"
+      "wikidata": "Q55622212",
+      "votesmart": 146230,
+      "ballotpedia": "Mark Harris (North Carolina)",
+      "google_entity_id": "kg:/g/11f6156x_t"
     },
     "name": {
       "first": "Mark",
@@ -49651,7 +49265,9 @@
       "govtrack": 457003,
       "opensecrets": "N00050144",
       "wikipedia": "Pat Harrigan",
-      "wikidata": "Q131179069"
+      "wikidata": "Q131179069",
+      "votesmart": 202557,
+      "ballotpedia": "Pat Harrigan"
     },
     "name": {
       "first": "Pat",
@@ -49686,7 +49302,9 @@
       "govtrack": 457004,
       "opensecrets": "N00053743",
       "wikipedia": "Brad Knott",
-      "wikidata": "Q130979816"
+      "wikidata": "Q130979816",
+      "votesmart": 213703,
+      "ballotpedia": "Brad Knott"
     },
     "name": {
       "first": "Brad",
@@ -49721,7 +49339,9 @@
       "govtrack": 457005,
       "opensecrets": "N00053948",
       "wikipedia": "Tim Moore (North Carolina politician)",
-      "wikidata": "Q7804002"
+      "wikidata": "Q7804002",
+      "votesmart": 41316,
+      "ballotpedia": "Timothy K. Moore"
     },
     "name": {
       "first": "Tim",
@@ -49757,7 +49377,10 @@
       "govtrack": 457006,
       "opensecrets": "N00054800",
       "wikipedia": "Julie Fedorchak",
-      "wikidata": "Q37824664"
+      "wikidata": "Q37824664",
+      "votesmart": 144276,
+      "ballotpedia": "Julie Fedorchak",
+      "google_entity_id": "kg:/g/11f06k2mb2"
     },
     "name": {
       "first": "Julie",
@@ -49793,7 +49416,10 @@
       "govtrack": 457007,
       "opensecrets": "N00055218",
       "wikipedia": "Maggie Goodlander",
-      "wikidata": "Q126718734"
+      "wikidata": "Q126718734",
+      "google_entity_id": "kg:/g/11c31t9glt",
+      "votesmart": 218522,
+      "ballotpedia": "Maggie Goodlander"
     },
     "name": {
       "first": "Maggie",
@@ -49829,7 +49455,9 @@
       "govtrack": 457008,
       "opensecrets": "N00026951",
       "wikipedia": "Herb Conaway",
-      "wikidata": "Q14596151"
+      "wikidata": "Q14596151",
+      "votesmart": 24716,
+      "ballotpedia": "Herbert Conaway Jr."
     },
     "name": {
       "first": "Herbert",
@@ -49866,7 +49494,9 @@
       "govtrack": 457009,
       "opensecrets": "N00055613",
       "wikipedia": "Nellie Pou",
-      "wikidata": "Q6990132"
+      "wikidata": "Q6990132",
+      "votesmart": 15181,
+      "ballotpedia": "Nellie Pou"
     },
     "name": {
       "first": "Nellie",
@@ -49902,7 +49532,10 @@
       "govtrack": 457010,
       "opensecrets": "N00050425",
       "wikipedia": "Laura Gillen",
-      "wikidata": "Q131105202"
+      "wikidata": "Q131105202",
+      "google_entity_id": "kg:/g/11sqq7tb5k",
+      "votesmart": 208621,
+      "ballotpedia": "Laura Gillen"
     },
     "name": {
       "first": "Laura",
@@ -49938,7 +49571,9 @@
       "govtrack": 457011,
       "opensecrets": "N00054136",
       "wikipedia": "George Latimer (New York politician)",
-      "wikidata": "Q5544169"
+      "wikidata": "Q5544169",
+      "votesmart": 44173,
+      "ballotpedia": "George Latimer (New York)"
     },
     "name": {
       "first": "George",
@@ -49974,7 +49609,9 @@
       "govtrack": 457012,
       "opensecrets": "N00049916",
       "wikipedia": "Josh Riley",
-      "wikidata": "Q113988129"
+      "wikidata": "Q113988129",
+      "votesmart": 205997,
+      "ballotpedia": "Josh Riley"
     },
     "name": {
       "first": "Josh",
@@ -50010,7 +49647,10 @@
       "govtrack": 457013,
       "opensecrets": "N00053112",
       "wikipedia": "John Mannion (American politician)",
-      "wikidata": "Q106089566"
+      "wikidata": "Q106089566",
+      "google_entity_id": "kg:/g/11j384z6dz",
+      "votesmart": 185053,
+      "ballotpedia": "John Mannion"
     },
     "name": {
       "first": "John",
@@ -50046,7 +49686,9 @@
       "govtrack": 457014,
       "opensecrets": "N00054098",
       "wikipedia": "David Taylor (Ohio politician)",
-      "wikidata": "Q131123679"
+      "wikidata": "Q131123679",
+      "votesmart": 213920,
+      "ballotpedia": "David Taylor (Ohio)"
     },
     "name": {
       "first": "David",
@@ -50082,7 +49724,10 @@
       "govtrack": 457015,
       "opensecrets": "N00054144",
       "wikipedia": "Maxine Dexter",
-      "wikidata": "Q96777172"
+      "wikidata": "Q96777172",
+      "votesmart": 190844,
+      "ballotpedia": "Maxine Dexter",
+      "google_entity_id": "kg:/g/11f0x2q9dn"
     },
     "name": {
       "first": "Maxine",
@@ -50118,7 +49763,10 @@
       "govtrack": 457016,
       "opensecrets": "N00052777",
       "wikipedia": "Janelle Bynum",
-      "wikidata": "Q28507879"
+      "wikidata": "Q28507879",
+      "votesmart": 168102,
+      "ballotpedia": "Janelle Bynum",
+      "google_entity_id": "kg:/g/11c311drkv"
     },
     "name": {
       "first": "Janelle",
@@ -50154,7 +49802,9 @@
       "govtrack": 457017,
       "opensecrets": "N00041866",
       "wikipedia": "Ryan Mackenzie",
-      "wikidata": "Q7384273"
+      "wikidata": "Q7384273",
+      "votesmart": 136465,
+      "ballotpedia": "Ryan Mackenzie"
     },
     "name": {
       "first": "Ryan",
@@ -50190,7 +49840,10 @@
       "govtrack": 457018,
       "opensecrets": "N00053588",
       "wikipedia": "Rob Bresnahan",
-      "wikidata": "Q130963821"
+      "wikidata": "Q130963821",
+      "google_entity_id": "kg:/g/11l388y1tr",
+      "votesmart": 214735,
+      "ballotpedia": "Rob Bresnahan Jr."
     },
     "name": {
       "first": "Robert",
@@ -50227,7 +49880,9 @@
       "govtrack": 457019,
       "opensecrets": "N00052286",
       "wikipedia": "Pablo Hernández Rivera",
-      "wikidata": "Q130997176"
+      "wikidata": "Q130997176",
+      "google_entity_id": "kg:/g/11k9b2cmvf",
+      "ballotpedia": "Pablo Jose Hernandez Rivera"
     },
     "name": {
       "first": "Pablo José",
@@ -50262,7 +49917,9 @@
       "govtrack": 457020,
       "opensecrets": "N00054222",
       "wikipedia": "Sheri Biggs",
-      "wikidata": "Q130979821"
+      "wikidata": "Q130979821",
+      "votesmart": 216183,
+      "ballotpedia": "Sheri Biggs"
     },
     "name": {
       "first": "Sheri",
@@ -50334,7 +49991,9 @@
       "govtrack": 457023,
       "opensecrets": "N00054402",
       "wikipedia": "Brandon Gill",
-      "wikidata": "Q124753679"
+      "wikidata": "Q124753679",
+      "ballotpedia": "Brandon Gill",
+      "google_entity_id": "kg:/g/11l7366d8s"
     },
     "name": {
       "first": "Brandon",
@@ -50370,7 +50029,10 @@
       "govtrack": 457024,
       "opensecrets": "N00052806",
       "wikipedia": "Julie Johnson (politician)",
-      "wikidata": "Q64753063"
+      "wikidata": "Q64753063",
+      "votesmart": 177532,
+      "ballotpedia": "Julie Johnson",
+      "google_entity_id": "kg:/g/11h3qrpcmw"
     },
     "name": {
       "first": "Julie",
@@ -50405,8 +50067,9 @@
       ],
       "govtrack": 457025,
       "opensecrets": "N00043086",
-      "wikipedia": "Mike Kennedy (politician)",
-      "wikidata": "Q16730723"
+      "wikipedia": "Mike Kennedy",
+      "wikidata": "Q16730723",
+      "votesmart": 137469
     },
     "name": {
       "first": "Mike",
@@ -50443,7 +50106,10 @@
       "govtrack": 457026,
       "opensecrets": "N00045930",
       "wikipedia": "John McGuire (Virginia politician)",
-      "wikidata": "Q47545631"
+      "wikidata": "Q47545631",
+      "votesmart": 176388,
+      "ballotpedia": "John McGuire",
+      "google_entity_id": "kg:/g/11f3w6hjlp"
     },
     "name": {
       "first": "John",
@@ -50480,7 +50146,10 @@
       "govtrack": 457027,
       "opensecrets": "N00054112",
       "wikipedia": "Eugene Vindman",
-      "wikidata": "Q112610369"
+      "wikidata": "Q112610369",
+      "google_entity_id": "kg:/g/11s1y2g_4c",
+      "votesmart": 216844,
+      "ballotpedia": "Eugene Vindman"
     },
     "name": {
       "first": "Eugene",
@@ -50516,7 +50185,10 @@
       "govtrack": 457028,
       "opensecrets": "N00054085",
       "wikipedia": "Suhas Subramanyam",
-      "wikidata": "Q83250082"
+      "wikidata": "Q83250082",
+      "votesmart": 186400,
+      "ballotpedia": "Suhas Subramanyam",
+      "google_entity_id": "kg:/g/11dxq46slq"
     },
     "name": {
       "first": "Suhas",
@@ -50551,7 +50223,8 @@
       "govtrack": 457029,
       "opensecrets": "N00033716",
       "wikipedia": "Michael Baumgartner",
-      "wikidata": "Q6828508"
+      "wikidata": "Q6828508",
+      "votesmart": 126301
     },
     "name": {
       "first": "Michael",
@@ -50587,7 +50260,10 @@
       "govtrack": 457030,
       "opensecrets": "N00054078",
       "wikipedia": "Emily Randall",
-      "wikidata": "Q60473885"
+      "wikidata": "Q60473885",
+      "votesmart": 183038,
+      "ballotpedia": "Emily Randall",
+      "google_entity_id": "kg:/g/11gyb032d1"
     },
     "name": {
       "first": "Emily",
@@ -50623,7 +50299,8 @@
       "govtrack": 457031,
       "opensecrets": "N00051965",
       "wikipedia": "Riley Moore",
-      "wikidata": "Q93769958"
+      "wikidata": "Q93769958",
+      "google_entity_id": "kg:/g/11c506zp3v"
     },
     "name": {
       "first": "Riley",
@@ -50698,7 +50375,9 @@
         "S6OH00304"
       ],
       "wikipedia": "Jon Husted",
-      "wikidata": "Q6270269"
+      "wikidata": "Q6270269",
+      "votesmart": 45796,
+      "ballotpedia": "Jon Husted"
     },
     "name": {
       "first": "Jon",
@@ -50737,7 +50416,10 @@
         "S6FL00640"
       ],
       "wikipedia": "Ashley Moody",
-      "wikidata": "Q58333626"
+      "wikidata": "Q58333626",
+      "votesmart": 183198,
+      "ballotpedia": "Ashley B. Moody",
+      "google_entity_id": "kg:/g/11gzrp7jtr"
     },
     "name": {
       "first": "Ashley",
@@ -50859,7 +50541,8 @@
       "govtrack": 457036,
       "wikipedia": "James Walkinshaw",
       "wikidata": "Q135132001",
-      "ballotpedia": "James Walkinshaw"
+      "ballotpedia": "James Walkinshaw",
+      "votesmart": 196546
     },
     "name": {
       "first": "James",
@@ -50879,7 +50562,7 @@
         "state": "VA",
         "district": 11,
         "party": "Democrat",
-        "url": "https://walkinshaw.house.gov/",
+        "url": "https://walkinshaw.house.gov",
         "address": "2265 Rayburn House Office Building Washington DC 20515-4611",
         "office": "2265 Rayburn House Office Building",
         "phone": "202-225-1492"
@@ -50896,7 +50579,8 @@
       "wikipedia": "Adelita Grijalva",
       "wikidata": "Q134612342",
       "ballotpedia": "Adelita Grijalva",
-      "house_history": 36507227802
+      "house_history": 36507227802,
+      "votesmart": 196554
     },
     "name": {
       "first": "Adelita",
@@ -50916,7 +50600,7 @@
         "state": "AZ",
         "district": 7,
         "party": "Democrat",
-        "url": "https://grijalva.house.gov/",
+        "url": "https://grijalva.house.gov",
         "address": "1203 Longworth House Office Building Washington DC 20515-0307",
         "office": "1203 Longworth House Office Building",
         "phone": "202-225-2435"
@@ -50933,7 +50617,8 @@
       "wikipedia": "Matt Van Epps",
       "wikidata": "Q136749822",
       "ballotpedia": "Matt Van Epps",
-      "house_history": 36507227933
+      "house_history": 36507227933,
+      "google_entity_id": "kg:/g/11yfbrb4jl"
     },
     "name": {
       "first": "Matt",
@@ -50952,7 +50637,7 @@
         "state": "TN",
         "district": 7,
         "party": "Republican",
-        "url": "https://vanepps.house.gov/",
+        "url": "https://vanepps.house.gov",
         "address": "2446 Rayburn House Office Building Washington DC 20515-4207",
         "office": "2446 Rayburn House Office Building",
         "phone": "202-225-2811"
@@ -50969,7 +50654,8 @@
       "wikipedia": "Christian Menefee",
       "wikidata": "Q114397549",
       "ballotpedia": "Christian Menefee",
-      "house_history": 36507228199
+      "house_history": 36507228199,
+      "google_entity_id": "kg:/g/11tf71x7c1"
     },
     "name": {
       "first": "Christian",
@@ -50989,7 +50675,7 @@
         "state": "TX",
         "district": 18,
         "party": "Democrat",
-        "url": "https://menefee.house.gov/",
+        "url": "https://menefee.house.gov",
         "address": "1318 Longworth House Office Building Washington DC 20515-4318",
         "office": "1318 Longworth House Office Building",
         "phone": "202-225-3816"
@@ -51003,7 +50689,8 @@
       "govtrack": 457040,
       "wikipedia": "Alan S. Armstrong",
       "wikidata": "Q138781196",
-      "ballotpedia": "Alan Armstrong"
+      "ballotpedia": "Alan Armstrong",
+      "votesmart": 237497
     },
     "name": {
       "first": "Alan",
@@ -51025,9 +50712,147 @@
         "party": "Republican",
         "state_rank": "junior",
         "url": "https://www.armstrong.senate.gov",
-        "address": "G12 Dirksen Senate Office Building Washington DC 20510",
-        "office": "G12 Dirksen Senate Office Building",
-        "phone": "202-224-4721"
+        "address": "330 Hart Senate Office Building Washington DC 20510",
+        "office": "330 Hart Senate Office Building",
+        "phone": "202-224-4721",
+        "fax": "202-228-0380"
+      }
+    ]
+  },
+  {
+    "id": {
+      "bioguide": "F000485",
+      "fec": [
+        "H0GA14030"
+      ],
+      "govtrack": 457041,
+      "wikipedia": "Clay Fuller",
+      "wikidata": "Q138355765",
+      "votesmart": 189784,
+      "ballotpedia": "Clayton Fuller"
+    },
+    "name": {
+      "first": "Clay",
+      "last": "Fuller",
+      "official_full": "Clay Fuller"
+    },
+    "bio": {
+      "gender": "M",
+      "birthday": "1981-04-09"
+    },
+    "terms": [
+      {
+        "type": "rep",
+        "start": "2026-04-14",
+        "end": "2027-01-03",
+        "state": "GA",
+        "district": 14,
+        "party": "Republican",
+        "address": "2201 Rayburn House Office Building Washington DC 20515-1014",
+        "office": "2201 Rayburn House Office Building",
+        "phone": "202-225-5211",
+        "url": "https://fuller.house.gov"
+      }
+    ]
+  },
+  {
+    "id": {
+      "bioguide": "M001246",
+      "fec": [
+        "H6NJ11286"
+      ],
+      "govtrack": 457042,
+      "wikipedia": "Analilia Mejia",
+      "wikidata": "Q138142530",
+      "ballotpedia": "Analilia Mejia"
+    },
+    "name": {
+      "first": "Analilia",
+      "last": "Mejia",
+      "official_full": "Analilia Mejia"
+    },
+    "bio": {
+      "gender": "F",
+      "birthday": "1977-08-19"
+    },
+    "terms": [
+      {
+        "type": "rep",
+        "start": "2026-04-20",
+        "end": "2027-01-03",
+        "state": "NJ",
+        "district": 11,
+        "party": "Democrat",
+        "address": "1427 Longworth House Office Building Washington DC 20515-3011",
+        "office": "1427 Longworth House Office Building",
+        "phone": "202-225-5034",
+        "fax": "202-225-3186",
+        "url": "https://mejia.house.gov"
+      }
+    ]
+  },
+  {
+    "id": {
+      "bioguide": "G000607",
+      "fec": [
+        "H6CA01285"
+      ],
+      "govtrack": 457043
+    },
+    "name": {
+      "first": "James",
+      "last": "Gallagher",
+      "official_full": "James Gallagher"
+    },
+    "bio": {
+      "gender": "M",
+      "birthday": "1981-03-07"
+    },
+    "terms": [
+      {
+        "type": "rep",
+        "start": "2026-06-10",
+        "end": "2027-01-03",
+        "state": "CA",
+        "district": 1,
+        "party": "Republican",
+        "address": "408 Cannon House Office Building Washington DC 20515-0501",
+        "office": "408 Cannon House Office Building",
+        "phone": "202-225-3076"
+      }
+    ]
+  },
+  {
+    "id": {
+      "bioguide": "G000608",
+      "lis": "S441",
+      "govtrack": 457044,
+      "wikipedia": "Darline Graham Nordone",
+      "wikidata": "Q140537772"
+    },
+    "name": {
+      "first": "Darline",
+      "last": "Graham Nordone",
+      "official_full": "Darline Graham"
+    },
+    "bio": {
+      "gender": "F",
+      "birthday": "1964-06-12"
+    },
+    "terms": [
+      {
+        "type": "sen",
+        "start": "2026-07-14",
+        "end": "2027-01-03",
+        "how": "appointment",
+        "state": "SC",
+        "class": 2,
+        "state_rank": "junior",
+        "party": "Republican",
+        "address": "B33 Russell Senate Office Building Washington DC 20510",
+        "office": "B33 Russell Senate Office Building",
+        "phone": "202-224-5972",
+        "url": "https://www.dgraham.senate.gov"
       }
     ]
   }

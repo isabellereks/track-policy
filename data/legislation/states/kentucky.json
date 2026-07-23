@@ -5,30 +5,77 @@
   "stance": "concerning",
   "stanceDatacenter": "concerning",
   "stanceAI": "concerning",
-  "lastUpdated": "2026-04-14",
-  "contextBlurb": "Kentucky is pushing multiple bills to keep data-center power costs off ordinary ratepayers, including requiring PSC approval for any facility over 100 megawatts and mandating decommissioning bonds for data centers built on farmland. A separate bill would sharply restrict AI use in therapy sessions.",
+  "lastUpdated": "2026-07-22",
+  "contextBlurb": "Kentucky is advancing regulation across both data centers and AI. On data centers: HB283 (in committee) — Kentucky prohibits residents and entities from engaging in transactions with foreign enterprises that would result in foreign control of critical infrastructure, technology, or assets essential to… On AI: HB676 (enacted) — Creates a statewide health data system in Kentucky that collects, shares, and manages health information across the state, governed by a board and a consortium of public health colleges.",
   "legislation": [
+    {
+      "id": "ky-hb676",
+      "billCode": "HB676",
+      "title": "AN ACT relating to the Kentucky statewide health data utility.",
+      "summary": "This bill creates a statewide health data system in Kentucky that collects, shares, and manages health information across the state, governed by a board and a consortium of public health colleges. It sets rules for how health data is submitted, shared, and protected, with enforcement powers for noncompliance.",
+      "stage": "Enacted",
+      "stance": "review",
+      "dimensionStances": {
+        "ai-consumer": "concerning",
+        "ai-public": "favorable"
+      },
+      "impactTags": [
+        "data-privacy",
+        "ai-in-healthcare"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-04-14",
+      "partyOrigin": "R",
+      "sourceUrl": "https://apps.legislature.ky.gov/record/26RS/hb676.html",
+      "legiscanUrl": "https://legiscan.com/KY/bill/HB676/2026",
+      "legiscanId": 2120532,
+      "sponsors": [
+        "Rebecca Raymer"
+      ]
+    },
+    {
+      "id": "ky-hb283",
+      "billCode": "HB283",
+      "title": "AN ACT relating to adversarial foreign transactions in the Commonwealth.",
+      "summary": "Kentucky prohibits residents and entities from engaging in transactions with foreign enterprises that would result in foreign control of critical infrastructure, technology, or assets essential to the state's economic security, with the Kentucky Intelligence Fusion Center required to review and investigate such transactions. The state can block deals deemed to compromise Kentucky's economic or national security.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "impactTags": [
+        "local-control",
+        "economic-development"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-04-01",
+      "partyOrigin": "R",
+      "sourceUrl": "https://apps.legislature.ky.gov/record/26RS/hb283.html",
+      "legiscanUrl": "https://legiscan.com/KY/bill/HB283/2026",
+      "legiscanId": 2069885,
+      "sponsors": [
+        "Scott Sharp",
+        "Emily Callaway"
+      ]
+    },
     {
       "id": "ky-hb593",
       "billCode": "HB593",
       "title": "AN ACT relating to data centers.",
-      "summary": "This Kentucky bill requires data centers to obtain electricity only through special contracts that protect other utility customers from bearing the costs of new infrastructure built to serve data centers. It establishes a formal application and review process to ensure data center power demands don't raise rates or hurt service quality for residential and other customers.",
+      "summary": "This Kentucky bill requires data centers to obtain electric service only through specially regulated contracts that protect other customers from bearing costs of new infrastructure built to serve data centers. It mandates impact studies, sets contract minimums, and requires data centers seeking tax exemptions to certify compliance with these new utility rules.",
       "stage": "Committee",
       "stance": "concerning",
       "dimensionStances": {
         "energy": "concerning",
         "community": "review",
-        "land-use": "review"
+        "land-use": "none"
       },
       "impactTags": [
         "grid-capacity",
         "energy-rates",
         "water-infrastructure",
         "local-zoning",
-        "tax-incentives"
+        "economic-development"
       ],
       "category": "data-center-energy",
-      "updatedDate": "2026-03-05",
+      "updatedDate": "2026-03-31",
       "partyOrigin": "R",
       "sourceUrl": "https://apps.legislature.ky.gov/record/26RS/hb593.html",
       "legiscanUrl": "https://legiscan.com/KY/bill/HB593/2026",
@@ -41,10 +88,93 @@
       ]
     },
     {
+      "id": "ky-hb856",
+      "billCode": "HB856",
+      "title": "AN ACT relating to data centers.",
+      "summary": "This Kentucky bill requires data centers to complete a water feasibility study before opening and submit annual reports on their water usage to state regulators. It creates new oversight requirements aimed at understanding and managing the water demands of data center operations.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "environmental": "concerning",
+        "energy": "review"
+      },
+      "impactTags": [
+        "water-consumption",
+        "water-infrastructure",
+        "environmental-review"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-03-10",
+      "partyOrigin": "D",
+      "sourceUrl": "https://apps.legislature.ky.gov/record/26RS/hb856.html",
+      "legiscanUrl": "https://legiscan.com/KY/bill/HB856/2026",
+      "legiscanId": 2128342,
+      "sponsors": [
+        "Sarah Stalker"
+      ]
+    },
+    {
+      "id": "ky-sb319",
+      "billCode": "SB319",
+      "title": "AN ACT relating to data centers.",
+      "summary": "This Kentucky bill requires data centers built on agricultural land to file a decommissioning plan and post a financial bond before operating, ensuring cleanup costs are covered if the facility closes. It also requires data centers receiving state tax incentives to work with local governments to regularly improve their energy and water efficiency practices.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "environmental": "concerning",
+        "energy": "review",
+        "community": "review",
+        "land-use": "concerning"
+      },
+      "impactTags": [
+        "protected-land",
+        "environmental-review",
+        "water-consumption",
+        "local-control",
+        "energy-rates"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-03-02",
+      "partyOrigin": "R",
+      "sourceUrl": "https://apps.legislature.ky.gov/record/26RS/sb319.html",
+      "legiscanUrl": "https://legiscan.com/KY/bill/SB319/2026",
+      "legiscanId": 2127917,
+      "sponsors": [
+        "Lindsey Tichenor"
+      ]
+    },
+    {
+      "id": "ky-sb330",
+      "billCode": "SB330",
+      "title": "AN ACT relating to data centers.",
+      "summary": "This Kentucky bill prevents government agencies from signing secrecy agreements that hide information about data center projects beyond what state law already permits, and ensures the public can access details about data center impacts on utilities and local areas. It also protects local officials' right to publicly discuss data center effects and community proceedings.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "community": "concerning",
+        "land-use": "review"
+      },
+      "impactTags": [
+        "nda-transparency",
+        "local-control",
+        "local-zoning"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-03-02",
+      "partyOrigin": "D",
+      "sourceUrl": "https://apps.legislature.ky.gov/record/26RS/sb330.html",
+      "legiscanUrl": "https://legiscan.com/KY/bill/SB330/2026",
+      "legiscanId": 2127914,
+      "sponsors": [
+        "Keturah Herron",
+        "Gerald Neal"
+      ]
+    },
+    {
       "id": "ky-hb455",
       "billCode": "HB455",
       "title": "AN ACT relating to artificial intelligence and declaring an emergency.",
-      "summary": "This Kentucky bill restricts how licensed therapists and psychotherapists can use AI tools during therapy sessions, including banning AI from assisting when sessions are recorded. It also prohibits advertising therapy services unless delivered by a licensed human professional.",
+      "summary": "This Kentucky bill restricts how licensed therapists and psychotherapists can use AI, prohibiting AI from assisting in sessions that are recorded and banning advertisements for therapy services not conducted by a licensed professional. It sets strict limits on AI involvement in mental health care and requires all patient records to remain confidential.",
       "stage": "Committee",
       "stance": "restrictive",
       "dimensionStances": {
@@ -71,165 +201,10 @@
       ]
     },
     {
-      "id": "ky-sb319",
-      "billCode": "SB319",
-      "title": "AN ACT relating to data centers.",
-      "summary": "This Kentucky bill requires data centers built on agricultural land to file a decommissioning plan and post a financial bond before operating, ensuring cleanup costs are covered when a facility closes. It also requires data centers receiving state tax exemptions to work with local governments on improving energy and water efficiency.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "dimensionStances": {
-        "environmental": "concerning",
-        "community": "review",
-        "land-use": "concerning"
-      },
-      "impactTags": [
-        "protected-land",
-        "environmental-review",
-        "water-consumption",
-        "local-zoning",
-        "local-control"
-      ],
-      "category": "data-center-siting",
-      "updatedDate": "2026-03-02",
-      "partyOrigin": "R",
-      "sourceUrl": "https://apps.legislature.ky.gov/record/26RS/sb319.html",
-      "legiscanUrl": "https://legiscan.com/KY/bill/SB319/2026",
-      "legiscanId": 2127917,
-      "sponsors": [
-        "Lindsey Tichenor"
-      ]
-    },
-    {
-      "id": "ky-hb544",
-      "billCode": "HB544",
-      "title": "AN ACT relating to data centers.",
-      "summary": "This Kentucky bill requires large data centers using more than 100 megawatts of electricity to get Public Service Commission approval before receiving utility service, ensuring the data center pays for the new infrastructure it needs. The law is designed to prevent ordinary utility customers from bearing the costs of expanding the grid for massive data center operations.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "dimensionStances": {
-        "energy": "concerning",
-        "community": "none"
-      },
-      "impactTags": [
-        "grid-capacity",
-        "energy-rates",
-        "local-control"
-      ],
-      "category": "data-center-energy",
-      "updatedDate": "2026-02-03",
-      "partyOrigin": "B",
-      "sourceUrl": "https://apps.legislature.ky.gov/record/26RS/hb544.html",
-      "legiscanUrl": "https://legiscan.com/KY/bill/HB544/2026",
-      "legiscanId": 2106477,
-      "sponsors": [
-        "Adam Moore",
-        "William Lawrence"
-      ]
-    },
-    {
-      "id": "ky-sb330",
-      "billCode": "SB330",
-      "title": "AN ACT relating to data centers.",
-      "summary": "This Kentucky bill prevents government agencies from signing secrecy agreements with data center companies that go beyond what state law already allows, and ensures the public has access to information about data center projects and their impacts. It also stops contracts from overriding Kentucky's open records and open meetings laws, and protects local officials' ability to discuss data center effects with the public.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "dimensionStances": {
-        "community": "concerning",
-        "land-use": "none"
-      },
-      "impactTags": [
-        "nda-transparency",
-        "local-control",
-        "local-zoning"
-      ],
-      "category": "data-center-siting",
-      "updatedDate": "2026-03-02",
-      "partyOrigin": "D",
-      "sourceUrl": "https://apps.legislature.ky.gov/record/26RS/sb330.html",
-      "legiscanUrl": "https://legiscan.com/KY/bill/SB330/2026",
-      "legiscanId": 2127914,
-      "sponsors": [
-        "Keturah Herron",
-        "Gerald Neal"
-      ]
-    },
-    {
-      "id": "ky-hb652",
-      "billCode": "HB652",
-      "title": "AN ACT relating to critical facility mapping and declaring an emergency.",
-      "summary": "This bill moves a school mapping data program to the Kentucky 911 Services Board and clarifies who is responsible for keeping that mapping data accurate. It is not related to AI or data-center policy.",
-      "stage": "Floor",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-government",
-      "updatedDate": "2026-04-01",
-      "partyOrigin": "B",
-      "sourceUrl": "https://apps.legislature.ky.gov/record/26RS/hb652.html",
-      "legiscanUrl": "https://legiscan.com/KY/bill/HB652/2026",
-      "legiscanId": 2118359,
-      "sponsors": [
-        "Steve Bratcher",
-        "Daniel Grossberg",
-        "Tony Hampton",
-        "Mark Hart"
-      ]
-    },
-    {
-      "id": "ky-hb856",
-      "billCode": "HB856",
-      "title": "AN ACT relating to data centers.",
-      "summary": "This bill requires data centers in Kentucky to complete a water feasibility study before opening and submit annual reports on their water usage to the state's Energy and Environment Cabinet. It introduces mandatory oversight of how much water data centers consume, adding regulatory hurdles before operations can begin.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "dimensionStances": {
-        "environmental": "concerning",
-        "energy": "review"
-      },
-      "impactTags": [
-        "water-consumption",
-        "water-infrastructure",
-        "environmental-review"
-      ],
-      "category": "data-center-energy",
-      "updatedDate": "2026-03-03",
-      "partyOrigin": "D",
-      "sourceUrl": "https://apps.legislature.ky.gov/record/26RS/hb856.html",
-      "legiscanUrl": "https://legiscan.com/KY/bill/HB856/2026",
-      "legiscanId": 2128342,
-      "sponsors": [
-        "Sarah Stalker"
-      ]
-    },
-    {
-      "id": "ky-hb559",
-      "billCode": "HB559",
-      "title": "AN ACT relating to data privacy, portability, and interoperability.",
-      "summary": "This Kentucky bill gives consumers rights over their personal data held by social media companies and AI systems, and requires those companies to allow users to move their data to other platforms. It also sets rules for how social media and AI companies can share data with each other, with enforcement by the Attorney General.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "dimensionStances": {
-        "ai-governance-dim": "concerning",
-        "ai-consumer": "concerning"
-      },
-      "impactTags": [
-        "data-privacy",
-        "algorithmic-transparency"
-      ],
-      "category": "data-privacy",
-      "updatedDate": "2026-02-04",
-      "partyOrigin": "R",
-      "sourceUrl": "https://apps.legislature.ky.gov/record/26RS/hb559.html",
-      "legiscanUrl": "https://legiscan.com/KY/bill/HB559/2026",
-      "legiscanId": 2108005,
-      "sponsors": [
-        "Vanessa Grossl"
-      ]
-    },
-    {
       "id": "ky-hb641",
       "billCode": "HB641",
       "title": "AN ACT relating to mental health chatbots.",
-      "summary": "This Kentucky bill sets rules for companies offering AI-powered mental health chatbots, requiring them to clearly disclose that users are interacting with AI, protect users' personal health information, and avoid deceptive advertising. The Attorney General would have authority to enforce these requirements.",
+      "summary": "This Kentucky bill sets rules for companies offering AI-powered mental health chatbots, requiring them to clearly disclose that users are interacting with AI, protect users' personal health information, and avoid misleading advertising. The Attorney General would have authority to enforce these requirements.",
       "stage": "Committee",
       "stance": "concerning",
       "dimensionStances": {
@@ -244,13 +219,65 @@
         "child-safety"
       ],
       "category": "ai-healthcare",
-      "updatedDate": "2026-02-13",
+      "updatedDate": "2026-02-23",
       "partyOrigin": "R",
       "sourceUrl": "https://apps.legislature.ky.gov/record/26RS/hb641.html",
       "legiscanUrl": "https://legiscan.com/KY/bill/HB641/2026",
       "legiscanId": 2117052,
       "sponsors": [
         "Vanessa Grossl"
+      ]
+    },
+    {
+      "id": "ky-hb559",
+      "billCode": "HB559",
+      "title": "AN ACT relating to data privacy, portability, and interoperability.",
+      "summary": "This Kentucky bill gives consumers rights over their personal data held by social media companies and AI systems, and requires those companies to allow users to move their data to other platforms. The Attorney General would have the authority to enforce these rules and impose civil penalties on companies that don't comply.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "concerning"
+      },
+      "impactTags": [
+        "data-privacy",
+        "algorithmic-transparency"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-02-11",
+      "partyOrigin": "R",
+      "sourceUrl": "https://apps.legislature.ky.gov/record/26RS/hb559.html",
+      "legiscanUrl": "https://legiscan.com/KY/bill/HB559/2026",
+      "legiscanId": 2108005,
+      "sponsors": [
+        "Vanessa Grossl"
+      ]
+    },
+    {
+      "id": "ky-hb544",
+      "billCode": "HB544",
+      "title": "AN ACT relating to data centers.",
+      "summary": "This Kentucky bill requires large data centers using more than 100 megawatts of electricity to get Public Service Commission approval before receiving power, ensuring the data center—not other ratepayers—covers the full cost of any new grid infrastructure needed to serve it. Existing large data center customers are grandfathered in and exempt from the new rules.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "energy": "concerning",
+        "community": "none"
+      },
+      "impactTags": [
+        "grid-capacity",
+        "energy-rates",
+        "local-control"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-02-10",
+      "partyOrigin": "B",
+      "sourceUrl": "https://apps.legislature.ky.gov/record/26RS/hb544.html",
+      "legiscanUrl": "https://legiscan.com/KY/bill/HB544/2026",
+      "legiscanId": 2106477,
+      "sponsors": [
+        "Adam Moore",
+        "William Lawrence"
       ]
     },
     {
@@ -276,50 +303,6 @@
       "legiscanId": 2113553,
       "sponsors": [
         "Stephen Meredith"
-      ]
-    },
-    {
-      "id": "ky-hb774",
-      "billCode": "HB774",
-      "title": "AN ACT relating to the reporting of costs, fines, and fees.",
-      "summary": "This bill requires Kentucky government agencies to report data on fines and fees they collect to a state statistics office, with annual legislative summaries. It has no connection to AI or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2026-03-11",
-      "partyOrigin": "R",
-      "sourceUrl": "https://apps.legislature.ky.gov/record/26RS/hb774.html",
-      "legiscanUrl": "https://legiscan.com/KY/bill/HB774/2026",
-      "legiscanId": 2125895,
-      "sponsors": [
-        "Jennifer Henson Decker",
-        "Mary Imes"
-      ]
-    },
-    {
-      "id": "ky-hb676",
-      "billCode": "HB676",
-      "title": "AN ACT relating to the Kentucky statewide health data utility.",
-      "summary": "This bill creates a statewide health data system in Kentucky that collects and shares health information from various participants, governed by a board and operated by a consortium of public health colleges. It establishes rules for how health data is submitted, shared, and protected, with enforcement powers for non-compliance.",
-      "stage": "Floor",
-      "stance": "review",
-      "dimensionStances": {
-        "ai-consumer": "concerning",
-        "ai-public": "favorable"
-      },
-      "impactTags": [
-        "data-privacy",
-        "ai-in-healthcare"
-      ],
-      "category": "data-privacy",
-      "updatedDate": "2026-04-01",
-      "partyOrigin": "R",
-      "sourceUrl": "https://apps.legislature.ky.gov/record/26RS/hb676.html",
-      "legiscanUrl": "https://legiscan.com/KY/bill/HB676/2026",
-      "legiscanId": 2120532,
-      "sponsors": [
-        "Rebecca Raymer"
       ]
     }
   ]

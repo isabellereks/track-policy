@@ -5,36 +5,14 @@
   "stance": "restrictive",
   "stanceDatacenter": "concerning",
   "stanceAI": "restrictive",
-  "lastUpdated": "2026-04-14",
-  "contextBlurb": "Indiana is reconsidering the sales-tax exemption it granted data centers and is weighing a bill that would require a state water-consumption permit before any data center can operate. Other pending legislation would force social-media companies to get parental consent for users under 14.",
+  "lastUpdated": "2026-07-22",
+  "contextBlurb": "Indiana is advancing regulation on data centers and leaning restrictive on AI. On data centers: HB1333 (in committee) — Allows data centers built on agricultural land to proceed as permitted uses and requires data center operators receiving tax exemptions to share at least 1% of the tax savings with local… On AI: HB1271 (enacted) — Regulates health insurance claims processes, including a prohibition on using automated systems to submit health claims without human review by a provider.",
   "legislation": [
-    {
-      "id": "in-sb0083",
-      "billCode": "SB0083",
-      "title": "Various utility matters.",
-      "summary": "This Indiana bill makes several utility-related changes, including repealing a previously passed sales tax exemption for data centers and capping residential electricity rate increases at 3% per month. It also adjusts rules around municipal utility ownership and exempts utility service transactions from state sales tax starting in 2027.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "impactTags": [
-        "energy-rates",
-        "tax-incentives",
-        "grid-capacity"
-      ],
-      "category": "data-center-energy",
-      "updatedDate": "2025-12-08",
-      "partyOrigin": "D",
-      "sourceUrl": "https://iga.in.gov/legislative/2026/bills/senate/83/details",
-      "legiscanUrl": "https://legiscan.com/IN/bill/SB0083/2026",
-      "legiscanId": 2056672,
-      "sponsors": [
-        "Fady Qaddoura"
-      ]
-    },
     {
       "id": "in-hb1271",
       "billCode": "HB1271",
       "title": "Payment of health claims.",
-      "summary": "This Indiana bill regulates how hospitals and insurers handle health insurance claims, including a ban on using automated systems to submit claims without human review by the provider. It also sets rules around payment assistance disclosures, overpayment recoupment timelines, and retroactive reimbursement rate reductions.",
+      "summary": "This Indiana bill regulates health insurance claims processes, including a prohibition on using automated systems to submit health claims without human review by a provider. It also sets rules around payment assistance disclosure, downcoding, and overpayment recoupment timelines.",
       "stage": "Enacted",
       "stance": "restrictive",
       "impactTags": [
@@ -54,10 +32,153 @@
       ]
     },
     {
+      "id": "in-hb1099",
+      "billCode": "HB1099",
+      "title": "Foreign adversaries.",
+      "summary": "Indiana prohibits certain foreign individuals and entities from acquiring real property in the state and requires contractors providing technological products or services to affirm they are not acting as agents of foreign adversaries. The bill also imposes restrictions on foreign student enrollment in qualifying programs at state educational institutions.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "impactTags": [
+        "ai-safety",
+        "nda-transparency"
+      ],
+      "category": "ai-government",
+      "updatedDate": "2026-02-16",
+      "partyOrigin": "R",
+      "sourceUrl": "https://iga.in.gov/legislative/2026/bills/house/1099/details",
+      "legiscanUrl": "https://legiscan.com/IN/bill/HB1099/2026",
+      "legiscanId": 2061468,
+      "sponsors": [
+        "Matt Commons",
+        "Ben Smaltz",
+        "Christopher Judy",
+        "Garrett Bascom"
+      ]
+    },
+    {
+      "id": "in-hb1333",
+      "billCode": "HB1333",
+      "title": "Land use and development.",
+      "summary": "This bill allows data centers built on agricultural land to proceed as permitted uses and requires data center operators receiving tax exemptions to share at least 1% of the tax savings with local governments. It also expands energy production zone rules to include large-scale battery storage systems and adds safety notice requirements for those projects.",
+      "stage": "Committee",
+      "stance": "favorable",
+      "dimensionStances": {
+        "energy": "concerning",
+        "community": "favorable",
+        "land-use": "favorable"
+      },
+      "impactTags": [
+        "local-zoning",
+        "tax-incentives",
+        "local-control",
+        "energy-rates",
+        "grid-capacity"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-02-05",
+      "partyOrigin": "R",
+      "sourceUrl": "https://iga.in.gov/legislative/2026/bills/house/1333/details",
+      "legiscanUrl": "https://legiscan.com/IN/bill/HB1333/2026",
+      "legiscanId": 2065736,
+      "sponsors": [
+        "Kendell Culp",
+        "Jim Pressel",
+        "Craig Haggard",
+        "Eric Koch"
+      ]
+    },
+    {
+      "id": "in-hb1201",
+      "billCode": "HB1201",
+      "title": "Various mental health and insurance matters.",
+      "summary": "This Indiana bill bans the use of AI systems to impersonate or replace licensed mental health professionals, while also setting rules around insurance reimbursement and network adequacy for mental health services. The AI-specific provision creates a hard prohibition on using AI as a stand-in for human therapists or counselors.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-governance-dim": "restrictive",
+        "ai-public": "restrictive"
+      },
+      "impactTags": [
+        "ai-in-healthcare",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-healthcare",
+      "updatedDate": "2026-01-22",
+      "partyOrigin": "R",
+      "sourceUrl": "https://iga.in.gov/legislative/2026/bills/house/1201/details",
+      "legiscanUrl": "https://legiscan.com/IN/bill/HB1201/2026",
+      "legiscanId": 2065139,
+      "sponsors": [
+        "Elizabeth Rowray",
+        "Becky Cash",
+        "Cindy Ledbetter",
+        "Lori Goss-Reaves"
+      ]
+    },
+    {
+      "id": "in-hb1043",
+      "billCode": "HB1043",
+      "title": "Data center water regulation.",
+      "summary": "This bill requires data centers in Indiana to obtain a state permit specifically for their water consumption before they can operate. The Department of Natural Resources would review and approve or deny these permits, creating a new regulatory layer for data center water use.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "environmental": "concerning",
+        "energy": "none",
+        "community": "review",
+        "land-use": "none"
+      },
+      "impactTags": [
+        "water-consumption",
+        "water-infrastructure",
+        "environmental-review",
+        "local-zoning"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-01-08",
+      "partyOrigin": "B",
+      "sourceUrl": "https://iga.in.gov/legislative/2026/bills/house/1043/details",
+      "legiscanUrl": "https://legiscan.com/IN/bill/HB1043/2026",
+      "legiscanId": 2055884,
+      "sponsors": [
+        "Alex Burton",
+        "Matt Commons"
+      ]
+    },
+    {
+      "id": "in-sb0079",
+      "billCode": "SB0079",
+      "title": "Data center development.",
+      "summary": "This bill requires Indiana data centers to regularly report their electricity usage to state regulators and creates a working group to forecast future energy demand from data centers. It also requires local governments to collect projected power and water usage data and conduct site assessments before issuing construction permits.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "environmental": "review",
+        "energy": "review",
+        "community": "review"
+      },
+      "impactTags": [
+        "grid-capacity",
+        "water-infrastructure",
+        "local-control",
+        "environmental-review"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-01-06",
+      "partyOrigin": "B",
+      "sourceUrl": "https://iga.in.gov/legislative/2026/bills/senate/79/details",
+      "legiscanUrl": "https://legiscan.com/IN/bill/SB0079/2026",
+      "legiscanId": 2056628,
+      "sponsors": [
+        "J.D. Ford",
+        "Spencer Deery"
+      ]
+    },
+    {
       "id": "in-hb1178",
       "billCode": "HB1178",
       "title": "Minor access to social media.",
-      "summary": "This Indiana bill requires social media companies to get parental consent before creating accounts for children under 14 and mandates age verification, parental controls, and strict data handling rules. Companies that violate these rules can be sued by the affected minor or their parent.",
+      "summary": "This Indiana bill restricts social media companies from allowing children under 14 to create accounts without verified parental consent, and requires platforms to give parents control tools and limit certain features for minor users. Companies that violate these rules can be sued by the child or their parents.",
       "stage": "Committee",
       "stance": "restrictive",
       "impactTags": [
@@ -77,226 +198,66 @@
       ]
     },
     {
-      "id": "in-hb1333",
-      "billCode": "HB1333",
-      "title": "Land use and development.",
-      "summary": "This bill sets new rules for data centers in Indiana, requiring them to contribute at least 1% of their tax savings to local governments before receiving sales tax exemptions on equipment purchases. It also addresses land use on agricultural soils, battery energy storage systems, and requires emergency response documentation for large energy storage facilities.",
+      "id": "in-hb1245",
+      "billCode": "HB1245",
+      "title": "IURC study of data centers.",
+      "summary": "Indiana requires its utility regulator to study how data centers and large industrial customers affect electricity costs and rates for all consumers. The study findings must be reported by 2026.",
       "stage": "Committee",
-      "stance": "concerning",
-      "dimensionStances": {
-        "environmental": "review",
-        "energy": "favorable",
-        "community": "concerning",
-        "land-use": "concerning"
-      },
+      "stance": "review",
       "impactTags": [
-        "local-zoning",
-        "tax-incentives",
-        "local-control",
         "grid-capacity",
-        "environmental-review"
-      ],
-      "category": "data-center-siting",
-      "updatedDate": "2026-02-03",
-      "partyOrigin": "R",
-      "sourceUrl": "https://iga.in.gov/legislative/2026/bills/house/1333/details",
-      "legiscanUrl": "https://legiscan.com/IN/bill/HB1333/2026",
-      "legiscanId": 2065736,
-      "sponsors": [
-        "Kendell Culp",
-        "Jim Pressel",
-        "Craig Haggard",
-        "Eric Koch"
-      ]
-    },
-    {
-      "id": "in-hb1358",
-      "billCode": "HB1358",
-      "title": "Indiana department of health.",
-      "summary": "This bill makes various updates to Indiana's public health laws, including changes to smoking cessation orders, hospital reporting, infectious waste handling, and child fatality review processes. It has no relevance to AI regulation or data-center policy.",
-      "stage": "Enacted",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-healthcare",
-      "updatedDate": "2026-03-04",
-      "partyOrigin": "B",
-      "sourceUrl": "https://iga.in.gov/legislative/2026/bills/house/1358/details",
-      "legiscanUrl": "https://legiscan.com/IN/bill/HB1358/2026",
-      "legiscanId": 2066964,
-      "sponsors": [
-        "Bradford Barrett",
-        "Joanna King",
-        "Lori Goss-Reaves",
-        "Gregory Porter"
-      ]
-    },
-    {
-      "id": "in-hb1043",
-      "billCode": "HB1043",
-      "title": "Data center water regulation.",
-      "summary": "This bill requires data centers in Indiana to obtain a water consumption permit from the state's Department of Natural Resources before operating. It establishes an application and approval process to regulate how much water data centers can use.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "dimensionStances": {
-        "environmental": "concerning",
-        "energy": "none",
-        "community": "review",
-        "land-use": "none"
-      },
-      "impactTags": [
-        "water-consumption",
-        "water-infrastructure",
-        "environmental-review",
-        "local-zoning"
+        "energy-rates"
       ],
       "category": "data-center-energy",
-      "updatedDate": "2025-12-02",
-      "partyOrigin": "B",
-      "sourceUrl": "https://iga.in.gov/legislative/2026/bills/house/1043/details",
-      "legiscanUrl": "https://legiscan.com/IN/bill/HB1043/2026",
-      "legiscanId": 2055884,
+      "updatedDate": "2026-01-05",
+      "partyOrigin": "D",
+      "sourceUrl": "https://iga.in.gov/legislative/2026/bills/house/1245/details",
+      "legiscanUrl": "https://legiscan.com/IN/bill/HB1245/2026",
+      "legiscanId": 2065018,
       "sponsors": [
-        "Alex Burton",
-        "Matt Commons"
+        "Robin Shackleford"
       ]
     },
     {
-      "id": "in-sb0079",
-      "billCode": "SB0079",
-      "title": "Data center development.",
-      "summary": "This Indiana bill requires data centers to regularly report their electricity usage to state regulators and disclose projected power and water needs before receiving construction permits. It also creates a working group to study and forecast the future electricity demands of Indiana's data center industry.",
+      "id": "in-hb1189",
+      "billCode": "HB1189",
+      "title": "Labor requirements for data center incentives.",
+      "summary": "Indiana requires data center incentive agreements to mandate that project bids go only to labor unions or employers with project labor agreements. This regulation conditions state economic development support on union participation and labor standards compliance.",
       "stage": "Committee",
       "stance": "concerning",
-      "dimensionStances": {
-        "energy": "review",
-        "community": "review",
-        "land-use": "concerning"
-      },
       "impactTags": [
-        "grid-capacity",
-        "water-infrastructure",
+        "job-creation"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-01-05",
+      "partyOrigin": "D",
+      "sourceUrl": "https://iga.in.gov/legislative/2026/bills/house/1189/details",
+      "legiscanUrl": "https://legiscan.com/IN/bill/HB1189/2026",
+      "legiscanId": 2065151,
+      "sponsors": [
+        "Randy Novak"
+      ]
+    },
+    {
+      "id": "in-sb0083",
+      "billCode": "SB0083",
+      "title": "Various utility matters.",
+      "summary": "This Indiana bill makes broad changes to utility regulation, including repealing a recently passed sales tax exemption for data centers and capping residential electricity rate increases at 3% per month. It also adjusts rules around municipal ownership of electric utilities.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "impactTags": [
         "energy-rates",
-        "local-zoning",
-        "local-control"
+        "tax-incentives",
+        "grid-capacity"
       ],
       "category": "data-center-energy",
       "updatedDate": "2025-12-08",
-      "partyOrigin": "B",
-      "sourceUrl": "https://iga.in.gov/legislative/2026/bills/senate/79/details",
-      "legiscanUrl": "https://legiscan.com/IN/bill/SB0079/2026",
-      "legiscanId": 2056628,
+      "partyOrigin": "D",
+      "sourceUrl": "https://iga.in.gov/legislative/2026/bills/senate/83/details",
+      "legiscanUrl": "https://legiscan.com/IN/bill/SB0083/2026",
+      "legiscanId": 2056672,
       "sponsors": [
-        "J.D. Ford",
-        "Spencer Deery"
-      ]
-    },
-    {
-      "id": "in-hb1106",
-      "billCode": "HB1106",
-      "title": "Various family matters.",
-      "summary": "This bill deals with child care licensing, child welfare procedures, and family court matters. It has no connection to AI regulation or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2026-01-05",
-      "partyOrigin": "R",
-      "sourceUrl": "https://iga.in.gov/legislative/2026/bills/house/1106/details",
-      "legiscanUrl": "https://legiscan.com/IN/bill/HB1106/2026",
-      "legiscanId": 2061478,
-      "sponsors": [
-        "Ethan Manning"
-      ]
-    },
-    {
-      "id": "in-sb0004",
-      "billCode": "SB0004",
-      "title": "Various fiscal matters.",
-      "summary": "This bill covers a range of Indiana fiscal and administrative matters, including fiscal impact analysis of executive orders, rulemaking cost thresholds, mental health center funding, and child care vouchers. It has no substantive connection to AI regulation or data-center policy.",
-      "stage": "Enacted",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2026-03-05",
-      "partyOrigin": "B",
-      "sourceUrl": "https://iga.in.gov/legislative/2026/bills/senate/4/details",
-      "legiscanUrl": "https://legiscan.com/IN/bill/SB0004/2026",
-      "legiscanId": 2068520,
-      "sponsors": [
-        "Ryan Mishler",
-        "Chris Garten",
-        "Gary Byrne",
-        "Lonnie Randolph"
-      ]
-    },
-    {
-      "id": "in-sb0236",
-      "billCode": "SB0236",
-      "title": "Abortion inducing drugs and abortion reports.",
-      "summary": "This bill deals with abortion-related drug regulations, reporting requirements, and liability rules. It has no relevance to AI policy or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2026-01-28",
-      "partyOrigin": "R",
-      "sourceUrl": "https://iga.in.gov/legislative/2026/bills/senate/236/details",
-      "legiscanUrl": "https://legiscan.com/IN/bill/SB0236/2026",
-      "legiscanId": 2068855,
-      "sponsors": [
-        "Tyler Johnson",
-        "Elizabeth Brown",
-        "Blake Doriot",
-        "Stacey Donato"
-      ]
-    },
-    {
-      "id": "in-hb1004",
-      "billCode": "HB1004",
-      "title": "Various education matters.",
-      "summary": "This bill makes a wide variety of administrative and procedural changes to Indiana's education laws, covering topics like school accounting, teacher contracts, graduation requirements, and school safety. It does not substantively address AI or data-center policy.",
-      "stage": "Enacted",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-education",
-      "updatedDate": "2026-03-04",
-      "partyOrigin": "R",
-      "sourceUrl": "https://iga.in.gov/legislative/2026/bills/house/1004/details",
-      "legiscanUrl": "https://legiscan.com/IN/bill/HB1004/2026",
-      "legiscanId": 2068176,
-      "sponsors": [
-        "Robert Behning",
-        "Julie McGuire",
-        "Hunter Smith",
-        "Tyler Johnson"
-      ]
-    },
-    {
-      "id": "in-hb1201",
-      "billCode": "HB1201",
-      "title": "Various mental health and insurance matters.",
-      "summary": "This Indiana bill bans the use of AI systems to impersonate or replace licensed mental health professionals, while also setting rules around insurance reimbursement and network adequacy for mental health services. The AI-specific provision is an outright prohibition, making it restrictive in that regard.",
-      "stage": "Committee",
-      "stance": "restrictive",
-      "dimensionStances": {
-        "ai-governance-dim": "restrictive",
-        "ai-public": "restrictive"
-      },
-      "impactTags": [
-        "ai-in-healthcare",
-        "algorithmic-transparency"
-      ],
-      "category": "ai-healthcare",
-      "updatedDate": "2026-01-05",
-      "partyOrigin": "R",
-      "sourceUrl": "https://iga.in.gov/legislative/2026/bills/house/1201/details",
-      "legiscanUrl": "https://legiscan.com/IN/bill/HB1201/2026",
-      "legiscanId": 2065139,
-      "sponsors": [
-        "Elizabeth Rowray",
-        "Becky Cash",
-        "Cindy Ledbetter",
-        "Lori Goss-Reaves"
+        "Fady Qaddoura"
       ]
     }
   ]

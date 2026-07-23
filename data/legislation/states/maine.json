@@ -5,34 +5,32 @@
   "stance": "restrictive",
   "stanceDatacenter": "restrictive",
   "stanceAI": "concerning",
-  "lastUpdated": "2026-04-14",
-  "contextBlurb": "Maine enacted a cap on how much electricity can be supplied to data centers at commercial and industrial sites this session, one of the hardest limits in the country. It also passed a law requiring businesses to disclose when consumers are dealing with AI, and a pending bill would restrict minors' access to AI chatbots and companion apps.",
+  "lastUpdated": "2026-07-22",
+  "contextBlurb": "Maine is leaning restrictive on data centers and advancing regulation on AI. On data centers: LD912 (enacted) — Would cap the amount of electricity that can be supplied to data centers on commercial or industrial sites in Maine. On AI: LD2082 (enacted) — Establishes rules for how artificial intelligence can be used when providing mental health services in Maine.",
   "legislation": [
     {
-      "id": "me-ld912",
-      "billCode": "LD912",
-      "title": "An Act to Limit the Amount of Electricity That May Be Provided to Data Centers on a Certain Commercial or Industrial Site",
-      "summary": "This bill caps the amount of electricity that can be supplied to data centers on commercial or industrial sites in Maine. It is designed to limit the grid load and energy consumption associated with large data center operations.",
-      "stage": "Enacted",
+      "id": "me-ld307",
+      "billCode": "LD307",
+      "title": "An Act to Establish the Maine Data Center Coordination Council and Place a Temporary Limitation on Certain Data Centers",
+      "summary": "Maine establishes a Data Center Coordination Council and imposes a temporary limitation on the development of certain data centers in the state. This creates a coordinated review process while restricting new data center construction during a specified period.",
+      "stage": "Dead",
       "stance": "restrictive",
       "dimensionStances": {
-        "energy": "restrictive",
-        "community": "concerning",
-        "land-use": "concerning"
+        "environmental": "review",
+        "community": "concerning"
       },
       "impactTags": [
-        "grid-capacity",
-        "energy-rates",
-        "local-zoning"
+        "local-control",
+        "environmental-review"
       ],
-      "category": "data-center-energy",
-      "updatedDate": "2025-05-21",
+      "category": "data-center-siting",
+      "updatedDate": "2026-04-29",
       "partyOrigin": "D",
-      "sourceUrl": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=912&snum=132",
-      "legiscanUrl": "https://legiscan.com/ME/bill/LD912/2025",
-      "legiscanId": 1992433,
+      "sourceUrl": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=307&snum=132",
+      "legiscanUrl": "https://legiscan.com/ME/bill/LD307/2025",
+      "legiscanId": 1948430,
       "sponsors": [
-        "Glenn Curry"
+        "Melanie Sachs"
       ]
     },
     {
@@ -40,7 +38,7 @@
       "billCode": "LD2162",
       "title": "An Act to Regulate and Prevent Children's Access to Artificial Intelligence Chatbots with Human-like Features and Social Artificial Intelligence Companions",
       "summary": "This Maine bill would regulate or ban children's access to AI chatbots that mimic human conversation and AI social companions. It aims to protect minors from potentially harmful interactions with human-like AI systems.",
-      "stage": "Floor",
+      "stage": "Dead",
       "stance": "restrictive",
       "dimensionStances": {
         "ai-governance-dim": "concerning",
@@ -52,7 +50,7 @@
         "ai-safety"
       ],
       "category": "ai-governance",
-      "updatedDate": "2026-04-09",
+      "updatedDate": "2026-04-29",
       "partyOrigin": "B",
       "sourceUrl": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=2162&snum=132",
       "legiscanUrl": "https://legiscan.com/ME/bill/LD2162/2025",
@@ -65,68 +63,32 @@
       ]
     },
     {
-      "id": "me-ld1374",
-      "billCode": "LD1374",
-      "title": "An Act to Establish Additional Requirements for Dentists to Administer Botulinum Toxin and Dermal Fillers",
-      "summary": "This bill sets requirements for dentists who administer Botox and dermal fillers. It has no connection to AI or data-center policy.",
-      "stage": "Dead",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2025-05-06",
-      "partyOrigin": "D",
-      "sourceUrl": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=1374&snum=132",
-      "legiscanUrl": "https://legiscan.com/ME/bill/LD1374/2025",
-      "legiscanId": 2016570,
-      "sponsors": [
-        "Joseph Baldacci"
-      ]
-    },
-    {
-      "id": "me-ld1923",
-      "billCode": "LD1923",
-      "title": "An Act to Update Juvenile Justice System Reporting Requirements and to Direct the Department of Corrections and the Department of Health and Human Services to Study Modifying the Long Creek Youth Development Center",
-      "summary": "This bill updates reporting requirements for Maine's juvenile justice system and directs state agencies to study changes to the Long Creek Youth Development Center. It has no connection to AI or data-center policy.",
+      "id": "me-ld713",
+      "billCode": "LD713",
+      "title": "An Act to Exclude Data Centers from the Business Equipment Tax Exemption and the Dirigo Business Incentives Program and to Require the Department of Economic and Community Development to Study Financial Incentives for Data Centers",
+      "summary": "This Maine bill would remove data centers from existing business equipment tax exemptions and a state business incentive program, effectively ending preferential financial treatment for data centers. It also directs the state's economic development agency to study what financial incentives, if any, should apply to data centers in the future.",
       "stage": "Enacted",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-criminal-justice",
-      "updatedDate": "2026-03-25",
+      "stance": "concerning",
+      "impactTags": [
+        "tax-incentives",
+        "economic-development"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-04-14",
       "partyOrigin": "D",
-      "sourceUrl": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=1923&snum=132",
-      "legiscanUrl": "https://legiscan.com/ME/bill/LD1923/2025",
-      "legiscanId": 2028521,
+      "sourceUrl": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=713&snum=132",
+      "legiscanUrl": "https://legiscan.com/ME/bill/LD713/2025",
+      "legiscanId": 1978123,
       "sponsors": [
-        "Michael Brennan",
-        "Andrew Gattine",
-        "Kelly Murphy",
-        "Teresa Pierce"
+        "Kristen Cloutier"
       ]
     },
     {
-      "id": "me-ld977",
-      "billCode": "LD977",
-      "title": "Resolve, Requiring the Maine Health Data Organization to Develop a Plan for Measuring Gaps in Home and Community-based Services",
-      "summary": "This bill directs a Maine health data organization to create a plan for measuring gaps in home and community-based services. It is not related to AI or data-center policy.",
+      "id": "me-ld2082",
+      "billCode": "LD2082",
+      "title": "An Act to Regulate the Use of Artificial Intelligence in Providing Certain Mental Health Services",
+      "summary": "This bill establishes rules for how artificial intelligence can be used when providing mental health services in Maine. It puts guardrails around AI-driven mental health tools to protect patients and ensure appropriate oversight.",
       "stage": "Enacted",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-healthcare",
-      "updatedDate": "2025-06-25",
-      "partyOrigin": "D",
-      "sourceUrl": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=977&snum=132",
-      "legiscanUrl": "https://legiscan.com/ME/bill/LD977/2025",
-      "legiscanId": 1994860,
-      "sponsors": [
-        "Sally Cluchey"
-      ]
-    },
-    {
-      "id": "me-ld955",
-      "billCode": "LD955",
-      "title": "An Act to Ensure Human Oversight in Medical Insurance Payment Decisions",
-      "summary": "This bill requires that humans, not automated systems, make final decisions about medical insurance coverage and payments. It ensures that AI or algorithmic tools cannot independently deny or approve claims without human review.",
-      "stage": "Dead",
       "stance": "concerning",
       "dimensionStances": {
         "ai-governance-dim": "concerning",
@@ -134,93 +96,18 @@
       },
       "impactTags": [
         "ai-in-healthcare",
-        "algorithmic-transparency"
-      ],
-      "category": "ai-healthcare",
-      "updatedDate": "2025-05-20",
-      "partyOrigin": "B",
-      "sourceUrl": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=955&snum=132",
-      "legiscanUrl": "https://legiscan.com/ME/bill/LD955/2025",
-      "legiscanId": 1993701,
-      "sponsors": [
-        "Joseph Martin",
-        "Richard Bennett",
-        "Scott Cyrway",
-        "Ryan Fecteau"
-      ]
-    },
-    {
-      "id": "me-ld1727",
-      "billCode": "LD1727",
-      "title": "An Act to Ensure Transparency in Consumer Transactions Involving Artificial Intelligence",
-      "summary": "This bill requires businesses to be upfront with consumers when they are interacting with or being affected by artificial intelligence in commercial transactions. It aims to ensure people know when AI is being used in decisions or communications that affect them as customers.",
-      "stage": "Enacted",
-      "stance": "concerning",
-      "dimensionStances": {
-        "ai-governance-dim": "concerning",
-        "ai-consumer": "concerning"
-      },
-      "impactTags": [
-        "algorithmic-transparency",
-        "data-privacy"
-      ],
-      "category": "ai-governance",
-      "updatedDate": "2025-06-10",
-      "partyOrigin": "B",
-      "sourceUrl": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=1727&snum=132",
-      "legiscanUrl": "https://legiscan.com/ME/bill/LD1727/2025",
-      "legiscanId": 2024454,
-      "sponsors": [
-        "Amy Kuhn",
-        "Anne Carney",
-        "Adam Lee",
-        "Jennifer Poirier"
-      ]
-    },
-    {
-      "id": "me-ld872",
-      "billCode": "LD872",
-      "title": "An Act to Ensure Determinations Made by the State Are Free from Unethical, Unsafe or Illegal Interference by Artificial Intelligence",
-      "summary": "This Maine bill aims to prevent artificial intelligence from improperly influencing or making official state government decisions. It sets rules to ensure that AI does not interfere with government determinations in ways that are unethical, unsafe, or illegal.",
-      "stage": "Dead",
-      "stance": "restrictive",
-      "impactTags": [
         "algorithmic-transparency",
         "ai-safety"
       ],
-      "category": "ai-government",
-      "updatedDate": "2025-06-09",
+      "category": "ai-healthcare",
+      "updatedDate": "2026-04-08",
       "partyOrigin": "D",
-      "sourceUrl": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=872&snum=132",
-      "legiscanUrl": "https://legiscan.com/ME/bill/LD872/2025",
-      "legiscanId": 1989654,
+      "sourceUrl": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=2082&snum=132",
+      "legiscanUrl": "https://legiscan.com/ME/bill/LD2082/2025",
+      "legiscanId": 2065334,
       "sponsors": [
-        "Gary Friedmann"
-      ]
-    },
-    {
-      "id": "me-ld230",
-      "billCode": "LD230",
-      "title": "An Act to Protect Minors from Harmful Depictions Generated by Artificial Intelligence",
-      "summary": "This bill aims to protect children by prohibiting AI-generated harmful depictions of minors. It establishes legal safeguards against the creation or distribution of such content.",
-      "stage": "Dead",
-      "stance": "restrictive",
-      "dimensionStances": {
-        "ai-consumer": "restrictive",
-        "ai-synthetic": "restrictive"
-      },
-      "impactTags": [
-        "deepfake-regulation",
-        "child-safety"
-      ],
-      "category": "synthetic-media",
-      "updatedDate": "2025-05-28",
-      "partyOrigin": "R",
-      "sourceUrl": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=230&snum=132",
-      "legiscanUrl": "https://legiscan.com/ME/bill/LD230/2025",
-      "legiscanId": 1923257,
-      "sponsors": [
-        "Richard Campbell"
+        "Amy Kuhn",
+        "Teresa Pierce"
       ]
     },
     {
@@ -252,24 +139,6 @@
       ]
     },
     {
-      "id": "me-ld1157",
-      "billCode": "LD1157",
-      "title": "An Act to Amend the Laws Relating to the State's Background Check Center",
-      "summary": "This bill makes amendments to Maine's Background Check Center, which handles criminal history and background screening. It does not appear to relate to AI regulation or data-center policy.",
-      "stage": "Enacted",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-criminal-justice",
-      "updatedDate": "2025-06-03",
-      "partyOrigin": "D",
-      "sourceUrl": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=1157&snum=132",
-      "legiscanUrl": "https://legiscan.com/ME/bill/LD1157/2025",
-      "legiscanId": 2010928,
-      "sponsors": [
-        "Daniel Shagoury"
-      ]
-    },
-    {
       "id": "me-ld109",
       "billCode": "LD109",
       "title": "Resolve, Directing the Maine Arts Commission to Study Federal and National Efforts to Protect Artists from Copyright Infringement by Artificial Intelligence Companies and Users and to Monitor Educational Use",
@@ -285,7 +154,7 @@
         "ai-in-education"
       ],
       "category": "ai-governance",
-      "updatedDate": "2025-06-25",
+      "updatedDate": "2025-07-08",
       "partyOrigin": "D",
       "sourceUrl": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=109&snum=132",
       "legiscanUrl": "https://legiscan.com/ME/bill/LD109/2025",
@@ -295,6 +164,186 @@
         "Poppy Arford",
         "Cheryl Golek",
         "Amy Kuhn"
+      ]
+    },
+    {
+      "id": "me-ld1727",
+      "billCode": "LD1727",
+      "title": "An Act to Ensure Transparency in Consumer Transactions Involving Artificial Intelligence",
+      "summary": "This bill requires businesses to disclose when consumers are interacting with artificial intelligence during transactions. It aims to ensure people know when AI, rather than a human, is handling their purchase or service experience.",
+      "stage": "Enacted",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "concerning"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "data-privacy"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-06-10",
+      "partyOrigin": "B",
+      "sourceUrl": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=1727&snum=132",
+      "legiscanUrl": "https://legiscan.com/ME/bill/LD1727/2025",
+      "legiscanId": 2024454,
+      "sponsors": [
+        "Amy Kuhn",
+        "Anne Carney",
+        "Adam Lee",
+        "Jennifer Poirier"
+      ]
+    },
+    {
+      "id": "me-ld872",
+      "billCode": "LD872",
+      "title": "An Act to Ensure Determinations Made by the State Are Free from Unethical, Unsafe or Illegal Interference by Artificial Intelligence",
+      "summary": "This bill aims to prevent artificial intelligence from improperly influencing or making official state government decisions. It establishes safeguards to ensure that state determinations remain free from unethical, unsafe, or illegal AI interference.",
+      "stage": "Dead",
+      "stance": "restrictive",
+      "impactTags": [
+        "algorithmic-transparency",
+        "ai-safety"
+      ],
+      "category": "ai-government",
+      "updatedDate": "2025-06-09",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=872&snum=132",
+      "legiscanUrl": "https://legiscan.com/ME/bill/LD872/2025",
+      "legiscanId": 1989654,
+      "sponsors": [
+        "Gary Friedmann"
+      ]
+    },
+    {
+      "id": "me-ld1552",
+      "billCode": "LD1552",
+      "title": "An Act to Prohibit Landlords from Setting Rents Through the Use of Artificial Intelligence",
+      "summary": "This Maine bill prohibits landlords from using artificial intelligence algorithms to set rental prices. The law restricts an automated decision-making tool commonly used in the housing market to prevent discriminatory or opaque rent-setting practices.",
+      "stage": "Dead",
+      "stance": "restrictive",
+      "impactTags": [
+        "data-privacy"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-06-03",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=1552&snum=132",
+      "legiscanUrl": "https://legiscan.com/ME/bill/LD1552/2025",
+      "legiscanId": 2022043,
+      "sponsors": [
+        "Michael Tipping",
+        "Glenn Curry",
+        "Traci Gere",
+        "Cheryl Golek"
+      ]
+    },
+    {
+      "id": "me-ld230",
+      "billCode": "LD230",
+      "title": "An Act to Protect Minors from Harmful Depictions Generated by Artificial Intelligence",
+      "summary": "This bill prohibits the creation or distribution of AI-generated depictions that sexually exploit or otherwise harm minors. It establishes protections specifically targeting artificial intelligence tools used to produce harmful content involving children.",
+      "stage": "Dead",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-consumer": "restrictive",
+        "ai-synthetic": "restrictive"
+      },
+      "impactTags": [
+        "deepfake-regulation",
+        "child-safety"
+      ],
+      "category": "synthetic-media",
+      "updatedDate": "2025-05-28",
+      "partyOrigin": "R",
+      "sourceUrl": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=230&snum=132",
+      "legiscanUrl": "https://legiscan.com/ME/bill/LD230/2025",
+      "legiscanId": 1923257,
+      "sponsors": [
+        "Richard Campbell"
+      ]
+    },
+    {
+      "id": "me-ld912",
+      "billCode": "LD912",
+      "title": "An Act to Limit the Amount of Electricity That May Be Provided to Data Centers on a Certain Commercial or Industrial Site",
+      "summary": "This bill would cap the amount of electricity that can be supplied to data centers on commercial or industrial sites in Maine. It is designed to limit the strain that large data center operations can place on the electrical grid.",
+      "stage": "Enacted",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "energy": "restrictive",
+        "community": "concerning",
+        "land-use": "concerning"
+      },
+      "impactTags": [
+        "grid-capacity",
+        "energy-rates",
+        "local-zoning"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2025-05-21",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=912&snum=132",
+      "legiscanUrl": "https://legiscan.com/ME/bill/LD912/2025",
+      "legiscanId": 1992433,
+      "sponsors": [
+        "Glenn Curry"
+      ]
+    },
+    {
+      "id": "me-ld955",
+      "billCode": "LD955",
+      "title": "An Act to Ensure Human Oversight in Medical Insurance Payment Decisions",
+      "summary": "This bill requires that human beings, not automated systems or AI, make final decisions about medical insurance payment approvals and denials. It ensures patients have access to human review rather than having their care determined solely by algorithms.",
+      "stage": "Dead",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-public": "concerning"
+      },
+      "impactTags": [
+        "ai-in-healthcare",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-healthcare",
+      "updatedDate": "2025-05-20",
+      "partyOrigin": "B",
+      "sourceUrl": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=955&snum=132",
+      "legiscanUrl": "https://legiscan.com/ME/bill/LD955/2025",
+      "legiscanId": 1993701,
+      "sponsors": [
+        "Joseph Martin",
+        "Richard Bennett",
+        "Scott Cyrway",
+        "Ryan Fecteau"
+      ]
+    },
+    {
+      "id": "me-ld643",
+      "billCode": "LD643",
+      "title": "Resolve, to Study the Effects of Artificial Intelligence, Cellular Telephones and Social Media on Public Education",
+      "summary": "Maine establishes a study to examine how artificial intelligence, cellular phones, and social media affect public education. The resolve directs analysis of impacts on students and schools to inform future policy.",
+      "stage": "Dead",
+      "stance": "review",
+      "dimensionStances": {
+        "ai-consumer": "review",
+        "ai-public": "review"
+      },
+      "impactTags": [
+        "ai-in-education",
+        "child-safety"
+      ],
+      "category": "ai-education",
+      "updatedDate": "2025-05-13",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=643&snum=132",
+      "legiscanUrl": "https://legiscan.com/ME/bill/LD643/2025",
+      "legiscanId": 1977885,
+      "sponsors": [
+        "Michael Brennan",
+        "Kristen Cloutier",
+        "Janice Dodge",
+        "Lori Gramlich"
       ]
     }
   ]

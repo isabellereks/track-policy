@@ -3,39 +3,97 @@
   "stateCode": "IL",
   "region": "na",
   "stance": "concerning",
-  "stanceDatacenter": "none",
+  "stanceDatacenter": "concerning",
   "stanceAI": "concerning",
-  "lastUpdated": "2026-04-14",
-  "contextBlurb": "Illinois is weighing a broad provenance-labeling mandate that would force AI companies to embed origin metadata in generated images, video, and audio, plus a ban on deceptive political deepfakes within 90 days of an election. A separate bill would sharply limit police use of facial recognition.",
+  "lastUpdated": "2026-07-22",
+  "contextBlurb": "Illinois is advancing regulation across both data centers and AI. On data centers: HB4319 (in committee) — Illinois requires data centers to compensate nearby property owners (within 1,000 feet) for measurable harm including reduced property values, business losses, and operational impacts like noise an… On AI: SB2994 (in committee) — Illinois prohibits insurers and employers from using genetic testing and neurotechnology data in underwriting and employment decisions, with limited exceptions, and establishes strict privacy, cons…",
   "legislation": [
     {
-      "id": "il-hb3312",
-      "billCode": "HB3312",
-      "title": "UTILITY DATA ACCESS ACT",
-      "summary": "This bill sets rules for how Illinois utilities must store and share customer energy usage data, requiring them to keep billing records for 7-15 years and provide secure online access to that data. It establishes processes for account holders and authorized recipients to request and correct utility consumption data.",
+      "id": "il-sb4203",
+      "billCode": "SB4203",
+      "title": "DCEO-DATA CENTERS",
+      "summary": "Illinois requires data center operators seeking tax exemptions to negotiate community benefit agreements with host communities, including annual payments of at least 10% of foregone property taxes, with half directed to homestead property tax relief. This adds regulatory conditions to existing data center incentive programs.",
       "stage": "Committee",
       "stance": "concerning",
       "impactTags": [
-        "data-privacy"
+        "local-control",
+        "economic-development",
+        "tax-incentives"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-06-17",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4203&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
+      "legiscanUrl": "https://legiscan.com/IL/bill/SB4203/2025",
+      "legiscanId": 2149607,
+      "sponsors": [
+        "Susan Rezin",
+        "Terri Bryant",
+        "Chris Balkema",
+        "Sally Turner"
+      ]
+    },
+    {
+      "id": "il-sb0340",
+      "billCode": "SB0340",
+      "title": "CIVIL LAW-TECH",
+      "summary": "This bill would create a comprehensive data privacy law in Illinois giving consumers rights to access, correct, delete, and opt out of the sale of their personal data held by large businesses. It also includes protections against automated profiling decisions and would be enforced by the Attorney General.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "concerning"
+      },
+      "impactTags": [
+        "data-privacy",
+        "algorithmic-transparency"
       ],
       "category": "data-privacy",
-      "updatedDate": "2025-04-10",
+      "updatedDate": "2026-05-31",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.ilga.gov/Legislation/BillStatus?DocNum=340&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
+      "legiscanUrl": "https://legiscan.com/IL/bill/SB0340/2025",
+      "legiscanId": 1941172,
+      "sponsors": [
+        "Laura Murphy",
+        "Susan Rezin",
+        "Rachel Ventura",
+        "Mike Porfirio"
+      ]
+    },
+    {
+      "id": "il-hb3494",
+      "billCode": "HB3494",
+      "title": "HEALTH DATA PRIVACY ACT",
+      "summary": "This Illinois bill requires companies that handle personal health data to clearly disclose their privacy practices, get consent before collecting or selling health information, and give individuals the right to delete their data or withdraw consent. It also bans discriminatory practices against people who refuse to share their health data and prohibits geofencing around health facilities.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-consumer": "concerning",
+        "ai-public": "concerning"
+      },
+      "impactTags": [
+        "data-privacy",
+        "ai-in-healthcare"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-05-30",
       "partyOrigin": "D",
-      "sourceUrl": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3312&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
-      "legiscanUrl": "https://legiscan.com/IL/bill/HB3312/2025",
-      "legiscanId": 1960897,
+      "sourceUrl": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3494&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+      "legiscanUrl": "https://legiscan.com/IL/bill/HB3494/2025",
+      "legiscanId": 1961946,
       "sponsors": [
         "Mary Canty",
-        "Kelly Cassidy",
-        "Will Guzzardi",
-        "Kevin Olickal"
+        "Ann Williams",
+        "Anne Stava-Murray",
+        "Kelly Cassidy"
       ]
     },
     {
       "id": "il-sb3263",
       "billCode": "SB3263",
       "title": "AI PROVENANCE DATA ACT",
-      "summary": "This Illinois bill requires AI companies to embed provenance labels in all AI-generated images, video, and audio content, and to provide free tools for people to read those labels. It also places compliance obligations on online platforms, device manufacturers, and hosting services, with civil penalties for violations.",
+      "summary": "This Illinois bill requires AI tool providers to embed provenance labels in any AI-generated images, video, or audio so that people can identify AI-created content. It also mandates that online platforms and device makers support these labels, with civil penalties for non-compliance.",
       "stage": "Committee",
       "stance": "concerning",
       "dimensionStances": {
@@ -47,28 +105,279 @@
         "deepfake-regulation"
       ],
       "category": "synthetic-media",
-      "updatedDate": "2026-02-03",
+      "updatedDate": "2026-05-22",
       "partyOrigin": "D",
       "sourceUrl": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3263&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
       "legiscanUrl": "https://legiscan.com/IL/bill/SB3263/2025",
       "legiscanId": 2104843,
       "sponsors": [
         "Mary Edly-Allen",
+        "Rachel Ventura",
+        "Robert Martwick",
+        "Graciela Guzman"
+      ]
+    },
+    {
+      "id": "il-sb3890",
+      "billCode": "SB3890",
+      "title": "CONSUMER DATA PRIVACY",
+      "summary": "This Illinois bill would give residents the right to access, correct, and delete their personal data held by large businesses and data brokers, and requires data brokers to register with the state and offer consumers a way to delete their information. The Attorney General would enforce the law and can impose civil penalties on violators.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "review",
+        "ai-consumer": "concerning"
+      },
+      "impactTags": [
+        "data-privacy",
+        "algorithmic-transparency"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-05-22",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3890&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
+      "legiscanUrl": "https://legiscan.com/IL/bill/SB3890/2025",
+      "legiscanId": 2111124,
+      "sponsors": [
         "Rachel Ventura"
+      ]
+    },
+    {
+      "id": "il-sb2875",
+      "billCode": "SB2875",
+      "title": "CONSUMER DATA PRIVACY",
+      "summary": "This bill creates a comprehensive consumer data privacy law in Illinois, giving residents the right to access, correct, and understand how their personal data is used by businesses that collect large amounts of it. Companies that process data on 100,000 or more Illinois consumers, or that earn significant revenue from selling personal data, would be required to protect that data and notify consumers of breaches.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "concerning"
+      },
+      "impactTags": [
+        "data-privacy",
+        "algorithmic-transparency"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-05-22",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2875&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
+      "legiscanUrl": "https://legiscan.com/IL/bill/SB2875/2025",
+      "legiscanId": 2084089,
+      "sponsors": [
+        "Laura Murphy"
+      ]
+    },
+    {
+      "id": "il-sb2273",
+      "billCode": "SB2273",
+      "title": "HEALTH DATA PRIVACY ACT",
+      "summary": "This Illinois bill requires companies handling personal health data to clearly disclose their privacy practices, get explicit consent before collecting or selling health information, and give individuals the right to delete their data or withdraw consent. It also bans discriminatory treatment of people who refuse to share their health data and prohibits geofencing around health facilities to track individuals.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-consumer": "concerning",
+        "ai-public": "none"
+      },
+      "impactTags": [
+        "data-privacy",
+        "ai-in-healthcare"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-05-22",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2273&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
+      "legiscanUrl": "https://legiscan.com/IL/bill/SB2273/2025",
+      "legiscanId": 1962238,
+      "sponsors": [
+        "Celina Villanueva"
+      ]
+    },
+    {
+      "id": "il-sb3220",
+      "billCode": "SB3220",
+      "title": "CONSUMER DATA PRIVACY",
+      "summary": "Illinois creates a comprehensive consumer data privacy law granting residents rights to access, correct, and delete their personal data, and to opt out of targeted advertising and data sales. The law applies to large companies processing data of at least 100,000 Illinois consumers and is enforced by the state Attorney General.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "review",
+        "ai-consumer": "restrictive"
+      },
+      "impactTags": [
+        "data-privacy",
+        "algorithmic-transparency"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-05-22",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3220&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
+      "legiscanUrl": "https://legiscan.com/IL/bill/SB3220/2025",
+      "legiscanId": 2104103,
+      "sponsors": [
+        "Susan Rezin"
+      ]
+    },
+    {
+      "id": "il-sb3548",
+      "billCode": "SB3548",
+      "title": "CONSUMER DATA PRIVACY ACT",
+      "summary": "Illinois establishes consumer rights to access, correct, and delete personal data, opt out of targeted advertising and data sales, and obtain profiling information from businesses processing data on 100,000+ Illinois residents. The Attorney General enforces these rights and administers a Consumer Privacy Fund.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "impactTags": [
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-05-22",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3548&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
+      "legiscanUrl": "https://legiscan.com/IL/bill/SB3548/2025",
+      "legiscanId": 2108932,
+      "sponsors": [
+        "Susan Rezin"
+      ]
+    },
+    {
+      "id": "il-sb2994",
+      "billCode": "SB2994",
+      "title": "GENETIC PRIVACY-NEUROTECH",
+      "summary": "Illinois prohibits insurers and employers from using genetic testing and neurotechnology data in underwriting and employment decisions, with limited exceptions, and establishes strict privacy, consent, and security requirements for entities collecting such data. The law takes effect January 1, 2027.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-consumer": "restrictive",
+        "ai-workforce": "restrictive",
+        "ai-public": "restrictive"
+      },
+      "impactTags": [
+        "data-privacy",
+        "ai-in-employment",
+        "ai-in-healthcare"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-05-22",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2994&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
+      "legiscanUrl": "https://legiscan.com/IL/bill/SB2994/2025",
+      "legiscanId": 2102271,
+      "sponsors": [
+        "Rachel Ventura"
+      ]
+    },
+    {
+      "id": "il-sb3241",
+      "billCode": "SB3241",
+      "title": "AGE-APPROPRIATE DESIGN CODE",
+      "summary": "Illinois requires companies that collect children's data to conduct and maintain data protection impact assessments and follow child-centered privacy practices. The law empowers the state Attorney General to enforce these requirements and creates a dedicated enforcement fund.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "restrictive"
+      },
+      "impactTags": [
+        "data-privacy",
+        "child-safety",
+        "algorithmic-transparency"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-05-22",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3241&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
+      "legiscanUrl": "https://legiscan.com/IL/bill/SB3241/2025",
+      "legiscanId": 2104126,
+      "sponsors": [
+        "Susan Rezin",
+        "Sally Turner"
+      ]
+    },
+    {
+      "id": "il-sb3816",
+      "billCode": "SB3816",
+      "title": "AUTO LICENSE PLATE RECOGNITION",
+      "summary": "Illinois establishes comprehensive rules for automated license plate recognition systems, including data retention limits, prohibited uses, transparency requirements, and a private right of action for violations. The law regulates law enforcement and other entities' use of this surveillance technology with privacy protections and reporting obligations.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "restrictive"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "data-privacy"
+      ],
+      "category": "ai-criminal-justice",
+      "updatedDate": "2026-05-22",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3816&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
+      "legiscanUrl": "https://legiscan.com/IL/bill/SB3816/2025",
+      "legiscanId": 2111119,
+      "sponsors": [
+        "Celina Villanueva",
+        "Graciela Guzman"
+      ]
+    },
+    {
+      "id": "il-sb3120",
+      "billCode": "SB3120",
+      "title": "DCEO-DATA CENTERS",
+      "summary": "Illinois requires new and existing data centers to disclose their water stewardship strategies as a condition of qualifying for state incentives and mandates annual reporting on these strategies. This establishes environmental accountability measures for data center operations that use significant water resources.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "impactTags": [
+        "water-consumption",
+        "environmental-review"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-05-22",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3120&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
+      "legiscanUrl": "https://legiscan.com/IL/bill/SB3120/2025",
+      "legiscanId": 2103969,
+      "sponsors": [
+        "Laura Murphy"
+      ]
+    },
+    {
+      "id": "il-hb5151",
+      "billCode": "HB5151",
+      "title": "AUTO LICENSE PLATE RECOGNITION",
+      "summary": "Illinois creates a comprehensive regulatory framework for automated license plate recognition systems used by law enforcement, establishing authorized uses, data retention limits, privacy protections, and penalties for misuse. The law includes a private right of action allowing individuals to sue for violations and requires transparency in how these systems collect and retain data.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "restrictive"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "data-privacy"
+      ],
+      "category": "ai-criminal-justice",
+      "updatedDate": "2026-04-17",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.ilga.gov/Legislation/BillStatus?DocNum=5151&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+      "legiscanUrl": "https://legiscan.com/IL/bill/HB5151/2025",
+      "legiscanId": 2108466,
+      "sponsors": [
+        "Nicolle Grasse",
+        "Curtis Tarver",
+        "Edgar Gonzalez",
+        "Theresa Mah"
       ]
     },
     {
       "id": "il-hb1860",
       "billCode": "HB1860",
       "title": "ELEC CD-DECEPTIVE MATERIAL",
-      "summary": "This Illinois bill bans distributing deceptive AI-generated or manipulated media about candidates within 90 days of an election when the intent is to deceive voters or harm a candidate's electoral prospects. Violators face penalties, though exceptions are included for certain types of content.",
+      "summary": "This Illinois bill bans the distribution of digitally manipulated or AI-generated media that falsely depicts a candidate within 90 days of an election, when done with intent to deceive voters or harm a candidate's reputation. Violators face penalties, with exceptions for satire and news reporting.",
       "stage": "Committee",
       "stance": "restrictive",
       "impactTags": [
         "deepfake-regulation"
       ],
       "category": "synthetic-media",
-      "updatedDate": "2025-01-29",
+      "updatedDate": "2026-03-27",
       "partyOrigin": "D",
       "sourceUrl": "https://www.ilga.gov/Legislation/BillStatus?DocNum=1860&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
       "legiscanUrl": "https://legiscan.com/IL/bill/HB1860/2025",
@@ -81,7 +390,7 @@
       "id": "il-hb3303",
       "billCode": "HB3303",
       "title": "ELEC CD-DECEPTIVE MATERIAL",
-      "summary": "This Illinois bill bans distributing deceptive AI-generated or manipulated media about candidates within 90 days of an election if it's intended to damage their reputation or mislead voters. Violators face penalties, with exceptions for satire and clearly labeled content.",
+      "summary": "This bill makes it illegal to distribute AI-generated or digitally manipulated media that falsely depicts a candidate within 90 days of an election if the intent is to damage their reputation or deceive voters. Violations carry penalties, with exceptions for clearly labeled satire or other protected uses.",
       "stage": "Committee",
       "stance": "restrictive",
       "dimensionStances": {
@@ -93,7 +402,7 @@
         "algorithmic-transparency"
       ],
       "category": "synthetic-media",
-      "updatedDate": "2025-02-06",
+      "updatedDate": "2026-03-27",
       "partyOrigin": "D",
       "sourceUrl": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3303&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
       "legiscanUrl": "https://legiscan.com/IL/bill/HB3303/2025",
@@ -103,10 +412,137 @@
       ]
     },
     {
+      "id": "il-hb3041",
+      "billCode": "HB3041",
+      "title": "DATA PRIVACY AND PROTECTION",
+      "summary": "This bill would require businesses that collect or use personal data to limit that collection to what is necessary, implement data protection policies, and give individuals rights over their own data. It includes special protections for children and minors and establishes enforcement mechanisms for violations.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "concerning"
+      },
+      "impactTags": [
+        "data-privacy",
+        "child-safety",
+        "algorithmic-transparency"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-03-27",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3041&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+      "legiscanUrl": "https://legiscan.com/IL/bill/HB3041/2025",
+      "legiscanId": 1959956,
+      "sponsors": [
+        "Abdelnasser Rashid"
+      ]
+    },
+    {
+      "id": "il-hb5221",
+      "billCode": "HB5221",
+      "title": "CONSUMER DATA PRIVACY ACT",
+      "summary": "This Illinois bill creates a comprehensive consumer data privacy law giving residents the right to opt out of targeted advertising, data sales, and automated profiling that affects their lives. It establishes rules for businesses handling personal data and imposes civil penalties for violations, taking effect in 2027.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "restrictive"
+      },
+      "impactTags": [
+        "data-privacy",
+        "algorithmic-transparency"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-03-27",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.ilga.gov/Legislation/BillStatus?DocNum=5221&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+      "legiscanUrl": "https://legiscan.com/IL/bill/HB5221/2025",
+      "legiscanId": 2109373,
+      "sponsors": [
+        "Edgar Gonzalez"
+      ]
+    },
+    {
+      "id": "il-hb5607",
+      "billCode": "HB5607",
+      "title": "ADVANCED TECHNOLOGY LEADERSHIP",
+      "summary": "Illinois requires large data centers starting in 2027 to generate or purchase and retire renewable energy certificates equal to specified percentages of their in-state electricity consumption, with hourly matching requirements. The state will monitor covered facilities and enforce compliance through mandatory renewable energy retirement.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "environmental": "favorable",
+        "energy": "concerning"
+      },
+      "impactTags": [
+        "renewable-energy",
+        "grid-capacity",
+        "carbon-emissions"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-03-27",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.ilga.gov/Legislation/BillStatus?DocNum=5607&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+      "legiscanUrl": "https://legiscan.com/IL/bill/HB5607/2025",
+      "legiscanId": 2111441,
+      "sponsors": [
+        "Jay Hoffman"
+      ]
+    },
+    {
+      "id": "il-hb5231",
+      "billCode": "HB5231",
+      "title": "VEH CD-ALPR",
+      "summary": "Illinois establishes procurement standards and strict operational rules for automatic license plate readers (ALPRs) used by law enforcement, requiring approval through state procurement, limiting use to criminal investigations and specific public safety scenarios, and mandating data purging within 21 days and comprehensive auditing and reporting. The bill advances regulation of biometric surveillance technology while allowing continued law enforcement deployment under defined constraints.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-workforce": "none"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "ai-in-employment"
+      ],
+      "category": "ai-criminal-justice",
+      "updatedDate": "2026-03-27",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.ilga.gov/Legislation/BillStatus?DocNum=5231&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+      "legiscanUrl": "https://legiscan.com/IL/bill/HB5231/2025",
+      "legiscanId": 2109452,
+      "sponsors": [
+        "Jaime Andrade"
+      ]
+    },
+    {
+      "id": "il-hb4809",
+      "billCode": "HB4809",
+      "title": "DATA BROKER REGISTER/DELETION",
+      "summary": "Illinois requires data brokers to register annually with the Attorney General and pay fees, with registration details made public. The state must also establish a centralized deletion mechanism by 2028 allowing consumers to request removal of their personal information from all registered data brokers in a single request.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "none",
+        "ai-consumer": "restrictive"
+      },
+      "impactTags": [
+        "data-privacy",
+        "algorithmic-transparency"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-02-06",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4809&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+      "legiscanUrl": "https://legiscan.com/IL/bill/HB4809/2025",
+      "legiscanId": 2103850,
+      "sponsors": [
+        "Kimberly Du Buclet"
+      ]
+    },
+    {
       "id": "il-sb3564",
       "billCode": "SB3564",
       "title": "POLICE-FACIAL RECOGNITION ACT",
-      "summary": "This Illinois bill sets rules for how police can use facial recognition technology, banning its use for real-time surveillance, politically motivated monitoring, or profiling based on race or protected characteristics. It also requires compliance audits, state reporting on accuracy, and standardized training for law enforcement agencies.",
+      "summary": "This Illinois bill regulates how law enforcement agencies can use facial recognition technology, prohibiting its use for real-time surveillance, monitoring constitutionally protected activities, or targeting people based on race, religion, or political beliefs. It also requires compliance audits, statewide policy training standards, and reporting on the accuracy and reliability of facial recognition systems used by police.",
       "stage": "Committee",
       "stance": "concerning",
       "dimensionStances": {
@@ -129,12 +565,63 @@
       ]
     },
     {
+      "id": "il-hb4319",
+      "billCode": "HB4319",
+      "title": "DATA CENTER-PROPERTY RTS",
+      "summary": "Illinois requires data centers to compensate nearby property owners (within 1,000 feet) for measurable harm including reduced property values, business losses, and operational impacts like noise and vibration. Property owners can sue for damages and attorney's fees if a data center causes documented harm.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "environmental": "review",
+        "community": "concerning",
+        "land-use": "concerning"
+      },
+      "impactTags": [
+        "noise-vibration",
+        "local-control",
+        "property-values",
+        "environmental-review"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-01-14",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4319&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+      "legiscanUrl": "https://legiscan.com/IL/bill/HB4319/2025",
+      "legiscanId": 2066750,
+      "sponsors": [
+        "Jed Davis"
+      ]
+    },
+    {
+      "id": "il-hb3312",
+      "billCode": "HB3312",
+      "title": "UTILITY DATA ACCESS ACT",
+      "summary": "This Illinois bill sets rules for how electric and gas utilities must store and share customer energy usage data, including how long records must be kept and how customers or authorized parties can request them. It establishes data retention timelines and access procedures but does not directly regulate AI systems or data centers.",
+      "stage": "Committee",
+      "stance": "review",
+      "impactTags": [
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2025-06-02",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3312&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+      "legiscanUrl": "https://legiscan.com/IL/bill/HB3312/2025",
+      "legiscanId": 1960897,
+      "sponsors": [
+        "Mary Canty",
+        "Kelly Cassidy",
+        "Will Guzzardi",
+        "Kevin Olickal"
+      ]
+    },
+    {
       "id": "il-sb2478",
       "billCode": "SB2478",
       "title": "UTILITY DATA ACCESS ACT",
-      "summary": "This bill requires Illinois utilities to store customer energy usage data for extended periods and share it securely with account holders or their designated third parties upon request. It establishes rules for how and when this data must be delivered, and includes protections for utilities against liability when data is misused after proper sharing.",
+      "summary": "This Illinois bill requires utilities to store customer energy usage data for up to 15 years and allow customers to share that data with third parties they designate. It sets rules for how utilities must securely deliver this data and limits utility liability when shared data is misused by others.",
       "stage": "Committee",
-      "stance": "review",
+      "stance": "concerning",
       "dimensionStances": {
         "ai-governance-dim": "none",
         "ai-consumer": "none"
@@ -144,7 +631,7 @@
         "algorithmic-transparency"
       ],
       "category": "data-privacy",
-      "updatedDate": "2025-02-07",
+      "updatedDate": "2025-06-02",
       "partyOrigin": "D",
       "sourceUrl": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2478&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
       "legiscanUrl": "https://legiscan.com/IL/bill/SB2478/2025",
@@ -154,139 +641,35 @@
       ]
     },
     {
-      "id": "il-sb3890",
-      "billCode": "SB3890",
-      "title": "CONSUMER DATA PRIVACY",
-      "summary": "This bill would require companies that handle large amounts of Illinois residents' personal data to give consumers rights to access, correct, and delete their information, and to know who their data has been shared with. It also requires data brokers to register with the state and creates a portal for consumers to request deletion of their data across all registered brokers.",
+      "id": "il-hb3574",
+      "billCode": "HB3574",
+      "title": "PROCUREMENT-DATA RESIDENCY",
+      "summary": "Illinois offers tax credits to state data procurement contracts that store data within the state, with higher credits for storage in designated qualified areas. The incentive aims to encourage in-state data infrastructure investment and localized data residency.",
       "stage": "Committee",
-      "stance": "concerning",
-      "dimensionStances": {
-        "ai-governance-dim": "review",
-        "ai-consumer": "concerning"
-      },
+      "stance": "favorable",
       "impactTags": [
-        "data-privacy",
-        "algorithmic-transparency"
+        "local-control",
+        "economic-development",
+        "tax-incentives"
       ],
-      "category": "data-privacy",
-      "updatedDate": "2026-02-06",
+      "category": "data-center-siting",
+      "updatedDate": "2025-06-02",
       "partyOrigin": "D",
-      "sourceUrl": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3890&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
-      "legiscanUrl": "https://legiscan.com/IL/bill/SB3890/2025",
-      "legiscanId": 2111124,
+      "sourceUrl": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3574&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+      "legiscanUrl": "https://legiscan.com/IL/bill/HB3574/2025",
+      "legiscanId": 1962524,
       "sponsors": [
-        "Rachel Ventura"
+        "Justin Slaughter",
+        "Marcus Evans",
+        "Michael Crawford",
+        "Jawaharial Williams"
       ]
     },
     {
-      "id": "il-hb3041",
-      "billCode": "HB3041",
-      "title": "DATA PRIVACY AND PROTECTION",
-      "summary": "This bill would create a comprehensive Illinois data privacy law requiring businesses to limit how they collect and use personal data, give individuals rights over their information, and apply special protections for children. Companies would need clear policies and face enforcement for violations.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "dimensionStances": {
-        "ai-governance-dim": "concerning",
-        "ai-consumer": "concerning"
-      },
-      "impactTags": [
-        "data-privacy",
-        "child-safety",
-        "algorithmic-transparency"
-      ],
-      "category": "data-privacy",
-      "updatedDate": "2025-02-06",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3041&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
-      "legiscanUrl": "https://legiscan.com/IL/bill/HB3041/2025",
-      "legiscanId": 1959956,
-      "sponsors": [
-        "Abdelnasser Rashid"
-      ]
-    },
-    {
-      "id": "il-sb2875",
-      "billCode": "SB2875",
-      "title": "CONSUMER DATA PRIVACY",
-      "summary": "This bill would create a comprehensive data privacy law in Illinois, giving consumers rights to access, correct, and understand how their personal data is used by businesses. It applies to companies handling data of 100,000 or more Illinois residents or those that earn significant revenue from selling personal data, with enforcement by the Attorney General.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "dimensionStances": {
-        "ai-governance-dim": "concerning",
-        "ai-consumer": "concerning"
-      },
-      "impactTags": [
-        "data-privacy",
-        "algorithmic-transparency"
-      ],
-      "category": "data-privacy",
-      "updatedDate": "2026-01-16",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2875&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
-      "legiscanUrl": "https://legiscan.com/IL/bill/SB2875/2025",
-      "legiscanId": 2084089,
-      "sponsors": [
-        "Laura Murphy"
-      ]
-    },
-    {
-      "id": "il-hb3494",
-      "billCode": "HB3494",
-      "title": "HEALTH DATA PRIVACY ACT",
-      "summary": "This Illinois bill requires companies that handle personal health data to clearly disclose their privacy practices, get explicit consent before collecting or selling health data, and give individuals the right to delete their data or withdraw consent. It also bans discriminatory treatment of people who refuse to share their health data and restricts location-based targeting near health facilities.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "dimensionStances": {
-        "ai-consumer": "concerning",
-        "ai-public": "none"
-      },
-      "impactTags": [
-        "data-privacy",
-        "ai-in-healthcare"
-      ],
-      "category": "data-privacy",
-      "updatedDate": "2025-02-07",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3494&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
-      "legiscanUrl": "https://legiscan.com/IL/bill/HB3494/2025",
-      "legiscanId": 1961946,
-      "sponsors": [
-        "Mary Canty",
-        "Ann Williams",
-        "Anne Stava-Murray",
-        "Kelly Cassidy"
-      ]
-    },
-    {
-      "id": "il-sb2273",
-      "billCode": "SB2273",
-      "title": "HEALTH DATA PRIVACY ACT",
-      "summary": "This Illinois bill requires companies that handle personal health data to disclose their privacy practices, get explicit consent before collecting or selling health information, and give individuals the right to delete their data. It also bans discriminatory practices against people who refuse to share their health data and places strict rules on geofencing near health facilities.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "dimensionStances": {
-        "ai-consumer": "concerning",
-        "ai-public": "concerning"
-      },
-      "impactTags": [
-        "data-privacy",
-        "ai-in-healthcare"
-      ],
-      "category": "data-privacy",
-      "updatedDate": "2025-02-07",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2273&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
-      "legiscanUrl": "https://legiscan.com/IL/bill/SB2273/2025",
-      "legiscanId": 1962238,
-      "sponsors": [
-        "Celina Villanueva"
-      ]
-    },
-    {
-      "id": "il-hb5221",
-      "billCode": "HB5221",
-      "title": "CONSUMER DATA PRIVACY ACT",
-      "summary": "This Illinois bill creates a comprehensive consumer data privacy law giving residents the right to opt out of targeted advertising, data sales, and automated profiling that affects their lives. It establishes rules for businesses handling personal data and imposes civil penalties for violations, taking effect in 2027.",
+      "id": "il-sb0050",
+      "billCode": "SB0050",
+      "title": "AGE-APPROPRIATE DESIGN CODE",
+      "summary": "Illinois requires companies processing children's data to follow child-protective design standards and conduct data protection impact assessments. The law establishes enforcement mechanisms and penalties for violations.",
       "stage": "Committee",
       "stance": "concerning",
       "dimensionStances": {
@@ -295,16 +678,43 @@
       },
       "impactTags": [
         "data-privacy",
+        "child-safety",
         "algorithmic-transparency"
       ],
       "category": "data-privacy",
-      "updatedDate": "2026-02-05",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.ilga.gov/Legislation/BillStatus?DocNum=5221&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
-      "legiscanUrl": "https://legiscan.com/IL/bill/HB5221/2025",
-      "legiscanId": 2109373,
+      "updatedDate": "2025-04-11",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.ilga.gov/Legislation/BillStatus?DocNum=50&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
+      "legiscanUrl": "https://legiscan.com/IL/bill/SB0050/2025",
+      "legiscanId": 1916451,
       "sponsors": [
-        "Edgar Gonzalez"
+        "Susan Rezin",
+        "Mary Edly-Allen"
+      ]
+    },
+    {
+      "id": "il-hb2913",
+      "billCode": "HB2913",
+      "title": "DATA BROKER REGISTER/DELETION",
+      "summary": "Illinois requires data brokers to register annually with the state Attorney General and establishes a centralized deletion mechanism allowing consumers to request removal of their personal information from all registered data brokers. The law includes civil penalties for non-compliance and creates a public registry of data broker operations.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "none",
+        "ai-consumer": "restrictive"
+      },
+      "impactTags": [
+        "data-privacy",
+        "algorithmic-transparency"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2025-03-21",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2913&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+      "legiscanUrl": "https://legiscan.com/IL/bill/HB2913/2025",
+      "legiscanId": 1958100,
+      "sponsors": [
+        "Daniel Didech"
       ]
     }
   ]

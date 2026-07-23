@@ -2,38 +2,17 @@
   "state": "Oregon",
   "stateCode": "OR",
   "region": "na",
-  "stance": "review",
-  "stanceDatacenter": "review",
-  "stanceAI": "review",
-  "lastUpdated": "2026-04-14",
-  "contextBlurb": "Oregon quietly cut data centers out of its enterprise-zone tax break this session, one of the only states to roll back incentives for the industry. It also enacted a law requiring AI-companion operators to disclose that users aren't talking to a human and to maintain safety protocols for self-harm content.",
+  "stance": "restrictive",
+  "stanceDatacenter": "concerning",
+  "stanceAI": "restrictive",
+  "lastUpdated": "2026-07-22",
+  "contextBlurb": "Oregon is advancing regulation on data centers and leaning restrictive on AI. On data centers: HB4084 (enacted) — Creates a fast-track permitting program for economic development projects while specifically restricting data centers from using the state's enterprise zone tax incentive program. On AI: SB1516 (enacted) — Oregon restricts law enforcement's use of automated license plate recognition (ALPR) systems to specific authorized purposes and limits data retention to 30 days unless needed for active investigat…",
   "legislation": [
-    {
-      "id": "or-hb4053",
-      "billCode": "HB4053",
-      "title": "Relating to emergency medical services; and prescribing an effective date.",
-      "summary": "This bill reorganizes Oregon's emergency medical services system by creating a new fund, renaming a committee, and setting education requirements for EMS providers. It has no connection to AI or data-center policy.",
-      "stage": "Enacted",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2026-04-06",
-      "partyOrigin": "D",
-      "sourceUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4053",
-      "legiscanUrl": "https://legiscan.com/OR/bill/HB4053/2026",
-      "legiscanId": 2101459,
-      "sponsors": [
-        "Dacia Grayber",
-        "Tom Andersen",
-        "Ben Bowman",
-        "Paul Evans"
-      ]
-    },
     {
       "id": "or-sb1546",
       "billCode": "SB1546",
       "title": "Relating to artificial intelligence companions.",
-      "summary": "This bill requires companies that operate AI companion software to clearly disclose to users that they are interacting with AI and not a human, and to have safety protocols in place to detect and prevent content that could encourage suicidal or self-harm thoughts. It also includes special protections for minors and mandates annual public reports on safety referrals.",
+      "summary": "This bill requires companies that operate AI companion apps to clearly disclose to users that they are interacting with software, not a real person, and to have safety protocols in place to detect and prevent content that could encourage suicidal or self-harm thoughts. It also includes special protections for minors and requires annual public reporting on crisis referrals.",
       "stage": "Enacted",
       "stance": "concerning",
       "dimensionStances": {
@@ -54,25 +33,56 @@
       "sponsors": []
     },
     {
-      "id": "or-hb4039",
-      "billCode": "HB4039",
-      "title": "Relating to medical assistance; and declaring an emergency.",
-      "summary": "This Oregon bill changes how the state sets payment rates for coordinated care organizations under Medicaid and adds public review steps before new rules are adopted. It has no relevance to AI or data-center policy.",
+      "id": "or-hb4084",
+      "billCode": "HB4084",
+      "title": "Relating to economic development; and prescribing an effective date.",
+      "summary": "This Oregon bill creates a fast-track permitting program for economic development projects while specifically restricting data centers from using the state's enterprise zone tax incentive program. It also adjusts job-creation tax credits and requires state agencies to catalog available permits.",
       "stage": "Enacted",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-healthcare",
+      "stance": "concerning",
+      "dimensionStances": {
+        "community": "concerning",
+        "land-use": "concerning"
+      },
+      "impactTags": [
+        "tax-incentives",
+        "economic-development",
+        "local-zoning",
+        "job-creation"
+      ],
+      "category": "data-center-siting",
       "updatedDate": "2026-04-06",
-      "sourceUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4039",
-      "legiscanUrl": "https://legiscan.com/OR/bill/HB4039/2026",
-      "legiscanId": 2101136,
+      "sourceUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4084",
+      "legiscanUrl": "https://legiscan.com/OR/bill/HB4084/2026",
+      "legiscanId": 2101284,
+      "sponsors": []
+    },
+    {
+      "id": "or-sb1516",
+      "billCode": "SB1516",
+      "title": "Relating to public safety; and declaring an emergency.",
+      "summary": "Oregon restricts law enforcement's use of automated license plate recognition (ALPR) systems to specific authorized purposes and limits data retention to 30 days unless needed for active investigations. The bill also allows private citizens to sue ALPR vendors for misuse or improper disclosure of collected data.",
+      "stage": "Enacted",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "restrictive"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "data-privacy"
+      ],
+      "category": "ai-criminal-justice",
+      "updatedDate": "2026-04-06",
+      "sourceUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1516",
+      "legiscanUrl": "https://legiscan.com/OR/bill/SB1516/2026",
+      "legiscanId": 2101395,
       "sponsors": []
     },
     {
       "id": "or-hb4103",
       "billCode": "HB4103",
       "title": "Relating to artificial intelligence.",
-      "summary": "Oregon is creating a state commission on artificial intelligence to monitor how AI is used in government and advise lawmakers on policy. The state will also hire a dedicated officer to develop a strategic vision for privacy, data protection, and AI.",
+      "summary": "Oregon is establishing a state commission on artificial intelligence to monitor how AI is used across the state and report on long-term policy implications. The state will also hire an official to develop a strategic vision for privacy, data protection, and AI.",
       "stage": "Dead",
       "stance": "review",
       "dimensionStances": {
@@ -98,150 +108,71 @@
       ]
     },
     {
-      "id": "or-hb4036",
-      "billCode": "HB4036",
-      "title": "Relating to affordable housing; and declaring an emergency.",
-      "summary": "This bill creates a housing bond fund to preserve affordable housing and requires a state agency to report on housing barriers. It has no connection to AI or data-center policy.",
-      "stage": "Enacted",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2026-04-07",
-      "sourceUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4036",
-      "legiscanUrl": "https://legiscan.com/OR/bill/HB4036/2026",
-      "legiscanId": 2101244,
-      "sponsors": []
-    },
-    {
-      "id": "or-hb4070",
-      "billCode": "HB4070",
-      "title": "Relating to health care; and prescribing an effective date.",
-      "summary": "This Oregon bill makes changes to mental health and substance use disorder treatment rules, telehealth reimbursement, and coordinated care organization oversight. It is not related to AI or data-center policy.",
-      "stage": "Enacted",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-healthcare",
-      "updatedDate": "2026-04-06",
-      "sourceUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4070",
-      "legiscanUrl": "https://legiscan.com/OR/bill/HB4070/2026",
-      "legiscanId": 2101624,
-      "sponsors": []
-    },
-    {
-      "id": "or-sb1501",
-      "billCode": "SB1501",
-      "title": "Relating to the Moda Center; and declaring an emergency.",
-      "summary": "This bill authorizes Oregon's Department of Administrative Services to own and operate the Moda Center arena in Portland, funded by a dedicated tax revenue fund. It has no connection to AI or data-center policy.",
-      "stage": "Enacted",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2026-04-06",
-      "partyOrigin": "D",
-      "sourceUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1501",
-      "legiscanUrl": "https://legiscan.com/OR/bill/SB1501/2026",
-      "legiscanId": 2111803,
-      "sponsors": [
-        "Rob Wagner",
-        "Lew Frederick",
-        "Katherine Lieber",
-        "Ben Bowman"
-      ]
-    },
-    {
-      "id": "or-hb4156",
-      "billCode": "HB4156",
-      "title": "Relating to medical assistance reimbursement of emergency medical services; and declaring an emergency.",
-      "summary": "This bill adjusts how Medicaid pays emergency medical services providers for certain services. It has no connection to AI or data-center policy.",
-      "stage": "Enacted",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-healthcare",
-      "updatedDate": "2026-04-06",
-      "partyOrigin": "B",
-      "sourceUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4156",
-      "legiscanUrl": "https://legiscan.com/OR/bill/HB4156/2026",
-      "legiscanId": 2101412,
-      "sponsors": [
-        "Gregory Smith",
-        "Dacia Grayber",
-        "Vikki Breese-Iverson",
-        "Lew Frederick"
-      ]
-    },
-    {
-      "id": "or-sb5701",
-      "billCode": "SB5701",
-      "title": "Relating to state financial administration; and declaring an emergency.",
-      "summary": "This Oregon bill adjusts state borrowing authority and bond issuance for various public projects including a sports arena and a university recreation center. It has no relevance to AI regulation or data-center policy.",
-      "stage": "Enacted",
-      "stance": "none",
-      "impactTags": [],
-      "category": "data-center-siting",
-      "updatedDate": "2026-04-07",
-      "sourceUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB5701",
-      "legiscanUrl": "https://legiscan.com/OR/bill/SB5701/2026",
-      "legiscanId": 2111541,
-      "sponsors": [
-        "Ways and Means"
-      ]
-    },
-    {
-      "id": "or-hb4003",
-      "billCode": "HB4003",
-      "title": "Relating to medical assistance; declaring an emergency.",
-      "summary": "This bill changes how Oregon determines which health services are covered under Medicaid by requiring the Oregon Health Authority to define medical necessity and having the Health Evidence Review Commission develop coverage policies. It has no substantive connection to AI or data-center policy.",
+      "id": "or-hb4054",
+      "billCode": "HB4054",
+      "title": "Relating to downcoding.",
+      "summary": "Oregon requires health insurers to notify healthcare providers when they use AI to downcode insurance claims and to provide an appeals process for automated downcoding decisions. This adds transparency and recourse requirements around automated healthcare reimbursement decisions.",
       "stage": "Dead",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-healthcare",
-      "updatedDate": "2026-03-06",
-      "partyOrigin": "D",
-      "sourceUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4003",
-      "legiscanUrl": "https://legiscan.com/OR/bill/HB4003/2026",
-      "legiscanId": 2101076,
-      "sponsors": [
-        "Robert Nosse"
-      ]
-    },
-    {
-      "id": "or-hb4084",
-      "billCode": "HB4084",
-      "title": "Relating to economic development; and prescribing an effective date.",
-      "summary": "This Oregon bill creates a fast-track permitting program for economic development projects while specifically restricting data centers from using the state's enterprise zone tax incentive program. It also adjusts job-creation tax credits and requires state agencies to publish lists of available permits.",
-      "stage": "Enacted",
       "stance": "concerning",
       "dimensionStances": {
-        "community": "concerning",
-        "land-use": "concerning"
+        "ai-governance-dim": "concerning",
+        "ai-public": "concerning"
       },
       "impactTags": [
-        "tax-incentives",
-        "economic-development",
-        "local-zoning",
-        "job-creation"
+        "ai-in-healthcare",
+        "algorithmic-transparency"
       ],
-      "category": "data-center-siting",
-      "updatedDate": "2026-04-06",
-      "sourceUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4084",
-      "legiscanUrl": "https://legiscan.com/OR/bill/HB4084/2026",
-      "legiscanId": 2101284,
+      "category": "ai-healthcare",
+      "updatedDate": "2026-03-06",
+      "sourceUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4054",
+      "legiscanUrl": "https://legiscan.com/OR/bill/HB4054/2026",
+      "legiscanId": 2101591,
       "sponsors": []
     },
     {
-      "id": "or-hb4066",
-      "billCode": "HB4066",
-      "title": "Relating to education; and declaring an emergency.",
-      "summary": "This bill makes various administrative changes to Oregon's education laws, including rules about school board stipends, university governance, and farmworker labor studies. It has no relevance to AI policy or data-center regulation.",
-      "stage": "Enacted",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-education",
-      "updatedDate": "2026-04-06",
-      "sourceUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4066",
-      "legiscanUrl": "https://legiscan.com/OR/bill/HB4066/2026",
-      "legiscanId": 2101081,
+      "id": "or-hb4055",
+      "billCode": "HB4055",
+      "title": "Relating to information security; declaring an emergency.",
+      "summary": "Oregon requires local government bodies to report information security and ransomware incidents to the state within 48 hours and mandates creation of a secure reporting system and annual reporting on incidents. The bill establishes data collection and oversight mechanisms for public sector cybersecurity without imposing operational restrictions.",
+      "stage": "Dead",
+      "stance": "review",
+      "impactTags": [
+        "data-privacy"
+      ],
+      "category": "ai-government",
+      "updatedDate": "2026-03-06",
+      "sourceUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4055",
+      "legiscanUrl": "https://legiscan.com/OR/bill/HB4055/2026",
+      "legiscanId": 2101384,
       "sponsors": []
+    },
+    {
+      "id": "or-sb1586",
+      "billCode": "SB1586",
+      "title": "Relating to economic development; prescribing an effective date.",
+      "summary": "Oregon creates tax breaks and streamlined permitting for advanced manufacturing and semiconductor research, including zoning changes to allow high-tech industrial sites in rural areas. The legislation aims to accelerate permit processing and attract technology manufacturing investment to the state.",
+      "stage": "Dead",
+      "stance": "favorable",
+      "dimensionStances": {
+        "community": "favorable",
+        "land-use": "favorable"
+      },
+      "impactTags": [
+        "economic-development",
+        "local-zoning"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-03-06",
+      "partyOrigin": "B",
+      "sourceUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1586",
+      "legiscanUrl": "https://legiscan.com/OR/bill/SB1586/2026",
+      "legiscanId": 2101030,
+      "sponsors": [
+        "Janeen Sollman",
+        "Mark Meek",
+        "Anthony Broadman",
+        "Richard Anderson"
+      ]
     }
   ]
 }

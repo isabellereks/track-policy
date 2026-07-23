@@ -5,171 +5,37 @@
   "stance": "concerning",
   "stanceDatacenter": "concerning",
   "stanceAI": "concerning",
-  "lastUpdated": "2026-04-14",
-  "contextBlurb": "Wisconsin has no significant AI or data-center legislation on the books.",
+  "lastUpdated": "2026-07-22",
+  "contextBlurb": "",
   "legislation": [
+    {
+      "id": "wi-ab415",
+      "billCode": "AB415",
+      "title": "Use restrictions on state and local government electronic devices.",
+      "summary": "This bill creates statutory provisions governing how state and local government agencies can use electronic devices, likely including restrictions on AI-powered tools or surveillance capabilities in public sector operations. The measure appears exploratory in establishing oversight frameworks rather than implementing hard prohibitions.",
+      "stage": "Dead",
+      "stance": "review",
+      "impactTags": [
+        "algorithmic-transparency"
+      ],
+      "category": "ai-government",
+      "updatedDate": "2026-05-13",
+      "partyOrigin": "R",
+      "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab415",
+      "legiscanUrl": "https://legiscan.com/WI/bill/AB415/2025",
+      "legiscanId": 2044087,
+      "sponsors": [
+        "Dan Knodl",
+        "Nate Gustafson",
+        "Barbara Dittrich",
+        "Cindi Duchow"
+      ]
+    },
     {
       "id": "wi-ab722",
       "billCode": "AB722",
       "title": "Large energy customer fees; electric utility very large customer class; a renewable resource tariff; building requirements for data centers; water usage by large customers; required pay rate on large-scale data center projects; and granting rule-making authority. (FE)",
-      "summary": "An Act to amend 16.957 (2) (d) 3., 25.96 and 238.40 (2) (b); to create 16.296, 16.957 (2) (a) 5., 20.505 (1) (gj), 66.0443, 101.028, 103.08, 196.03 (7), 196.03 (8), 196.493, 196.498, 238.40 (1) (am) and 238.40 (1) (b) 3. of the statutes; Relating to: large energy customer fees...",
-      "stage": "Dead",
-      "stance": "review",
-      "impactTags": [
-        "renewable-energy",
-        "energy-rates"
-      ],
-      "category": "ai-governance",
-      "updatedDate": "2026-03-23",
-      "partyOrigin": "D",
-      "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab722",
-      "legiscanUrl": "https://legiscan.com/WI/bill/AB722/2025",
-      "legiscanId": 2056344,
-      "sponsors": [
-        "Angela Stroud",
-        "Vinnie Miresse",
-        "Lori Palmeri",
-        "Mike Bare"
-      ]
-    },
-    {
-      "id": "wi-ab959",
-      "billCode": "AB959",
-      "title": "The legal status of artificial intelligence.",
-      "summary": "This bill defines the legal status of artificial intelligence in Wisconsin, establishing rules about how AI systems are recognized and treated under state law. It creates a new section of statutes specifically addressing AI's legal standing, which could affect how AI-related responsibilities and liabilities are assigned.",
-      "stage": "Dead",
-      "stance": "concerning",
-      "impactTags": [
-        "algorithmic-transparency",
-        "ai-safety"
-      ],
-      "category": "ai-governance",
-      "updatedDate": "2026-03-23",
-      "partyOrigin": "R",
-      "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab959",
-      "legiscanUrl": "https://legiscan.com/WI/bill/AB959/2025",
-      "legiscanId": 2102037,
-      "sponsors": [
-        "Lindee Brill",
-        "Barbara Dittrich",
-        "David Armstrong",
-        "Elijah Behnke"
-      ]
-    },
-    {
-      "id": "wi-sb932",
-      "billCode": "SB932",
-      "title": "The legal status of artificial intelligence.",
-      "summary": "This bill defines the legal status of artificial intelligence under Wisconsin law, establishing how AI systems are recognized and treated legally. It creates new statutes governing AI's role and responsibilities, which could significantly affect how AI is developed and deployed in the state.",
-      "stage": "Dead",
-      "stance": "concerning",
-      "impactTags": [
-        "algorithmic-transparency",
-        "ai-safety"
-      ],
-      "category": "ai-governance",
-      "updatedDate": "2026-03-23",
-      "partyOrigin": "B",
-      "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb932",
-      "legiscanUrl": "https://legiscan.com/WI/bill/SB932/2025",
-      "legiscanId": 2110862,
-      "sponsors": [
-        "Andre Jacque",
-        "Romaine Quinn",
-        "Mark Spreitzer",
-        "Lindee Brill"
-      ]
-    },
-    {
-      "id": "wi-sb815",
-      "billCode": "SB815",
-      "title": "Synthetic digital representations and providing a penalty.",
-      "summary": "This Wisconsin bill creates new legal penalties for the unauthorized creation or use of synthetic digital representations \u2014 such as AI-generated likenesses or voice clones \u2014 of real people. It amends existing privacy and racketeering statutes to cover these digital replicas and establishes criminal consequences for violations.",
-      "stage": "Dead",
-      "stance": "restrictive",
-      "dimensionStances": {
-        "ai-consumer": "concerning",
-        "ai-synthetic": "restrictive"
-      },
-      "impactTags": [
-        "deepfake-regulation",
-        "child-safety",
-        "data-privacy"
-      ],
-      "category": "synthetic-media",
-      "updatedDate": "2026-03-23",
-      "partyOrigin": "D",
-      "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb815",
-      "legiscanUrl": "https://legiscan.com/WI/bill/SB815/2025",
-      "legiscanId": 2078484,
-      "sponsors": [
-        "Sarah Keyeski",
-        "Kristin Dassler-Alfheim",
-        "Jodi Habush Sinykin",
-        "Jamie Wall"
-      ]
-    },
-    {
-      "id": "wi-ab855",
-      "billCode": "AB855",
-      "title": "Synthetic digital representations and providing a penalty.",
-      "summary": "This Wisconsin bill creates new rules and penalties around synthetic digital representations \u2014 AI-generated or manipulated images, audio, or video of real people. It adds these protections to existing privacy and crime statutes, making unauthorized use of someone's synthetic likeness a punishable offense.",
-      "stage": "Dead",
-      "stance": "restrictive",
-      "dimensionStances": {
-        "ai-consumer": "concerning",
-        "ai-synthetic": "restrictive"
-      },
-      "impactTags": [
-        "deepfake-regulation",
-        "data-privacy"
-      ],
-      "category": "synthetic-media",
-      "updatedDate": "2026-03-23",
-      "partyOrigin": "D",
-      "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab855",
-      "legiscanUrl": "https://legiscan.com/WI/bill/AB855/2025",
-      "legiscanId": 2084466,
-      "sponsors": [
-        "Jenna Jacobson",
-        "Maureen McCarville",
-        "Karen DeSanto",
-        "Christine Sinicki"
-      ]
-    },
-    {
-      "id": "wi-ab575",
-      "billCode": "AB575",
-      "title": "Prohibiting state agencies and local governmental units from using facial recognition technology or data generated from it.",
-      "summary": "This bill bans Wisconsin state agencies and local governments from using facial recognition technology or any data it produces. It is a broad prohibition that applies across all government uses, not just law enforcement.",
-      "stage": "Dead",
-      "stance": "restrictive",
-      "dimensionStances": {
-        "ai-governance-dim": "restrictive",
-        "ai-consumer": "restrictive"
-      },
-      "impactTags": [
-        "algorithmic-transparency",
-        "data-privacy"
-      ],
-      "category": "ai-criminal-justice",
-      "updatedDate": "2026-03-23",
-      "partyOrigin": "D",
-      "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab575",
-      "legiscanUrl": "https://legiscan.com/WI/bill/AB575/2025",
-      "legiscanId": 2047404,
-      "sponsors": [
-        "Ryan Clancy",
-        "Angelito Tenorio",
-        "Supreme Omokunde",
-        "Angelina Cruz"
-      ]
-    },
-    {
-      "id": "wi-sb729",
-      "billCode": "SB729",
-      "title": "Large energy customer fees; electric utility very large customer class; a renewable resource tariff; building requirements for data centers; water usage by large customers; required pay rate on large-scale data center projects; and granting rule-making authority. (FE)",
-      "summary": "This Wisconsin bill imposes new fees on large energy customers, creates a special utility rate class for very large users like data centers, establishes renewable energy tariff requirements, sets building standards for data centers, regulates their water usage, and requires prevailing wage pay rates on large-scale data center construction projects. It places significant new regulatory and financial obligations on data center operators in the state.",
+      "summary": "This Wisconsin bill imposes new fees on large energy customers like data centers, creates a special utility rate class for very large customers, establishes renewable energy tariff requirements, sets building standards for data centers, regulates their water usage, and requires prevailing wage pay rates on large-scale data center construction projects. It places significant new regulatory and financial obligations on data center operators in the state.",
       "stage": "Dead",
       "stance": "concerning",
       "dimensionStances": {
@@ -184,7 +50,38 @@
         "water-infrastructure"
       ],
       "category": "data-center-energy",
-      "updatedDate": "2026-03-23",
+      "updatedDate": "2026-04-06",
+      "partyOrigin": "D",
+      "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab722",
+      "legiscanUrl": "https://legiscan.com/WI/bill/AB722/2025",
+      "legiscanId": 2056344,
+      "sponsors": [
+        "Angela Stroud",
+        "Vinnie Miresse",
+        "Lori Palmeri",
+        "Mike Bare"
+      ]
+    },
+    {
+      "id": "wi-sb729",
+      "billCode": "SB729",
+      "title": "Large energy customer fees; electric utility very large customer class; a renewable resource tariff; building requirements for data centers; water usage by large customers; required pay rate on large-scale data center projects; and granting rule-making authority. (FE)",
+      "summary": "This Wisconsin bill establishes new fees for large energy customers, creates a special utility rate class for very large customers like data centers, requires renewable energy options, sets building standards for data centers, regulates their water usage, and mandates prevailing wage rates on large data center construction projects. It imposes a broad set of regulatory requirements on data centers covering energy, water, and labor standards.",
+      "stage": "Dead",
+      "stance": "concerning",
+      "dimensionStances": {
+        "environmental": "concerning",
+        "energy": "concerning"
+      },
+      "impactTags": [
+        "grid-capacity",
+        "energy-rates",
+        "water-consumption",
+        "renewable-energy",
+        "water-infrastructure"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-04-06",
       "partyOrigin": "D",
       "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb729",
       "legiscanUrl": "https://legiscan.com/WI/bill/SB729/2025",
@@ -197,10 +94,34 @@
       ]
     },
     {
+      "id": "wi-ab1155",
+      "billCode": "AB1155",
+      "title": "Protection of pregnant individuals’ information, authorization for disclosure, data breach, and providing a penalty.",
+      "summary": "This bill creates statutory protections for pregnant individuals' personal health information, requiring authorization before disclosure and establishing penalties for data breaches involving pregnancy-related data. It aims to safeguard sensitive reproductive health information from unauthorized access and use.",
+      "stage": "Dead",
+      "stance": "concerning",
+      "impactTags": [
+        "data-privacy",
+        "child-safety"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-03-30",
+      "partyOrigin": "D",
+      "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1155",
+      "legiscanUrl": "https://legiscan.com/WI/bill/AB1155/2025",
+      "legiscanId": 2133691,
+      "sponsors": [
+        "Lisa Subeck",
+        "Clinton Anderson",
+        "Margaret Arney",
+        "Alex Joers"
+      ]
+    },
+    {
       "id": "wi-sb1061",
       "billCode": "SB1061",
       "title": "Moratorium on data centers.",
-      "summary": "This bill places a moratorium on data centers in Wisconsin, temporarily halting new data center construction or establishment. It is a direct ban that restricts where and whether data centers can be built in the state.",
+      "summary": "This bill places a moratorium on data centers in Wisconsin, temporarily halting new construction or establishment of data center facilities. It creates a legal pause on data center development while the state presumably evaluates related concerns.",
       "stage": "Dead",
       "stance": "restrictive",
       "dimensionStances": {
@@ -228,7 +149,7 @@
       "id": "wi-ab1099",
       "billCode": "AB1099",
       "title": "Moratorium on data centers.",
-      "summary": "This bill establishes a moratorium on data centers in Wisconsin, temporarily halting new data center construction or operations. It directly restricts where and whether data centers can be built in the state.",
+      "summary": "This bill places a moratorium on data centers in Wisconsin, temporarily halting their construction or establishment. It represents a direct prohibition on new data center development in the state.",
       "stage": "Dead",
       "stance": "restrictive",
       "dimensionStances": {
@@ -253,10 +174,142 @@
       ]
     },
     {
+      "id": "wi-ab959",
+      "billCode": "AB959",
+      "title": "The legal status of artificial intelligence.",
+      "summary": "This Wisconsin bill establishes the legal status of artificial intelligence systems, clarifying how AI fits into existing law. It creates a new statute defining the rights, responsibilities, and legal standing of AI, which could impose significant regulatory requirements on AI developers and users.",
+      "stage": "Dead",
+      "stance": "concerning",
+      "impactTags": [
+        "algorithmic-transparency",
+        "ai-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-23",
+      "partyOrigin": "R",
+      "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab959",
+      "legiscanUrl": "https://legiscan.com/WI/bill/AB959/2025",
+      "legiscanId": 2102037,
+      "sponsors": [
+        "Lindee Brill",
+        "Barbara Dittrich",
+        "David Armstrong",
+        "Elijah Behnke"
+      ]
+    },
+    {
+      "id": "wi-sb932",
+      "billCode": "SB932",
+      "title": "The legal status of artificial intelligence.",
+      "summary": "This bill establishes the legal status of artificial intelligence under Wisconsin law, defining how AI systems are recognized and treated legally. It likely sets boundaries on AI's rights, liabilities, or legal personhood to clarify accountability in AI-related matters.",
+      "stage": "Dead",
+      "stance": "concerning",
+      "impactTags": [
+        "algorithmic-transparency",
+        "ai-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-23",
+      "partyOrigin": "B",
+      "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb932",
+      "legiscanUrl": "https://legiscan.com/WI/bill/SB932/2025",
+      "legiscanId": 2110862,
+      "sponsors": [
+        "Andre Jacque",
+        "Romaine Quinn",
+        "Mark Spreitzer",
+        "Lindee Brill"
+      ]
+    },
+    {
+      "id": "wi-sb815",
+      "billCode": "SB815",
+      "title": "Synthetic digital representations and providing a penalty.",
+      "summary": "This Wisconsin bill creates new rules and penalties around synthetic digital representations — AI-generated likenesses of real people. It establishes legal protections against the unauthorized creation or use of someone's digital replica and makes violations a punishable offense.",
+      "stage": "Dead",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-consumer": "concerning",
+        "ai-synthetic": "restrictive"
+      },
+      "impactTags": [
+        "deepfake-regulation",
+        "data-privacy"
+      ],
+      "category": "synthetic-media",
+      "updatedDate": "2026-03-23",
+      "partyOrigin": "D",
+      "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb815",
+      "legiscanUrl": "https://legiscan.com/WI/bill/SB815/2025",
+      "legiscanId": 2078484,
+      "sponsors": [
+        "Sarah Keyeski",
+        "Kristin Dassler-Alfheim",
+        "Jodi Habush Sinykin",
+        "Jamie Wall"
+      ]
+    },
+    {
+      "id": "wi-ab855",
+      "billCode": "AB855",
+      "title": "Synthetic digital representations and providing a penalty.",
+      "summary": "This Wisconsin bill creates new rules and penalties around synthetic digital representations, such as AI-generated images or audio that realistically depict real people without their consent. It amends existing privacy and crime laws to address the harms caused by these so-called deepfakes.",
+      "stage": "Dead",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-consumer": "concerning",
+        "ai-synthetic": "restrictive"
+      },
+      "impactTags": [
+        "deepfake-regulation",
+        "data-privacy"
+      ],
+      "category": "synthetic-media",
+      "updatedDate": "2026-03-23",
+      "partyOrigin": "D",
+      "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab855",
+      "legiscanUrl": "https://legiscan.com/WI/bill/AB855/2025",
+      "legiscanId": 2084466,
+      "sponsors": [
+        "Jenna Jacobson",
+        "Maureen McCarville",
+        "Karen DeSanto",
+        "Christine Sinicki"
+      ]
+    },
+    {
+      "id": "wi-ab575",
+      "billCode": "AB575",
+      "title": "Prohibiting state agencies and local governmental units from using facial recognition technology or data generated from it.",
+      "summary": "This bill bans Wisconsin state agencies and local governments from using facial recognition technology or any data it produces. It is an outright prohibition on government use of this surveillance tool.",
+      "stage": "Dead",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-governance-dim": "restrictive",
+        "ai-consumer": "restrictive"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "data-privacy"
+      ],
+      "category": "ai-criminal-justice",
+      "updatedDate": "2026-03-23",
+      "partyOrigin": "D",
+      "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab575",
+      "legiscanUrl": "https://legiscan.com/WI/bill/AB575/2025",
+      "legiscanId": 2047404,
+      "sponsors": [
+        "Ryan Clancy",
+        "Angelito Tenorio",
+        "Supreme Omokunde",
+        "Angelina Cruz"
+      ]
+    },
+    {
       "id": "wi-ab840",
       "billCode": "AB840",
       "title": "Certain requirements related to data centers.",
-      "summary": "This Wisconsin bill establishes new requirements for data centers, likely covering energy use, grid impact, and water consumption reporting or standards. It creates new statutory sections addressing utility and environmental oversight of data center operations.",
+      "summary": "This Wisconsin bill establishes new requirements for data centers, likely covering energy use, water consumption, and grid impact reporting or standards. It creates new statutory sections to regulate how data centers operate within the state's utility and environmental framework.",
       "stage": "Dead",
       "stance": "concerning",
       "dimensionStances": {
@@ -267,7 +320,7 @@
         "grid-capacity",
         "water-consumption",
         "environmental-review",
-        "energy-rates"
+        "carbon-emissions"
       ],
       "category": "data-center-energy",
       "updatedDate": "2026-03-23",
@@ -286,7 +339,7 @@
       "id": "wi-sb843",
       "billCode": "SB843",
       "title": "Certain requirements related to data centers.",
-      "summary": "This Wisconsin bill establishes specific requirements for data centers, likely covering energy use, grid impact, and water consumption reporting or standards. It creates new statutory provisions that impose obligations on data center operators related to utilities and environmental compliance.",
+      "summary": "This Wisconsin bill creates new rules that data centers must follow, likely covering energy use, water consumption, and environmental reporting requirements. It places regulatory obligations on data centers operating in the state through utility and environmental statutes.",
       "stage": "Dead",
       "stance": "concerning",
       "dimensionStances": {
@@ -294,10 +347,11 @@
         "energy": "concerning"
       },
       "impactTags": [
-        "grid-capacity",
         "water-consumption",
+        "carbon-emissions",
+        "grid-capacity",
         "environmental-review",
-        "energy-rates"
+        "renewable-energy"
       ],
       "category": "data-center-energy",
       "updatedDate": "2026-03-23",
@@ -316,7 +370,7 @@
       "id": "wi-sb969",
       "billCode": "SB969",
       "title": "Prohibiting nondisclosure agreements intended to conceal information about a data center from the public.",
-      "summary": "This Wisconsin bill would ban nondisclosure agreements that hide information about data centers from the public. It aims to ensure communities and local governments have access to details about data center projects in their area.",
+      "summary": "This bill bans the use of nondisclosure agreements that hide information about data centers from the public. It aims to ensure communities have access to details about data center projects that may affect them.",
       "stage": "Dead",
       "stance": "concerning",
       "impactTags": [
@@ -334,6 +388,252 @@
         "Steve Nass",
         "Clint Moses",
         "Barbara Dittrich"
+      ]
+    },
+    {
+      "id": "wi-ab1036",
+      "billCode": "AB1036",
+      "title": "Prohibiting nondisclosure agreements intended to conceal information about a data center from the public.",
+      "summary": "Wisconsin prohibits nondisclosure agreements that would conceal public information about data center projects from local communities. The law aims to increase transparency in data center siting and development discussions.",
+      "stage": "Dead",
+      "stance": "concerning",
+      "impactTags": [
+        "local-control",
+        "nda-transparency"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-03-23",
+      "partyOrigin": "R",
+      "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1036",
+      "legiscanUrl": "https://legiscan.com/WI/bill/AB1036/2025",
+      "legiscanId": 2116848,
+      "sponsors": [
+        "Clint Moses",
+        "Elijah Behnke",
+        "Barbara Dittrich",
+        "Dave Maxey"
+      ]
+    },
+    {
+      "id": "wi-ab228",
+      "billCode": "AB228",
+      "title": "Tax incremental financing districts containing qualified data centers. (FE)",
+      "summary": "This bill allows data centers to access tax incremental financing districts in Wisconsin, providing tax incentives to attract and support qualified data center development and operations.",
+      "stage": "Dead",
+      "stance": "favorable",
+      "impactTags": [
+        "tax-incentives",
+        "economic-development"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-03-23",
+      "partyOrigin": "R",
+      "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab228",
+      "legiscanUrl": "https://legiscan.com/WI/bill/AB228/2025",
+      "legiscanId": 2027050,
+      "sponsors": [
+        "Mark Born",
+        "Robert Brooks",
+        "Benjamin Franklin",
+        "Chanz Green"
+      ]
+    },
+    {
+      "id": "wi-sb241",
+      "billCode": "SB241",
+      "title": "Tax incremental financing districts containing qualified data centers. (FE)",
+      "summary": "This bill allows qualified data centers to be included in tax incremental financing districts, which provide tax breaks and local development funds. It aims to incentivize data-center construction and investment in Wisconsin.",
+      "stage": "Dead",
+      "stance": "favorable",
+      "impactTags": [
+        "tax-incentives",
+        "economic-development"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-03-23",
+      "partyOrigin": "R",
+      "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb241",
+      "legiscanUrl": "https://legiscan.com/WI/bill/SB241/2025",
+      "legiscanId": 2030003,
+      "sponsors": [
+        "John Jagler",
+        "Dan Feyen",
+        "Mark Born",
+        "Robert Brooks"
+      ]
+    },
+    {
+      "id": "wi-ab245",
+      "billCode": "AB245",
+      "title": "Modifying the sales and use tax exemption for qualified data centers. (FE)",
+      "summary": "This bill modifies Wisconsin's sales and use tax exemption for qualified data centers, adjusting the conditions and scope of tax breaks available to data center operators. The changes are designed to make the tax incentive more accessible or attractive to encourage data center investment in the state.",
+      "stage": "Dead",
+      "stance": "favorable",
+      "impactTags": [
+        "tax-incentives",
+        "economic-development"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-03-23",
+      "partyOrigin": "R",
+      "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab245",
+      "legiscanUrl": "https://legiscan.com/WI/bill/AB245/2025",
+      "legiscanId": 2028254,
+      "sponsors": [
+        "Shannon Zimmerman",
+        "Nate Gustafson",
+        "David Armstrong",
+        "Dan Knodl"
+      ]
+    },
+    {
+      "id": "wi-sb244",
+      "billCode": "SB244",
+      "title": "Modifying the sales and use tax exemption for qualified data centers. (FE)",
+      "summary": "This bill modifies Wisconsin's sales and use tax exemption for qualified data centers, adjusting the conditions and scope of the tax break to encourage data center investment and development in the state.",
+      "stage": "Dead",
+      "stance": "favorable",
+      "impactTags": [
+        "tax-incentives",
+        "economic-development"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-03-23",
+      "partyOrigin": "R",
+      "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb244",
+      "legiscanUrl": "https://legiscan.com/WI/bill/SB244/2025",
+      "legiscanId": 2030052,
+      "sponsors": [
+        "Romaine Quinn",
+        "Julian Bradley",
+        "Shannon Zimmerman",
+        "Nate Gustafson"
+      ]
+    },
+    {
+      "id": "wi-ab965",
+      "billCode": "AB965",
+      "title": "Artificial intelligence systems that simulate humanlike relationships with children and providing a penalty.",
+      "summary": "Wisconsin prohibits AI systems designed to simulate humanlike relationships with children, establishing penalties for violations. The law targets AI chatbots and similar systems that could manipulate or exploit minors through parasocial interactions.",
+      "stage": "Dead",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-governance-dim": "restrictive",
+        "ai-consumer": "restrictive"
+      },
+      "impactTags": [
+        "child-safety",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-23",
+      "partyOrigin": "R",
+      "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab965",
+      "legiscanUrl": "https://legiscan.com/WI/bill/AB965/2025",
+      "legiscanId": 2102068,
+      "sponsors": [
+        "Benjamin Franklin",
+        "Joy Goeben",
+        "David Armstrong",
+        "Elijah Behnke"
+      ]
+    },
+    {
+      "id": "wi-sb939",
+      "billCode": "SB939",
+      "title": "Artificial intelligence systems that simulate humanlike relationships with children and providing a penalty.",
+      "summary": "Wisconsin prohibits AI systems designed to simulate romantic or intimate humanlike relationships with children, establishing penalties for violations. The law targets AI applications that could manipulate minors through simulated emotional connections.",
+      "stage": "Dead",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-governance-dim": "restrictive",
+        "ai-consumer": "restrictive"
+      },
+      "impactTags": [
+        "child-safety",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-23",
+      "partyOrigin": "R",
+      "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb939",
+      "legiscanUrl": "https://legiscan.com/WI/bill/SB939/2025",
+      "legiscanId": 2111122,
+      "sponsors": [
+        "Andre Jacque",
+        "Romaine Quinn",
+        "Benjamin Franklin",
+        "Joy Goeben"
+      ]
+    },
+    {
+      "id": "wi-sb295",
+      "billCode": "SB295",
+      "title": "The use of artificial intelligence or other machine assisted translation in court proceedings and of telephone or live audiovisual interpretation in criminal trials. (FE)",
+      "summary": "Wisconsin proposes rules governing the use of AI and machine-assisted translation in court proceedings and criminal trials, including requirements around how these technologies are deployed and documented. The bill creates statutory frameworks for telephone and audiovisual interpretation alongside AI translation tools in judicial settings.",
+      "stage": "Dead",
+      "stance": "review",
+      "impactTags": [
+        "algorithmic-transparency"
+      ],
+      "category": "ai-government",
+      "updatedDate": "2026-03-23",
+      "partyOrigin": "R",
+      "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb295",
+      "legiscanUrl": "https://legiscan.com/WI/bill/SB295/2025",
+      "legiscanId": 2034598,
+      "sponsors": [
+        "Chris Kapenga",
+        "Julian Bradley",
+        "Dave Maxey",
+        "Joel Kitchens"
+      ]
+    },
+    {
+      "id": "wi-ab292",
+      "billCode": "AB292",
+      "title": "The use of artificial intelligence or other machine assisted translation in court proceedings and of telephone or live audiovisual interpretation in criminal trials. (FE)",
+      "summary": "Wisconsin would establish new rules governing the use of AI-powered machine translation and remote interpretation services in court proceedings and criminal trials. The bill creates statutory requirements for when and how these technologies can be used in the judicial system.",
+      "stage": "Dead",
+      "stance": "concerning",
+      "impactTags": [
+        "algorithmic-transparency"
+      ],
+      "category": "ai-government",
+      "updatedDate": "2026-03-23",
+      "partyOrigin": "R",
+      "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab292",
+      "legiscanUrl": "https://legiscan.com/WI/bill/AB292/2025",
+      "legiscanId": 2034722,
+      "sponsors": [
+        "Dave Maxey",
+        "Joel Kitchens",
+        "Scott Allen",
+        "David Armstrong"
+      ]
+    },
+    {
+      "id": "wi-sb1119",
+      "billCode": "SB1119",
+      "title": "Protection of pregnant individuals’ information, authorization for disclosure, data breach, and providing a penalty.",
+      "summary": "This bill creates new statutory protections for pregnant individuals' personal health information, requiring authorization before disclosure and establishing penalties for data breaches involving such sensitive data. It strengthens privacy safeguards around reproductive health information.",
+      "stage": "Dead",
+      "stance": "concerning",
+      "impactTags": [
+        "data-privacy",
+        "child-safety"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-03-23",
+      "partyOrigin": "D",
+      "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb1119",
+      "legiscanUrl": "https://legiscan.com/WI/bill/SB1119/2025",
+      "legiscanId": 2137063,
+      "sponsors": [
+        "LaTonya Johnson",
+        "Dianne Hesselbein",
+        "Christopher Larson",
+        "Melissa Ratcliff"
       ]
     }
   ]

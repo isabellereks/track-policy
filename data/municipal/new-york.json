@@ -1,83 +1,51 @@
 [
   {
-    "id": "new-york-state-legislature",
-    "name": "New York State (Albany)",
-    "fips": "36001",
+    "id": "tompkins-county-ny",
+    "name": "Tompkins County (Town of Dryden)",
+    "fips": "36109",
     "state": "New York",
     "stateCode": "NY",
     "type": "county",
     "actions": [
       {
-        "title": "Senate Bill S9144 – Statewide Data Center Permit Moratorium",
-        "date": "2026-02-06",
-        "status": "proposed",
-        "summary": "Senators Krueger and Gonzalez introduced S9144 to impose a minimum three-year moratorium on permits for new data centers using 20 MW or more, pending a generic environmental impact statement and Public Service Commission rate-impact review.",
-        "sourceUrl": "https://www.nysenate.gov/legislation/bills/2025/S9144"
-      },
-      {
-        "title": "Assembly Bill A10141 – Companion Data Center Moratorium Bill",
-        "date": "2026-02-09",
-        "status": "proposed",
-        "summary": "Assemblymember Kelles introduced A10141, the Assembly companion to S9144, halting data center permits for at least three years and directing the Public Service Commission to minimize utility rate impacts on residential and commercial customers.",
-        "sourceUrl": "https://legiscan.com/NY/text/A10141/2025"
-      },
-      {
-        "title": "RAISE Act – Responsible AI Safety and Education Act",
-        "date": "2025-12-19",
+        "title": "Town of Dryden 18-Month Data Center & Crypto Mining Moratorium",
+        "date": "2024-07-01",
         "status": "enacted",
-        "summary": "Governor Hochul signed the RAISE Act, imposing transparency, safety, and reporting requirements on developers of large frontier AI models operating in New York, with an effective date of March 19, 2026.",
-        "sourceUrl": "https://www.alstonprivacy.com/new-york-regulates-large-artificial-intelligence-models/"
+        "summary": "The Dryden Town Board adopted an 18-month moratorium on data center and cryptocurrency mine development in July 2024, triggered by an out-of-state developer's application to build near State Route 13.",
+        "sourceUrl": "https://ithacavoice.org/2026/02/the-town-of-dryden-just-banned-data-centers-heres-why/"
+      },
+      {
+        "title": "Town of Dryden Permanent Zoning Ban on Data Centers and Cryptocurrency Mines",
+        "date": "2026-02-19",
+        "status": "enacted",
+        "summary": "The Dryden Town Board unanimously amended the zoning code to define data centers and cryptocurrency mines as prohibited land uses in all zones, making Dryden the first town in New York State to ban data centers outright.",
+        "sourceUrl": "https://ithacavoice.org/2026/02/the-town-of-dryden-just-banned-data-centers-heres-why/"
+      },
+      {
+        "title": "Town of Danby Zoning Amendment Banning Data Centers",
+        "date": "2026-04-07",
+        "status": "enacted",
+        "summary": "The Danby Town Board defined data centers and cryptocurrency mining facilities in its zoning code and excluded them from all permitted uses, effectively banning both.",
+        "sourceUrl": "https://www.ithaca.com/news/regional_news/enfield-planning-board-to-make-recommendation-on-data-centers-cryptocurrency-mining-decision-uncertain/article_383f3d92-2cae-45a4-965f-a46b2f1342e6.html"
+      },
+      {
+        "title": "Town of Enfield Proposed Data Center Ban or Restriction Ordinance",
+        "date": "2026-04-01",
+        "status": "under-review",
+        "summary": "The Enfield Town Board was actively debating whether to impose an outright ban similar to Dryden's or to permit data centers with tight regulation, driven by community concern over the TeraWulf Cayuga Power Plant proposal in neighboring Lansing.",
+        "sourceUrl": "https://www.ithaca.com/news/regional_news/enfield-planning-board-to-make-recommendation-on-data-centers-cryptocurrency-mining-decision-uncertain/article_383f3d92-2cae-45a4-965f-a46b2f1342e6.html"
       }
     ],
     "concerns": [
       "grid-capacity",
-      "carbon-emissions",
       "water-consumption",
-      "environmental-review",
-      "local-control"
-    ],
-    "contextBlurb": "New York State has become a national flashpoint in data center regulation, with paired Senate and Assembly bills (S9144/A10141) proposing the strongest statewide moratorium in the country on new data center permits for facilities using 20 MW or more. As of January 2026, New York's grid operator had 48 large-load projects totaling more than 11 gigawatts in its interconnection queue, driving concerns about grid capacity, rising residential electricity rates, and climate commitments. The state simultaneously enacted the RAISE Act to regulate frontier AI models, reflecting Albany's dual focus on AI infrastructure and AI governance."
-  },
-  {
-    "id": "rockland-county-ny",
-    "name": "Rockland County",
-    "fips": "36087",
-    "state": "New York",
-    "stateCode": "NY",
-    "type": "county",
-    "actions": [
-      {
-        "title": "Rockland County Planning Department Disapproval of DataBank Phase II",
-        "date": "2024-12-01",
-        "status": "enacted",
-        "summary": "The Rockland County Planning Department unanimously disapproved DataBank's Phase II expansion application in Orangetown, citing disruption of onsite wetlands, high energy usage, lack of parking, fire safety issues, and zoning non-compliance.",
-        "sourceUrl": "https://rcbizjournal.com/2025/07/20/orangetown-set-to-review-massive-expansion-of-databanks-orangeburg-data-center/"
-      },
-      {
-        "title": "Orangetown Planning Board SEQRA Lead Agency Designation – DataBank Phase II",
-        "date": "2025-11-01",
-        "status": "under-review",
-        "summary": "The Orangetown Planning Board designated itself lead agency under SEQRA for DataBank's Phase II expansion review after community members argued the project's multi-town and bi-state grid impacts warranted state or county oversight.",
-        "sourceUrl": "https://rcbizjournal.com/2025/11/05/orangetown-weighs-second-data-center-on-banks-of-lake-tappan-reservoir/"
-      },
-      {
-        "title": "Orangetown Planning Board Public Hearing on DataBank Expansion",
-        "date": "2026-03-25",
-        "status": "under-review",
-        "summary": "Residents packed an Orangetown Planning Board hearing to oppose DataBank's proposed expansion near Lake Tappan reservoir, raising concerns about grid saturation, ratepayer costs, and the absence of a full Environmental Impact Study.",
-        "sourceUrl": "https://rocklandpost.com/inside-the-fight-to-stop-data-center-expansion-in-rockland-county/"
-      }
-    ],
-    "concerns": [
-      "grid-capacity",
-      "water-infrastructure",
-      "environmental-review",
-      "local-zoning",
       "noise-vibration",
-      "residential-proximity",
-      "local-control"
+      "local-zoning",
+      "local-control",
+      "carbon-emissions",
+      "environmental-review"
     ],
-    "contextBlurb": "Rockland County, and the Town of Orangetown in particular, hosts a dense cluster of at least four large data centers in its Orangeburg light-industrial corridor, including facilities operated by Bloomberg, JP Morgan Chase, 1547 Critical Systems Realty, and DataBank. Community opposition organized under the Bi-State Datacenter Crisis Coalition has focused on proximity to the Lake Tappan drinking-water reservoir, rising Orange & Rockland utility rates, noise from cooling equipment, and the county's determination that data centers are not permitted by right in the LIO zoning district. Multiple expansion applications remain in active SEQRA review as of March 2026, with residents arguing that the scale of cumulative impacts requires a full environmental impact statement."
+    "contextBlurb": "Tompkins County became the epicenter of New York's municipal data center backlash, with the Town of Dryden making history in February 2026 as the first municipality in the state to permanently ban data centers via a zoning update after an 18-month moratorium. The controversy was catalyzed by TeraWulf's proposal to convert the former Cayuga Power Plant in the neighboring Town of Lansing into a large AI data center, which sparked packed town meetings and a 16,000-signature petition. Multiple surrounding towns—Danby, Enfield, Ulysses, and Newfield—subsequently moved to adopt their own restrictions."
   },
   {
     "id": "genesee-county-ny",
@@ -88,59 +56,116 @@
     "type": "county",
     "actions": [
       {
-        "title": "Genesee County Economic Development Center Initiates Review of Stream Data Centers Financial Assistance Application",
-        "date": "2026-02-05",
-        "status": "under-review",
-        "summary": "The Genesee County Economic Development Center board unanimously approved initiating the review process for a financial assistance application from Stream Data Centers for a proposed 2.2-million-square-foot, 500 MW data center campus at the STAMP site in the Town of Alabama, despite significant local and tribal opposition.",
-        "sourceUrl": "https://www.wkbw.com/genesee-county/genesee-county-residents-voice-concerns-over-planned-multi-billion-dollar-data-center"
+        "title": "GCEDC SEQR Retraction for Stream Data Centers STAMP Project (First Proposal)",
+        "date": "2025-09-18",
+        "status": "enacted",
+        "summary": "The Genesee County Economic Development Center (GCEDC) board voted unanimously to retract the State Environmental Quality Review for Stream Data Centers' initial STAMP project after the Tonawanda Seneca Nation and Sierra Club filed suit alleging inadequate environmental review.",
+        "sourceUrl": "https://www.wxxinews.org/local-news/2025-09-18/genesee-county-stamp-site-data-center-on-hold-as-expansion-gets-pursued"
       },
       {
-        "title": "Community and Tonawanda Seneca Nation Opposition to STAMP Data Center Campus",
-        "date": "2026-02-01",
+        "title": "DEC Declines Lead Agency Status; Directs GCEDC to Conduct Deeper Environmental Review",
+        "date": "2026-01-29",
+        "status": "enacted",
+        "summary": "The New York DEC declined to take over as lead agency for the STAMP data center environmental review but directed the GCEDC to conduct a significantly more thorough review, citing unanswered questions about noise, proximity to the Tonawanda Seneca Nation, and the project's limited job creation relative to its scale.",
+        "sourceUrl": "https://www.investigativepost.org/2026/01/30/genesee-ida-has-conflict-of-interest-in-stamp-data-center/"
+      },
+      {
+        "title": "GCEDC Approves Financial Assistance Review for Stream Data Centers' $19.5B Revised STAMP Proposal",
+        "date": "2026-02-05",
         "status": "under-review",
-        "summary": "Residents and the nearby Tonawanda Seneca Nation raised formal opposition to Stream Data Centers' proposed 500 MW campus at the STAMP industrial park, prompting calls for a full environmental review and fueling broader state-level support for the S9144 moratorium bill.",
-        "sourceUrl": "https://rocklandpost.com/inside-the-fight-to-stop-data-center-expansion-in-rockland-county/"
+        "summary": "Despite widespread community opposition, the GCEDC board unanimously voted to begin reviewing a financial assistance application from Stream Data Centers for a revised $19.5 billion, 2.2 million-square-foot hyperscale data center campus at STAMP, including a proposed $1.46 billion in tax abatements.",
+        "sourceUrl": "https://truthout.org/articles/new-york-residents-are-fighting-a-data-center-backed-by-a-billionaire-trump-ally/"
       }
     ],
     "concerns": [
-      "grid-capacity",
+      "noise-vibration",
       "environmental-review",
+      "grid-capacity",
+      "water-infrastructure",
       "local-control",
-      "water-consumption",
-      "carbon-emissions",
-      "residential-proximity"
+      "residential-proximity",
+      "property-values"
     ],
-    "contextBlurb": "Genesee County became a focal point of New York's data center debate when Stream Data Centers announced plans for a multi-billion-dollar, 500 MW campus spanning 2.2 million square feet at the STAMP (Science, Technology and Advanced Manufacturing Park) in the Town of Alabama. The project drew significant pushback from local residents, environmental advocates, and the nearby Tonawanda Seneca Nation, and the scale of the proposed power draw became a key data point cited by Albany lawmakers in support of the statewide moratorium bills introduced in February 2026. The county's Economic Development Center initiated a formal financial assistance review in early February 2026 while community opposition mounted."
+    "contextBlurb": "Genesee County is home to the most contested data center proposal in New York: Stream Data Centers' 'Project Double Reed' at the STAMP industrial park in the Town of Alabama, which grew from a $6.3 billion to a $19.5 billion campus backed by Apollo Global Management. The Tonawanda Seneca Nation, whose reservation territory directly borders the STAMP site, has led legal and regulatory challenges citing noise, air pollution, and failure to conduct meaningful tribal consultation. Residents strongly oppose over $1.46 billion in proposed tax subsidies, while county officials view data center revenue as essential to funding a $150 million water infrastructure upgrade."
   },
   {
-    "id": "new-york-county-ny",
-    "name": "New York County (Manhattan / New York City)",
-    "fips": "36061",
+    "id": "onondaga-county-ny",
+    "name": "Onondaga County (Town of Lysander)",
+    "fips": "36067",
     "state": "New York",
     "stateCode": "NY",
     "type": "county",
     "actions": [
       {
-        "title": "NYC Local Law 144 – Automated Employment Decision Tool Restrictions",
-        "date": "2023-01-01",
+        "title": "Town of Lysander Six-Month Data Center Construction Moratorium",
+        "date": "2026-05-07",
         "status": "enacted",
-        "summary": "New York City's Local Law 144, effective January 2023, restricts employer use of AI-driven automated employment decision tools and requires bias audits, establishing one of the first municipal AI-use regulations in the country and a model for subsequent county-level AI governance.",
-        "sourceUrl": "https://practiceguides.chambers.com/practice-guides/artificial-intelligence-2025/usa-new-york/trends-and-developments"
+        "summary": "The Lysander Town Board unanimously approved a six-month moratorium on data center development, spurred by over 350 residents attending a public meeting to oppose the proposed 300 MW Ranalli Lysander Data Center on a 120-acre industrial-zoned site.",
+        "sourceUrl": "https://www.rockinst.org/blog/updates-on-the-cloud-more-moratoriums-on-data-centers/"
       },
       {
-        "title": "NYC Participation in Governor Hochul's Data Center Utility Rate Policy Push",
-        "date": "2026-01-15",
-        "status": "under-review",
-        "summary": "Governor Hochul's 2026 State of the State specifically addressed AI data center expansion and its effect on New York City-area utility costs, directing state agencies to consider rate protections for NYC-area ratepayers served by Consolidated Edison as data center load grows.",
-        "sourceUrl": "https://earthjustice.org/press/2026/new-york-governor-hochul-delivers-2026-state-of-the-state"
+        "title": "Onondaga County $500K Data Center Impact Study",
+        "date": "2026-06-01",
+        "status": "enacted",
+        "summary": "Onondaga County launched a $500,000 consultant-led study to assess the land use, zoning, water, wastewater, noise, and environmental impacts of data centers, providing guidance to towns including Lysander, Dewitt, Salina, and Manlius that have paused data center development.",
+        "sourceUrl": "https://cnycentral.com/news/local/onondaga-county-launches-500k-study-to-guide-towns-on-ai-data-centers-executive-mcmahon-lysander-town-board-water-department-environmental-health-economic-planning"
+      }
+    ],
+    "concerns": [
+      "water-consumption",
+      "water-infrastructure",
+      "grid-capacity",
+      "noise-vibration",
+      "local-zoning",
+      "local-control",
+      "environmental-review"
+    ],
+    "contextBlurb": "The Town of Lysander in Onondaga County became a focal point of upstate New York's data center debate after Ranalli Super DC, LLC applied to connect a proposed 300 MW facility to the NYISO grid in May 2025. Community group 'Citizens Against Lysander Data Center' organized intense opposition, leading to a unanimous town board moratorium in May 2026 attended by more than 350 residents. Onondaga County responded county-wide by commissioning a $500,000 study and noting that multiple towns—Lysander, Dewitt, Salina, and Manlius—had already paused development."
+  },
+  {
+    "id": "fulton-county-ny",
+    "name": "Fulton County (Town of Perth)",
+    "fips": "36035",
+    "state": "New York",
+    "stateCode": "NY",
+    "type": "county",
+    "actions": [
+      {
+        "title": "Town of Perth One-Year Data Center Moratorium",
+        "date": "2025-06-04",
+        "status": "enacted",
+        "summary": "The Perth Town Board passed a one-year moratorium on the development of any data centers, with Town Supervisor Greg Fagan citing concerns over energy usage and the desire to maintain local control over land-use decisions.",
+        "sourceUrl": "https://www.rockinst.org/blog/updates-on-the-cloud-more-moratoriums-on-data-centers/"
       }
     ],
     "concerns": [
       "grid-capacity",
       "local-control",
-      "environmental-review",
-      "carbon-emissions"
+      "local-zoning"
     ],
-    "contextBlurb": "New York City was an early national leader in municipal AI governance through Local Law 144's restrictions on automated employment decision tools, and the city's dense concentration of data center demand in the metro area has made it central to the statewide debate over grid capacity and ratepayer protection. Governor Hochul's 2026 State of the State directly cited rising utility costs tied to data center growth as an affordability concern for New York City residents. With nearly half of New York State's 130-plus data centers located in the NYC metropolitan area, city and state officials are increasingly aligned on the need for rate-impact oversight by the Public Service Commission."
+    "contextBlurb": "The Town of Perth in Fulton County was among the earliest New York municipalities to act, passing a one-year preemptive data center moratorium in June 2025 before any specific proposal materialized. Supervisor Greg Fagan framed it as a protective measure against energy demand spikes, building on the town's prior experience with moratoriums on solar, wind, and battery storage facilities. The action preceded the state legislature's broader moratorium effort by nearly a year."
+  },
+  {
+    "id": "st-lawrence-county-ny",
+    "name": "St. Lawrence County",
+    "fips": "36089",
+    "state": "New York",
+    "stateCode": "NY",
+    "type": "county",
+    "actions": [
+      {
+        "title": "St. Lawrence County Resolution Affirming Local Authority Over Data Center Siting",
+        "date": "2026-06-01",
+        "status": "enacted",
+        "summary": "Rather than passing a full moratorium, St. Lawrence County passed a resolution asserting local governmental authority over data center siting decisions and urging all municipalities within the county to exercise that authority carefully.",
+        "sourceUrl": "https://www.rockinst.org/blog/updates-on-the-cloud-more-moratoriums-on-data-centers/"
+      }
+    ],
+    "concerns": [
+      "local-control",
+      "grid-capacity",
+      "environmental-review"
+    ],
+    "contextBlurb": "St. Lawrence County chose a measured approach in June 2026, stopping short of a full moratorium but passing a formal resolution affirming that local governments—not state agencies or developers—hold primary authority over where data centers are sited. The move reflected growing concern among rural upstate counties about losing local control to large-scale infrastructure projects driven by AI demand. The resolution urged all municipalities in the county to take an active role in any review process."
   }
 ]

@@ -2,35 +2,42 @@
   "state": "Connecticut",
   "stateCode": "CT",
   "region": "na",
-  "stance": "concerning",
-  "stanceDatacenter": "none",
-  "stanceAI": "concerning",
-  "lastUpdated": "2026-04-14",
-  "contextBlurb": "Connecticut is debating a sweeping AI framework that would create a state AI Policy Office, regulate frontier-model developers, and rein in automated hiring tools. A parallel bill would eliminate the state's existing data-center tax incentives outright.",
+  "stance": "restrictive",
+  "stanceDatacenter": "review",
+  "stanceAI": "restrictive",
+  "lastUpdated": "2026-07-22",
+  "contextBlurb": "Connecticut is under discussion on data centers and leaning restrictive on AI. On data centers: SB00245 (in committee) — Would remove existing tax breaks that Connecticut currently offers to data centers. On AI: SB00004 (enacted) — Strengthens consumer privacy protections by regulating data brokers, restricting the use of facial recognition technology, prohibiting the sale of precise location data, and r…",
   "legislation": [
     {
-      "id": "ct-sb00092",
-      "billCode": "SB00092",
-      "title": "An Act Establishing Additional Protections For Warehouse Workers.",
-      "summary": "This bill establishes additional protections for warehouse workers, likely including rules around automated monitoring and work-quota systems driven by algorithms. It aims to safeguard workers from the negative effects of automated tracking and productivity management tools.",
-      "stage": "Committee",
-      "stance": "restrictive",
+      "id": "ct-sb00417",
+      "billCode": "SB00417",
+      "title": "An Act Requiring The Department Of Economic And Community Development To Develop A Plan To Establish An Artificial Intelligence Small Business Program.",
+      "summary": "This bill directs Connecticut's economic development agency to create a plan for an AI small business support program. It is aimed at helping small businesses access and benefit from artificial intelligence tools and resources.",
+      "stage": "Enacted",
+      "stance": "favorable",
       "impactTags": [
-        "ai-in-employment"
+        "economic-development",
+        "job-creation"
       ],
-      "category": "ai-workforce",
-      "updatedDate": "2026-02-05",
-      "sourceUrl": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00092&which_year=2026",
-      "legiscanUrl": "https://legiscan.com/CT/bill/SB00092/2026",
-      "legiscanId": 2107905,
-      "sponsors": []
+      "category": "ai-governance",
+      "updatedDate": "2026-06-02",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00417&which_year=2026",
+      "legiscanUrl": "https://legiscan.com/CT/bill/SB00417/2026",
+      "legiscanId": 2129160,
+      "sponsors": [
+        "Commerce Committee",
+        "Kerry Szeps Wood",
+        "Savet Constantine",
+        "Kenneth Gucker"
+      ]
     },
     {
       "id": "ct-sb00005",
       "billCode": "SB00005",
       "title": "An Act Concerning Online Safety.",
-      "summary": "This wide-ranging Connecticut bill creates a comprehensive AI regulatory framework including a new AI Policy Office, disclosure requirements for AI providers, rules on synthetic media detectability, and restrictions on automated hiring tools. It also establishes workforce training programs and a health AI initiative while imposing obligations on developers of powerful 'frontier' AI models.",
-      "stage": "Committee",
+      "summary": "This Connecticut bill creates a sweeping AI regulatory framework, including a new AI Policy Office, workforce training programs, disclosure requirements for AI providers, and rules restricting discriminatory use of automated employment decisions. It also requires synthetic digital content to be detectable and establishes safe harbor programs for companies that comply with AI standards.",
+      "stage": "Enacted",
       "stance": "concerning",
       "dimensionStances": {
         "ai-governance-dim": "concerning",
@@ -41,13 +48,13 @@
       "impactTags": [
         "algorithmic-transparency",
         "ai-safety",
-        "ai-in-employment",
         "deepfake-regulation",
+        "ai-in-employment",
         "data-privacy"
       ],
       "category": "ai-governance",
-      "updatedDate": "2026-02-04",
-      "partyOrigin": "D",
+      "updatedDate": "2026-05-27",
+      "partyOrigin": "B",
       "sourceUrl": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00005&which_year=2026",
       "legiscanUrl": "https://legiscan.com/CT/bill/SB00005/2026",
       "legiscanId": 2106638,
@@ -62,22 +69,22 @@
       "id": "ct-sb00004",
       "billCode": "SB00004",
       "title": "An Act Concerning Consumer Privacy And Protection.",
-      "summary": "This Connecticut bill strengthens consumer privacy protections by regulating data brokers, restricting the use of facial recognition technology, limiting sharing of precise location data, and requiring businesses to disclose when they use algorithms to set personalized prices. It also expands workers' rights by removing exemptions that allowed employment-related data processing decisions to go unchecked.",
-      "stage": "Committee",
-      "stance": "concerning",
+      "summary": "This Connecticut bill strengthens consumer privacy protections by regulating data brokers, restricting the use of facial recognition technology, prohibiting the sale of precise location data, and requiring businesses to disclose when they use algorithms to set personalized prices. It also expands worker rights by removing exemptions that previously allowed employers to use automated systems for employment decisions without the same privacy rules that apply to other data uses.",
+      "stage": "Enacted",
+      "stance": "restrictive",
       "dimensionStances": {
         "ai-governance-dim": "concerning",
         "ai-consumer": "restrictive",
         "ai-workforce": "concerning"
       },
       "impactTags": [
-        "data-privacy",
         "algorithmic-transparency",
+        "data-privacy",
         "ai-in-employment"
       ],
       "category": "data-privacy",
-      "updatedDate": "2026-02-04",
-      "partyOrigin": "D",
+      "updatedDate": "2026-05-27",
+      "partyOrigin": "B",
       "sourceUrl": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00004&which_year=2026",
       "legiscanUrl": "https://legiscan.com/CT/bill/SB00004/2026",
       "legiscanId": 2106705,
@@ -89,131 +96,31 @@
       ]
     },
     {
-      "id": "ct-sb00220",
-      "billCode": "SB00220",
-      "title": "An Act Concerning Student Literacy.",
-      "summary": "This bill focuses on improving reading instruction and support for students in grades 4-9 who are below proficient in reading. It has no connection to AI policy or data-center regulation.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-education",
-      "updatedDate": "2026-02-18",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00220&which_year=2026",
-      "legiscanUrl": "https://legiscan.com/CT/bill/SB00220/2026",
-      "legiscanId": 2118338,
-      "sponsors": [
-        "Education Committee",
-        "Antonio Felipe",
-        "Geraldo Reyes",
-        "Anthony Nolan"
-      ]
-    },
-    {
-      "id": "ct-sb00289",
-      "billCode": "SB00289",
-      "title": "An Act Concerning Funding Of The Quality Metrics Program For Nursing Homes.",
-      "summary": "This bill is about funding a quality metrics program for nursing homes in Connecticut. It is not related to AI regulation or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-healthcare",
-      "updatedDate": "2026-02-19",
-      "partyOrigin": "B",
-      "sourceUrl": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00289&which_year=2026",
-      "legiscanUrl": "https://legiscan.com/CT/bill/SB00289/2026",
-      "legiscanId": 2120218,
-      "sponsors": [
-        "Aging Committee",
-        "Jane Garibay",
-        "Mary Fortier",
-        "Jan Hochadel"
-      ]
-    },
-    {
-      "id": "ct-sb00307",
-      "billCode": "SB00307",
-      "title": "An Act Concerning The Department Of Economic And Community Development's Recommendations For Revisions To The Commerce Statutes.",
-      "summary": "This bill makes administrative updates to Connecticut's commerce and economic development statutes, such as renaming programs and updating board memberships. It has no relevance to AI regulation or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2026-02-26",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00307&which_year=2026",
-      "legiscanUrl": "https://legiscan.com/CT/bill/SB00307/2026",
-      "legiscanId": 2124435,
-      "sponsors": [
-        "Commerce Committee",
-        "Savet Constantine"
-      ]
-    },
-    {
-      "id": "ct-sb00245",
-      "billCode": "SB00245",
-      "title": "An Act Eliminating Certain Tax Incentives For Data Centers.",
-      "summary": "This bill would remove existing tax breaks and incentives that data centers currently receive in Connecticut. Eliminating these incentives would make the state less financially attractive for data center investment and development.",
-      "stage": "Committee",
-      "stance": "restrictive",
+      "id": "ct-sb00397",
+      "billCode": "SB00397",
+      "title": "An Act Concerning Democracy And Government Accountability And The Use And Retention Of Data Derived From Automated License Plate Reader Systems.",
+      "summary": "This bill regulates how automated license plate reader systems collect, use, and retain data in Connecticut. It focuses on government accountability and sets rules around law enforcement's use of this surveillance technology.",
+      "stage": "Floor",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "concerning"
+      },
       "impactTags": [
-        "tax-incentives",
-        "economic-development"
+        "algorithmic-transparency",
+        "data-privacy"
       ],
-      "category": "data-center-siting",
-      "updatedDate": "2026-02-19",
-      "partyOrigin": "B",
-      "sourceUrl": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00245&which_year=2026",
-      "legiscanUrl": "https://legiscan.com/CT/bill/SB00245/2026",
-      "legiscanId": 2119266,
-      "sponsors": [
-        "Energy and Technology Committee",
-        "Steven Winter",
-        "William Buckbee",
-        "Nick Gauthier"
-      ]
-    },
-    {
-      "id": "ct-sb00417",
-      "billCode": "SB00417",
-      "title": "An Act Requiring The Department Of Economic And Community Development To Develop A Plan To Establish An Artificial Intelligence Small Business Program.",
-      "summary": "This bill directs Connecticut's economic development agency to create a plan for a program that helps small businesses adopt and use artificial intelligence. It is focused on supporting small business growth through AI, making it a pro-business, permissive measure.",
-      "stage": "Committee",
-      "stance": "favorable",
-      "impactTags": [
-        "economic-development",
-        "job-creation"
-      ],
-      "category": "ai-governance",
-      "updatedDate": "2026-03-05",
+      "category": "ai-criminal-justice",
+      "updatedDate": "2026-05-06",
       "partyOrigin": "D",
-      "sourceUrl": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00417&which_year=2026",
-      "legiscanUrl": "https://legiscan.com/CT/bill/SB00417/2026",
-      "legiscanId": 2129160,
+      "sourceUrl": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00397&which_year=2026",
+      "legiscanUrl": "https://legiscan.com/CT/bill/SB00397/2026",
+      "legiscanId": 2127765,
       "sponsors": [
-        "Commerce Committee",
-        "Kerry Szeps Wood",
-        "Savet Constantine"
-      ]
-    },
-    {
-      "id": "ct-hb05514",
-      "billCode": "HB05514",
-      "title": "An Act Concerning Various Revisions To The Public Health Statutes.",
-      "summary": "This bill makes general updates and revisions to Connecticut's public health laws. It does not appear to specifically address AI or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-healthcare",
-      "updatedDate": "2026-03-05",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=HB05514&which_year=2026",
-      "legiscanUrl": "https://legiscan.com/CT/bill/HB05514/2026",
-      "legiscanId": 2129223,
-      "sponsors": [
-        "Public Health Committee",
-        "Nick Menapace",
-        "Julie Kushner"
+        "Judiciary Committee",
+        "Matthew Lesser",
+        "Matt Blumenthal",
+        "Saud Anwar"
       ]
     },
     {
@@ -227,7 +134,7 @@
         "ai-in-employment"
       ],
       "category": "ai-workforce",
-      "updatedDate": "2026-03-05",
+      "updatedDate": "2026-05-06",
       "partyOrigin": "B",
       "sourceUrl": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=HB05497&which_year=2026",
       "legiscanUrl": "https://legiscan.com/CT/bill/HB05497/2026",
@@ -240,27 +147,25 @@
       ]
     },
     {
-      "id": "ct-sb00086",
-      "billCode": "SB00086",
-      "title": "An Act Addressing Innovations In And The Responsible Use Of Artificial Intelligence.",
-      "summary": "This bill establishes a framework for the responsible use of artificial intelligence in Connecticut, addressing safety, transparency, and accountability requirements. It implements the Governor's budget recommendations related to AI innovation and oversight.",
+      "id": "ct-sb00325",
+      "billCode": "SB00325",
+      "title": "An Act Prohibiting The Disclosure Of The Residential Address Of Public School Employees Under The Freedom Of Information Act And Establishing A Task Force Concerning Mass Requests Under The Act.",
+      "summary": "This bill prohibits releasing residential addresses of public school employees under freedom of information requests and creates a task force to study how mass automated requests—potentially generated by artificial intelligence—affect public records systems. The AI element is limited to studying the problem of AI-generated bulk requests rather than regulating AI itself.",
       "stage": "Committee",
-      "stance": "concerning",
-      "dimensionStances": {
-        "ai-governance-dim": "concerning",
-        "ai-consumer": "concerning"
-      },
-      "impactTags": [
-        "ai-safety",
-        "algorithmic-transparency",
-        "data-privacy"
-      ],
+      "stance": "review",
+      "impactTags": [],
       "category": "ai-governance",
-      "updatedDate": "2026-02-05",
-      "sourceUrl": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00086&which_year=2026",
-      "legiscanUrl": "https://legiscan.com/CT/bill/SB00086/2026",
-      "legiscanId": 2107947,
-      "sponsors": []
+      "updatedDate": "2026-04-23",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00325&which_year=2026",
+      "legiscanUrl": "https://legiscan.com/CT/bill/SB00325/2026",
+      "legiscanId": 2124640,
+      "sponsors": [
+        "Government Oversight Committee",
+        "Geraldo Reyes",
+        "Anthony Nolan",
+        "Laurie Sweet"
+      ]
     },
     {
       "id": "ct-sb00435",
@@ -280,8 +185,8 @@
         "data-privacy"
       ],
       "category": "ai-workforce",
-      "updatedDate": "2026-03-05",
-      "partyOrigin": "D",
+      "updatedDate": "2026-04-20",
+      "partyOrigin": "B",
       "sourceUrl": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00435&which_year=2026",
       "legiscanUrl": "https://legiscan.com/CT/bill/SB00435/2026",
       "legiscanId": 2129365,
@@ -291,6 +196,92 @@
         "Kaitlyn Shake",
         "Nick Menapace"
       ]
+    },
+    {
+      "id": "ct-sb00086",
+      "billCode": "SB00086",
+      "title": "An Act Addressing Innovations In And The Responsible Use Of Artificial Intelligence.",
+      "summary": "This Connecticut bill establishes a framework for the responsible development and use of artificial intelligence, implementing the Governor's recommendations for AI oversight. It likely includes rules around transparency, safety, and accountability for AI systems used in the state.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "concerning"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "ai-safety",
+        "data-privacy"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-02",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00086&which_year=2026",
+      "legiscanUrl": "https://legiscan.com/CT/bill/SB00086/2026",
+      "legiscanId": 2107947,
+      "sponsors": [
+        "Anthony Nolan"
+      ]
+    },
+    {
+      "id": "ct-hb05128",
+      "billCode": "HB05128",
+      "title": "An Act Concerning Direct-to-consumer Genetic Testing.",
+      "summary": "This bill grants consumers property rights over their biological samples and genetic test results from direct-to-consumer genetic testing companies, and imposes duties and limitations on how these companies handle genetic data. It establishes consumer control and restrictions on the use of genetic information by testing providers.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "impactTags": [
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-03-30",
+      "sourceUrl": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=HB05128&which_year=2026",
+      "legiscanUrl": "https://legiscan.com/CT/bill/HB05128/2026",
+      "legiscanId": 2112084,
+      "sponsors": [
+        "General Law Committee"
+      ]
+    },
+    {
+      "id": "ct-sb00245",
+      "billCode": "SB00245",
+      "title": "An Act Eliminating Certain Tax Incentives For Data Centers.",
+      "summary": "This bill would remove existing tax breaks that Connecticut currently offers to data centers. Eliminating these incentives could discourage new data center construction and investment in the state.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "impactTags": [
+        "tax-incentives",
+        "economic-development"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-03-23",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00245&which_year=2026",
+      "legiscanUrl": "https://legiscan.com/CT/bill/SB00245/2026",
+      "legiscanId": 2119266,
+      "sponsors": [
+        "Energy and Technology Committee",
+        "Steven Winter",
+        "William Buckbee",
+        "Nick Gauthier"
+      ]
+    },
+    {
+      "id": "ct-sb00092",
+      "billCode": "SB00092",
+      "title": "An Act Establishing Additional Protections For Warehouse Workers.",
+      "summary": "This bill establishes additional protections for warehouse workers, likely addressing working conditions and potentially automated monitoring or quota systems. It aims to regulate how employers can use technology and algorithms to set work pace and performance expectations for warehouse employees.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "impactTags": [
+        "ai-in-employment"
+      ],
+      "category": "ai-workforce",
+      "updatedDate": "2026-02-05",
+      "sourceUrl": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00092&which_year=2026",
+      "legiscanUrl": "https://legiscan.com/CT/bill/SB00092/2026",
+      "legiscanId": 2107905,
+      "sponsors": []
     }
   ]
 }

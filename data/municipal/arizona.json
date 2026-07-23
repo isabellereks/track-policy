@@ -8,60 +8,35 @@
     "type": "county",
     "actions": [
       {
-        "title": "(Mesa) Approval of large-scale data center campus by Aligned Data Centers",
+        "title": "(City of Mesa) Mesa Data Center Tax Incentive & Utility Agreement with Switch",
+        "date": "2019-01-01",
+        "status": "enacted",
+        "summary": "Mesa has long hosted major data center campuses including Switch's 1-million-sq-ft facility, with city-negotiated utility and tax incentive agreements; ongoing expansions through 2024–2025 continue to draw scrutiny over water and grid impacts.",
+        "sourceUrl": "https://www.datacenterdynamics.com/en/news/switch-opens-first-arizona-data-center/"
+      },
+      {
+        "title": "(City of Goodyear) Goodyear Data Center Zoning Approvals and Industrial Growth",
         "date": "2024-03-01",
         "status": "enacted",
-        "summary": "The City of Mesa approved site plans for Aligned Data Centers to develop a major data center campus in the Elliot Road Technology Corridor, continuing Mesa's push to become a regional data center hub.",
-        "sourceUrl": "https://www.datacenterdynamics.com/en/news/aligned-data-centers-plans-mesa-arizona-campus/"
+        "summary": "Goodyear city council approved zoning amendments to accommodate large-scale data center development in its industrial corridors, citing economic development goals while residents raised concerns about water use and noise.",
+        "sourceUrl": "https://www.goodyearaz.gov/government/departments/planning/zoning"
       },
       {
-        "title": "(Goodyear) QTS Data Centers expansion approval",
+        "title": "(City of Phoenix) Phoenix Data Center Zoning and Water-Use Review",
         "date": "2024-06-01",
-        "status": "enacted",
-        "summary": "The City of Goodyear approved additional data center development by QTS (a Digital Realty company) within the PV303 master-planned business park, with associated utility infrastructure agreements.",
-        "sourceUrl": "https://www.datacenterdynamics.com/en/news/qts-breaks-ground-on-new-data-center-in-goodyear-arizona/"
-      },
-      {
-        "title": "(Mesa) Data center water-use concerns and sustainability review",
-        "date": "2024-09-01",
         "status": "under-review",
-        "summary": "Mesa officials and residents raised concerns about the water consumption of new data centers amid Arizona's drought conditions, prompting city discussions on requiring water-efficiency commitments from data center operators.",
-        "sourceUrl": "https://www.azcentral.com/story/news/local/mesa/2024/01/30/mesa-data-centers-water-usage-concerns/72396415007/"
+        "summary": "The City of Phoenix initiated a review of zoning and water-consumption standards for data centers amid rapid growth in AI-driven demand, with city council members requesting an assessment of cumulative water impacts from hyperscale facilities.",
+        "sourceUrl": "https://www.phoenixnewtimes.com/news/phoenix-data-centers-water-use-arizona-drought-concerns-2024"
       }
     ],
     "concerns": [
       "water-consumption",
+      "energy-rates",
       "grid-capacity",
-      "economic-development",
-      "job-creation",
       "local-zoning",
-      "energy-rates"
-    ],
-    "contextBlurb": "Maricopa County, home to Phoenix, Mesa, and Goodyear, is one of the fastest-growing data center markets in the U.S. Multiple cities within the county are competing for hyperscale campus developments while grappling with water scarcity and energy infrastructure demands. Community concerns about water consumption and utility rates have begun shaping policy discussions."
-  },
-  {
-    "id": "pinal-county-az",
-    "name": "Pinal County",
-    "fips": "04021",
-    "state": "Arizona",
-    "stateCode": "AZ",
-    "type": "county",
-    "actions": [
-      {
-        "title": "(Coolidge) Data center development and water-supply agreements",
-        "date": "2024-05-01",
-        "status": "enacted",
-        "summary": "The City of Coolidge continued approving large-scale data center developments in Pinal County, including water-supply agreements despite regional groundwater concerns in the area south of Phoenix.",
-        "sourceUrl": "https://www.pinalcentral.com/coolidge/news/coolidge-continues-to-develop-as-data-center-hub/article_f6e2bd34-f0e6-11ee-8c09-97b4c7ac89f7.html"
-      }
-    ],
-    "concerns": [
-      "water-consumption",
-      "water-infrastructure",
-      "grid-capacity",
       "economic-development",
-      "local-zoning"
+      "tax-incentives"
     ],
-    "contextBlurb": "Pinal County, located between Phoenix and Tucson, has emerged as an attractive location for data center developers seeking lower land costs. However, the region faces acute groundwater challenges, and new developments have sparked debate about sustainable water allocation for industrial uses."
+    "contextBlurb": "Maricopa County is Arizona's primary data center hub, hosting campuses for Switch, CyberNAP, Iron Mountain, and hyperscalers in Mesa, Phoenix, Goodyear, and Chandler. Rapid AI-driven expansion has intensified debate over water use in the drought-stressed Salt River Valley and strain on SRP and APS electrical grids."
   }
 ]

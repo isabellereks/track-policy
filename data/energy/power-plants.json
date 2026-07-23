@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-13T22:47:48.348Z",
-  "count": 3790,
+  "generatedAt": "2026-07-22T02:23:10.842Z",
+  "count": 3862,
   "plants": [
     {
       "id": "plant-6163",
@@ -383,6 +383,16 @@
       "stateCode": "TX"
     },
     {
+      "id": "plant-2693",
+      "name": "Robert Moses Niagara",
+      "lat": 43.1427,
+      "lng": -79.0394,
+      "capacityMW": 2429.1,
+      "fuelType": "hydro",
+      "state": "New York",
+      "stateCode": "NY"
+    },
+    {
       "id": "plant-55380",
       "name": "Union Power Station",
       "lat": 33.296146,
@@ -631,16 +641,6 @@
       "fuelType": "coal",
       "state": "West Virginia",
       "stateCode": "WV"
-    },
-    {
-      "id": "plant-2693",
-      "name": "Robert Moses Niagara",
-      "lat": 43.1427,
-      "lng": -79.0394,
-      "capacityMW": 2042.1,
-      "fuelType": "hydro",
-      "state": "New York",
-      "stateCode": "NY"
     },
     {
       "id": "plant-26",
@@ -1014,7 +1014,7 @@
     },
     {
       "id": "plant-2406",
-      "name": "PSEG Linden Generating Station",
+      "name": "Linden Generating Station",
       "lat": 40.6217,
       "lng": -74.2072,
       "capacityMW": 1740,
@@ -1558,7 +1558,7 @@
       "lat": 42.8492,
       "lng": -87.8336,
       "capacityMW": 1402.6,
-      "fuelType": "coal",
+      "fuelType": "natural-gas",
       "state": "Wisconsin",
       "stateCode": "WI"
     },
@@ -1693,14 +1693,14 @@
       "stateCode": "IN"
     },
     {
-      "id": "plant-55199",
-      "name": "Elwood Energy LLC",
-      "lat": 41.4388,
-      "lng": -88.1236,
-      "capacityMW": 1344,
-      "fuelType": "natural-gas",
-      "state": "Illinois",
-      "stateCode": "IL"
+      "id": "plant-3883",
+      "name": "Rocky Reach",
+      "lat": 47.533611,
+      "lng": -120.295278,
+      "capacityMW": 1349.2,
+      "fuelType": "hydro",
+      "state": "Washington",
+      "stateCode": "WA"
     },
     {
       "id": "plant-55298",
@@ -2063,6 +2063,16 @@
       "stateCode": "GA"
     },
     {
+      "id": "plant-286",
+      "name": "Geysers Unit 5-20",
+      "lat": 38.777,
+      "lng": -122.745,
+      "capacityMW": 1236,
+      "fuelType": "geothermal",
+      "state": "California",
+      "stateCode": "CA"
+    },
+    {
       "id": "plant-6153",
       "name": "Callaway",
       "lat": 38.758919,
@@ -2363,16 +2373,6 @@
       "stateCode": "MA"
     },
     {
-      "id": "plant-286",
-      "name": "Geysers Unit 5-20",
-      "lat": 38.777,
-      "lng": -122.745,
-      "capacityMW": 1163,
-      "fuelType": "geothermal",
-      "state": "California",
-      "stateCode": "CA"
-    },
-    {
       "id": "plant-6433",
       "name": "Boundary",
       "lat": 48.987111,
@@ -2471,16 +2471,6 @@
       "fuelType": "nuclear",
       "state": "Illinois",
       "stateCode": "IL"
-    },
-    {
-      "id": "plant-3612",
-      "name": "V H Braunig",
-      "lat": 29.2567,
-      "lng": -98.3825,
-      "capacityMW": 1138,
-      "fuelType": "natural-gas",
-      "state": "Texas",
-      "stateCode": "TX"
     },
     {
       "id": "plant-6095",
@@ -2608,6 +2598,16 @@
       "lat": 31.983587,
       "lng": -106.431777,
       "capacityMW": 1109.8,
+      "fuelType": "natural-gas",
+      "state": "Texas",
+      "stateCode": "TX"
+    },
+    {
+      "id": "plant-55137",
+      "name": "Rio Nogales Power Project",
+      "lat": 29.593056,
+      "lng": -97.973215,
+      "capacityMW": 1108,
       "fuelType": "natural-gas",
       "state": "Texas",
       "stateCode": "TX"
@@ -2833,16 +2833,6 @@
       "stateCode": "CA"
     },
     {
-      "id": "plant-3883",
-      "name": "Rocky Reach",
-      "lat": 47.533611,
-      "lng": -120.295278,
-      "capacityMW": 1048.8,
-      "fuelType": "hydro",
-      "state": "Washington",
-      "stateCode": "WA"
-    },
-    {
       "id": "plant-2079",
       "name": "Hawthorn",
       "lat": 39.1306,
@@ -3043,6 +3033,16 @@
       "stateCode": "LA"
     },
     {
+      "id": "plant-64210",
+      "name": "Bellefield Solar and Energy Storage Farm",
+      "lat": 35.062965,
+      "lng": -118.087803,
+      "capacityMW": 1000,
+      "fuelType": "solar",
+      "state": "California",
+      "stateCode": "CA"
+    },
+    {
       "id": "plant-63479",
       "name": "Traverse Wind Project, LLC",
       "lat": 35.710953,
@@ -3123,6 +3123,16 @@
       "stateCode": "OH"
     },
     {
+      "id": "plant-66918",
+      "name": "Trumbull Energy Center",
+      "lat": 41.1476,
+      "lng": -80.8525,
+      "capacityMW": 977.4,
+      "fuelType": "natural-gas",
+      "state": "Ohio",
+      "stateCode": "OH"
+    },
+    {
       "id": "plant-50006",
       "name": "Linden Cogen Plant",
       "lat": 40.6322,
@@ -3144,7 +3154,7 @@
     },
     {
       "id": "plant-60376",
-      "name": "Clean Energy Future-Lordstown, LLC",
+      "name": "Middletown- Ohio",
       "lat": 41.14889,
       "lng": -80.85162,
       "capacityMW": 962,
@@ -3231,16 +3241,6 @@
       "fuelType": "natural-gas",
       "state": "New York",
       "stateCode": "NY"
-    },
-    {
-      "id": "plant-55137",
-      "name": "Rio Nogales Power Project",
-      "lat": 29.593056,
-      "lng": -97.973215,
-      "capacityMW": 940.2,
-      "fuelType": "natural-gas",
-      "state": "Texas",
-      "stateCode": "TX"
     },
     {
       "id": "plant-55062",
@@ -3764,7 +3764,7 @@
     },
     {
       "id": "plant-60302",
-      "name": "Keys Energy Center",
+      "name": "Key",
       "lat": 38.695519,
       "lng": -76.827785,
       "capacityMW": 830.6,
@@ -4023,6 +4023,16 @@
       "stateCode": "CA"
     },
     {
+      "id": "plant-63093",
+      "name": "Vineyard Wind 1",
+      "lat": 41.047111,
+      "lng": -70.487375,
+      "capacityMW": 800,
+      "fuelType": "wind",
+      "state": "Massachusetts",
+      "stateCode": "MA"
+    },
+    {
       "id": "plant-7981",
       "name": "Mill Creek (SC)",
       "lat": 35.1597,
@@ -4251,6 +4261,16 @@
       "fuelType": "nuclear",
       "state": "South Carolina",
       "stateCode": "SC"
+    },
+    {
+      "id": "plant-69979",
+      "name": "MPH Elwood",
+      "lat": 41.437032,
+      "lng": -88.12234,
+      "capacityMW": 768,
+      "fuelType": "natural-gas",
+      "state": "Illinois",
+      "stateCode": "IL"
     },
     {
       "id": "plant-6250",
@@ -4824,7 +4844,7 @@
     },
     {
       "id": "plant-56798",
-      "name": "Kleen Energy Systems Project",
+      "name": "Kleen Energy Systems",
       "lat": 41.553227,
       "lng": -72.596867,
       "capacityMW": 693,
@@ -5393,6 +5413,16 @@
       "stateCode": "NY"
     },
     {
+      "id": "plant-68839",
+      "name": "Hecate Energy Longhorn Solar LLC",
+      "lat": 33.04417,
+      "lng": -98.34052,
+      "capacityMW": 650,
+      "fuelType": "solar",
+      "state": "Texas",
+      "stateCode": "TX"
+    },
+    {
       "id": "plant-55270",
       "name": "Jackson Generating Station",
       "lat": 42.2488,
@@ -5504,7 +5534,7 @@
     },
     {
       "id": "plant-6156",
-      "name": "New Haven Harbor",
+      "name": "New Haven Steam",
       "lat": 41.283997,
       "lng": -72.904323,
       "capacityMW": 641.5,
@@ -5774,7 +5804,7 @@
     },
     {
       "id": "plant-2411",
-      "name": "PSEG Sewaren Generating Station",
+      "name": "Sewaren",
       "lat": 40.5558,
       "lng": -74.2469,
       "capacityMW": 609.5,
@@ -5814,7 +5844,7 @@
     },
     {
       "id": "plant-2404",
-      "name": "PSEG Kearny Generating Station",
+      "name": "Kearny Generating Station",
       "lat": 40.737283,
       "lng": -74.096464,
       "capacityMW": 605,
@@ -6273,6 +6303,16 @@
       "stateCode": "IA"
     },
     {
+      "id": "plant-55199",
+      "name": "Elwood Energy LLC",
+      "lat": 41.4388,
+      "lng": -88.1236,
+      "capacityMW": 576,
+      "fuelType": "natural-gas",
+      "state": "Illinois",
+      "stateCode": "IL"
+    },
+    {
       "id": "plant-7512",
       "name": "Arthur Von Rosenberg",
       "lat": 29.257046,
@@ -6358,7 +6398,7 @@
       "lat": 40.881317,
       "lng": -117.151605,
       "capacityMW": 567,
-      "fuelType": "coal",
+      "fuelType": "natural-gas",
       "state": "Nevada",
       "stateCode": "NV"
     },
@@ -6683,6 +6723,16 @@
       "stateCode": "FL"
     },
     {
+      "id": "plant-3006",
+      "name": "Anadarko Plant",
+      "lat": 35.0847,
+      "lng": -98.23,
+      "capacityMW": 540.3,
+      "fuelType": "natural-gas",
+      "state": "Oklahoma",
+      "stateCode": "OK"
+    },
+    {
       "id": "plant-997",
       "name": "Michigan City",
       "lat": 41.7208,
@@ -6783,16 +6833,6 @@
       "stateCode": "CA"
     },
     {
-      "id": "plant-55077",
-      "name": "Desert Star Energy Center",
-      "lat": 35.788889,
-      "lng": -114.994167,
-      "capacityMW": 537.3,
-      "fuelType": "natural-gas",
-      "state": "Nevada",
-      "stateCode": "NV"
-    },
-    {
       "id": "plant-3492",
       "name": "Morgan Creek",
       "lat": 32.3358,
@@ -6841,6 +6881,16 @@
       "fuelType": "hydro",
       "state": "Maryland",
       "stateCode": "MD"
+    },
+    {
+      "id": "plant-160",
+      "name": "Apache Station",
+      "lat": 32.0603,
+      "lng": -109.8931,
+      "capacityMW": 529,
+      "fuelType": "natural-gas",
+      "state": "Arizona",
+      "stateCode": "AZ"
     },
     {
       "id": "plant-55098",
@@ -6911,6 +6961,26 @@
       "fuelType": "wind",
       "state": "Texas",
       "stateCode": "TX"
+    },
+    {
+      "id": "plant-69100",
+      "name": "Rocky Mountain Solar",
+      "lat": 38.15319,
+      "lng": -104.57626,
+      "capacityMW": 525,
+      "fuelType": "solar",
+      "state": "Colorado",
+      "stateCode": "CO"
+    },
+    {
+      "id": "plant-69748",
+      "name": "Faraday Solar",
+      "lat": 40.0936,
+      "lng": -112.0833,
+      "capacityMW": 525,
+      "fuelType": "solar",
+      "state": "Utah",
+      "stateCode": "UT"
     },
     {
       "id": "plant-63578",
@@ -7173,16 +7243,6 @@
       "stateCode": "OR"
     },
     {
-      "id": "plant-64210",
-      "name": "Bellefield Solar and Energy Storage Farm",
-      "lat": 35.062965,
-      "lng": -118.087803,
-      "capacityMW": 500,
-      "fuelType": "solar",
-      "state": "California",
-      "stateCode": "CA"
-    },
-    {
       "id": "plant-64233",
       "name": "Hecate Energy Frye Solar LLC",
       "lat": 34.4067,
@@ -7231,6 +7291,16 @@
       "fuelType": "battery",
       "state": "Indiana",
       "stateCode": "IN"
+    },
+    {
+      "id": "plant-69451",
+      "name": "West Camp Wind Farm",
+      "lat": 34.73569,
+      "lng": -110.424899,
+      "capacityMW": 500,
+      "fuelType": "wind",
+      "state": "Arizona",
+      "stateCode": "AZ"
     },
     {
       "id": "plant-62952",
@@ -7331,16 +7401,6 @@
       "fuelType": "solar",
       "state": "Indiana",
       "stateCode": "IN"
-    },
-    {
-      "id": "plant-160",
-      "name": "Apache Station",
-      "lat": 32.0603,
-      "lng": -109.8931,
-      "capacityMW": 490.8,
-      "fuelType": "natural-gas",
-      "state": "Arizona",
-      "stateCode": "AZ"
     },
     {
       "id": "plant-546",
@@ -7703,6 +7763,16 @@
       "stateCode": "CA"
     },
     {
+      "id": "plant-61169",
+      "name": "Eland Solar & Storage Center, Phase 2 Hy",
+      "lat": 35.2167,
+      "lng": -117.977,
+      "capacityMW": 458,
+      "fuelType": "solar",
+      "state": "California",
+      "stateCode": "CA"
+    },
+    {
       "id": "plant-55417",
       "name": "Raccoon Creek Energy Center",
       "lat": 38.6996,
@@ -7741,16 +7811,6 @@
       "fuelType": "natural-gas",
       "state": "Louisiana",
       "stateCode": "LA"
-    },
-    {
-      "id": "plant-3006",
-      "name": "Anadarko Plant",
-      "lat": 35.0847,
-      "lng": -98.23,
-      "capacityMW": 450.3,
-      "fuelType": "natural-gas",
-      "state": "Oklahoma",
-      "stateCode": "OK"
     },
     {
       "id": "plant-2880",
@@ -7843,16 +7903,6 @@
       "stateCode": "AZ"
     },
     {
-      "id": "plant-69414",
-      "name": "Blevins Solar & Storage",
-      "lat": 31.211152,
-      "lng": -97.185078,
-      "capacityMW": 450,
-      "fuelType": "solar",
-      "state": "Texas",
-      "stateCode": "TX"
-    },
-    {
       "id": "plant-56485",
       "name": "Biglow Canyon Wind Farm",
       "lat": 45.653745,
@@ -7921,6 +7971,16 @@
       "fuelType": "natural-gas",
       "state": "New Mexico",
       "stateCode": "NM"
+    },
+    {
+      "id": "plant-67500",
+      "name": "Pin Oak Creek Energy Center, LLC",
+      "lat": 31.893702,
+      "lng": -96.110576,
+      "capacityMW": 444,
+      "fuelType": "natural-gas",
+      "state": "Texas",
+      "stateCode": "TX"
     },
     {
       "id": "plant-56224",
@@ -8188,7 +8248,7 @@
       "lat": 43.1,
       "lng": -70.790833,
       "capacityMW": 414,
-      "fuelType": "natural-gas",
+      "fuelType": "oil",
       "state": "New Hampshire",
       "stateCode": "NH"
     },
@@ -8463,6 +8523,16 @@
       "stateCode": "CO"
     },
     {
+      "id": "plant-55938",
+      "name": "NAEA Ocean Peaking Power LLC",
+      "lat": 40.0633,
+      "lng": -74.1672,
+      "capacityMW": 397.8,
+      "fuelType": "natural-gas",
+      "state": "New Jersey",
+      "stateCode": "NJ"
+    },
+    {
       "id": "plant-50707",
       "name": "JM Shafer Generating Station",
       "lat": 40.0986,
@@ -8561,16 +8631,6 @@
       "fuelType": "wind",
       "state": "Michigan",
       "stateCode": "MI"
-    },
-    {
-      "id": "plant-55938",
-      "name": "NAEA Ocean Peaking Power LLC",
-      "lat": 40.0633,
-      "lng": -74.1672,
-      "capacityMW": 383,
-      "fuelType": "natural-gas",
-      "state": "New Jersey",
-      "stateCode": "NJ"
     },
     {
       "id": "plant-55349",
@@ -8813,6 +8873,16 @@
       "stateCode": "VA"
     },
     {
+      "id": "plant-66335",
+      "name": "Timmerman Power Plant",
+      "lat": 29.875,
+      "lng": -97.807,
+      "capacityMW": 368,
+      "fuelType": "natural-gas",
+      "state": "Texas",
+      "stateCode": "TX"
+    },
+    {
       "id": "plant-64149",
       "name": "Western Trail Wind, LLC",
       "lat": 33.85245,
@@ -8821,6 +8891,16 @@
       "fuelType": "wind",
       "state": "Texas",
       "stateCode": "TX"
+    },
+    {
+      "id": "plant-55077",
+      "name": "Desert Star Energy Center",
+      "lat": 35.788889,
+      "lng": -114.994167,
+      "capacityMW": 366.4,
+      "fuelType": "natural-gas",
+      "state": "Nevada",
+      "stateCode": "NV"
     },
     {
       "id": "plant-65577",
@@ -9103,16 +9183,6 @@
       "stateCode": "CT"
     },
     {
-      "id": "plant-61169",
-      "name": "Eland Solar & Storage Center, Phase 2 Hy",
-      "lat": 35.2167,
-      "lng": -117.977,
-      "capacityMW": 350,
-      "fuelType": "solar",
-      "state": "California",
-      "stateCode": "CA"
-    },
-    {
       "id": "plant-63114",
       "name": "Mohave County Wind Farm",
       "lat": 35.791142,
@@ -9223,6 +9293,16 @@
       "stateCode": "CO"
     },
     {
+      "id": "plant-69044",
+      "name": "Platinum Storage",
+      "lat": 33.610937,
+      "lng": -96.371809,
+      "capacityMW": 348,
+      "fuelType": "battery",
+      "state": "Texas",
+      "stateCode": "TX"
+    },
+    {
       "id": "plant-57373",
       "name": "Agua Caliente Solar Project",
       "lat": 32.9774,
@@ -9331,16 +9411,6 @@
       "fuelType": "natural-gas",
       "state": "Kansas",
       "stateCode": "KS"
-    },
-    {
-      "id": "plant-198",
-      "name": "Bull Shoals",
-      "lat": 36.3635,
-      "lng": -92.5763,
-      "capacityMW": 340,
-      "fuelType": "hydro",
-      "state": "Arkansas",
-      "stateCode": "AR"
     },
     {
       "id": "plant-7759",
@@ -9503,6 +9573,16 @@
       "stateCode": "MN"
     },
     {
+      "id": "plant-67123",
+      "name": "Fagus Solar Park",
+      "lat": 34.350994,
+      "lng": -100.049306,
+      "capacityMW": 331.6,
+      "fuelType": "solar",
+      "state": "Texas",
+      "stateCode": "TX"
+    },
+    {
       "id": "plant-65403",
       "name": "Boswell Wind",
       "lat": 41.919,
@@ -9571,16 +9651,6 @@
       "fuelType": "battery",
       "state": "California",
       "stateCode": "CA"
-    },
-    {
-      "id": "plant-69100",
-      "name": "Rocky Mountain Solar",
-      "lat": 38.15319,
-      "lng": -104.57626,
-      "capacityMW": 325,
-      "fuelType": "solar",
-      "state": "Colorado",
-      "stateCode": "CO"
     },
     {
       "id": "plant-60",
@@ -9943,6 +10013,16 @@
       "stateCode": "TX"
     },
     {
+      "id": "plant-54324",
+      "name": "Ocean State Power II",
+      "lat": 42.0099,
+      "lng": -71.6701,
+      "capacityMW": 306.6,
+      "fuelType": "natural-gas",
+      "state": "Rhode Island",
+      "stateCode": "RI"
+    },
+    {
       "id": "plant-55395",
       "name": "Crossroads Energy Center",
       "lat": 34.183,
@@ -10031,16 +10111,6 @@
       "fuelType": "solar",
       "state": "Texas",
       "stateCode": "TX"
-    },
-    {
-      "id": "plant-65445",
-      "name": "Ridgely Energy Farm",
-      "lat": 36.306319,
-      "lng": -89.462017,
-      "capacityMW": 304,
-      "fuelType": "solar",
-      "state": "Tennessee",
-      "stateCode": "TN"
     },
     {
       "id": "plant-67737",
@@ -10813,6 +10883,16 @@
       "stateCode": "ND"
     },
     {
+      "id": "plant-4014",
+      "name": "Wheaton",
+      "lat": 44.885416,
+      "lng": -91.515833,
+      "capacityMW": 298.1,
+      "fuelType": "natural-gas",
+      "state": "Wisconsin",
+      "stateCode": "WI"
+    },
+    {
       "id": "plant-58098",
       "name": "El Cabo Wind",
       "lat": 34.651111,
@@ -11503,6 +11583,16 @@
       "stateCode": "OH"
     },
     {
+      "id": "plant-69675",
+      "name": "Emily Solar, LLC",
+      "lat": 39.372,
+      "lng": -88.014,
+      "capacityMW": 273.6,
+      "fuelType": "solar",
+      "state": "Illinois",
+      "stateCode": "IL"
+    },
+    {
       "id": "plant-56322",
       "name": "Wild Horse",
       "lat": 47.036269,
@@ -11923,6 +12013,16 @@
       "stateCode": "CA"
     },
     {
+      "id": "plant-61648",
+      "name": "Robins Air Force Base Solar",
+      "lat": 32.681222,
+      "lng": -83.616387,
+      "capacityMW": 256,
+      "fuelType": "solar",
+      "state": "Georgia",
+      "stateCode": "GA"
+    },
+    {
       "id": "plant-66902",
       "name": "Roadrunner Wind Farm",
       "lat": 32.437418,
@@ -11931,6 +12031,16 @@
       "fuelType": "wind",
       "state": "Texas",
       "stateCode": "TX"
+    },
+    {
+      "id": "plant-198",
+      "name": "Bull Shoals",
+      "lat": 36.3635,
+      "lng": -92.5763,
+      "capacityMW": 255,
+      "fuelType": "hydro",
+      "state": "Arkansas",
+      "stateCode": "AR"
     },
     {
       "id": "plant-58915",
@@ -11987,16 +12097,6 @@
       "name": "Ocean State Power",
       "lat": 42.009722,
       "lng": -71.668909,
-      "capacityMW": 254.2,
-      "fuelType": "natural-gas",
-      "state": "Rhode Island",
-      "stateCode": "RI"
-    },
-    {
-      "id": "plant-54324",
-      "name": "Ocean State Power II",
-      "lat": 42.0099,
-      "lng": -71.6701,
       "capacityMW": 254.2,
       "fuelType": "natural-gas",
       "state": "Rhode Island",
@@ -12074,7 +12174,7 @@
     },
     {
       "id": "plant-341",
-      "name": "Long Beach Generation LLC",
+      "name": "Long Beach Generation",
       "lat": 33.7641,
       "lng": -118.2248,
       "capacityMW": 252,
@@ -12533,6 +12633,16 @@
       "stateCode": "GA"
     },
     {
+      "id": "plant-67184",
+      "name": "Beehive Energy Storage",
+      "lat": 33.8004,
+      "lng": -112.27252,
+      "capacityMW": 250,
+      "fuelType": "battery",
+      "state": "Arizona",
+      "stateCode": "AZ"
+    },
+    {
       "id": "plant-67424",
       "name": "Hopkins Energy LLC",
       "lat": 33.21732,
@@ -12563,6 +12673,16 @@
       "stateCode": "MO"
     },
     {
+      "id": "plant-68365",
+      "name": "Old 300 Storage Center",
+      "lat": 29.326602,
+      "lng": -95.811839,
+      "capacityMW": 250,
+      "fuelType": "battery",
+      "state": "Texas",
+      "stateCode": "TX"
+    },
+    {
       "id": "plant-68429",
       "name": "Fairbanks Solar Project",
       "lat": 39.193317,
@@ -12583,6 +12703,16 @@
       "stateCode": "TX"
     },
     {
+      "id": "plant-68477",
+      "name": "Pediment BESS I",
+      "lat": 33.355662,
+      "lng": -111.602119,
+      "capacityMW": 250,
+      "fuelType": "battery",
+      "state": "Arizona",
+      "stateCode": "AZ"
+    },
+    {
       "id": "plant-68536",
       "name": "Optimist",
       "lat": 33.643544,
@@ -12601,6 +12731,16 @@
       "fuelType": "solar",
       "state": "Ohio",
       "stateCode": "OH"
+    },
+    {
+      "id": "plant-69720",
+      "name": "Medway Grid",
+      "lat": 42.14537,
+      "lng": -71.447365,
+      "capacityMW": 250,
+      "fuelType": "battery",
+      "state": "Massachusetts",
+      "stateCode": "MA"
     },
     {
       "id": "plant-60592",
@@ -12701,6 +12841,16 @@
       "fuelType": "natural-gas",
       "state": "Delaware",
       "stateCode": "DE"
+    },
+    {
+      "id": "plant-67538",
+      "name": "Wever Solar (150MW)",
+      "lat": 40.734563,
+      "lng": -91.276752,
+      "capacityMW": 249,
+      "fuelType": "solar",
+      "state": "Iowa",
+      "stateCode": "IA"
     },
     {
       "id": "plant-65675",
@@ -12833,6 +12983,16 @@
       "stateCode": "IN"
     },
     {
+      "id": "plant-3612",
+      "name": "V H Braunig",
+      "lat": 29.2567,
+      "lng": -98.3825,
+      "capacityMW": 244,
+      "fuelType": "natural-gas",
+      "state": "Texas",
+      "stateCode": "TX"
+    },
+    {
       "id": "plant-55064",
       "name": "Black Hawk Station",
       "lat": 35.6957,
@@ -12894,7 +13054,7 @@
     },
     {
       "id": "plant-2399",
-      "name": "PSEG Burlington Generating Station",
+      "name": "Burlington Generating Station",
       "lat": 40.076611,
       "lng": -74.879172,
       "capacityMW": 242,
@@ -14128,7 +14288,7 @@
       "lat": 40.476525,
       "lng": -74.352336,
       "capacityMW": 212,
-      "fuelType": "oil",
+      "fuelType": "natural-gas",
       "state": "New Jersey",
       "stateCode": "NJ"
     },
@@ -15643,6 +15803,16 @@
       "stateCode": "TX"
     },
     {
+      "id": "plant-64132",
+      "name": "Oak Hill - Dry Creek",
+      "lat": 32.212257,
+      "lng": -94.736315,
+      "capacityMW": 200,
+      "fuelType": "solar",
+      "state": "Texas",
+      "stateCode": "TX"
+    },
+    {
       "id": "plant-64202",
       "name": "Big Star Solar, LLC (Hybrid)",
       "lat": 29.894053,
@@ -16093,6 +16263,16 @@
       "stateCode": "NV"
     },
     {
+      "id": "plant-67761",
+      "name": "Bypass BESS",
+      "lat": 29.484448,
+      "lng": -95.621636,
+      "capacityMW": 200,
+      "fuelType": "battery",
+      "state": "Texas",
+      "stateCode": "TX"
+    },
+    {
       "id": "plant-67799",
       "name": "Brittlebush Solar",
       "lat": 32.925808,
@@ -16173,6 +16353,16 @@
       "stateCode": "ND"
     },
     {
+      "id": "plant-68192",
+      "name": "Lotus Wind",
+      "lat": 39.49844,
+      "lng": -89.930204,
+      "capacityMW": 200,
+      "fuelType": "wind",
+      "state": "Illinois",
+      "stateCode": "IL"
+    },
+    {
       "id": "plant-68297",
       "name": "Green River Solar",
       "lat": 37.909944,
@@ -16191,6 +16381,16 @@
       "fuelType": "solar",
       "state": "Indiana",
       "stateCode": "IN"
+    },
+    {
+      "id": "plant-68529",
+      "name": "Flatland Storage",
+      "lat": 32.919198,
+      "lng": -111.498889,
+      "capacityMW": 200,
+      "fuelType": "battery",
+      "state": "Arizona",
+      "stateCode": "AZ"
     },
     {
       "id": "plant-68596",
@@ -16233,6 +16433,16 @@
       "stateCode": "IN"
     },
     {
+      "id": "plant-69101",
+      "name": "Millers Branch Solar",
+      "lat": 33.22132,
+      "lng": -99.58652,
+      "capacityMW": 200,
+      "fuelType": "solar",
+      "state": "Texas",
+      "stateCode": "TX"
+    },
+    {
       "id": "plant-69166",
       "name": "New Madrid Solar, LLC",
       "lat": 36.5004,
@@ -16241,6 +16451,16 @@
       "fuelType": "solar",
       "state": "Missouri",
       "stateCode": "MO"
+    },
+    {
+      "id": "plant-69254",
+      "name": "Wilmot Energy Center II",
+      "lat": 31.592478,
+      "lng": -110.501432,
+      "capacityMW": 200,
+      "fuelType": "battery",
+      "state": "Arizona",
+      "stateCode": "AZ"
     },
     {
       "id": "plant-69319",
@@ -16533,6 +16753,16 @@
       "stateCode": "OK"
     },
     {
+      "id": "plant-67710",
+      "name": "TAG",
+      "lat": 35.271663,
+      "lng": -106.862492,
+      "capacityMW": 197.8,
+      "fuelType": "solar",
+      "state": "New Mexico",
+      "stateCode": "NM"
+    },
+    {
       "id": "plant-638",
       "name": "Suwannee River",
       "lat": 30.376389,
@@ -16773,6 +17003,16 @@
       "stateCode": "WI"
     },
     {
+      "id": "plant-69680",
+      "name": "BHER Ravenswood Solar 1",
+      "lat": 38.914833,
+      "lng": -81.826194,
+      "capacityMW": 192.1,
+      "fuelType": "solar",
+      "state": "West Virginia",
+      "stateCode": "WV"
+    },
+    {
       "id": "plant-54678",
       "name": "Sidney A Murray Jr Hydroelectric",
       "lat": 31.088011,
@@ -16861,16 +17101,6 @@
       "fuelType": "solar",
       "state": "Nevada",
       "stateCode": "NV"
-    },
-    {
-      "id": "plant-67710",
-      "name": "TAG",
-      "lat": 35.271663,
-      "lng": -106.862492,
-      "capacityMW": 190,
-      "fuelType": "solar",
-      "state": "New Mexico",
-      "stateCode": "NM"
     },
     {
       "id": "plant-68868",
@@ -17433,22 +17663,22 @@
       "stateCode": "OH"
     },
     {
-      "id": "plant-66335",
-      "name": "Timmerman Power Plant",
-      "lat": 29.875,
-      "lng": -97.807,
-      "capacityMW": 180,
-      "fuelType": "natural-gas",
-      "state": "Texas",
-      "stateCode": "TX"
-    },
-    {
       "id": "plant-68470",
       "name": "Azalea Springs Solar Park",
       "lat": 31.403914,
       "lng": -94.871897,
       "capacityMW": 180,
       "fuelType": "solar",
+      "state": "Texas",
+      "stateCode": "TX"
+    },
+    {
+      "id": "plant-69414",
+      "name": "Blevins Solar & Storage",
+      "lat": 31.211152,
+      "lng": -97.185078,
+      "capacityMW": 180,
+      "fuelType": "battery",
       "state": "Texas",
       "stateCode": "TX"
     },
@@ -17531,6 +17761,16 @@
       "fuelType": "hydro",
       "state": "Alabama",
       "stateCode": "AL"
+    },
+    {
+      "id": "plant-65445",
+      "name": "Ridgely Energy Farm",
+      "lat": 36.306319,
+      "lng": -89.462017,
+      "capacityMW": 177,
+      "fuelType": "solar",
+      "state": "Tennessee",
+      "stateCode": "TN"
     },
     {
       "id": "plant-68274",
@@ -17933,6 +18173,16 @@
       "stateCode": "LA"
     },
     {
+      "id": "plant-67756",
+      "name": "Mission Road Solar Park",
+      "lat": 43.68358,
+      "lng": -84.78521,
+      "capacityMW": 172,
+      "fuelType": "solar",
+      "state": "Michigan",
+      "stateCode": "MI"
+    },
+    {
       "id": "plant-65335",
       "name": "Appaloosa Run Wind",
       "lat": 31.157269,
@@ -18089,6 +18339,16 @@
       "lng": -112.081963,
       "capacityMW": 170,
       "fuelType": "battery",
+      "state": "Arizona",
+      "stateCode": "AZ"
+    },
+    {
+      "id": "plant-68492",
+      "name": "Sun Pond",
+      "lat": 33.381198,
+      "lng": -112.821621,
+      "capacityMW": 170,
+      "fuelType": "solar",
       "state": "Arizona",
       "stateCode": "AZ"
     },
@@ -18688,7 +18948,7 @@
       "lat": 41.622426,
       "lng": -87.328936,
       "capacityMW": 161,
-      "fuelType": "natural-gas",
+      "fuelType": "other",
       "state": "Indiana",
       "stateCode": "IN"
     },
@@ -18871,6 +19131,16 @@
       "fuelType": "solar",
       "state": "Kentucky",
       "stateCode": "KY"
+    },
+    {
+      "id": "plant-67797",
+      "name": "Babacomari Solar",
+      "lat": 31.656605,
+      "lng": -110.413407,
+      "capacityMW": 160,
+      "fuelType": "solar",
+      "state": "Arizona",
+      "stateCode": "AZ"
     },
     {
       "id": "plant-3398",
@@ -19133,6 +19403,16 @@
       "stateCode": "CO"
     },
     {
+      "id": "plant-58413",
+      "name": "Copper Crossing Energy and Research Cent",
+      "lat": 33.15512,
+      "lng": -111.483636,
+      "capacityMW": 154.2,
+      "fuelType": "natural-gas",
+      "state": "Arizona",
+      "stateCode": "AZ"
+    },
+    {
       "id": "plant-2450",
       "name": "Reeves",
       "lat": 35.171,
@@ -19291,6 +19571,16 @@
       "fuelType": "wind",
       "state": "Texas",
       "stateCode": "TX"
+    },
+    {
+      "id": "plant-68088",
+      "name": "Twelvemile Solar 1",
+      "lat": 36.331569,
+      "lng": -95.22931,
+      "capacityMW": 152,
+      "fuelType": "solar",
+      "state": "Oklahoma",
+      "stateCode": "OK"
     },
     {
       "id": "plant-6405",
@@ -20203,6 +20493,26 @@
       "stateCode": "VA"
     },
     {
+      "id": "plant-66913",
+      "name": "Myrtle Storage",
+      "lat": 29.227753,
+      "lng": -95.428061,
+      "capacityMW": 150,
+      "fuelType": "battery",
+      "state": "Texas",
+      "stateCode": "TX"
+    },
+    {
+      "id": "plant-66916",
+      "name": "Danish Fields Storage",
+      "lat": 29.013637,
+      "lng": -96.220536,
+      "capacityMW": 150,
+      "fuelType": "battery",
+      "state": "Texas",
+      "stateCode": "TX"
+    },
+    {
       "id": "plant-66919",
       "name": "La Casa Wind",
       "lat": 32.635105,
@@ -20263,16 +20573,6 @@
       "stateCode": "IA"
     },
     {
-      "id": "plant-67538",
-      "name": "Wever Solar (150MW)",
-      "lat": 40.734563,
-      "lng": -91.276752,
-      "capacityMW": 150,
-      "fuelType": "solar",
-      "state": "Iowa",
-      "stateCode": "IA"
-    },
-    {
       "id": "plant-67549",
       "name": "Kuna BESS",
       "lat": 43.49,
@@ -20291,6 +20591,16 @@
       "fuelType": "battery",
       "state": "Texas",
       "stateCode": "TX"
+    },
+    {
+      "id": "plant-67677",
+      "name": "Heartwood Solar",
+      "lat": 41.934092,
+      "lng": -84.734304,
+      "capacityMW": 150,
+      "fuelType": "solar",
+      "state": "Michigan",
+      "stateCode": "MI"
     },
     {
       "id": "plant-67696",
@@ -20373,6 +20683,16 @@
       "stateCode": "AZ"
     },
     {
+      "id": "plant-68456",
+      "name": "Blue Summit II Storage",
+      "lat": 34.291934,
+      "lng": -99.367758,
+      "capacityMW": 150,
+      "fuelType": "battery",
+      "state": "Texas",
+      "stateCode": "TX"
+    },
+    {
       "id": "plant-68460",
       "name": "Roadrunner Crossing Energy Storage LLC",
       "lat": 32.414193,
@@ -20391,6 +20711,26 @@
       "fuelType": "solar",
       "state": "Texas",
       "stateCode": "TX"
+    },
+    {
+      "id": "plant-68517",
+      "name": "Boot Hill Solar",
+      "lat": 37.693889,
+      "lng": -99.986389,
+      "capacityMW": 150,
+      "fuelType": "solar",
+      "state": "Kansas",
+      "stateCode": "KS"
+    },
+    {
+      "id": "plant-68534",
+      "name": "Wheatland",
+      "lat": 38.692248,
+      "lng": -87.28772,
+      "capacityMW": 150,
+      "fuelType": "solar",
+      "state": "Indiana",
+      "stateCode": "IN"
     },
     {
       "id": "plant-68770",
@@ -20453,6 +20793,16 @@
       "stateCode": "IN"
     },
     {
+      "id": "plant-69152",
+      "name": "Wizard Energy Storage",
+      "lat": 29.499434,
+      "lng": -95.085134,
+      "capacityMW": 150,
+      "fuelType": "battery",
+      "state": "Texas",
+      "stateCode": "TX"
+    },
+    {
       "id": "plant-69164",
       "name": "Tilden Solar",
       "lat": 38.190651,
@@ -20469,6 +20819,16 @@
       "lng": -95.259943,
       "capacityMW": 150,
       "fuelType": "battery",
+      "state": "Texas",
+      "stateCode": "TX"
+    },
+    {
+      "id": "plant-69435",
+      "name": "Plant X Solar",
+      "lat": 34.165603,
+      "lng": -102.405303,
+      "capacityMW": 150,
+      "fuelType": "solar",
       "state": "Texas",
       "stateCode": "TX"
     },
@@ -20861,6 +21221,16 @@
       "fuelType": "wind",
       "state": "Oklahoma",
       "stateCode": "OK"
+    },
+    {
+      "id": "plant-63666",
+      "name": "Bitter Ridge Wind Farm, LLC",
+      "lat": 40.360533,
+      "lng": -85.113149,
+      "capacityMW": 146.6,
+      "fuelType": "wind",
+      "state": "Indiana",
+      "stateCode": "IN"
     },
     {
       "id": "plant-56843",
@@ -21303,6 +21673,16 @@
       "stateCode": "TX"
     },
     {
+      "id": "plant-67321",
+      "name": "Yuma Solar + Storage",
+      "lat": 32.642434,
+      "lng": -114.429217,
+      "capacityMW": 140,
+      "fuelType": "battery",
+      "state": "Arizona",
+      "stateCode": "AZ"
+    },
+    {
       "id": "plant-67678",
       "name": "White Tail Solar",
       "lat": 42.125582,
@@ -21403,18 +21783,8 @@
       "stateCode": "CA"
     },
     {
-      "id": "plant-67321",
-      "name": "Yuma Solar + Storage",
-      "lat": 32.642434,
-      "lng": -114.429217,
-      "capacityMW": 137,
-      "fuelType": "solar",
-      "state": "Arizona",
-      "stateCode": "AZ"
-    },
-    {
       "id": "plant-56702",
-      "name": "Tuolumne Wind Project",
+      "name": "Washington Wind",
       "lat": 45.8797,
       "lng": -120.8072,
       "capacityMW": 136.3,
@@ -21603,6 +21973,16 @@
       "stateCode": "AR"
     },
     {
+      "id": "plant-67992",
+      "name": "Cherry Valley PV I",
+      "lat": 35.389,
+      "lng": -90.75462,
+      "capacityMW": 135,
+      "fuelType": "solar",
+      "state": "Arkansas",
+      "stateCode": "AR"
+    },
+    {
       "id": "plant-67916",
       "name": "Foote Creek Rim",
       "lat": 41.6283,
@@ -21741,6 +22121,16 @@
       "fuelType": "hydro",
       "state": "Nebraska",
       "stateCode": "NE"
+    },
+    {
+      "id": "plant-67867",
+      "name": "Liberty Hybrid Solar and Storage Project",
+      "lat": 30.009659,
+      "lng": -95.040827,
+      "capacityMW": 132.2,
+      "fuelType": "solar",
+      "state": "Texas",
+      "stateCode": "TX"
     },
     {
       "id": "plant-56665",
@@ -22083,16 +22473,6 @@
       "stateCode": "OK"
     },
     {
-      "id": "plant-63666",
-      "name": "Bitter Ridge Wind Farm, LLC",
-      "lat": 40.360533,
-      "lng": -85.113149,
-      "capacityMW": 130,
-      "fuelType": "wind",
-      "state": "Indiana",
-      "stateCode": "IN"
-    },
-    {
       "id": "plant-65561",
       "name": "South Fork Wind",
       "lat": 41.09,
@@ -22111,6 +22491,26 @@
       "fuelType": "solar",
       "state": "Virginia",
       "stateCode": "VA"
+    },
+    {
+      "id": "plant-67230",
+      "name": "Carne Energy Storage, LLC",
+      "lat": 32.31478,
+      "lng": -107.677988,
+      "capacityMW": 130,
+      "fuelType": "battery",
+      "state": "New Mexico",
+      "stateCode": "NM"
+    },
+    {
+      "id": "plant-67260",
+      "name": "Solar PV Development NM 18 II LLC",
+      "lat": 32.31478,
+      "lng": -107.677988,
+      "capacityMW": 130,
+      "fuelType": "solar",
+      "state": "New Mexico",
+      "stateCode": "NM"
     },
     {
       "id": "plant-2981",
@@ -22223,16 +22623,6 @@
       "stateCode": "CA"
     },
     {
-      "id": "plant-61648",
-      "name": "Robins Air Force Base Solar",
-      "lat": 32.681222,
-      "lng": -83.616387,
-      "capacityMW": 128,
-      "fuelType": "solar",
-      "state": "Georgia",
-      "stateCode": "GA"
-    },
-    {
       "id": "plant-64407",
       "name": "Flat Ridge 3",
       "lat": 37.446969,
@@ -22291,6 +22681,16 @@
       "fuelType": "other",
       "state": "Louisiana",
       "stateCode": "LA"
+    },
+    {
+      "id": "plant-57679",
+      "name": "Arlington Valley Solar Energy I",
+      "lat": 33.321667,
+      "lng": -112.880555,
+      "capacityMW": 127,
+      "fuelType": "solar",
+      "state": "Arizona",
+      "stateCode": "AZ"
     },
     {
       "id": "plant-63769",
@@ -22591,6 +22991,16 @@
       "fuelType": "solar",
       "state": "Ohio",
       "stateCode": "OH"
+    },
+    {
+      "id": "plant-68487",
+      "name": "Pleasant Valley Solar 2 Project",
+      "lat": 43.327775,
+      "lng": -115.988221,
+      "capacityMW": 125,
+      "fuelType": "solar",
+      "state": "Idaho",
+      "stateCode": "ID"
     },
     {
       "id": "plant-69329",
@@ -23243,6 +23653,26 @@
       "stateCode": "TX"
     },
     {
+      "id": "plant-68329",
+      "name": "Tower Solar, LLC",
+      "lat": 45.8211,
+      "lng": -119.7994,
+      "capacityMW": 120,
+      "fuelType": "solar",
+      "state": "Oregon",
+      "stateCode": "OR"
+    },
+    {
+      "id": "plant-68418",
+      "name": "Keydet Solar Center",
+      "lat": 37.4371,
+      "lng": -77.1587,
+      "capacityMW": 120,
+      "fuelType": "solar",
+      "state": "Virginia",
+      "stateCode": "VA"
+    },
+    {
       "id": "plant-68998",
       "name": "Long Point Solar",
       "lat": 29.244,
@@ -23493,6 +23923,16 @@
       "stateCode": "WI"
     },
     {
+      "id": "plant-63723",
+      "name": "Ho'Ohana Solar 1",
+      "lat": 21.418811,
+      "lng": -158.032889,
+      "capacityMW": 117.3,
+      "fuelType": "solar",
+      "state": "Hawaii",
+      "stateCode": "HI"
+    },
+    {
       "id": "plant-443",
       "name": "Keswick",
       "lat": 40.611858,
@@ -23517,6 +23957,16 @@
       "name": "Dodson Creek Solar, LLC",
       "lat": 39.181498,
       "lng": -83.767531,
+      "capacityMW": 117,
+      "fuelType": "solar",
+      "state": "Ohio",
+      "stateCode": "OH"
+    },
+    {
+      "id": "plant-69875",
+      "name": "Sycamore Creek Solar, LLC",
+      "lat": 40.953,
+      "lng": -82.859,
       "capacityMW": 117,
       "fuelType": "solar",
       "state": "Ohio",
@@ -23851,16 +24301,6 @@
       "fuelType": "battery",
       "state": "California",
       "stateCode": "CA"
-    },
-    {
-      "id": "plant-69680",
-      "name": "BHER Ravenswood Solar 1",
-      "lat": 38.914833,
-      "lng": -81.826194,
-      "capacityMW": 113.1,
-      "fuelType": "solar",
-      "state": "West Virginia",
-      "stateCode": "WV"
     },
     {
       "id": "plant-56329",
@@ -24433,6 +24873,16 @@
       "stateCode": "TX"
     },
     {
+      "id": "plant-69258",
+      "name": "Cunningham Solar I & BESS",
+      "lat": 32.784586,
+      "lng": -103.337363,
+      "capacityMW": 108,
+      "fuelType": "solar",
+      "state": "New Mexico",
+      "stateCode": "NM"
+    },
+    {
       "id": "plant-60324",
       "name": "Willow Spring Solar, LLC",
       "lat": 34.826697,
@@ -24911,16 +25361,6 @@
       "fuelType": "wind",
       "state": "Colorado",
       "stateCode": "CO"
-    },
-    {
-      "id": "plant-63723",
-      "name": "Ho'Ohana Solar 1",
-      "lat": 21.418811,
-      "lng": -158.032889,
-      "capacityMW": 104,
-      "fuelType": "solar",
-      "state": "Hawaii",
-      "stateCode": "HI"
     },
     {
       "id": "plant-3409",
@@ -25793,16 +26233,6 @@
       "stateCode": "WI"
     },
     {
-      "id": "plant-6142",
-      "name": "Ozark",
-      "lat": 35.4693,
-      "lng": -93.8175,
-      "capacityMW": 100,
-      "fuelType": "hydro",
-      "state": "Arkansas",
-      "stateCode": "AR"
-    },
-    {
       "id": "plant-6415",
       "name": "Broken Bow Dam",
       "lat": 34.138779,
@@ -25995,7 +26425,7 @@
     {
       "id": "plant-60352",
       "name": "Boulder Solar Power, LLC",
-      "lat": 35.348,
+      "lat": 35.834,
       "lng": -114.97,
       "capacityMW": 100,
       "fuelType": "solar",
@@ -26593,6 +27023,16 @@
       "stateCode": "MI"
     },
     {
+      "id": "plant-66400",
+      "name": "Bexar ESS",
+      "lat": 29.271,
+      "lng": -98.456,
+      "capacityMW": 100,
+      "fuelType": "battery",
+      "state": "Texas",
+      "stateCode": "TX"
+    },
+    {
       "id": "plant-66410",
       "name": "Grizzly Ridge Solar",
       "lat": 31.738177,
@@ -26614,13 +27054,33 @@
     },
     {
       "id": "plant-66642",
-      "name": "Kiowa County Solar Project, LLC",
+      "name": "Kiowa County Solar Project",
       "lat": 34.669592,
       "lng": -98.962312,
       "capacityMW": 100,
       "fuelType": "solar",
       "state": "Oklahoma",
       "stateCode": "OK"
+    },
+    {
+      "id": "plant-66647",
+      "name": "Elkhart County Solar Project",
+      "lat": 41.498,
+      "lng": -85.69,
+      "capacityMW": 100,
+      "fuelType": "solar",
+      "state": "Indiana",
+      "stateCode": "IN"
+    },
+    {
+      "id": "plant-66689",
+      "name": "Seven Flags BESS LLC",
+      "lat": 27.456115,
+      "lng": -99.417339,
+      "capacityMW": 100,
+      "fuelType": "battery",
+      "state": "Texas",
+      "stateCode": "TX"
     },
     {
       "id": "plant-66690",
@@ -26661,6 +27121,16 @@
       "fuelType": "wind",
       "state": "Montana",
       "stateCode": "MT"
+    },
+    {
+      "id": "plant-66860",
+      "name": "Marion County Solar Project",
+      "lat": 40.624518,
+      "lng": -83.136152,
+      "capacityMW": 100,
+      "fuelType": "solar",
+      "state": "Ohio",
+      "stateCode": "OH"
     },
     {
       "id": "plant-66905",
@@ -26843,6 +27313,16 @@
       "stateCode": "NM"
     },
     {
+      "id": "plant-68748",
+      "name": "Tierra Seca",
+      "lat": 29.349111,
+      "lng": -100.873417,
+      "capacityMW": 100,
+      "fuelType": "battery",
+      "state": "Texas",
+      "stateCode": "TX"
+    },
+    {
       "id": "plant-69023",
       "name": "Knightdale Battery",
       "lat": 35.782,
@@ -26903,6 +27383,36 @@
       "stateCode": "WI"
     },
     {
+      "id": "plant-69394",
+      "name": "Redfield Solar",
+      "lat": 34.2711,
+      "lng": -92.23215,
+      "capacityMW": 100,
+      "fuelType": "solar",
+      "state": "Arkansas",
+      "stateCode": "AR"
+    },
+    {
+      "id": "plant-69476",
+      "name": "Renegade Solar Energy LLC",
+      "lat": 45.99731,
+      "lng": -87.22625,
+      "capacityMW": 100,
+      "fuelType": "solar",
+      "state": "Michigan",
+      "stateCode": "MI"
+    },
+    {
+      "id": "plant-69676",
+      "name": "Lafitte Solar, LLC",
+      "lat": 32.400791,
+      "lng": -92.108073,
+      "capacityMW": 100,
+      "fuelType": "solar",
+      "state": "Louisiana",
+      "stateCode": "LA"
+    },
+    {
       "id": "plant-3423",
       "name": "Cordell Hull",
       "lat": 36.289539,
@@ -26941,16 +27451,6 @@
       "fuelType": "wind",
       "state": "Texas",
       "stateCode": "TX"
-    },
-    {
-      "id": "plant-58413",
-      "name": "Copper Crossing Energy and Research Cent",
-      "lat": 33.15512,
-      "lng": -111.483636,
-      "capacityMW": 99.8,
-      "fuelType": "natural-gas",
-      "state": "Arizona",
-      "stateCode": "AZ"
     },
     {
       "id": "plant-68012",
@@ -27183,6 +27683,16 @@
       "stateCode": "NC"
     },
     {
+      "id": "plant-62377",
+      "name": "Moody Air Force Base Solar",
+      "lat": 30.9574,
+      "lng": -83.2229,
+      "capacityMW": 99,
+      "fuelType": "solar",
+      "state": "Georgia",
+      "stateCode": "GA"
+    },
+    {
       "id": "plant-62420",
       "name": "Prairie State Solar Project",
       "lat": 38.208333,
@@ -27231,6 +27741,26 @@
       "fuelType": "solar",
       "state": "Mississippi",
       "stateCode": "MS"
+    },
+    {
+      "id": "plant-67991",
+      "name": "Cooks Mill PV I",
+      "lat": 39.5208,
+      "lng": -88.4201,
+      "capacityMW": 99,
+      "fuelType": "solar",
+      "state": "Illinois",
+      "stateCode": "IL"
+    },
+    {
+      "id": "plant-67993",
+      "name": "Crooked Creek PV I",
+      "lat": 38.6452,
+      "lng": -88.9998,
+      "capacityMW": 99,
+      "fuelType": "solar",
+      "state": "Illinois",
+      "stateCode": "IL"
     },
     {
       "id": "plant-56424",
@@ -27473,6 +28003,16 @@
       "stateCode": "NY"
     },
     {
+      "id": "plant-66897",
+      "name": "Midpoint Solar, LLC",
+      "lat": 32.116002,
+      "lng": -97.343521,
+      "capacityMW": 97.5,
+      "fuelType": "solar",
+      "state": "Texas",
+      "stateCode": "TX"
+    },
+    {
       "id": "plant-52026",
       "name": "Dartmouth Power Associates LP",
       "lat": 41.6731,
@@ -27561,6 +28101,16 @@
       "fuelType": "natural-gas",
       "state": "Nevada",
       "stateCode": "NV"
+    },
+    {
+      "id": "plant-63628",
+      "name": "Tinker",
+      "lat": 35.414719,
+      "lng": -97.373445,
+      "capacityMW": 96.2,
+      "fuelType": "natural-gas",
+      "state": "Oklahoma",
+      "stateCode": "OK"
     },
     {
       "id": "plant-57174",
@@ -28253,16 +28803,6 @@
       "stateCode": "WY"
     },
     {
-      "id": "plant-55655",
-      "name": "WFEC GenCo LLC",
-      "lat": 35.0833,
-      "lng": -98.2264,
-      "capacityMW": 90,
-      "fuelType": "natural-gas",
-      "state": "Oklahoma",
-      "stateCode": "OK"
-    },
-    {
       "id": "plant-56659",
       "name": "Michigan Wind 2",
       "lat": 43.663056,
@@ -28631,6 +29171,16 @@
       "fuelType": "wind",
       "state": "California",
       "stateCode": "CA"
+    },
+    {
+      "id": "plant-55977",
+      "name": "Bluffview",
+      "lat": 36.716628,
+      "lng": -108.215282,
+      "capacityMW": 85.8,
+      "fuelType": "natural-gas",
+      "state": "New Mexico",
+      "stateCode": "NM"
     },
     {
       "id": "plant-10690",
@@ -29943,6 +30493,16 @@
       "stateCode": "CO"
     },
     {
+      "id": "plant-68494",
+      "name": "Shirk Energy Storage",
+      "lat": 36.350826,
+      "lng": -119.373463,
+      "capacityMW": 80,
+      "fuelType": "battery",
+      "state": "California",
+      "stateCode": "CA"
+    },
+    {
       "id": "plant-68670",
       "name": "Walker Springs I",
       "lat": 31.435022,
@@ -29963,6 +30523,16 @@
       "stateCode": "VA"
     },
     {
+      "id": "plant-69041",
+      "name": "Iron Springs BESS",
+      "lat": 37.728942,
+      "lng": -113.149778,
+      "capacityMW": 80,
+      "fuelType": "battery",
+      "state": "Utah",
+      "stateCode": "UT"
+    },
+    {
       "id": "plant-69172",
       "name": "Red Bud Solar Plant",
       "lat": 36.077414,
@@ -29971,6 +30541,36 @@
       "fuelType": "solar",
       "state": "North Carolina",
       "stateCode": "NC"
+    },
+    {
+      "id": "plant-69677",
+      "name": "Escalante BESS I",
+      "lat": 38.51895,
+      "lng": -113.028524,
+      "capacityMW": 80,
+      "fuelType": "battery",
+      "state": "Utah",
+      "stateCode": "UT"
+    },
+    {
+      "id": "plant-69678",
+      "name": "Enterprise Storage",
+      "lat": 37.635231,
+      "lng": -113.601831,
+      "capacityMW": 80,
+      "fuelType": "battery",
+      "state": "Utah",
+      "stateCode": "UT"
+    },
+    {
+      "id": "plant-69679",
+      "name": "Granite Mountain BESS East",
+      "lat": 37.774253,
+      "lng": -113.248625,
+      "capacityMW": 80,
+      "fuelType": "battery",
+      "state": "Utah",
+      "stateCode": "UT"
     },
     {
       "id": "plant-57262",
@@ -30813,6 +31413,16 @@
       "stateCode": "CO"
     },
     {
+      "id": "plant-65395",
+      "name": "Hummingbird Energy Storage LLC",
+      "lat": 37.239218,
+      "lng": -121.779313,
+      "capacityMW": 75,
+      "fuelType": "battery",
+      "state": "California",
+      "stateCode": "CA"
+    },
+    {
       "id": "plant-65988",
       "name": "Desert Peak Energy Storage II",
       "lat": 33.9311,
@@ -31133,6 +31743,16 @@
       "stateCode": "FL"
     },
     {
+      "id": "plant-68472",
+      "name": "Long Branch Solar",
+      "lat": 27.62574,
+      "lng": -82.17134,
+      "capacityMW": 74.9,
+      "fuelType": "solar",
+      "state": "Florida",
+      "stateCode": "FL"
+    },
+    {
       "id": "plant-69354",
       "name": "Rattler Solar Plant",
       "lat": 28.634293,
@@ -31147,6 +31767,16 @@
       "name": "Half Moon Solar Plant",
       "lat": 28.955619,
       "lng": -82.159585,
+      "capacityMW": 74.9,
+      "fuelType": "solar",
+      "state": "Florida",
+      "stateCode": "FL"
+    },
+    {
+      "id": "plant-69627",
+      "name": "Jumper Creek Solar Plant",
+      "lat": 28.954544,
+      "lng": -82.176522,
       "capacityMW": 74.9,
       "fuelType": "solar",
       "state": "Florida",
@@ -32053,6 +32683,16 @@
       "stateCode": "FL"
     },
     {
+      "id": "plant-65883",
+      "name": "North Orange",
+      "lat": 27.51422,
+      "lng": -80.57074,
+      "capacityMW": 74.5,
+      "fuelType": "solar",
+      "state": "Florida",
+      "stateCode": "FL"
+    },
+    {
       "id": "plant-65885",
       "name": "Boardwalk",
       "lat": 26.483507,
@@ -32413,10 +33053,40 @@
       "stateCode": "FL"
     },
     {
+      "id": "plant-68818",
+      "name": "Sand Pine",
+      "lat": 30.44763,
+      "lng": -85.26373,
+      "capacityMW": 74.5,
+      "fuelType": "solar",
+      "state": "Florida",
+      "stateCode": "FL"
+    },
+    {
+      "id": "plant-68819",
+      "name": "Sea Grape",
+      "lat": 27.452435,
+      "lng": -80.563974,
+      "capacityMW": 74.5,
+      "fuelType": "solar",
+      "state": "Florida",
+      "stateCode": "FL"
+    },
+    {
       "id": "plant-68820",
       "name": "Big Brook",
       "lat": 30.443398,
       "lng": -85.261804,
+      "capacityMW": 74.5,
+      "fuelType": "solar",
+      "state": "Florida",
+      "stateCode": "FL"
+    },
+    {
+      "id": "plant-68821",
+      "name": "Clover FL",
+      "lat": 27.472021,
+      "lng": -80.519019,
       "capacityMW": 74.5,
       "fuelType": "solar",
       "state": "Florida",
@@ -32553,6 +33223,16 @@
       "stateCode": "GA"
     },
     {
+      "id": "plant-62529",
+      "name": "Hale Kuawehi Solar Hybrid",
+      "lat": 19.936688,
+      "lng": -155.679299,
+      "capacityMW": 74,
+      "fuelType": "solar",
+      "state": "Hawaii",
+      "stateCode": "HI"
+    },
+    {
       "id": "plant-222",
       "name": "Caribou 1",
       "lat": 40.085476,
@@ -32591,16 +33271,6 @@
       "fuelType": "wind",
       "state": "Kansas",
       "stateCode": "KS"
-    },
-    {
-      "id": "plant-52149",
-      "name": "West Point (PA)",
-      "lat": 40.217963,
-      "lng": -75.298823,
-      "capacityMW": 73.7,
-      "fuelType": "natural-gas",
-      "state": "Pennsylvania",
-      "stateCode": "PA"
     },
     {
       "id": "plant-54464",
@@ -33043,6 +33713,16 @@
       "stateCode": "CA"
     },
     {
+      "id": "plant-52149",
+      "name": "West Point (PA)",
+      "lat": 40.217963,
+      "lng": -75.298823,
+      "capacityMW": 70.7,
+      "fuelType": "natural-gas",
+      "state": "Pennsylvania",
+      "stateCode": "PA"
+    },
+    {
       "id": "plant-64928",
       "name": "Edwards Sanborn S3",
       "lat": 35.01644,
@@ -33069,16 +33749,6 @@
       "lng": -81.964222,
       "capacityMW": 70.3,
       "fuelType": "solar",
-      "state": "Florida",
-      "stateCode": "FL"
-    },
-    {
-      "id": "plant-673",
-      "name": "Tom G Smith",
-      "lat": 26.612767,
-      "lng": -80.0677,
-      "capacityMW": 70.2,
-      "fuelType": "oil",
       "state": "Florida",
       "stateCode": "FL"
     },
@@ -33663,16 +34333,6 @@
       "stateCode": "CA"
     },
     {
-      "id": "plant-67867",
-      "name": "Liberty Hybrid Solar and Storage Project",
-      "lat": 30.009659,
-      "lng": -95.040827,
-      "capacityMW": 67.2,
-      "fuelType": "solar",
-      "state": "Texas",
-      "stateCode": "TX"
-    },
-    {
       "id": "plant-7784",
       "name": "Allegany Cogen",
       "lat": 42.5027,
@@ -33691,16 +34351,6 @@
       "fuelType": "biomass",
       "state": "Connecticut",
       "stateCode": "CT"
-    },
-    {
-      "id": "plant-55977",
-      "name": "Bluffview",
-      "lat": 36.716628,
-      "lng": -108.215282,
-      "capacityMW": 67,
-      "fuelType": "natural-gas",
-      "state": "New Mexico",
-      "stateCode": "NM"
     },
     {
       "id": "plant-56848",
@@ -34181,6 +34831,16 @@
       "fuelType": "wind",
       "state": "California",
       "stateCode": "CA"
+    },
+    {
+      "id": "plant-673",
+      "name": "Tom G Smith",
+      "lat": 26.612767,
+      "lng": -80.0677,
+      "capacityMW": 64.2,
+      "fuelType": "oil",
+      "state": "Florida",
+      "stateCode": "FL"
     },
     {
       "id": "plant-1268",
@@ -34883,6 +35543,16 @@
       "stateCode": "SC"
     },
     {
+      "id": "plant-6142",
+      "name": "Ozark",
+      "lat": 35.4693,
+      "lng": -93.8175,
+      "capacityMW": 60,
+      "fuelType": "hydro",
+      "state": "Arkansas",
+      "stateCode": "AR"
+    },
+    {
       "id": "plant-56320",
       "name": "Spring Canyon",
       "lat": 40.983,
@@ -34991,16 +35661,6 @@
       "fuelType": "solar",
       "state": "Colorado",
       "stateCode": "CO"
-    },
-    {
-      "id": "plant-62529",
-      "name": "Hale Kuawehi Solar Hybrid",
-      "lat": 19.936688,
-      "lng": -155.679299,
-      "capacityMW": 60,
-      "fuelType": "battery",
-      "state": "Hawaii",
-      "stateCode": "HI"
     },
     {
       "id": "plant-63495",
@@ -35141,6 +35801,16 @@
       "fuelType": "battery",
       "state": "Texas",
       "stateCode": "TX"
+    },
+    {
+      "id": "plant-69452",
+      "name": "Jasper County Solar Project",
+      "lat": 41.155953,
+      "lng": -87.111564,
+      "capacityMW": 60,
+      "fuelType": "solar",
+      "state": "Indiana",
+      "stateCode": "IN"
     },
     {
       "id": "plant-50451",
@@ -35563,6 +36233,16 @@
       "stateCode": "WI"
     },
     {
+      "id": "plant-6400",
+      "name": "Canyon Ferry",
+      "lat": 46.649026,
+      "lng": -111.727874,
+      "capacityMW": 57.6,
+      "fuelType": "hydro",
+      "state": "Montana",
+      "stateCode": "MT"
+    },
+    {
       "id": "plant-10603",
       "name": "Ebensburg Power",
       "lat": 40.455,
@@ -35943,14 +36623,14 @@
       "stateCode": "FL"
     },
     {
-      "id": "plant-6400",
-      "name": "Canyon Ferry",
-      "lat": 46.649026,
-      "lng": -111.727874,
+      "id": "plant-322",
+      "name": "Big Creek 2A",
+      "lat": 37.200062,
+      "lng": -119.30681,
       "capacityMW": 55,
       "fuelType": "hydro",
-      "state": "Montana",
-      "stateCode": "MT"
+      "state": "California",
+      "stateCode": "CA"
     },
     {
       "id": "plant-7369",
@@ -36313,6 +36993,16 @@
       "stateCode": "CA"
     },
     {
+      "id": "plant-65401",
+      "name": "Newton Solar BESS LLC",
+      "lat": 38.9361,
+      "lng": -88.2781,
+      "capacityMW": 53.8,
+      "fuelType": "solar",
+      "state": "Illinois",
+      "stateCode": "IL"
+    },
+    {
       "id": "plant-57595",
       "name": "Pinnacle Wind Force LLC",
       "lat": 39.445,
@@ -36511,6 +37201,16 @@
       "fuelType": "hydro",
       "state": "California",
       "stateCode": "CA"
+    },
+    {
+      "id": "plant-69538",
+      "name": "Twelvemile Solar 2",
+      "lat": 36.331569,
+      "lng": -95.22931,
+      "capacityMW": 52.2,
+      "fuelType": "solar",
+      "state": "Oklahoma",
+      "stateCode": "OK"
     },
     {
       "id": "plant-10418",
@@ -37863,6 +38563,16 @@
       "stateCode": "TX"
     },
     {
+      "id": "plant-68509",
+      "name": "Ventasso Energy Storage, LLC",
+      "lat": 32.79669,
+      "lng": -116.96998,
+      "capacityMW": 50,
+      "fuelType": "battery",
+      "state": "California",
+      "stateCode": "CA"
+    },
+    {
       "id": "plant-68801",
       "name": "Kingman Energy Storage",
       "lat": 35.08412,
@@ -37897,6 +38607,16 @@
       "name": "Vandalia Renewable Energy Center",
       "lat": 39.27,
       "lng": -91.506,
+      "capacityMW": 50,
+      "fuelType": "solar",
+      "state": "Missouri",
+      "stateCode": "MO"
+    },
+    {
+      "id": "plant-70041",
+      "name": "Bowling Green Renewable Energy Center",
+      "lat": 39.36,
+      "lng": -91.23,
       "capacityMW": 50,
       "fuelType": "solar",
       "state": "Missouri",

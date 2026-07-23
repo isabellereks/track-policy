@@ -2,130 +2,103 @@
   "state": "Colorado",
   "stateCode": "CO",
   "region": "na",
-  "stance": "concerning",
-  "stanceDatacenter": "review",
-  "stanceAI": "concerning",
-  "lastUpdated": "2026-04-14",
-  "contextBlurb": "Colorado is pushing a full slate of pending AI bills, including restrictions on AI in psychotherapy, transparency rules for companion chatbots, and limits on police surveillance tech. Separate legislation would require large data centers to meet clean-energy and grid-impact standards.",
+  "stance": "restrictive",
+  "stanceDatacenter": "concerning",
+  "stanceAI": "restrictive",
+  "lastUpdated": "2026-07-22",
+  "contextBlurb": "Colorado is leaning restrictive on AI, with no data-center legislation currently tracked. On AI: HB1195 (enacted) — Places restrictions on how artificial intelligence can be used in psychotherapy services in Colorado.",
   "legislation": [
     {
-      "id": "co-sb102",
-      "billCode": "SB102",
-      "title": "Large-Load Data Centers",
-      "summary": "This bill establishes accountability measures for large-scale data centers in Colorado, likely including requirements around energy use, grid impact, and reporting. It aims to ensure that data centers consuming significant amounts of power are subject to oversight and transparency obligations.",
-      "stage": "Committee",
-      "stance": "concerning",
+      "id": "co-hb1195",
+      "billCode": "HB1195",
+      "title": "Psychotherapy Artificial Intelligence Restrictions",
+      "summary": "This bill places restrictions on how artificial intelligence can be used in psychotherapy services in Colorado. It aims to protect patients by limiting or regulating AI's role in mental health care settings.",
+      "stage": "Enacted",
+      "stance": "restrictive",
       "dimensionStances": {
-        "environmental": "concerning",
-        "energy": "concerning",
-        "ai-governance-dim": "none"
+        "ai-governance-dim": "concerning",
+        "ai-public": "restrictive"
       },
       "impactTags": [
-        "grid-capacity",
-        "energy-rates",
-        "carbon-emissions",
-        "environmental-review",
-        "algorithmic-transparency"
+        "ai-in-healthcare",
+        "algorithmic-transparency",
+        "ai-safety"
       ],
-      "category": "data-center-energy",
-      "updatedDate": "2026-02-11",
-      "partyOrigin": "D",
-      "sourceUrl": "https://leg.colorado.gov/bills/SB26-102",
-      "legiscanUrl": "https://legiscan.com/CO/bill/SB102/2026",
-      "legiscanId": 2114686,
+      "category": "ai-healthcare",
+      "updatedDate": "2026-06-03",
+      "partyOrigin": "B",
+      "sourceUrl": "https://leg.colorado.gov/bills/HB26-1195",
+      "legiscanUrl": "https://legiscan.com/CO/bill/HB1195/2026",
+      "legiscanId": 2114499,
       "sponsors": [
-        "Cathy Kipp",
-        "Kyle Brown"
+        "Javier Mabrey",
+        "Gretchen Rydin",
+        "Judith Amabile",
+        "Kyle Mullica"
       ]
     },
     {
-      "id": "co-hb1049",
-      "billCode": "HB1049",
-      "title": "Prohibit Use of Personally Identifying Feature",
-      "summary": "This bill bans the use of someone's personal identifying features \u2014 such as their face, voice, or likeness \u2014 without their permission. It aims to protect individuals from unauthorized digital reproduction or impersonation of their identity.",
+      "id": "co-hb1139",
+      "billCode": "HB1139",
+      "title": "Use of Artificial Intelligence in Health Care",
+      "summary": "This bill directs Colorado to examine and establish guidelines for how artificial intelligence is used in healthcare settings. It focuses on transparency and oversight of AI systems that affect patient care and medical decisions.",
+      "stage": "Enacted",
+      "stance": "review",
+      "dimensionStances": {
+        "ai-governance-dim": "review",
+        "ai-public": "concerning"
+      },
+      "impactTags": [
+        "ai-in-healthcare",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-healthcare",
+      "updatedDate": "2026-06-02",
+      "partyOrigin": "D",
+      "sourceUrl": "https://leg.colorado.gov/bills/HB26-1139",
+      "legiscanUrl": "https://legiscan.com/CO/bill/HB1139/2026",
+      "legiscanId": 2108435,
+      "sponsors": [
+        "Junie Joseph",
+        "Sheila Lieder",
+        "Lisa Cutter",
+        "Lindsey Daugherty"
+      ]
+    },
+    {
+      "id": "co-hb1210",
+      "billCode": "HB1210",
+      "title": "Prohibit Surveillance Price & Wage Setting",
+      "summary": "This bill prohibits the use of intimate personal data and algorithmic inferences to determine wages, prices, or other financial terms affecting individuals. It restricts employers and businesses from using surveillance data and AI systems to set compensation or consumer prices based on personal information.",
       "stage": "Dead",
       "stance": "restrictive",
       "dimensionStances": {
         "ai-consumer": "restrictive",
-        "ai-synthetic": "restrictive"
+        "ai-workforce": "restrictive"
       },
       "impactTags": [
-        "deepfake-regulation",
-        "data-privacy",
-        "child-safety"
-      ],
-      "category": "synthetic-media",
-      "updatedDate": "2026-02-12",
-      "partyOrigin": "R",
-      "sourceUrl": "https://leg.colorado.gov/bills/HB26-1049",
-      "legiscanUrl": "https://legiscan.com/CO/bill/HB1049/2026",
-      "legiscanId": 2079805,
-      "sponsors": [
-        "Scott Bottoms",
-        "Mark Baisley"
-      ]
-    },
-    {
-      "id": "co-sb071",
-      "billCode": "SB071",
-      "title": "Use of Surveillance Technology by Law Enforcement",
-      "summary": "This bill regulates how law enforcement agencies in Colorado can use surveillance technologies, with the goal of protecting citizens' rights. It likely requires oversight, transparency, or restrictions on tools like facial recognition or other monitoring systems used by police.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "dimensionStances": {
-        "ai-governance-dim": "concerning",
-        "ai-consumer": "concerning"
-      },
-      "impactTags": [
-        "algorithmic-transparency",
+        "ai-in-employment",
         "data-privacy"
       ],
-      "category": "ai-criminal-justice",
-      "updatedDate": "2026-01-28",
-      "partyOrigin": "R",
-      "sourceUrl": "https://leg.colorado.gov/bills/SB26-071",
-      "legiscanUrl": "https://legiscan.com/CO/bill/SB071/2026",
-      "legiscanId": 2101418,
-      "sponsors": [
-        "Lynda Zamora Wilson"
-      ]
-    },
-    {
-      "id": "co-hb1030",
-      "billCode": "HB1030",
-      "title": "Data Center & Utility Modernization",
-      "summary": "This bill sets up a framework to guide how data centers are built and powered in Colorado, requiring them to support clean energy, grid modernization, and environmental protections. It aims to balance the rapid growth of data centers with the needs of utility customers and the environment.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "dimensionStances": {
-        "environmental": "concerning",
-        "energy": "concerning"
-      },
-      "impactTags": [
-        "grid-capacity",
-        "renewable-energy",
-        "carbon-emissions",
-        "job-creation",
-        "water-consumption"
-      ],
-      "category": "data-center-energy",
-      "updatedDate": "2026-01-14",
+      "category": "ai-workforce",
+      "updatedDate": "2026-06-02",
       "partyOrigin": "D",
-      "sourceUrl": "https://leg.colorado.gov/bills/HB26-1030",
-      "legiscanUrl": "https://legiscan.com/CO/bill/HB1030/2026",
-      "legiscanId": 2079907,
+      "sourceUrl": "https://leg.colorado.gov/bills/HB26-1210",
+      "legiscanUrl": "https://legiscan.com/CO/bill/HB1210/2026",
+      "legiscanId": 2117063,
       "sponsors": [
-        "Monica Duran",
-        "Alex Valdez",
-        "Kyle Mullica"
+        "Jennifer Bacon",
+        "Javier Mabrey",
+        "Iman Jodeh",
+        "Michael Weissman"
       ]
     },
     {
       "id": "co-hb1263",
       "billCode": "HB1263",
       "title": "Conversational Artificial Intelligence Service Operator Requirements",
-      "summary": "This bill sets rules for companies that operate AI chatbot or conversational AI services, requiring them to meet certain transparency and safety standards. It likely includes protections for users, particularly around disclosure that they are interacting with an AI and safeguards for vulnerable users such as children.",
-      "stage": "Committee",
+      "summary": "This bill sets rules for companies that operate conversational AI services, likely requiring disclosures, safety measures, and data protections. It places significant regulatory obligations on AI chatbot and virtual assistant providers operating in Colorado.",
+      "stage": "Enacted",
       "stance": "concerning",
       "dimensionStances": {
         "ai-governance-dim": "concerning",
@@ -138,7 +111,7 @@
         "child-safety"
       ],
       "category": "ai-governance",
-      "updatedDate": "2026-02-19",
+      "updatedDate": "2026-05-29",
       "partyOrigin": "B",
       "sourceUrl": "https://leg.colorado.gov/bills/HB26-1263",
       "legiscanUrl": "https://legiscan.com/CO/bill/HB1263/2026",
@@ -151,160 +124,115 @@
       ]
     },
     {
-      "id": "co-hb1195",
-      "billCode": "HB1195",
-      "title": "Psychotherapy Artificial Intelligence Restrictions",
-      "summary": "This bill places restrictions on how artificial intelligence can be used in psychotherapy services in Colorado. It aims to protect patients by limiting or regulating AI's role in mental health treatment.",
-      "stage": "Committee",
-      "stance": "restrictive",
+      "id": "co-sb102",
+      "billCode": "SB102",
+      "title": "Large-Load Data Centers",
+      "summary": "This bill establishes accountability measures for large data centers that place heavy demands on the electrical grid in Colorado. It likely requires data centers to report energy usage, demonstrate grid impact planning, and meet transparency or efficiency standards.",
+      "stage": "Dead",
+      "stance": "concerning",
       "dimensionStances": {
-        "ai-governance-dim": "concerning",
-        "ai-public": "restrictive"
+        "environmental": "concerning",
+        "energy": "concerning",
+        "community": "review",
+        "ai-governance-dim": "none"
       },
       "impactTags": [
-        "ai-in-healthcare",
-        "algorithmic-transparency",
-        "ai-safety"
+        "grid-capacity",
+        "energy-rates",
+        "carbon-emissions",
+        "local-control",
+        "algorithmic-transparency"
       ],
-      "category": "ai-healthcare",
-      "updatedDate": "2026-02-11",
+      "category": "data-center-energy",
+      "updatedDate": "2026-05-11",
       "partyOrigin": "D",
-      "sourceUrl": "https://leg.colorado.gov/bills/HB26-1195",
-      "legiscanUrl": "https://legiscan.com/CO/bill/HB1195/2026",
-      "legiscanId": 2114499,
+      "sourceUrl": "https://leg.colorado.gov/bills/SB26-102",
+      "legiscanUrl": "https://legiscan.com/CO/bill/SB102/2026",
+      "legiscanId": 2114686,
       "sponsors": [
-        "Javier Mabrey",
-        "Gretchen Rydin",
-        "Judith Amabile",
+        "Cathy Kipp",
+        "Kyle Brown"
+      ]
+    },
+    {
+      "id": "co-hb1030",
+      "billCode": "HB1030",
+      "title": "Data Center & Utility Modernization",
+      "summary": "This Colorado bill sets rules for how data centers can be built and powered, requiring them to support clean energy and grid modernization while protecting consumers and the environment. It creates a formal framework balancing data center growth with utility infrastructure needs and environmental safeguards.",
+      "stage": "Dead",
+      "stance": "concerning",
+      "dimensionStances": {
+        "environmental": "concerning",
+        "energy": "concerning"
+      },
+      "impactTags": [
+        "grid-capacity",
+        "renewable-energy",
+        "carbon-emissions",
+        "job-creation",
+        "environmental-review"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-05-07",
+      "partyOrigin": "D",
+      "sourceUrl": "https://leg.colorado.gov/bills/HB26-1030",
+      "legiscanUrl": "https://legiscan.com/CO/bill/HB1030/2026",
+      "legiscanId": 2079907,
+      "sponsors": [
+        "Monica Duran",
+        "Alex Valdez",
         "Kyle Mullica"
       ]
     },
     {
-      "id": "co-hb1180",
-      "billCode": "HB1180",
-      "title": "Sunset Business Intelligence Center Advisory Board",
-      "summary": "This bill dissolves an advisory board related to the Business Intelligence Center in Colorado based on a state agency review recommendation. It is an administrative sunset action and is not directly related to AI regulation or data-center policy.",
-      "stage": "Floor",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2026-04-02",
-      "partyOrigin": "B",
-      "sourceUrl": "https://leg.colorado.gov/bills/HB26-1180",
-      "legiscanUrl": "https://legiscan.com/CO/bill/HB1180/2026",
-      "legiscanId": 2111852,
+      "id": "co-sb071",
+      "billCode": "SB071",
+      "title": "Use of Surveillance Technology by Law Enforcement",
+      "summary": "This bill regulates how Colorado law enforcement agencies can use surveillance technologies, with the goal of protecting citizens' rights. It likely imposes requirements around transparency, oversight, and limitations on how surveillance tools can be deployed by police.",
+      "stage": "Dead",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "concerning"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "data-privacy"
+      ],
+      "category": "ai-criminal-justice",
+      "updatedDate": "2026-05-06",
+      "partyOrigin": "R",
+      "sourceUrl": "https://leg.colorado.gov/bills/SB26-071",
+      "legiscanUrl": "https://legiscan.com/CO/bill/SB071/2026",
+      "legiscanId": 2101418,
       "sponsors": [
-        "Ryan Gonzalez",
-        "Bob Marshall",
-        "Nick Hinrichsen",
-        "Chad Clifford"
+        "Lynda Zamora Wilson"
       ]
     },
     {
-      "id": "co-hb1113",
-      "billCode": "HB1113",
-      "title": "Modifications to Elections",
-      "summary": "This bill modifies Colorado election laws, likely including rules around the use of AI-generated or synthetic media in political campaigns. It addresses how deepfakes or digitally altered content may be used or disclosed in election-related communications.",
-      "stage": "Committee",
+      "id": "co-hb1049",
+      "billCode": "HB1049",
+      "title": "Prohibit Use of Personally Identifying Feature",
+      "summary": "This bill bans the use of another person's personal identifying features — such as their likeness, voice, or image — without their permission. It aims to protect individuals from unauthorized use of their identity, including in AI-generated or synthetic media contexts.",
+      "stage": "Dead",
       "stance": "restrictive",
+      "dimensionStances": {
+        "ai-consumer": "restrictive",
+        "ai-synthetic": "restrictive"
+      },
       "impactTags": [
-        "deepfake-regulation"
+        "deepfake-regulation",
+        "data-privacy"
       ],
       "category": "synthetic-media",
-      "updatedDate": "2026-03-06",
-      "partyOrigin": "D",
-      "sourceUrl": "https://leg.colorado.gov/bills/HB26-1113",
-      "legiscanUrl": "https://legiscan.com/CO/bill/HB1113/2026",
-      "legiscanId": 2107328,
+      "updatedDate": "2026-02-12",
+      "partyOrigin": "R",
+      "sourceUrl": "https://leg.colorado.gov/bills/HB26-1049",
+      "legiscanUrl": "https://legiscan.com/CO/bill/HB1049/2026",
+      "legiscanId": 2079805,
       "sponsors": [
-        "Emily Sirota",
-        "Jenny Willford",
-        "Katie Wallace",
-        "Michael Weissman"
-      ]
-    },
-    {
-      "id": "co-hb1039",
-      "billCode": "HB1039",
-      "title": "Adding Municipal Jails to County Jail Oversight Requirements",
-      "summary": "This bill extends existing oversight requirements for county jails to also cover municipal jails. It has no connection to AI regulation or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-government",
-      "updatedDate": "2026-03-10",
-      "partyOrigin": "B",
-      "sourceUrl": "https://leg.colorado.gov/bills/HB26-1039",
-      "legiscanUrl": "https://legiscan.com/CO/bill/HB1039/2026",
-      "legiscanId": 2079981,
-      "sponsors": [
-        "Michael Carter",
-        "Naquetta Ricks",
-        "Iman Jodeh",
-        "Michael Weissman"
-      ]
-    },
-    {
-      "id": "co-hb1265",
-      "billCode": "HB1265",
-      "title": "Law Enforcement National Electronic Tracing System & Share Program",
-      "summary": "This bill deals with law enforcement agencies using the federal ATF's gun tracing system to track firearms. It is not related to AI or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-criminal-justice",
-      "updatedDate": "2026-03-12",
-      "partyOrigin": "D",
-      "sourceUrl": "https://leg.colorado.gov/bills/HB26-1265",
-      "legiscanUrl": "https://legiscan.com/CO/bill/HB1265/2026",
-      "legiscanId": 2121082,
-      "sponsors": [
-        "Chad Clifford",
-        "Manny Rutinel",
-        "William Lindstedt",
-        "Katie Wallace"
-      ]
-    },
-    {
-      "id": "co-hb1136",
-      "billCode": "HB1136",
-      "title": "Create Department of Personnel Program Pathways to Public Service",
-      "summary": "This bill creates a public service pathways program within Colorado's Department of Personnel. It is not related to AI or data-center policy.",
-      "stage": "Floor",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-government",
-      "updatedDate": "2026-04-02",
-      "partyOrigin": "D",
-      "sourceUrl": "https://leg.colorado.gov/bills/HB26-1136",
-      "legiscanUrl": "https://legiscan.com/CO/bill/HB1136/2026",
-      "legiscanId": 2108134,
-      "sponsors": [
-        "Meghan Lukens",
-        "Matthew Martinez",
-        "William Lindstedt",
-        "Katie Wallace"
-      ]
-    },
-    {
-      "id": "co-hb1173",
-      "billCode": "HB1173",
-      "title": "Capital Construction Information Technology",
-      "summary": "This bill deals with funding and appropriations for government capital construction information technology projects. It is a budget/appropriations measure and is not substantively about AI regulation or data-center policy.",
-      "stage": "Enacted",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-government",
-      "updatedDate": "2026-03-26",
-      "partyOrigin": "B",
-      "sourceUrl": "https://leg.colorado.gov/bills/HB26-1173",
-      "legiscanUrl": "https://legiscan.com/CO/bill/HB1173/2026",
-      "legiscanId": 2111270,
-      "sponsors": [
-        "Emily Sirota",
-        "Jeff Bridges",
-        "Kyle Brown",
-        "Rick Taggart"
+        "Scott Bottoms",
+        "Mark Baisley"
       ]
     }
   ]

@@ -5,164 +5,14 @@
   "stance": "concerning",
   "stanceDatacenter": "none",
   "stanceAI": "concerning",
-  "lastUpdated": "2026-04-14",
-  "contextBlurb": "New Mexico has no enacted AI or data-center law. A filed package would establish AI transparency and accountability requirements, criminalize non-consensual intimate deepfakes, set chatbot safety rules, and require oversight of state-agency AI use.",
+  "lastUpdated": "2026-07-22",
+  "contextBlurb": "New Mexico is advancing regulation on AI, with no data-center legislation currently tracked. On AI: HB22 (filed) — Prohibits the distribution of non-consensual intimate images, including AI-generated deepfake images.",
   "legislation": [
-    {
-      "id": "nm-hm6",
-      "billCode": "HM6",
-      "title": "Private Equity Infrastructure Ownership",
-      "summary": "This bill appears to address private equity ownership of infrastructure assets, which is not directly related to AI regulation or data-center policy. Without more specific content tying it to AI or data centers, it falls outside the scope of this tracker.",
-      "stage": "Filed",
-      "stance": "none",
-      "impactTags": [],
-      "category": "data-center-siting",
-      "updatedDate": "2026-01-20",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legtype=M&legno=6&year=26",
-      "legiscanUrl": "https://legiscan.com/NM/bill/HM6/2026",
-      "legiscanId": 2085087,
-      "sponsors": [
-        "Patricia Roybal Caballero",
-        "Harold Pope",
-        "Kathleen Cates",
-        "Janelle Anyanonu"
-      ]
-    },
-    {
-      "id": "nm-hb28",
-      "billCode": "HB28",
-      "title": "Artificial Intelligence Transparency Act",
-      "summary": "This bill establishes transparency requirements for artificial intelligence systems used in New Mexico, requiring developers or deployers to disclose when AI is being used and how it makes decisions. It aims to ensure people know when AI is affecting them and have access to information about how those systems work.",
-      "stage": "Filed",
-      "stance": "concerning",
-      "dimensionStances": {
-        "ai-governance-dim": "concerning",
-        "ai-consumer": "concerning"
-      },
-      "impactTags": [
-        "algorithmic-transparency",
-        "ai-safety",
-        "data-privacy"
-      ],
-      "category": "ai-governance",
-      "updatedDate": "2026-01-20",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legtype=B&legno=28&year=26",
-      "legiscanUrl": "https://legiscan.com/NM/bill/HB28/2026",
-      "legiscanId": 2065007,
-      "sponsors": [
-        "Christine Chandler"
-      ]
-    },
-    {
-      "id": "nm-hb22",
-      "billCode": "HB22",
-      "title": "Distribution Of Sensitive And Deepfake Images",
-      "summary": "This bill prohibits the distribution of intimate deepfake images \u2014 realistic AI-generated or manipulated photos or videos of real people in sexual contexts \u2014 without their consent. It establishes legal penalties for sharing such content, with likely enhanced protections for minors.",
-      "stage": "Filed",
-      "stance": "restrictive",
-      "dimensionStances": {
-        "ai-consumer": "restrictive",
-        "ai-synthetic": "restrictive"
-      },
-      "impactTags": [
-        "deepfake-regulation",
-        "child-safety",
-        "data-privacy"
-      ],
-      "category": "synthetic-media",
-      "updatedDate": "2026-01-20",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legtype=B&legno=22&year=26",
-      "legiscanUrl": "https://legiscan.com/NM/bill/HB22/2026",
-      "legiscanId": 2064990,
-      "sponsors": [
-        "Christine Chandler",
-        "Michelle Paulene Abeyta",
-        "Cynthia Borrego"
-      ]
-    },
-    {
-      "id": "nm-hb306",
-      "billCode": "HB306",
-      "title": "Prohibit Certain Health Care Facility Fees",
-      "summary": "This bill addresses fees charged by health care facilities and is not related to AI or data-center policy. It does not involve artificial intelligence, automated systems, or data infrastructure.",
-      "stage": "Enacted",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-healthcare",
-      "updatedDate": "2026-03-06",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legtype=B&legno=306&year=26",
-      "legiscanUrl": "https://legiscan.com/NM/bill/HB306/2026",
-      "legiscanId": 2108254,
-      "sponsors": [
-        "Reena Szczepanski",
-        "Elizabeth Stefanics"
-      ]
-    },
-    {
-      "id": "nm-sm11",
-      "billCode": "SM11",
-      "title": "Importance Of Water To Taos",
-      "summary": "This bill appears to be a state memorial addressing the importance of water resources to the Taos, New Mexico community. It does not relate to AI regulation or data-center policy.",
-      "stage": "Filed",
-      "stance": "none",
-      "impactTags": [],
-      "category": "data-center-energy",
-      "updatedDate": "2026-01-27",
-      "partyOrigin": "B",
-      "sourceUrl": "https://www.nmlegis.gov/Legislation/Legislation?chamber=S&legtype=M&legno=11&year=26",
-      "legiscanUrl": "https://legiscan.com/NM/bill/SM11/2026",
-      "legiscanId": 2094794,
-      "sponsors": [
-        "Roberto Gonzales",
-        "James Townsend",
-        "Linda Trujillo"
-      ]
-    },
-    {
-      "id": "nm-hm45",
-      "billCode": "HM45",
-      "title": "Importance Of Water In Taos",
-      "summary": "This bill appears to be a house memorial about the importance of water resources in Taos, New Mexico. It does not substantively address AI regulation or data-center policy.",
-      "stage": "Filed",
-      "stance": "none",
-      "impactTags": [],
-      "category": "data-center-energy",
-      "updatedDate": "2026-02-03",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legtype=M&legno=45&year=26",
-      "legiscanUrl": "https://legiscan.com/NM/bill/HM45/2026",
-      "legiscanId": 2106585,
-      "sponsors": [
-        "Joseph Sanchez"
-      ]
-    },
-    {
-      "id": "nm-sm16",
-      "billCode": "SM16",
-      "title": "Data On Parenting Students In Higher Ed.",
-      "summary": "This bill relates to collecting data on students in higher education who are also parents. It does not appear to address AI regulation or data-center policy.",
-      "stage": "Enacted",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-education",
-      "updatedDate": "2026-02-14",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.nmlegis.gov/Legislation/Legislation?chamber=S&legtype=M&legno=16&year=26",
-      "legiscanUrl": "https://legiscan.com/NM/bill/SM16/2026",
-      "legiscanId": 2103169,
-      "sponsors": [
-        "Leo Jaramillo"
-      ]
-    },
     {
       "id": "nm-hb174",
       "billCode": "HB174",
       "title": "Chatbot Safety Act",
-      "summary": "This bill establishes safety requirements for chatbots, likely including disclosure rules and protections for users\u2014especially children\u2014interacting with AI-powered conversational systems. It aims to ensure people know when they are talking to an AI and that certain safeguards are in place to prevent harm.",
+      "summary": "This bill establishes safety requirements for chatbots, likely including disclosure rules and protections to prevent harm—especially to children. It would require companies operating chatbots to follow specific standards around transparency and user safety.",
       "stage": "Filed",
       "stance": "concerning",
       "dimensionStances": {
@@ -190,7 +40,7 @@
       "id": "nm-sb68",
       "billCode": "SB68",
       "title": "Artificial Intelligence Government Use Act",
-      "summary": "This bill establishes rules and oversight requirements for how New Mexico state government agencies can use artificial intelligence systems. It aims to ensure transparency and accountability when AI tools are used in public sector decision-making.",
+      "summary": "This bill establishes rules and oversight for how New Mexico state government agencies can use artificial intelligence tools. It sets standards for transparency, accountability, and risk management when AI is used in public sector decision-making.",
       "stage": "Filed",
       "stance": "concerning",
       "impactTags": [
@@ -234,41 +84,57 @@
       ]
     },
     {
-      "id": "nm-hm19",
-      "billCode": "HM19",
-      "title": "\"nm Aviation & Aerospace Day\"",
-      "summary": "This bill designates a day to celebrate New Mexico's aviation and aerospace industry. It has no relevance to AI regulation or data-center policy.",
-      "stage": "Enacted",
-      "stance": "none",
-      "impactTags": [],
+      "id": "nm-hb28",
+      "billCode": "HB28",
+      "title": "Artificial Intelligence Transparency Act",
+      "summary": "This bill establishes transparency requirements for artificial intelligence systems used in New Mexico, requiring disclosures about how AI makes decisions. It aims to ensure people know when AI is being used and can understand the basis for AI-driven outcomes that affect them.",
+      "stage": "Filed",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "concerning"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "ai-safety",
+        "data-privacy"
+      ],
       "category": "ai-governance",
-      "updatedDate": "2026-02-10",
+      "updatedDate": "2026-01-21",
       "partyOrigin": "D",
-      "sourceUrl": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legtype=M&legno=19&year=26",
-      "legiscanUrl": "https://legiscan.com/NM/bill/HM19/2026",
-      "legiscanId": 2093814,
+      "sourceUrl": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legtype=B&legno=28&year=26",
+      "legiscanUrl": "https://legiscan.com/NM/bill/HB28/2026",
+      "legiscanId": 2065007,
       "sponsors": [
-        "Dayan Hochman-Vigil"
+        "Christine Chandler"
       ]
     },
     {
-      "id": "nm-hb292",
-      "billCode": "HB292",
-      "title": "Nm Prison Rape Elimination Act",
-      "summary": "This bill addresses prison rape elimination standards in New Mexico correctional facilities. It is not related to AI regulation or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-criminal-justice",
-      "updatedDate": "2026-01-30",
-      "partyOrigin": "B",
-      "sourceUrl": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legtype=B&legno=292&year=26",
-      "legiscanUrl": "https://legiscan.com/NM/bill/HB292/2026",
-      "legiscanId": 2103222,
+      "id": "nm-hb22",
+      "billCode": "HB22",
+      "title": "Distribution Of Sensitive And Deepfake Images",
+      "summary": "This bill prohibits the distribution of non-consensual intimate images, including AI-generated deepfake images. It creates legal consequences for sharing such content without the subject's permission.",
+      "stage": "Filed",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-consumer": "restrictive",
+        "ai-synthetic": "restrictive"
+      },
+      "impactTags": [
+        "deepfake-regulation",
+        "child-safety",
+        "data-privacy"
+      ],
+      "category": "synthetic-media",
+      "updatedDate": "2026-01-21",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legtype=B&legno=22&year=26",
+      "legiscanUrl": "https://legiscan.com/NM/bill/HB22/2026",
+      "legiscanId": 2064990,
       "sponsors": [
-        "Dayan Hochman-Vigil",
-        "Elizabeth Stefanics",
-        "Nicole Chavez"
+        "Christine Chandler",
+        "Michelle Paulene Abeyta",
+        "Cynthia Borrego"
       ]
     }
   ]

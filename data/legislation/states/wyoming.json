@@ -5,32 +5,14 @@
   "stance": "restrictive",
   "stanceDatacenter": "review",
   "stanceAI": "restrictive",
-  "lastUpdated": "2026-04-14",
-  "contextBlurb": "Wyoming enacted a narrow AI law this session criminalizing the use of AI or synthetic media to create child sexual content, promote self-harm, or censor political speech, while clarifying that AI cannot be invoked as a legal defense for a crime. No data-center legislation is being tracked.",
+  "lastUpdated": "2026-07-22",
+  "contextBlurb": "Wyoming is leaning restrictive on AI, with no data-center legislation currently tracked. On AI: HB0102 (enacted) — Creates new crimes for using AI or synthetic media to generate sexual content involving children, promote self-harm, or suppress political speech.",
   "legislation": [
-    {
-      "id": "wy-hb0185",
-      "billCode": "HB0185",
-      "title": "Kratom-prohibition.",
-      "summary": "This bill bans the manufacture, sale, and possession of kratom, a plant-based substance, in Wyoming. It has no connection to AI regulation or data-center policy.",
-      "stage": "Dead",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2026-02-13",
-      "partyOrigin": "R",
-      "sourceUrl": "https://www.wyoleg.gov/Legislation/2026/HB0185",
-      "legiscanUrl": "https://legiscan.com/WY/bill/HB0185/2026",
-      "legiscanId": 2114345,
-      "sponsors": [
-        "Pepper Ottman"
-      ]
-    },
     {
       "id": "wy-hb0102",
       "billCode": "HB0102",
       "title": "Protecting kids from deepfakes and exploitative images.",
-      "summary": "This Wyoming bill makes it a crime to use AI or synthetic media to create sexual content involving children, promote self-harm, or censor political speech. It also clarifies that using AI to commit a crime is not a legal defense, while providing some immunity for AI developers.",
+      "summary": "This Wyoming bill creates new crimes for using AI or synthetic media to generate sexual content involving children, promote self-harm, or suppress political speech. It establishes that using AI to commit a crime is not a valid legal defense, sets penalties, and provides some immunity for AI developers.",
       "stage": "Enacted",
       "stance": "restrictive",
       "dimensionStances": {
@@ -57,76 +39,10 @@
       ]
     },
     {
-      "id": "wy-hb0181",
-      "billCode": "HB0181",
-      "title": "Biometric data and license plate readers-regulation.",
-      "summary": "This Wyoming bill bans government agencies from using biometric data (like facial recognition), geolocation tracking, and automatic license plate readers to identify people or vehicles. It also prohibits governments from hiring outside vendors to perform these functions and gives citizens the right to sue if the rules are violated.",
-      "stage": "Dead",
-      "stance": "restrictive",
-      "dimensionStances": {
-        "ai-governance-dim": "restrictive",
-        "ai-consumer": "restrictive"
-      },
-      "impactTags": [
-        "algorithmic-transparency",
-        "data-privacy"
-      ],
-      "category": "ai-criminal-justice",
-      "updatedDate": "2026-02-13",
-      "partyOrigin": "B",
-      "sourceUrl": "https://www.wyoleg.gov/Legislation/2026/HB0181",
-      "legiscanUrl": "https://legiscan.com/WY/bill/HB0181/2026",
-      "legiscanId": 2114183,
-      "sponsors": [
-        "Daniel Singh",
-        "Ocean Andrew",
-        "Karlee Provenza",
-        "Robert Ide"
-      ]
-    },
-    {
-      "id": "wy-hb0179",
-      "billCode": "HB0179",
-      "title": "Hospital pricing transparency.",
-      "summary": "This bill requires Wyoming hospitals to publicly list prices for medical items and services and includes transparency rules for prescription drug pricing. It is not related to AI or data-center policy.",
-      "stage": "Dead",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-healthcare",
-      "updatedDate": "2026-02-13",
-      "partyOrigin": "R",
-      "sourceUrl": "https://www.wyoleg.gov/Legislation/2026/HB0179",
-      "legiscanUrl": "https://legiscan.com/WY/bill/HB0179/2026",
-      "legiscanId": 2114273,
-      "sponsors": [
-        "Daniel Singh",
-        "Rachel Rodriguez-Williams",
-        "Jacob Wasserburger",
-        "Dennis Biteman"
-      ]
-    },
-    {
-      "id": "wy-sf0065",
-      "billCode": "SF0065",
-      "title": "Wyoming business council-repeal.",
-      "summary": "This bill repeals the Wyoming Business Council and transfers its economic development functions to other state agencies. It has no substantive connection to AI regulation or data-center policy.",
-      "stage": "Dead",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2026-02-09",
-      "sourceUrl": "https://www.wyoleg.gov/Legislation/2026/SF0065",
-      "legiscanUrl": "https://legiscan.com/WY/bill/SF0065/2026",
-      "legiscanId": 2106832,
-      "sponsors": [
-        "Appropriations"
-      ]
-    },
-    {
       "id": "wy-hb0091",
       "billCode": "HB0091",
       "title": "Ban on government social scoring with AI.",
-      "summary": "This bill bans Wyoming government agencies from using AI to assign social scores to individuals or to identify people through biometric data and image collection. It places hard prohibitions on these government AI uses, with some defined exceptions.",
+      "summary": "This bill bans Wyoming government agencies from using AI to assign 'social scores' to people or to identify individuals through biometric data and image collection. It places hard prohibitions on these government AI uses, with limited exceptions.",
       "stage": "Dead",
       "stance": "restrictive",
       "dimensionStances": {
@@ -135,8 +51,8 @@
       },
       "impactTags": [
         "algorithmic-transparency",
-        "ai-safety",
-        "data-privacy"
+        "data-privacy",
+        "ai-safety"
       ],
       "category": "ai-government",
       "updatedDate": "2026-02-23",
@@ -154,7 +70,7 @@
       "id": "wy-hb0090",
       "billCode": "HB0090",
       "title": "State engineer-consumptive water use study.",
-      "summary": "This bill requires Wyoming's state engineer to study consumptive water use and submit a report on findings. It is likely aimed at understanding water demands from large water users, potentially including data centers, but takes no restrictive or regulatory action.",
+      "summary": "This bill requires Wyoming's state engineer to study consumptive water use and report findings. While not exclusively about data centers, it could capture water consumption from data center cooling operations.",
       "stage": "Dead",
       "stance": "review",
       "dimensionStances": {
@@ -179,24 +95,31 @@
       ]
     },
     {
-      "id": "wy-hb0070",
-      "billCode": "HB0070",
-      "title": "Wyoming GRANITE Act.",
-      "summary": "This Wyoming bill creates a legal cause of action against foreign governments and international organizations that impose censorship laws conflicting with U.S. constitutional rights. It is not related to AI regulation or data-center policy.",
+      "id": "wy-hb0181",
+      "billCode": "HB0181",
+      "title": "Biometric data and license plate readers-regulation.",
+      "summary": "This Wyoming bill bans government agencies from using biometric data (like facial recognition), geolocation data, and automatic license plate readers to identify people or vehicles. It also prohibits government entities from contracting with third-party vendors for these technologies and gives citizens the right to sue if the rules are violated.",
       "stage": "Dead",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2026-03-03",
-      "partyOrigin": "R",
-      "sourceUrl": "https://www.wyoleg.gov/Legislation/2026/HB0070",
-      "legiscanUrl": "https://legiscan.com/WY/bill/HB0070/2026",
-      "legiscanId": 2102374,
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-governance-dim": "restrictive",
+        "ai-consumer": "restrictive"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "data-privacy"
+      ],
+      "category": "ai-criminal-justice",
+      "updatedDate": "2026-02-13",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.wyoleg.gov/Legislation/2026/HB0181",
+      "legiscanUrl": "https://legiscan.com/WY/bill/HB0181/2026",
+      "legiscanId": 2114183,
       "sponsors": [
         "Daniel Singh",
-        "Joel Guggenmos",
-        "Scott Heiner",
-        "Robert Wharff"
+        "Ocean Andrew",
+        "Karlee Provenza",
+        "Robert Ide"
       ]
     }
   ]

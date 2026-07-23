@@ -3,16 +3,16 @@
   "stateCode": "TX",
   "region": "na",
   "stance": "concerning",
-  "stanceDatacenter": "none",
+  "stanceDatacenter": "favorable",
   "stanceAI": "concerning",
-  "lastUpdated": "2026-04-14",
-  "contextBlurb": "Texas has no enacted AI or data-center law this session, which is notable given how much hyperscale buildout is happening in the state. Pending bills would create sales-tax exemptions for data-center equipment, exempt their energy infrastructure from property tax, and set modest transparency rules for synthetic media.",
+  "lastUpdated": "2026-07-22",
+  "contextBlurb": "Texas is leaning innovation-friendly on data centers and advancing regulation on AI. On data centers: SB2888 (in committee) — Provides temporary sales and use tax exemptions for equipment and property used in data centers and large data center projects in Texas. On AI: SB1343 (enacted) — Updates the rules for how data brokers must register and disclose information about themselves and their practices online.",
   "legislation": [
     {
       "id": "tx-sb1343",
       "billCode": "SB1343",
       "title": "Relating to the notice requirements of a data broker registration statement and Internet website.",
-      "summary": "This bill updates the rules for how data brokers must notify people about their data collection practices, including what information must be posted on their websites. It strengthens transparency requirements for companies that collect and sell personal information.",
+      "summary": "This bill updates the rules for how data brokers must register and disclose information about themselves and their practices online. It requires data brokers to provide clearer notices about how they collect and use personal data.",
       "stage": "Enacted",
       "stance": "concerning",
       "dimensionStances": {
@@ -36,46 +36,10 @@
       ]
     },
     {
-      "id": "tx-hr616",
-      "billCode": "HR616",
-      "title": "Honoring Donald K. Stephens for his work as the founder and president emeritus of Mercy Ships.",
-      "summary": "This bill is a ceremonial resolution honoring Donald K. Stephens for his humanitarian work with Mercy Ships. It has no relation to AI or data-center policy.",
-      "stage": "Enacted",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2025-04-01",
-      "partyOrigin": "R",
-      "sourceUrl": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HR616",
-      "legiscanUrl": "https://legiscan.com/TX/bill/HR616/2025",
-      "legiscanId": 2011508,
-      "sponsors": [
-        "Cole Hefner"
-      ]
-    },
-    {
-      "id": "tx-hr1444",
-      "billCode": "HR1444",
-      "title": "Commemorating the 10th anniversary of the D\u00eda de Los Muertos performances by Round Rock Ballet Folkl\u00f3rico.",
-      "summary": "This bill commemorates the 10th anniversary of D\u00eda de Los Muertos performances by a dance group in Round Rock, Texas. It has no relevance to AI or data-center policy.",
-      "stage": "Enacted",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2025-06-01",
-      "partyOrigin": "D",
-      "sourceUrl": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HR1444",
-      "legiscanUrl": "https://legiscan.com/TX/bill/HR1444/2025",
-      "legiscanId": 2034228,
-      "sponsors": [
-        "John Bucy"
-      ]
-    },
-    {
       "id": "tx-sb2121",
       "billCode": "SB2121",
       "title": "Relating to the regulation of certain business entities that act as data brokers.",
-      "summary": "This bill would create regulations for companies that collect and sell personal data about people, known as data brokers. It sets rules these businesses must follow when handling consumer information.",
+      "summary": "This bill would regulate companies that collect and sell personal data about people, known as data brokers. It establishes rules and oversight requirements for how these businesses can operate in Texas.",
       "stage": "Enacted",
       "stance": "concerning",
       "dimensionStances": {
@@ -98,31 +62,10 @@
       ]
     },
     {
-      "id": "tx-hb5228",
-      "billCode": "HB5228",
-      "title": "Relating to the collection of certain incident-based data reported to the Texas Commission on Law Enforcement.",
-      "summary": "This bill deals with how incident-based data is collected and reported to the Texas law enforcement commission. It does not appear to involve AI, algorithms, or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-criminal-justice",
-      "updatedDate": "2025-05-15",
-      "partyOrigin": "B",
-      "sourceUrl": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB5228",
-      "legiscanUrl": "https://legiscan.com/TX/bill/HB5228/2025",
-      "legiscanId": 2007325,
-      "sponsors": [
-        "Charlene Ward Johnson",
-        "Ann Johnson",
-        "Jeff Leach",
-        "Lauren Ashley Simmons"
-      ]
-    },
-    {
       "id": "tx-hb3963",
       "billCode": "HB3963",
       "title": "Relating to an early childhood integrated data system.",
-      "summary": "This bill establishes an integrated data system to collect and share information about young children across early childhood programs and services in Texas. It focuses on coordinating child development data but does not impose AI-specific restrictions or incentives.",
+      "summary": "This bill establishes an integrated data system to collect and share information about young children across early childhood programs in Texas. It focuses on coordinating data to improve early childhood services, not specifically on AI regulation.",
       "stage": "Enacted",
       "stance": "review",
       "impactTags": [
@@ -143,76 +86,77 @@
       ]
     },
     {
-      "id": "tx-sb2888",
-      "billCode": "SB2888",
-      "title": "Relating to the temporary sales and use tax exemptions for certain tangible personal property related to data centers and large data center projects.",
-      "summary": "This Texas bill provides temporary sales and use tax exemptions for equipment and materials used in data centers and large data center projects. It is designed to attract data center investment to the state by reducing the tax burden on qualifying purchases.",
-      "stage": "Committee",
-      "stance": "favorable",
-      "impactTags": [
-        "tax-incentives",
-        "economic-development",
-        "job-creation"
-      ],
-      "category": "data-center-siting",
-      "updatedDate": "2025-03-14",
-      "partyOrigin": "D",
-      "sourceUrl": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB2888",
-      "legiscanUrl": "https://legiscan.com/TX/bill/SB2888/2025",
-      "legiscanId": 2008115,
-      "sponsors": [
-        "Molly Cook"
-      ]
-    },
-    {
-      "id": "tx-hb636",
-      "billCode": "HB636",
-      "title": "Relating to the implementation of a statewide homeless data sharing network to share real-time data on homelessness.",
-      "summary": "This bill establishes a statewide network to share real-time data about homelessness across Texas. It is not related to AI regulation or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "data-privacy",
-      "updatedDate": "2025-05-16",
-      "partyOrigin": "D",
-      "sourceUrl": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB636",
-      "legiscanUrl": "https://legiscan.com/TX/bill/HB636/2025",
-      "legiscanId": 1891459,
-      "sponsors": [
-        "Armando Walle",
-        "Cassandra Garcia Hernandez"
-      ]
-    },
-    {
-      "id": "tx-hb2083",
-      "billCode": "HB2083",
-      "title": "Relating to the use of automatic license plate reader systems.",
-      "summary": "This bill sets rules for how automatic license plate reader systems can be used in Texas, likely covering data collection, storage, and access by law enforcement. It addresses privacy and oversight concerns related to automated vehicle tracking technology.",
-      "stage": "Committee",
+      "id": "tx-hb3233",
+      "billCode": "HB3233",
+      "title": "Relating to patient data maintained by pharmacy benefit managers.",
+      "summary": "This bill regulates how pharmacy benefit managers handle and protect patient data, imposing requirements on data security and use. While not directly about AI, it addresses data privacy protections that apply to systems using patient health information.",
+      "stage": "Enacted",
       "stance": "concerning",
-      "dimensionStances": {
-        "ai-governance-dim": "concerning",
-        "ai-consumer": "concerning"
-      },
       "impactTags": [
-        "algorithmic-transparency",
         "data-privacy"
       ],
-      "category": "ai-criminal-justice",
-      "updatedDate": "2025-01-24",
-      "partyOrigin": "D",
-      "sourceUrl": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2083",
-      "legiscanUrl": "https://legiscan.com/TX/bill/HB2083/2025",
-      "legiscanId": 1940402,
+      "category": "data-privacy",
+      "updatedDate": "2025-06-20",
+      "partyOrigin": "R",
+      "sourceUrl": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB3233",
+      "legiscanUrl": "https://legiscan.com/TX/bill/HB3233/2025",
+      "legiscanId": 1981169,
       "sponsors": [
-        "John Bucy"
+        "Cody Harris",
+        "Lois Kolkhorst"
+      ]
+    },
+    {
+      "id": "tx-hb130",
+      "billCode": "HB130",
+      "title": "Relating to genetic information security for residents of this state; providing a civil penalty; providing a private cause of action.",
+      "summary": "This bill establishes security requirements and protections for genetic information held by entities in Texas, creating civil penalties and private lawsuits for breaches. It addresses data privacy by restricting how genetic data can be collected, used, and safeguarded.",
+      "stage": "Enacted",
+      "stance": "concerning",
+      "impactTags": [
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2025-06-20",
+      "partyOrigin": "B",
+      "sourceUrl": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB130",
+      "legiscanUrl": "https://legiscan.com/TX/bill/HB130/2025",
+      "legiscanId": 2005802,
+      "sponsors": [
+        "Greg Bonnen",
+        "Angelia Orr",
+        "Cole Hefner",
+        "Jeff Barry"
+      ]
+    },
+    {
+      "id": "tx-sb2420",
+      "billCode": "SB2420",
+      "title": "Relating to the regulation of platforms for the sale and distribution of software applications for mobile devices.",
+      "summary": "This bill regulates app store platforms' control over software distribution and curation practices. It addresses transparency and fairness in how platforms present and prioritize applications.",
+      "stage": "Enacted",
+      "stance": "concerning",
+      "impactTags": [
+        "algorithmic-transparency"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-05-27",
+      "partyOrigin": "B",
+      "sourceUrl": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB2420",
+      "legiscanUrl": "https://legiscan.com/TX/bill/SB2420/2025",
+      "legiscanId": 2005789,
+      "sponsors": [
+        "Angela Paxton",
+        "Bob Hall",
+        "Adam Hinojosa",
+        "Lois Kolkhorst"
       ]
     },
     {
       "id": "tx-hb2874",
       "billCode": "HB2874",
       "title": "Relating to the inclusion of provenance data on content shared on social media platforms.",
-      "summary": "This bill would require social media platforms to include provenance data \u2014 information about the origin and history of content \u2014 when material is shared online. The goal is to help users identify the source of digital content, including AI-generated or manipulated media.",
+      "summary": "This bill would require social media platforms to include provenance data — information about where content came from and how it was created — when content is shared. This is aimed at helping users identify AI-generated or manipulated media by tracking the origin of digital content.",
       "stage": "Committee",
       "stance": "concerning",
       "dimensionStances": {
@@ -224,7 +168,7 @@
         "deepfake-regulation"
       ],
       "category": "synthetic-media",
-      "updatedDate": "2025-02-14",
+      "updatedDate": "2025-05-14",
       "partyOrigin": "B",
       "sourceUrl": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2874",
       "legiscanUrl": "https://legiscan.com/TX/bill/HB2874/2025",
@@ -237,10 +181,146 @@
       ]
     },
     {
+      "id": "tx-sb1659",
+      "billCode": "SB1659",
+      "title": "Relating to requiring a warrant to search certain location information purchased by a governmental entity from a data broker or electronic personal data tracker.",
+      "summary": "This bill requires government agencies to obtain a warrant before accessing location information that they have purchased from data brokers or location tracking services. It restricts how law enforcement and other state entities can use commercially obtained location data.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "impactTags": [
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2025-05-06",
+      "partyOrigin": "R",
+      "sourceUrl": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB1659",
+      "legiscanUrl": "https://legiscan.com/TX/bill/SB1659/2025",
+      "legiscanId": 1985712,
+      "sponsors": [
+        "Bryan Hughes"
+      ]
+    },
+    {
+      "id": "tx-hb3285",
+      "billCode": "HB3285",
+      "title": "Relating to requiring operators of smart devices to provide information to users about the collection of personal data.",
+      "summary": "Texas HB3285 requires smart device operators to disclose what personal data they collect from users and how they use it. This establishes mandatory transparency requirements for connected device manufacturers and data handlers.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "review",
+        "ai-consumer": "concerning"
+      },
+      "impactTags": [
+        "data-privacy",
+        "algorithmic-transparency"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2025-04-30",
+      "partyOrigin": "R",
+      "sourceUrl": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB3285",
+      "legiscanUrl": "https://legiscan.com/TX/bill/HB3285/2025",
+      "legiscanId": 1982333,
+      "sponsors": [
+        "Cole Hefner"
+      ]
+    },
+    {
+      "id": "tx-hb4901",
+      "billCode": "HB4901",
+      "title": "Relating to the regulation of platforms for the sale and distribution of software applications for mobile devices.",
+      "summary": "This bill regulates app store platforms' practices for distributing software applications on mobile devices, likely addressing algorithmic curation, data handling, and transparency requirements. It may affect how AI-driven recommendation systems and data collection operate in mobile app marketplaces.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "none",
+        "ai-consumer": "none"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "data-privacy"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-04-15",
+      "partyOrigin": "B",
+      "sourceUrl": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB4901",
+      "legiscanUrl": "https://legiscan.com/TX/bill/HB4901/2025",
+      "legiscanId": 2006196,
+      "sponsors": [
+        "Caroline Fairly",
+        "Jared Patterson",
+        "Mary Gonzalez",
+        "Angie Button"
+      ]
+    },
+    {
+      "id": "tx-sb2888",
+      "billCode": "SB2888",
+      "title": "Relating to the temporary sales and use tax exemptions for certain tangible personal property related to data centers and large data center projects.",
+      "summary": "This bill provides temporary sales and use tax exemptions for equipment and property used in data centers and large data center projects in Texas. It is designed to attract data center investment by reducing the tax burden on qualifying purchases.",
+      "stage": "Committee",
+      "stance": "favorable",
+      "impactTags": [
+        "tax-incentives",
+        "economic-development"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2025-04-07",
+      "partyOrigin": "D",
+      "sourceUrl": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB2888",
+      "legiscanUrl": "https://legiscan.com/TX/bill/SB2888/2025",
+      "legiscanId": 2008115,
+      "sponsors": [
+        "Molly Cook"
+      ]
+    },
+    {
+      "id": "tx-hb5588",
+      "billCode": "HB5588",
+      "title": "Relating to an exemption from ad valorem taxation of the total appraised value of real property used as a data center and the tangible personal property used by the data center to meet the data center's demand for energy.",
+      "summary": "Texas HB5588 exempts data centers and their energy infrastructure from local property taxes to incentivize data center development and investment in the state.",
+      "stage": "Committee",
+      "stance": "favorable",
+      "impactTags": [
+        "tax-incentives",
+        "economic-development"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2025-04-07",
+      "partyOrigin": "R",
+      "sourceUrl": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB5588",
+      "legiscanUrl": "https://legiscan.com/TX/bill/HB5588/2025",
+      "legiscanId": 2008373,
+      "sponsors": [
+        "Cody Harris"
+      ]
+    },
+    {
+      "id": "tx-sb2222",
+      "billCode": "SB2222",
+      "title": "Relating to an exemption from ad valorem taxation of the total appraised value of real property used as a data center and the tangible personal property used by the data center to meet the data center's demand for energy.",
+      "summary": "This Texas bill would exempt data centers and their energy-related equipment from property taxes. It is designed to encourage data center investment and growth in the state by reducing their tax burden.",
+      "stage": "Committee",
+      "stance": "favorable",
+      "impactTags": [
+        "tax-incentives",
+        "economic-development"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2025-03-25",
+      "partyOrigin": "R",
+      "sourceUrl": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB2222",
+      "legiscanUrl": "https://legiscan.com/TX/bill/SB2222/2025",
+      "legiscanId": 1999799,
+      "sponsors": [
+        "Tan Parker"
+      ]
+    },
+    {
       "id": "tx-sb2194",
       "billCode": "SB2194",
       "title": "Relating to an early childhood integrated data system.",
-      "summary": "This bill establishes an integrated data system to collect and share information about young children across early childhood programs in Texas. It focuses on coordinating data to improve early childhood services and outcomes.",
+      "summary": "This bill establishes an integrated data system to collect and share information about young children across early childhood programs in Texas. It focuses on improving coordination and outcomes for early childhood services by linking data from various agencies.",
       "stage": "Committee",
       "stance": "review",
       "impactTags": [
@@ -248,7 +328,7 @@
         "child-safety"
       ],
       "category": "ai-education",
-      "updatedDate": "2025-03-11",
+      "updatedDate": "2025-03-24",
       "partyOrigin": "R",
       "sourceUrl": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB2194",
       "legiscanUrl": "https://legiscan.com/TX/bill/SB2194/2025",
@@ -258,24 +338,53 @@
       ]
     },
     {
-      "id": "tx-sb2222",
-      "billCode": "SB2222",
-      "title": "Relating to an exemption from ad valorem taxation of the total appraised value of real property used as a data center and the tangible personal property used by the data center to meet the data center's demand for energy.",
-      "summary": "This Texas bill would exempt data centers and the equipment they use to meet their energy needs from property taxes. It is designed to attract data center investment to the state by reducing the tax burden on these facilities.",
+      "id": "tx-hb2083",
+      "billCode": "HB2083",
+      "title": "Relating to the use of automatic license plate reader systems.",
+      "summary": "This bill regulates how automatic license plate reader systems can be used, likely setting rules on data collection, storage, and access by law enforcement. It addresses privacy concerns related to tracking vehicles through automated surveillance technology.",
       "stage": "Committee",
-      "stance": "favorable",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "concerning"
+      },
       "impactTags": [
-        "tax-incentives",
-        "economic-development"
+        "algorithmic-transparency",
+        "data-privacy"
       ],
-      "category": "data-center-energy",
-      "updatedDate": "2025-03-11",
-      "partyOrigin": "R",
-      "sourceUrl": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB2222",
-      "legiscanUrl": "https://legiscan.com/TX/bill/SB2222/2025",
-      "legiscanId": 1999799,
+      "category": "ai-criminal-justice",
+      "updatedDate": "2025-03-14",
+      "partyOrigin": "D",
+      "sourceUrl": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2083",
+      "legiscanUrl": "https://legiscan.com/TX/bill/HB2083/2025",
+      "legiscanId": 1940402,
       "sponsors": [
-        "Tan Parker"
+        "John Bucy"
+      ]
+    },
+    {
+      "id": "tx-sb726",
+      "billCode": "SB726",
+      "title": "Relating to requiring operators of smart devices to provide information to users about the collection of personal data.",
+      "summary": "This bill requires smart device operators to disclose what personal data they collect from users and how they use it. The transparency requirement creates a regulatory obligation for device manufacturers and software providers handling consumer information.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "review",
+        "ai-consumer": "concerning"
+      },
+      "impactTags": [
+        "data-privacy",
+        "algorithmic-transparency"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2025-02-07",
+      "partyOrigin": "R",
+      "sourceUrl": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB726",
+      "legiscanUrl": "https://legiscan.com/TX/bill/SB726/2025",
+      "legiscanId": 1904076,
+      "sponsors": [
+        "Bryan Hughes"
       ]
     }
   ]

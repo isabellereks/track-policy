@@ -46,5 +46,57 @@
       "energy-rates"
     ],
     "contextBlurb": "Weld County's open land and energy infrastructure (including proximity to natural gas resources) have made it attractive for data center developers. County officials have weighed economic benefits against infrastructure impacts."
+  },
+  {
+    "id": "boulder-county-co",
+    "name": "Boulder County",
+    "fips": "08013",
+    "state": "Colorado",
+    "stateCode": "CO",
+    "type": "county",
+    "actions": [
+      {
+        "title": "Six-Month Moratorium on Data Center Applications",
+        "date": "2026-06-02",
+        "status": "enacted",
+        "summary": "Boulder County commissioners unanimously imposed a six-month moratorium on accepting data center applications in unincorporated areas while staff drafts Land Use Code definitions and siting rules.",
+        "sourceUrl": "https://bouldercounty.gov/property-and-land/land-use/planning/land-use-code-update/dc-26-0003/"
+      }
+    ],
+    "concerns": [
+      "local-zoning",
+      "local-control",
+      "grid-capacity",
+      "water-consumption",
+      "noise-vibration",
+      "environmental-review"
+    ],
+    "contextBlurb": "Boulder County paused data center applications in unincorporated areas for six months beginning June 2, 2026. Commissioners cited the absence of a specific data center use in the Land Use Code and directed staff to determine appropriate definitions, scales, locations, and potential prohibitions."
+  },
+  {
+    "id": "woodland-park-co",
+    "name": "Woodland Park",
+    "fips": "08119",
+    "state": "Colorado",
+    "stateCode": "CO",
+    "type": "city",
+    "actions": [
+      {
+        "title": "18-Month Data Center Application Moratorium (Ordinance 1525)",
+        "date": "2026-07-16",
+        "status": "enacted",
+        "summary": "Woodland Park adopted an 18-month moratorium on submitting, accepting, processing, or approving data center applications while the city develops zoning, land-use, water, and infrastructure standards.",
+        "sourceUrl": "https://woodlandpark.gov/DocumentCenter/View/6979/Ordinance-1525-Series-2026-PN-Temp-Moratorium---on-Data-Centers"
+      }
+    ],
+    "concerns": [
+      "local-zoning",
+      "local-control",
+      "grid-capacity",
+      "water-consumption",
+      "water-infrastructure",
+      "noise-vibration"
+    ],
+    "contextBlurb": "Woodland Park enacted an 18-month pause in July 2026 because its code lacked standards tailored to data centers' unusually large electricity and water requirements. The city will use the period to draft local rules and monitor possible statewide legislation in Colorado's 2027 session."
   }
 ]

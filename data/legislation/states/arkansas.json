@@ -2,19 +2,19 @@
   "state": "Arkansas",
   "stateCode": "AR",
   "region": "na",
-  "stance": "review",
-  "stanceDatacenter": "review",
+  "stance": "concerning",
+  "stanceDatacenter": "concerning",
   "stanceAI": "none",
-  "lastUpdated": "2026-04-14",
-  "contextBlurb": "Arkansas is moving to reopen its 2023 Data Centers Act and rework how much authority local governments have over crypto-mining operations, the state's closest analog to data centers. There is no active AI legislation.",
+  "lastUpdated": "2026-07-22",
+  "contextBlurb": "",
   "legislation": [
     {
       "id": "ar-sr7",
       "billCode": "SR7",
       "title": "To Authorize The Introduction Of A Nonappropriation Bill To Amend The Requirements For A Digital Asset Mining Business And Amend The Authority Of A Local Government With Respect To A Digital Asset Mining Business.",
-      "summary": "This Arkansas bill would change the rules for cryptocurrency mining businesses and adjust how much authority local governments have to regulate them. It could expand or restrict local oversight of these energy-intensive facilities, which often share infrastructure concerns with data centers.",
-      "stage": "Filed",
-      "stance": "concerning",
+      "summary": "This Arkansas resolution authorizes a bill that would change the rules for cryptocurrency mining businesses and adjust how much power local governments have to regulate them. It touches on zoning and community impact issues similar to data center siting policy.",
+      "stage": "Dead",
+      "stance": "review",
       "dimensionStances": {
         "community": "concerning",
         "land-use": "concerning"
@@ -25,7 +25,7 @@
         "noise-vibration"
       ],
       "category": "data-center-siting",
-      "updatedDate": "2026-04-03",
+      "updatedDate": "2026-04-29",
       "partyOrigin": "R",
       "sourceUrl": "https://arkleg.state.ar.us/Bills/Detail?id=sr7&ddBienniumSession=2025%2F2026F",
       "legiscanUrl": "https://legiscan.com/AR/bill/SR7/2026",
@@ -38,9 +38,9 @@
       "id": "ar-hr1013",
       "billCode": "HR1013",
       "title": "To Authorize The Introduction Of A Nonappropriation Bill To Amend The Requirements For A Digital Asset Mining Business And Amend The Authority Of A Local Government With Respect To A Digital Asset Mining Business.",
-      "summary": "This Arkansas bill would change the rules governing where and how cryptocurrency mining businesses can operate, including adjusting what local governments can and cannot regulate about these operations. It affects siting requirements and local authority over digital asset mining facilities, which often resemble data centers in their energy and land use impacts.",
-      "stage": "Committee",
-      "stance": "concerning",
+      "summary": "This bill authorizes the introduction of legislation to change the rules governing cryptocurrency mining businesses and adjust how much authority local governments have over them. It deals with siting and operational requirements for digital asset mining operations, which are similar to data centers in their infrastructure and community impact.",
+      "stage": "Dead",
+      "stance": "review",
       "dimensionStances": {
         "community": "concerning",
         "land-use": "concerning"
@@ -51,7 +51,7 @@
         "noise-vibration"
       ],
       "category": "data-center-siting",
-      "updatedDate": "2026-04-08",
+      "updatedDate": "2026-04-29",
       "partyOrigin": "R",
       "sourceUrl": "https://arkleg.state.ar.us/Bills/Detail?id=hr1013&ddBienniumSession=2025%2F2026F",
       "legiscanUrl": "https://legiscan.com/AR/bill/HR1013/2026",
@@ -61,35 +61,18 @@
       ]
     },
     {
-      "id": "ar-hb1058",
-      "billCode": "HB1058",
-      "title": "An Act For The Uams - Reynolds Center On Aging, Boozman College Of Public Health, Ark. Biosciences Institute, & The Area Health Ed. Center In Helena Appropriation For The 2026-2027 Fiscal Year.",
-      "summary": "This bill is a standard state budget appropriation for several University of Arkansas Medical Sciences programs for fiscal year 2026-2027. It has no direct connection to AI regulation or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-healthcare",
-      "updatedDate": "2026-04-01",
-      "sourceUrl": "https://arkleg.state.ar.us/Bills/Detail?id=hb1058&ddBienniumSession=2025%2F2026F",
-      "legiscanUrl": "https://legiscan.com/AR/bill/HB1058/2026",
-      "legiscanId": 2140557,
-      "sponsors": [
-        "Joint Budget Committee"
-      ]
-    },
-    {
       "id": "ar-sr10",
       "billCode": "SR10",
       "title": "To Authorize The Introduction Of A Nonappropriation Bill To Amend The Arkansas Data Centers Act Of 2023 And To Amend The Uniform Money Services Act.",
-      "summary": "This Arkansas Senate Resolution authorizes the introduction of a bill to update the state's Data Centers Act of 2023 and related money services law. It is a procedural step to allow amendments to existing data center policy rather than enacting any changes directly.",
-      "stage": "Filed",
+      "summary": "This Arkansas Senate Resolution authorizes the introduction of a bill to amend the state's existing Data Centers Act of 2023 and the Uniform Money Services Act. It is a procedural step to allow changes to data center policy, but does not itself impose new rules or restrictions.",
+      "stage": "Dead",
       "stance": "review",
       "impactTags": [
         "tax-incentives",
         "economic-development"
       ],
       "category": "data-center-siting",
-      "updatedDate": "2026-04-06",
+      "updatedDate": "2026-04-29",
       "partyOrigin": "R",
       "sourceUrl": "https://arkleg.state.ar.us/Bills/Detail?id=sr10&ddBienniumSession=2025%2F2026F",
       "legiscanUrl": "https://legiscan.com/AR/bill/SR10/2026",
@@ -102,15 +85,14 @@
       "id": "ar-hr1011",
       "billCode": "HR1011",
       "title": "To Authorize The Introduction Of A Nonappropriation Bill To Amend The Arkansas Data Centers Act Of 2023 And To Amend The Uniform Money Services Act.",
-      "summary": "This bill authorizes changes to Arkansas's existing Data Centers Act of 2023, likely to update rules or incentives governing data center operations in the state. It also touches on money services regulations, suggesting updates to financial service rules alongside data center policy.",
-      "stage": "Committee",
-      "stance": "favorable",
+      "summary": "This bill authorizes the introduction of legislation to update Arkansas's existing Data Centers Act of 2023 and the Uniform Money Services Act. It is a procedural step to allow amendments to data center and financial services rules rather than enacting direct policy changes itself.",
+      "stage": "Dead",
+      "stance": "review",
       "impactTags": [
-        "economic-development",
-        "tax-incentives"
+        "economic-development"
       ],
       "category": "data-center-siting",
-      "updatedDate": "2026-04-08",
+      "updatedDate": "2026-04-29",
       "partyOrigin": "R",
       "sourceUrl": "https://arkleg.state.ar.us/Bills/Detail?id=hr1011&ddBienniumSession=2025%2F2026F",
       "legiscanUrl": "https://legiscan.com/AR/bill/HR1011/2026",
@@ -120,122 +102,80 @@
       ]
     },
     {
-      "id": "ar-hb1021",
-      "billCode": "HB1021",
-      "title": "An Act For The Arkansas State University - Mid-south Appropriation For The 2026-2027 Fiscal Year.",
-      "summary": "This bill is a routine funding appropriation for Arkansas State University Mid-South for the 2026-2027 fiscal year. It has no direct connection to AI regulation or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-education",
-      "updatedDate": "2026-04-01",
-      "sourceUrl": "https://arkleg.state.ar.us/Bills/Detail?id=hb1021&ddBienniumSession=2025%2F2026F",
-      "legiscanUrl": "https://legiscan.com/AR/bill/HB1021/2026",
-      "legiscanId": 2140405,
+      "id": "ar-sr12",
+      "billCode": "SR12",
+      "title": "To Authorize The Introduction Of A Nonappropriation Bill To Regulate The Impact On Water Usage And The Electrical Grid By Blockchain Networks And Digital Asset Mining.",
+      "summary": "This resolution authorizes introduction of legislation to regulate how blockchain networks and digital asset mining operations impact water usage and electrical grid stability. It signals intent to create enforceable rules around resource consumption by these energy-intensive activities.",
+      "stage": "Dead",
+      "stance": "concerning",
+      "dimensionStances": {
+        "environmental": "review",
+        "energy": "review"
+      },
+      "impactTags": [
+        "water-consumption",
+        "carbon-emissions",
+        "grid-capacity",
+        "environmental-review"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-04-29",
+      "partyOrigin": "R",
+      "sourceUrl": "https://arkleg.state.ar.us/Bills/Detail?id=sr12&ddBienniumSession=2025%2F2026F",
+      "legiscanUrl": "https://legiscan.com/AR/bill/SR12/2026",
+      "legiscanId": 2141342,
       "sponsors": [
-        "Joint Budget Committee"
+        "Bryan King"
       ]
     },
     {
-      "id": "ar-sb42",
-      "billCode": "SB42",
-      "title": "An Act For The University Of Arkansas For Medical Sciences Appropriation For The 2026-2027 Fiscal Year.",
-      "summary": "This bill is a routine budget appropriation for the University of Arkansas for Medical Sciences for the 2026-2027 fiscal year. It does not address AI or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-healthcare",
-      "updatedDate": "2026-04-01",
-      "sourceUrl": "https://arkleg.state.ar.us/Bills/Detail?id=sb42&ddBienniumSession=2025%2F2026F",
-      "legiscanUrl": "https://legiscan.com/AR/bill/SB42/2026",
-      "legiscanId": 2140560,
+      "id": "ar-sr11",
+      "billCode": "SR11",
+      "title": "To Authorize The Introduction Of A Nonappropriation Bill To Require A Digital Asset Mining Business To Provide Notification Before Purchasing Or Leasing Land Or A Building Or Beginning Construction.",
+      "summary": "This resolution authorizes a future bill requiring digital asset mining operations (crypto/blockchain) to notify authorities before purchasing land or beginning construction. It establishes a notification requirement that enables local oversight of mining facility siting decisions.",
+      "stage": "Dead",
+      "stance": "concerning",
+      "dimensionStances": {
+        "community": "review",
+        "land-use": "review"
+      },
+      "impactTags": [
+        "local-control",
+        "local-zoning"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-04-29",
+      "partyOrigin": "R",
+      "sourceUrl": "https://arkleg.state.ar.us/Bills/Detail?id=sr11&ddBienniumSession=2025%2F2026F",
+      "legiscanUrl": "https://legiscan.com/AR/bill/SR11/2026",
+      "legiscanId": 2141359,
       "sponsors": [
-        "Joint Budget Committee"
+        "Bryan King"
       ]
     },
     {
-      "id": "ar-hb1054",
-      "billCode": "HB1054",
-      "title": "An Act For The Department Of Education - Division Of Career And Technical Education Appropriation For The 2026-2027 Fiscal Year.",
-      "summary": "This bill is a routine budget appropriation for Arkansas's Career and Technical Education division for the 2026-2027 fiscal year. It does not address AI or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-education",
-      "updatedDate": "2026-04-01",
-      "sourceUrl": "https://arkleg.state.ar.us/Bills/Detail?id=hb1054&ddBienniumSession=2025%2F2026F",
-      "legiscanUrl": "https://legiscan.com/AR/bill/HB1054/2026",
-      "legiscanId": 2140597,
+      "id": "ar-hr1014",
+      "billCode": "HR1014",
+      "title": "To Authorize The Introduction Of A Nonappropriation Bill To Require A Digital Asset Mining Business To Provide Notification Before Purchasing Or Leasing Land Or A Building Or Beginning Construction.",
+      "summary": "This bill would require digital asset mining businesses (which consume significant energy for cryptocurrency operations) to notify authorities before purchasing, leasing, or constructing facilities, giving communities advance warning and potential review authority over such projects.",
+      "stage": "Dead",
+      "stance": "concerning",
+      "dimensionStances": {
+        "community": "concerning",
+        "land-use": "concerning"
+      },
+      "impactTags": [
+        "local-control",
+        "local-zoning"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-04-29",
+      "partyOrigin": "R",
+      "sourceUrl": "https://arkleg.state.ar.us/Bills/Detail?id=hr1014&ddBienniumSession=2025%2F2026F",
+      "legiscanUrl": "https://legiscan.com/AR/bill/HR1014/2026",
+      "legiscanId": 2141907,
       "sponsors": [
-        "Joint Budget Committee"
-      ]
-    },
-    {
-      "id": "ar-sb21",
-      "billCode": "SB21",
-      "title": "An Act For The Department Of Human Services - Division Of Aging, Adult, And Behavioral Health Services Appropriation For The 2026-2027 Fiscal Year.",
-      "summary": "This bill is a routine state budget appropriation for Arkansas's Department of Human Services division covering aging, adult, and behavioral health services. It has no substantive connection to AI regulation or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2026-04-01",
-      "sourceUrl": "https://arkleg.state.ar.us/Bills/Detail?id=sb21&ddBienniumSession=2025%2F2026F",
-      "legiscanUrl": "https://legiscan.com/AR/bill/SB21/2026",
-      "legiscanId": 2140642,
-      "sponsors": [
-        "Joint Budget Committee"
-      ]
-    },
-    {
-      "id": "ar-sb45",
-      "billCode": "SB45",
-      "title": "An Act For The University Of Arkansas At Monticello Appropriation For The 2026-2027 Fiscal Year.",
-      "summary": "This bill sets the budget appropriation for the University of Arkansas at Monticello for the 2026-2027 fiscal year. It is a routine funding bill and is not related to AI or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-education",
-      "updatedDate": "2026-04-01",
-      "sourceUrl": "https://arkleg.state.ar.us/Bills/Detail?id=sb45&ddBienniumSession=2025%2F2026F",
-      "legiscanUrl": "https://legiscan.com/AR/bill/SB45/2026",
-      "legiscanId": 2140516,
-      "sponsors": [
-        "Joint Budget Committee"
-      ]
-    },
-    {
-      "id": "ar-hb1053",
-      "billCode": "HB1053",
-      "title": "An Act For The University Of Arkansas At Little Rock Appropriation For The 2026-2027 Fiscal Year.",
-      "summary": "This bill sets the budget appropriation for the University of Arkansas at Little Rock for the 2026-2027 fiscal year. It is a standard funding bill and is not related to AI or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-education",
-      "updatedDate": "2026-04-01",
-      "sourceUrl": "https://arkleg.state.ar.us/Bills/Detail?id=hb1053&ddBienniumSession=2025%2F2026F",
-      "legiscanUrl": "https://legiscan.com/AR/bill/HB1053/2026",
-      "legiscanId": 2140638,
-      "sponsors": [
-        "Joint Budget Committee"
-      ]
-    },
-    {
-      "id": "ar-hb1068",
-      "billCode": "HB1068",
-      "title": "An Act For The Department Of Finance And Administration Appropriation For The 2026-2027 Fiscal Year.",
-      "summary": "This bill is a routine state budget appropriation for the Arkansas Department of Finance and Administration for fiscal year 2026-2027. It is not related to AI or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2026-04-01",
-      "sourceUrl": "https://arkleg.state.ar.us/Bills/Detail?id=hb1068&ddBienniumSession=2025%2F2026F",
-      "legiscanUrl": "https://legiscan.com/AR/bill/HB1068/2026",
-      "legiscanId": 2140602,
-      "sponsors": [
-        "Joint Budget Committee"
+        "Ron Mcnair"
       ]
     }
   ]

@@ -5,15 +5,99 @@
   "stance": "concerning",
   "stanceDatacenter": "concerning",
   "stanceAI": "concerning",
-  "lastUpdated": "2026-04-14",
-  "contextBlurb": "New Jersey lawmakers are actively debating oversight of the state's fast-growing data center sector, with multiple bills (S3379, A4096, A4696) in committee that would require semi-annual water and energy usage disclosures to the Board of Public Utilities — a sign of mounting concern about grid strain and water consumption. The legislature is also taking up AI-adjacent issues including deepfake regulation in political ads, a facial recognition study for law enforcement, and consumer health data privacy, though none of these measures have advanced beyond committee. The breadth of activity across environmental, civil liberties, and workforce fronts reflects real legislative attention, but the absence of any enacted law leaves New Jersey without binding guardrails as AI infrastructure investment accelerates.",
+  "lastUpdated": "2026-07-22",
+  "contextBlurb": "New Jersey is advancing regulation across both data centers and AI. On data centers: A796 (enacted) — Requires electric utilities in New Jersey to create special rate rules for large data centers so that ordinary customers don't end up paying higher electricity bills because of the data c… On AI: A5328 (enacted) — Sets rules for how companies that collect and sell personal data must handle sensitive information about people.",
   "legislation": [
+    {
+      "id": "nj-a796",
+      "billCode": "A796",
+      "title": "Requires electric public utilities to develop and apply special rules for certain data centers to protect non-data center customers from increased costs.",
+      "summary": "This bill requires electric utilities in New Jersey to create special rate rules for large data centers so that ordinary customers don't end up paying higher electricity bills because of the data centers' heavy power use. It places regulatory obligations on utilities to financially separate data center costs from those of regular residential and commercial customers.",
+      "stage": "Enacted",
+      "stance": "concerning",
+      "dimensionStances": {
+        "energy": "concerning",
+        "community": "none"
+      },
+      "impactTags": [
+        "energy-rates",
+        "grid-capacity",
+        "local-control"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-07-07",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A796",
+      "legiscanUrl": "https://legiscan.com/NJ/bill/A796/2026",
+      "legiscanId": 2099196,
+      "sponsors": [
+        "David Bailey",
+        "Joe Danielsen",
+        "Clinton Calabrese",
+        "Eliana Marin"
+      ]
+    },
+    {
+      "id": "nj-a5328",
+      "billCode": "A5328",
+      "title": "Regulates data brokers, data collectors, and collection and dissemination of certain sensitive information.",
+      "summary": "This bill sets rules for how companies that collect and sell personal data must handle sensitive information about people. It places significant restrictions on data brokers and collectors in New Jersey, requiring them to follow new standards for gathering and sharing that data.",
+      "stage": "Enacted",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "review",
+        "ai-consumer": "concerning"
+      },
+      "impactTags": [
+        "data-privacy",
+        "algorithmic-transparency"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-06-30",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A5328",
+      "legiscanUrl": "https://legiscan.com/NJ/bill/A5328/2026",
+      "legiscanId": 2155014,
+      "sponsors": [
+        "William Moen",
+        "John McKeon",
+        "Raj Mukherji",
+        "Britnee Timberlake"
+      ]
+    },
+    {
+      "id": "nj-s2316",
+      "billCode": "S2316",
+      "title": "Regulates data brokers, data collectors, and collection and dissemination of certain sensitive information.",
+      "summary": "This bill sets rules for how businesses that collect and sell personal data must handle sensitive information about consumers. It places significant restrictions on data brokers and collectors, requiring them to follow specific guidelines about what data they can gather and share.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "review",
+        "ai-consumer": "concerning"
+      },
+      "impactTags": [
+        "data-privacy",
+        "algorithmic-transparency"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-06-30",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/S2316",
+      "legiscanUrl": "https://legiscan.com/NJ/bill/S2316/2026",
+      "legiscanId": 2076393,
+      "sponsors": [
+        "John McKeon",
+        "Raj Mukherji",
+        "Britnee Timberlake"
+      ]
+    },
     {
       "id": "nj-s3379",
       "billCode": "S3379",
       "title": "Requires data center owners and operators to submit semi-annual water and energy usage reports to BPU.",
-      "summary": "This bill would require data center owners and operators in New Jersey to report their water and energy usage to the Board of Public Utilities twice a year. The goal is to increase transparency around how much resources data centers consume.",
-      "stage": "Committee",
+      "summary": "This bill requires data center owners and operators in New Jersey to report their water and energy usage to the Board of Public Utilities twice a year. It creates mandatory transparency and oversight around how much power and water data centers consume.",
+      "stage": "Floor",
       "stance": "concerning",
       "dimensionStances": {
         "environmental": "concerning",
@@ -21,12 +105,11 @@
       },
       "impactTags": [
         "water-consumption",
-        "carbon-emissions",
         "water-infrastructure",
         "grid-capacity"
       ],
       "category": "data-center-energy",
-      "updatedDate": "2026-03-23",
+      "updatedDate": "2026-06-30",
       "partyOrigin": "D",
       "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/S3379",
       "legiscanUrl": "https://legiscan.com/NJ/bill/S3379/2026",
@@ -34,196 +117,15 @@
       "sponsors": [
         "Teresa Ruiz",
         "Raj Mukherji",
-        "Patrick Diegnan",
-        "James Beach"
-      ]
-    },
-    {
-      "id": "nj-s2860",
-      "billCode": "S2860",
-      "title": "Establishes Artificial Intelligence Apprenticeship Program and artificial intelligence apprenticeship tax credit program.",
-      "summary": "This New Jersey bill creates an apprenticeship program to train workers in artificial intelligence and offers tax credits to businesses that participate in training apprentices. It aims to build an AI-skilled workforce through employer incentives and structured on-the-job learning.",
-      "stage": "Committee",
-      "stance": "favorable",
-      "impactTags": [
-        "job-creation",
-        "tax-incentives",
-        "ai-in-employment"
-      ],
-      "category": "ai-workforce",
-      "updatedDate": "2026-01-13",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/S2860",
-      "legiscanUrl": "https://legiscan.com/NJ/bill/S2860/2026",
-      "legiscanId": 2074754,
-      "sponsors": [
-        "Angela Mcknight",
-        "Raj Mukherji"
-      ]
-    },
-    {
-      "id": "nj-a4163",
-      "billCode": "A4163",
-      "title": "Provides civil penalties for campaign advertisements containing \"deepfake\" misrepresentations of candidates.",
-      "summary": "This bill imposes civil fines on political campaigns that use AI-generated deepfakes to misrepresent candidates in advertisements. It targets fabricated or manipulated media used in elections to deceive voters about what a candidate said or did.",
-      "stage": "Committee",
-      "stance": "restrictive",
-      "dimensionStances": {
-        "ai-governance-dim": "none",
-        "ai-synthetic": "restrictive"
-      },
-      "impactTags": [
-        "deepfake-regulation",
-        "algorithmic-transparency"
-      ],
-      "category": "synthetic-media",
-      "updatedDate": "2026-02-19",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A4163",
-      "legiscanUrl": "https://legiscan.com/NJ/bill/A4163/2026",
-      "legiscanId": 2115902,
-      "sponsors": [
-        "Carol Murphy"
-      ]
-    },
-    {
-      "id": "nj-a759",
-      "billCode": "A759",
-      "title": "Requires AG to study law enforcement use of facial recognition technology and issue report with recommendations for Statewide policy.",
-      "summary": "This bill directs New Jersey's Attorney General to study how law enforcement agencies use facial recognition technology and produce a report recommending a statewide policy. It is an exploratory measure with no immediate restrictions or mandates on the technology's use.",
-      "stage": "Committee",
-      "stance": "review",
-      "impactTags": [
-        "algorithmic-transparency",
-        "ai-safety"
-      ],
-      "category": "ai-criminal-justice",
-      "updatedDate": "2026-01-13",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A759",
-      "legiscanUrl": "https://legiscan.com/NJ/bill/A759/2026",
-      "legiscanId": 2097817,
-      "sponsors": [
-        "Al Abdelaziz",
-        "Verlina Reynolds-Jackson",
-        "Ellen Park"
-      ]
-    },
-    {
-      "id": "nj-a2297",
-      "billCode": "A2297",
-      "title": "Establishes certain data privacy protection requirements for consumer health data, health care providers, and patients.",
-      "summary": "This bill creates privacy protections for consumer health data held by healthcare providers, setting rules around how that data can be collected, used, and shared. It places significant obligations on entities handling health information to safeguard patient privacy.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "dimensionStances": {
-        "ai-consumer": "concerning",
-        "ai-public": "concerning"
-      },
-      "impactTags": [
-        "data-privacy",
-        "ai-in-healthcare"
-      ],
-      "category": "data-privacy",
-      "updatedDate": "2026-01-13",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A2297",
-      "legiscanUrl": "https://legiscan.com/NJ/bill/A2297/2026",
-      "legiscanId": 2099443,
-      "sponsors": [
-        "Margie Donlon"
-      ]
-    },
-    {
-      "id": "nj-s2969",
-      "billCode": "S2969",
-      "title": "Establishes certain data privacy protection requirements for consumer health data, health care providers, and patients.",
-      "summary": "This bill creates privacy protections for consumer health data held by health care providers and other entities in New Jersey. It sets rules around how health data can be collected, used, and shared, giving patients more control over their personal health information.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "dimensionStances": {
-        "ai-consumer": "concerning",
-        "ai-public": "concerning"
-      },
-      "impactTags": [
-        "data-privacy",
-        "ai-in-healthcare"
-      ],
-      "category": "data-privacy",
-      "updatedDate": "2026-01-13",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/S2969",
-      "legiscanUrl": "https://legiscan.com/NJ/bill/S2969/2026",
-      "legiscanId": 2075900,
-      "sponsors": [
-        "Raj Mukherji"
-      ]
-    },
-    {
-      "id": "nj-s2305",
-      "billCode": "S2305",
-      "title": "Requires vehicle manufacturers to provide real-time access to motor vehicle data to vehicle owners and representatives.",
-      "summary": "This bill requires car manufacturers to give vehicle owners real-time access to their vehicle's data. While it involves data rights, it is not substantively related to AI regulation or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [
-        "data-privacy"
-      ],
-      "category": "data-privacy",
-      "updatedDate": "2026-01-13",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/S2305",
-      "legiscanUrl": "https://legiscan.com/NJ/bill/S2305/2026",
-      "legiscanId": 2077395,
-      "sponsors": [
-        "John McKeon"
-      ]
-    },
-    {
-      "id": "nj-a2531",
-      "billCode": "A2531",
-      "title": "Requires vehicle manufacturers to provide real-time access to motor vehicle data to vehicle owners and representatives.",
-      "summary": "This bill requires car manufacturers to give vehicle owners real-time access to their vehicle's data. It is not related to AI regulation or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [
-        "data-privacy"
-      ],
-      "category": "data-privacy",
-      "updatedDate": "2026-01-13",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A2531",
-      "legiscanUrl": "https://legiscan.com/NJ/bill/A2531/2026",
-      "legiscanId": 2098648,
-      "sponsors": [
-        "Rosy Bagolie"
-      ]
-    },
-    {
-      "id": "nj-s2316",
-      "billCode": "S2316",
-      "title": "Requires registration of data brokers and prohibits brokering of certain health records.",
-      "summary": "This bill requires companies that buy and sell personal data to register with the state and bans the sale of certain health records. It aims to protect consumers by limiting how their sensitive health information can be traded by data brokers.",
-      "stage": "Committee",
-      "stance": "restrictive",
-      "impactTags": [
-        "data-privacy"
-      ],
-      "category": "data-privacy",
-      "updatedDate": "2026-01-13",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/S2316",
-      "legiscanUrl": "https://legiscan.com/NJ/bill/S2316/2026",
-      "legiscanId": 2076393,
-      "sponsors": [
-        "John McKeon"
+        "Michael Venezia",
+        "Shama Haider"
       ]
     },
     {
       "id": "nj-a4096",
       "billCode": "A4096",
       "title": "Requires data center owners and operators to submit semi-annual water and energy usage reports to BPU.",
-      "summary": "This bill requires data center owners and operators in New Jersey to report their water and energy usage to the Board of Public Utilities every six months. It creates mandatory transparency around how much power and water data centers consume, without outright banning or limiting their operations.",
+      "summary": "This bill requires data center owners and operators in New Jersey to report their water and energy usage to the Board of Public Utilities twice a year. It creates a mandatory reporting obligation aimed at tracking the environmental and infrastructure footprint of data centers in the state.",
       "stage": "Committee",
       "stance": "concerning",
       "dimensionStances": {
@@ -237,7 +139,7 @@
         "grid-capacity"
       ],
       "category": "data-center-energy",
-      "updatedDate": "2026-02-19",
+      "updatedDate": "2026-06-30",
       "partyOrigin": "D",
       "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A4096",
       "legiscanUrl": "https://legiscan.com/NJ/bill/A4096/2026",
@@ -245,7 +147,183 @@
       "sponsors": [
         "Michael Venezia",
         "Shama Haider",
-        "Rosy Bagolie"
+        "Rosy Bagolie",
+        "Katie Brennan"
+      ]
+    },
+    {
+      "id": "nj-s731",
+      "billCode": "S731",
+      "title": "Requires electric public utilities to develop and apply special rules for large load customers to protect non-large load customers from increased costs.",
+      "summary": "New Jersey would require electric utilities to create separate rate structures for large industrial customers (like data centers) to prevent those heavy users from causing rate increases for residential and small business customers. This represents regulatory action to manage the cost impacts of major power consumers on the broader customer base.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "impactTags": [
+        "energy-rates",
+        "grid-capacity"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-06-30",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/S731",
+      "legiscanUrl": "https://legiscan.com/NJ/bill/S731/2026",
+      "legiscanId": 2075970,
+      "sponsors": [
+        "John Burzichelli",
+        "John McKeon",
+        "Shirley Turner",
+        "James Beach"
+      ]
+    },
+    {
+      "id": "nj-s3413",
+      "billCode": "S3413",
+      "title": "\"New Jersey Kids Code Act\"; adopts New Jersey Age-Appropriate Design Code and requires certain online service providers to implement certain measures concerning minors' use of online service.",
+      "summary": "This bill requires online service providers to implement age-appropriate design standards and privacy protections for minors, including restrictions on data collection and algorithmic recommendations targeting children. The law imposes mandatory safety measures on platforms serving users under 18 to mitigate harms from tracking, manipulation, and addictive design practices.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "impactTags": [
+        "child-safety",
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-06-30",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/S3413",
+      "legiscanUrl": "https://legiscan.com/NJ/bill/S3413/2026",
+      "legiscanId": 2109098,
+      "sponsors": [
+        "Raj Mukherji",
+        "Linda Greenstein",
+        "Anthony M. Bucco",
+        "James Beach"
+      ]
+    },
+    {
+      "id": "nj-a5332",
+      "billCode": "A5332",
+      "title": "Regulates data brokers and collection and dissemination of certain sensitive information.",
+      "summary": "This bill regulates companies that collect and sell personal data, placing rules on how sensitive information can be gathered and shared. It aims to protect consumers by limiting what data brokers can do with people's private information.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-governance-dim": "none",
+        "ai-consumer": "restrictive"
+      },
+      "impactTags": [
+        "data-privacy",
+        "algorithmic-transparency"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-06-28",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A5332",
+      "legiscanUrl": "https://legiscan.com/NJ/bill/A5332/2026",
+      "legiscanId": 2154521,
+      "sponsors": [
+        "William Moen"
+      ]
+    },
+    {
+      "id": "nj-a5294",
+      "billCode": "A5294",
+      "title": "\"Responsible Data Center Development and Resource Protection Act\"; establishes Statewide framework concerning siting, land use approval, energy sourcing, water use, and environmental impacts of large load data center development.",
+      "summary": "New Jersey establishes comprehensive statewide rules for siting and approving large data centers, requiring review of energy sourcing, water consumption, and environmental impacts. The framework gives the state and local authorities oversight to manage data center development and protect natural resources.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "environmental": "concerning",
+        "energy": "concerning",
+        "community": "concerning"
+      },
+      "impactTags": [
+        "water-consumption",
+        "carbon-emissions",
+        "environmental-review",
+        "grid-capacity",
+        "local-control"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-06-18",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A5294",
+      "legiscanUrl": "https://legiscan.com/NJ/bill/A5294/2026",
+      "legiscanId": 2153863,
+      "sponsors": [
+        "William Moen"
+      ]
+    },
+    {
+      "id": "nj-s4402",
+      "billCode": "S4402",
+      "title": "\"Responsible Data Center Development and Resource Protection Act\"; establishes Statewide framework concerning siting, land use approval, energy sourcing, water use, and environmental impacts of large load data center development.",
+      "summary": "New Jersey establishes a comprehensive statewide framework governing where large data centers can be built, requiring reviews of their energy sourcing, water consumption, and environmental impacts. The law creates enforceable rules around siting and land use approval to manage the resource demands and local effects of data center development.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "environmental": "concerning",
+        "energy": "concerning",
+        "community": "concerning",
+        "land-use": "restrictive"
+      },
+      "impactTags": [
+        "local-zoning",
+        "water-consumption",
+        "carbon-emissions",
+        "environmental-review",
+        "energy-rates"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-06-04",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/S4402",
+      "legiscanUrl": "https://legiscan.com/NJ/bill/S4402/2026",
+      "legiscanId": 2152534,
+      "sponsors": [
+        "Troy Singleton",
+        "Angela Mcknight"
+      ]
+    },
+    {
+      "id": "nj-s4400",
+      "billCode": "S4400",
+      "title": "Requires DEP to conduct study of short and long term effects of water use by large-scale data centers.",
+      "summary": "New Jersey requires the Department of Environmental Protection to study how large-scale data centers affect water resources both immediately and over time. This exploratory measure seeks to understand the environmental impact of data center water consumption without imposing restrictions.",
+      "stage": "Committee",
+      "stance": "review",
+      "impactTags": [
+        "water-consumption",
+        "environmental-review"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-06-04",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/S4400",
+      "legiscanUrl": "https://legiscan.com/NJ/bill/S4400/2026",
+      "legiscanId": 2152503,
+      "sponsors": [
+        "Patrick Diegnan",
+        "James Beach"
+      ]
+    },
+    {
+      "id": "nj-s4109",
+      "billCode": "S4109",
+      "title": "Prohibits controller of commercial Internet website or online service from selling sensitive personal data.",
+      "summary": "This bill prohibits commercial websites and online services from selling sensitive personal data. It creates enforceable restrictions on how personal information can be monetized online.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "impactTags": [
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-05-18",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/S4109",
+      "legiscanUrl": "https://legiscan.com/NJ/bill/S4109/2026",
+      "legiscanId": 2137264,
+      "sponsors": [
+        "Raj Mukherji"
       ]
     },
     {
@@ -273,7 +351,152 @@
       "legiscanId": 2131957,
       "sponsors": [
         "Eliana Marin",
-        "Carmen Morales"
+        "Carmen Morales",
+        "Katie Brennan"
+      ]
+    },
+    {
+      "id": "nj-a3966",
+      "billCode": "A3966",
+      "title": "Requires DEP to conduct study of short and long term effects of water use by large-scale data centers.",
+      "summary": "New Jersey requires the Department of Environmental Protection to study how large-scale data centers use and impact water resources, both immediately and over time. This is an exploratory mandate to understand environmental effects before setting policy.",
+      "stage": "Committee",
+      "stance": "review",
+      "impactTags": [
+        "water-consumption",
+        "environmental-review"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-03-16",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A3966",
+      "legiscanUrl": "https://legiscan.com/NJ/bill/A3966/2026",
+      "legiscanId": 2098061,
+      "sponsors": [
+        "Robert Karabinchak",
+        "Ravi Bhalla",
+        "Alixon Collazos-Gill",
+        "Gerard Scharfenberger"
+      ]
+    },
+    {
+      "id": "nj-a4163",
+      "billCode": "A4163",
+      "title": "Provides civil penalties for campaign advertisements containing \"deepfake\" misrepresentations of candidates.",
+      "summary": "This bill would impose civil penalties on political campaign ads that use deepfakes to misrepresent candidates. It targets AI-generated or manipulated media used to deceive voters during elections.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-governance-dim": "none",
+        "ai-synthetic": "restrictive"
+      },
+      "impactTags": [
+        "deepfake-regulation",
+        "algorithmic-transparency"
+      ],
+      "category": "synthetic-media",
+      "updatedDate": "2026-02-19",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A4163",
+      "legiscanUrl": "https://legiscan.com/NJ/bill/A4163/2026",
+      "legiscanId": 2115902,
+      "sponsors": [
+        "Carol Murphy"
+      ]
+    },
+    {
+      "id": "nj-s2860",
+      "billCode": "S2860",
+      "title": "Establishes Artificial Intelligence Apprenticeship Program and artificial intelligence apprenticeship tax credit program.",
+      "summary": "This bill creates a state-run apprenticeship program to train workers in artificial intelligence and offers tax credits to employers who participate. It aims to build an AI-skilled workforce in New Jersey through structured on-the-job training opportunities.",
+      "stage": "Committee",
+      "stance": "favorable",
+      "impactTags": [
+        "job-creation",
+        "tax-incentives",
+        "ai-in-employment"
+      ],
+      "category": "ai-workforce",
+      "updatedDate": "2026-01-13",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/S2860",
+      "legiscanUrl": "https://legiscan.com/NJ/bill/S2860/2026",
+      "legiscanId": 2074754,
+      "sponsors": [
+        "Angela Mcknight"
+      ]
+    },
+    {
+      "id": "nj-a759",
+      "billCode": "A759",
+      "title": "Requires AG to study law enforcement use of facial recognition technology and issue report with recommendations for Statewide policy.",
+      "summary": "This bill requires New Jersey's Attorney General to study how law enforcement agencies use facial recognition technology and publish a report with policy recommendations. It does not impose any bans or restrictions, but rather calls for research to inform future statewide policy.",
+      "stage": "Committee",
+      "stance": "review",
+      "impactTags": [
+        "algorithmic-transparency",
+        "ai-safety"
+      ],
+      "category": "ai-criminal-justice",
+      "updatedDate": "2026-01-13",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A759",
+      "legiscanUrl": "https://legiscan.com/NJ/bill/A759/2026",
+      "legiscanId": 2097817,
+      "sponsors": [
+        "Al Abdelaziz",
+        "Verlina Reynolds-Jackson",
+        "Ellen Park"
+      ]
+    },
+    {
+      "id": "nj-a2297",
+      "billCode": "A2297",
+      "title": "Establishes certain data privacy protection requirements for consumer health data, health care providers, and patients.",
+      "summary": "This bill creates rules to protect the privacy of consumer health data held by health care providers and other entities in New Jersey. It sets requirements for how health data can be collected, used, and shared, giving patients more control over their personal health information.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-consumer": "concerning",
+        "ai-public": "concerning"
+      },
+      "impactTags": [
+        "data-privacy",
+        "ai-in-healthcare"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-01-13",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A2297",
+      "legiscanUrl": "https://legiscan.com/NJ/bill/A2297/2026",
+      "legiscanId": 2099443,
+      "sponsors": [
+        "Margie Donlon"
+      ]
+    },
+    {
+      "id": "nj-s2969",
+      "billCode": "S2969",
+      "title": "Establishes certain data privacy protection requirements for consumer health data, health care providers, and patients.",
+      "summary": "This bill sets rules for how health care providers and other entities must protect consumers' personal health data. It establishes requirements around the collection, use, and sharing of consumer health information to safeguard patient privacy.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-consumer": "concerning",
+        "ai-public": "concerning"
+      },
+      "impactTags": [
+        "data-privacy",
+        "ai-in-healthcare"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-01-13",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/S2969",
+      "legiscanUrl": "https://legiscan.com/NJ/bill/S2969/2026",
+      "legiscanId": 2075900,
+      "sponsors": [
+        "Raj Mukherji"
       ]
     },
     {
@@ -302,7 +525,181 @@
       "sponsors": [
         "Teresa Ruiz",
         "Renee Burgess",
-        "John McKeon"
+        "John McKeon",
+        "James Beach"
+      ]
+    },
+    {
+      "id": "nj-s1354",
+      "billCode": "S1354",
+      "title": "Requires controller or processor to de-identify personal data and prohibits re-identification of de-identified data.",
+      "summary": "This bill requires companies handling personal data to de-identify it and makes it illegal to re-identify de-identified data. It strengthens privacy protections by preventing companies from reconstructing personal information from supposedly anonymized datasets.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "none",
+        "ai-consumer": "restrictive"
+      },
+      "impactTags": [
+        "data-privacy",
+        "algorithmic-transparency"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-01-13",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/S1354",
+      "legiscanUrl": "https://legiscan.com/NJ/bill/S1354/2026",
+      "legiscanId": 2077078,
+      "sponsors": [
+        "Joseph Pennacchio"
+      ]
+    },
+    {
+      "id": "nj-a1101",
+      "billCode": "A1101",
+      "title": "Requires development of longitudinal data system that maintains individuals' data from preschool through entry into workforce.",
+      "summary": "New Jersey would establish a longitudinal data system tracking individual students' information from preschool through workforce entry. The system raises data privacy and security concerns given the sensitive nature of student records and the extended timeframe of data collection.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-consumer": "concerning",
+        "ai-public": "favorable"
+      },
+      "impactTags": [
+        "data-privacy",
+        "ai-in-education"
+      ],
+      "category": "ai-education",
+      "updatedDate": "2026-01-13",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A1101",
+      "legiscanUrl": "https://legiscan.com/NJ/bill/A1101/2026",
+      "legiscanId": 2096808,
+      "sponsors": [
+        "Joe Danielsen"
+      ]
+    },
+    {
+      "id": "nj-s3180",
+      "billCode": "S3180",
+      "title": "Imposes tax on collection of consumer data in certain instances; dedicates portion of annual revenues to support 9-8-8 suicide prevention and behavioral health crisis hotline.",
+      "summary": "This bill imposes a tax on companies that collect consumer data under certain circumstances, with revenues directed to fund suicide prevention and mental health crisis services. The tax represents a regulatory mechanism to control data collection practices while generating public health funding.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "impactTags": [
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-01-13",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/S3180",
+      "legiscanUrl": "https://legiscan.com/NJ/bill/S3180/2026",
+      "legiscanId": 2075487,
+      "sponsors": [
+        "Nicholas Scutari",
+        "Joseph Vitale"
+      ]
+    },
+    {
+      "id": "nj-a973",
+      "billCode": "A973",
+      "title": "Expands definition of personal data to include use of reproductive health care services and prohibits collection of reproductive health care prescription drugs from Prescription Monitoring Program.",
+      "summary": "This bill expands New Jersey's definition of personal data to protect information about reproductive health care services and prohibits authorities from collecting reproductive health prescription drug data through the state's Prescription Monitoring Program. The legislation restricts data collection and use in a sensitive health category.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "impactTags": [
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-01-13",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A973",
+      "legiscanUrl": "https://legiscan.com/NJ/bill/A973/2026",
+      "legiscanId": 2098900,
+      "sponsors": [
+        "Carol Murphy",
+        "Annette Quijano"
+      ]
+    },
+    {
+      "id": "nj-a2420",
+      "billCode": "A2420",
+      "title": "Requires disclosure of data recording devices in motor vehicles; limits access to recorded data.",
+      "summary": "This bill requires vehicle manufacturers to disclose any data recording devices installed in motor vehicles and establishes limits on who can access the recorded data. It addresses privacy protections for vehicle occupants against unauthorized data collection and access.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "impactTags": [
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-01-13",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A2420",
+      "legiscanUrl": "https://legiscan.com/NJ/bill/A2420/2026",
+      "legiscanId": 2095804,
+      "sponsors": [
+        "Tennille McCoy",
+        "Carmen Morales"
+      ]
+    },
+    {
+      "id": "nj-s2956",
+      "billCode": "S2956",
+      "title": "Exempts certain personal information and entities from certain requirments concerning notification and disclosure of personal data.",
+      "summary": "This bill exempts certain categories of personal information and specific entities from data breach notification and disclosure requirements under New Jersey privacy law. The exemptions reduce compliance burdens for covered entities by narrowing which data incidents trigger mandatory notification obligations.",
+      "stage": "Dead",
+      "stance": "favorable",
+      "impactTags": [
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-01-13",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/S2956",
+      "legiscanUrl": "https://legiscan.com/NJ/bill/S2956/2026",
+      "legiscanId": 2075729,
+      "sponsors": [
+        "Raj Mukherji"
+      ]
+    },
+    {
+      "id": "nj-a1401",
+      "billCode": "A1401",
+      "title": "Exempts certain personal information and entities from certain requirements concerning notification and disclosure of personal data.",
+      "summary": "This bill exempts specific types of personal information and certain entities from data breach notification and disclosure requirements. The exemption reduces regulatory compliance burdens for affected parties.",
+      "stage": "Dead",
+      "stance": "favorable",
+      "impactTags": [
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-01-13",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A1401",
+      "legiscanUrl": "https://legiscan.com/NJ/bill/A1401/2026",
+      "legiscanId": 2096275,
+      "sponsors": [
+        "Ellen Park",
+        "Cody Miller"
+      ]
+    },
+    {
+      "id": "nj-s611",
+      "billCode": "S611",
+      "title": "Directs New Jersey Cybersecurity and Communications Integration Cell, Office of Information Technology, and New Jersey Big Data Alliance to develop advanced cyberinfrastructure strategic plan.",
+      "summary": "Directs state agencies and the New Jersey Big Data Alliance to develop a strategic plan for advanced cyberinfrastructure. This is exploratory work to assess infrastructure needs without imposing specific restrictions or requirements.",
+      "stage": "Committee",
+      "stance": "review",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-13",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/S611",
+      "legiscanUrl": "https://legiscan.com/NJ/bill/S611/2026",
+      "legiscanId": 2075984,
+      "sponsors": [
+        "Robert Smith",
+        "Patrick Diegnan"
       ]
     }
   ]

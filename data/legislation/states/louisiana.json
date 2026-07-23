@@ -2,43 +2,224 @@
   "state": "Louisiana",
   "stateCode": "LA",
   "region": "na",
-  "stance": "concerning",
+  "stance": "restrictive",
   "stanceDatacenter": "review",
-  "stanceAI": "concerning",
-  "lastUpdated": "2026-04-14",
-  "contextBlurb": "Louisiana enacted a law banning AI-generated deepfakes targeting K-12 students and is weighing bills to require water-use permits for data centers and oversee insurer use of AI in claims decisions. A broader AI consumer-rights bill is also in committee.",
+  "stanceAI": "restrictive",
+  "lastUpdated": "2026-07-22",
+  "contextBlurb": "Louisiana is under discussion on data centers and leaning restrictive on AI. On data centers: HB1206 (in committee) — Requires data centers to obtain permits and report their water usage to state authorities. On AI: HB119 (enacted) — Makes it illegal to create or share AI-generated images of real people without their consent.",
   "legislation": [
     {
-      "id": "la-hb1206",
-      "billCode": "HB1206",
-      "title": "Provides relative to permitting and reporting of water usage at data centers",
-      "summary": "This Louisiana bill requires data centers to obtain permits and report on how much water they use. It creates new regulatory requirements aimed at tracking and managing the significant water consumption associated with data center cooling systems.",
-      "stage": "Committee",
-      "stance": "concerning",
+      "id": "la-hb119",
+      "billCode": "HB119",
+      "title": "Provides relative to unlawful conduct involving images of another person created by artificial intelligence (EN SEE FISC NOTE GF EX)",
+      "summary": "This Louisiana bill makes it illegal to create or share AI-generated images of real people without their consent. It establishes criminal penalties for those who use artificial intelligence to produce unauthorized or harmful depictions of individuals.",
+      "stage": "Enacted",
+      "stance": "restrictive",
       "dimensionStances": {
-        "environmental": "concerning",
-        "energy": "concerning"
+        "ai-consumer": "restrictive",
+        "ai-synthetic": "restrictive"
       },
       "impactTags": [
-        "water-consumption",
-        "water-infrastructure",
-        "environmental-review"
+        "deepfake-regulation",
+        "child-safety",
+        "data-privacy"
       ],
-      "category": "data-center-energy",
-      "updatedDate": "2026-03-31",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=HB1206&sbi=y",
-      "legiscanUrl": "https://legiscan.com/LA/bill/HB1206/2026",
-      "legiscanId": 2139959,
+      "category": "synthetic-media",
+      "updatedDate": "2026-06-09",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=HB119&sbi=y",
+      "legiscanUrl": "https://legiscan.com/LA/bill/HB119/2026",
+      "legiscanId": 2116827,
       "sponsors": [
-        "Joy Walters"
+        "Bryan Fontenot",
+        "Alonzo Knox"
+      ]
+    },
+    {
+      "id": "la-sb42",
+      "billCode": "SB42",
+      "title": "Prohibits using artificial intelligence to create child sexual abuse materials. (8/1/26)",
+      "summary": "This bill bans the use of AI to generate child sexual abuse material. Violations are subject to criminal prohibition under Louisiana law.",
+      "stage": "Enacted",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-consumer": "restrictive",
+        "ai-synthetic": "restrictive"
+      },
+      "impactTags": [
+        "deepfake-regulation",
+        "child-safety"
+      ],
+      "category": "synthetic-media",
+      "updatedDate": "2026-06-09",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=SB42&sbi=y",
+      "legiscanUrl": "https://legiscan.com/LA/bill/SB42/2026",
+      "legiscanId": 2112921,
+      "sponsors": [
+        "Rick Edmonds",
+        "Blake Miguez",
+        "Beryl Amedee",
+        "Tony Bacala"
+      ]
+    },
+    {
+      "id": "la-hb459",
+      "billCode": "HB459",
+      "title": "Provides relative to the use of artificial intelligence in political campaigns",
+      "summary": "This bill regulates the use of artificial intelligence in political campaigns, likely addressing synthetic media and deepfakes in electoral contexts. The legislation aims to establish rules around AI-generated content used for political purposes.",
+      "stage": "Enacted",
+      "stance": "concerning",
+      "impactTags": [
+        "deepfake-regulation"
+      ],
+      "category": "synthetic-media",
+      "updatedDate": "2026-06-09",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=HB459&sbi=y",
+      "legiscanUrl": "https://legiscan.com/LA/bill/HB459/2026",
+      "legiscanId": 2125405,
+      "sponsors": [
+        "Mandie Landry",
+        "Jessica Domangue"
+      ]
+    },
+    {
+      "id": "la-hr302",
+      "billCode": "HR302",
+      "title": "Requests the Legislative Youth Advisory Council to discuss artificial intelligence issues that may affect young people in Louisiana",
+      "summary": "This bill asks Louisiana's Legislative Youth Advisory Council to study and discuss how artificial intelligence might affect young people in the state. It is an exploratory request without binding regulatory requirements.",
+      "stage": "Enacted",
+      "stance": "review",
+      "dimensionStances": {
+        "ai-consumer": "review",
+        "ai-public": "review"
+      },
+      "impactTags": [
+        "child-safety",
+        "ai-in-education"
+      ],
+      "category": "ai-education",
+      "updatedDate": "2026-06-03",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=HR302&sbi=y",
+      "legiscanUrl": "https://legiscan.com/LA/bill/HR302/2026",
+      "legiscanId": 2150698,
+      "sponsors": [
+        "John Wyble",
+        "Tehmi Chassion"
+      ]
+    },
+    {
+      "id": "la-hb632",
+      "billCode": "HB632",
+      "title": "Provides relative to information sharing for the purposes of Louisiana's Foundational Integrated Research System for Transformation (LA FIRST)",
+      "summary": "This bill sets up rules for how information can be shared within Louisiana's LA FIRST system, which appears to be a state data integration and research initiative. It focuses on data sharing protocols rather than imposing restrictions or incentives.",
+      "stage": "Enacted",
+      "stance": "review",
+      "dimensionStances": {
+        "ai-governance-dim": "review",
+        "ai-consumer": "none"
+      },
+      "impactTags": [
+        "data-privacy",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-06-02",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=HB632&sbi=y",
+      "legiscanUrl": "https://legiscan.com/LA/bill/HB632/2026",
+      "legiscanId": 2126336,
+      "sponsors": [
+        "Annie Spell",
+        "Tehmi Chassion"
+      ]
+    },
+    {
+      "id": "la-hb475",
+      "billCode": "HB475",
+      "title": "Requires a healthcare provider to obtain a patient's consent prior to recording a medical visit",
+      "summary": "Healthcare providers must obtain explicit patient consent before recording any medical visit. This protects patient privacy in healthcare settings where AI and automated systems may increasingly be used to document or analyze patient interactions.",
+      "stage": "Enacted",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-consumer": "restrictive",
+        "ai-public": "restrictive"
+      },
+      "impactTags": [
+        "data-privacy",
+        "ai-in-healthcare"
+      ],
+      "category": "ai-healthcare",
+      "updatedDate": "2026-06-02",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=HB475&sbi=y",
+      "legiscanUrl": "https://legiscan.com/LA/bill/HB475/2026",
+      "legiscanId": 2125621,
+      "sponsors": [
+        "Stephanie Berault"
+      ]
+    },
+    {
+      "id": "la-sb346",
+      "billCode": "SB346",
+      "title": "Prohibits the use of deepfake material against students enrolled in K-12. (8/1/26)",
+      "summary": "This Louisiana law bans the creation or use of AI-generated fake images or videos (deepfakes) targeting K-12 students. It establishes enforceable protections specifically for minors in schools against synthetic media abuse.",
+      "stage": "Enacted",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-consumer": "restrictive",
+        "ai-synthetic": "restrictive"
+      },
+      "impactTags": [
+        "deepfake-regulation",
+        "child-safety"
+      ],
+      "category": "synthetic-media",
+      "updatedDate": "2026-05-29",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=SB346&sbi=y",
+      "legiscanUrl": "https://legiscan.com/LA/bill/SB346/2026",
+      "legiscanId": 2127071,
+      "sponsors": [
+        "Regina Barrow",
+        "Tehmi Chassion",
+        "Barbara Freiberg",
+        "Terry Landry Jr."
+      ]
+    },
+    {
+      "id": "la-hb639",
+      "billCode": "HB639",
+      "title": "Requires disclosure of the use of artificial intelligence in telephone campaign communications",
+      "summary": "This bill requires political campaigns to disclose when artificial intelligence is used to create or assist in telephone communications. Voters must be informed when AI-generated content is used in campaign calls.",
+      "stage": "Enacted",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-synthetic": "concerning"
+      },
+      "impactTags": [
+        "deepfake-regulation",
+        "algorithmic-transparency"
+      ],
+      "category": "synthetic-media",
+      "updatedDate": "2026-05-29",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=HB639&sbi=y",
+      "legiscanUrl": "https://legiscan.com/LA/bill/HB639/2026",
+      "legiscanId": 2126197,
+      "sponsors": [
+        "Mike Bayham",
+        "Mandie Landry"
       ]
     },
     {
       "id": "la-sb246",
       "billCode": "SB246",
       "title": "Establishes requirements for health insurance issuers using artificial intelligence or automated decision systems. (8/1/26)",
-      "summary": "This Louisiana bill sets rules for health insurance companies that use AI or automated systems to make coverage and claims decisions. It aims to ensure these systems are transparent, accountable, and don't unfairly deny or limit patient benefits.",
+      "summary": "This Louisiana bill sets rules for health insurance companies that use AI or automated systems to make decisions, such as approving or denying coverage. It aims to ensure these systems are used responsibly and transparently when affecting patients' health coverage.",
       "stage": "Committee",
       "stance": "concerning",
       "dimensionStances": {
@@ -52,7 +233,7 @@
         "data-privacy"
       ],
       "category": "ai-healthcare",
-      "updatedDate": "2026-02-26",
+      "updatedDate": "2026-05-28",
       "partyOrigin": "D",
       "sourceUrl": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=SB246&sbi=y",
       "legiscanUrl": "https://legiscan.com/LA/bill/SB246/2026",
@@ -63,11 +244,11 @@
       ]
     },
     {
-      "id": "la-sb346",
-      "billCode": "SB346",
-      "title": "Prohibits the use of deepfake material against students enrolled in K-12. (8/1/26)",
-      "summary": "This Louisiana law bans the creation or use of AI-generated fake images or videos (deepfakes) targeting K-12 students. It establishes enforceable protections for minors in schools against synthetic media abuse.",
-      "stage": "Committee",
+      "id": "la-sb110",
+      "billCode": "SB110",
+      "title": "Prohibits using a child's image to train artificial intelligence to produce child sexual abuse materials. (8/1/26)",
+      "summary": "This bill prohibits using images of children to train AI systems that generate child sexual abuse material. The law takes effect August 1, 2026.",
+      "stage": "Enacted",
       "stance": "restrictive",
       "dimensionStances": {
         "ai-consumer": "restrictive",
@@ -78,96 +259,133 @@
         "child-safety"
       ],
       "category": "synthetic-media",
-      "updatedDate": "2026-02-27",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=SB346&sbi=y",
-      "legiscanUrl": "https://legiscan.com/LA/bill/SB346/2026",
-      "legiscanId": 2127071,
-      "sponsors": [
-        "Regina Barrow"
-      ]
-    },
-    {
-      "id": "la-hb922",
-      "billCode": "HB922",
-      "title": "Provides relative to increases for certain utility rates",
-      "summary": "This bill addresses utility rate increases for certain customers in Louisiana. It does not appear to be specifically focused on AI or data-center policy, though utility rates can affect both sectors.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [
-        "energy-rates",
-        "grid-capacity"
-      ],
-      "category": "data-center-energy",
-      "updatedDate": "2026-02-27",
+      "updatedDate": "2026-05-14",
       "partyOrigin": "B",
-      "sourceUrl": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=HB922&sbi=y",
-      "legiscanUrl": "https://legiscan.com/LA/bill/HB922/2026",
-      "legiscanId": 2127129,
+      "sourceUrl": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=SB110&sbi=y",
+      "legiscanUrl": "https://legiscan.com/LA/bill/SB110/2026",
+      "legiscanId": 2122579,
       "sponsors": [
-        "Rodney Schamerhorn",
-        "Wilford Carter"
+        "Heather Cloud",
+        "Mark Abraham",
+        "Regina Barrow",
+        "Stewart Cathey"
       ]
     },
     {
-      "id": "la-sb274",
-      "billCode": "SB274",
-      "title": "Provides for lead hazard risk assessments for certain child care facilities and prekindergarten programs. (8/1/26) (RE INCREASE SG EX See Note)",
-      "summary": "This bill requires lead hazard risk assessments in child care facilities and prekindergarten programs. It has no connection to AI or data-center policy.",
+      "id": "la-hb897",
+      "billCode": "HB897",
+      "title": "Provides relative to protecting healthcare data",
+      "summary": "This bill establishes rules to protect healthcare data in Louisiana, setting requirements for how health information can be collected, stored, and used. It aims to give patients stronger privacy protections over their sensitive medical information.",
       "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-education",
-      "updatedDate": "2026-02-27",
-      "partyOrigin": "R",
-      "sourceUrl": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=SB274&sbi=y",
-      "legiscanUrl": "https://legiscan.com/LA/bill/SB274/2026",
-      "legiscanId": 2126289,
-      "sponsors": [
-        "Rick Edmonds"
-      ]
-    },
-    {
-      "id": "la-hb821",
-      "billCode": "HB821",
-      "title": "Provides for the establishment of the Louisiana Center for Safe Schools within the Louisiana Commission on Law Enforcement and Administration of Criminal Justice (EG +$250,000 GF EX See Note)",
-      "summary": "This bill establishes a Center for Safe Schools within Louisiana's law enforcement commission. It does not address AI or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-government",
-      "updatedDate": "2026-02-27",
-      "partyOrigin": "R",
-      "sourceUrl": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=HB821&sbi=y",
-      "legiscanUrl": "https://legiscan.com/LA/bill/HB821/2026",
-      "legiscanId": 2126564,
-      "sponsors": [
-        "Jack McFarland"
-      ]
-    },
-    {
-      "id": "la-hb632",
-      "billCode": "HB632",
-      "title": "Provides relative to information sharing for the purposes of Louisiana's Foundational Integrated Research System for Transformation (LA FIRST)",
-      "summary": "This bill sets rules for how information can be shared within Louisiana's LA FIRST research and data integration system. It focuses on data sharing protocols for a state-run system aimed at transforming how Louisiana collects and uses public data.",
-      "stage": "Committee",
-      "stance": "review",
+      "stance": "concerning",
       "dimensionStances": {
-        "ai-governance-dim": "review",
-        "ai-consumer": "none"
+        "ai-consumer": "concerning",
+        "ai-public": "concerning"
       },
       "impactTags": [
         "data-privacy",
-        "algorithmic-transparency"
+        "ai-in-healthcare"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-05-05",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=HB897&sbi=y",
+      "legiscanUrl": "https://legiscan.com/LA/bill/HB897/2026",
+      "legiscanId": 2127271,
+      "sponsors": [
+        "Mandie Landry"
+      ]
+    },
+    {
+      "id": "la-sb474",
+      "billCode": "SB474",
+      "title": "Creates the Protecting Louisiana's Infrastructure from Artificial Intelligence Risk Act. (1/1/27)",
+      "summary": "Louisiana creates a new act focused on protecting the state's infrastructure from AI-related risks, effective January 1, 2027. The bill establishes a framework to assess and manage potential threats that artificial intelligence systems could pose to critical infrastructure.",
+      "stage": "Committee",
+      "stance": "review",
+      "impactTags": [
+        "ai-safety"
       ],
       "category": "ai-governance",
-      "updatedDate": "2026-02-27",
+      "updatedDate": "2026-04-21",
       "partyOrigin": "R",
-      "sourceUrl": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=HB632&sbi=y",
-      "legiscanUrl": "https://legiscan.com/LA/bill/HB632/2026",
-      "legiscanId": 2126336,
+      "sourceUrl": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=SB474&sbi=y",
+      "legiscanUrl": "https://legiscan.com/LA/bill/SB474/2026",
+      "legiscanId": 2139816,
       "sponsors": [
-        "Annie Spell"
+        "Gregory Miller"
+      ]
+    },
+    {
+      "id": "la-hr20",
+      "billCode": "HR20",
+      "title": "Urges and requests the Department of Conservation and Energy to study industrial use of water from Caddo Lake",
+      "summary": "This resolution requests a study of industrial water use from Caddo Lake, which could inform policy on data-center cooling and other industrial water consumption in Louisiana. The study would provide baseline information for future regulatory decisions about water resource management.",
+      "stage": "Committee",
+      "stance": "review",
+      "dimensionStances": {
+        "environmental": "review",
+        "energy": "review"
+      },
+      "impactTags": [
+        "water-infrastructure",
+        "environmental-review"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-04-09",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=HR20&sbi=y",
+      "legiscanUrl": "https://legiscan.com/LA/bill/HR20/2026",
+      "legiscanId": 2133041,
+      "sponsors": [
+        "Danny McCormick"
+      ]
+    },
+    {
+      "id": "la-hb1206",
+      "billCode": "HB1206",
+      "title": "Provides relative to permitting and reporting of water usage at data centers",
+      "summary": "This Louisiana bill requires data centers to obtain permits and report their water usage to state authorities. It establishes oversight of how much water data centers consume, which can be substantial due to cooling systems.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "environmental": "concerning",
+        "energy": "concerning"
+      },
+      "impactTags": [
+        "water-consumption",
+        "water-infrastructure",
+        "environmental-review"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-04-01",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=HB1206&sbi=y",
+      "legiscanUrl": "https://legiscan.com/LA/bill/HB1206/2026",
+      "legiscanId": 2139959,
+      "sponsors": [
+        "Joy Walters"
+      ]
+    },
+    {
+      "id": "la-hb1184",
+      "billCode": "HB1184",
+      "title": "Prohibits public contracts with entities owned or controlled by foreign adversaries for the provision of artificial intelligence technology (OR NO IMPACT See Note)",
+      "summary": "This bill bans Louisiana government agencies from signing contracts with companies owned or controlled by foreign adversaries to provide AI technology. It is designed to protect state systems from potential foreign influence or security risks through AI tools.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "impactTags": [
+        "ai-safety",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-government",
+      "updatedDate": "2026-04-01",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=HB1184&sbi=y",
+      "legiscanUrl": "https://legiscan.com/LA/bill/HB1184/2026",
+      "legiscanId": 2139936,
+      "sponsors": [
+        "Josh Carlson"
       ]
     },
     {
@@ -187,7 +405,7 @@
         "data-privacy"
       ],
       "category": "ai-governance",
-      "updatedDate": "2026-02-27",
+      "updatedDate": "2026-03-30",
       "partyOrigin": "R",
       "sourceUrl": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=HB734&sbi=y",
       "legiscanUrl": "https://legiscan.com/LA/bill/HB734/2026",
@@ -200,37 +418,35 @@
       ]
     },
     {
-      "id": "la-hb119",
-      "billCode": "HB119",
-      "title": "Provides relative to unlawful conduct involving images of another person created by artificial intelligence (RE SEE FISC NOTE GF EX)",
-      "summary": "This Louisiana bill makes it illegal to create or share AI-generated images of real people without their consent. It establishes criminal penalties for those who use artificial intelligence to produce unauthorized or harmful depictions of individuals.",
+      "id": "la-hb295",
+      "billCode": "HB295",
+      "title": "Prohibits the development of artificial intelligence systems with certain capabilities involving interactions with minors (OR SEE FISC NOTE GF EX)",
+      "summary": "Louisiana HB295 prohibits the development of AI systems with certain capabilities designed to interact with minors. The bill aims to protect children from potentially harmful or manipulative AI applications.",
       "stage": "Committee",
       "stance": "restrictive",
       "dimensionStances": {
-        "ai-consumer": "restrictive",
-        "ai-synthetic": "restrictive"
+        "ai-governance-dim": "restrictive",
+        "ai-consumer": "restrictive"
       },
       "impactTags": [
-        "deepfake-regulation",
         "child-safety",
-        "data-privacy"
+        "ai-safety"
       ],
-      "category": "synthetic-media",
-      "updatedDate": "2026-03-31",
-      "partyOrigin": "B",
-      "sourceUrl": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=HB119&sbi=y",
-      "legiscanUrl": "https://legiscan.com/LA/bill/HB119/2026",
-      "legiscanId": 2116827,
+      "category": "ai-education",
+      "updatedDate": "2026-03-09",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=HB295&sbi=y",
+      "legiscanUrl": "https://legiscan.com/LA/bill/HB295/2026",
+      "legiscanId": 2122842,
       "sponsors": [
-        "Bryan Fontenot",
-        "Alonzo Knox"
+        "Kyle Green"
       ]
     },
     {
-      "id": "la-hb639",
-      "billCode": "HB639",
-      "title": "Requires disclosure of the use of artificial intelligence in telephone campaign communications",
-      "summary": "This bill requires political campaigns to disclose when artificial intelligence is used to create or assist in telephone communications. Voters must be informed when AI-generated content is used in campaign calls.",
+      "id": "la-hb230",
+      "billCode": "HB230",
+      "title": "Provides for disclosure of artificial intelligence-generated content (OR SEE FISC NOTE GF EX)",
+      "summary": "Louisiana HB230 requires disclosure when content is generated or significantly altered by artificial intelligence. The bill establishes transparency obligations for AI-created material, likely aiming to combat misinformation and deepfakes.",
       "stage": "Committee",
       "stance": "concerning",
       "dimensionStances": {
@@ -242,60 +458,79 @@
         "algorithmic-transparency"
       ],
       "category": "synthetic-media",
-      "updatedDate": "2026-02-27",
+      "updatedDate": "2026-03-09",
       "partyOrigin": "R",
-      "sourceUrl": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=HB639&sbi=y",
-      "legiscanUrl": "https://legiscan.com/LA/bill/HB639/2026",
-      "legiscanId": 2126197,
+      "sourceUrl": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=HB230&sbi=y",
+      "legiscanUrl": "https://legiscan.com/LA/bill/HB230/2026",
+      "legiscanId": 2120060,
       "sponsors": [
         "Mike Bayham"
       ]
     },
     {
-      "id": "la-hb1184",
-      "billCode": "HB1184",
-      "title": "Prohibits public contracts with entities owned or controlled by foreign adversaries for the provision of artificial intelligence technology",
-      "summary": "This bill bans Louisiana government agencies from signing contracts with companies owned or controlled by foreign adversaries to provide AI technology. It is designed to protect state systems from potential foreign influence or security risks through AI tools.",
+      "id": "la-hb157",
+      "billCode": "HB157",
+      "title": "Establishes a cause of action for misuse of artificial intelligence",
+      "summary": "Louisiana HB157 creates a legal right for individuals to sue over misuse of artificial intelligence, establishing accountability mechanisms for harmful AI applications. This establishes enforceable standards around AI deployment without specifying particular restrictions or bans.",
       "stage": "Committee",
-      "stance": "restrictive",
+      "stance": "concerning",
       "impactTags": [
-        "ai-safety",
-        "algorithmic-transparency"
+        "algorithmic-transparency",
+        "ai-safety"
       ],
-      "category": "ai-government",
-      "updatedDate": "2026-03-31",
+      "category": "ai-governance",
+      "updatedDate": "2026-03-09",
       "partyOrigin": "R",
-      "sourceUrl": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=HB1184&sbi=y",
-      "legiscanUrl": "https://legiscan.com/LA/bill/HB1184/2026",
-      "legiscanId": 2139936,
+      "sourceUrl": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=HB157&sbi=y",
+      "legiscanUrl": "https://legiscan.com/LA/bill/HB157/2026",
+      "legiscanId": 2116883,
       "sponsors": [
-        "Josh Carlson"
+        "Vincent Cox"
       ]
     },
     {
-      "id": "la-sb42",
-      "billCode": "SB42",
-      "title": "Prohibits using artificial intelligence to create child sexual abuse materials. (8/1/26)",
-      "summary": "This bill bans the use of AI to generate child sexual abuse material. Violations are subject to criminal prohibition under Louisiana law.",
+      "id": "la-hb197",
+      "billCode": "HB197",
+      "title": "Provides for the use of artificial intelligence by healthcare providers",
+      "summary": "Louisiana HB197 addresses the use of artificial intelligence by healthcare providers, establishing a framework for how AI can be deployed in medical settings. The bill appears to focus on governance and oversight of AI applications in healthcare without imposing outright bans or strong restrictions.",
       "stage": "Committee",
-      "stance": "restrictive",
+      "stance": "review",
       "dimensionStances": {
-        "ai-consumer": "restrictive",
-        "ai-synthetic": "restrictive"
+        "ai-governance-dim": "review",
+        "ai-public": "favorable"
       },
       "impactTags": [
-        "deepfake-regulation",
-        "child-safety"
+        "ai-in-healthcare",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-healthcare",
+      "updatedDate": "2026-03-09",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=HB197&sbi=y",
+      "legiscanUrl": "https://legiscan.com/LA/bill/HB197/2026",
+      "legiscanId": 2118978,
+      "sponsors": [
+        "Jessica Domangue"
+      ]
+    },
+    {
+      "id": "la-hb686",
+      "billCode": "HB686",
+      "title": "Provides for the unlawful use of artificial intelligence in telephone calls (OR SEE FISC NOTE LF EX)",
+      "summary": "This bill makes it unlawful to use artificial intelligence to make telephone calls, targeting AI-generated voice clones and synthetic audio used in communications. The legislation aims to prevent fraudulent or deceptive AI-generated calls.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "impactTags": [
+        "deepfake-regulation"
       ],
       "category": "synthetic-media",
-      "updatedDate": "2026-03-24",
+      "updatedDate": "2026-03-09",
       "partyOrigin": "R",
-      "sourceUrl": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=SB42&sbi=y",
-      "legiscanUrl": "https://legiscan.com/LA/bill/SB42/2026",
-      "legiscanId": 2112921,
+      "sourceUrl": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=HB686&sbi=y",
+      "legiscanUrl": "https://legiscan.com/LA/bill/HB686/2026",
+      "legiscanId": 2126193,
       "sponsors": [
-        "Rick Edmonds",
-        "Blake Miguez"
+        "Mike Bayham"
       ]
     }
   ]

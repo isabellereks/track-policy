@@ -26,7 +26,7 @@ const ROOT = join(__dirname, "../..");
 const OUT_DIR = join(ROOT, "data/datacenters");
 const OUT_PATH = join(OUT_DIR, "international.json");
 
-const MODEL = "claude-sonnet-4-6";
+const MODEL = process.env.ANTHROPIC_MODEL ?? "claude-sonnet-4-6";
 const MAX_COUNTRIES = process.env.INTL_DC_MAX
   ? Number(process.env.INTL_DC_MAX)
   : Infinity;
@@ -170,7 +170,10 @@ async function researchCountry(
   anthropic: Anthropic,
   target: CountryTarget,
 ): Promise<DataCenter[]> {
-  const prompt = `Research data center facilities in ${target.name} as of April 2026.
+  const currentDate = new Date().toISOString().slice(0, 10);
+  const prompt = `Research data center facilities in ${target.name} as of ${currentDate}.
+
+Prioritize projects announced, approved, delayed, cancelled, opened, or materially updated in the last 90 days.
 
 Context focus: ${target.focus}
 
@@ -265,6 +268,11 @@ async function main() {
     console.log(`[intl-dc]   ${target.name}`);
     try {
       const facilities = await researchCountry(anthropic, target);
+      if (force) {
+        existing.facilities = existing.facilities.filter(
+          (facility) => facility.country !== target.name,
+        );
+      }
       for (const f of facilities) {
         if (!f.id) continue;
         if (!f.id.startsWith("intl-")) {

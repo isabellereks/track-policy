@@ -1,77 +1,5 @@
 [
   {
-    "id": "shelby-county-tn",
-    "name": "Shelby County (City of Memphis)",
-    "fips": "47157",
-    "state": "Tennessee",
-    "stateCode": "TN",
-    "type": "county",
-    "actions": [
-      {
-        "title": "Shelby County Health Department Issues Limited Air Permit for xAI Colossus Gas Turbines",
-        "date": "2024-07-01",
-        "status": "enacted",
-        "summary": "The Shelby County Health Department approved a permit allowing xAI to operate 15 permanent natural gas turbines at its Colossus AI data center, stipulating they be used as backup power and that temporary turbines be removed within one year.",
-        "sourceUrl": "https://us.boell.org/en/2026/01/28/promise-peace-plenty-how-south-memphis-refusing-ais-big-lies"
-      },
-      {
-        "title": "Memphis City Council Enacts xAI Tax-Revenue Reinvestment Ordinance for Boxtown",
-        "date": "2025-08-25",
-        "status": "enacted",
-        "summary": "The Memphis City Council unanimously approved Mayor Paul Young's ordinance directing 25% of xAI's annual property tax revenue to infrastructure improvements within a five-mile radius of the Colossus data center in Southwest Memphis, in direct response to community opposition from Boxtown residents.",
-        "sourceUrl": "https://www.smartcitymemphis.com/2025/08/keeping-boxtown-the-land-of-broken-dreams-the-top-priority-for-the-xai-tax-fund/"
-      },
-      {
-        "title": "Community and Environmental Groups Challenge xAI Unpermitted Turbine Operations",
-        "date": "2025-06-17",
-        "status": "under-review",
-        "summary": "The Southern Environmental Law Center, NAACP, and local groups including Memphis Community Against Pollution and Tigers Against Pollution formally challenged xAI's operation of dozens of unpermitted methane gas turbines at the Colossus facility, urging the Shelby County Health Department to deny permanent permits.",
-        "sourceUrl": "https://www.selc.org/news/resistance-against-elon-musks-xai-facility-in-south-memphis-gets-stronger/"
-      }
-    ],
-    "concerns": [
-      "carbon-emissions",
-      "residential-proximity",
-      "environmental-review",
-      "grid-capacity",
-      "local-control",
-      "property-values"
-    ],
-    "contextBlurb": "Shelby County is ground zero for Tennessee's data-center controversy, hosting xAI's Colossus supercomputer facility in the historically Black Boxtown neighborhood of South Memphis. The facility launched with dozens of unpermitted natural gas turbines that researchers at the University of Tennessee found increased peak nitrogen dioxide levels by 79% near the site, triggering sustained community opposition, environmental-law litigation, and a city council tax-revenue ordinance. Shelby County already holds an 'F' rating for air quality from the American Lung Association, making the air-pollution impacts of the data center a central flashpoint."
-  },
-  {
-    "id": "cheatham-county-tn",
-    "name": "Cheatham County",
-    "fips": "47021",
-    "state": "Tennessee",
-    "stateCode": "TN",
-    "type": "county",
-    "actions": [
-      {
-        "title": "Zoning Resolution Amendment: Data Center Definition Added",
-        "date": "2026-01-26",
-        "status": "enacted",
-        "summary": "Cheatham County amended Section 2.010 of its Zoning Resolution to formally define 'Data Center' as a facility housing computer systems and related infrastructure including backup power, cooling systems, battery storage, substations, and security systems.",
-        "sourceUrl": "https://www.cheathamcountytn.gov/assets/pdfs/bldg_codes/land_use/zoning_amendments.pdf"
-      },
-      {
-        "title": "Zoning Resolution Amendment: Data Centers Classified as Extensive Impact Facilities",
-        "date": "2026-01-26",
-        "status": "enacted",
-        "summary": "Cheatham County amended Section 3.060(4) of its Zoning Resolution to add 'Data Center' to the list of Extensive Impact Facilities, subjecting new data center proposals to heightened land-use scrutiny and review requirements.",
-        "sourceUrl": "https://www.cheathamcountytn.gov/assets/pdfs/bldg_codes/land_use/zoning_amendments.pdf"
-      }
-    ],
-    "concerns": [
-      "local-zoning",
-      "local-control",
-      "grid-capacity",
-      "environmental-review",
-      "residential-proximity"
-    ],
-    "contextBlurb": "Cheatham County, a rural county west of Nashville, enacted two zoning amendments in January 2026 that formally define data centers and classify them as Extensive Impact Facilities under its zoning code. These proactive changes reflect the county's effort to gain regulatory footing before large-scale data center development reaches the Nashville suburban fringe. The amendments require any future data center applicant to undergo a more rigorous review process than standard industrial uses."
-  },
-  {
     "id": "davidson-county-tn",
     "name": "Davidson County (Metro Nashville)",
     "fips": "47037",
@@ -80,27 +8,247 @@
     "type": "county",
     "actions": [
       {
-        "title": "Metro Council Considers Two-Year Data Center Construction Moratorium",
-        "date": "2026-04-07",
-        "status": "proposed",
-        "summary": "Nashville's Metro Council is considering a proposed moratorium on new data center permits that would take effect April 20, 2026 and run through April 19, 2028, while staff develops permanent performance standards covering siting, setbacks, noise limits, and utility-capacity requirements.",
-        "sourceUrl": "https://mcobserver.news/news/metro-council-to-consider-data-center-moratorium/"
+        "title": "Temporary Moratorium on Data Center Permits – First Reading (BL2026-1448)",
+        "date": "2026-06-09",
+        "status": "under-review",
+        "summary": "Metro Council passed a temporary moratorium on acceptance, processing, and issuance of all zoning, building, and grading permits for data centers 26-1 on first reading; two additional readings required for enactment.",
+        "sourceUrl": "https://nashville.legistar.com/LegislationDetail.aspx?ID=8063111&GUID=2A6E536A-95F6-46B9-993A-1F6E018DD389"
       },
       {
-        "title": "Metro Council Proposed Permanent Data Center Performance Standards (Concurrent Drafting)",
-        "date": "2026-04-07",
+        "title": "Metro Planning Commission Recommends First-Ever Data Center Zoning Ordinance",
+        "date": "2026-06-26",
+        "status": "under-review",
+        "summary": "Nashville's planning commission voted to recommend an ordinance prohibiting new data centers near residential neighborhoods, schools, and zoos, including a half-mile buffer from key transit corridors, marking the city's first attempt at data-center-specific land-use rules.",
+        "sourceUrl": "https://www.wkrn.com/news/local-news/nashville/metro-planning-commission-backs-data-center-zoning-rules/"
+      },
+      {
+        "title": "Nashville Zoo Data Center Opposition – DC BLOX Grassmere Project",
+        "date": "2026-06-01",
+        "status": "under-review",
+        "summary": "More than 380,000 people signed a petition opposing a 50-MW, 270,000-sq-ft DC BLOX data center proposed adjacent to the Nashville Zoo, directly prompting the Metro Council moratorium legislation and Planning Commission hearings.",
+        "sourceUrl": "https://wpln.org/post/tennessee-communities-are-blocking-data-centers-nashville-could-be-next/"
+      },
+      {
+        "title": "Mayor Files Eminent Domain Legislation to Block Zoo-Adjacent Data Center",
+        "date": "2026-07-01",
         "status": "proposed",
-        "summary": "Alongside the moratorium proposal, Metro staff have been directed to draft long-term zoning ordinance changes and performance standards—including rules on location, setbacks, noise, and utility capacity—for Planning Commission review and eventual Council adoption.",
-        "sourceUrl": "https://mcobserver.news/news/metro-council-to-consider-data-center-moratorium/"
+        "summary": "Nashville Mayor Freddie O'Connell introduced eminent domain legislation to acquire the Grassmere property near the Nashville Zoo and prevent the DC BLOX data center from being built there.",
+        "sourceUrl": "https://www.wkrn.com/news/tennessee-news/inside-tennessees-growing-battle-over-data-centers/"
+      }
+    ],
+    "concerns": [
+      "noise-vibration",
+      "residential-proximity",
+      "local-zoning",
+      "grid-capacity",
+      "water-consumption",
+      "environmental-review",
+      "local-control"
+    ],
+    "contextBlurb": "Nashville had 27 data centers but no data-center-specific zoning rules before 2026; two new proposals—one adjacent to the Nashville Zoo and one at Fisk University—triggered massive public opposition, with over 380,000 petition signatures. Metro Council advanced both a temporary moratorium and a first-of-its-kind zoning ordinance prohibiting new facilities near homes, schools, and zoos in June 2026. The Mayor separately pursued eminent domain to block the zoo-adjacent project outright."
+  },
+  {
+    "id": "warren-county-tn",
+    "name": "Warren County",
+    "fips": "47151",
+    "state": "Tennessee",
+    "stateCode": "TN",
+    "type": "county",
+    "actions": [
+      {
+        "title": "Warren County 18-Month Data Center Moratorium",
+        "date": "2026-06-22",
+        "status": "enacted",
+        "summary": "Warren County passed an 18-month countywide moratorium on all data center projects, becoming an early Tennessee model for proactive regulation before any specific proposal was filed.",
+        "sourceUrl": "https://www.wkrn.com/news/tennessee-news/inside-tennessees-growing-battle-over-data-centers/"
+      },
+      {
+        "title": "McMinnville (City) 18-Month Data Center Moratorium",
+        "date": "2026-06-09",
+        "status": "enacted",
+        "summary": "The McMinnville Board of Mayor and Aldermen unanimously enacted an 18-month moratorium on data center permitting to study grid capacity, water and stormwater impacts, noise, environmental health, and community fit before allowing any applications.",
+        "sourceUrl": "https://tennesseelookout.com/2026/06/15/local-tennessee-officials-are-putting-data-center-plans-on-ice-to-consider-regulations/"
+      }
+    ],
+    "concerns": [
+      "grid-capacity",
+      "water-consumption",
+      "noise-vibration",
+      "environmental-review",
+      "residential-proximity",
+      "local-zoning",
+      "local-control"
+    ],
+    "contextBlurb": "Warren County and its county seat McMinnville became Tennessee's first jurisdictions to enact data-center moratoriums in June 2026, spurred by a resident-led campaign against a proposed 25-MW, 96,000-sq-ft Hixson Data Center planned near residential neighborhoods. McMinnville's 18-month city ban (June 9) preceded the countywide 18-month ban (June 22), and the city's experience—citing noise, water, air-quality, and grid concerns—was widely cited as a model by other Tennessee communities. A community organizer noted that local zoning sound ordinances had loopholes that effectively allowed data centers to operate noise-free from regulation around the clock."
+  },
+  {
+    "id": "knox-county-tn",
+    "name": "Knox County",
+    "fips": "47093",
+    "state": "Tennessee",
+    "stateCode": "TN",
+    "type": "county",
+    "actions": [
+      {
+        "title": "Knox County Commission 1-Year Data Center Moratorium",
+        "date": "2026-06-22",
+        "status": "enacted",
+        "summary": "The Knox County Commission approved a one-year moratorium halting all county permits, zoning approvals, utility extensions, building permits, and development agreements for data centers—including AI and cryptocurrency mining—while zoning regulations are drafted.",
+        "sourceUrl": "https://www.wate.com/news/knox-county-news/knox-county-data-center-moratorium/"
+      },
+      {
+        "title": "Knoxville City Council Proposed 1-Year Moratorium on Large Data Centers (≥10 MW)",
+        "date": "2026-07-06",
+        "status": "under-review",
+        "summary": "Knoxville City Council placed on its agenda a first-reading emergency ordinance for a one-year moratorium on permitting, construction, and development of data centers requiring 10 megawatts or more, citing the absence of data centers in the city's current zoning code.",
+        "sourceUrl": "https://www.wivk.com/2026/07/06/55270/"
+      },
+      {
+        "title": "Knoxville-Knox County Planning Commission Zoning Review Request",
+        "date": "2026-06-08",
+        "status": "under-review",
+        "summary": "Knox County Commissioner Andy Fox introduced a resolution—which passed—directing the Knoxville-Knox County Planning Commission to recommend zoning ordinance amendments that define data centers and add specific siting and operational requirements for them.",
+        "sourceUrl": "https://www.wate.com/news/knox-county-news/knox-county-commissioner-to-propose-moratorium-for-data-centers/"
       }
     ],
     "concerns": [
       "local-zoning",
-      "noise-vibration",
-      "grid-capacity",
       "local-control",
+      "grid-capacity",
+      "noise-vibration",
+      "water-consumption",
+      "environmental-review"
+    ],
+    "contextBlurb": "Knox County and the City of Knoxville moved in parallel in June–July 2026, with the county commission enacting a one-year construction ban on June 22 and the city council preparing its own emergency moratorium targeting facilities requiring 10 MW or more. City officials explicitly noted that data centers are not defined in Knoxville's current zoning code, leaving noise standards, location requirements, and operational impacts unaddressed. The TVA reported that data centers already account for roughly 18% of its industrial load, heightening utility-capacity concerns across the Knox metro area."
+  },
+  {
+    "id": "coffee-county-tn",
+    "name": "Coffee County",
+    "fips": "47031",
+    "state": "Tennessee",
+    "stateCode": "TN",
+    "type": "county",
+    "actions": [
+      {
+        "title": "Coffee County Commission 12-Month Data Center Moratorium",
+        "date": "2026-06-09",
+        "status": "enacted",
+        "summary": "The Coffee County Commission unanimously enacted a one-year moratorium on data center development across all county zoning districts to allow the planning commission time to draft and amend zoning language, including height caps (35 ft.), water quality testing requirements, and landscape buffers.",
+        "sourceUrl": "https://939theduck.com/coffee-county-commission-approves-12-month-data-center-moratorium/"
+      }
+    ],
+    "concerns": [
+      "water-consumption",
+      "water-infrastructure",
+      "noise-vibration",
+      "local-zoning",
+      "local-control",
+      "environmental-review",
       "residential-proximity"
     ],
-    "contextBlurb": "Nashville's Metro Council brought forward a proposed two-year moratorium on data center permits in early April 2026, reflecting growing concern about the pace of data center development in the Nashville metro area, which already hosts 20 facilities totaling over 168 megawatts. If adopted, the pause would give the Metro Planning Commission time to hold public workshops and craft permanent zoning performance standards covering setbacks, noise, and utility capacity before any new facilities are permitted. The ordinance includes a severability clause to protect remaining provisions if any section is later challenged in court."
+    "contextBlurb": "Coffee County, a rural area southeast of Nashville, unanimously passed a 12-month moratorium on June 9, 2026, on the same day as neighboring McMinnville in Warren County. County Mayor Dennis Hunt initiated the process after determining that the agricultural zoning district's 'utility facility' permitted use could allow a data center to move in without additional approvals. The planning commission is actively drafting amendments including a 35-foot height cap (lower than standard), water quality testing mandates, landscape buffer requirements, and a developer decommissioning fund."
+  },
+  {
+    "id": "wilson-county-tn",
+    "name": "Wilson County",
+    "fips": "47189",
+    "state": "Tennessee",
+    "stateCode": "TN",
+    "type": "county",
+    "actions": [
+      {
+        "title": "Wilson County Planning and Zoning Committee Votes for 6-Month Moratorium",
+        "date": "2026-06-22",
+        "status": "under-review",
+        "summary": "The Wilson County Planning and Zoning Committee voted to impose a six-month moratorium on data center development—overriding a proposed zoning ordinance—pending a county commission vote on July 20 and creation of a six-member study committee.",
+        "sourceUrl": "https://www.wkrn.com/news/local-news/wilson-county-committee-votes-for-6-month-moratorium-on-data-centers/"
+      }
+    ],
+    "concerns": [
+      "grid-capacity",
+      "water-consumption",
+      "noise-vibration",
+      "local-zoning",
+      "local-control",
+      "environmental-review",
+      "residential-proximity"
+    ],
+    "contextBlurb": "Wilson County (Lebanon area) had no data center regulations or active proposals as of June 2026, but community members and Commissioner Lauren Breeze pushed for proactive action after watching Nashville's struggles with the zoo-adjacent project. The planning and zoning committee chose a six-month moratorium over a zoning ordinance despite the county attorney's warning that a moratorium may not hold up in court; a final commission vote was scheduled for July 20, 2026. A six-member study committee was simultaneously created to recommend legally durable zoning rules."
+  },
+  {
+    "id": "loudon-county-tn",
+    "name": "Loudon County",
+    "fips": "47105",
+    "state": "Tennessee",
+    "stateCode": "TN",
+    "type": "county",
+    "actions": [
+      {
+        "title": "Loudon County Commission 6-Month Data Center Moratorium",
+        "date": "2026-06-22",
+        "status": "enacted",
+        "summary": "The Loudon County Commission adopted a six-month moratorium on approval of data center projects to allow officials time to review and update zoning and planning rules, following Knox County's one-year ban enacted the same day.",
+        "sourceUrl": "https://www.wate.com/news/local-news/loudon-county-data-center-moratorium/"
+      }
+    ],
+    "concerns": [
+      "local-zoning",
+      "local-control",
+      "grid-capacity",
+      "water-consumption",
+      "environmental-review"
+    ],
+    "contextBlurb": "Loudon County adopted a six-month data center moratorium on June 22, 2026, shortly after neighboring Knox County enacted its own one-year pause. The county's action is explicitly framed as a zoning and planning review period, giving officials time to craft regulations before any developer submits a proposal. The TVA's projection that data center load on its grid will double to roughly 36% by 2030 lent urgency to Loudon's decision given the county's proximity to the Knoxville metro."
+  },
+  {
+    "id": "hamilton-county-tn",
+    "name": "Hamilton County",
+    "fips": "47065",
+    "state": "Tennessee",
+    "stateCode": "TN",
+    "type": "county",
+    "actions": [
+      {
+        "title": "Hamilton County 1-Year Data Center Moratorium Proposed",
+        "date": "2026-07-03",
+        "status": "proposed",
+        "summary": "Hamilton County executive Weston Wamp proposed a one-year moratorium on new data centers in unincorporated areas, directing the planning department to study best practices from other jurisdictions and consult TVA and the Electric Power Board of Chattanooga on utility impacts.",
+        "sourceUrl": "https://tennesseestar.com/policy/hamilton-county-to-consider-one-year-moratorium-on-data-centers/zschmidt/2026/07/03/"
+      }
+    ],
+    "concerns": [
+      "grid-capacity",
+      "water-infrastructure",
+      "local-zoning",
+      "local-control",
+      "environmental-review",
+      "residential-proximity"
+    ],
+    "contextBlurb": "Hamilton County (Chattanooga area) had four existing data centers and a planned conversion of an old county jail to a data center as of mid-2026, but County Mayor Weston Wamp proposed a one-year moratorium in early July 2026 to prevent unregulated rural development. The planning department was tasked with reviewing regulations from comparable jurisdictions and meeting with TVA and the Electric Power Board of Chattanooga to understand utility and water impacts. The jail conversion project would be exempt from the proposed moratorium."
+  },
+  {
+    "id": "maury-county-tn",
+    "name": "Maury County",
+    "fips": "47119",
+    "state": "Tennessee",
+    "stateCode": "TN",
+    "type": "county",
+    "actions": [
+      {
+        "title": "Maury County Regional Planning Commission Recommends Up-to-12-Month Moratorium",
+        "date": "2026-07-02",
+        "status": "proposed",
+        "summary": "The Maury County Regional Planning Commission recommended a proactive up-to-12-month moratorium on accepting or approving new data center proposals in unincorporated areas, with the full county commission vote scheduled for July 20, 2026.",
+        "sourceUrl": "https://www.muletownjournal.net/articles/2026-07-02-maury-county-weighs-a-pause-on-data-centers"
+      }
+    ],
+    "concerns": [
+      "local-zoning",
+      "local-control",
+      "grid-capacity",
+      "water-consumption",
+      "environmental-review"
+    ],
+    "contextBlurb": "Maury County (Columbia area) had no active data center proposals as of July 2026, but its regional planning commission voted to recommend a preemptive moratorium lasting up to one year—or until new zoning rules are finalized—whichever comes first, with a hard expiration of July 19, 2027. The action was explicitly motivated by the wave of data center activity already occurring across Tennessee, not by any specific developer approach. The county commission was set to vote on adoption July 20, 2026."
   }
 ]

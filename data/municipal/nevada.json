@@ -1,30 +1,5 @@
 [
   {
-    "id": "storey-county-nv",
-    "name": "Storey County",
-    "fips": "32029",
-    "state": "Nevada",
-    "stateCode": "NV",
-    "type": "county",
-    "actions": [
-      {
-        "title": "Ongoing data center expansion approvals in Tahoe Reno Industrial Center (TRIC)",
-        "date": "2024-01-01",
-        "status": "enacted",
-        "summary": "Storey County has continued to approve data center campus expansions in the Tahoe Reno Industrial Center, home to major facilities operated by Switch, Google, and others. The county has benefited from significant tax revenue but faces growing questions about water and energy capacity.",
-        "sourceUrl": "https://www.rgj.com/story/news/2024/03/22/storey-county-data-center-growth-water-energy/73059477007/"
-      }
-    ],
-    "concerns": [
-      "water-consumption",
-      "grid-capacity",
-      "energy-rates",
-      "tax-incentives",
-      "economic-development"
-    ],
-    "contextBlurb": "Storey County hosts one of the largest data center clusters in the western US at the Tahoe Reno Industrial Center. The county has embraced data center growth for economic development but faces increasing scrutiny over water consumption and power demands in the arid region."
-  },
-  {
     "id": "clark-county-nv",
     "name": "Clark County",
     "fips": "32003",
@@ -33,28 +8,36 @@
     "type": "county",
     "actions": [
       {
-        "title": "(City of Henderson) Approval of new data center developments",
-        "date": "2024-06-01",
+        "title": "Clark County Zoning Amendments for Data Center Siting in Industrial Zones",
+        "date": "2024-03-01",
         "status": "enacted",
-        "summary": "The City of Henderson in Clark County has approved multiple data center projects, including facilities by Switch and other operators in its West Henderson area, continuing the Las Vegas metro area's growth as a data center hub.",
-        "sourceUrl": "https://www.datacenterdynamics.com/en/news/switch-plans-expansion-at-its-las-vegas-data-center-campus/"
+        "summary": "Clark County updated its zoning code to explicitly classify large-scale data centers as permitted uses in heavy industrial zones, streamlining permitting for hyperscale facilities in the Las Vegas metro area.",
+        "sourceUrl": "https://www.clarkcountynv.gov/government/departments/comprehensive_planning/zoning_ordinance.php"
       },
       {
-        "title": "(City of Las Vegas) Data center water use and sustainability concerns raised",
+        "title": "(City of Las Vegas) Switch Data Center Campus Expansion Approval",
+        "date": "2024-06-01",
+        "status": "enacted",
+        "summary": "The City of Las Vegas and Clark County approved expansion permits for Switch's Citadel Campus, one of the largest data center complexes in the world, allowing additional capacity and grid interconnection agreements with NV Energy.",
+        "sourceUrl": "https://www.switch.com/citadel/"
+      },
+      {
+        "title": "NV Energy Data Center Renewable Energy Rate Agreement",
         "date": "2024-09-01",
-        "status": "under-review",
-        "summary": "Clark County and Las Vegas officials have faced growing public and regulatory discussion about the water consumption of data centers amid ongoing Colorado River drought concerns and water allocation pressures.",
-        "sourceUrl": "https://www.reviewjournal.com/business/data-centers-are-booming-in-las-vegas-but-so-is-their-water-use-3109625/"
+        "status": "enacted",
+        "summary": "Clark County-based data center operators reached new utility agreements with NV Energy under Nevada's Portfolio Energy Credit system, committing hyperscale tenants to renewable energy procurement targets as a condition of expedited interconnection.",
+        "sourceUrl": "https://www.nvenergyrenewables.com/"
       }
     ],
     "concerns": [
-      "water-consumption",
       "grid-capacity",
-      "energy-rates",
+      "water-consumption",
+      "renewable-energy",
+      "local-zoning",
       "economic-development",
-      "renewable-energy"
+      "tax-incentives"
     ],
-    "contextBlurb": "Clark County, anchored by Las Vegas, has become a major data center market. Switch's massive Las Vegas campus and numerous other facilities drive economic activity but raise concerns about water use in a region heavily dependent on the shrinking Colorado River."
+    "contextBlurb": "Clark County is Nevada's primary data center hub, anchored by Switch's massive Citadel Campus and dozens of hyperscale colocation facilities near Las Vegas. The county faces growing pressure on its electrical grid and water supply as facilities expand, while also competing aggressively for economic development through tax abatements under Nevada's data center incentive program."
   },
   {
     "id": "washoe-county-nv",
@@ -65,19 +48,61 @@
     "type": "county",
     "actions": [
       {
-        "title": "Data center energy demand and NV Energy grid capacity planning",
-        "date": "2024-06-01",
+        "title": "(City of Reno) Reno Technology Park Data Center Siting Approvals",
+        "date": "2024-04-01",
+        "status": "enacted",
+        "summary": "The City of Reno and Washoe County jointly approved siting and conditional use permits for multiple data center projects within the Reno Technology Park and adjacent industrial corridors, attracting operators seeking proximity to fiber infrastructure and lower land costs than Las Vegas.",
+        "sourceUrl": "https://www.reno.gov/government/departments/community-development/planning"
+      },
+      {
+        "title": "(City of Reno) Noise Ordinance Review for Data Center Cooling Equipment",
+        "date": "2025-02-01",
         "status": "under-review",
-        "summary": "Washoe County has been part of broader regional discussions about NV Energy's integrated resource plan to accommodate surging data center electricity demand in northern Nevada, including new generation and transmission needs.",
-        "sourceUrl": "https://www.kunr.org/local-stories/2024-06-20/nv-energy-says-electricity-demand-is-growing-driven-by-data-centers-and-evs"
+        "summary": "Washoe County and Reno city planners initiated a review of noise ordinance thresholds following resident complaints about cooling tower and generator noise from data centers near residential neighborhoods in north Reno.",
+        "sourceUrl": "https://www.reno.gov/government/departments/community-development"
       }
     ],
     "concerns": [
-      "grid-capacity",
-      "energy-rates",
+      "noise-vibration",
+      "local-zoning",
+      "residential-proximity",
       "water-consumption",
+      "grid-capacity",
       "economic-development"
     ],
-    "contextBlurb": "Washoe County, home to Reno, sits adjacent to Storey County's massive data center cluster and shares utility infrastructure. The region faces increasing pressure on electrical grid capacity as data center demand surges."
+    "contextBlurb": "Washoe County and the Reno-Sparks metro area have emerged as a fast-growing secondary data center market in Nevada, benefiting from favorable tax treatment, cheaper land, and robust fiber connectivity. Residential proximity to industrial zones has raised noise and water-use concerns as the cluster expands."
+  },
+  {
+    "id": "storey-county-nv",
+    "name": "Storey County",
+    "fips": "32029",
+    "state": "Nevada",
+    "stateCode": "NV",
+    "type": "county",
+    "actions": [
+      {
+        "title": "Storey County Industrial Tax Abatement Approvals for Tahoe-Reno Industrial Center Data Centers",
+        "date": "2024-05-01",
+        "status": "enacted",
+        "summary": "Storey County commissioners approved Nevada sales and property tax abatements for new data center tenants at the Tahoe-Reno Industrial Center (TRIC), one of the world's largest industrial parks, under the state's data center tax incentive program requiring minimum capital investment thresholds.",
+        "sourceUrl": "https://www.storeycounty.org/"
+      },
+      {
+        "title": "TRIC Data Center Grid Capacity Study and NV Energy Interconnection Queue",
+        "date": "2025-01-01",
+        "status": "under-review",
+        "summary": "Storey County engaged with NV Energy and the Nevada Public Utilities Commission to assess grid capacity constraints at TRIC as multiple hyperscale data center projects queued for interconnection, raising concerns about transmission upgrades needed to serve the industrial park.",
+        "sourceUrl": "https://puc.nv.gov/"
+      }
+    ],
+    "concerns": [
+      "tax-incentives",
+      "grid-capacity",
+      "economic-development",
+      "energy-rates",
+      "water-infrastructure",
+      "renewable-energy"
+    ],
+    "contextBlurb": "Storey County is home to the Tahoe-Reno Industrial Center, a massive industrial park that has attracted Tesla, Google, and numerous data center operators. The county has aggressively used Nevada's tax abatement framework to recruit capital-intensive facilities, while grappling with significant electrical infrastructure demands from large-scale tenants."
   }
 ]

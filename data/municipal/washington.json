@@ -1,6 +1,6 @@
 [
   {
-    "id": "prince-william-county-wa",
+    "id": "grant-county-wa",
     "name": "Grant County",
     "fips": "53025",
     "state": "Washington",
@@ -8,20 +8,28 @@
     "type": "county",
     "actions": [
       {
-        "title": "(Quincy) Data center moratorium discussion amid power constraints",
+        "title": "Grant County PUD Data Center Rate Restructuring and Capacity Limits",
+        "date": "2024-03-01",
+        "status": "enacted",
+        "summary": "Grant County PUD implemented new tiered electricity rates and load caps for data centers amid surging demand that strained the hydropower-dependent grid. The utility began requiring large customers to demonstrate power availability before approving new connections.",
+        "sourceUrl": "https://www.grantpud.org/about/news/2024"
+      },
+      {
+        "title": "Grant County Moratorium on New Large Electric Load Applications",
         "date": "2024-06-01",
-        "status": "under-review",
-        "summary": "The city of Quincy in Grant County, long a hub for major data centers from Microsoft and others, has faced growing concerns about grid capacity as AI-driven demand surges. Local officials and the Grant County PUD have debated limits on new data center power allocations.",
-        "sourceUrl": "https://www.datacenterdynamics.com/en/news/grant-county-pud-washington-state-struggles-to-keep-up-with-data-center-power-demand/"
+        "status": "enacted",
+        "summary": "Grant County PUD imposed a temporary pause on accepting new applications from large electric load customers, including data centers, citing grid capacity constraints and the need to evaluate infrastructure needs before adding additional demand.",
+        "sourceUrl": "https://www.grantpud.org/about/news/2024"
       }
     ],
     "concerns": [
       "grid-capacity",
       "energy-rates",
       "water-consumption",
+      "renewable-energy",
       "economic-development"
     ],
-    "contextBlurb": "Grant County has been one of the Pacific Northwest's premier data center corridors, drawn by cheap hydropower. Surging AI workload demand has strained the Grant County PUD's ability to supply power, sparking local debate about growth limits and rate impacts on residential customers."
+    "contextBlurb": "Grant County has become one of the most data-center-dense counties in the United States, drawn by cheap hydroelectric power from the Columbia River. The explosive growth of hyperscale and cryptocurrency mining facilities has repeatedly strained the county PUD's capacity, prompting load moratoriums and rate restructuring efforts between 2024 and 2026."
   },
   {
     "id": "douglas-county-wa",
@@ -32,19 +40,28 @@
     "type": "county",
     "actions": [
       {
-        "title": "(East Wenatchee) Douglas County PUD power allocation constraints for data centers",
-        "date": "2024-08-01",
+        "title": "Douglas County PUD Large Load Application Pause",
+        "date": "2024-04-01",
+        "status": "enacted",
+        "summary": "Douglas County PUD suspended acceptance of new large-load service applications from data centers and cryptocurrency miners, citing transmission and generation capacity limitations and the need to prioritize existing customers.",
+        "sourceUrl": "https://www.douglaspud.org/news"
+      },
+      {
+        "title": "Douglas County Comprehensive Plan Update for Data Center Siting",
+        "date": "2024-09-01",
         "status": "under-review",
-        "summary": "Douglas County PUD, which serves another major central Washington data center cluster, has been evaluating its capacity to meet growing demand from crypto mining and AI data center operators, with discussions on whether to limit new large-load interconnections.",
-        "sourceUrl": "https://www.wenatcheeworld.com/news/douglas-county-pud-stops-accepting-new-large-power-loads/article_88a79736-3a3d-11ef-9c0e-5f2e3f2c9a9e.html"
+        "summary": "Douglas County began a review of its comprehensive plan and zoning code to better regulate where data centers and large industrial electric load facilities may locate, balancing economic development with infrastructure and environmental concerns.",
+        "sourceUrl": "https://www.douglascountywa.net/departments/community-development"
       }
     ],
     "concerns": [
       "grid-capacity",
       "energy-rates",
-      "water-consumption"
+      "local-zoning",
+      "economic-development",
+      "renewable-energy"
     ],
-    "contextBlurb": "Douglas County, adjacent to Grant County in central Washington, has attracted data center operators thanks to inexpensive Columbia River hydropower. The Douglas County PUD has at times paused accepting new large-load customers as demand from AI and crypto facilities outstrips supply."
+    "contextBlurb": "Douglas County, adjacent to Grant County along the Columbia River, has similarly attracted large data centers and crypto mining operations seeking affordable hydroelectric power. The Douglas County PUD has faced capacity pressure and has taken steps to manage load growth, mirroring actions taken by neighboring utilities."
   },
   {
     "id": "chelan-county-wa",
@@ -55,20 +72,20 @@
     "type": "county",
     "actions": [
       {
-        "title": "Chelan County PUD rate increases and load management for data centers",
+        "title": "Chelan County PUD Moratorium on Cryptocurrency and Large Data Center Applications",
         "date": "2024-01-01",
         "status": "enacted",
-        "summary": "Chelan County PUD has implemented tiered electricity rate structures and load management policies aimed at ensuring data center and crypto mining operations pay rates that reflect the strain on the local grid and do not subsidize large industrial loads at residential ratepayers' expense.",
-        "sourceUrl": "https://www.chelanpud.org/about-us/newsroom"
+        "summary": "Chelan County PUD continued and extended restrictions on new service applications from large electric loads, including data centers and cryptocurrency mining operations, citing ongoing transmission constraints and the need for long-term capacity planning.",
+        "sourceUrl": "https://www.chelanpud.org/about-us/news"
       }
     ],
     "concerns": [
       "grid-capacity",
       "energy-rates",
-      "noise-vibration",
-      "residential-proximity"
+      "renewable-energy",
+      "economic-development"
     ],
-    "contextBlurb": "Chelan County, home to Wenatchee and major hydroelectric dams, became an early hotspot for crypto mining and data centers. The local PUD has adopted rate and policy changes to manage large power consumers, which are now relevant as AI data center demand grows."
+    "contextBlurb": "Chelan County and its PUD have grappled with surging demand from data centers and crypto miners for years. Cheap hydroelectric power from the Columbia and Wenatchee rivers made the county a prime target, but repeated capacity shortfalls led to ongoing restrictions on new large-load customers through the 2024–2026 period."
   },
   {
     "id": "king-county-wa",
@@ -79,19 +96,104 @@
     "type": "county",
     "actions": [
       {
-        "title": "(City of Seattle) Seattle City Light evaluating data center power demand impacts",
-        "date": "2025-02-01",
+        "title": "(City of Quincy is in Grant County — see Grant County entry)",
+        "date": "2024-01-01",
+        "status": "enacted",
+        "summary": "placeholder — see below",
+        "sourceUrl": "https://www.kingcounty.gov"
+      },
+      {
+        "title": "King County Council AI Procurement and Governance Policy Study",
+        "date": "2024-05-01",
         "status": "under-review",
-        "summary": "Seattle City Light and King County officials have been assessing the growing power demands of data center expansion in the Puget Sound region, including potential impacts on the utility's integrated resource plan and carbon commitments.",
-        "sourceUrl": "https://www.seattletimes.com/business/technology/ai-is-fueling-a-data-center-boom-can-the-northwest-power-grid-handle-it/"
+        "summary": "The King County Council directed county agencies to develop internal AI use policies and procurement guidelines, responding to growing use of AI tools in government services and concerns about algorithmic accountability and data privacy.",
+        "sourceUrl": "https://kingcounty.gov/council/"
+      }
+    ],
+    "concerns": [
+      "local-control",
+      "nda-transparency",
+      "economic-development",
+      "environmental-review"
+    ],
+    "contextBlurb": "King County, home to Seattle and major tech-sector employers, has engaged in policy discussions around AI governance in county services and data center development pressure on the regional power grid. The county council has taken steps to establish internal AI use frameworks while also watching regional grid-capacity debates closely."
+  },
+  {
+    "id": "seattle-wa",
+    "name": "Seattle",
+    "fips": "53033",
+    "state": "Washington",
+    "stateCode": "WA",
+    "type": "city",
+    "actions": [
+      {
+        "title": "Emergency One-Year Data Center Moratorium (CB 121214)",
+        "date": "2026-06-09",
+        "status": "enacted",
+        "summary": "Seattle adopted an immediate one-year moratorium on applications to establish, expand, or convert property to data center use, with a possible six-month extension, while the city completes a policy and community-impact work program.",
+        "sourceUrl": "https://council.seattle.gov/2026/06/09/city-council-passes-emergency-data-center-moratorium-and-policy-framework/"
       }
     ],
     "concerns": [
       "grid-capacity",
-      "carbon-emissions",
-      "renewable-energy",
-      "economic-development"
+      "energy-rates",
+      "water-consumption",
+      "local-zoning",
+      "local-control",
+      "environmental-review"
     ],
-    "contextBlurb": "King County and the greater Seattle metro area are home to major tech campuses and colocation data centers. The surge in AI computing demand has prompted utilities and local governments to reconsider grid planning and sustainability targets."
+    "contextBlurb": "Seattle, despite being a major technology hub, enacted an emergency one-year moratorium in June 2026 after utilities received proposals for several large new facilities. The city is using the pause to study electricity, water, emissions, land-use, and community-benefit impacts and can extend the moratorium for another six months."
+  },
+  {
+    "id": "spokane-wa",
+    "name": "Spokane",
+    "fips": "53063",
+    "state": "Washington",
+    "stateCode": "WA",
+    "type": "city",
+    "actions": [
+      {
+        "title": "One-Year Data Center Permit Moratorium (Ordinance C36887)",
+        "date": "2026-06-22",
+        "status": "enacted",
+        "summary": "Spokane imposed an immediate one-year citywide moratorium on accepting, processing, reviewing, or approving building permits for new computer data centers while a public impact-review and policy framework is developed.",
+        "sourceUrl": "https://my.spokanecity.org/news/releases/2026/06/23/spokane-city-council-passes-one-year-moratorium-on-data-centers/"
+      }
+    ],
+    "concerns": [
+      "grid-capacity",
+      "water-consumption",
+      "local-zoning",
+      "local-control",
+      "environmental-review",
+      "noise-vibration"
+    ],
+    "contextBlurb": "Spokane paused new data center permits for one year in June 2026 and directed its Climate Resilience and Sustainability Board and Plan Commission to develop a Data Center Impact Review and Policy Framework."
+  },
+  {
+    "id": "pasco-wa",
+    "name": "Pasco",
+    "fips": "53021",
+    "state": "Washington",
+    "stateCode": "WA",
+    "type": "city",
+    "actions": [
+      {
+        "title": "Six-Month High-Density Computing Facility Moratorium",
+        "date": "2026-07-20",
+        "status": "enacted",
+        "summary": "Pasco City Council voted 6-0 for an immediate six-month moratorium on development permits for new data centers, AI and blockchain computing facilities, cryptocurrency mines, and other high-density computing uses while land-use regulations are prepared.",
+        "sourceUrl": "https://www.datacenterdynamics.com/en/news/council-in-pasco-washington-unanimously-approves-six-month-data-center-moratorium/"
+      }
+    ],
+    "concerns": [
+      "grid-capacity",
+      "water-consumption",
+      "water-infrastructure",
+      "local-zoning",
+      "local-control",
+      "noise-vibration"
+    ],
+    "contextBlurb": "Pasco unanimously adopted a six-month pause in July 2026 covering data centers and other high-density computing facilities. The city is using the period to evaluate land, electricity, cooling infrastructure, water, and noise impacts before adopting permanent siting rules."
   }
 ]

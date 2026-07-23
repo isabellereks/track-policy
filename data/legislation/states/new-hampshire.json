@@ -2,38 +2,128 @@
   "state": "New Hampshire",
   "stateCode": "NH",
   "region": "na",
-  "stance": "concerning",
-  "stanceDatacenter": "review",
-  "stanceAI": "concerning",
-  "lastUpdated": "2026-04-14",
-  "contextBlurb": "New Hampshire's legislature is wrestling with unusually wide-ranging and sometimes contradictory impulses: HB1265 would have outright banned new data center construction over environmental concerns, while HB1739 sought to actively incentivize large-scale data facilities — both died without passage. Consumer data privacy protections, AI governance for licensed professions (SB640), and municipal zoning authority over data centers (SB439) remain active debates, but no major legislation has yet crossed the finish line. That gap between ambitious proposals and actual enactments, combined with the ideologically diverse mix of bills, makes New Hampshire's policy direction harder to predict than most states.",
+  "stance": "restrictive",
+  "stanceDatacenter": "concerning",
+  "stanceAI": "restrictive",
+  "lastUpdated": "2026-07-22",
+  "contextBlurb": "New Hampshire is leaning restrictive on AI, with no data-center legislation currently tracked. On AI: HB1460 (enacted) — Bans companies from selling personal data belonging to children.",
   "legislation": [
     {
-      "id": "nh-hb1694",
-      "billCode": "HB1694",
-      "title": "Relative to the regulation of and protections for personal data obtained by websites and data brokers.",
-      "summary": "This bill sets rules for how websites and data brokers can collect, use, and share people's personal information. It aims to give consumers more control and protection over their data held by these companies.",
+      "id": "nh-hb1727",
+      "billCode": "HB1727",
+      "title": "Relative to student data sharing for the Summer EBT program.",
+      "summary": "This bill governs how student data can be shared with the Summer EBT program, establishing rules around collection and use of student information for nutrition assistance eligibility. The legislation addresses data privacy and child safety by creating oversight requirements for student data sharing between educational institutions and government benefit programs.",
+      "stage": "Enacted",
+      "stance": "concerning",
+      "impactTags": [
+        "data-privacy",
+        "child-safety"
+      ],
+      "category": "ai-education",
+      "updatedDate": "2026-07-20",
+      "partyOrigin": "R",
+      "sourceUrl": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=2965&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=HB1727",
+      "legiscanUrl": "https://legiscan.com/NH/bill/HB1727/2026",
+      "legiscanId": 2059258,
+      "sponsors": [
+        "Mike Bordes"
+      ]
+    },
+    {
+      "id": "nh-hb1577",
+      "billCode": "HB1577",
+      "title": "Relative to the disclosure of utility customer data to municipalities for emergency response planning.",
+      "summary": "This bill regulates how utility companies can share customer data with municipalities for emergency planning purposes, establishing disclosure rules and likely privacy protections. It addresses data governance in a critical infrastructure context without directly restricting AI or data-center operations.",
+      "stage": "Enacted",
+      "stance": "concerning",
+      "impactTags": [
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-07-10",
+      "partyOrigin": "B",
+      "sourceUrl": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=2890&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=HB1577",
+      "legiscanUrl": "https://legiscan.com/NH/bill/HB1577/2026",
+      "legiscanId": 2057628,
+      "sponsors": [
+        "Margaret Drye",
+        "Jeffrey Tenczar",
+        "Charles Foote",
+        "Dale Girard"
+      ]
+    },
+    {
+      "id": "nh-hb1460",
+      "billCode": "HB1460",
+      "title": "Prohibiting the sale of a child's personal data.",
+      "summary": "This bill bans companies from selling personal data belonging to children. It aims to protect minors' privacy by preventing their information from being bought and sold without consent.",
+      "stage": "Enacted",
+      "stance": "restrictive",
+      "impactTags": [
+        "data-privacy",
+        "child-safety"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-06-24",
+      "partyOrigin": "R",
+      "sourceUrl": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=3231&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=HB1460",
+      "legiscanUrl": "https://legiscan.com/NH/bill/HB1460/2026",
+      "legiscanId": 2056728,
+      "sponsors": [
+        "Melissa Litchfield",
+        "Jay Markell",
+        "Jess Edwards",
+        "Laurence  Miner"
+      ]
+    },
+    {
+      "id": "nh-sb657",
+      "billCode": "SB657",
+      "title": "Relative to the use of information technology and artificial intelligence systems by state agencies.",
+      "summary": "This bill addresses how New Hampshire state agencies use information technology and artificial intelligence systems. It likely establishes guidelines, oversight, or reporting requirements for government AI use.",
+      "stage": "Committee",
+      "stance": "review",
+      "impactTags": [
+        "algorithmic-transparency",
+        "ai-safety"
+      ],
+      "category": "ai-government",
+      "updatedDate": "2026-05-21",
+      "partyOrigin": "D",
+      "sourceUrl": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=3270&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=SB657",
+      "legiscanUrl": "https://legiscan.com/NH/bill/SB657/2026",
+      "legiscanId": 2107993,
+      "sponsors": [
+        "Rebecca Perkins Kwoka",
+        "Cindy Rosenwald",
+        "Suzanne Prentiss",
+        "Patrick Long"
+      ]
+    },
+    {
+      "id": "nh-sb439",
+      "billCode": "SB439",
+      "title": "Relative to municipal data center zoning.",
+      "summary": "This bill addresses how New Hampshire municipalities can regulate where data centers are built through local zoning rules. It gives local governments a role in controlling data center placement within their communities.",
       "stage": "Dead",
       "stance": "concerning",
       "dimensionStances": {
-        "ai-governance-dim": "none",
-        "ai-consumer": "concerning"
+        "community": "concerning",
+        "land-use": "concerning"
       },
       "impactTags": [
-        "data-privacy",
-        "algorithmic-transparency"
+        "local-zoning",
+        "local-control"
       ],
-      "category": "data-privacy",
-      "updatedDate": "2025-12-12",
-      "partyOrigin": "B",
-      "sourceUrl": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=2612&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=HB1694",
-      "legiscanUrl": "https://legiscan.com/NH/bill/HB1694/2026",
-      "legiscanId": 2058468,
+      "category": "data-center-siting",
+      "updatedDate": "2026-05-14",
+      "partyOrigin": "D",
+      "sourceUrl": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=2236&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=SB439",
+      "legiscanUrl": "https://legiscan.com/NH/bill/SB439/2026",
+      "legiscanId": 2053788,
       "sponsors": [
-        "Alice Wade",
-        "Patrick Long",
-        "Heath Howard",
-        "Henry Giasson"
+        "Debra Altschiller",
+        "Hope Damon"
       ]
     },
     {
@@ -41,14 +131,14 @@
       "billCode": "SB640",
       "title": "Relative to the use of artificial intelligence to provide services requiring a professional license.",
       "summary": "This bill addresses the use of AI systems to perform tasks that normally require a professional license, such as legal, medical, or financial services. It likely establishes rules or restrictions to ensure AI-provided services meet professional standards and protect consumers.",
-      "stage": "Committee",
+      "stage": "Dead",
       "stance": "concerning",
       "impactTags": [
         "algorithmic-transparency",
         "ai-safety"
       ],
       "category": "ai-governance",
-      "updatedDate": "2026-03-16",
+      "updatedDate": "2026-05-14",
       "partyOrigin": "B",
       "sourceUrl": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=2088&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=SB640",
       "legiscanUrl": "https://legiscan.com/NH/bill/SB640/2026",
@@ -61,39 +151,71 @@
       ]
     },
     {
-      "id": "nh-sb583",
-      "billCode": "SB583",
-      "title": "Directing the department of education to create an education funding transparency data and reporting system.",
-      "summary": "This bill requires the New Hampshire Department of Education to build a system for tracking and reporting how education funding is spent. It is not related to AI or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-education",
-      "updatedDate": "2025-11-25",
+      "id": "nh-hb1406",
+      "billCode": "HB1406",
+      "title": "Relative to health carrier recordkeeping requirements in utilization review, including specifications regarding the use of artificial intelligence.",
+      "summary": "This bill requires health insurance carriers to maintain detailed records of utilization review decisions and mandates specific documentation requirements when artificial intelligence is used in those decisions. The legislation aims to increase transparency and accountability in how AI systems influence insurance coverage determinations.",
+      "stage": "Dead",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "concerning",
+        "ai-public": "concerning"
+      },
+      "impactTags": [
+        "ai-in-healthcare",
+        "algorithmic-transparency",
+        "data-privacy"
+      ],
+      "category": "ai-healthcare",
+      "updatedDate": "2026-05-05",
       "partyOrigin": "B",
-      "sourceUrl": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=2224&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=SB583",
-      "legiscanUrl": "https://legiscan.com/NH/bill/SB583/2026",
-      "legiscanId": 2053949,
+      "sourceUrl": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=2971&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=HB1406",
+      "legiscanUrl": "https://legiscan.com/NH/bill/HB1406/2026",
+      "legiscanId": 2056470,
       "sponsors": [
-        "Timothy Lang",
-        "Patrick Long",
-        "Tim McGough",
-        "David Watters"
+        "Alicia Gregg",
+        "David Nagel",
+        "Gaby Grossman",
+        "Jessica LaMontagne"
+      ]
+    },
+    {
+      "id": "nh-hb1317",
+      "billCode": "HB1317",
+      "title": "Relative to patient privacy protections.",
+      "summary": "This bill establishes or modifies patient privacy protections in New Hampshire. Without the full text, the specific scope and enforcement mechanisms cannot be determined, but the bill addresses healthcare data privacy rights.",
+      "stage": "Committee",
+      "stance": "review",
+      "impactTags": [
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-03-12",
+      "partyOrigin": "D",
+      "sourceUrl": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=2963&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=HB1317",
+      "legiscanUrl": "https://legiscan.com/NH/bill/HB1317/2026",
+      "legiscanId": 2054518,
+      "sponsors": [
+        "Heath Howard",
+        "Alice Wade",
+        "Billie Butler",
+        "Chris Muns"
       ]
     },
     {
       "id": "nh-hb1650",
       "billCode": "HB1650",
       "title": "Relative to an age-appropriate design code.",
-      "summary": "This bill would require online platforms and apps to design their services with children's safety and privacy in mind, following an 'age-appropriate design code.' It places restrictions on how companies can collect and use data from minors and requires them to assess potential harms to children.",
+      "summary": "This bill would require online platforms and apps to follow special design rules that protect children's privacy and safety when minors are likely users. It places restrictions on how companies can collect data from and design products aimed at children.",
       "stage": "Dead",
-      "stance": "concerning",
+      "stance": "restrictive",
       "impactTags": [
         "child-safety",
         "data-privacy"
       ],
       "category": "data-privacy",
-      "updatedDate": "2025-12-10",
+      "updatedDate": "2026-03-11",
       "partyOrigin": "R",
       "sourceUrl": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=3111&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=HB1650",
       "legiscanUrl": "https://legiscan.com/NH/bill/HB1650/2026",
@@ -103,148 +225,6 @@
         "Brian Nadeau",
         "James Thibault",
         "Laurence  Miner"
-      ]
-    },
-    {
-      "id": "nh-sb439",
-      "billCode": "SB439",
-      "title": "Relative to municipal data center zoning.",
-      "summary": "This bill addresses how New Hampshire municipalities can regulate the siting and zoning of data centers within their jurisdictions. It deals with local government authority over where data centers can be built or operated.",
-      "stage": "Committee",
-      "stance": "review",
-      "dimensionStances": {
-        "community": "concerning",
-        "land-use": "concerning"
-      },
-      "impactTags": [
-        "local-zoning",
-        "local-control"
-      ],
-      "category": "data-center-siting",
-      "updatedDate": "2026-02-26",
-      "partyOrigin": "D",
-      "sourceUrl": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=2236&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=SB439",
-      "legiscanUrl": "https://legiscan.com/NH/bill/SB439/2026",
-      "legiscanId": 2053788,
-      "sponsors": [
-        "Debra Altschiller",
-        "Hope Damon"
-      ]
-    },
-    {
-      "id": "nh-hb1808",
-      "billCode": "HB1808",
-      "title": "Establishing the position of academic research and improvement performance data analyst in the department of education and making an appropriation therefor.",
-      "summary": "This bill creates a new staff position in the New Hampshire Department of Education focused on analyzing academic performance data. It does not relate to AI regulation or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-education",
-      "updatedDate": "2026-02-13",
-      "partyOrigin": "B",
-      "sourceUrl": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=2592&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=HB1808",
-      "legiscanUrl": "https://legiscan.com/NH/bill/HB1808/2026",
-      "legiscanId": 2060130,
-      "sponsors": [
-        "Roderick Ladd",
-        "Daniel Popovici-Muller",
-        "Raymond Peeples",
-        "Hope Damon"
-      ]
-    },
-    {
-      "id": "nh-hb1589",
-      "billCode": "HB1589",
-      "title": "Establishing the digital choice act.",
-      "summary": "This bill establishes a 'Digital Choice Act' in New Hampshire, likely giving consumers rights over their personal data collected by digital platforms. It would impose obligations on companies regarding how they handle, share, or process user data.",
-      "stage": "Dead",
-      "stance": "concerning",
-      "dimensionStances": {
-        "ai-governance-dim": "concerning",
-        "ai-consumer": "concerning"
-      },
-      "impactTags": [
-        "data-privacy",
-        "algorithmic-transparency"
-      ],
-      "category": "data-privacy",
-      "updatedDate": "2025-12-10",
-      "partyOrigin": "R",
-      "sourceUrl": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=2907&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=HB1589",
-      "legiscanUrl": "https://legiscan.com/NH/bill/HB1589/2026",
-      "legiscanId": 2057594,
-      "sponsors": [
-        "Melissa Litchfield",
-        "James Thibault",
-        "Michael Granger",
-        "Michael Moffett"
-      ]
-    },
-    {
-      "id": "nh-hb297",
-      "billCode": "HB297",
-      "title": "Relative to providing self-funded employer health benefit plans access to their claims data.",
-      "summary": "This bill requires that employers who self-fund their health benefit plans be given access to their own claims data. It is not related to AI or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "data-privacy",
-      "updatedDate": "2026-01-30",
-      "partyOrigin": "D",
-      "sourceUrl": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=669&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=HB297",
-      "legiscanUrl": "https://legiscan.com/NH/bill/HB297/2026",
-      "legiscanId": 2064428,
-      "sponsors": [
-        "Carry Spier"
-      ]
-    },
-    {
-      "id": "nh-hb1739",
-      "billCode": "HB1739",
-      "title": "Relative to energy infrastructure, economic development, and workforce training for large-scale data facilities.",
-      "summary": "This bill addresses energy infrastructure, economic development, and workforce training specifically for large-scale data centers in New Hampshire. It appears designed to support and encourage data center growth by improving related energy systems and building a skilled workforce.",
-      "stage": "Dead",
-      "stance": "favorable",
-      "impactTags": [
-        "grid-capacity",
-        "energy-rates",
-        "job-creation",
-        "economic-development"
-      ],
-      "category": "data-center-energy",
-      "updatedDate": "2025-12-17",
-      "partyOrigin": "B",
-      "sourceUrl": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=2699&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=HB1739",
-      "legiscanUrl": "https://legiscan.com/NH/bill/HB1739/2026",
-      "legiscanId": 2059162,
-      "sponsors": [
-        "Santosh Salvi",
-        "Alicia Gregg",
-        "Carry Spier",
-        "Efstathia Booras"
-      ]
-    },
-    {
-      "id": "nh-hb1316",
-      "billCode": "HB1316",
-      "title": "Restricting the collection and disclosure of autism-related data by state agencies.",
-      "summary": "This bill limits how New Hampshire state agencies can collect and share data about individuals with autism. It puts restrictions in place to protect the privacy of autistic people's personal information held by the government.",
-      "stage": "Committee",
-      "stance": "restrictive",
-      "impactTags": [
-        "data-privacy"
-      ],
-      "category": "data-privacy",
-      "updatedDate": "2025-12-01",
-      "partyOrigin": "D",
-      "sourceUrl": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=2958&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=HB1316",
-      "legiscanUrl": "https://legiscan.com/NH/bill/HB1316/2026",
-      "legiscanId": 2054504,
-      "sponsors": [
-        "Lily Foss",
-        "Billie Butler",
-        "Alice Wade",
-        "Heath Howard"
       ]
     },
     {
@@ -268,7 +248,7 @@
         "local-zoning"
       ],
       "category": "data-center-siting",
-      "updatedDate": "2025-12-01",
+      "updatedDate": "2026-03-11",
       "partyOrigin": "D",
       "sourceUrl": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=2482&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=HB1265",
       "legiscanUrl": "https://legiscan.com/NH/bill/HB1265/2026",
@@ -280,27 +260,158 @@
       ]
     },
     {
-      "id": "nh-hb1460",
-      "billCode": "HB1460",
-      "title": "Prohibiting the sale of a child's personal data.",
-      "summary": "This bill bans the sale of personal data belonging to children in New Hampshire. It aims to protect minors from having their private information sold by companies or other parties.",
+      "id": "nh-hb1658",
+      "billCode": "HB1658",
+      "title": "Relative to parental consent and age verification for digital application platforms.",
+      "summary": "This bill requires digital application platforms to obtain parental consent and implement age verification for minors using their services. It establishes enforceable rules around how platforms handle children's data and access.",
+      "stage": "Dead",
+      "stance": "concerning",
+      "impactTags": [
+        "child-safety",
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-03-11",
+      "partyOrigin": "R",
+      "sourceUrl": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=3005&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=HB1658",
+      "legiscanUrl": "https://legiscan.com/NH/bill/HB1658/2026",
+      "legiscanId": 2058416,
+      "sponsors": [
+        "Margaret Drye",
+        "Lisa Freeman",
+        "Melissa Litchfield",
+        "James Thibault"
+      ]
+    },
+    {
+      "id": "nh-hb1316",
+      "billCode": "HB1316",
+      "title": "Restricting the collection and disclosure of autism-related data by state agencies.",
+      "summary": "This bill limits how New Hampshire state agencies can collect and share data about people with autism. It places restrictions on what autism-related information the government can gather and disclose.",
       "stage": "Committee",
       "stance": "restrictive",
       "impactTags": [
-        "data-privacy",
-        "child-safety"
+        "data-privacy"
       ],
       "category": "data-privacy",
-      "updatedDate": "2026-02-13",
+      "updatedDate": "2026-02-25",
+      "partyOrigin": "D",
+      "sourceUrl": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=2958&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=HB1316",
+      "legiscanUrl": "https://legiscan.com/NH/bill/HB1316/2026",
+      "legiscanId": 2054504,
+      "sponsors": [
+        "Lily Foss",
+        "Billie Butler",
+        "Alice Wade",
+        "Heath Howard"
+      ]
+    },
+    {
+      "id": "nh-hb1589",
+      "billCode": "HB1589",
+      "title": "Establishing the digital choice act.",
+      "summary": "This bill establishes a 'Digital Choice Act' in New Hampshire, likely giving consumers rights over their personal data held by digital platforms. It would impose rules on how companies collect, use, and share user data online.",
+      "stage": "Dead",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "concerning"
+      },
+      "impactTags": [
+        "data-privacy",
+        "algorithmic-transparency"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-02-19",
       "partyOrigin": "R",
-      "sourceUrl": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=3231&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=HB1460",
-      "legiscanUrl": "https://legiscan.com/NH/bill/HB1460/2026",
-      "legiscanId": 2056728,
+      "sourceUrl": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=2907&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=HB1589",
+      "legiscanUrl": "https://legiscan.com/NH/bill/HB1589/2026",
+      "legiscanId": 2057594,
       "sponsors": [
         "Melissa Litchfield",
-        "Jay Markell",
-        "Jess Edwards",
-        "Laurence  Miner"
+        "James Thibault",
+        "Michael Granger",
+        "Michael Moffett"
+      ]
+    },
+    {
+      "id": "nh-hb1739",
+      "billCode": "HB1739",
+      "title": "Relative to energy infrastructure, economic development, and workforce training for large-scale data facilities.",
+      "summary": "This bill addresses energy infrastructure planning, economic development incentives, and workforce training programs specifically for large-scale data centers in New Hampshire. It appears designed to support and attract data center investment by ensuring grid capacity and a trained workforce are available.",
+      "stage": "Dead",
+      "stance": "favorable",
+      "impactTags": [
+        "grid-capacity",
+        "economic-development",
+        "job-creation",
+        "energy-rates"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-02-19",
+      "partyOrigin": "B",
+      "sourceUrl": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=2699&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=HB1739",
+      "legiscanUrl": "https://legiscan.com/NH/bill/HB1739/2026",
+      "legiscanId": 2059162,
+      "sponsors": [
+        "Santosh Salvi",
+        "Alicia Gregg",
+        "Carry Spier",
+        "Efstathia Booras"
+      ]
+    },
+    {
+      "id": "nh-hb1725",
+      "billCode": "HB1725",
+      "title": "Relative to the regulation of artificial intelligence technologies.",
+      "summary": "This bill establishes a framework for regulating artificial intelligence technologies in New Hampshire. It creates oversight mechanisms and requirements for transparency and safety in AI system deployment.",
+      "stage": "Dead",
+      "stance": "review",
+      "dimensionStances": {
+        "ai-governance-dim": "review",
+        "ai-consumer": "review"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "ai-safety",
+        "data-privacy"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-19",
+      "partyOrigin": "D",
+      "sourceUrl": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=2812&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=HB1725",
+      "legiscanUrl": "https://legiscan.com/NH/bill/HB1725/2026",
+      "legiscanId": 2059250,
+      "sponsors": [
+        "Patrick Long"
+      ]
+    },
+    {
+      "id": "nh-hb1694",
+      "billCode": "HB1694",
+      "title": "Relative to the regulation of and protections for personal data obtained by websites and data brokers.",
+      "summary": "This bill sets rules for how websites and data brokers can collect, use, and share personal information about New Hampshire residents. It creates protections giving people more control over their personal data held by these companies.",
+      "stage": "Dead",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "none",
+        "ai-consumer": "concerning"
+      },
+      "impactTags": [
+        "data-privacy",
+        "algorithmic-transparency"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-02-05",
+      "partyOrigin": "B",
+      "sourceUrl": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=2612&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=HB1694",
+      "legiscanUrl": "https://legiscan.com/NH/bill/HB1694/2026",
+      "legiscanId": 2058468,
+      "sponsors": [
+        "Alice Wade",
+        "Patrick Long",
+        "Heath Howard",
+        "Henry Giasson"
       ]
     }
   ]

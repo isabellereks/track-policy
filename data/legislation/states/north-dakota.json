@@ -5,139 +5,14 @@
   "stance": "restrictive",
   "stanceDatacenter": "review",
   "stanceAI": "restrictive",
-  "lastUpdated": "2026-04-14",
-  "contextBlurb": "North Dakota enacted disclosure rules for AI-generated political content, a state K-12 smartphone restriction, and a legislative study of how large energy users affect the grid. Pending bills would give the Public Service Commission authority over data-center siting and create a state technology research center with compute credits.",
+  "lastUpdated": "2026-07-22",
+  "contextBlurb": "North Dakota is under discussion on data centers and leaning restrictive on AI. On data centers: HB1579 (enacted) — Directs North Dakota's legislature to study how large energy users—like data centers and AI facilities—affect the state's electrical grid. On AI: SB2354 (enacted) — This North Dakota bill regulates how students in pre-K through 12th grade can use personal electronic devices such as smartphones in schools.",
   "legislation": [
-    {
-      "id": "nd-hb1427",
-      "billCode": "HB1427",
-      "title": "Authorization for the public service commission to regulate the siting compatibility for data centers; and to provide a penalty.",
-      "summary": "This North Dakota bill gives the state Public Service Commission authority to regulate where data centers can be built, including compatibility with surrounding land uses. It also establishes penalties for violations of these siting rules.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "dimensionStances": {
-        "environmental": "concerning",
-        "community": "concerning",
-        "land-use": "concerning"
-      },
-      "impactTags": [
-        "local-zoning",
-        "local-control",
-        "environmental-review"
-      ],
-      "category": "data-center-siting",
-      "updatedDate": "2025-01-13",
-      "partyOrigin": "R",
-      "sourceUrl": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo1427.html",
-      "legiscanUrl": "https://legiscan.com/ND/bill/HB1427/2025",
-      "legiscanId": 1916857,
-      "sponsors": [
-        "Anna Novak",
-        "Dick Anderson",
-        "Patrick Heinert",
-        "Todd Porter"
-      ]
-    },
-    {
-      "id": "nd-hb1167",
-      "billCode": "HB1167",
-      "title": "Artificial intelligence disclosure statements.",
-      "summary": "This bill requires disclosure statements when artificial intelligence is used to create or alter content, particularly in the context of elections. It aims to ensure voters know when political materials have been generated or modified by AI.",
-      "stage": "Enacted",
-      "stance": "concerning",
-      "dimensionStances": {
-        "ai-governance-dim": "concerning",
-        "ai-synthetic": "none"
-      },
-      "impactTags": [
-        "algorithmic-transparency",
-        "deepfake-regulation"
-      ],
-      "category": "synthetic-media",
-      "updatedDate": "2025-04-11",
-      "partyOrigin": "B",
-      "sourceUrl": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo1167.html",
-      "legiscanUrl": "https://legiscan.com/ND/bill/HB1167/2025",
-      "legiscanId": 1908973,
-      "sponsors": [
-        "Jonathan Warrey",
-        "Landon Bahl",
-        "Nels Christianson",
-        "Josh Christy"
-      ]
-    },
-    {
-      "id": "nd-hb1068",
-      "billCode": "HB1068",
-      "title": "Autopsy reports, working papers, funeral practice exceptions, and photographs.",
-      "summary": "This bill amends North Dakota law regarding autopsy reports, funeral practice exceptions, and related photographs. It has no relevance to AI policy or data-center regulation.",
-      "stage": "Enacted",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2025-03-18",
-      "sourceUrl": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo1068.html",
-      "legiscanUrl": "https://legiscan.com/ND/bill/HB1068/2025",
-      "legiscanId": 1899163,
-      "sponsors": [
-        "Human Services"
-      ]
-    },
-    {
-      "id": "nd-hb1579",
-      "billCode": "HB1579",
-      "title": "AN ACT to provide for a legislative management study relating to the impact of large energy consumers on the state's electrical grid.",
-      "summary": "This bill directs a legislative study to examine how large energy consumers \u2014 such as data centers and AI facilities \u2014 affect North Dakota's electrical grid. It is exploratory in nature, gathering information without imposing any restrictions or incentives.",
-      "stage": "Enacted",
-      "stance": "review",
-      "impactTags": [
-        "grid-capacity",
-        "energy-rates"
-      ],
-      "category": "data-center-energy",
-      "updatedDate": "2025-04-29",
-      "partyOrigin": "R",
-      "sourceUrl": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo1579.html",
-      "legiscanUrl": "https://legiscan.com/ND/bill/HB1579/2025",
-      "legiscanId": 1930423,
-      "sponsors": [
-        "Anna Novak",
-        "Patrick Heinert",
-        "Todd Porter",
-        "Greg Kessel"
-      ]
-    },
-    {
-      "id": "nd-hb1265",
-      "billCode": "HB1265",
-      "title": "The state information technology research center, advanced technology review committee, compute credits grant program, and advanced technology grant fund.",
-      "summary": "This North Dakota bill creates a state technology research center, an oversight committee, and a grant program to fund advanced computing projects. It establishes financial incentives through compute credits and a dedicated grant fund to support technology development in the state.",
-      "stage": "Committee",
-      "stance": "favorable",
-      "impactTags": [
-        "algorithmic-transparency",
-        "ai-safety",
-        "economic-development",
-        "tax-incentives"
-      ],
-      "category": "ai-governance",
-      "updatedDate": "2025-02-25",
-      "partyOrigin": "B",
-      "sourceUrl": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo1265.html",
-      "legiscanUrl": "https://legiscan.com/ND/bill/HB1265/2025",
-      "legiscanId": 1916131,
-      "sponsors": [
-        "Josh Christy",
-        "Austin Foss",
-        "Karla Hanson",
-        "Emily O'Brien"
-      ]
-    },
     {
       "id": "nd-sb2354",
       "billCode": "SB2354",
       "title": "The use of personal electronic devices in schools providing prekindergarten, elementary, or secondary education.",
-      "summary": "This bill regulates how students in North Dakota's K-12 and pre-K schools can use personal electronic devices like smartphones during the school day. It amends existing rules to set limits on student device use in educational settings.",
+      "summary": "This North Dakota bill regulates how students in pre-K through 12th grade can use personal electronic devices such as smartphones in schools. It amends existing rules to set limits or conditions on when and how these devices may be used during the school day.",
       "stage": "Enacted",
       "stance": "restrictive",
       "dimensionStances": {
@@ -149,7 +24,7 @@
         "child-safety"
       ],
       "category": "ai-education",
-      "updatedDate": "2025-05-02",
+      "updatedDate": "2025-06-11",
       "partyOrigin": "R",
       "sourceUrl": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo2354.html",
       "legiscanUrl": "https://legiscan.com/ND/bill/SB2354/2025",
@@ -162,17 +37,89 @@
       ]
     },
     {
+      "id": "nd-sb2256",
+      "billCode": "SB2256",
+      "title": "A research technology park grant program; to provide an appropriation; and to provide for a report.",
+      "summary": "North Dakota establishes a research technology park grant program with funding to support innovation infrastructure and research facilities. The program aims to promote economic development and job creation in technology sectors.",
+      "stage": "Enacted",
+      "stance": "favorable",
+      "impactTags": [
+        "economic-development",
+        "job-creation"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-06-11",
+      "partyOrigin": "R",
+      "sourceUrl": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo2256.html",
+      "legiscanUrl": "https://legiscan.com/ND/bill/SB2256/2025",
+      "legiscanId": 1930219,
+      "sponsors": [
+        "Ronald Sorvaag",
+        "Kyle Davison",
+        "Dale Patten",
+        "Jonathan Sickler"
+      ]
+    },
+    {
+      "id": "nd-hb1448",
+      "billCode": "HB1448",
+      "title": "The advanced technology review committee, advanced technology grant program, and advanced technology grant fund.",
+      "summary": "North Dakota establishes an advanced technology review committee, grant program, and dedicated fund to support development and deployment of advanced technologies including AI. The bill creates a framework to incentivize and finance advanced technology initiatives across the state.",
+      "stage": "Enacted",
+      "stance": "favorable",
+      "impactTags": [
+        "economic-development",
+        "job-creation"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-06-11",
+      "partyOrigin": "B",
+      "sourceUrl": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo1448.html",
+      "legiscanUrl": "https://legiscan.com/ND/bill/HB1448/2025",
+      "legiscanId": 1921549,
+      "sponsors": [
+        "Josh Christy",
+        "Landon Bahl",
+        "Jason Dockter",
+        "Jared Hagert"
+      ]
+    },
+    {
+      "id": "nd-hb1579",
+      "billCode": "HB1579",
+      "title": "AN ACT to provide for a legislative management study relating to the impact of large energy consumers on the state's electrical grid.",
+      "summary": "This bill directs North Dakota's legislature to study how large energy users—like data centers and AI facilities—affect the state's electrical grid. It establishes a formal review process but does not impose any restrictions or requirements on those energy consumers.",
+      "stage": "Enacted",
+      "stance": "review",
+      "impactTags": [
+        "grid-capacity",
+        "energy-rates"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2025-04-30",
+      "partyOrigin": "R",
+      "sourceUrl": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo1579.html",
+      "legiscanUrl": "https://legiscan.com/ND/bill/HB1579/2025",
+      "legiscanId": 1930423,
+      "sponsors": [
+        "Anna Novak",
+        "Patrick Heinert",
+        "Todd Porter",
+        "Greg Kessel"
+      ]
+    },
+    {
       "id": "nd-hb1160",
       "billCode": "HB1160",
       "title": "The use of personal electronic devices during instructional time.",
-      "summary": "This bill creates rules limiting or restricting students' use of personal electronic devices, such as smartphones, during school instructional time. It aims to reduce distractions and manage how personal technology is used in North Dakota classrooms.",
+      "summary": "This bill creates rules limiting students' use of personal electronic devices, such as smartphones, during school instructional time. It aims to reduce distractions and improve the learning environment in North Dakota schools.",
       "stage": "Enacted",
       "stance": "restrictive",
       "impactTags": [
         "ai-in-education"
       ],
       "category": "ai-education",
-      "updatedDate": "2025-04-29",
+      "updatedDate": "2025-04-30",
       "partyOrigin": "R",
       "sourceUrl": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo1160.html",
       "legiscanUrl": "https://legiscan.com/ND/bill/HB1160/2025",
@@ -185,38 +132,17 @@
       ]
     },
     {
-      "id": "nd-sb2278",
-      "billCode": "SB2278",
-      "title": "AN ACT to provide a legislative management study relating to the retention of library materials.",
-      "summary": "This bill directs a study on how libraries retain their materials, such as books and other resources. It has no relevance to AI regulation or data-center policy.",
-      "stage": "Enacted",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2025-03-31",
-      "partyOrigin": "R",
-      "sourceUrl": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo2278.html",
-      "legiscanUrl": "https://legiscan.com/ND/bill/SB2278/2025",
-      "legiscanId": 1930471,
-      "sponsors": [
-        "Keith Boehm",
-        "Jose Castaneda",
-        "Mike Wobbema",
-        "Kathy Frelich"
-      ]
-    },
-    {
       "id": "nd-hb1429",
       "billCode": "HB1429",
       "title": "Harassment and stalking with a robot; and to provide a penalty.",
-      "summary": "This bill updates North Dakota's harassment and stalking laws to explicitly cover situations where someone uses a robot or automated device to harass or stalk another person. It creates criminal penalties for using robots as tools of harassment or stalking.",
+      "summary": "This bill updates North Dakota's harassment and stalking laws to explicitly cover the use of robots or automated devices to harass or stalk someone. It creates criminal penalties for using robotic technology to intimidate or surveil victims.",
       "stage": "Enacted",
       "stance": "restrictive",
       "impactTags": [
-        "algorithmic-transparency"
+        "ai-safety"
       ],
       "category": "ai-criminal-justice",
-      "updatedDate": "2025-04-23",
+      "updatedDate": "2025-04-24",
       "partyOrigin": "B",
       "sourceUrl": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo1429.html",
       "legiscanUrl": "https://legiscan.com/ND/bill/HB1429/2025",
@@ -229,65 +155,115 @@
       ]
     },
     {
-      "id": "nd-sb2018",
-      "billCode": "SB2018",
-      "title": "The purpose of the North Dakota development fund, duties and talent strategy of the division of workforce development, the uncrewed aircraft systems program, the uncrewed aircraft systems program fund, the beyond visual line of sight uncrewed aircraft system program, and changing the name of the office of legal immigration to the global talent office; to authorize a Bank of North Dakota line of credit; to provide for a transfer; to provide an application; to provide an exemption; and to provide for a legislative management report.",
-      "summary": "This North Dakota bill is primarily a commerce and workforce development appropriations measure covering drone programs, talent recruitment, and economic development funding. It does not substantively address AI regulation or data-center policy.",
+      "id": "nd-hb1386",
+      "billCode": "HB1386",
+      "title": "A prohibition on possessing certain computer-generated images; and to provide a penalty.",
+      "summary": "North Dakota prohibits the possession of computer-generated sexual images, including synthetic child sexual abuse material, with criminal penalties. The bill amends existing laws to expand restrictions on digitally created explicit imagery.",
       "stage": "Enacted",
-      "stance": "none",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-consumer": "restrictive",
+        "ai-synthetic": "restrictive"
+      },
       "impactTags": [
-        "job-creation",
-        "economic-development"
+        "deepfake-regulation",
+        "child-safety"
       ],
-      "category": "ai-government",
-      "updatedDate": "2025-05-17",
-      "sourceUrl": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo2018.html",
-      "legiscanUrl": "https://legiscan.com/ND/bill/SB2018/2025",
-      "legiscanId": 1899365,
+      "category": "synthetic-media",
+      "updatedDate": "2025-04-24",
+      "partyOrigin": "B",
+      "sourceUrl": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo1386.html",
+      "legiscanUrl": "https://legiscan.com/ND/bill/HB1386/2025",
+      "legiscanId": 1916725,
       "sponsors": [
-        "Appropriations"
+        "Josh Christy",
+        "Landon Bahl",
+        "Mike Berg",
+        "Liz Conmy"
       ]
     },
     {
-      "id": "nd-sb2370",
-      "billCode": "SB2370",
-      "title": "AN ACT to provide for a legislative management study regarding prescription drug transparency reporting under the federal drug discount program.",
-      "summary": "This bill directs a legislative study on prescription drug pricing transparency under a federal discount program. It has no connection to AI regulation or data-center policy.",
+      "id": "nd-hb1167",
+      "billCode": "HB1167",
+      "title": "Artificial intelligence disclosure statements.",
+      "summary": "This bill requires disclosure when artificial intelligence is used to create political content, such as ads or campaign materials. Candidates or political campaigns would need to clearly label AI-generated content so voters know it was made with AI tools.",
       "stage": "Enacted",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2025-05-02",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-synthetic": "none"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "deepfake-regulation"
+      ],
+      "category": "synthetic-media",
+      "updatedDate": "2025-04-14",
       "partyOrigin": "B",
-      "sourceUrl": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo2370.html",
-      "legiscanUrl": "https://legiscan.com/ND/bill/SB2370/2025",
-      "legiscanId": 1942778,
+      "sourceUrl": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo1167.html",
+      "legiscanUrl": "https://legiscan.com/ND/bill/HB1167/2025",
+      "legiscanId": 1908973,
       "sponsors": [
-        "Sean Cleary",
-        "Dick Dever",
-        "Tim Mathern",
-        "Carrie McLeod"
+        "Jonathan Warrey",
+        "Landon Bahl",
+        "Nels Christianson",
+        "Josh Christy"
       ]
     },
     {
-      "id": "nd-hb1567",
-      "billCode": "HB1567",
-      "title": "AN ACT to provide for a legislative management study relating to dental and oral health care status among Medicaid recipients and workforce support to improve access for low-income children, Native American children, and individuals with disabilities.",
-      "summary": "This bill directs a study on dental and oral health care access for Medicaid recipients, including low-income children and individuals with disabilities. It has no connection to AI regulation or data-center policy.",
-      "stage": "Enacted",
-      "stance": "none",
-      "impactTags": [],
+      "id": "nd-hb1265",
+      "billCode": "HB1265",
+      "title": "The state information technology research center, advanced technology review committee, compute credits grant program, and advanced technology grant fund.",
+      "summary": "This bill creates a state technology research center and review committee, along with a grant program and fund to provide compute credits to support advanced technology development in North Dakota. It is designed to promote AI and tech innovation through government-backed financial support and institutional infrastructure.",
+      "stage": "Committee",
+      "stance": "favorable",
+      "impactTags": [
+        "algorithmic-transparency",
+        "ai-safety",
+        "economic-development",
+        "tax-incentives"
+      ],
       "category": "ai-governance",
-      "updatedDate": "2025-04-18",
+      "updatedDate": "2025-04-08",
       "partyOrigin": "B",
-      "sourceUrl": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo1567.html",
-      "legiscanUrl": "https://legiscan.com/ND/bill/HB1567/2025",
-      "legiscanId": 1930640,
+      "sourceUrl": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo1265.html",
+      "legiscanUrl": "https://legiscan.com/ND/bill/HB1265/2025",
+      "legiscanId": 1916131,
       "sponsors": [
-        "Mary Schneider",
-        "Collette Brown",
-        "Jayme Davis",
-        "Lisa Finley-Deville"
+        "Josh Christy",
+        "Austin Foss",
+        "Karla Hanson",
+        "Emily O'Brien"
+      ]
+    },
+    {
+      "id": "nd-hb1427",
+      "billCode": "HB1427",
+      "title": "Authorization for the public service commission to regulate the siting compatibility for data centers; and to provide a penalty.",
+      "summary": "This North Dakota bill gives the state Public Service Commission authority to regulate where data centers can be built, including compatibility with surrounding land uses. It adds penalties for non-compliance, meaning data center developers would need to go through a formal state siting review process.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "environmental": "review",
+        "community": "concerning",
+        "land-use": "concerning"
+      },
+      "impactTags": [
+        "local-zoning",
+        "local-control",
+        "environmental-review"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2025-01-17",
+      "partyOrigin": "R",
+      "sourceUrl": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo1427.html",
+      "legiscanUrl": "https://legiscan.com/ND/bill/HB1427/2025",
+      "legiscanId": 1916857,
+      "sponsors": [
+        "Anna Novak",
+        "Dick Anderson",
+        "Patrick Heinert",
+        "Todd Porter"
       ]
     }
   ]

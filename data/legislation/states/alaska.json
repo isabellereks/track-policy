@@ -2,26 +2,31 @@
   "state": "Alaska",
   "stateCode": "AK",
   "region": "na",
-  "stance": "restrictive",
+  "stance": "concerning",
   "stanceDatacenter": "favorable",
-  "stanceAI": "restrictive",
-  "lastUpdated": "2026-04-14",
-  "contextBlurb": "Alaska banned wireless devices in public schools this session but has no binding AI or data-center law on the books. Pending bills would create a legislative AI task force, set defamation liability for political deepfakes, and streamline utility hookups for data centers.",
+  "stanceAI": "concerning",
+  "lastUpdated": "2026-07-22",
+  "contextBlurb": "Alaska is leaning innovation-friendly on data centers and advancing regulation on AI. On data centers: HJR27 (in committee) — This joint resolution supports Alaska's state energy development initiatives. On AI: HB57 (enacted) — Addresses several public school issues including restricting wireless devices (like smartphones) in classrooms.",
   "legislation": [
     {
       "id": "ak-sb250",
       "billCode": "SB250",
       "title": "Data Centers, Utilities",
-      "summary": "This Alaska bill establishes rules for how data centers connect to and receive utility services, likely streamlining the process for data centers to obtain power. It addresses the relationship between data centers and utilities, potentially affecting energy rates and grid capacity.",
+      "summary": "This Alaska bill addresses rules around data center operations and how utility services are provided to them. It likely sets out requirements or frameworks for how data centers connect to and are billed for electricity and other utility services.",
       "stage": "Committee",
-      "stance": "favorable",
+      "stance": "review",
+      "dimensionStances": {
+        "energy": "concerning",
+        "community": "review",
+        "land-use": "none"
+      },
       "impactTags": [
         "grid-capacity",
         "energy-rates",
-        "economic-development"
+        "local-zoning"
       ],
       "category": "data-center-energy",
-      "updatedDate": "2026-02-18",
+      "updatedDate": "2026-05-17",
       "partyOrigin": "D",
       "sourceUrl": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB250",
       "legiscanUrl": "https://legiscan.com/AK/bill/SB250/2025",
@@ -31,28 +36,128 @@
       ]
     },
     {
-      "id": "ak-sjr12",
-      "billCode": "SJR12",
-      "title": "Noaa Buoy Outages",
-      "summary": "This resolution concerns NOAA buoy outages, which are related to weather and ocean monitoring equipment. It has no relevance to AI regulation or data-center policy.",
-      "stage": "Enacted",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2025-07-30",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SJR12",
-      "legiscanUrl": "https://legiscan.com/AK/bill/SJR12/2025",
-      "legiscanId": 1985212,
+      "id": "ak-hjr27",
+      "billCode": "HJR27",
+      "title": "Supporting State Energy Development",
+      "summary": "This joint resolution supports Alaska's state energy development initiatives. The bill promotes energy development that could benefit data-center operations and broader economic growth in the state.",
+      "stage": "Committee",
+      "stance": "favorable",
+      "dimensionStances": {
+        "environmental": "none",
+        "energy": "favorable"
+      },
+      "impactTags": [
+        "renewable-energy",
+        "energy-rates"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-03-30",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HJR27",
+      "legiscanUrl": "https://legiscan.com/AK/bill/HJR27/2025",
+      "legiscanId": 2032348,
       "sponsors": [
-        "Forrest Dunbar"
+        "Ky Holland",
+        "Andrea Story"
+      ]
+    },
+    {
+      "id": "ak-hjr40",
+      "billCode": "HJR40",
+      "title": "Supporting Sustainable Alaska",
+      "summary": "This resolution expresses support for sustainable development practices in Alaska, likely promoting renewable energy and environmental stewardship that could benefit data-center operations seeking green energy alignment.",
+      "stage": "Committee",
+      "stance": "favorable",
+      "impactTags": [
+        "renewable-energy",
+        "environmental-review",
+        "carbon-emissions"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-02-23",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HJR40",
+      "legiscanUrl": "https://legiscan.com/AK/bill/HJR40/2025",
+      "legiscanId": 2122528,
+      "sponsors": [
+        "Rebecca Schwanke"
+      ]
+    },
+    {
+      "id": "ak-hb57",
+      "billCode": "HB57",
+      "title": "Schools: Comm. Devices/class Size/funding",
+      "summary": "This Alaska bill addresses several public school issues including restricting wireless devices (like smartphones) in classrooms. It also touches on school funding, class sizes, and charter schools.",
+      "stage": "Enacted",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-consumer": "concerning",
+        "ai-public": "review"
+      },
+      "impactTags": [
+        "ai-in-education",
+        "child-safety"
+      ],
+      "category": "ai-education",
+      "updatedDate": "2025-10-15",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB57",
+      "legiscanUrl": "https://legiscan.com/AK/bill/HB57/2025",
+      "legiscanId": 1934839,
+      "sponsors": [
+        "William Fields",
+        "Andrew Josephson",
+        "Calvin Schrage",
+        "Ashley Carrick"
+      ]
+    },
+    {
+      "id": "ak-sb133",
+      "billCode": "SB133",
+      "title": "Insurance; Prior Authorizations",
+      "summary": "This bill requires health insurers to implement standardized APIs for prior authorization requests and establishes rules around step therapy protocols. While not explicitly AI-focused, it imposes operational requirements on automated insurance decision systems that determine patient care access.",
+      "stage": "Enacted",
+      "stance": "concerning",
+      "impactTags": [
+        "ai-in-healthcare"
+      ],
+      "category": "ai-healthcare",
+      "updatedDate": "2025-07-30",
+      "sourceUrl": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB133",
+      "legiscanUrl": "https://legiscan.com/AK/bill/SB133/2025",
+      "legiscanId": 2009125,
+      "sponsors": [
+        "Labor & Commerce"
+      ]
+    },
+    {
+      "id": "ak-hcr3",
+      "billCode": "HCR3",
+      "title": "Ai Legislative Task Force",
+      "summary": "This resolution establishes a task force to study artificial intelligence and advise the Alaska Legislature on AI-related issues. It is exploratory in nature, with no hard restrictions or mandates imposed.",
+      "stage": "Committee",
+      "stance": "review",
+      "impactTags": [
+        "algorithmic-transparency",
+        "ai-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-05-16",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HCR3",
+      "legiscanUrl": "https://legiscan.com/AK/bill/HCR3/2025",
+      "legiscanId": 1984991,
+      "sponsors": [
+        "George Rauscher",
+        "Mia Costello",
+        "Ky Holland"
       ]
     },
     {
       "id": "ak-sb2",
       "billCode": "SB2",
       "title": "Ai, Deepfakes, Cybersecurity, Data Xfers",
-      "summary": "This Alaska bill requires disclosure when AI-generated deepfakes are used in election-related content and sets rules for how state agencies can use AI and share personal data. It aims to increase transparency and accountability in both political media and government AI use.",
+      "summary": "This Alaska bill requires disclosure when AI-generated deepfakes are used in election-related content and sets rules for how state agencies can use AI and share personal data. It covers multiple AI-related areas including transparency in government AI use and protections around individual data transfers between agencies.",
       "stage": "Committee",
       "stance": "concerning",
       "dimensionStances": {
@@ -78,81 +183,10 @@
       ]
     },
     {
-      "id": "ak-hcr3",
-      "billCode": "HCR3",
-      "title": "Ai Legislative Task Force",
-      "summary": "This resolution establishes a task force to study artificial intelligence and make recommendations to the Alaska Legislature. It is an exploratory effort with no binding restrictions or requirements on AI use.",
-      "stage": "Committee",
-      "stance": "review",
-      "impactTags": [
-        "algorithmic-transparency",
-        "ai-safety"
-      ],
-      "category": "ai-governance",
-      "updatedDate": "2025-02-26",
-      "partyOrigin": "B",
-      "sourceUrl": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HCR3",
-      "legiscanUrl": "https://legiscan.com/AK/bill/HCR3/2025",
-      "legiscanId": 1984991,
-      "sponsors": [
-        "George Rauscher",
-        "Mia Costello",
-        "Ky Holland"
-      ]
-    },
-    {
-      "id": "ak-hb360",
-      "billCode": "HB360",
-      "title": "State Apprenticeshp Office; Council",
-      "summary": "This bill creates a state apprenticeship office and advisory council to oversee apprenticeship programs in Alaska. It is not related to AI or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [
-        "job-creation"
-      ],
-      "category": "ai-workforce",
-      "updatedDate": "2026-02-23",
-      "partyOrigin": "R",
-      "sourceUrl": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB360",
-      "legiscanUrl": "https://legiscan.com/AK/bill/HB360/2025",
-      "legiscanId": 2122380,
-      "sponsors": [
-        "Mia Costello"
-      ]
-    },
-    {
-      "id": "ak-hb57",
-      "billCode": "HB57",
-      "title": "Schools: Comm. Devices/class Size/funding",
-      "summary": "This Alaska bill addresses multiple education topics including restricting wireless devices (like smartphones) in public schools. It also touches on school funding, class sizes, charter schools, and vocational training.",
-      "stage": "Enacted",
-      "stance": "restrictive",
-      "dimensionStances": {
-        "ai-consumer": "restrictive",
-        "ai-public": "none"
-      },
-      "impactTags": [
-        "ai-in-education",
-        "child-safety"
-      ],
-      "category": "ai-education",
-      "updatedDate": "2025-07-30",
-      "partyOrigin": "B",
-      "sourceUrl": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB57",
-      "legiscanUrl": "https://legiscan.com/AK/bill/HB57/2025",
-      "legiscanId": 1934839,
-      "sponsors": [
-        "William Fields",
-        "Andrew Josephson",
-        "Calvin Schrage",
-        "Ashley Carrick"
-      ]
-    },
-    {
       "id": "ak-sb33",
       "billCode": "SB33",
       "title": "Synthetic Media: Liability; Elections",
-      "summary": "This Alaska bill creates legal liability for defamation when synthetic media (AI-generated or manipulated content) is used to harm someone's reputation, and restricts the use of synthetic media in political campaign communications. It establishes enforceable rules around AI-generated content in elections and public discourse.",
+      "summary": "This bill creates legal liability for defamation when synthetic media (AI-generated content) is used to harm someone's reputation, and restricts its use in political campaign communications. It sets rules to protect people from being falsely portrayed by AI-generated images, audio, or video during elections.",
       "stage": "Committee",
       "stance": "restrictive",
       "dimensionStances": {
@@ -171,103 +205,6 @@
       "legiscanId": 1912476,
       "sponsors": [
         "Mike Cronk"
-      ]
-    },
-    {
-      "id": "ak-hb96",
-      "billCode": "HB96",
-      "title": "Home Care Employment Standards Adv Board",
-      "summary": "This bill creates an advisory board to set employment standards for home care workers and addresses payment for personal care services. It has no relevance to AI regulation or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-workforce",
-      "updatedDate": "2025-02-12",
-      "partyOrigin": "B",
-      "sourceUrl": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB96",
-      "legiscanUrl": "https://legiscan.com/AK/bill/HB96/2025",
-      "legiscanId": 1967556,
-      "sponsors": [
-        "Mike Prax",
-        "William Fields",
-        "Charles Kopp",
-        "Nellie Jimmie"
-      ]
-    },
-    {
-      "id": "ak-sb121",
-      "billCode": "SB121",
-      "title": "Health Insurance Allowable Charges",
-      "summary": "This bill deals with how health insurance claims are settled and how allowable charges for healthcare services are determined. It does not involve AI or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-healthcare",
-      "updatedDate": "2025-03-05",
-      "partyOrigin": "R",
-      "sourceUrl": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB121",
-      "legiscanUrl": "https://legiscan.com/AK/bill/SB121/2025",
-      "legiscanId": 1992457,
-      "sponsors": [
-        "Catherine Giessel"
-      ]
-    },
-    {
-      "id": "ak-hb327",
-      "billCode": "HB327",
-      "title": "Rename Pfd Resource Dividend",
-      "summary": "This bill proposes renaming Alaska's Permanent Fund Dividend and making related changes to the dividend program for state residents. It has no connection to AI regulation or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2026-02-23",
-      "partyOrigin": "R",
-      "sourceUrl": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB327",
-      "legiscanUrl": "https://legiscan.com/AK/bill/HB327/2025",
-      "legiscanId": 2122503,
-      "sponsors": [
-        "Rebecca Schwanke"
-      ]
-    },
-    {
-      "id": "ak-sb154",
-      "billCode": "SB154",
-      "title": "Home Care Employment Standards Adv Board",
-      "summary": "This bill creates an advisory board to set employment standards for home care workers and addresses payment for personal care services. It has no substantive connection to AI or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-workforce",
-      "updatedDate": "2025-04-02",
-      "partyOrigin": "B",
-      "sourceUrl": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB154",
-      "legiscanUrl": "https://legiscan.com/AK/bill/SB154/2025",
-      "legiscanId": 2019211,
-      "sponsors": [
-        "Robert Yundt",
-        "Forrest Dunbar",
-        "Jesse Bjorkman",
-        "Catherine Giessel"
-      ]
-    },
-    {
-      "id": "ak-hb358",
-      "billCode": "HB358",
-      "title": "Career And Technical Education Grants",
-      "summary": "This bill creates a grant program to support career and technical education, pre-apprenticeships, and work-based learning for high school students. It is not related to AI regulation or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-education",
-      "updatedDate": "2026-02-23",
-      "partyOrigin": "R",
-      "sourceUrl": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB358",
-      "legiscanUrl": "https://legiscan.com/AK/bill/HB358/2025",
-      "legiscanId": 2122415,
-      "sponsors": [
-        "Bill Elam",
-        "Kevin McCabe"
       ]
     }
   ]

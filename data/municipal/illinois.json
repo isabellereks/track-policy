@@ -1,27 +1,27 @@
 [
   {
-    "id": "will-county-il",
-    "name": "Will County",
-    "fips": "17197",
+    "id": "cook-county-il",
+    "name": "Cook County",
+    "fips": "17031",
     "state": "Illinois",
     "stateCode": "IL",
     "type": "county",
     "actions": [
       {
-        "title": "(Village of Elwood) Data center moratorium",
-        "date": "2024-06-01",
+        "title": "(City of Chicago) Chicago City Council Data Center Tax Incentive Ordinance",
+        "date": "2024-04-17",
         "status": "enacted",
-        "summary": "The Village of Elwood enacted a moratorium on new data center developments to evaluate the strain on local infrastructure, particularly water and electricity, before approving additional projects.",
-        "sourceUrl": "https://www.datacenterdynamics.com/en/news/village-of-elwood-illinois-enacts-moratorium-on-new-data-centers/"
+        "summary": "Chicago's City Council approved an ordinance extending and expanding data center tax incentives, exempting qualifying data centers from the city's 9% personal property lease transaction tax and the 5.25% use tax on electricity, aiming to attract large-scale data center investment to the city.",
+        "sourceUrl": "https://www.datacenterfrontier.com/chicago/article/33014034/chicago-expands-data-center-tax-incentives-to-attract-investment"
       }
     ],
     "concerns": [
-      "water-consumption",
-      "grid-capacity",
-      "local-zoning",
-      "energy-rates"
+      "tax-incentives",
+      "economic-development",
+      "energy-rates",
+      "grid-capacity"
     ],
-    "contextBlurb": "Will County, south of Chicago, has seen significant data center interest in communities like Elwood. Local officials have raised concerns about water and power demands from large-scale facilities on formerly agricultural land."
+    "contextBlurb": "Chicago and Cook County have positioned themselves as a top-tier data center market in the Midwest, competing with Northern Virginia and Dallas. The city has used targeted tax incentives to attract hyperscale and colocation operators, though questions about grid capacity and energy costs persist as the market grows."
   },
   {
     "id": "grundy-county-il",
@@ -32,68 +32,20 @@
     "type": "county",
     "actions": [
       {
-        "title": "(City of Morris) Microsoft data center campus approval",
-        "date": "2024-09-01",
+        "title": "(City of Morris) Microsoft Data Center Campus Siting and Tax Incentive Agreement",
+        "date": "2024-03-01",
         "status": "enacted",
-        "summary": "The City of Morris approved zoning and site plans for a major Microsoft data center campus, with the company investing over $1 billion in the development on land near existing power infrastructure.",
-        "sourceUrl": "https://www.shawlocal.com/morris-daily-herald/news/2024/09/05/microsoft-data-center-to-be-built-near-morris/"
+        "summary": "The City of Morris and Grundy County officials approved agreements supporting Microsoft's proposed multi-billion-dollar data center campus near Morris, including tax increment financing and infrastructure commitments, as part of a broader Illinois data center boom.",
+        "sourceUrl": "https://www.datacenterdynamics.com/en/news/microsoft-to-build-multi-billion-dollar-data-center-campus-in-illinois/"
       }
     ],
     "concerns": [
-      "economic-development",
-      "job-creation",
       "tax-incentives",
+      "economic-development",
       "grid-capacity",
-      "water-consumption"
-    ],
-    "contextBlurb": "Grundy County has attracted hyperscale data center investment due to proximity to nuclear power generation and available land. Microsoft's investment near Morris represents one of the largest data center commitments in central Illinois."
-  },
-  {
-    "id": "dekalb-county-il",
-    "name": "DeKalb County",
-    "fips": "17037",
-    "state": "Illinois",
-    "stateCode": "IL",
-    "type": "county",
-    "actions": [
-      {
-        "title": "(City of DeKalb) Meta data center tax incentive agreement",
-        "date": "2024-07-01",
-        "status": "enacted",
-        "summary": "The City of DeKalb approved tax incentive agreements for Meta's large-scale data center campus, which has undergone multiple phases of expansion in the area.",
-        "sourceUrl": "https://www.dailychronicle.com/news/local/meta-data-center-dekalb/article_1b59caac-3e5e-11ef-b6bb-5f7e3e2f0a42.html"
-      }
-    ],
-    "concerns": [
-      "tax-incentives",
       "water-consumption",
-      "economic-development",
-      "grid-capacity"
+      "job-creation"
     ],
-    "contextBlurb": "DeKalb County hosts Meta's massive data center campus, one of the largest in Illinois. The facility has drawn attention for its water consumption and energy demands, alongside the economic benefits it brings to the community."
-  },
-  {
-    "id": "kendall-county-il",
-    "name": "Kendall County",
-    "fips": "17093",
-    "state": "Illinois",
-    "stateCode": "IL",
-    "type": "county",
-    "actions": [
-      {
-        "title": "(Village of Minooka) Data center zoning review",
-        "date": "2024-10-01",
-        "status": "under-review",
-        "summary": "Officials in the Minooka area have been reviewing zoning regulations to accommodate proposed data center developments while addressing resident concerns about noise, water use, and land conversion from agricultural use.",
-        "sourceUrl": "https://www.shawlocal.com/kendall-county-now/news/2024/10/02/data-centers-proposed-in-kendall-county/"
-      }
-    ],
-    "concerns": [
-      "local-zoning",
-      "noise-vibration",
-      "water-consumption",
-      "residential-proximity"
-    ],
-    "contextBlurb": "Kendall County, part of the fast-growing Chicago exurban corridor, has seen data center proposals that test existing agricultural zoning frameworks. Residents have voiced concerns about the industrial character of data centers in rural settings."
+    "contextBlurb": "Grundy County's City of Morris emerged as a significant data center destination after Microsoft announced a large campus investment, drawn by available land, rail and road access, and local incentive packages. The project raised community discussions about long-term tax revenue, water infrastructure demands, and electrical grid upgrades needed to support hyperscale operations."
   }
 ]

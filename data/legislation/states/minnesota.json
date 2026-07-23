@@ -2,165 +2,41 @@
   "state": "Minnesota",
   "stateCode": "MN",
   "region": "na",
-  "stance": "review",
-  "stanceDatacenter": "review",
-  "stanceAI": "review",
-  "lastUpdated": "2026-04-14",
-  "contextBlurb": "Minnesota is debating a licensing system for third-party AI auditors alongside multiple bills that would make it easier and cheaper for data centers to operate, including sales-tax exemptions on electricity and expedited water approvals. A separate bill would require a warrant before police use facial recognition.",
+  "stance": "concerning",
+  "stanceDatacenter": "concerning",
+  "stanceAI": "concerning",
+  "lastUpdated": "2026-07-22",
+  "contextBlurb": "Minnesota is advancing regulation across both data centers and AI. On data centers: HF5125 (in committee) — Removes the sales and use tax exemption that data centers in Minnesota currently enjoy, making it more expensive to build and operate data centers in the state. On AI: SF1856 (in committee) — Prohibits the use of artificial intelligence in health insurance utilization review processes, which determine whether medical treatments are medically necessary and should be covered.",
   "legislation": [
     {
-      "id": "mn-hf4153",
-      "billCode": "HF4153",
-      "title": "Criteria for preapplication evaluations of water appropriations for data centers modified, data centers' electricity sales exempted in calculating a utility's solar energy standard, and data centers exempted from paying sales tax on electricity purchases.",
-      "summary": "This bill makes it easier for data centers to get water use approvals, exempts them from sales tax on electricity, and excludes their electricity use from calculations that determine how much solar energy utilities must provide. Overall, it reduces regulatory and financial burdens on data centers operating in Minnesota.",
-      "stage": "Committee",
-      "stance": "favorable",
-      "dimensionStances": {
-        "environmental": "concerning",
-        "energy": "favorable"
-      },
-      "impactTags": [
-        "water-consumption",
-        "water-infrastructure",
-        "tax-incentives",
-        "renewable-energy",
-        "energy-rates"
-      ],
-      "category": "data-center-energy",
-      "updatedDate": "2026-03-12",
-      "partyOrigin": "R",
-      "sourceUrl": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4153/",
-      "legiscanUrl": "https://legiscan.com/MN/bill/HF4153/2025",
-      "legiscanId": 2132959,
-      "sponsors": [
-        "Shane Mekeland",
-        "Chris Swedzinski",
-        "Ben Davis"
-      ]
-    },
-    {
-      "id": "mn-hf4544",
-      "billCode": "HF4544",
-      "title": "License for artificial intelligence independent verification organizations established, advisory council established, rulemaking authorized, and reports required.",
-      "summary": "This bill creates a licensing system for organizations that independently verify AI systems, sets up an advisory council to guide oversight, and requires regular reporting on AI compliance. It establishes a formal regulatory framework for third-party AI auditing in Minnesota.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "impactTags": [
-        "algorithmic-transparency",
-        "ai-safety"
-      ],
-      "category": "ai-governance",
-      "updatedDate": "2026-03-23",
-      "partyOrigin": "B",
-      "sourceUrl": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4544/",
-      "legiscanUrl": "https://legiscan.com/MN/bill/HF4544/2025",
-      "legiscanId": 2136915,
-      "sponsors": [
-        "Erin Koegel",
-        "Max Rymer",
-        "Matt Norris",
-        "Kristin Bahner"
-      ]
-    },
-    {
-      "id": "mn-sf1035",
-      "billCode": "SF1035",
-      "title": "Provisions modification related to campus sexual misconduct",
-      "summary": "This bill deals with campus sexual misconduct policies and has no relevance to AI regulation or data-center policy. It does not address any AI or data-center related issues.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2025-02-06",
-      "partyOrigin": "B",
-      "sourceUrl": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1035/",
-      "legiscanUrl": "https://legiscan.com/MN/bill/SF1035/2025",
-      "legiscanId": 1957982,
-      "sponsors": [
-        "Lindsey Port",
-        "Clare Oumou Verbeten",
-        "Zaynab Mohamed",
-        "Erin Maye Quade"
-      ]
-    },
-    {
-      "id": "mn-sf1242",
-      "billCode": "SF1242",
-      "title": "Facial Recognition Technology Warrant Act of 2025",
-      "summary": "This bill requires law enforcement in Minnesota to obtain a warrant before using facial recognition technology to identify individuals. It establishes legal guardrails around how police can deploy this surveillance tool, protecting people's privacy rights.",
+      "id": "mn-hf5125",
+      "billCode": "HF5125",
+      "title": "Data centers sales and use tax exemption repealed, and contingent reduction in special education aid appropriations repealed.",
+      "summary": "This bill removes the sales and use tax exemption that data centers in Minnesota currently enjoy, making it more expensive to build and operate data centers in the state. It also repeals a related provision that would have reduced special education funding.",
       "stage": "Committee",
       "stance": "restrictive",
-      "dimensionStances": {
-        "ai-governance-dim": "restrictive",
-        "ai-consumer": "restrictive"
-      },
-      "impactTags": [
-        "algorithmic-transparency",
-        "data-privacy"
-      ],
-      "category": "ai-criminal-justice",
-      "updatedDate": "2025-02-10",
-      "partyOrigin": "B",
-      "sourceUrl": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1242/",
-      "legiscanUrl": "https://legiscan.com/MN/bill/SF1242/2025",
-      "legiscanId": 1962131,
-      "sponsors": [
-        "Eric Lucero",
-        "Nathan Wesenberg",
-        "Omar Fateh",
-        "Erin Maye Quade"
-      ]
-    },
-    {
-      "id": "mn-sf4681",
-      "billCode": "SF4681",
-      "title": "Various data center exemptions and provisions modifications",
-      "summary": "This bill modifies existing exemptions and rules that apply specifically to data centers, likely making it easier or more financially advantageous for data centers to operate in Minnesota. It appears to adjust tax, energy, or regulatory provisions to benefit the data center industry.",
-      "stage": "Committee",
-      "stance": "favorable",
-      "impactTags": [
-        "tax-incentives",
-        "economic-development",
-        "energy-rates"
-      ],
-      "category": "data-center-energy",
-      "updatedDate": "2026-03-23",
-      "partyOrigin": "R",
-      "sourceUrl": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4681/",
-      "legiscanUrl": "https://legiscan.com/MN/bill/SF4681/2025",
-      "legiscanId": 2136791,
-      "sponsors": [
-        "Andrew Mathews",
-        "Jason Rarick"
-      ]
-    },
-    {
-      "id": "mn-sf4203",
-      "billCode": "SF4203",
-      "title": "Exemption of data centers modification for sales and use tax",
-      "summary": "This bill modifies existing sales and use tax exemptions that apply to data centers in Minnesota. It is designed to make data center construction or operation more financially attractive by reducing the tax burden on qualifying facilities.",
-      "stage": "Committee",
-      "stance": "favorable",
       "impactTags": [
         "tax-incentives",
         "economic-development"
       ],
       "category": "data-center-energy",
-      "updatedDate": "2026-03-09",
+      "updatedDate": "2026-05-17",
       "partyOrigin": "D",
-      "sourceUrl": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4203/",
-      "legiscanUrl": "https://legiscan.com/MN/bill/SF4203/2025",
-      "legiscanId": 2130527,
+      "sourceUrl": "https://www.revisor.mn.gov/bills/94/2026/0/HF/5125/",
+      "legiscanUrl": "https://legiscan.com/MN/bill/HF5125/2025",
+      "legiscanId": 2148630,
       "sponsors": [
-        "Erin Maye Quade",
-        "Liz Boldon"
+        "Samantha Sencer-Mura",
+        "Kaela Berg",
+        "Alicia Kozlowski",
+        "Leigh Finke"
       ]
     },
     {
       "id": "mn-hf4173",
       "billCode": "HF4173",
       "title": "Certain defined terms maintained, and data center exemptions modified.",
-      "summary": "This bill updates definitions and modifies exemptions that apply specifically to data centers, likely related to tax or energy regulations. It appears to preserve or adjust favorable treatment for data center operators under existing state rules.",
+      "summary": "This bill updates definitions and modifies exemptions that apply to data centers, likely related to tax or regulatory treatment. It appears to maintain or adjust favorable provisions for the data center industry in Minnesota.",
       "stage": "Committee",
       "stance": "favorable",
       "impactTags": [
@@ -168,62 +44,94 @@
         "economic-development"
       ],
       "category": "data-center-energy",
-      "updatedDate": "2026-03-12",
+      "updatedDate": "2026-05-06",
       "partyOrigin": "D",
       "sourceUrl": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4173/",
       "legiscanUrl": "https://legiscan.com/MN/bill/HF4173/2025",
       "legiscanId": 2132811,
       "sponsors": [
         "Andrew Smith",
-        "Liz Lee"
+        "Liz Lee",
+        "Alicia Kozlowski"
       ]
     },
     {
-      "id": "mn-sf769",
-      "billCode": "SF769",
-      "title": "Certain data centers tax exemption modification",
-      "summary": "This bill modifies existing tax exemptions for certain data centers in Minnesota, likely adjusting eligibility requirements or benefits. It takes a pro-industry approach by maintaining or refining financial incentives for data center operators.",
+      "id": "mn-hf4888",
+      "billCode": "HF4888",
+      "title": "New data center moratorium established, and Public Utility Commission required to submit a report.",
+      "summary": "Minnesota establishes a moratorium on new data center construction while requiring the Public Utility Commission to study grid capacity impacts and submit findings. This pauses data center development pending completion of an infrastructure assessment.",
       "stage": "Committee",
-      "stance": "favorable",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "environmental": "restrictive",
+        "energy": "restrictive",
+        "community": "restrictive"
+      },
+      "impactTags": [
+        "local-control",
+        "grid-capacity",
+        "environmental-review"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-05-05",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4888/",
+      "legiscanUrl": "https://legiscan.com/MN/bill/HF4888/2025",
+      "legiscanId": 2142093,
+      "sponsors": [
+        "Leigh Finke",
+        "Alicia Kozlowski",
+        "Jay Xiong",
+        "Brion Curran"
+      ]
+    },
+    {
+      "id": "mn-sf5231",
+      "billCode": "SF5231",
+      "title": "Data centers tax exemption repeal; contingent reduction in special education aid appropriation repeal",
+      "summary": "This bill would repeal the existing tax exemption currently available to data centers in Minnesota. By removing this financial incentive, it makes building and operating data centers in the state more expensive.",
+      "stage": "Committee",
+      "stance": "restrictive",
       "impactTags": [
         "tax-incentives",
         "economic-development"
       ],
       "category": "data-center-energy",
-      "updatedDate": "2025-01-30",
-      "partyOrigin": "B",
-      "sourceUrl": "https://www.revisor.mn.gov/bills/94/2025/0/SF/769/",
-      "legiscanUrl": "https://legiscan.com/MN/bill/SF769/2025",
-      "legiscanId": 1946580,
+      "updatedDate": "2026-04-28",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.revisor.mn.gov/bills/94/2026/0/SF/5231/",
+      "legiscanUrl": "https://legiscan.com/MN/bill/SF5231/2025",
+      "legiscanId": 2145788,
       "sponsors": [
-        "Grant Hauschild",
-        "Bill Weber",
-        "Ann Rest",
-        "Carla Nelson"
+        "Erin Maye Quade",
+        "Liz Boldon"
       ]
     },
     {
-      "id": "mn-hf1277",
-      "billCode": "HF1277",
-      "title": "Data centers sales and use tax exemption modified.",
-      "summary": "This bill changes the sales and use tax exemption rules for data centers in Minnesota. It modifies existing tax breaks that data centers can receive, likely adjusting eligibility requirements or the scope of the exemption.",
+      "id": "mn-hf4990",
+      "billCode": "HF4990",
+      "title": "Criteria for preapplication evaluations of water appropriations for certain data centers modified, data centers' electricity sales exempted in calculating a utility's solar energy standard, other data center exemptions provided, and data center energy generation redundancy provided.",
+      "summary": "This Minnesota bill makes it easier for data centers to operate by adjusting water use rules, exempting their electricity sales from solar energy calculations, and allowing backup power generation. These changes reduce regulatory burdens on data centers and give them more flexibility around energy and water requirements.",
       "stage": "Committee",
       "stance": "favorable",
+      "dimensionStances": {
+        "environmental": "favorable",
+        "energy": "favorable"
+      },
       "impactTags": [
-        "tax-incentives",
-        "economic-development"
+        "water-consumption",
+        "water-infrastructure",
+        "renewable-energy",
+        "grid-capacity"
       ],
       "category": "data-center-energy",
-      "updatedDate": "2025-02-20",
-      "partyOrigin": "B",
-      "sourceUrl": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1277/",
-      "legiscanUrl": "https://legiscan.com/MN/bill/HF1277/2025",
-      "legiscanId": 1977395,
+      "updatedDate": "2026-04-16",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4990/",
+      "legiscanUrl": "https://legiscan.com/MN/bill/HF4990/2025",
+      "legiscanId": 2143648,
       "sponsors": [
-        "Gregory Davids",
-        "John Huot",
-        "Jeff Dotseth",
-        "Matt Norris"
+        "Shane Mekeland"
       ]
     },
     {
@@ -253,30 +161,6 @@
       ]
     },
     {
-      "id": "mn-sf3265",
-      "billCode": "SF3265",
-      "title": "Sales and use tax exemption for data centers repeal",
-      "summary": "This bill would eliminate the existing sales and use tax exemption that data centers in Minnesota currently enjoy. Removing this tax break would make it more expensive to build and operate data centers in the state, potentially discouraging new investment.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "impactTags": [
-        "tax-incentives",
-        "economic-development"
-      ],
-      "category": "data-center-siting",
-      "updatedDate": "2025-04-03",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.revisor.mn.gov/bills/94/2025/0/SF/3265/",
-      "legiscanUrl": "https://legiscan.com/MN/bill/SF3265/2025",
-      "legiscanId": 2019254,
-      "sponsors": [
-        "Jen McEwen",
-        "Erin Maye Quade",
-        "Mary Kunesh-Podein",
-        "James Carlson"
-      ]
-    },
-    {
       "id": "mn-hf2928",
       "billCode": "HF2928",
       "title": "Preapplication filings for large water appropriation projects required, permit application information for large water appropriation projects added, level of environmental review for data centers specified, data centers exempted from making financial contributions to an energy conservation and optimization plan, and other data center provisions modified.",
@@ -294,7 +178,7 @@
         "energy-rates"
       ],
       "category": "data-center-energy",
-      "updatedDate": "2025-03-27",
+      "updatedDate": "2026-04-09",
       "partyOrigin": "D",
       "sourceUrl": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2928/",
       "legiscanUrl": "https://legiscan.com/MN/bill/HF2928/2025",
@@ -303,6 +187,559 @@
         "Patty Acomb",
         "Kristi Pursell",
         "Katie Jones"
+      ]
+    },
+    {
+      "id": "mn-hf4512",
+      "billCode": "HF4512",
+      "title": "Public hearings and disclosures prior to approval of data center development required.",
+      "summary": "Minnesota requires public hearings and mandatory disclosures before approving any data center development project. This gives local communities formal input and transparency into data center proposals that would otherwise proceed without public review.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "community": "concerning",
+        "land-use": "concerning"
+      },
+      "impactTags": [
+        "local-control",
+        "local-zoning",
+        "nda-transparency"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-04-09",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4512/",
+      "legiscanUrl": "https://legiscan.com/MN/bill/HF4512/2025",
+      "legiscanId": 2136942,
+      "sponsors": [
+        "Andrew Smith",
+        "Kaela Berg",
+        "Alex Falconer",
+        "Leigh Finke"
+      ]
+    },
+    {
+      "id": "mn-hf3893",
+      "billCode": "HF3893",
+      "title": "Use of artificial intelligence in psychotherapy services regulated, and civil penalties provided.",
+      "summary": "Minnesota would regulate the use of artificial intelligence in psychotherapy services and establish civil penalties for violations. The bill restricts AI deployment in mental health care to ensure appropriate oversight and accountability.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-public": "restrictive"
+      },
+      "impactTags": [
+        "ai-in-healthcare",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-healthcare",
+      "updatedDate": "2026-04-09",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3893/",
+      "legiscanUrl": "https://legiscan.com/MN/bill/HF3893/2025",
+      "legiscanId": 2127510,
+      "sponsors": [
+        "Peggy Scott",
+        "Tina Liebling",
+        "Kristin Robbins",
+        "Heather Keeler"
+      ]
+    },
+    {
+      "id": "mn-sf4509",
+      "billCode": "SF4509",
+      "title": "Artificial intelligence safety and disclosure requirements establishment (RAISE Act)",
+      "summary": "The RAISE Act establishes safety standards and mandatory disclosure requirements for artificial intelligence systems. The bill advances toward enforceable AI governance with transparency and safety obligations for developers and deployers.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "impactTags": [
+        "algorithmic-transparency",
+        "ai-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-07",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4509/",
+      "legiscanUrl": "https://legiscan.com/MN/bill/SF4509/2025",
+      "legiscanId": 2133932,
+      "sponsors": [
+        "Erin Maye Quade",
+        "Liz Boldon"
+      ]
+    },
+    {
+      "id": "mn-hf4544",
+      "billCode": "HF4544",
+      "title": "License for artificial intelligence independent verification organizations established, advisory council established, rulemaking authorized, and reports required.",
+      "summary": "This bill creates a licensing system for organizations that independently verify AI systems, sets up an advisory council to guide AI oversight, and requires regular reports on AI activity in Minnesota. It establishes a formal regulatory framework to ensure AI systems are reviewed and certified by authorized third parties.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "impactTags": [
+        "algorithmic-transparency",
+        "ai-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-23",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4544/",
+      "legiscanUrl": "https://legiscan.com/MN/bill/HF4544/2025",
+      "legiscanId": 2136915,
+      "sponsors": [
+        "Erin Koegel",
+        "Max Rymer",
+        "Matt Norris",
+        "Kristin Bahner"
+      ]
+    },
+    {
+      "id": "mn-sf4681",
+      "billCode": "SF4681",
+      "title": "Various data center exemptions and provisions modifications",
+      "summary": "This bill modifies existing rules and exemptions that apply specifically to data centers in Minnesota, likely adjusting tax breaks or regulatory requirements. It appears designed to make the state more attractive for data center investment and development.",
+      "stage": "Committee",
+      "stance": "favorable",
+      "impactTags": [
+        "tax-incentives",
+        "economic-development",
+        "grid-capacity"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-03-23",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4681/",
+      "legiscanUrl": "https://legiscan.com/MN/bill/SF4681/2025",
+      "legiscanId": 2136791,
+      "sponsors": [
+        "Andrew Mathews",
+        "Jason Rarick"
+      ]
+    },
+    {
+      "id": "mn-sf4636",
+      "billCode": "SF4636",
+      "title": "License establishment for artificial intelligence independent verification organizations",
+      "summary": "This bill establishes a licensing framework for independent organizations that verify and audit artificial intelligence systems. The measure creates regulatory oversight requirements for third-party AI verification entities.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "impactTags": [
+        "algorithmic-transparency",
+        "ai-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-23",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4636/",
+      "legiscanUrl": "https://legiscan.com/MN/bill/SF4636/2025",
+      "legiscanId": 2136581,
+      "sponsors": [
+        "Nick Frentz",
+        "Eric Lucero"
+      ]
+    },
+    {
+      "id": "mn-hf4532",
+      "billCode": "HF4532",
+      "title": "Artificial intelligence safety and disclosure requirements established, and civil remedies provided.",
+      "summary": "Minnesota establishes mandatory safety and disclosure requirements for artificial intelligence systems, with civil remedies available to those harmed by non-compliance. The bill advances toward creating enforceable AI accountability standards for developers and deployers.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "concerning"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "ai-safety",
+        "data-privacy"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-23",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4532/",
+      "legiscanUrl": "https://legiscan.com/MN/bill/HF4532/2025",
+      "legiscanId": 2136898,
+      "sponsors": [
+        "Katie Jones"
+      ]
+    },
+    {
+      "id": "mn-sf4296",
+      "billCode": "SF4296",
+      "title": "Public hearings and certain disclosures prior to approval of data center development requirement",
+      "summary": "Minnesota requires public hearings and mandated disclosures before approving new data center development projects. This increases local oversight and transparency in the data center siting process.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "community": "concerning",
+        "land-use": "concerning"
+      },
+      "impactTags": [
+        "local-control",
+        "local-zoning",
+        "nda-transparency"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-03-18",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4296/",
+      "legiscanUrl": "https://legiscan.com/MN/bill/SF4296/2025",
+      "legiscanId": 2130613,
+      "sponsors": [
+        "Erin Maye Quade",
+        "Tou Xiong",
+        "Jim Abeler",
+        "Ann Johnson Stewart"
+      ]
+    },
+    {
+      "id": "mn-sf1856",
+      "billCode": "SF1856",
+      "title": "Usage of artificial intelligence in the utilization review process prohibition provision",
+      "summary": "This bill prohibits the use of artificial intelligence in health insurance utilization review processes, which determine whether medical treatments are medically necessary and should be covered. The measure aims to ensure human oversight of healthcare decisions rather than relying on automated AI systems.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-governance-dim": "restrictive",
+        "ai-public": "restrictive"
+      },
+      "impactTags": [
+        "ai-in-healthcare",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-healthcare",
+      "updatedDate": "2026-03-18",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1856/",
+      "legiscanUrl": "https://legiscan.com/MN/bill/SF1856/2025",
+      "legiscanId": 1979597,
+      "sponsors": [
+        "Erin Maye Quade",
+        "Liz Boldon",
+        "Alice Mann",
+        "Zaynab Mohamed"
+      ]
+    },
+    {
+      "id": "mn-sf1886",
+      "billCode": "SF1886",
+      "title": "Individual communication with artificial intelligence disclosure requirement provision",
+      "summary": "This bill requires disclosure to individuals when they are communicating with artificial intelligence systems. It establishes a transparency requirement aimed at ensuring people know when they are interacting with AI rather than humans.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "impactTags": [
+        "algorithmic-transparency"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-18",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1886/",
+      "legiscanUrl": "https://legiscan.com/MN/bill/SF1886/2025",
+      "legiscanId": 1984757,
+      "sponsors": [
+        "Erin Maye Quade",
+        "Eric Lucero"
+      ]
+    },
+    {
+      "id": "mn-sf4203",
+      "billCode": "SF4203",
+      "title": "Exemption of data centers modification for sales and use tax",
+      "summary": "This bill modifies the existing sales and use tax exemption for data centers in Minnesota, likely adjusting eligibility requirements or benefits. It is designed to make Minnesota more attractive for data center investment by reducing tax burdens on qualifying facilities.",
+      "stage": "Committee",
+      "stance": "favorable",
+      "impactTags": [
+        "tax-incentives",
+        "economic-development"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-03-17",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4203/",
+      "legiscanUrl": "https://legiscan.com/MN/bill/SF4203/2025",
+      "legiscanId": 2130527,
+      "sponsors": [
+        "Erin Maye Quade",
+        "Liz Boldon"
+      ]
+    },
+    {
+      "id": "mn-hf4153",
+      "billCode": "HF4153",
+      "title": "Criteria for preapplication evaluations of water appropriations for data centers modified, data centers' electricity sales exempted in calculating a utility's solar energy standard, and data centers exempted from paying sales tax on electricity purchases.",
+      "summary": "This bill makes it easier for data centers in Minnesota by exempting their electricity purchases from sales tax and adjusting how their energy use is counted toward utilities' solar energy requirements. It also modifies the rules for how water usage requests from data centers are evaluated before approval.",
+      "stage": "Committee",
+      "stance": "favorable",
+      "dimensionStances": {
+        "environmental": "favorable",
+        "energy": "favorable"
+      },
+      "impactTags": [
+        "water-consumption",
+        "water-infrastructure",
+        "tax-incentives",
+        "renewable-energy",
+        "energy-rates"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-03-12",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4153/",
+      "legiscanUrl": "https://legiscan.com/MN/bill/HF4153/2025",
+      "legiscanId": 2132959,
+      "sponsors": [
+        "Shane Mekeland",
+        "Chris Swedzinski",
+        "Ben Davis"
+      ]
+    },
+    {
+      "id": "mn-sf4298",
+      "billCode": "SF4298",
+      "title": "New data center moratorium established, and Public Utility Commission required to submit a report",
+      "summary": "Minnesota establishes a moratorium on new data center construction and requires the Public Utility Commission to study impacts on the grid and energy system. The moratorium prevents new data center development while the state evaluates whether existing infrastructure can handle the demand.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "energy": "restrictive",
+        "community": "restrictive"
+      },
+      "impactTags": [
+        "grid-capacity",
+        "energy-rates",
+        "local-control"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-03-09",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4298/",
+      "legiscanUrl": "https://legiscan.com/MN/bill/SF4298/2025",
+      "legiscanId": 2130532,
+      "sponsors": [
+        "Jen McEwen",
+        "Erin Maye Quade",
+        "Lindsey Port",
+        "John Marty"
+      ]
+    },
+    {
+      "id": "mn-sf3968",
+      "billCode": "SF3968",
+      "title": "Data centers provisions modification",
+      "summary": "This bill modifies Minnesota's existing data center provisions, though specific amendments are not detailed in the provided description. Without access to the full bill text, the exact regulatory impact cannot be determined.",
+      "stage": "Committee",
+      "stance": "review",
+      "dimensionStances": {
+        "community": "review",
+        "land-use": "review"
+      },
+      "impactTags": [
+        "local-control",
+        "local-zoning"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-02-26",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.revisor.mn.gov/bills/94/2026/0/SF/3968/",
+      "legiscanUrl": "https://legiscan.com/MN/bill/SF3968/2025",
+      "legiscanId": 2124375,
+      "sponsors": [
+        "Jen McEwen",
+        "Ann Johnson Stewart",
+        "Erin Maye Quade"
+      ]
+    },
+    {
+      "id": "mn-hf3304",
+      "billCode": "HF3304",
+      "title": "Sustainable aviation fuel income tax credit and exemptions for data centers and construction of sustainable aviation fuel facilities repealed, increased general fund amounts reallocated from repealed tax provisions to increase the renter's credit, and corresponding technical changes made.",
+      "summary": "This bill repeals existing tax exemptions for data centers and sustainable aviation fuel facilities in Minnesota, redirecting that tax revenue to increase the renter's credit. The repeal removes a previous incentive structure that had favored data-center development.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "impactTags": [
+        "tax-incentives",
+        "economic-development"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2025-05-08",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.revisor.mn.gov/bills/94/2025/0/HF/3304/",
+      "legiscanUrl": "https://legiscan.com/MN/bill/HF3304/2025",
+      "legiscanId": 2029278,
+      "sponsors": [
+        "Rick Hansen",
+        "Tina Liebling",
+        "Aisha Gomez",
+        "Fue Lee"
+      ]
+    },
+    {
+      "id": "mn-sf3265",
+      "billCode": "SF3265",
+      "title": "Sales and use tax exemption for data centers repeal",
+      "summary": "This bill would eliminate the existing sales and use tax exemption that data centers in Minnesota currently enjoy. Removing this tax break would make it more expensive to build and operate data centers in the state, potentially discouraging new investment.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "impactTags": [
+        "tax-incentives",
+        "economic-development"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2025-04-22",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.revisor.mn.gov/bills/94/2025/0/SF/3265/",
+      "legiscanUrl": "https://legiscan.com/MN/bill/SF3265/2025",
+      "legiscanId": 2019254,
+      "sponsors": [
+        "Jen McEwen",
+        "Erin Maye Quade",
+        "Mary Kunesh-Podein",
+        "James Carlson"
+      ]
+    },
+    {
+      "id": "mn-sf3332",
+      "billCode": "SF3332",
+      "title": "Sales and use tax exemptions elimination, gross receipts tax on various services imposition",
+      "summary": "This bill eliminates sales and use tax exemptions and imposes a gross receipts tax on various services, which could affect data center operational costs and energy services. The tax changes would increase expenses for data center operators in Minnesota.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "impactTags": [],
+      "category": "data-center-energy",
+      "updatedDate": "2025-04-07",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.revisor.mn.gov/bills/94/2025/0/SF/3332/",
+      "legiscanUrl": "https://legiscan.com/MN/bill/SF3332/2025",
+      "legiscanId": 2020428,
+      "sponsors": [
+        "Erin Maye Quade",
+        "Liz Boldon",
+        "John Hoffman",
+        "Alice Mann"
+      ]
+    },
+    {
+      "id": "mn-sf1242",
+      "billCode": "SF1242",
+      "title": "Facial Recognition Technology Warrant Act of 2025",
+      "summary": "This bill requires law enforcement to obtain a warrant before using facial recognition technology to identify or track individuals. It sets legal safeguards around how and when police can use this powerful surveillance tool.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-governance-dim": "restrictive",
+        "ai-consumer": "restrictive"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "data-privacy"
+      ],
+      "category": "ai-criminal-justice",
+      "updatedDate": "2025-03-24",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1242/",
+      "legiscanUrl": "https://legiscan.com/MN/bill/SF1242/2025",
+      "legiscanId": 1962131,
+      "sponsors": [
+        "Eric Lucero",
+        "Nathan Wesenberg",
+        "Omar Fateh",
+        "Erin Maye Quade"
+      ]
+    },
+    {
+      "id": "mn-hf1150",
+      "billCode": "HF1150",
+      "title": "Study of environmental impacts of artificial intelligence required, report required, and money appropriated.",
+      "summary": "Minnesota requires a study of the environmental impacts of artificial intelligence and directs the state to report findings. The bill appropriates funds to support this research.",
+      "stage": "Committee",
+      "stance": "review",
+      "impactTags": [
+        "carbon-emissions",
+        "water-consumption",
+        "environmental-review"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-03-20",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1150/",
+      "legiscanUrl": "https://legiscan.com/MN/bill/HF1150/2025",
+      "legiscanId": 1974786,
+      "sponsors": [
+        "Kristi Pursell",
+        "Leigh Finke",
+        "Alex Falconer",
+        "David Gottfried"
+      ]
+    },
+    {
+      "id": "mn-hf1277",
+      "billCode": "HF1277",
+      "title": "Data centers sales and use tax exemption modified.",
+      "summary": "This bill changes the sales and use tax exemption that data centers in Minnesota can receive, likely adjusting the eligibility requirements or benefits available to qualifying facilities. It is generally supportive of data center development by modifying tax breaks that reduce operating costs for these facilities.",
+      "stage": "Committee",
+      "stance": "favorable",
+      "impactTags": [
+        "tax-incentives",
+        "economic-development"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2025-03-06",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1277/",
+      "legiscanUrl": "https://legiscan.com/MN/bill/HF1277/2025",
+      "legiscanId": 1977395,
+      "sponsors": [
+        "Gregory Davids",
+        "John Huot",
+        "Jeff Dotseth",
+        "Matt Norris"
+      ]
+    },
+    {
+      "id": "mn-sf1117",
+      "billCode": "SF1117",
+      "title": "Environmental impacts to Minnesota of artificial intelligence study requirement and appropriation",
+      "summary": "Minnesota would fund a study to examine the environmental impacts of artificial intelligence development and deployment on the state. This exploratory legislation seeks to understand AI's effects on energy use, water consumption, and other environmental concerns before taking regulatory action.",
+      "stage": "Committee",
+      "stance": "review",
+      "impactTags": [
+        "carbon-emissions",
+        "water-consumption",
+        "environmental-review"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-02-10",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1117/",
+      "legiscanUrl": "https://legiscan.com/MN/bill/SF1117/2025",
+      "legiscanId": 1957720,
+      "sponsors": [
+        "Erin Maye Quade",
+        "Liz Boldon"
+      ]
+    },
+    {
+      "id": "mn-sf769",
+      "billCode": "SF769",
+      "title": "Certain data centers tax exemption modification",
+      "summary": "This bill modifies the existing tax exemption for certain data centers in Minnesota, likely adjusting eligibility requirements or benefits. It is designed to support or attract data center investment by providing favorable tax treatment.",
+      "stage": "Committee",
+      "stance": "favorable",
+      "impactTags": [
+        "tax-incentives",
+        "economic-development"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2025-01-30",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.revisor.mn.gov/bills/94/2025/0/SF/769/",
+      "legiscanUrl": "https://legiscan.com/MN/bill/SF769/2025",
+      "legiscanId": 1946580,
+      "sponsors": [
+        "Grant Hauschild",
+        "Bill Weber",
+        "Ann Rest",
+        "Carla Nelson"
       ]
     }
   ]

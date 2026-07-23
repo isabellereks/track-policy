@@ -1,6 +1,7 @@
 import type { MunicipalEntity } from "@/types";
 
 import connecticut from "@/data/municipal/connecticut.json";
+import florida from "@/data/municipal/florida.json";
 import georgia from "@/data/municipal/georgia.json";
 import maryland from "@/data/municipal/maryland.json";
 import minnesota from "@/data/municipal/minnesota.json";
@@ -35,6 +36,7 @@ import washington from "@/data/municipal/washington.json";
 const ALL: MunicipalEntity[] = ([] as unknown[])
   .concat(
     connecticut,
+    florida,
     georgia,
     maryland,
     minnesota,

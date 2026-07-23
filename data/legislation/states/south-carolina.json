@@ -2,34 +2,54 @@
   "state": "South Carolina",
   "stateCode": "SC",
   "region": "na",
-  "stance": "concerning",
-  "stanceDatacenter": "concerning",
+  "stance": "restrictive",
+  "stanceDatacenter": "restrictive",
   "stanceAI": "concerning",
-  "lastUpdated": "2026-04-14",
-  "contextBlurb": "South Carolina is weighing one of the more detailed data-center oversight frameworks in the country, requiring siting permits, environmental-impact reviews, water-use reporting, and PSC certificates before new facilities can operate. A separate bill would ban algorithmic discrimination in high-risk AI systems.",
+  "lastUpdated": "2026-07-22",
+  "contextBlurb": "South Carolina is leaning restrictive on data centers and advancing regulation on AI. On data centers: H5122 (enacted) — Exempts certain equipment purchased by internet and communications service providers from sales tax, but explicitly prohibits data centers from claiming or using these tax exemptions and… On AI: H3431 (enacted) — This South Carolina law requires social media and online platforms to protect children's personal data, limiting what information can be collected from minors and giving parents control over their…",
   "legislation": [
+    {
+      "id": "sc-h5122",
+      "billCode": "H5122",
+      "title": "Internet and Communications Service Providers Equipment",
+      "summary": "This bill exempts certain equipment purchased by internet and communications service providers from sales tax, but explicitly prohibits data centers from claiming or using these tax exemptions and refunds. It creates a targeted restriction that treats data centers differently from other service providers for tax purposes.",
+      "stage": "Enacted",
+      "stance": "restrictive",
+      "impactTags": [],
+      "category": "data-center-siting",
+      "updatedDate": "2026-06-05",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.scstatehouse.gov/billsearch.php?billnumbers=5122&session=126&summary=B",
+      "legiscanUrl": "https://legiscan.com/SC/bill/H5122/2025",
+      "legiscanId": 2108673,
+      "sponsors": [
+        "Brandon Newton",
+        "Bruce Bannister",
+        "William Herbkersman",
+        "Richard Yow"
+      ]
+    },
     {
       "id": "sc-s0867",
       "billCode": "S0867",
       "title": "Data Center Development",
-      "summary": "This bill creates a comprehensive permitting and oversight system for data centers in South Carolina, requiring siting permits, environmental impact assessments, water and energy efficiency standards, and noise/vibration controls before a data center can be built or operated. It also establishes a new government office and advisory committee to oversee data center development and sets rules for how utility costs are allocated.",
+      "summary": "This South Carolina bill creates a comprehensive regulatory framework for data centers, requiring siting permits, environmental and infrastructure impact assessments, water and energy efficiency standards, and noise/vibration mitigation measures before a data center can be built or operate. It also establishes a new Data Center Development Office and an industry advisory committee to oversee permitting and compliance.",
       "stage": "Committee",
       "stance": "concerning",
       "dimensionStances": {
         "environmental": "concerning",
-        "energy": "concerning",
         "community": "concerning",
         "land-use": "concerning"
       },
       "impactTags": [
+        "local-zoning",
+        "local-control",
         "environmental-review",
         "water-consumption",
-        "grid-capacity",
-        "noise-vibration",
-        "local-zoning"
+        "noise-vibration"
       ],
       "category": "data-center-siting",
-      "updatedDate": "2026-01-29",
+      "updatedDate": "2026-05-06",
       "partyOrigin": "B",
       "sourceUrl": "https://www.scstatehouse.gov/billsearch.php?billnumbers=0867&session=126&summary=B",
       "legiscanUrl": "https://legiscan.com/SC/bill/S0867/2025",
@@ -42,10 +62,90 @@
       ]
     },
     {
-      "id": "sc-s0963",
-      "billCode": "S0963",
-      "title": "Artificial intelligence, consumer protection",
-      "summary": "This South Carolina bill would create consumer protection rules around high-risk AI systems, specifically banning algorithmic discrimination that harms people based on protected characteristics. It establishes a comprehensive framework requiring businesses to prevent biased or unfair outcomes when using AI to make important decisions affecting consumers.",
+      "id": "sc-s0896",
+      "billCode": "S0896",
+      "title": "Chatbot Regulation",
+      "summary": "South Carolina proposes restrictions on chatbot activities and creates civil remedies for violations, requiring chatbots to disclose their nature and limiting their use in certain contexts. The law aims to protect consumers from deceptive AI interactions and unauthorized data collection by automated systems.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "restrictive"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "data-privacy"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-05-06",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.scstatehouse.gov/billsearch.php?billnumbers=0896&session=126&summary=B",
+      "legiscanUrl": "https://legiscan.com/SC/bill/S0896/2025",
+      "legiscanId": 2109604,
+      "sponsors": [
+        "Matthew Leber",
+        "Overture Walker",
+        "Allen Blackmon",
+        "Joshua Kimbrell"
+      ]
+    },
+    {
+      "id": "sc-s0920",
+      "billCode": "S0920",
+      "title": "Health insurance",
+      "summary": "South Carolina requires health insurers using AI for prior authorization decisions to consider specific circumstances, disclose their use of AI to enrollees, and face penalties for violations. This establishes mandatory oversight and transparency requirements for automated insurance decisions affecting patient care.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-public": "concerning"
+      },
+      "impactTags": [
+        "ai-in-healthcare",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-healthcare",
+      "updatedDate": "2026-05-06",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.scstatehouse.gov/billsearch.php?billnumbers=0920&session=126&summary=B",
+      "legiscanUrl": "https://legiscan.com/SC/bill/S0920/2025",
+      "legiscanId": 2114439,
+      "sponsors": [
+        "Matthew Leber",
+        "Allen Blackmon",
+        "Tameika Devine"
+      ]
+    },
+    {
+      "id": "sc-h5526",
+      "billCode": "H5526",
+      "title": "Data Center Moratorium",
+      "summary": "This bill immediately halts all state and local government acceptance of data-center permits and applications until the legislature creates a comprehensive oversight and approval process. It effectively imposes a moratorium on new data-center development in South Carolina until formal regulatory procedures are established.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "environmental": "review",
+        "community": "review"
+      },
+      "impactTags": [
+        "local-control",
+        "environmental-review"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-04-14",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.scstatehouse.gov/billsearch.php?billnumbers=5526&session=126&summary=B",
+      "legiscanUrl": "https://legiscan.com/SC/bill/H5526/2025",
+      "legiscanId": 2142878,
+      "sponsors": [
+        "Jermaine Johnson"
+      ]
+    },
+    {
+      "id": "sc-s0447",
+      "billCode": "S0447",
+      "title": "License plate reader system",
+      "summary": "This bill regulates who can use automated license plate reader systems in South Carolina and sets rules for how law enforcement can use the data collected. It also allows the state Department of Transportation to permit certain government cameras on non-interstate highways.",
       "stage": "Committee",
       "stance": "concerning",
       "dimensionStances": {
@@ -54,130 +154,23 @@
       },
       "impactTags": [
         "algorithmic-transparency",
-        "ai-safety",
         "data-privacy"
       ],
-      "category": "ai-governance",
-      "updatedDate": "2026-02-26",
+      "category": "ai-criminal-justice",
+      "updatedDate": "2026-04-09",
       "partyOrigin": "R",
-      "sourceUrl": "https://www.scstatehouse.gov/billsearch.php?billnumbers=0963&session=126&summary=B",
-      "legiscanUrl": "https://legiscan.com/SC/bill/S0963/2025",
-      "legiscanId": 2125203,
+      "sourceUrl": "https://www.scstatehouse.gov/billsearch.php?billnumbers=0447&session=126&summary=B",
+      "legiscanUrl": "https://legiscan.com/SC/bill/S0447/2025",
+      "legiscanId": 2004771,
       "sponsors": [
-        "Matthew Leber"
-      ]
-    },
-    {
-      "id": "sc-h3064",
-      "billCode": "H3064",
-      "title": "Autopsy photographs",
-      "summary": "This bill updates the rules about who can view or share autopsy photographs and videos in South Carolina. It has no connection to AI regulation or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2025-01-14",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.scstatehouse.gov/billsearch.php?billnumbers=3064&session=126&summary=B",
-      "legiscanUrl": "https://legiscan.com/SC/bill/H3064/2025",
-      "legiscanId": 1895376,
-      "sponsors": [
-        "Todd Rutherford"
-      ]
-    },
-    {
-      "id": "sc-s0902",
-      "billCode": "S0902",
-      "title": "Data Centers",
-      "summary": "This bill requires data centers in South Carolina to obtain a certificate from the Public Service Commission before operating, with reviews covering energy efficiency, water use, environmental impact, infrastructure adequacy, and grid cost allocation. It establishes ongoing compliance standards and reporting requirements, creating a comprehensive regulatory framework for data center development in the state.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "dimensionStances": {
-        "environmental": "concerning",
-        "energy": "concerning",
-        "community": "concerning",
-        "land-use": "concerning"
-      },
-      "impactTags": [
-        "water-consumption",
-        "grid-capacity",
-        "energy-rates",
-        "environmental-review",
-        "local-zoning"
-      ],
-      "category": "data-center-siting",
-      "updatedDate": "2026-02-10",
-      "partyOrigin": "B",
-      "sourceUrl": "https://www.scstatehouse.gov/billsearch.php?billnumbers=0902&session=126&summary=B",
-      "legiscanUrl": "https://legiscan.com/SC/bill/S0902/2025",
-      "legiscanId": 2113185,
-      "sponsors": [
-        "Luke Rankin",
-        "Tameika Devine"
-      ]
-    },
-    {
-      "id": "sc-s0784",
-      "billCode": "S0784",
-      "title": "Energy",
-      "summary": "This bill regulates commercial data centers in South Carolina by requiring water usage reporting, mandating public comment periods for energy infrastructure permits, and limiting existing sales tax exemptions for data center equipment to companies that acted before May 30, 2025. It also adds new rules around electric service terms for data centers and strengthens landowner notice requirements when utilities plan construction that could involve eminent domain.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "dimensionStances": {
-        "environmental": "concerning",
-        "energy": "concerning"
-      },
-      "impactTags": [
-        "water-consumption",
-        "water-infrastructure",
-        "grid-capacity",
-        "tax-incentives",
-        "energy-rates"
-      ],
-      "category": "data-center-energy",
-      "updatedDate": "2026-01-13",
-      "partyOrigin": "B",
-      "sourceUrl": "https://www.scstatehouse.gov/billsearch.php?billnumbers=0784&session=126&summary=B",
-      "legiscanUrl": "https://legiscan.com/SC/bill/S0784/2025",
-      "legiscanId": 2072871,
-      "sponsors": [
-        "Shane Massey",
-        "George Campsen",
-        "Michael Johnson",
-        "Ed Sutton"
-      ]
-    },
-    {
-      "id": "sc-s0724",
-      "billCode": "S0724",
-      "title": "Commercial Data Center Water Usage Report",
-      "summary": "This bill requires large commercial data centers in South Carolina that use 3 million or more gallons of water per month to report their water usage annually to the state Department of Environmental Services. Data centers that fail to comply with the reporting requirement would face penalties.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "dimensionStances": {
-        "environmental": "concerning",
-        "energy": "review"
-      },
-      "impactTags": [
-        "water-consumption",
-        "water-infrastructure"
-      ],
-      "category": "data-center-energy",
-      "updatedDate": "2026-01-13",
-      "partyOrigin": "B",
-      "sourceUrl": "https://www.scstatehouse.gov/billsearch.php?billnumbers=0724&session=126&summary=B",
-      "legiscanUrl": "https://legiscan.com/SC/bill/S0724/2025",
-      "legiscanId": 2058315,
-      "sponsors": [
-        "Allen Blackmon",
-        "Ed Sutton"
+        "Brian Adams"
       ]
     },
     {
       "id": "sc-h5484",
       "billCode": "H5484",
       "title": "Energy Affordability Act",
-      "summary": "This South Carolina bill sets new rules for commercial data centers, including requirements to report water usage, file decommissioning plans, and meet specific electric service terms, while also restricting certain sales tax exemptions for data centers after May 2026. It also strengthens public oversight of energy infrastructure projects, including mandatory public comment periods and landowner notification when eminent domain may be used.",
+      "summary": "This South Carolina bill sets new rules for commercial data centers, including requirements to report water usage, file decommissioning plans, and meet specific electric service terms. It also limits certain sales tax exemptions for data centers and adds public comment requirements for major energy infrastructure projects.",
       "stage": "Committee",
       "stance": "concerning",
       "dimensionStances": {
@@ -202,59 +195,114 @@
       ]
     },
     {
-      "id": "sc-h5179",
-      "billCode": "H5179",
-      "title": "School Mapping Data Program",
-      "summary": "This bill creates a school mapping data program within the State Law Enforcement Division to help emergency responders navigate college campuses more efficiently. It is not related to AI regulation or data-center policy.",
+      "id": "sc-h5286",
+      "billCode": "H5286",
+      "title": "Data Center Moratorium",
+      "summary": "This bill imposes a statewide moratorium on government approval of new data center permits, applications, and incentive packages until January 1, 2028. The moratorium applies to all state, county, municipal, and political subdivision entities.",
       "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-government",
-      "updatedDate": "2026-03-04",
+      "stance": "restrictive",
+      "impactTags": [
+        "local-control",
+        "economic-development"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-03-31",
       "partyOrigin": "B",
-      "sourceUrl": "https://www.scstatehouse.gov/billsearch.php?billnumbers=5179&session=126&summary=B",
-      "legiscanUrl": "https://legiscan.com/SC/bill/H5179/2025",
-      "legiscanId": 2115107,
+      "sourceUrl": "https://www.scstatehouse.gov/billsearch.php?billnumbers=5286&session=126&summary=B",
+      "legiscanUrl": "https://legiscan.com/SC/bill/H5286/2025",
+      "legiscanId": 2125226,
       "sponsors": [
-        "Shannon Erickson",
-        "Timothy McGinnis",
-        "Kambrell Garvin",
-        "Hamilton Grant"
+        "Steven Long",
+        "Travis Moore",
+        "Richard Yow",
+        "Cody Mitchell"
       ]
     },
     {
-      "id": "sc-s0268",
-      "billCode": "S0268",
-      "title": "Children and Social Media",
-      "summary": "This bill requires online services to protect children's personal data, limit data collection on minors, and give parents tools to monitor and report harms. It also mandates that platforms publicly report their practices related to minors and provide kids with tools to control their time and data on the service.",
+      "id": "sc-h4666",
+      "billCode": "H4666",
+      "title": "Digital Choice Act",
+      "summary": "This bill requires social media companies to provide consumers with copies of their personal data in standardized formats and establish data interoperability interfaces to allow users to transfer information between platforms. It imposes civil penalties for non-compliance and aims to enhance consumer control over personal data and reduce platform lock-in effects.",
       "stage": "Committee",
       "stance": "concerning",
       "dimensionStances": {
         "ai-governance-dim": "review",
-        "ai-consumer": "concerning"
+        "ai-consumer": "restrictive"
       },
       "impactTags": [
-        "child-safety",
         "data-privacy",
         "algorithmic-transparency"
       ],
       "category": "data-privacy",
-      "updatedDate": "2025-05-01",
+      "updatedDate": "2026-03-10",
       "partyOrigin": "R",
-      "sourceUrl": "https://www.scstatehouse.gov/billsearch.php?billnumbers=0268&session=126&summary=B",
-      "legiscanUrl": "https://legiscan.com/SC/bill/S0268/2025",
-      "legiscanId": 1944096,
+      "sourceUrl": "https://www.scstatehouse.gov/billsearch.php?billnumbers=4666&session=126&summary=B",
+      "legiscanUrl": "https://legiscan.com/SC/bill/H4666/2025",
+      "legiscanId": 2060061,
       "sponsors": [
-        "Sean Bennett",
-        "Matthew Leber",
-        "Carlisle Kennedy"
+        "Brandon Guffey",
+        "Thomas Pope",
+        "Robby Robbins"
+      ]
+    },
+    {
+      "id": "sc-s0963",
+      "billCode": "S0963",
+      "title": "Artificial intelligence, consumer protection",
+      "summary": "This South Carolina bill would create a new law protecting consumers from discrimination caused by high-risk AI systems. It places obligations on businesses using AI to prevent biased or unfair outcomes that could harm consumers.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "concerning"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "ai-safety",
+        "data-privacy"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-26",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.scstatehouse.gov/billsearch.php?billnumbers=0963&session=126&summary=B",
+      "legiscanUrl": "https://legiscan.com/SC/bill/S0963/2025",
+      "legiscanId": 2125203,
+      "sponsors": [
+        "Matthew Leber"
+      ]
+    },
+    {
+      "id": "sc-h5253",
+      "billCode": "H5253",
+      "title": "Ai in education",
+      "summary": "South Carolina would establish limitations and safeguards for AI use in public schools, including requirements for parental notice and consent, human and teacher oversight, and protections for student data. The bill defines key terms and provides enforcement mechanisms to ensure compliance.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-consumer": "restrictive",
+        "ai-public": "concerning"
+      },
+      "impactTags": [
+        "ai-in-education",
+        "data-privacy",
+        "child-safety"
+      ],
+      "category": "ai-education",
+      "updatedDate": "2026-02-24",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.scstatehouse.gov/billsearch.php?billnumbers=5253&session=126&summary=B",
+      "legiscanUrl": "https://legiscan.com/SC/bill/H5253/2025",
+      "legiscanId": 2123107,
+      "sponsors": [
+        "Brandon Guffey",
+        "Don Chapman"
       ]
     },
     {
       "id": "sc-h4583",
       "billCode": "H4583",
       "title": "The South Carolina Data Center Responsibility Act",
-      "summary": "This bill establishes rules requiring data centers in South Carolina to operate responsibly and sustainably, likely including environmental and energy standards. It aims to prevent data centers from shifting their costs or burdens onto taxpayers.",
+      "summary": "This bill establishes rules requiring data centers in South Carolina to operate responsibly and sustainably, ensuring they don't place undue costs or burdens on taxpayers or public resources. It likely includes environmental and energy use standards aimed at holding data centers accountable for their infrastructure impact.",
       "stage": "Committee",
       "stance": "concerning",
       "dimensionStances": {
@@ -265,11 +313,11 @@
         "water-consumption",
         "carbon-emissions",
         "environmental-review",
-        "renewable-energy",
-        "grid-capacity"
+        "grid-capacity",
+        "energy-rates"
       ],
       "category": "data-center-energy",
-      "updatedDate": "2026-01-13",
+      "updatedDate": "2026-02-18",
       "partyOrigin": "B",
       "sourceUrl": "https://www.scstatehouse.gov/billsearch.php?billnumbers=4583&session=126&summary=B",
       "legiscanUrl": "https://legiscan.com/SC/bill/H4583/2025",
@@ -282,10 +330,41 @@
       ]
     },
     {
+      "id": "sc-s0902",
+      "billCode": "S0902",
+      "title": "Data Centers",
+      "summary": "This bill would require data centers in South Carolina to obtain a state certificate before operating, with reviews covering energy efficiency, water use, environmental impact, and infrastructure adequacy. It also establishes ongoing reporting requirements and gives the Public Service Commission authority over how utilities handle costs related to data centers.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "environmental": "concerning",
+        "energy": "concerning",
+        "community": "concerning",
+        "land-use": "concerning"
+      },
+      "impactTags": [
+        "water-consumption",
+        "grid-capacity",
+        "environmental-review",
+        "local-zoning",
+        "energy-rates"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-02-10",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.scstatehouse.gov/billsearch.php?billnumbers=0902&session=126&summary=B",
+      "legiscanUrl": "https://legiscan.com/SC/bill/S0902/2025",
+      "legiscanId": 2113185,
+      "sponsors": [
+        "Luke Rankin",
+        "Tameika Devine"
+      ]
+    },
+    {
       "id": "sc-h3431",
       "billCode": "H3431",
       "title": "South Carolina Social Media Regulation Act",
-      "summary": "This South Carolina bill requires social media platforms to use reasonable care with minors' personal data, limits how much personal information can be collected from children, and mandates parental controls. It also requires annual reporting and sets up enforcement mechanisms to ensure compliance.",
+      "summary": "This South Carolina law requires social media and online platforms to protect children's personal data, limiting what information can be collected from minors and giving parents control over their children's accounts. Platforms must follow strict data practices and file annual reports, with enforcement measures for violations.",
       "stage": "Enacted",
       "stance": "restrictive",
       "dimensionStances": {
@@ -311,10 +390,118 @@
       ]
     },
     {
-      "id": "sc-s0447",
-      "billCode": "S0447",
-      "title": "License plate reader system",
-      "summary": "This bill regulates who can use automatic license plate reader systems in South Carolina and sets rules for how law enforcement can use the data collected. It also allows the state Department of Transportation to permit certain government cameras on non-interstate highways.",
+      "id": "sc-s0784",
+      "billCode": "S0784",
+      "title": "Energy",
+      "summary": "This bill sets new rules for data centers in South Carolina, requiring them to report water usage to environmental authorities and comply with specific electric service conditions, while also restricting previously available sales tax exemptions to data centers that registered their intent by May 30, 2025. It also adds public comment requirements and landowner notice rules for energy infrastructure projects that may involve eminent domain.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "environmental": "concerning",
+        "energy": "concerning"
+      },
+      "impactTags": [
+        "water-consumption",
+        "water-infrastructure",
+        "energy-rates",
+        "grid-capacity",
+        "tax-incentives"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-01-14",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.scstatehouse.gov/billsearch.php?billnumbers=0784&session=126&summary=B",
+      "legiscanUrl": "https://legiscan.com/SC/bill/S0784/2025",
+      "legiscanId": 2072871,
+      "sponsors": [
+        "Shane Massey",
+        "George Campsen",
+        "Michael Johnson",
+        "Ed Sutton"
+      ]
+    },
+    {
+      "id": "sc-s0724",
+      "billCode": "S0724",
+      "title": "Commercial Data Center Water Usage Report",
+      "summary": "This bill requires large commercial data centers in South Carolina that use at least 3 million gallons of water per month to report their water usage annually to the state's Department of Environmental Services. Facilities that fail to comply with the reporting requirement would face penalties.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "environmental": "concerning",
+        "energy": "review"
+      },
+      "impactTags": [
+        "water-consumption",
+        "water-infrastructure"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-01-13",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.scstatehouse.gov/billsearch.php?billnumbers=0724&session=126&summary=B",
+      "legiscanUrl": "https://legiscan.com/SC/bill/S0724/2025",
+      "legiscanId": 2058315,
+      "sponsors": [
+        "Allen Blackmon",
+        "Ed Sutton"
+      ]
+    },
+    {
+      "id": "sc-h4675",
+      "billCode": "H4675",
+      "title": "Video Surveillance",
+      "summary": "This bill prohibits South Carolina state and local agencies from using AI and automated systems to track vehicles, and restricts surveillance data storage to secure local servers rather than third-party cloud services. It includes judicial oversight requirements, data retention limits, and mandatory annual reporting on surveillance practices.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-governance-dim": "restrictive",
+        "ai-consumer": "restrictive"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "child-safety"
+      ],
+      "category": "ai-criminal-justice",
+      "updatedDate": "2026-01-13",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.scstatehouse.gov/billsearch.php?billnumbers=4675&session=126&summary=B",
+      "legiscanUrl": "https://legiscan.com/SC/bill/H4675/2025",
+      "legiscanId": 2059868,
+      "sponsors": [
+        "Jay Kilmartin",
+        "William Chumley",
+        "Sarita Edgerton",
+        "Josiah Magnuson"
+      ]
+    },
+    {
+      "id": "sc-h4657",
+      "billCode": "H4657",
+      "title": "Right to Compute Act",
+      "summary": "This bill requires risk management policies for critical infrastructure controlled by AI systems and establishes rules for when private computational resources may be restricted. It represents a regulatory framework addressing AI oversight in critical sectors.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "impactTags": [
+        "ai-safety",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-13",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.scstatehouse.gov/billsearch.php?billnumbers=4657&session=126&summary=B",
+      "legiscanUrl": "https://legiscan.com/SC/bill/H4657/2025",
+      "legiscanId": 2059990,
+      "sponsors": [
+        "Brandon Guffey",
+        "Thomas Pope",
+        "Melissa Oremus"
+      ]
+    },
+    {
+      "id": "sc-s0268",
+      "billCode": "S0268",
+      "title": "Children and Social Media",
+      "summary": "This bill requires online services to protect children's personal data, limit how much data can be collected from minors, and give parents tools to monitor and report harms. It also mandates public reporting on how these platforms handle minors' data and usage.",
       "stage": "Committee",
       "stance": "concerning",
       "dimensionStances": {
@@ -322,17 +509,71 @@
         "ai-consumer": "concerning"
       },
       "impactTags": [
-        "algorithmic-transparency",
-        "data-privacy"
+        "child-safety",
+        "data-privacy",
+        "algorithmic-transparency"
       ],
-      "category": "ai-criminal-justice",
-      "updatedDate": "2025-03-12",
+      "category": "data-privacy",
+      "updatedDate": "2025-05-01",
       "partyOrigin": "R",
-      "sourceUrl": "https://www.scstatehouse.gov/billsearch.php?billnumbers=0447&session=126&summary=B",
-      "legiscanUrl": "https://legiscan.com/SC/bill/S0447/2025",
-      "legiscanId": 2004771,
+      "sourceUrl": "https://www.scstatehouse.gov/billsearch.php?billnumbers=0268&session=126&summary=B",
+      "legiscanUrl": "https://legiscan.com/SC/bill/S0268/2025",
+      "legiscanId": 1944096,
       "sponsors": [
-        "Brian Adams"
+        "Sean Bennett",
+        "Matthew Leber",
+        "Carlisle Kennedy"
+      ]
+    },
+    {
+      "id": "sc-h3400",
+      "billCode": "H3400",
+      "title": "Child Data Privacy and Protection Act",
+      "summary": "South Carolina would restrict how companies collect, retain, and sell personal data of children, requiring privacy-by-default protections, data impact assessments, and transparent privacy policies. The bill creates enforcement mechanisms including civil and criminal liability for violations.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "impactTags": [
+        "data-privacy",
+        "child-safety"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2025-01-14",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.scstatehouse.gov/billsearch.php?billnumbers=3400&session=126&summary=B",
+      "legiscanUrl": "https://legiscan.com/SC/bill/H3400/2025",
+      "legiscanId": 1895470,
+      "sponsors": [
+        "Brandon Guffey",
+        "Thomas Pope",
+        "Tiffany Spann-Wilder",
+        "John Mccravy"
+      ]
+    },
+    {
+      "id": "sc-h3402",
+      "billCode": "H3402",
+      "title": "Age-Appropriate Design",
+      "summary": "This bill establishes South Carolina's Age-Appropriate Design Code, requiring companies to implement privacy protections and design practices that safeguard children's data and limit manipulative algorithms targeting minors. It creates enforcement mechanisms and obligations for covered digital services to prioritize children's safety and data protection.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "review",
+        "ai-consumer": "restrictive"
+      },
+      "impactTags": [
+        "data-privacy",
+        "child-safety",
+        "algorithmic-transparency"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2025-01-14",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.scstatehouse.gov/billsearch.php?billnumbers=3402&session=126&summary=B",
+      "legiscanUrl": "https://legiscan.com/SC/bill/H3402/2025",
+      "legiscanId": 1895155,
+      "sponsors": [
+        "Brandon Guffey",
+        "Thomas Pope"
       ]
     }
   ]

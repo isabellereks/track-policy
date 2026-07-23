@@ -1,91 +1,117 @@
 [
   {
-    "id": "new-london-county-ct",
-    "name": "New London County",
+    "id": "groton-ct",
+    "name": "Town of Groton",
     "fips": "09011",
     "state": "Connecticut",
     "stateCode": "CT",
-    "type": "county",
+    "type": "municipality",
     "actions": [
       {
-        "title": "Town of Waterford: Millstone Hyperscale Data Center Project Terminated",
-        "date": "2026-03-17",
+        "title": "One-Year Moratorium on Large Data Centers (>5,000 sq ft)",
+        "date": "2022-06-21",
         "status": "enacted",
-        "summary": "Waterford First Selectman announced the 1.5-million-sq-ft NE Edge hyperscale data center project at Millstone Nuclear Power Station was terminated after the developer defaulted on the Host Municipality Fee Agreement.",
-        "sourceUrl": "https://sites.google.com/view/ccwel-resources/home"
+        "summary": "Groton's Planning and Zoning Commission approved a one-year ban on applications for data centers larger than 5,000 square feet to allow time to develop permanent regulations.",
+        "sourceUrl": "https://theday.com/local-news/20220621/groton-approves-one-year-moratorium-on-large-scale-data-centers"
       },
       {
-        "title": "Town of Groton: Hyperscale Data Center Ban Enacted",
-        "date": "2024-01-01",
+        "title": "Permanent Zoning Regulation Capping Data Centers at 12,500 sq ft",
+        "date": "2023-07-14",
         "status": "enacted",
-        "summary": "After an NE Edge data center effort in Groton fell through amid community opposition, the town enacted a ban prohibiting hyperscale data center developments within its boundaries.",
-        "sourceUrl": "https://ctmirror.org/2024/01/19/millstone-power-plant-ct-data-center-nuclear/"
+        "summary": "Following its moratorium, Groton unanimously adopted permanent zoning rules banning data centers larger than 12,500 square feet and restricting them to light-industrial zones, converting the moratorium into a lasting size cap.",
+        "sourceUrl": "https://www.datacenterdynamics.com/en/news/groton-ct-blocks-large-scale-data-center-projects-thwarting-ne-edge/"
       },
       {
-        "title": "Concerned Citizens of Waterford and East Lyme (CCWEL): Community Opposition to Millstone Data Center",
-        "date": "2024-01-18",
+        "title": "Rejection of NE Edge Large-Scale Data Center Proposals",
+        "date": "2023-01-01",
         "status": "enacted",
-        "summary": "A grassroots coalition of over 50 residents organized sustained opposition to the proposed 300-MW nuclear-powered hyperscale data center at Millstone Point, citing grid-cost shifting, noise, property values, and environmental risks; opposition contributed to the project's eventual termination.",
-        "sourceUrl": "https://sites.google.com/view/ccwel-resources/home"
+        "summary": "Groton officials ceased discussions with NE Edge after the company proposed two 250,000 sq ft data centers near the Millstone nuclear power station, citing concerns about community impact and infrastructure.",
+        "sourceUrl": "https://www.datacenterdynamics.com/en/news/groton-ct-blocks-large-scale-data-center-projects-thwarting-ne-edge/"
       }
     ],
     "concerns": [
-      "noise-vibration",
+      "local-zoning",
+      "local-control",
       "grid-capacity",
-      "property-values",
-      "residential-proximity",
-      "carbon-emissions",
       "water-consumption",
-      "environmental-review",
-      "local-control"
+      "residential-proximity",
+      "environmental-review"
     ],
-    "contextBlurb": "New London County became the focal point of Connecticut's data center debate when developer NE Edge proposed a 1.5-million-square-foot hyperscale facility at the Millstone Nuclear Power Station in Waterford, which would have drawn 300 MW directly from the plant's reactors. After sustained community opposition from the Concerned Citizens of Waterford and East Lyme and a separate ban on hyperscale data centers enacted by the Town of Groton, the Waterford project was officially terminated in March 2026 after the developer defaulted on the Host Municipality Fee Agreement."
+    "contextBlurb": "Groton is Connecticut's most active municipal regulator of data centers, having used a 2022 one-year moratorium as a bridge to adopt permanent zoning rules in July 2023 that cap facility size at 12,500 square feet and limit siting to light-industrial zones. The town's action was driven by failed proposals from GotSpace Data Partners and NE Edge to build hyperscale facilities near the Millstone nuclear power station. Groton's approach—moratorium followed by permanent zoning—has since been cited as a model by Morris, West Haven, and New Haven."
   },
   {
-    "id": "connecticut-state-ct",
-    "name": "Connecticut (State-Level Legislative Actions)",
-    "fips": "09000",
+    "id": "morris-ct",
+    "name": "Town of Morris",
+    "fips": "09005",
     "state": "Connecticut",
     "stateCode": "CT",
-    "type": "county",
+    "type": "municipality",
     "actions": [
       {
-        "title": "SB 245: Elimination of Data Center Tax Incentives",
-        "date": "2026-02-27",
-        "status": "under-review",
-        "summary": "Connecticut's Energy and Technology Committee held a public hearing on SB 245, which would revoke the 2021 tax incentive program that waived property and sales taxes for qualifying data centers investing $200M or more in the state.",
-        "sourceUrl": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00245&which_year=2026"
-      },
-      {
-        "title": "Governor Lamont 2026 State of the State: Informal Moratorium Signal on New Hyperscale Data Centers",
-        "date": "2026-01-08",
+        "title": "Two-Year Data Center Development Moratorium",
+        "date": "2026-05-01",
         "status": "enacted",
-        "summary": "Governor Lamont publicly declared Connecticut's policy of slowing down new data centers unless they add their own generation, citing the scrapped Millstone hyperscale project as a cautionary example of energy-grid risk.",
-        "sourceUrl": "https://www.governing.com/finance/connecticuts-data-center-tax-break-bet-isnt-paying-off"
-      },
+        "summary": "Morris's Planning and Zoning Commission approved a two-year moratorium on data center development to protect farmland and rural character while the town drafts permanent land-use regulations.",
+        "sourceUrl": "https://www.yahoo.com/news/us/articles/why-one-connecticut-town-approved-100000211.html"
+      }
+    ],
+    "concerns": [
+      "local-zoning",
+      "local-control",
+      "environmental-review",
+      "water-infrastructure",
+      "residential-proximity"
+    ],
+    "contextBlurb": "Morris, a small rural town in Litchfield County, enacted a two-year data center moratorium in May 2026 primarily to protect its farmland and rural character, citing that data centers typically require large land footprints that often consume agricultural land. No formal data center proposal had yet been filed in Morris; officials acted proactively, concerned that state-level siting authority through the Connecticut Siting Council could override local zoning. The town is using the moratorium period to evaluate environmental, infrastructure, and public-safety impacts and align future rules with its Plan of Conservation and Development."
+  },
+  {
+    "id": "west-haven-ct",
+    "name": "City of West Haven",
+    "fips": "09009",
+    "state": "Connecticut",
+    "stateCode": "CT",
+    "type": "municipality",
+    "actions": [
       {
-        "title": "GRID Act Support: Federal Bill to Require Data Centers to Source Own Power",
-        "date": "2026-02-27",
-        "status": "proposed",
-        "summary": "Connecticut's U.S. Senator Richard Blumenthal introduced the GRID Act, which would require any new data center with a power demand of 20 MW or more to source electricity outside the shared electric grid, directly responding to ratepayer protection concerns raised by Connecticut's Office of Consumer Counsel.",
-        "sourceUrl": "https://www.wshu.org/connecticut-news/2026-02-27/ct-ai-data-centers-regulations"
-      },
-      {
-        "title": "Connecticut Energy & Technology Committee: Ratepayer Protection Hearing on Data Centers",
-        "date": "2026-02-27",
-        "status": "under-review",
-        "summary": "The state Energy and Technology Committee convened a public hearing where the Office of Consumer Counsel raised concerns about data centers' financial risks to ratepayers and the need for protections before new construction approvals are granted.",
-        "sourceUrl": "https://www.wshu.org/connecticut-news/2026-02-27/ct-ai-data-centers-regulations"
+        "title": "12-Month Moratorium on Data Center Establishment and Development",
+        "date": "2026-06-08",
+        "status": "enacted",
+        "summary": "West Haven's City Council unanimously enacted a 12-month moratorium suspending permit processing and zoning actions for data centers to allow planners time to study electrical demand, cooling, siting, and other impacts.",
+        "sourceUrl": "https://citizenportal.ai/articles/8148010/connecticut/new-haven-county/west-haven/connecticut/new-haven-county/west-haven/Connecticut/New-Haven-County/West-Haven/West-Haven-enacts-12-month-moratorium-on-data-center-development"
       }
     ],
     "concerns": [
       "grid-capacity",
+      "local-zoning",
       "local-control",
-      "carbon-emissions",
       "water-consumption",
-      "environmental-review",
-      "local-zoning"
+      "environmental-review"
     ],
-    "contextBlurb": "Connecticut has no hyperscale data centers and an estimated 50-plus small-to-mid-size facilities statewide, with high wholesale electricity costs cited as the primary deterrent to large-scale development. In 2026 the state legislature is debating SB 245 to repeal the 2021 data center tax incentive law, while Governor Lamont has signaled a go-slow posture on new hyperscale projects unless developers provide their own power generation. The collapse of the Millstone nuclear-powered data center project in Waterford and Groton's outright ban on hyperscale facilities reflect a broader municipal-level skepticism about large AI data center development in the state."
+    "contextBlurb": "West Haven's City Council voted unanimously on June 8, 2026, to impose a 12-month moratorium on data center development, with Mayor Durinda Borer citing the absence of city zoning or licensing rules specific to large-scale data facilities. The pause covers all new data center permits and zoning approvals while municipal planners study electrical demand, cooling system impacts, and appropriate siting standards. West Haven is one of several Connecticut municipalities—alongside Groton and Morris—cited by New Haven as precedents for its own proposed moratorium."
+  },
+  {
+    "id": "new-haven-ct",
+    "name": "City of New Haven",
+    "fips": "09009",
+    "state": "Connecticut",
+    "stateCode": "CT",
+    "type": "municipality",
+    "actions": [
+      {
+        "title": "Proposed 12-Month Data Center Development Moratorium Ordinance",
+        "date": "2026-07-07",
+        "status": "proposed",
+        "summary": "Board of Alders Majority Leader Richard Furlow introduced a proposed ordinance imposing a 12-month ban on new data center permits and conversions to give the city time to craft zoning regulations, with City Plan Commission review scheduled for July 15, 2026.",
+        "sourceUrl": "https://www.newhavenindependent.org/2026/07/06/12-month-pause-pitched-for-data-center-dev/"
+      }
+    ],
+    "concerns": [
+      "local-zoning",
+      "local-control",
+      "grid-capacity",
+      "water-consumption",
+      "environmental-review"
+    ],
+    "contextBlurb": "New Haven lacks any zoning regulations specific to data centers, prompting Alderman Richard Furlow to introduce a proposed 12-month moratorium ordinance in July 2026 in response to constituent concerns—even though no data center application is currently pending. The ordinance would direct the city's economic development department to convene a working group with six months to recommend zoning standards. New Haven explicitly cited precedents set by Groton, Morris, and West Haven in the text of its proposed ordinance amendment."
   }
 ]

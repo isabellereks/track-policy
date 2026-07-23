@@ -174,10 +174,13 @@ function splitSentences(text: string): string[] {
     /(?:Sen|Rep|Dr|Mr|Mrs|Ms|St|Jr|Sr|No|Vol|Inc|Corp|Ltd|Gov|Gen|Prof|Sgt|Cpl|vs|etc|approx|dept|est)\./gi;
   const placeholder = "\u0000";
   const safe = text.replace(ABBR, (m) => m.slice(0, -1) + placeholder);
-  return safe
+  const sentences = safe
     .split(/(?<=[.!?])\s+(?=[A-Z])/)
-    .map((s) => s.replace(new RegExp(placeholder, "g"), ".").trim())
-    .filter(Boolean);
+    .flatMap((s) => {
+      const trimmed = s.replace(new RegExp(placeholder, "g"), ".").trim();
+      return trimmed ? [trimmed] : [];
+    });
+  return sentences;
 }
 
 interface RegionalSummary {
@@ -196,7 +199,7 @@ export default function AIOverview() {
   // an empty-state path when no regional summaries are present.
   useEffect(() => {
     let cancelled = false;
-    fetch("/news-summaries.json", { cache: "force-cache" })
+    fetch("/news-summaries.json", { cache: "no-store" })
       .then((r) => (r.ok ? r.json() : null))
       .then((data) => {
         if (!cancelled && data) setNewsSummaries(data as NewsSummariesShape);
