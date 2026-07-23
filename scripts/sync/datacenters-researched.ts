@@ -27,7 +27,7 @@ const ROOT = join(__dirname, "../..");
 const OUT_DIR = join(ROOT, "data/datacenters");
 const OUT_PATH = join(OUT_DIR, "researched.json");
 
-const MODEL = "claude-sonnet-4-6";
+const MODEL = process.env.ANTHROPIC_MODEL ?? "claude-sonnet-4-6";
 const MAX_STATES = process.env.RESEARCHED_MAX
   ? Number(process.env.RESEARCHED_MAX)
   : Infinity;
@@ -93,7 +93,10 @@ async function researchState(
   state: string,
   stateCode: string,
 ): Promise<DataCenter[]> {
-  const prompt = `Research data center facilities in ${state} (USA) as of April 2026.
+  const currentDate = new Date().toISOString().slice(0, 10);
+  const prompt = `Research data center facilities in ${state} (USA) as of ${currentDate}.
+
+Prioritize projects announced, approved, delayed, cancelled, opened, or materially updated in the last 90 days.
 
 Include:
 - Operational hyperscale and major colocation facilities
@@ -202,6 +205,11 @@ async function main() {
     console.log(`[researched]   ${name}`);
     try {
       const facilities = await researchState(anthropic, name, code);
+      if (force) {
+        existing.facilities = existing.facilities.filter(
+          (facility) => facility.state !== code,
+        );
+      }
       // Stamp id with state prefix if Claude returned bare slugs
       for (const f of facilities) {
         if (!f.id) continue;

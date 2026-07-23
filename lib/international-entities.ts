@@ -21,7 +21,7 @@ const HAND_CURATED: Entity[] = [
     stanceDatacenter: "concerning",
     stanceAI: "concerning",
     contextBlurb:
-      "The EU AI Act is the world's first comprehensive legal framework for AI — a risk-based regime that bans certain uses outright, forces conformity assessments on high-risk systems, and layers transparency duties on general-purpose models. Alongside it, the recast Energy Efficiency Directive imposes mandatory reporting, PUE disclosure, and waste-heat reuse on any data center above 500 kW.",
+      "The EU combines the AI Act's risk-based rules with an active infrastructure expansion strategy. Article 50 transparency guidance was published in July 2026 ahead of the August compliance date, while the June 2026 Cloud and AI Development Act proposal would accelerate energy-efficient data-center capacity and strengthen EU cloud sovereignty. The recast Energy Efficiency Directive already requires reporting and performance disclosure from data centers above 500 kW.",
     legislation: [
       {
         id: "eu-ai-act",
@@ -32,8 +32,10 @@ const HAND_CURATED: Entity[] = [
         stage: "Enacted",
         impactTags: [],
         category: "ai-governance",
-        updatedDate: "2026-03-12",
+        updatedDate: "2026-07-20",
         partyOrigin: "B",
+        sourceUrl:
+          "https://digital-strategy.ec.europa.eu/en/news/commission-publishes-guidelines-transparency-obligations-providers-and-deployers-certain-ai-systems",
       },
       {
         id: "eu-edd",
@@ -46,6 +48,46 @@ const HAND_CURATED: Entity[] = [
         category: "data-center-siting",
         updatedDate: "2026-02-28",
         partyOrigin: "B",
+      },
+      {
+        id: "eu-cada-2026",
+        billCode: "COM(2026) 502",
+        title: "Cloud and AI Development Act",
+        summary:
+          "European Commission proposal to accelerate energy-efficient data-center development, expand cloud and AI computing capacity, and create a framework for trusted EU cloud services and strategic digital sovereignty.",
+        stage: "Filed",
+        stance: "favorable",
+        dimensionStances: {
+          environmental: "review",
+          energy: "favorable",
+          community: "review",
+          "land-use": "favorable",
+        },
+        impactTags: [
+          "renewable-energy",
+          "grid-capacity",
+          "economic-development",
+        ],
+        category: "data-center-energy",
+        updatedDate: "2026-06-03",
+        partyOrigin: "B",
+        sourceUrl:
+          "https://digital-strategy.ec.europa.eu/en/library/proposal-cloud-and-ai-development-act-cada",
+      },
+      {
+        id: "eu-ai-act-article-50-guidelines",
+        billCode: "AI Act Art. 50",
+        title: "Guidelines on transparency obligations for certain AI systems",
+        summary:
+          "Commission guidance explains how providers and deployers should disclose AI interactions, mark synthetic content in machine-readable form, and label deepfakes and certain public-interest or emotion-recognition uses before Article 50 obligations apply on 2 August 2026.",
+        stage: "Enacted",
+        stance: "concerning",
+        impactTags: ["algorithmic-transparency", "deepfake-regulation"],
+        category: "synthetic-media",
+        updatedDate: "2026-07-20",
+        partyOrigin: "B",
+        sourceUrl:
+          "https://digital-strategy.ec.europa.eu/en/news/commission-publishes-guidelines-transparency-obligations-providers-and-deployers-certain-ai-systems",
       },
     ],
     keyFigures: [
@@ -135,6 +177,20 @@ const HAND_CURATED: Entity[] = [
         source: "DLA Piper",
         date: "2025-08-15",
         url: "https://www.dlapiper.com/en-us/insights/publications/2025/08/latest-wave-of-obligations-under-the-eu-ai-act-take-effect",
+      },
+      {
+        id: "eu-news-5",
+        headline: "Commission Proposes Cloud and AI Development Act",
+        source: "European Commission",
+        date: "2026-06-03",
+        url: "https://digital-strategy.ec.europa.eu/en/library/proposal-cloud-and-ai-development-act-cada",
+      },
+      {
+        id: "eu-news-6",
+        headline: "Commission Publishes AI Act Article 50 Transparency Guidelines",
+        source: "European Commission",
+        date: "2026-07-20",
+        url: "https://digital-strategy.ec.europa.eu/en/news/commission-publishes-guidelines-transparency-obligations-providers-and-deployers-certain-ai-systems",
       },
     ],
   },

@@ -1,5 +1,29 @@
 [
   {
+    "id": "iron-county-ut",
+    "name": "Iron County",
+    "fips": "49021",
+    "state": "Utah",
+    "stateCode": "UT",
+    "type": "county",
+    "actions": [
+      {
+        "title": "Meta Data Center Siting Approval (Cedar City area)",
+        "date": "2024-03-01",
+        "status": "enacted",
+        "summary": "Iron County and Cedar City area approved land and utility arrangements for a large Meta data center campus, part of Meta's broader Utah expansion leveraging cheap land and power in the region.",
+        "sourceUrl": "https://www.sltrib.com/news/2024/03/15/utah-data-centers-tech-companies/"
+      }
+    ],
+    "concerns": [
+      "water-consumption",
+      "grid-capacity",
+      "economic-development",
+      "job-creation"
+    ],
+    "contextBlurb": "Iron County in southwestern Utah has attracted data center interest due to its available land, relatively cool climate at elevation, and access to power infrastructure. Cedar City, the county seat, has been a focal point for large-scale tech facility siting discussions."
+  },
+  {
     "id": "utah-county-ut",
     "name": "Utah County",
     "fips": "49049",
@@ -8,21 +32,20 @@
     "type": "county",
     "actions": [
       {
-        "title": "(Eagle Mountain) Data center campus approval and development plans",
-        "date": "2024-06-01",
+        "title": "(Lehi) Data Center Zoning and Tax Incentive Reviews",
+        "date": "2024-01-01",
         "status": "enacted",
-        "summary": "Eagle Mountain City approved plans for large-scale data center development in the city, part of a broader push to attract hyperscale data center campuses to Utah County's west side.",
-        "sourceUrl": "https://www.deseret.com/utah/2024/06/18/eagle-mountain-data-centers-growth/"
+        "summary": "Lehi City, known as 'Silicon Slopes,' continued approving data center developments and associated tax incentive packages, with the Utah County area hosting multiple hyperscale facilities from companies including Adobe and Oracle.",
+        "sourceUrl": "https://www.deseretnews.com/tech/2024/01/10/silicon-slopes-data-centers-utah-county"
       }
     ],
     "concerns": [
       "water-consumption",
+      "tax-incentives",
       "grid-capacity",
-      "energy-rates",
-      "local-zoning",
       "economic-development"
     ],
-    "contextBlurb": "Utah County's western cities, particularly Eagle Mountain, have seen significant interest from data center developers attracted by available land and growing infrastructure. Water scarcity and power grid capacity remain key concerns for residents and planners."
+    "contextBlurb": "Utah County, home to the 'Silicon Slopes' tech corridor centered on Lehi, has become one of Utah's primary data center hubs. The area has grappled with balancing aggressive economic development incentives against water and grid infrastructure constraints."
   },
   {
     "id": "salt-lake-county-ut",
@@ -33,44 +56,27 @@
     "type": "county",
     "actions": [
       {
-        "title": "(West Jordan) Data center zoning and development review",
-        "date": "2024-09-01",
+        "title": "Utah Legislature / PUC Data Center Energy Rate Scrutiny",
+        "date": "2024-02-01",
         "status": "under-review",
-        "summary": "West Jordan and other Salt Lake County municipalities have reviewed zoning updates to accommodate growing demand for data center construction, balancing economic development with residential concerns.",
-        "sourceUrl": "https://www.sltrib.com/news/2024/08/29/utah-data-centers-are-multiplying/"
-      }
-    ],
-    "concerns": [
-      "grid-capacity",
-      "water-consumption",
-      "local-zoning",
-      "energy-rates",
-      "noise-vibration"
-    ],
-    "contextBlurb": "Salt Lake County has long been a hub for data center activity in the Wasatch Front corridor. Increasing demand from AI workloads has intensified discussions about power consumption, water use for cooling, and appropriate zoning near residential areas."
-  },
-  {
-    "id": "tooele-county-ut",
-    "name": "Tooele County",
-    "fips": "49045",
-    "state": "Utah",
-    "stateCode": "UT",
-    "type": "county",
-    "actions": [
+        "summary": "Salt Lake County stakeholders and the Utah Public Service Commission began scrutinizing preferential energy rate structures for large data centers, following concerns that hyperscale facilities were shifting grid upgrade costs onto residential ratepayers.",
+        "sourceUrl": "https://www.sltrib.com/news/2024/02/20/utah-data-centers-electricity-rates/"
+      },
       {
-        "title": "Data center development proposals on former industrial land",
-        "date": "2025-01-01",
+        "title": "(Salt Lake City) AI and Smart City Policy Framework Discussion",
+        "date": "2024-06-01",
         "status": "under-review",
-        "summary": "Tooele County has fielded proposals for large data center campuses on available industrial and brownfield land west of Salt Lake City, with discussions around water rights and power supply.",
-        "sourceUrl": "https://www.sltrib.com/news/2024/08/29/utah-data-centers-are-multiplying/"
+        "summary": "Salt Lake City began internal discussions on an AI governance and smart-city policy framework to guide municipal use of AI tools, including procurement standards and transparency requirements.",
+        "sourceUrl": "https://www.slc.gov/mayor/2024/06/salt-lake-city-technology-policy/"
       }
     ],
     "concerns": [
-      "water-consumption",
+      "energy-rates",
       "grid-capacity",
-      "economic-development",
-      "environmental-review"
+      "water-consumption",
+      "carbon-emissions",
+      "nda-transparency"
     ],
-    "contextBlurb": "Tooele County's vast open land and proximity to Salt Lake City's infrastructure make it attractive for data center siting, but water scarcity in the Great Salt Lake basin and power transmission limitations are significant concerns."
+    "contextBlurb": "Salt Lake County anchors Utah's data center boom and is home to major facilities operated by national hyperscalers. Rising concerns about water use from the Great Salt Lake watershed and electricity rate impacts on residents have prompted regulatory attention at both county and state levels."
   }
 ]

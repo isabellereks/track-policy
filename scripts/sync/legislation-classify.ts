@@ -48,6 +48,7 @@ const DIM_STANCE_CACHE_PATH = join(
 );
 const OUT_DIR = join(ROOT, "data/legislation");
 const OUT_STATES_DIR = join(OUT_DIR, "states");
+const SUPPLEMENTAL_PATH = join(OUT_DIR, "supplemental.json");
 
 interface ClaudeClassification {
   category: LegislationCategory;
@@ -107,6 +108,17 @@ interface OutFile {
   legislation: Legislation[];
 }
 
+/**
+ * LegiScan only covers bills. Keep executive orders and other material
+ * statewide actions in a small, source-backed supplement so they survive
+ * every automated reclassification pass.
+ */
+const supplementalLegislation: Record<string, Legislation[]> = existsSync(
+  SUPPLEMENTAL_PATH,
+)
+  ? JSON.parse(readFileSync(SUPPLEMENTAL_PATH, "utf8"))
+  : {};
+
 const STANCE_SEVERITY: Record<StanceType, number> = {
   restrictive: 4,
   concerning: 3,
@@ -136,6 +148,22 @@ const STATE_NAMES: Record<string, string> = {
 };
 
 function mapStage(bill: RawBill): Stage {
+  // Some legislatures report a terminal action in history without adding a
+  // matching progress event (South Dakota is a recurring example). Recognize
+  // only explicit terminal phrases so a failed amendment does not kill an
+  // otherwise live bill.
+  const recentHistory = (bill.history ?? [])
+    .slice(-6)
+    .map((item) => item.action)
+    .join(" ");
+  if (
+    /placed in (?:the )?legislative files?\.? \(dead\)|deferred to the 41st legislative day|do pass(?: amended)?, failed|tabled, passed/i.test(
+      recentHistory,
+    )
+  ) {
+    return "Dead";
+  }
+
   // Walk progress events backward to find the latest meaningful one
   const events = bill.progress ?? [];
   if (!events.length) return "Filed";
@@ -205,6 +233,22 @@ const CATEGORY_RULES: Array<{ cat: LegislationCategory; kw: RegExp }> = [
   { cat: "ai-governance", kw: /\b(artificial intelligence|AI (framework|governance|oversight|regulation))\b/i },
 ];
 
+const VALID_IMPACT_TAGS = new Set<ImpactTag>(
+  TAG_RULES.map(({ tag }) => tag),
+);
+const VALID_CATEGORIES = new Set<LegislationCategory>([
+  "data-center-siting",
+  "data-center-energy",
+  "ai-governance",
+  "synthetic-media",
+  "ai-healthcare",
+  "ai-workforce",
+  "ai-education",
+  "ai-government",
+  "data-privacy",
+  "ai-criminal-justice",
+]);
+
 function classifyCategory(text: string): LegislationCategory {
   for (const { cat, kw } of CATEGORY_RULES) {
     if (kw.test(text)) return cat;
@@ -220,7 +264,11 @@ function classifyTags(text: string): ImpactTag[] {
   return tags.slice(0, 5); // keep display manageable
 }
 
-function deriveStance(bill: RawBill, stage: Stage, category: LegislationCategory, tags: ImpactTag[]): StanceType {
+function deriveStance(
+  bill: RawBill,
+  stage: Stage,
+  category: LegislationCategory,
+): StanceType {
   const text = `${bill.title} ${bill.description ?? ""}`.toLowerCase();
   const isMoratorium = /moratorium|prohibit|ban\b/.test(text);
   const isIncentive = /incentive|exempt|credit|fast.?track/.test(text);
@@ -282,8 +330,15 @@ function stateStance(bills: Legislation[]): StanceType {
   // having become law yet.
   const opposition = tally.concerning + tally.restrictive;
 
-  // Multiple opposition bills (concerning + filed restrictions) → concerning
-  if (opposition >= 3) return "concerning";
+  // One advanced restriction, or a pair of live opposition bills (often
+  // House/Senate companions), is enough to show meaningful policy pressure.
+  // The old threshold of three understated active 2026 moratorium efforts.
+  const advancedOpposition = bills.filter(
+    (b) =>
+      (b.stance === "restrictive" || b.stance === "concerning") &&
+      (b.stage === "Floor" || b.stage === "Enacted"),
+  ).length;
+  if (advancedOpposition >= 1 || opposition >= 2) return "concerning";
 
   // More incentive bills than opposition AND at least 2 → favorable
   if (tally.favorable >= 2 && tally.favorable >= opposition) return "favorable";
@@ -346,7 +401,12 @@ function lensStance(bills: Legislation[], lens: "datacenter" | "ai"): StanceType
     const dimVotes = lensDims
       .map((d) => b.dimensionStances?.[d])
       .filter((s): s is StanceType => !!s);
-    const tagMatch = (b.impactTags ?? []).some((t) => tagSet.has(t));
+    const categoryMatch =
+      lens === "datacenter"
+        ? b.category.startsWith("data-center-")
+        : !b.category.startsWith("data-center-");
+    const tagMatch =
+      categoryMatch || (b.impactTags ?? []).some((t) => tagSet.has(t));
     if (dimVotes.length > 0) {
       // Pick the most severe stance across the lens's dimensions for this bill
       const severity: Record<StanceType, number> = {
@@ -378,10 +438,12 @@ function derivePartyOrigin(bill: RawBill): "R" | "D" | "B" | undefined {
 }
 
 function lastActionDate(bill: RawBill): string {
-  if (bill.status_date) return bill.status_date;
-  if (bill.progress?.length) return bill.progress[bill.progress.length - 1].date;
-  if (bill.history?.length) return bill.history[bill.history.length - 1].date;
-  return new Date().toISOString().slice(0, 10);
+  const dates = [
+    bill.status_date,
+    ...(bill.progress ?? []).map((item) => item.date),
+    ...(bill.history ?? []).map((item) => item.date),
+  ].filter((date): date is string => Boolean(date));
+  return dates.sort().at(-1) ?? new Date().toISOString().slice(0, 10);
 }
 
 function officialSourceUrl(bill: RawBill): string | undefined {
@@ -396,8 +458,13 @@ function toLegislation(bill: RawBill): Legislation {
   // the keyword heuristics for bills that Claude hasn't been run on
   // (or that failed JSON parsing).
   const claude = claudeCache[String(bill.bill_id)];
-  const category = claude?.category ?? classifyCategory(text);
-  const tags = claude?.impactTags ?? classifyTags(text);
+  const category =
+    claude?.category && VALID_CATEGORIES.has(claude.category)
+      ? claude.category
+      : classifyCategory(text);
+  const tags = (claude?.impactTags ?? classifyTags(text)).filter((tag) =>
+    VALID_IMPACT_TAGS.has(tag),
+  );
   const summary =
     claude?.summary ??
     (bill.description
@@ -410,7 +477,7 @@ function toLegislation(bill: RawBill): Legislation {
   // the heuristic `deriveStance` which considers stage, category, and
   // moratorium/incentive cues.
   const stance: StanceType =
-    claude?.stance ?? deriveStance(bill, stage, category, tags);
+    claude?.stance ?? deriveStance(bill, stage, category);
 
   const dimensionStances = dimStanceCache[String(bill.bill_id)];
 
@@ -455,6 +522,11 @@ function lensSlice(
   const dims = lens === "ai" ? AI_DIMS : DC_DIMS;
   return bills.filter((b) => {
     if (b.stance === "none") return false;
+    const categoryMatch =
+      lens === "datacenter"
+        ? b.category.startsWith("data-center-")
+        : !b.category.startsWith("data-center-");
+    if (categoryMatch) return true;
     if (dims.some((d) => b.dimensionStances?.[d])) return true;
     return (b.impactTags ?? []).some((t) => tagSet.has(t));
   });
@@ -597,7 +669,18 @@ function main() {
   for (const file of files) {
     const state = file.replace(".json", "");
     const raw = JSON.parse(readFileSync(join(RAW_BILLS_DIR, file), "utf8")) as RawBill[];
-    const legislation = raw.map(toLegislation);
+    // Keyword searches intentionally cast a wide net. Keep semantically
+    // rejected matches in the raw/cache layers for auditability, but do not
+    // surface them as tracked policy in the product.
+    const classifiedBills = raw
+      .map(toLegislation)
+      .filter((bill) => bill.stance !== "none");
+    const legislation = [...(supplementalLegislation[state] ?? []), ...classifiedBills]
+      .filter(
+        (bill, index, bills) =>
+          bills.findIndex((candidate) => candidate.id === bill.id) === index,
+      )
+      .sort((a, b) => b.updatedDate.localeCompare(a.updatedDate));
     const stateFull = state === "US" ? "United States" : STATE_NAMES[state] ?? state;
     const stanceDatacenter = lensStance(legislation, "datacenter");
     const stanceAI = lensStance(legislation, "ai");

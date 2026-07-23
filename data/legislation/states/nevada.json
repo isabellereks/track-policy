@@ -5,99 +5,16 @@
   "stance": "restrictive",
   "stanceDatacenter": "review",
   "stanceAI": "restrictive",
-  "lastUpdated": "2026-04-14",
-  "contextBlurb": "Nevada enacted a restrictive AI package this session that bans AI from making final calls on emergency-response decisions, restricts AI in mental and behavioral health care, and bars AI systems from posing as licensed providers. It also stood up a state Security Operations Center to handle cybersecurity.",
+  "lastUpdated": "2026-07-22",
+  "contextBlurb": "Nevada is leaning restrictive on AI, with no data-center legislation currently tracked. On AI: AB406 (enacted) — Prohibits certain AI uses in public schools, restricts how AI systems can be marketed and programmed for mental and behavioral health care, and bars AI from representing itself as…",
   "legislation": [
-    {
-      "id": "nv-ab226",
-      "billCode": "AB226",
-      "title": "Revises provisions relating to economic development. (BDR 32-690)",
-      "summary": "This bill requires businesses applying for transferable tax credits or tax abatements \u2014 which often include data centers \u2014 to agree to a community benefits agreement as a condition of approval. It adds a layer of community collaboration requirements to economic development incentives in Nevada.",
-      "stage": "Dead",
-      "stance": "concerning",
-      "impactTags": [
-        "tax-incentives",
-        "local-control",
-        "economic-development",
-        "nda-transparency"
-      ],
-      "category": "data-center-siting",
-      "updatedDate": "2025-06-10",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12228/Overview",
-      "legiscanUrl": "https://legiscan.com/NV/bill/AB226/2025",
-      "legiscanId": 1954989,
-      "sponsors": [
-        "Erica Mosca"
-      ]
-    },
-    {
-      "id": "nv-ab315",
-      "billCode": "AB315",
-      "title": "Requires applications to participate in Medicaid as a provider to be accompanied by a certain verification. (BDR 38-659)",
-      "summary": "This bill requires Medicaid provider applicants to verify their identity and signature when applying. It is not related to AI or data-center policy.",
-      "stage": "Enacted",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-healthcare",
-      "updatedDate": "2025-06-03",
-      "partyOrigin": "B",
-      "sourceUrl": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12400/Overview",
-      "legiscanUrl": "https://legiscan.com/NV/bill/AB315/2025",
-      "legiscanId": 1987319,
-      "sponsors": [
-        "Rebecca Edgeworth",
-        "AngelaTaylor"
-      ]
-    },
-    {
-      "id": "nv-ab77",
-      "billCode": "AB77",
-      "title": "Revises provisions governing tax abatements for certain businesses. (BDR 32-282)",
-      "summary": "This Nevada bill updates the rules for businesses seeking partial tax breaks, giving the state more flexibility to approve or deny applications based on the state's best interests. It also expands eligibility for property tax abatements to businesses involved in recycling materials or producing fuels from recycled materials.",
-      "stage": "Dead",
-      "stance": "favorable",
-      "impactTags": [
-        "tax-incentives",
-        "economic-development"
-      ],
-      "category": "data-center-energy",
-      "updatedDate": "2025-04-12",
-      "sourceUrl": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11897/Overview",
-      "legiscanUrl": "https://legiscan.com/NV/bill/AB77/2025",
-      "legiscanId": 1892654,
-      "sponsors": [
-        "Revenue"
-      ]
-    },
-    {
-      "id": "nv-sb403",
-      "billCode": "SB403",
-      "title": "Revises provisions relating to education. (BDR 34-611)",
-      "summary": "This bill makes changes to Nevada's education system, including competency-based learning, school scheduling, and career exploration programs. It does not address artificial intelligence or data center policy.",
-      "stage": "Dead",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-education",
-      "updatedDate": "2025-06-03",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12720/Overview",
-      "legiscanUrl": "https://legiscan.com/NV/bill/SB403/2025",
-      "legiscanId": 2009422,
-      "sponsors": [
-        "Marilyn Dondero Loop",
-        "Nicole Cannizzaro",
-        "Michelee Cruz-Crawford",
-        "Fabian Donate"
-      ]
-    },
     {
       "id": "nv-ab1",
       "billCode": "AB1",
       "title": "Revises provisions relating to governmental administration. (BDR 19-22)",
-      "summary": "This Nevada bill creates a Security Operations Center within the Governor's Technology Office to improve state cybersecurity, including a talent pipeline program and annual effectiveness reporting. It also exempts certain cybersecurity meetings between the executive branch and legislature from open meeting requirements to protect sensitive security information.",
+      "summary": "This Nevada bill establishes a Security Operations Center within the Governor's Technology Office to strengthen state cybersecurity, including workforce development through a Cybersecurity Talent Pipeline Program. It also exempts certain government cybersecurity meetings from open meeting requirements and creates dedicated funding for these efforts.",
       "stage": "Enacted",
-      "stance": "favorable",
+      "stance": "review",
       "impactTags": [
         "data-privacy"
       ],
@@ -111,105 +28,32 @@
       ]
     },
     {
-      "id": "nv-ab432",
-      "billCode": "AB432",
-      "title": "Revises provisions relating to governmental administration. (BDR 19-551)",
-      "summary": "This Nevada bill creates a Security Operations Center within the state's chief information office to oversee government cybersecurity, establishes a talent pipeline program for cybersecurity workers, and requires annual effectiveness reports. It also allows school districts to use state cybersecurity services and makes other updates to how government entities manage digital security.",
+      "id": "nv-ab226",
+      "billCode": "AB226",
+      "title": "Revises provisions relating to economic development. (BDR 32-690)",
+      "summary": "This Nevada bill requires businesses applying for transferable tax credits or tax abatements to agree to a community benefits agreement as a condition of approval. It adds accountability requirements to economic development incentives, which often apply to data centers seeking tax breaks in Nevada.",
       "stage": "Dead",
-      "stance": "review",
-      "dimensionStances": {
-        "ai-governance-dim": "none",
-        "ai-consumer": "none"
-      },
+      "stance": "concerning",
       "impactTags": [
-        "algorithmic-transparency",
-        "data-privacy"
+        "tax-incentives",
+        "economic-development",
+        "local-control"
       ],
-      "category": "ai-government",
-      "updatedDate": "2025-06-03",
-      "partyOrigin": "R",
-      "sourceUrl": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12631/Overview",
-      "legiscanUrl": "https://legiscan.com/NV/bill/AB432/2025",
-      "legiscanId": 2006511,
-      "sponsors": [
-        "Thaddeus Yurek"
-      ]
-    },
-    {
-      "id": "nv-sb119",
-      "billCode": "SB119",
-      "title": "Revises provisions relating to the NV Grow Program. (BDR S-81)",
-      "summary": "This bill revises the NV Grow Program, a small business development initiative, by updating oversight responsibilities and participation requirements. It is not related to AI or data-center policy.",
-      "stage": "Enacted",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2025-06-11",
+      "category": "data-center-energy",
+      "updatedDate": "2025-06-10",
       "partyOrigin": "D",
-      "sourceUrl": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12032/Overview",
-      "legiscanUrl": "https://legiscan.com/NV/bill/SB119/2025",
-      "legiscanId": 1942130,
+      "sourceUrl": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12228/Overview",
+      "legiscanUrl": "https://legiscan.com/NV/bill/AB226/2025",
+      "legiscanId": 1954989,
       "sponsors": [
-        "Dina Neal"
-      ]
-    },
-    {
-      "id": "nv-ab389",
-      "billCode": "AB389",
-      "title": "Revises provisions relating to education. (BDR 34-1056)",
-      "summary": "This bill updates Nevada's education data reporting and accountability systems, including how student performance metrics are collected and published. It does not address artificial intelligence or data center policy in any substantive way.",
-      "stage": "Dead",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-education",
-      "updatedDate": "2025-06-03",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12554/Overview",
-      "legiscanUrl": "https://legiscan.com/NV/bill/AB389/2025",
-      "legiscanId": 1999895,
-      "sponsors": [
-        "Selena Torres-Fossett"
-      ]
-    },
-    {
-      "id": "nv-sb495",
-      "billCode": "SB495",
-      "title": "Revises provisions relating to health care. (BDR 40-1037)",
-      "summary": "This bill makes broad updates to Nevada healthcare laws, covering topics like health information exchange, insurance prior authorization, Medicaid, and provider licensing. It does not address artificial intelligence or data center policy.",
-      "stage": "Dead",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-healthcare",
-      "updatedDate": "2025-06-03",
-      "sourceUrl": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12939/Overview",
-      "legiscanUrl": "https://legiscan.com/NV/bill/SB495/2025",
-      "legiscanId": 2031601,
-      "sponsors": [
-        "Health and Human Services"
-      ]
-    },
-    {
-      "id": "nv-ab339",
-      "billCode": "AB339",
-      "title": "Creates the Office of Children's Mental and Behavioral Health within the Office of the Director of the Department of Health and Human Services. (BDR 39-358)",
-      "summary": "This bill creates a new state office focused on children's mental and behavioral health services in Nevada. It has no connection to AI regulation or data-center policy.",
-      "stage": "Dead",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-healthcare",
-      "updatedDate": "2025-06-03",
-      "sourceUrl": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12431/Overview",
-      "legiscanUrl": "https://legiscan.com/NV/bill/AB339/2025",
-      "legiscanId": 1989916,
-      "sponsors": [
-        "Health and Human Services"
+        "Erica Mosca"
       ]
     },
     {
       "id": "nv-ab406",
       "billCode": "AB406",
       "title": "Makes various changes relating to health. (BDR 34-674)",
-      "summary": "This Nevada bill bans certain uses of AI in public schools, restricts how AI can be used in mental and behavioral health care, and prohibits AI systems from falsely presenting themselves as qualified mental health providers. It also requires the state Education Department to create a policy on AI use and establishes civil penalties for violations.",
+      "summary": "This Nevada bill prohibits certain AI uses in public schools, restricts how AI systems can be marketed and programmed for mental and behavioral health care, and bars AI from representing itself as a qualified mental health provider. It imposes civil penalties for violations and requires the state Department of Education to create an AI use policy.",
       "stage": "Enacted",
       "stance": "restrictive",
       "dimensionStances": {
@@ -235,10 +79,53 @@
       ]
     },
     {
+      "id": "nv-ab432",
+      "billCode": "AB432",
+      "title": "Revises provisions relating to governmental administration. (BDR 19-551)",
+      "summary": "This Nevada bill establishes a Security Operations Center within the state's Chief Information Officer office to oversee government cybersecurity, and creates a Cybersecurity Talent Pipeline Program to develop skilled workers. It also requires annual reporting on the center's effectiveness and allows school districts to use state cybersecurity services.",
+      "stage": "Dead",
+      "stance": "review",
+      "dimensionStances": {
+        "ai-governance-dim": "none",
+        "ai-consumer": "none"
+      },
+      "impactTags": [
+        "algorithmic-transparency"
+      ],
+      "category": "ai-government",
+      "updatedDate": "2025-06-03",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12631/Overview",
+      "legiscanUrl": "https://legiscan.com/NV/bill/AB432/2025",
+      "legiscanId": 2006511,
+      "sponsors": [
+        "Thaddeus Yurek"
+      ]
+    },
+    {
+      "id": "nv-ab73",
+      "billCode": "AB73",
+      "title": "Establishes requirements for certain communications relating to an election. (BDR 24-487)",
+      "summary": "This bill requires that campaign communications containing synthetic media include a clear disclosure to voters. It is designed to prevent deceptive use of deepfakes and manipulated media in political advertising and campaign materials.",
+      "stage": "Enacted",
+      "stance": "concerning",
+      "impactTags": [
+        "deepfake-regulation"
+      ],
+      "category": "synthetic-media",
+      "updatedDate": "2025-06-03",
+      "sourceUrl": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11888/Overview",
+      "legiscanUrl": "https://legiscan.com/NV/bill/AB73/2025",
+      "legiscanId": 1892638,
+      "sponsors": [
+        "Legislative Operations and Elections"
+      ]
+    },
+    {
       "id": "nv-ab325",
       "billCode": "AB325",
       "title": "Revises provisions relating to artificial intelligence. (BDR 36-393)",
-      "summary": "This bill prohibits AI from making final decisions about emergency response planning, resource allocation, or utility shutdowns during disasters in Nevada. Government agencies and public utilities must ensure humans remain in control of critical emergency decisions rather than relying solely on AI systems.",
+      "summary": "This bill requires that emergency management plans at the state and local level ensure humans—not AI—make final decisions about emergency response and resource allocation. It also prohibits utilities from relying solely on AI to decide whether to cut or shut down services during a disaster.",
       "stage": "Enacted",
       "stance": "restrictive",
       "impactTags": [
@@ -252,6 +139,150 @@
       "legiscanId": 1989648,
       "sponsors": [
         "Government Affairs"
+      ]
+    },
+    {
+      "id": "nv-ab77",
+      "billCode": "AB77",
+      "title": "Revises provisions governing tax abatements for certain businesses. (BDR 32-282)",
+      "summary": "This Nevada bill updates the rules for businesses seeking partial tax breaks, giving the state Office of Economic Development more flexibility to approve or deny applications based on the state's best interests. It also expands eligibility for property tax abatements to businesses that recycle materials or produce fuels from recycled materials.",
+      "stage": "Dead",
+      "stance": "favorable",
+      "impactTags": [
+        "tax-incentives",
+        "economic-development"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2025-04-12",
+      "sourceUrl": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11897/Overview",
+      "legiscanUrl": "https://legiscan.com/NV/bill/AB77/2025",
+      "legiscanId": 1892654,
+      "sponsors": [
+        "Revenue"
+      ]
+    },
+    {
+      "id": "nv-ab126",
+      "billCode": "AB126",
+      "title": "Revises provisions relating to pornography involving minors. (BDR 15-195)",
+      "summary": "This bill expands criminal prohibitions related to child sexual abuse material and likely addresses synthetic or digitally created child pornography. It imposes penalties for the creation and distribution of such material.",
+      "stage": "Dead",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-consumer": "restrictive",
+        "ai-synthetic": "restrictive"
+      },
+      "impactTags": [
+        "deepfake-regulation",
+        "child-safety"
+      ],
+      "category": "synthetic-media",
+      "updatedDate": "2025-04-12",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12045/Overview",
+      "legiscanUrl": "https://legiscan.com/NV/bill/AB126/2025",
+      "legiscanId": 1944647,
+      "sponsors": [
+        "Melissa Hardy"
+      ]
+    },
+    {
+      "id": "nv-ab295",
+      "billCode": "AB295",
+      "title": "Revises provisions relating to health insurance. (BDR 57-238)",
+      "summary": "Nevada requires health insurers using artificial intelligence in prior authorization decisions to meet specific regulatory requirements and mandates reporting on prior authorization practices. The bill establishes investigation and penalty mechanisms to enforce compliance with AI use restrictions in insurance decisions.",
+      "stage": "Dead",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-public": "concerning"
+      },
+      "impactTags": [
+        "ai-in-healthcare",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-healthcare",
+      "updatedDate": "2025-04-12",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12355/Overview",
+      "legiscanUrl": "https://legiscan.com/NV/bill/AB295/2025",
+      "legiscanId": 1983017,
+      "sponsors": [
+        "Thaddeus Yurek",
+        "Rebecca Edgeworth",
+        "Tracy Brown-May"
+      ]
+    },
+    {
+      "id": "nv-sb186",
+      "billCode": "SB186",
+      "title": "Imposes requirements concerning the use of artificial intelligence in health care. (BDR 40-780)",
+      "summary": "Nevada requires medical facilities and healthcare providers using generative AI to create patient communications to include specific disclosures about AI involvement. The bill establishes transparency requirements for AI-generated healthcare messages.",
+      "stage": "Dead",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-public": "concerning"
+      },
+      "impactTags": [
+        "ai-in-healthcare",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-healthcare",
+      "updatedDate": "2025-04-12",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12205/Overview",
+      "legiscanUrl": "https://legiscan.com/NV/bill/SB186/2025",
+      "legiscanId": 1954626,
+      "sponsors": [
+        "Jeff Stone"
+      ]
+    },
+    {
+      "id": "nv-ab271",
+      "billCode": "AB271",
+      "title": "Revises provisions relating to elections. (BDR 24-138)",
+      "summary": "Nevada law prohibits AI use in voting equipment and ballot processing, and bans deceptive synthetic media (deepfakes) of candidates from being distributed, with required disclosures for AI-generated campaign materials. Violations carry penalties.",
+      "stage": "Dead",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-consumer": "none",
+        "ai-synthetic": "restrictive"
+      },
+      "impactTags": [
+        "deepfake-regulation",
+        "child-safety"
+      ],
+      "category": "synthetic-media",
+      "updatedDate": "2025-04-12",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12321/Overview",
+      "legiscanUrl": "https://legiscan.com/NV/bill/AB271/2025",
+      "legiscanId": 1977147,
+      "sponsors": [
+        "Bert Gurr",
+        "Rich DeLong",
+        "Brian Hibbetts",
+        "Alexis Hansen"
+      ]
+    },
+    {
+      "id": "nv-ab531",
+      "billCode": "AB531",
+      "title": "Revises provisions relating to education. (BDR 34-525)",
+      "summary": "Nevada requires the Superintendent of Public Instruction to establish a committee to study and develop recommendations on the use of artificial intelligence in K-12 education. The bill also creates new reporting and tracking requirements for student attendance and performance metrics.",
+      "stage": "Dead",
+      "stance": "review",
+      "impactTags": [
+        "ai-in-education"
+      ],
+      "category": "ai-education",
+      "updatedDate": "2025-04-12",
+      "sourceUrl": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12822/Overview",
+      "legiscanUrl": "https://legiscan.com/NV/bill/AB531/2025",
+      "legiscanId": 2013451,
+      "sponsors": [
+        "Education"
       ]
     }
   ]

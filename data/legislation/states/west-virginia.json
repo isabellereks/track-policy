@@ -5,14 +5,353 @@
   "stance": "concerning",
   "stanceDatacenter": "concerning",
   "stanceAI": "concerning",
-  "lastUpdated": "2026-04-14",
-  "contextBlurb": "West Virginia is weighing an unusually hard-line package: banning all state and local subsidies to data centers, requiring a 500-foot setback from homes and schools, and letting regulators restrict data-center water withdrawals when harm is detected. A separate bill would limit AI use in mental-health care.",
+  "lastUpdated": "2026-07-22",
+  "contextBlurb": "West Virginia is advancing regulation across both data centers and AI. On data centers: HB5620 (in committee) — Restores local government authority over data-center siting decisions, preventing state-level preemption and allowing communities to maintain control over where data centers can be built. On AI: HB4770 (in committee) — Sets limits on how artificial intelligence can be used to deliver mental health care in West Virginia, allowing AI only for administrative tasks rather than direct patient care.",
   "legislation": [
+    {
+      "id": "wv-hb4481",
+      "billCode": "HB4481",
+      "title": "WV Load Forecast Accountability Act",
+      "summary": "This bill requires the Public Service Commission to oversee and enhance transparency in electric load forecasting submitted to PJM, the regional grid operator. While not data-center-specific, it addresses grid capacity planning that affects large energy consumers like data centers.",
+      "stage": "Committee",
+      "stance": "review",
+      "impactTags": [
+        "grid-capacity"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-03-13",
+      "partyOrigin": "R",
+      "sourceUrl": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4481&year=2026&sessiontype=RS&btype=bill",
+      "legiscanUrl": "https://legiscan.com/WV/bill/HB4481/2026",
+      "legiscanId": 2083724,
+      "sponsors": [
+        "James Akers",
+        "Clay Riley",
+        "Bob Fehrenbacher"
+      ]
+    },
+    {
+      "id": "wv-hb5611",
+      "billCode": "HB5611",
+      "title": "Certified Microgrid Program",
+      "summary": "This bill establishes rules for managing data center development in West Virginia counties where the ground is dominated by karst geology — a type of limestone terrain with underground water systems, caves, and sinkholes. It appears to impose special oversight or restrictions on data centers built in these environmentally sensitive areas to protect water resources.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "environmental": "concerning",
+        "energy": "review",
+        "community": "review",
+        "land-use": "concerning"
+      },
+      "impactTags": [
+        "local-zoning",
+        "environmental-review",
+        "water-infrastructure",
+        "local-control"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-02-16",
+      "partyOrigin": "R",
+      "sourceUrl": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5611&year=2026&sessiontype=RS&btype=bill",
+      "legiscanUrl": "https://legiscan.com/WV/bill/HB5611/2026",
+      "legiscanId": 2117316,
+      "sponsors": [
+        "Joe Funkhouser",
+        "Bill Ridenour"
+      ]
+    },
+    {
+      "id": "wv-hb5620",
+      "billCode": "HB5620",
+      "title": "To restore local control in the decision making process in regard to data centers",
+      "summary": "This bill restores local government authority over data-center siting decisions, preventing state-level preemption and allowing communities to maintain control over where data centers can be built. The measure shifts decision-making power back to counties and municipalities rather than state-level authorities.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "community": "favorable",
+        "land-use": "favorable"
+      },
+      "impactTags": [
+        "local-control",
+        "local-zoning"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-02-16",
+      "partyOrigin": "R",
+      "sourceUrl": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5620&year=2026&sessiontype=RS&btype=bill",
+      "legiscanUrl": "https://legiscan.com/WV/bill/HB5620/2026",
+      "legiscanId": 2117351,
+      "sponsors": [
+        "Laura Kimble"
+      ]
+    },
+    {
+      "id": "wv-hb5495",
+      "billCode": "HB5495",
+      "title": "Creating certain requirements and accountability procedures regarding a student’s use of software in a public school.",
+      "summary": "This bill establishes requirements and accountability procedures for how software, including AI-powered tools, can be used by students in West Virginia public schools. It aims to protect student data and ensure transparency in educational software implementation.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "review",
+        "ai-consumer": "concerning",
+        "ai-public": "concerning"
+      },
+      "impactTags": [
+        "ai-in-education",
+        "data-privacy",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-education",
+      "updatedDate": "2026-02-13",
+      "partyOrigin": "R",
+      "sourceUrl": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5495&year=2026&sessiontype=RS&btype=bill",
+      "legiscanUrl": "https://legiscan.com/WV/bill/HB5495/2026",
+      "legiscanId": 2116729,
+      "sponsors": [
+        "Jeffrey Stephens",
+        "Guy Ward",
+        "Bill Bell",
+        "Dana Ferrell"
+      ]
+    },
+    {
+      "id": "wv-hb5205",
+      "billCode": "HB5205",
+      "title": "Requiring the State Board of Education to create model policies on the use of technology and artifical intelligence in a public school classroom",
+      "summary": "West Virginia requires the State Board of Education to develop model policies governing artificial intelligence and technology use in public school classrooms, including definitions, county-level implementation guidance, and an AI sandbox course for student learning. The bill addresses AI standards and provides support for students with technology-related learning difficulties.",
+      "stage": "Committee",
+      "stance": "review",
+      "dimensionStances": {
+        "ai-governance-dim": "review",
+        "ai-public": "review"
+      },
+      "impactTags": [
+        "ai-in-education",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-education",
+      "updatedDate": "2026-02-05",
+      "partyOrigin": "R",
+      "sourceUrl": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5205&year=2026&sessiontype=RS&btype=bill",
+      "legiscanUrl": "https://legiscan.com/WV/bill/HB5205/2026",
+      "legiscanId": 2108811,
+      "sponsors": [
+        "Jeffrey Stephens",
+        "Jeff Campbell",
+        "Elliott Pritt",
+        "Bill Bell"
+      ]
+    },
+    {
+      "id": "wv-hb4770",
+      "billCode": "HB4770",
+      "title": "Establishing limitations on the use of artificial intelligence and artificial intelligence technology to deliver mental health care, with exceptions for administrative support functions",
+      "summary": "This bill sets limits on how artificial intelligence can be used to deliver mental health care in West Virginia, allowing AI only for administrative tasks rather than direct patient care. It establishes rules to ensure mental health treatment remains in the hands of human providers rather than AI systems.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-public": "restrictive"
+      },
+      "impactTags": [
+        "ai-in-healthcare",
+        "algorithmic-transparency",
+        "ai-safety"
+      ],
+      "category": "ai-healthcare",
+      "updatedDate": "2026-02-03",
+      "partyOrigin": "R",
+      "sourceUrl": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4770&year=2026&sessiontype=RS&btype=bill",
+      "legiscanUrl": "https://legiscan.com/WV/bill/HB4770/2026",
+      "legiscanId": 2091789,
+      "sponsors": [
+        "Evan Worrell",
+        "Michael Hite",
+        "Mickey Petitto"
+      ]
+    },
+    {
+      "id": "wv-hb5034",
+      "billCode": "HB5034",
+      "title": "Relating to biometric privacy",
+      "summary": "This West Virginia bill requires companies to inform consumers about how their genetic and biometric data is collected, used, and shared, while prohibiting the sale or transfer of that data to foreign adversaries. It also establishes storage requirements and gives consumers the right to sue for violations.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-governance-dim": "none",
+        "ai-consumer": "concerning"
+      },
+      "impactTags": [
+        "data-privacy",
+        "algorithmic-transparency"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-02-02",
+      "partyOrigin": "R",
+      "sourceUrl": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5034&year=2026&sessiontype=RS&btype=bill",
+      "legiscanUrl": "https://legiscan.com/WV/bill/HB5034/2026",
+      "legiscanId": 2103345,
+      "sponsors": [
+        "Laura Kimble",
+        "Chris Anders",
+        "Bill Ridenour",
+        "Margitta Mazzocchi"
+      ]
+    },
+    {
+      "id": "wv-hb5032",
+      "billCode": "HB5032",
+      "title": "Prevention of data center collection of citizen data",
+      "summary": "This bill prohibits data centers from being used for unconstitutional surveillance activities. It establishes transparency requirements to prevent misuse of citizen data collected through data center operations.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-governance-dim": "none",
+        "ai-consumer": "restrictive"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-02-02",
+      "partyOrigin": "R",
+      "sourceUrl": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5032&year=2026&sessiontype=RS&btype=bill",
+      "legiscanUrl": "https://legiscan.com/WV/bill/HB5032/2026",
+      "legiscanId": 2103453,
+      "sponsors": [
+        "Henry Dillon",
+        "Bill Ridenour",
+        "Bryan Ward",
+        "Ian Masters"
+      ]
+    },
+    {
+      "id": "wv-hb4948",
+      "billCode": "HB4948",
+      "title": "To create a buffer zone between a data center and residence, school or house of worship",
+      "summary": "This bill requires data centers in West Virginia to be built at least 500 feet away from homes, schools, and houses of worship. It is a direct siting restriction aimed at protecting nearby residents and communities from the potential negative effects of data center operations.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "community": "restrictive",
+        "land-use": "restrictive"
+      },
+      "impactTags": [
+        "local-zoning",
+        "residential-proximity",
+        "noise-vibration",
+        "local-control"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-01-29",
+      "partyOrigin": "R",
+      "sourceUrl": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4948&year=2026&sessiontype=RS&btype=bill",
+      "legiscanUrl": "https://legiscan.com/WV/bill/HB4948/2026",
+      "legiscanId": 2101590,
+      "sponsors": [
+        "Chris Anders",
+        "Larry Kump",
+        "Ian Masters",
+        "Laura Kimble"
+      ]
+    },
+    {
+      "id": "wv-sb658",
+      "billCode": "SB658",
+      "title": "Relating to certified microgrid district projects and certified high impact data center projects",
+      "summary": "This bill gives counties and municipalities in West Virginia the authority to regulate and oversee certified microgrid districts and high-impact data center projects in their areas. It shifts control away from the state level and back to local governments, giving communities more say over where and how data centers are built.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "community": "favorable",
+        "land-use": "favorable"
+      },
+      "impactTags": [
+        "local-control",
+        "local-zoning"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-01-29",
+      "partyOrigin": "D",
+      "sourceUrl": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=658&year=2026&sessiontype=RS&btype=bill",
+      "legiscanUrl": "https://legiscan.com/WV/bill/SB658/2026",
+      "legiscanId": 2101566,
+      "sponsors": [
+        "Joey Garcia"
+      ]
+    },
+    {
+      "id": "wv-hb4854",
+      "billCode": "HB4854",
+      "title": "Prohibiting the state or any political subdivision from subsidizing any data center in West Virginia",
+      "summary": "This bill would ban West Virginia state and local governments from providing any financial subsidies to data centers. It eliminates incentives like tax breaks or grants that governments might otherwise offer to attract data center businesses.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "impactTags": [
+        "tax-incentives",
+        "economic-development"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-01-28",
+      "partyOrigin": "R",
+      "sourceUrl": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4854&year=2026&sessiontype=RS&btype=bill",
+      "legiscanUrl": "https://legiscan.com/WV/bill/HB4854/2026",
+      "legiscanId": 2095566,
+      "sponsors": [
+        "Henry Dillon"
+      ]
+    },
+    {
+      "id": "wv-sb652",
+      "billCode": "SB652",
+      "title": "Relating to distribution of tax revenues collected from data centers",
+      "summary": "This bill directs 80% of property tax revenues from large data centers to the counties where they are located, increasing local fiscal benefits from data center development. The measure uses tax distribution policy to incentivize and support data center siting.",
+      "stage": "Committee",
+      "stance": "favorable",
+      "impactTags": [
+        "tax-incentives",
+        "economic-development"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-01-28",
+      "partyOrigin": "D",
+      "sourceUrl": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=652&year=2026&sessiontype=RS&btype=bill",
+      "legiscanUrl": "https://legiscan.com/WV/bill/SB652/2026",
+      "legiscanId": 2095680,
+      "sponsors": [
+        "Joey Garcia"
+      ]
+    },
+    {
+      "id": "wv-sb623",
+      "billCode": "SB623",
+      "title": "Establishing economic incentives for data centers to locate within WV",
+      "summary": "West Virginia offers tax incentives including B&O tax exemptions, sales tax breaks, and salvage value treatment to attract data centers to the state, with a focus on using locally generated coal power. The bill aims to stimulate economic development and job creation through preferential treatment of qualifying data center projects.",
+      "stage": "Committee",
+      "stance": "favorable",
+      "impactTags": [
+        "tax-incentives",
+        "economic-development",
+        "job-creation",
+        "carbon-emissions"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-01-27",
+      "partyOrigin": "R",
+      "sourceUrl": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=623&year=2026&sessiontype=RS&btype=bill",
+      "legiscanUrl": "https://legiscan.com/WV/bill/SB623/2026",
+      "legiscanId": 2094316,
+      "sponsors": [
+        "Brian Helton"
+      ]
+    },
     {
       "id": "wv-hb4832",
       "billCode": "HB4832",
       "title": "Relating to the use of state water resources",
-      "summary": "This bill requires large data centers in West Virginia to report their water usage to the state environmental agency, which can then restrict or ban their water withdrawals if harm to water resources is detected. It also directs the agency to analyze the impact of high-impact data centers on the state's public waterways.",
+      "summary": "This bill requires large data centers in West Virginia to report their water usage to state environmental regulators and allows those regulators to limit or ban data center water withdrawals if they harm water resources. It also requires the state to analyze how high-impact data centers affect public waterways.",
       "stage": "Committee",
       "stance": "concerning",
       "dimensionStances": {
@@ -40,38 +379,64 @@
       ]
     },
     {
-      "id": "wv-hb4770",
-      "billCode": "HB4770",
-      "title": "Establishing limitations on the use of artificial intelligence and artificial intelligence technology to deliver mental health care, with exceptions for administrative support functions",
-      "summary": "This bill limits how artificial intelligence can be used to deliver mental health care in West Virginia, allowing AI only for administrative tasks rather than direct patient care. It sets rules to ensure that mental health treatment decisions remain in the hands of licensed human professionals rather than AI systems.",
+      "id": "wv-hb4822",
+      "billCode": "HB4822",
+      "title": "To redirect data center tax revenue to PEIA, counties, and schools",
+      "summary": "This bill redirects tax revenue from high-impact data centers to fund public employee insurance, schools, and counties while expanding electric grid stabilization assistance to all utility types. The measure maintains favorable tax treatment for data centers while reallocating existing incentive revenues to public infrastructure and services.",
+      "stage": "Committee",
+      "stance": "favorable",
+      "impactTags": [
+        "tax-incentives",
+        "economic-development",
+        "grid-capacity"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-01-26",
+      "partyOrigin": "D",
+      "sourceUrl": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4822&year=2026&sessiontype=RS&btype=bill",
+      "legiscanUrl": "https://legiscan.com/WV/bill/HB4822/2026",
+      "legiscanId": 2093384,
+      "sponsors": [
+        "Evan Hansen",
+        "Sean Hornbuckle",
+        "Rick Garcia",
+        "Anitra Hamilton"
+      ]
+    },
+    {
+      "id": "wv-hb4683",
+      "billCode": "HB4683",
+      "title": "Prevent depletion of groundwater and aquifers",
+      "summary": "This bill protects West Virginia's groundwater and aquifer supplies by restricting data center cooling operations that could deplete these water resources. The legislation aims to prevent large-scale water extraction by data centers through enforceable protections.",
       "stage": "Committee",
       "stance": "restrictive",
       "dimensionStances": {
-        "ai-governance-dim": "concerning",
-        "ai-public": "restrictive"
+        "environmental": "restrictive",
+        "community": "concerning"
       },
       "impactTags": [
-        "ai-in-healthcare",
-        "algorithmic-transparency",
-        "ai-safety"
+        "water-consumption",
+        "environmental-review",
+        "local-control"
       ],
-      "category": "ai-healthcare",
-      "updatedDate": "2026-01-23",
+      "category": "data-center-energy",
+      "updatedDate": "2026-01-21",
       "partyOrigin": "R",
-      "sourceUrl": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4770&year=2026&sessiontype=RS&btype=bill",
-      "legiscanUrl": "https://legiscan.com/WV/bill/HB4770/2026",
-      "legiscanId": 2091789,
+      "sourceUrl": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4683&year=2026&sessiontype=RS&btype=bill",
+      "legiscanUrl": "https://legiscan.com/WV/bill/HB4683/2026",
+      "legiscanId": 2088013,
       "sponsors": [
-        "Evan Worrell",
-        "Michael Hite",
-        "Mickey Petitto"
+        "Chris Anders",
+        "Laura Kimble",
+        "Larry Kump",
+        "Henry Dillon"
       ]
     },
     {
       "id": "wv-sb498",
       "billCode": "SB498",
       "title": "Relating to pornography access for minors",
-      "summary": "This bill bans online platforms from showing pornographic content to minors and requires strict age verification systems to prevent access. Platforms that fail to comply face serious penalties.",
+      "summary": "This bill requires online platforms to implement strict age verification systems before allowing access to pornographic content, in order to prevent minors from viewing it. Platforms that fail to comply face serious penalties.",
       "stage": "Committee",
       "stance": "restrictive",
       "impactTags": [
@@ -92,219 +457,49 @@
       ]
     },
     {
-      "id": "wv-hb5551",
-      "billCode": "HB5551",
-      "title": "Protecting State Licensing and ID Act",
-      "summary": "This bill is about protecting state-issued IDs that do not comply with federal REAL ID standards. It is not related to AI regulation or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-government",
-      "updatedDate": "2026-02-16",
-      "partyOrigin": "R",
-      "sourceUrl": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5551&year=2026&sessiontype=RS&btype=bill",
-      "legiscanUrl": "https://legiscan.com/WV/bill/HB5551/2026",
-      "legiscanId": 2117278,
-      "sponsors": [
-        "Laura Kimble",
-        "Chris Anders",
-        "Tresa Howell",
-        "Margitta Mazzocchi"
-      ]
-    },
-    {
-      "id": "wv-hb4854",
-      "billCode": "HB4854",
-      "title": "Prohibiting the state or any political subdivision from subsidizing any data center in West Virginia",
-      "summary": "This bill would ban West Virginia state and local governments from providing any financial subsidies to data centers. It effectively removes public financial support such as tax breaks or grants that data centers might otherwise receive.",
+      "id": "wv-hb4509",
+      "billCode": "HB4509",
+      "title": "Relating to restoring local jurisdiction to state political subdivisions over certain electric power facilities.",
+      "summary": "This bill restores local government authority to regulate micro-grid districts and certified high-impact data centers, reversing state preemption and giving counties and municipalities zoning and oversight control. The measure empowers communities to have a say in siting and operation of large data center facilities within their jurisdictions.",
       "stage": "Committee",
       "stance": "restrictive",
-      "impactTags": [
-        "tax-incentives",
-        "economic-development"
-      ],
-      "category": "data-center-siting",
-      "updatedDate": "2026-01-28",
-      "partyOrigin": "R",
-      "sourceUrl": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4854&year=2026&sessiontype=RS&btype=bill",
-      "legiscanUrl": "https://legiscan.com/WV/bill/HB4854/2026",
-      "legiscanId": 2095566,
-      "sponsors": [
-        "Henry Dillon"
-      ]
-    },
-    {
-      "id": "wv-hb4948",
-      "billCode": "HB4948",
-      "title": "To create a buffer zone between a data center and residence, school or house of worship",
-      "summary": "This bill requires data centers in West Virginia to be built at least 500 feet away from any home, school, or house of worship. It creates a mandatory setback rule that would restrict where new data centers can be located.",
-      "stage": "Committee",
-      "stance": "restrictive",
-      "dimensionStances": {
-        "community": "restrictive",
-        "land-use": "restrictive"
-      },
-      "impactTags": [
-        "local-zoning",
-        "residential-proximity",
-        "noise-vibration",
-        "local-control"
-      ],
-      "category": "data-center-siting",
-      "updatedDate": "2026-01-29",
-      "partyOrigin": "R",
-      "sourceUrl": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4948&year=2026&sessiontype=RS&btype=bill",
-      "legiscanUrl": "https://legiscan.com/WV/bill/HB4948/2026",
-      "legiscanId": 2101590,
-      "sponsors": [
-        "Chris Anders",
-        "Larry Kump",
-        "Ian Masters",
-        "Laura Kimble"
-      ]
-    },
-    {
-      "id": "wv-hb5034",
-      "billCode": "HB5034",
-      "title": "Relating to biometric privacy",
-      "summary": "This bill creates a West Virginia law protecting genetic and biometric data by requiring companies to tell consumers how their genetic information is collected and used, and banning the sale or transfer of that data to foreign adversaries. It also gives individuals the right to sue if their genetic privacy rights are violated.",
-      "stage": "Committee",
-      "stance": "restrictive",
-      "dimensionStances": {
-        "ai-governance-dim": "none",
-        "ai-consumer": "concerning"
-      },
-      "impactTags": [
-        "data-privacy",
-        "algorithmic-transparency"
-      ],
-      "category": "data-privacy",
-      "updatedDate": "2026-02-02",
-      "partyOrigin": "R",
-      "sourceUrl": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5034&year=2026&sessiontype=RS&btype=bill",
-      "legiscanUrl": "https://legiscan.com/WV/bill/HB5034/2026",
-      "legiscanId": 2103345,
-      "sponsors": [
-        "Laura Kimble",
-        "Chris Anders",
-        "Bill Ridenour",
-        "Margitta Mazzocchi"
-      ]
-    },
-    {
-      "id": "wv-hb4592",
-      "billCode": "HB4592",
-      "title": "Relating to college campus safety",
-      "summary": "This bill updates school safety mapping requirements to include colleges and universities alongside K-12 schools. It is not related to AI or data-center policy.",
-      "stage": "Enacted",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-government",
-      "updatedDate": "2026-03-14",
-      "partyOrigin": "R",
-      "sourceUrl": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4592&year=2026&sessiontype=RS&btype=bill",
-      "legiscanUrl": "https://legiscan.com/WV/bill/HB4592/2026",
-      "legiscanId": 2086363,
-      "sponsors": [
-        "Michael Hornby",
-        "Josh Holstein",
-        "Jarred Cannon",
-        "Kathie Crouse"
-      ]
-    },
-    {
-      "id": "wv-hb4598",
-      "billCode": "HB4598",
-      "title": "Change Audit Log for annual subscription with Secretary of State",
-      "summary": "This bill updates voter list information provided through the Secretary of State's subscription service to include change audit data. It is not related to AI or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2026-01-20",
-      "partyOrigin": "R",
-      "sourceUrl": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4598&year=2026&sessiontype=RS&btype=bill",
-      "legiscanUrl": "https://legiscan.com/WV/bill/HB4598/2026",
-      "legiscanId": 2086506,
-      "sponsors": [
-        "Tresa Howell",
-        "Roland Jennings",
-        "Rick Hillenbrand",
-        "Dana Ferrell"
-      ]
-    },
-    {
-      "id": "wv-sb88",
-      "billCode": "SB88",
-      "title": "Relating to community air monitoring programs",
-      "summary": "This bill establishes community air monitoring programs in West Virginia and defines how the collected air quality data will be used. It is not related to AI regulation or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "data-center-energy",
-      "updatedDate": "2026-01-14",
-      "partyOrigin": "R",
-      "sourceUrl": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=88&year=2026&sessiontype=RS&btype=bill",
-      "legiscanUrl": "https://legiscan.com/WV/bill/SB88/2026",
-      "legiscanId": 2079537,
-      "sponsors": [
-        "Eric Tarr",
-        "Darren Thorne"
-      ]
-    },
-    {
-      "id": "wv-hb5611",
-      "billCode": "HB5611",
-      "title": "Certified Microgrid Program",
-      "summary": "This bill sets rules for how data centers can be built or managed in West Virginia counties where the ground is mostly made of karst geology \u2014 a porous limestone terrain that is especially vulnerable to groundwater contamination and sinkholes. It appears to impose specific oversight or restrictions on data center siting in these environmentally sensitive areas.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "dimensionStances": {
-        "environmental": "concerning",
-        "energy": "favorable",
-        "community": "review",
-        "land-use": "concerning"
-      },
-      "impactTags": [
-        "local-zoning",
-        "environmental-review",
-        "water-infrastructure",
-        "local-control"
-      ],
-      "category": "data-center-siting",
-      "updatedDate": "2026-02-16",
-      "partyOrigin": "R",
-      "sourceUrl": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5611&year=2026&sessiontype=RS&btype=bill",
-      "legiscanUrl": "https://legiscan.com/WV/bill/HB5611/2026",
-      "legiscanId": 2117316,
-      "sponsors": [
-        "Joe Funkhouser",
-        "Bill Ridenour"
-      ]
-    },
-    {
-      "id": "wv-sb658",
-      "billCode": "SB658",
-      "title": "Relating to certified microgrid district projects and certified high impact data center projects",
-      "summary": "This bill gives counties and municipalities in West Virginia more say over where and how data centers and microgrid projects are built in their communities. It shifts oversight authority away from the state level and back to local governments.",
-      "stage": "Committee",
-      "stance": "concerning",
       "dimensionStances": {
         "community": "favorable",
         "land-use": "favorable"
       },
       "impactTags": [
-        "local-zoning",
-        "local-control"
+        "local-control",
+        "local-zoning"
       ],
       "category": "data-center-siting",
-      "updatedDate": "2026-01-29",
+      "updatedDate": "2026-01-19",
       "partyOrigin": "D",
-      "sourceUrl": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=658&year=2026&sessiontype=RS&btype=bill",
-      "legiscanUrl": "https://legiscan.com/WV/bill/SB658/2026",
-      "legiscanId": 2101566,
+      "sourceUrl": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4509&year=2026&sessiontype=RS&btype=bill",
+      "legiscanUrl": "https://legiscan.com/WV/bill/HB4509/2026",
+      "legiscanId": 2085521,
       "sponsors": [
-        "Joey Garcia"
+        "Evan Hansen",
+        "Mike Pushkin",
+        "Sean Hornbuckle",
+        "Shawn Fluharty"
+      ]
+    },
+    {
+      "id": "wv-hb4194",
+      "billCode": "HB4194",
+      "title": "Community Air Monitoring",
+      "summary": "This bill authorizes West Virginia's environmental agency to install and monitor air quality near pollution-emitting facilities using fenceline monitors and allows community groups to submit air quality data for regulatory follow-up. While not data-center-specific, air monitoring could apply to large energy-intensive facilities.",
+      "stage": "Committee",
+      "stance": "review",
+      "impactTags": [],
+      "category": "data-center-energy",
+      "updatedDate": "2026-01-14",
+      "partyOrigin": "D",
+      "sourceUrl": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4194&year=2026&sessiontype=RS&btype=bill",
+      "legiscanUrl": "https://legiscan.com/WV/bill/HB4194/2026",
+      "legiscanId": 2078622,
+      "sponsors": [
+        "Evan Hansen"
       ]
     }
   ]

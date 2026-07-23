@@ -5,14 +5,41 @@
   "stance": "restrictive",
   "stanceDatacenter": "concerning",
   "stanceAI": "restrictive",
-  "lastUpdated": "2026-04-14",
-  "contextBlurb": "Kansas is moving a package that would ban new large data centers in counties under recent drought emergencies, require closed-loop cooling, and confine tax-exempt data centers to industrial-zoned land. Pending AI legislation would bar systems from simulating emotional relationships or posing as healthcare professionals.",
+  "lastUpdated": "2026-07-22",
+  "contextBlurb": "Kansas is advancing regulation on data centers and leaning restrictive on AI. On data centers: SB98 (enacted) — Offers sales tax exemptions to companies that invest at least $250 million in building or upgrading data centers in Kansas and create new jobs in the state. On AI: HB2183 (enacted) — Expands child sexual exploitation laws to cover AI-generated or digitally altered images that depict minors, even when no real child was directly used.",
   "legislation": [
+    {
+      "id": "ks-sb531",
+      "billCode": "SB531",
+      "title": "Prohibiting the development or operation of any new large load data center in a county that has had a drought emergency declared for such county pursuant to the Kansas emergency management act within the preceding three years.",
+      "summary": "This bill would ban new large data centers from being built or operated in any Kansas county that has experienced a drought emergency in the past three years. It is designed to protect water resources in drought-prone areas from the high water demands of large data center facilities.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "environmental": "restrictive",
+        "energy": "restrictive",
+        "community": "restrictive",
+        "land-use": "restrictive"
+      },
+      "impactTags": [
+        "water-consumption",
+        "local-zoning",
+        "water-infrastructure"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-03-10",
+      "sourceUrl": "https://kslegislature.gov/li/b2025_26/measures/sb531/",
+      "legiscanUrl": "https://legiscan.com/KS/bill/SB531/2025",
+      "legiscanId": 2131327,
+      "sponsors": [
+        "Federal and State Affairs"
+      ]
+    },
     {
       "id": "ks-sb526",
       "billCode": "SB526",
       "title": "Requiring data centers to be located on land that was zoned for industrial or manufacturing uses or was not zoned on July 1, 2025, to qualify for the sales tax exemption for qualified data centers.",
-      "summary": "This bill requires data centers to be built on land already zoned for industrial or manufacturing use (or unzoned) as of July 1, 2025, in order to qualify for a sales tax exemption. It effectively restricts where data centers can be located to receive tax benefits, steering them away from residential or commercial zones.",
+      "summary": "This Kansas bill restricts eligibility for a sales tax exemption to data centers built on land that was already zoned for industrial or manufacturing use (or unzoned) as of July 1, 2025. This effectively limits where data centers can be built to receive the tax break, steering them away from residential or commercial zones.",
       "stage": "Committee",
       "stance": "concerning",
       "dimensionStances": {
@@ -21,7 +48,8 @@
       },
       "impactTags": [
         "local-zoning",
-        "tax-incentives"
+        "tax-incentives",
+        "local-control"
       ],
       "category": "data-center-siting",
       "updatedDate": "2026-03-04",
@@ -33,140 +61,10 @@
       ]
     },
     {
-      "id": "ks-hb2313",
-      "billCode": "HB2313",
-      "title": "Senate Substitute for HB 2313 by Committee on Federal and State Affairs - Prohibiting the use of the artificial intelligence platform DeepSeek and other artificial intelligence platforms controlled by a country of concern on state-owned devices and on any state network and the use of genetic sequencers or operational software used for genetic analysis that is produced in a foreign adversary.",
-      "summary": "This Kansas bill bans the use of DeepSeek and other AI platforms controlled by foreign adversary nations on state-owned devices and government networks. It also prohibits state use of genetic sequencing equipment or software produced by foreign adversaries.",
-      "stage": "Enacted",
-      "stance": "restrictive",
-      "dimensionStances": {
-        "ai-governance-dim": "restrictive",
-        "ai-consumer": "none"
-      },
-      "impactTags": [
-        "ai-safety",
-        "data-privacy"
-      ],
-      "category": "ai-government",
-      "updatedDate": "2025-04-10",
-      "sourceUrl": "https://kslegislature.gov/li/b2025_26/measures/hb2313/",
-      "legiscanUrl": "https://legiscan.com/KS/bill/HB2313/2025",
-      "legiscanId": 1959326,
-      "sponsors": [
-        "Federal and State Affairs"
-      ]
-    },
-    {
-      "id": "ks-sb51",
-      "billCode": "SB51",
-      "title": "House Substitute for SB 51 by Committee on Legislative Modernization - Authorizing the chief information security officer to receive audit reports, updating statutes related to services provided by the chief information technology officer and authorizing the office of information technology services to provide certain services to political subdivisions and hospitals.",
-      "summary": "This bill updates Kansas state IT governance by clarifying the roles of the chief information security officer and chief information technology officer, and allows the state IT office to offer services to local governments and hospitals. It does not address AI regulation or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-government",
-      "updatedDate": "2025-02-20",
-      "sourceUrl": "https://kslegislature.gov/li/b2025_26/measures/sb51/",
-      "legiscanUrl": "https://legiscan.com/KS/bill/SB51/2025",
-      "legiscanId": 1931363,
-      "sponsors": [
-        "Legislative Modernization"
-      ]
-    },
-    {
-      "id": "ks-sb98",
-      "billCode": "SB98",
-      "title": "Providing a sales tax exemption for the construction or remodeling of a qualified data center in Kansas and the purchase of data center equipment, eligible data center costs and certain labor costs to qualified firms that commit to a minimum investment of at least $250,000,000 and meet new Kansas jobs and other requirements.",
-      "summary": "This bill gives data center companies a sales tax break on construction, equipment, and related costs if they invest at least $250 million and create new jobs in Kansas. It is designed to attract large data center investments to the state.",
-      "stage": "Enacted",
-      "stance": "favorable",
-      "impactTags": [
-        "tax-incentives",
-        "job-creation",
-        "economic-development"
-      ],
-      "category": "data-center-siting",
-      "updatedDate": "2025-04-11",
-      "partyOrigin": "R",
-      "sourceUrl": "https://kslegislature.gov/li/b2025_26/measures/sb98/",
-      "legiscanUrl": "https://legiscan.com/KS/bill/SB98/2025",
-      "legiscanId": 1946546,
-      "sponsors": [
-        "Tim Shallenburger"
-      ]
-    },
-    {
-      "id": "ks-sb531",
-      "billCode": "SB531",
-      "title": "Prohibiting the development or operation of any new large load data center in a county that has had a drought emergency declared for such county pursuant to the Kansas emergency management act within the preceding three years.",
-      "summary": "This bill would ban the construction or operation of new large data centers in Kansas counties that have experienced a drought emergency in the past three years. It aims to protect water resources in drought-stressed areas from the heavy water demands of large data center facilities.",
-      "stage": "Committee",
-      "stance": "restrictive",
-      "dimensionStances": {
-        "environmental": "restrictive",
-        "community": "concerning",
-        "land-use": "restrictive"
-      },
-      "impactTags": [
-        "water-consumption",
-        "local-zoning",
-        "environmental-review"
-      ],
-      "category": "data-center-siting",
-      "updatedDate": "2026-03-09",
-      "sourceUrl": "https://kslegislature.gov/li/b2025_26/measures/sb531/",
-      "legiscanUrl": "https://legiscan.com/KS/bill/SB531/2025",
-      "legiscanId": 2131327,
-      "sponsors": [
-        "Federal and State Affairs"
-      ]
-    },
-    {
-      "id": "ks-hb2329",
-      "billCode": "HB2329",
-      "title": "Changing the name of juvenile crisis intervention centers to juvenile stabilization centers, modifying the intake criteria for such centers, prohibiting certain rules and regulations for such centers, modifying the treatment and services provided by such centers, increasing the cumulative detention limit for juvenile offenders and criminal penalties for juvenile offenders who use a firearm in the commission of an offense or who are repeat offenders, providing for increased placement of offenders in non-foster home beds in youth residential facilities, requiring the secretary of corrections to pay for the costs associated with such placements, authorizing the secretary to make expenditures from the evidence-based programs account of the state general fund moneys to contract for such beds and transferring moneys from such account of the state general fund to the department for children and families to provide juvenile stabilization services.",
-      "summary": "This bill renames juvenile crisis intervention centers, changes how juveniles are processed and detained, and adjusts criminal penalties for juvenile offenders. It has no relevance to AI or data-center policy.",
-      "stage": "Enacted",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-criminal-justice",
-      "updatedDate": "2026-04-09",
-      "sourceUrl": "https://kslegislature.gov/li/b2025_26/measures/hb2329/",
-      "legiscanUrl": "https://legiscan.com/KS/bill/HB2329/2025",
-      "legiscanId": 1962315,
-      "sponsors": [
-        "Corrections and Juvenile Justice"
-      ]
-    },
-    {
-      "id": "ks-sb400",
-      "billCode": "SB400",
-      "title": "Requiring data centers to use closed-loop cooling systems to mitigate water consumption.",
-      "summary": "This bill would require data centers in Kansas to use closed-loop cooling systems, which recirculate water rather than continuously drawing fresh water. The goal is to reduce the amount of water data centers consume from local supplies.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "dimensionStances": {
-        "environmental": "concerning",
-        "energy": "concerning"
-      },
-      "impactTags": [
-        "water-consumption",
-        "water-infrastructure"
-      ],
-      "category": "data-center-energy",
-      "updatedDate": "2026-01-27",
-      "sourceUrl": "https://kslegislature.gov/li/b2025_26/measures/sb400/",
-      "legiscanUrl": "https://legiscan.com/KS/bill/SB400/2025",
-      "legiscanId": 2094944,
-      "sponsors": [
-        "Utilities"
-      ]
-    },
-    {
       "id": "ks-sb405",
       "billCode": "SB405",
       "title": "Making it unlawful for a person to knowingly train artificial intelligence to encourage or support suicide or the unlawful killing of another person, provide emotional support, develop emotional relationships, act as a healthcare professional, simulate humans or encourage isolation.",
-      "summary": "This bill would make it illegal to train AI systems to encourage suicide or violence, form emotional bonds with users, pose as healthcare professionals, or simulate human relationships. It broadly restricts AI from providing emotional support or encouraging social isolation.",
+      "summary": "This Kansas bill would make it illegal to train AI systems to encourage suicide or violence, provide emotional support, form emotional bonds with users, impersonate healthcare professionals, simulate being human, or promote social isolation. It broadly restricts a wide range of AI behaviors related to mental health, companionship, and human simulation.",
       "stage": "Committee",
       "stance": "restrictive",
       "dimensionStances": {
@@ -182,7 +80,7 @@
         "deepfake-regulation"
       ],
       "category": "ai-healthcare",
-      "updatedDate": "2026-01-28",
+      "updatedDate": "2026-02-09",
       "sourceUrl": "https://kslegislature.gov/li/b2025_26/measures/sb405/",
       "legiscanUrl": "https://legiscan.com/KS/bill/SB405/2025",
       "legiscanId": 2100899,
@@ -191,10 +89,27 @@
       ]
     },
     {
+      "id": "ks-hb2592",
+      "billCode": "HB2592",
+      "title": "Creating the Kansas task force on artificial intelligence and emerging technologies to study such technologies and make recommendations to the legislature.",
+      "summary": "Kansas establishes a task force to study artificial intelligence and emerging technologies and provide recommendations to the legislature. This is exploratory work without immediate regulatory restrictions.",
+      "stage": "Committee",
+      "stance": "review",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-09",
+      "sourceUrl": "https://kslegislature.gov/li/b2025_26/measures/hb2592/",
+      "legiscanUrl": "https://legiscan.com/KS/bill/HB2592/2025",
+      "legiscanId": 2101896,
+      "sponsors": [
+        "Legislative Modernization"
+      ]
+    },
+    {
       "id": "ks-hb2183",
       "billCode": "HB2183",
       "title": "Modifying elements in the crimes of sexual exploitation of a child, unlawful transmission of a visual depiction of a child and breach of privacy to prohibit certain acts related to visual depictions in which the person depicted is indistinguishable from a real child, morphed from a real child's image or generated without any actual child involvement, provide an exception for cable services in the crime of breach of privacy and prohibit dissemination of certain items that appear to depict or purport to depict an identifiable person.",
-      "summary": "This bill updates Kansas criminal law to ban the creation and distribution of AI-generated or digitally altered sexual images of children, even when no real child was directly involved in making them. It also prohibits sharing realistic fake explicit images of identifiable real people without their consent.",
+      "summary": "This Kansas bill expands child sexual exploitation laws to cover AI-generated or digitally altered images that depict minors, even when no real child was directly used. It also prohibits sharing synthetic media that realistically depicts an identifiable person without their consent.",
       "stage": "Enacted",
       "stance": "restrictive",
       "dimensionStances": {
@@ -216,10 +131,35 @@
       ]
     },
     {
+      "id": "ks-sb467",
+      "billCode": "SB467",
+      "title": "Enacting the use of artificial intelligence in medical decisions transparency act and requiring that all medical necessity determinations be made by a competent licensed physician or healthcare professional.",
+      "summary": "This bill requires that medical necessity determinations be made by licensed physicians or healthcare professionals rather than AI systems, and mandates transparency when AI is used in medical decisions. It establishes human oversight as a legal requirement for critical healthcare decisions.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-public": "restrictive"
+      },
+      "impactTags": [
+        "ai-in-healthcare",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-healthcare",
+      "updatedDate": "2026-02-04",
+      "partyOrigin": "D",
+      "sourceUrl": "https://kslegislature.gov/li/b2025_26/measures/sb467/",
+      "legiscanUrl": "https://legiscan.com/KS/bill/SB467/2025",
+      "legiscanId": 2106531,
+      "sponsors": [
+        "Cindy Holscher"
+      ]
+    },
+    {
       "id": "ks-hb2664",
       "billCode": "HB2664",
       "title": "Establishing the private energy campus and industrial host-site electric generation act to authorize the provision of energy services to private enterprises located on a private energy campus.",
-      "summary": "This bill creates a framework allowing private companies to develop dedicated energy campuses that generate and supply electricity directly to businesses on-site, bypassing traditional utility arrangements. It is designed to attract large power-hungry industrial and tech facilities, such as data centers, by enabling customized energy services.",
+      "summary": "This bill creates a legal framework allowing private energy campuses to generate and supply electricity directly to businesses located on their property, bypassing traditional utility arrangements. It is designed to support large energy consumers like data centers or industrial facilities that want to manage their own power supply.",
       "stage": "Committee",
       "stance": "favorable",
       "impactTags": [
@@ -241,37 +181,73 @@
       ]
     },
     {
-      "id": "ks-hb2475",
-      "billCode": "HB2475",
-      "title": "Providing a sales tax exemption for purchases made by radical life inc.",
-      "summary": "This bill provides a sales tax exemption for purchases made by a specific organization called Radical Life Inc. It has no substantive connection to AI regulation or data-center policy.",
+      "id": "ks-sb400",
+      "billCode": "SB400",
+      "title": "Requiring data centers to use closed-loop cooling systems to mitigate water consumption.",
+      "summary": "This bill would require data centers in Kansas to use closed-loop cooling systems, which recirculate water rather than continuously drawing fresh water. The goal is to reduce the amount of water data centers consume during their operations.",
       "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2026-01-20",
-      "sourceUrl": "https://kslegislature.gov/li/b2025_26/measures/hb2475/",
-      "legiscanUrl": "https://legiscan.com/KS/bill/HB2475/2025",
-      "legiscanId": 2087018,
+      "stance": "concerning",
+      "dimensionStances": {
+        "environmental": "concerning",
+        "energy": "concerning"
+      },
+      "impactTags": [
+        "water-consumption",
+        "water-infrastructure"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-01-28",
+      "sourceUrl": "https://kslegislature.gov/li/b2025_26/measures/sb400/",
+      "legiscanUrl": "https://legiscan.com/KS/bill/SB400/2025",
+      "legiscanId": 2094944,
       "sponsors": [
-        "Taxation"
+        "Utilities"
       ]
     },
     {
-      "id": "ks-hb2366",
-      "billCode": "HB2366",
-      "title": "Expanding the scope of practice of naturopathic doctors, specifying continuing education requirements, increasing the required amount of professional liability insurance and modifying certain provisions relating to the licensure and regulations of naturopathic doctors.",
-      "summary": "This bill updates the rules and requirements for naturopathic doctors in Kansas, including their scope of practice and insurance requirements. It has no connection to AI or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-healthcare",
-      "updatedDate": "2025-02-07",
-      "sourceUrl": "https://kslegislature.gov/li/b2025_26/measures/hb2366/",
-      "legiscanUrl": "https://legiscan.com/KS/bill/HB2366/2025",
-      "legiscanId": 1962573,
+      "id": "ks-sb98",
+      "billCode": "SB98",
+      "title": "Providing a sales tax exemption for the construction or remodeling of a qualified data center in Kansas and the purchase of data center equipment, eligible data center costs and certain labor costs to qualified firms that commit to a minimum investment of at least $250,000,000 and meet new Kansas jobs and other requirements.",
+      "summary": "This bill offers sales tax exemptions to companies that invest at least $250 million in building or upgrading data centers in Kansas and create new jobs in the state. It is designed to attract large data center operators to Kansas through significant financial incentives.",
+      "stage": "Enacted",
+      "stance": "favorable",
+      "impactTags": [
+        "tax-incentives",
+        "job-creation",
+        "economic-development"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2025-04-11",
+      "partyOrigin": "R",
+      "sourceUrl": "https://kslegislature.gov/li/b2025_26/measures/sb98/",
+      "legiscanUrl": "https://legiscan.com/KS/bill/SB98/2025",
+      "legiscanId": 1946546,
       "sponsors": [
-        "Health and Human Services"
+        "Tim Shallenburger"
+      ]
+    },
+    {
+      "id": "ks-hb2313",
+      "billCode": "HB2313",
+      "title": "Senate Substitute for HB 2313 by Committee on Federal and State Affairs - Prohibiting the use of the artificial intelligence platform DeepSeek and other artificial intelligence platforms controlled by a country of concern on state-owned devices and on any state network and the use of genetic sequencers or operational software used for genetic analysis that is produced in a foreign adversary.",
+      "summary": "This bill bans the use of DeepSeek and other AI platforms controlled by foreign adversary nations on Kansas state-owned devices and networks. It also prohibits the use of genetic sequencers or related software produced by foreign adversaries on state systems.",
+      "stage": "Enacted",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-governance-dim": "restrictive",
+        "ai-consumer": "none"
+      },
+      "impactTags": [
+        "ai-safety",
+        "data-privacy"
+      ],
+      "category": "ai-government",
+      "updatedDate": "2025-04-10",
+      "sourceUrl": "https://kslegislature.gov/li/b2025_26/measures/hb2313/",
+      "legiscanUrl": "https://legiscan.com/KS/bill/HB2313/2025",
+      "legiscanId": 1959326,
+      "sponsors": [
+        "Federal and State Affairs"
       ]
     }
   ]

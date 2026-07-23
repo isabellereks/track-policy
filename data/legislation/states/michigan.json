@@ -3,41 +3,222 @@
   "stateCode": "MI",
   "region": "na",
   "stance": "concerning",
-  "stanceDatacenter": "none",
+  "stanceDatacenter": "concerning",
   "stanceAI": "concerning",
-  "lastUpdated": "2026-04-14",
-  "contextBlurb": "Michigan's legislature is actively debating a broad but fragmented AI and data policy agenda, with particular attention to protecting vulnerable populations — including a proposed ban on companion chatbots for minors (SB0760) and a kids' online code (SB0758) — alongside worker protections that would restrict employer use of automated decision tools (HB5579). The state is also navigating tension around data center incentives, with bills tied to restructuring the Michigan Strategic Fund raising questions about how aggressively the state will compete for AI infrastructure investment. None of these measures have cleared committee, leaving Michigan without enacted guardrails even as the scope of proposed regulation signals growing legislative concern.",
+  "lastUpdated": "2026-07-22",
+  "contextBlurb": "Michigan is advancing regulation across both data centers and AI. On data centers: Executive Plan (enacted) — The governor's action plan sets guardrails intended to keep data-center infrastructure costs off residential ratepayers, protect grid reliability and water resources, expand clean energy, and secur… On AI: SB1077 (in committee) — Prohibits employers from using electronic monitoring or automated decision-making tools in hiring, scheduling, and performance evaluation unless specific exceptions apply.",
   "legislation": [
     {
-      "id": "mi-sb0198",
-      "billCode": "SB0198",
-      "title": "Occupations: vehicles, dealers, and repair facilities; requirements for automobile dealer data collection; provide for. Creates new act.",
-      "summary": "This bill creates new rules governing how automobile dealers collect and handle customer data. It establishes requirements around what data can be gathered and how it must be managed, aiming to protect consumer privacy in car dealership transactions.",
-      "stage": "Committee",
-      "stance": "concerning",
+      "id": "mi-affordable-responsible-growth-plan-2026",
+      "billCode": "Executive Plan",
+      "title": "Launches the Michigan Affordable and Responsible Growth Action Plan for data centers",
+      "summary": "The governor's action plan sets guardrails intended to keep data-center infrastructure costs off residential ratepayers, protect grid reliability and water resources, expand clean energy, and secure jobs and community benefits. It calls on lawmakers to codify the protections; six major technology companies separately signed a voluntary pledge supporting the framework.",
+      "stage": "Enacted",
+      "stance": "review",
       "dimensionStances": {
-        "ai-governance-dim": "none",
-        "ai-consumer": "concerning"
+        "environmental": "review",
+        "energy": "concerning",
+        "community": "review",
+        "land-use": "review"
       },
       "impactTags": [
-        "data-privacy",
-        "algorithmic-transparency"
+        "energy-rates",
+        "grid-capacity",
+        "water-consumption",
+        "renewable-energy",
+        "job-creation",
+        "local-control"
       ],
-      "category": "data-privacy",
-      "updatedDate": "2026-01-28",
+      "category": "data-center-energy",
+      "updatedDate": "2026-07-16",
       "partyOrigin": "D",
-      "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0198",
-      "legiscanUrl": "https://legiscan.com/MI/bill/SB0198/2025",
-      "legiscanId": 2011578,
+      "sourceUrl": "https://www.michigan.gov/whitmer/news/press-releases/2026/07/15/gov-whitmer-data"
+    },
+    {
+      "id": "mi-sb1047",
+      "billCode": "SB1047",
+      "title": "Public utilities: rates; separate rate class for large-load customers; require. Amends 1939 PA 3 (MCL 460.1 - 460.11) by adding sec. 10ii.",
+      "summary": "Michigan SB1047 requires utilities to establish a separate rate class for large-load customers, potentially allowing data centers and other industrial users preferential electricity pricing. This creates a regulatory framework that could incentivize data-center development by offering cost advantages through customized utility rates.",
+      "stage": "Committee",
+      "stance": "favorable",
+      "impactTags": [
+        "energy-rates",
+        "grid-capacity"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-07-01",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-1047",
+      "legiscanUrl": "https://legiscan.com/MI/bill/SB1047/2025",
+      "legiscanId": 2154105,
       "sponsors": [
-        "Samir Singh"
+        "Mallory McMorrow",
+        "Dayna Polehanki",
+        "Stephanie Chang",
+        "Darrin Camilleri"
       ]
     },
     {
-      "id": "mi-sb0760",
-      "billCode": "SB0760",
-      "title": "Trade: business regulation; availability of companion chatbots to minors; prohibit. Creates new act.",
-      "summary": "This bill would ban companion chatbots from being made available to minors in Michigan. It creates a new law specifically targeting AI-powered social or emotional companion apps that children could access.",
+      "id": "mi-hb6139",
+      "billCode": "HB6139",
+      "title": "Construction: permits; acoustic engineering report for data center; require to receive building permit. Amends 1972 PA 230 (MCL 125.1501 - 125.1531) by adding sec. 10a. TIE BAR WITH: HB 6135'26, HB 6140'26, HB 6141'26, HB 6137'26, HB 6138'26, HB 6142'26",
+      "summary": "Michigan requires data centers to submit acoustic engineering reports before receiving building permits, establishing noise standards as a condition for construction approval. This represents a regulatory requirement that gives local authorities control over data center siting through mandatory environmental review.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "environmental": "review",
+        "community": "concerning"
+      },
+      "impactTags": [
+        "noise-vibration",
+        "local-control",
+        "environmental-review"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-06-30",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6139",
+      "legiscanUrl": "https://legiscan.com/MI/bill/HB6139/2025",
+      "legiscanId": 2154726,
+      "sponsors": [
+        "Helena Scott",
+        "Joey Andrews",
+        "Kristian Grant",
+        "Penelope Tsernoglou"
+      ]
+    },
+    {
+      "id": "mi-hb6140",
+      "billCode": "HB6140",
+      "title": "Public employees and officers: other; nondisclosure agreements related to the construction of data centers; prohibit. Creates new act. TIE BAR WITH: HB 6135'26, HB 6141'26, HB 6137'26, HB 6138'26, HB 6142'26, HB 6139'26",
+      "summary": "This bill prohibits public employees and officials from signing nondisclosure agreements related to data center construction projects, requiring greater transparency in government dealings with data center developers. The measure aims to ensure the public and local communities have access to information about data center siting decisions and impacts.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "impactTags": [
+        "local-control",
+        "nda-transparency"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-06-30",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6140",
+      "legiscanUrl": "https://legiscan.com/MI/bill/HB6140/2025",
+      "legiscanId": 2154691,
+      "sponsors": [
+        "Morgan Foreman",
+        "Joey Andrews",
+        "Kristian Grant",
+        "Penelope Tsernoglou"
+      ]
+    },
+    {
+      "id": "mi-hb6137",
+      "billCode": "HB6137",
+      "title": "Businesses: other; community benefit agreements; require certain data centers to be subject to. Creates new act. TIE BAR WITH: HB 6135'26, HB 6136'26, HB 6140'26, HB 6141'26, HB 6138'26, HB 6142'26, HB 6139'26",
+      "summary": "This bill requires certain data centers to enter into community benefit agreements, giving local communities a voice in negotiating terms and offsetting impacts from large data center development. It creates a new regulatory framework to ensure data centers provide community benefits in exchange for siting approval.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "impactTags": [
+        "local-control",
+        "economic-development",
+        "nda-transparency"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-06-30",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6137",
+      "legiscanUrl": "https://legiscan.com/MI/bill/HB6137/2025",
+      "legiscanId": 2154680,
+      "sponsors": [
+        "Kristian Grant",
+        "Joey Andrews",
+        "Penelope Tsernoglou",
+        "Kelly Breen"
+      ]
+    },
+    {
+      "id": "mi-sb1077",
+      "billCode": "SB1077",
+      "title": "Labor: fair employment practices; use of electronic monitoring or automated decisions tools by an employer; prohibit except for certain purposes. Creates new act.",
+      "summary": "This bill prohibits employers from using electronic monitoring or automated decision-making tools in hiring, scheduling, and performance evaluation unless specific exceptions apply. It establishes guardrails on workplace AI and surveillance technology to protect employee privacy and fairness.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-workforce": "restrictive"
+      },
+      "impactTags": [
+        "ai-in-employment",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-workforce",
+      "updatedDate": "2026-06-24",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-1077",
+      "legiscanUrl": "https://legiscan.com/MI/bill/SB1077/2025",
+      "legiscanId": 2154558,
+      "sponsors": [
+        "Darrin Camilleri",
+        "Sylvia Santana",
+        "Mallory McMorrow",
+        "Sue Shink"
+      ]
+    },
+    {
+      "id": "mi-sb1018",
+      "billCode": "SB1018",
+      "title": "Businesses: other; moratorium on certain approvals for and operation of any new data centers; provide for. Creates new act. TIE BAR WITH: SB 1019'26",
+      "summary": "Michigan SB 1018 creates a moratorium prohibiting approvals and operation of new data centers in the state. The bill is tied to SB 1019, suggesting comprehensive data-center restrictions paired with additional regulatory measures.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "environmental": "restrictive",
+        "community": "restrictive"
+      },
+      "impactTags": [
+        "local-control",
+        "environmental-review"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-06-04",
+      "partyOrigin": "R",
+      "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-1018",
+      "legiscanUrl": "https://legiscan.com/MI/bill/SB1018/2025",
+      "legiscanId": 2152954,
+      "sponsors": [
+        "James Runestad",
+        "Ruth Johnson"
+      ]
+    },
+    {
+      "id": "mi-hb5899",
+      "billCode": "HB5899",
+      "title": "State management: other; artificial intelligence pilot program; establish for state departments and agencies. Creates new act.",
+      "summary": "This bill would create a pilot program allowing Michigan state departments and agencies to test and use artificial intelligence tools. It establishes a framework for the state government to explore AI adoption in a controlled way.",
+      "stage": "Committee",
+      "stance": "review",
+      "impactTags": [
+        "ai-safety",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-government",
+      "updatedDate": "2026-05-19",
+      "partyOrigin": "B",
+      "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5899",
+      "legiscanUrl": "https://legiscan.com/MI/bill/HB5899/2025",
+      "legiscanId": 2145404,
+      "sponsors": [
+        "Jaime Greene",
+        "Joseph Pavlov",
+        "Carrie Rheingans",
+        "Sharon MacDonell"
+      ]
+    },
+    {
+      "id": "mi-sb0758",
+      "billCode": "SB0758",
+      "title": "Communications: internet; Michigan kids code act; create. Creates new act. TIE BAR WITH: SB 0759'25",
+      "summary": "This bill creates the Michigan Kids Code Act, which establishes rules to protect children's privacy and safety online. It places restrictions on how internet services can collect data from and expose minors to potentially harmful content or algorithms.",
       "stage": "Committee",
       "stance": "restrictive",
       "dimensionStances": {
@@ -46,81 +227,224 @@
       },
       "impactTags": [
         "child-safety",
-        "ai-safety",
-        "algorithmic-transparency"
-      ],
-      "category": "synthetic-media",
-      "updatedDate": "2025-12-17",
-      "partyOrigin": "D",
-      "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0760",
-      "legiscanUrl": "https://legiscan.com/MI/bill/SB0760/2025",
-      "legiscanId": 2059480,
-      "sponsors": [
-        "Dayna Polehanki",
-        "Erika Geiss"
-      ]
-    },
-    {
-      "id": "mi-hb4261",
-      "billCode": "HB4261",
-      "title": "State management: funds; public safety and violence prevention fund; create. Amends title & sec. 2 of 2000 PA 489 (MCL 12.252) & adds secs. 11a & 11b. TIE BAR WITH: HB 4260'25",
-      "summary": "This bill creates a public safety and violence prevention fund in Michigan's state management system. It does not address AI regulation or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2025-04-22",
-      "partyOrigin": "B",
-      "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4261",
-      "legiscanUrl": "https://legiscan.com/MI/bill/HB4261/2025",
-      "legiscanId": 2010318,
-      "sponsors": [
-        "Alabas Farhat",
-        "Stephanie Young",
-        "Angela Witwer",
-        "Jason Hoskins"
-      ]
-    },
-    {
-      "id": "mi-sb0359",
-      "billCode": "SB0359",
-      "title": "Consumer protection: privacy; personal data privacy act; create. Creates new act.",
-      "summary": "This bill would create a new Michigan law giving consumers rights over their personal data, including how it is collected, used, and shared by businesses. It establishes rules companies must follow to protect consumer privacy and would include oversight and enforcement mechanisms.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "dimensionStances": {
-        "ai-governance-dim": "concerning",
-        "ai-consumer": "concerning"
-      },
-      "impactTags": [
         "data-privacy",
         "algorithmic-transparency"
       ],
       "category": "data-privacy",
-      "updatedDate": "2025-06-05",
+      "updatedDate": "2026-04-29",
       "partyOrigin": "D",
-      "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0359",
-      "legiscanUrl": "https://legiscan.com/MI/bill/SB0359/2025",
-      "legiscanId": 2035569,
+      "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0758",
+      "legiscanUrl": "https://legiscan.com/MI/bill/SB0758/2025",
+      "legiscanId": 2059487,
       "sponsors": [
-        "Rosemary Bayer",
-        "Stephanie Chang",
-        "Mary Cavanagh",
+        "Kevin Hertel",
+        "Mallory McMorrow",
         "Erika Geiss"
+      ]
+    },
+    {
+      "id": "mi-hb5882",
+      "billCode": "HB5882",
+      "title": "Local government: other; requirements for a moratorium imposed by a local unit of government on large-scale data centers or cryptocurrency mining facilities; provide for. Creates new act. TIE BAR WITH: HB 5881'26",
+      "summary": "This bill establishes requirements and procedures for local governments to impose moratoriums on large-scale data centers and cryptocurrency mining facilities. It creates a new legal framework governing when and how municipalities can restrict or ban these operations.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "community": "restrictive",
+        "land-use": "restrictive"
+      },
+      "impactTags": [
+        "local-control",
+        "local-zoning"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-04-28",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5882",
+      "legiscanUrl": "https://legiscan.com/MI/bill/HB5882/2025",
+      "legiscanId": 2145440,
+      "sponsors": [
+        "Reggie Miller",
+        "Emily Dievendorf",
+        "Veronica Paiz"
+      ]
+    },
+    {
+      "id": "mi-hb5846",
+      "billCode": "HB5846",
+      "title": "Land use: zoning and growth management; zoning overlay districts for data centers; provide for. Creates new act.",
+      "summary": "This bill creates a new framework allowing Michigan municipalities to establish zoning overlay districts specifically for data centers, streamlining local land-use rules to facilitate data center development. The measure gives local governments clearer authority to designate and regulate data center siting through overlay zoning mechanisms.",
+      "stage": "Committee",
+      "stance": "favorable",
+      "dimensionStances": {
+        "community": "favorable",
+        "land-use": "favorable"
+      },
+      "impactTags": [
+        "local-zoning",
+        "local-control"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-04-23",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5846",
+      "legiscanUrl": "https://legiscan.com/MI/bill/HB5846/2025",
+      "legiscanId": 2145164,
+      "sponsors": [
+        "Reggie Miller",
+        "Peter Herzberg"
+      ]
+    },
+    {
+      "id": "mi-hb5777",
+      "billCode": "HB5777",
+      "title": "Businesses: other; large-scale data center life cycle financial responsibility act; create. Creates new act.",
+      "summary": "This Michigan bill would create a new law requiring large-scale data centers to take financial responsibility for their full life cycle, likely including decommissioning and site cleanup costs. It places significant obligations on data center operators to account for long-term impacts, which could restrict or complicate data center development in the state.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "environmental": "concerning",
+        "community": "concerning",
+        "land-use": "concerning"
+      },
+      "impactTags": [
+        "environmental-review",
+        "local-zoning",
+        "property-values"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-04-15",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5777",
+      "legiscanUrl": "https://legiscan.com/MI/bill/HB5777/2025",
+      "legiscanId": 2142879,
+      "sponsors": [
+        "Reggie Miller",
+        "Veronica Paiz",
+        "Emily Dievendorf",
+        "Jimmie Wilson"
+      ]
+    },
+    {
+      "id": "mi-hb5787",
+      "billCode": "HB5787",
+      "title": "Sales tax: exemptions; compliance with enterprise data center construction labor act; require. Amends sec. 4ee of 1933 PA 167 (MCL 205.54ee). TIE BAR WITH: HB 5785'26, HB 5786'26",
+      "summary": "This Michigan bill ties existing sales tax exemptions for enterprise data centers to compliance with a new labor standards act governing data center construction. It ensures that data centers only receive tax breaks if they meet specific construction labor requirements.",
+      "stage": "Committee",
+      "stance": "favorable",
+      "impactTags": [
+        "tax-incentives",
+        "job-creation",
+        "economic-development"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-04-15",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5787",
+      "legiscanUrl": "https://legiscan.com/MI/bill/HB5787/2025",
+      "legiscanId": 2142958,
+      "sponsors": [
+        "Reggie Miller"
+      ]
+    },
+    {
+      "id": "mi-hb5785",
+      "billCode": "HB5785",
+      "title": "Use tax: exemptions; compliance with enterprise data center construction labor act; require. Amends sec. 4cc of 1937 PA 94 (MCL 205.94cc). TIE BAR WITH: HB 5786'26, HB 5787'26",
+      "summary": "This bill ties existing use tax exemptions for enterprise data centers to compliance with a new labor standards law for data center construction. It effectively conditions tax benefits on meeting construction labor requirements, linking economic incentives to workforce protections.",
+      "stage": "Committee",
+      "stance": "favorable",
+      "impactTags": [
+        "tax-incentives",
+        "job-creation",
+        "economic-development"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-04-15",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5785",
+      "legiscanUrl": "https://legiscan.com/MI/bill/HB5785/2025",
+      "legiscanId": 2142831,
+      "sponsors": [
+        "Reggie Miller"
+      ]
+    },
+    {
+      "id": "mi-hb5790",
+      "billCode": "HB5790",
+      "title": "Local government: financing; requirements for enterprise data centers; modify. Amends sec. 4ee of 1933 PA 167 (MCL 205.54ee).",
+      "summary": "This Michigan bill modifies the requirements that enterprise data centers must meet to qualify for tax exemptions under state law. It likely adjusts eligibility criteria or thresholds to make it easier for data centers to access financial benefits.",
+      "stage": "Committee",
+      "stance": "favorable",
+      "impactTags": [
+        "tax-incentives",
+        "economic-development"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-04-15",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5790",
+      "legiscanUrl": "https://legiscan.com/MI/bill/HB5790/2025",
+      "legiscanId": 2142837,
+      "sponsors": [
+        "Reggie Miller"
+      ]
+    },
+    {
+      "id": "mi-hb5791",
+      "billCode": "HB5791",
+      "title": "Use tax: other; requirements for enterprise data centers; modify. Amends sec. 4cc of 1937 PA 94 (MCL 205.94cc).",
+      "summary": "This Michigan bill modifies the tax exemption rules for enterprise data centers under the state's use tax law, likely adjusting eligibility requirements or benefits. It is aimed at supporting data center development through tax policy.",
+      "stage": "Committee",
+      "stance": "favorable",
+      "impactTags": [
+        "tax-incentives",
+        "economic-development"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-04-15",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5791",
+      "legiscanUrl": "https://legiscan.com/MI/bill/HB5791/2025",
+      "legiscanId": 2143000,
+      "sponsors": [
+        "Reggie Miller"
+      ]
+    },
+    {
+      "id": "mi-hb5786",
+      "billCode": "HB5786",
+      "title": "Labor: employment preference; prioritization of local union labor; require for the construction of enterprise data centers. Creates new act. TIE BAR WITH: HB 5785'26, HB 5787'26",
+      "summary": "Michigan would require enterprise data center construction projects to prioritize hiring local union labor. This establishes mandatory workforce requirements for data center development in the state.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "impactTags": [
+        "job-creation",
+        "local-control",
+        "economic-development"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-04-15",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5786",
+      "legiscanUrl": "https://legiscan.com/MI/bill/HB5786/2025",
+      "legiscanId": 2142969,
+      "sponsors": [
+        "Reggie Miller"
       ]
     },
     {
       "id": "mi-hb5769",
       "billCode": "HB5769",
       "title": "Consumer protection: privacy; reproductive health data privacy act; create. Creates new act.",
-      "summary": "This bill creates a new law in Michigan specifically protecting the privacy of consumers' reproductive health data. It places restrictions on how companies can collect, use, and share personal information related to reproductive health.",
+      "summary": "This bill creates a new law in Michigan to protect the privacy of consumers' reproductive health data. It establishes rules restricting how companies can collect, use, and share personal information related to reproductive health.",
       "stage": "Committee",
       "stance": "restrictive",
       "impactTags": [
         "data-privacy"
       ],
       "category": "data-privacy",
-      "updatedDate": "2026-03-19",
+      "updatedDate": "2026-04-14",
       "partyOrigin": "D",
       "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5769",
       "legiscanUrl": "https://legiscan.com/MI/bill/HB5769/2025",
@@ -133,67 +457,31 @@
       ]
     },
     {
-      "id": "mi-sb0645",
-      "billCode": "SB0645",
-      "title": "Economic development: other; use tax act; amend to reflect elimination of the Michigan strategic fund. Amends sec. 4cc of 1937 PA 94 (MCL 205.94cc). TIE BAR WITH: SB 0631'25",
-      "summary": "This bill amends Michigan's use tax law to reflect the elimination of the Michigan Strategic Fund, a state economic development agency. It does not substantively address AI policy or data-center regulation.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "data-center-energy",
-      "updatedDate": "2025-10-30",
-      "partyOrigin": "R",
-      "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0645",
-      "legiscanUrl": "https://legiscan.com/MI/bill/SB0645/2025",
-      "legiscanId": 2051212,
-      "sponsors": [
-        "Thomas Albert"
-      ]
-    },
-    {
-      "id": "mi-sb0643",
-      "billCode": "SB0643",
-      "title": "Economic development: other; general sales tax act; amend to reflect elimination of the Michigan strategic fund. Amends sec. 4ee of 1933 PA 167 (MCL 205.54ee). TIE BAR WITH: SB 0631'25",
-      "summary": "This bill amends Michigan's General Sales Tax Act to reflect the elimination of the Michigan Strategic Fund, a state economic development agency. It does not address AI regulation or data-center policy in any substantive way.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "data-center-siting",
-      "updatedDate": "2025-10-30",
-      "partyOrigin": "R",
-      "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0643",
-      "legiscanUrl": "https://legiscan.com/MI/bill/SB0643/2025",
-      "legiscanId": 2051181,
-      "sponsors": [
-        "Thomas Albert"
-      ]
-    },
-    {
-      "id": "mi-sb0758",
-      "billCode": "SB0758",
-      "title": "Communications: internet; Michigan kids code act; create. Creates new act. TIE BAR WITH: SB 0759'25",
-      "summary": "This bill creates the Michigan Kids Code Act, which establishes online safety protections for children by regulating how internet services collect data and deliver content to minors. It imposes restrictions on platforms to limit harmful algorithmic recommendations and data practices targeting kids.",
+      "id": "mi-hb5594",
+      "billCode": "HB5594",
+      "title": "Businesses: other; moratorium on certain approvals for and operation of any new data centers; provide for. Creates new act. TIE BAR WITH: HB 5596'26",
+      "summary": "This bill establishes a moratorium on approvals and operation of new data centers in Michigan. The measure creates a new legal framework to pause data center development, potentially giving the state time to study impacts before allowing future projects.",
       "stage": "Committee",
       "stance": "restrictive",
       "dimensionStances": {
-        "ai-governance-dim": "concerning",
-        "ai-consumer": "restrictive"
+        "environmental": "restrictive",
+        "community": "restrictive"
       },
       "impactTags": [
-        "child-safety",
-        "data-privacy",
-        "algorithmic-transparency"
+        "local-control",
+        "environmental-review"
       ],
-      "category": "data-privacy",
-      "updatedDate": "2025-12-17",
-      "partyOrigin": "D",
-      "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0758",
-      "legiscanUrl": "https://legiscan.com/MI/bill/SB0758/2025",
-      "legiscanId": 2059487,
+      "category": "data-center-siting",
+      "updatedDate": "2026-03-03",
+      "partyOrigin": "B",
+      "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5594",
+      "legiscanUrl": "https://legiscan.com/MI/bill/HB5594/2025",
+      "legiscanId": 2125427,
       "sponsors": [
-        "Kevin Hertel",
-        "Mallory McMorrow",
-        "Erika Geiss"
+        "Jennifer Wortz",
+        "Brad Paquette",
+        "Joseph Fox",
+        "Reggie Miller"
       ]
     },
     {
@@ -214,7 +502,7 @@
         "data-privacy"
       ],
       "category": "ai-workforce",
-      "updatedDate": "2026-02-24",
+      "updatedDate": "2026-02-26",
       "partyOrigin": "D",
       "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5579",
       "legiscanUrl": "https://legiscan.com/MI/bill/HB5579/2025",
@@ -227,26 +515,35 @@
       ]
     },
     {
-      "id": "mi-hb4037",
-      "billCode": "HB4037",
-      "title": "Records: health; health information exchange; establish certain requirements to operate a health data utility. Amends secs. 2501 & 2505 of 1978 PA 368 (MCL 333.2501 & 333.2505) & adds sec. 2508.",
-      "summary": "This Michigan bill sets requirements for operating a health data utility, which manages the exchange of health information between providers and other entities. It establishes rules around how health data is shared and managed, which has implications for data privacy and oversight of health information systems.",
+      "id": "mi-hr0240",
+      "billCode": "HR0240",
+      "title": "A resolution to urge a temporary pause on discretionary state-level incentives for data center construction, request a comprehensive review of the fiscal, utility, environmental, and local governance impacts of data center development in Michigan, and direct House committees to review these issues.",
+      "summary": "Michigan HR0240 urges a temporary halt to state tax incentives for data center construction and calls for a comprehensive review of fiscal, environmental, utility, and local governance impacts. The resolution directs House committees to study these issues before resuming incentive programs.",
       "stage": "Committee",
-      "stance": "concerning",
+      "stance": "review",
+      "dimensionStances": {
+        "environmental": "review",
+        "energy": "review",
+        "community": "review"
+      },
       "impactTags": [
-        "data-privacy"
+        "grid-capacity",
+        "water-consumption",
+        "carbon-emissions",
+        "local-control",
+        "tax-incentives"
       ],
-      "category": "data-privacy",
-      "updatedDate": "2025-01-29",
-      "partyOrigin": "B",
-      "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4037",
-      "legiscanUrl": "https://legiscan.com/MI/bill/HB4037/2025",
-      "legiscanId": 1946420,
+      "category": "data-center-siting",
+      "updatedDate": "2026-02-04",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HR-0240",
+      "legiscanUrl": "https://legiscan.com/MI/bill/HR0240/2025",
+      "legiscanId": 2107997,
       "sponsors": [
-        "Julie Rogers",
-        "Curtis VanderWall",
-        "Stephen Wooden",
-        "John Roth"
+        "Reggie Miller",
+        "Morgan Foreman",
+        "Emily Dievendorf",
+        "Jimmie Wilson"
       ]
     },
     {
@@ -265,7 +562,7 @@
         "data-privacy"
       ],
       "category": "ai-criminal-justice",
-      "updatedDate": "2026-01-29",
+      "updatedDate": "2026-02-03",
       "partyOrigin": "B",
       "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5493",
       "legiscanUrl": "https://legiscan.com/MI/bill/HB5493/2025",
@@ -278,26 +575,79 @@
       ]
     },
     {
-      "id": "mi-hb4149",
-      "billCode": "HB4149",
-      "title": "Education: school districts; certain information on the school district's, intermediate school district's, or public school academy's website; require a school district, an intermediate school district, or a public school academy to post. Amends 1976 PA 451 (MCL 380.1 - 380.1852) by adding sec. 1280h.",
-      "summary": "This Michigan bill would require school districts and public school academies to post certain information on their websites, likely including details about AI tools or technology policies used in schools. It promotes transparency about how technology is being used in educational settings without imposing outright restrictions.",
+      "id": "mi-sb0198",
+      "billCode": "SB0198",
+      "title": "Occupations: vehicles, dealers, and repair facilities; requirements for automobile dealer data collection; provide for. Creates new act.",
+      "summary": "This bill creates new rules governing how automobile dealers collect and handle customer data. It sets requirements around data collection practices at car dealerships to protect consumer information.",
       "stage": "Committee",
-      "stance": "review",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "none",
+        "ai-consumer": "concerning"
+      },
       "impactTags": [
-        "ai-in-education"
+        "data-privacy",
+        "algorithmic-transparency"
       ],
-      "category": "ai-education",
-      "updatedDate": "2025-03-20",
-      "partyOrigin": "R",
-      "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4149",
-      "legiscanUrl": "https://legiscan.com/MI/bill/HB4149/2025",
-      "legiscanId": 1986223,
+      "category": "data-privacy",
+      "updatedDate": "2026-01-29",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0198",
+      "legiscanUrl": "https://legiscan.com/MI/bill/SB0198/2025",
+      "legiscanId": 2011578,
       "sponsors": [
-        "Tom Kuhn",
-        "Donni Steele",
-        "Bill Schuette",
-        "Jay DeBoyer"
+        "Samir Singh"
+      ]
+    },
+    {
+      "id": "mi-sb0359",
+      "billCode": "SB0359",
+      "title": "Consumer protection: privacy; personal data privacy act; create. Creates new act.",
+      "summary": "This bill would create a new Michigan law giving consumers rights over their personal data, including how it is collected, used, and shared by businesses. It establishes privacy protections and likely includes rules around automated decision-making and data processing.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "concerning"
+      },
+      "impactTags": [
+        "data-privacy",
+        "algorithmic-transparency"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2025-06-12",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0359",
+      "legiscanUrl": "https://legiscan.com/MI/bill/SB0359/2025",
+      "legiscanId": 2035569,
+      "sponsors": [
+        "Rosemary Bayer",
+        "Stephanie Chang",
+        "Mary Cavanagh",
+        "Erika Geiss"
+      ]
+    },
+    {
+      "id": "mi-hb4037",
+      "billCode": "HB4037",
+      "title": "Records: health; health information exchange; establish certain requirements to operate a health data utility. Amends secs. 2501 & 2505 of 1978 PA 368 (MCL 333.2501 & 333.2505) & adds sec. 2508.",
+      "summary": "This Michigan bill sets requirements for operating a health data utility, which manages the exchange of health information between providers and other entities. It establishes rules around how health data is shared and managed, which has implications for data privacy and oversight of health information systems.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "impactTags": [
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2025-05-21",
+      "partyOrigin": "B",
+      "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4037",
+      "legiscanUrl": "https://legiscan.com/MI/bill/HB4037/2025",
+      "legiscanId": 1946420,
+      "sponsors": [
+        "Julie Rogers",
+        "Curtis VanderWall",
+        "Stephen Wooden",
+        "John Roth"
       ]
     }
   ]

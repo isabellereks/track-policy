@@ -3,17 +3,37 @@
   "stateCode": "AL",
   "region": "na",
   "stance": "concerning",
-  "stanceDatacenter": "review",
+  "stanceDatacenter": "concerning",
   "stanceAI": "concerning",
-  "lastUpdated": "2026-04-14",
-  "contextBlurb": "Alabama is weighing whether its Public Service Commission should vet the electricity contracts utilities sign with large data centers, and a parallel bill would extend the state's data-center tax breaks with a tighter sunset. On the AI side, lawmakers advanced rules on how health insurers can use AI to approve or deny coverage.",
+  "lastUpdated": "2026-07-22",
+  "contextBlurb": "Alabama is advancing regulation across both data centers and AI. On data centers: HJR242 (enacted) — This resolution urges Alabama's governor and state agencies to recognize the potential value of spent nuclear fuel and pursue state actions to develop it. On AI: SB63 (enacted) — Sets rules for how health insurance companies can use AI when deciding whether to approve or deny coverage for patients.",
   "legislation": [
+    {
+      "id": "al-hjr242",
+      "billCode": "HJR242",
+      "title": "Urging the Governor and relevant state agencies to recognize the value of spent nuclear fuel and take state actions toward its development",
+      "summary": "This resolution urges Alabama's governor and state agencies to recognize the potential value of spent nuclear fuel and pursue state actions to develop it. While not directly about data centers, it promotes nuclear energy development, which could support clean energy infrastructure for large electricity consumers like data centers.",
+      "stage": "Enacted",
+      "stance": "favorable",
+      "impactTags": [
+        "renewable-energy"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-04-20",
+      "partyOrigin": "R",
+      "sourceUrl": "https://alison.legislature.state.al.us/bill-search",
+      "legiscanUrl": "https://legiscan.com/AL/bill/HJR242/2026",
+      "legiscanId": 2132786,
+      "sponsors": [
+        "Ben Harrison"
+      ]
+    },
     {
       "id": "al-sb270",
       "billCode": "SB270",
       "title": "Electric Utilities; review by Public Service Commission of certain contracts with large load data centers further provided for",
-      "summary": "This bill requires Alabama's Public Service Commission to review contracts between electric utilities and large data centers that draw significant amounts of power. The goal is to ensure that these high-energy deals don't negatively impact grid stability or raise electricity costs for other customers.",
-      "stage": "Floor",
+      "summary": "This bill requires Alabama's Public Service Commission to review electricity contracts between utilities and large data centers before they take effect. The oversight is intended to ensure that deals with high-energy data centers don't unfairly shift costs or strain the grid for other customers.",
+      "stage": "Enacted",
       "stance": "concerning",
       "dimensionStances": {
         "energy": "concerning",
@@ -25,7 +45,7 @@
         "local-control"
       ],
       "category": "data-center-energy",
-      "updatedDate": "2026-04-09",
+      "updatedDate": "2026-04-17",
       "partyOrigin": "R",
       "sourceUrl": "https://alison.legislature.state.al.us/bill-search",
       "legiscanUrl": "https://legiscan.com/AL/bill/SB270/2026",
@@ -35,57 +55,18 @@
       ]
     },
     {
-      "id": "al-sb328",
-      "billCode": "SB328",
-      "title": "Artificial Intelligence; state agencies required to perform quarterly AI-assisted review of rules",
-      "summary": "This bill requires Alabama state agencies to use artificial intelligence to review their existing rules every three months. The goal is to use AI as a tool to help governments regularly assess and update their regulations.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "impactTags": [
-        "algorithmic-transparency",
-        "ai-safety"
-      ],
-      "category": "ai-government",
-      "updatedDate": "2026-02-25",
-      "partyOrigin": "R",
-      "sourceUrl": "https://alison.legislature.state.al.us/bill-search",
-      "legiscanUrl": "https://legiscan.com/AL/bill/SB328/2026",
-      "legiscanId": 2124313,
-      "sponsors": [
-        "Chris Elliott"
-      ]
-    },
-    {
-      "id": "al-hb426",
-      "billCode": "HB426",
-      "title": "Real property; creation of the Alabama Property Protection Act of 2026, title fraud prevention",
-      "summary": "This bill creates protections against real estate title fraud in Alabama. It is not related to AI regulation or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "data-privacy",
-      "updatedDate": "2026-03-17",
-      "partyOrigin": "R",
-      "sourceUrl": "https://alison.legislature.state.al.us/bill-search",
-      "legiscanUrl": "https://legiscan.com/AL/bill/HB426/2026",
-      "legiscanId": 2115310,
-      "sponsors": [
-        "Paul Lee"
-      ]
-    },
-    {
       "id": "al-hb399",
       "billCode": "HB399",
       "title": "Tax abatements for data processing centers, exemption period limited, collection of certain taxes on purchases required, sunset date extended",
-      "summary": "This bill extends and modifies Alabama's tax break program for data processing centers, limiting how long the exemptions last and adding a new sunset date. It offers financial incentives to attract data centers while requiring taxes to be collected on certain purchases.",
-      "stage": "Floor",
+      "summary": "This bill extends and modifies tax breaks for data processing centers in Alabama, limiting how long exemptions last while also pushing back the sunset date for the overall incentive program. It is designed to continue attracting data center investment to the state with some guardrails on the tax benefits.",
+      "stage": "Enacted",
       "stance": "favorable",
       "impactTags": [
         "tax-incentives",
         "economic-development"
       ],
-      "category": "data-center-energy",
-      "updatedDate": "2026-04-09",
+      "category": "data-center-siting",
+      "updatedDate": "2026-04-17",
       "partyOrigin": "R",
       "sourceUrl": "https://alison.legislature.state.al.us/bill-search",
       "legiscanUrl": "https://legiscan.com/AL/bill/HB399/2026",
@@ -95,10 +76,56 @@
       ]
     },
     {
+      "id": "al-hb393",
+      "billCode": "HB393",
+      "title": "Tax abatement and tax incentive programs, NAICS Code references and definitions updated to latest terms",
+      "summary": "This bill updates the industry classification codes (NAICS) used in Alabama's tax abatement and incentive programs to reflect current terminology. It ensures businesses, potentially including data centers and tech companies, can still qualify for tax breaks under updated industry definitions.",
+      "stage": "Enacted",
+      "stance": "favorable",
+      "impactTags": [
+        "tax-incentives",
+        "economic-development"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-04-17",
+      "partyOrigin": "D",
+      "sourceUrl": "https://alison.legislature.state.al.us/bill-search",
+      "legiscanUrl": "https://legiscan.com/AL/bill/HB393/2026",
+      "legiscanId": 2108977,
+      "sponsors": [
+        "Kelvin Lawrence"
+      ]
+    },
+    {
+      "id": "al-sb63",
+      "billCode": "SB63",
+      "title": "Health care plans; to regulate the use of artificial intelligence in determinations of coverage",
+      "summary": "This bill sets rules for how health insurance companies can use AI when deciding whether to approve or deny coverage for patients. It aims to ensure AI-driven coverage decisions are fair, transparent, and subject to human oversight.",
+      "stage": "Enacted",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-public": "concerning"
+      },
+      "impactTags": [
+        "ai-in-healthcare",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-healthcare",
+      "updatedDate": "2026-04-17",
+      "partyOrigin": "R",
+      "sourceUrl": "https://alison.legislature.state.al.us/bill-search",
+      "legiscanUrl": "https://legiscan.com/AL/bill/SB63/2026",
+      "legiscanId": 2072810,
+      "sponsors": [
+        "Arthur Orr"
+      ]
+    },
+    {
       "id": "al-sb265",
       "billCode": "SB265",
       "title": "Tax abatements for data processing centers, exemption period limited, collection of certain taxes on purchases required, sunset date extended",
-      "summary": "This bill extends the sunset date for tax abatements given to data processing centers in Alabama while also placing new limits on the exemption period and requiring collection of certain taxes on purchases. It is a mixed measure that continues financial incentives for data centers but adds some new requirements.",
+      "summary": "This Alabama bill extends and modifies tax abatement (exemption) programs for data processing centers, allowing them to avoid certain taxes on purchases for a limited period. It is designed to attract and support data center investment in the state.",
       "stage": "Committee",
       "stance": "favorable",
       "impactTags": [
@@ -106,7 +133,7 @@
         "economic-development"
       ],
       "category": "data-center-energy",
-      "updatedDate": "2026-03-12",
+      "updatedDate": "2026-04-09",
       "partyOrigin": "R",
       "sourceUrl": "https://alison.legislature.state.al.us/bill-search",
       "legiscanUrl": "https://legiscan.com/AL/bill/SB265/2026",
@@ -116,10 +143,50 @@
       ]
     },
     {
+      "id": "al-sjr89",
+      "billCode": "SJR89",
+      "title": "Urging the Governor and relevant state agencies to recognize the value of spent nuclear fuel and take state actions toward its development",
+      "summary": "This resolution urges Alabama's Governor and state agencies to recognize spent nuclear fuel as a valuable energy resource and pursue its development. While not directly about data centers, advanced nuclear energy could support future grid capacity for energy-intensive infrastructure.",
+      "stage": "Enacted",
+      "stance": "favorable",
+      "impactTags": [
+        "renewable-energy"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-04-08",
+      "partyOrigin": "R",
+      "sourceUrl": "https://alison.legislature.state.al.us/bill-search",
+      "legiscanUrl": "https://legiscan.com/AL/bill/SJR89/2026",
+      "legiscanId": 2135295,
+      "sponsors": [
+        "Larry Stutts"
+      ]
+    },
+    {
+      "id": "al-sjr88",
+      "billCode": "SJR88",
+      "title": "Expressing support for the United States Department of Energy's Nuclear Lifecycle Innovation endeavor",
+      "summary": "Alabama expresses support for the Department of Energy's Nuclear Lifecycle Innovation program, which develops advanced nuclear technologies that could provide reliable clean energy sources for data centers and other infrastructure.",
+      "stage": "Enacted",
+      "stance": "favorable",
+      "impactTags": [
+        "renewable-energy"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-04-08",
+      "partyOrigin": "R",
+      "sourceUrl": "https://alison.legislature.state.al.us/bill-search",
+      "legiscanUrl": "https://legiscan.com/AL/bill/SJR88/2026",
+      "legiscanId": 2135231,
+      "sponsors": [
+        "Greg Albritton"
+      ]
+    },
+    {
       "id": "al-hb403",
       "billCode": "HB403",
       "title": "Electric Utilities; review by Public Service Commission of certain contracts with large load customers further provided",
-      "summary": "This bill requires Alabama's Public Service Commission to review electricity contracts between utilities and large power consumers, such as data centers. It adds oversight to ensure these large-load deals don't negatively impact grid stability or rates for other customers.",
+      "summary": "This bill requires the Alabama Public Service Commission to review electricity contracts between utilities and large power customers, such as data centers. It adds regulatory oversight to ensure these large-load agreements don't negatively affect other ratepayers or grid stability.",
       "stage": "Floor",
       "stance": "concerning",
       "impactTags": [
@@ -137,30 +204,35 @@
       ]
     },
     {
-      "id": "al-hb393",
-      "billCode": "HB393",
-      "title": "Tax abatement and tax incentive programs, NAICS Code references and definitions updated to latest terms",
-      "summary": "This bill updates Alabama's tax abatement and incentive programs to reflect the latest industry classification codes (NAICS), keeping existing tax benefits aligned with current business terminology. It is a technical update that maintains favorable tax treatment for qualifying industries, which may include data centers.",
-      "stage": "Floor",
-      "stance": "favorable",
+      "id": "al-hjr51",
+      "billCode": "HJR51",
+      "title": "Artificial Intelligence and Children's Internet Safety Study Commission, created",
+      "summary": "This resolution establishes a study commission to examine the impacts of artificial intelligence on children's internet safety and educational environments. The commission will explore policy recommendations related to protecting minors from AI-related harms online.",
+      "stage": "Enacted",
+      "stance": "review",
+      "dimensionStances": {
+        "ai-consumer": "review",
+        "ai-public": "none"
+      },
       "impactTags": [
-        "tax-incentives"
+        "child-safety",
+        "ai-in-education"
       ],
-      "category": "data-center-energy",
-      "updatedDate": "2026-04-07",
-      "partyOrigin": "D",
+      "category": "ai-education",
+      "updatedDate": "2026-03-10",
+      "partyOrigin": "R",
       "sourceUrl": "https://alison.legislature.state.al.us/bill-search",
-      "legiscanUrl": "https://legiscan.com/AL/bill/HB393/2026",
-      "legiscanId": 2108977,
+      "legiscanUrl": "https://legiscan.com/AL/bill/HJR51/2026",
+      "legiscanId": 2090231,
       "sponsors": [
-        "Kelvin Lawrence"
+        "Ben Robbins"
       ]
     },
     {
       "id": "al-sb251",
       "billCode": "SB251",
       "title": "Tax abatement and tax incentive programs, North American Industry Classification System Code references and definitions updated to latest terms",
-      "summary": "This bill updates Alabama's tax abatement and incentive programs to use the latest industry classification codes and terminology. While not exclusively about data centers, such updates often affect eligibility for tax breaks that data centers and tech facilities rely on.",
+      "summary": "This bill updates Alabama's tax abatement and incentive programs to use the latest industry classification codes, which can affect how data centers and tech facilities qualify for tax breaks. It is primarily a technical update ensuring existing incentive programs use current terminology.",
       "stage": "Committee",
       "stance": "favorable",
       "impactTags": [
@@ -168,7 +240,7 @@
         "economic-development"
       ],
       "category": "data-center-siting",
-      "updatedDate": "2026-02-19",
+      "updatedDate": "2026-03-05",
       "partyOrigin": "D",
       "sourceUrl": "https://alison.legislature.state.al.us/bill-search",
       "legiscanUrl": "https://legiscan.com/AL/bill/SB251/2026",
@@ -181,7 +253,7 @@
       "id": "al-hb524",
       "billCode": "HB524",
       "title": "Artificial Intelligence; state agencies required to perform quarterly AI-assisted review of rules",
-      "summary": "This bill requires Alabama state agencies to use AI tools every three months to review their existing rules and regulations. It is an exploratory measure focused on using AI to improve government efficiency rather than imposing strict restrictions.",
+      "summary": "This bill requires Alabama state agencies to use artificial intelligence tools to review their own rules and regulations every three months. The goal is to use AI to help identify outdated or unnecessary regulations on a regular basis.",
       "stage": "Committee",
       "stance": "review",
       "impactTags": [
@@ -199,60 +271,31 @@
       ]
     },
     {
-      "id": "al-sb129",
-      "billCode": "SB129",
-      "title": "Artificial intelligence; disclosure of artificial intelligence-generated content required, enforcement provided",
-      "summary": "This bill requires that content created by artificial intelligence be clearly labeled or disclosed to viewers. It includes enforcement mechanisms to ensure compliance with the disclosure requirement.",
+      "id": "al-sb328",
+      "billCode": "SB328",
+      "title": "Artificial Intelligence; state agencies required to perform quarterly AI-assisted review of rules",
+      "summary": "This bill requires Alabama state agencies to use artificial intelligence tools to review their own rules and regulations every three months. The goal is to use AI to help identify outdated or problematic regulations on a regular basis.",
       "stage": "Committee",
-      "stance": "concerning",
-      "dimensionStances": {
-        "ai-governance-dim": "concerning",
-        "ai-synthetic": "concerning"
-      },
+      "stance": "review",
       "impactTags": [
         "algorithmic-transparency",
-        "deepfake-regulation"
+        "ai-safety"
       ],
-      "category": "synthetic-media",
-      "updatedDate": "2026-01-13",
+      "category": "ai-government",
+      "updatedDate": "2026-02-25",
       "partyOrigin": "R",
       "sourceUrl": "https://alison.legislature.state.al.us/bill-search",
-      "legiscanUrl": "https://legiscan.com/AL/bill/SB129/2026",
-      "legiscanId": 2073271,
+      "legiscanUrl": "https://legiscan.com/AL/bill/SB328/2026",
+      "legiscanId": 2124313,
       "sponsors": [
-        "Tim Melson"
-      ]
-    },
-    {
-      "id": "al-sb63",
-      "billCode": "SB63",
-      "title": "Health care plans; to regulate the use of artificial intelligence in determinations of coverage",
-      "summary": "This bill sets rules for how health insurance companies can use artificial intelligence when deciding whether to approve or deny medical coverage. It aims to ensure AI-driven coverage decisions are fair, transparent, and subject to human oversight.",
-      "stage": "Floor",
-      "stance": "concerning",
-      "dimensionStances": {
-        "ai-governance-dim": "concerning",
-        "ai-public": "concerning"
-      },
-      "impactTags": [
-        "ai-in-healthcare",
-        "algorithmic-transparency"
-      ],
-      "category": "ai-healthcare",
-      "updatedDate": "2026-04-09",
-      "partyOrigin": "R",
-      "sourceUrl": "https://alison.legislature.state.al.us/bill-search",
-      "legiscanUrl": "https://legiscan.com/AL/bill/SB63/2026",
-      "legiscanId": 2072810,
-      "sponsors": [
-        "Arthur Orr"
+        "Chris Elliott"
       ]
     },
     {
       "id": "al-hb324",
       "billCode": "HB324",
       "title": "Artificial intelligence; age verification systems required for chatbots, safeguard protocols required, therapy chatbot requirements established, private right of action and enforcement provided for",
-      "summary": "This Alabama bill requires chatbots to verify users' ages and follow safety protocols, with special rules for AI-powered therapy chatbots. It gives people the right to sue if these requirements are violated.",
+      "summary": "This bill requires chatbots to verify users' ages and follow safety protocols, with special rules for AI-based therapy chatbots. It also gives people the right to sue if these requirements are violated.",
       "stage": "Committee",
       "stance": "concerning",
       "dimensionStances": {
@@ -273,6 +316,81 @@
       "legiscanId": 2090619,
       "sponsors": [
         "Parker Moore"
+      ]
+    },
+    {
+      "id": "al-hb325",
+      "billCode": "HB325",
+      "title": "AI chatbots; unfair or deceptive trade practice for failing to notify consumer about AI chatbot; private right of action and enforcement provided for",
+      "summary": "This bill makes it an unfair or deceptive trade practice for businesses to fail to clearly notify consumers when they are interacting with an AI chatbot rather than a human. It grants consumers a private right of action to sue for violations.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "review",
+        "ai-consumer": "restrictive"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-01-22",
+      "partyOrigin": "R",
+      "sourceUrl": "https://alison.legislature.state.al.us/bill-search",
+      "legiscanUrl": "https://legiscan.com/AL/bill/HB325/2026",
+      "legiscanId": 2090198,
+      "sponsors": [
+        "Parker Moore"
+      ]
+    },
+    {
+      "id": "al-hb291",
+      "billCode": "HB291",
+      "title": "Crimes and offenses; crime of distribution of materially deceptive media established, permanent injunctive relief authorized",
+      "summary": "Alabama establishes a new crime for distributing materially deceptive media (deepfakes) and authorizes courts to issue permanent injunctions against violators. The law creates enforceable penalties and remedies for synthetic media that misrepresents people or events.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-consumer": "none",
+        "ai-synthetic": "restrictive"
+      },
+      "impactTags": [
+        "deepfake-regulation",
+        "child-safety"
+      ],
+      "category": "synthetic-media",
+      "updatedDate": "2026-01-20",
+      "partyOrigin": "D",
+      "sourceUrl": "https://alison.legislature.state.al.us/bill-search",
+      "legiscanUrl": "https://legiscan.com/AL/bill/HB291/2026",
+      "legiscanId": 2087195,
+      "sponsors": [
+        "Juandalynn Givan"
+      ]
+    },
+    {
+      "id": "al-sb129",
+      "billCode": "SB129",
+      "title": "Artificial intelligence; disclosure of artificial intelligence-generated content required, enforcement provided",
+      "summary": "This bill requires that content created by artificial intelligence be clearly labeled as such. It establishes enforcement mechanisms to ensure compliance with the disclosure requirement.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-synthetic": "concerning"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "deepfake-regulation"
+      ],
+      "category": "synthetic-media",
+      "updatedDate": "2026-01-13",
+      "partyOrigin": "R",
+      "sourceUrl": "https://alison.legislature.state.al.us/bill-search",
+      "legiscanUrl": "https://legiscan.com/AL/bill/SB129/2026",
+      "legiscanId": 2073271,
+      "sponsors": [
+        "Tim Melson"
       ]
     }
   ]

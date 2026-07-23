@@ -2,17 +2,17 @@
   "state": "Washington",
   "stateCode": "WA",
   "region": "na",
-  "stance": "review",
-  "stanceDatacenter": "review",
-  "stanceAI": "review",
-  "lastUpdated": "2026-04-14",
-  "contextBlurb": "Washington has no enacted AI or data-center law. Pending bills would strip several existing data-center tax exemptions, including one for equipment replacement, while a competing measure would offer new sales-tax breaks for a specific eastern county. A separate bill would establish AI consumer protections.",
+  "stance": "concerning",
+  "stanceDatacenter": "concerning",
+  "stanceAI": "concerning",
+  "lastUpdated": "2026-07-22",
+  "contextBlurb": "Washington is advancing regulation across both data centers and AI. On data centers: SB6231 (enacted) — Would eliminate an existing tax exemption that data centers currently use when replacing equipment, making it more expensive to operate and upgrade data center facilities in Washington. On AI: HB1170 (enacted) — Requires users to be informed when content is developed or modified by artificial intelligence.",
   "legislation": [
     {
       "id": "wa-sb6231",
       "billCode": "SB6231",
       "title": "Revised for engrossed: Removing a tax exemption for the replacement of equipment for data centers.",
-      "summary": "This bill would eliminate an existing sales tax exemption that data centers currently receive when replacing equipment. Removing this tax break makes it more expensive to operate and upgrade data centers in Washington state.",
+      "summary": "This bill would eliminate an existing tax exemption that data centers currently use when replacing equipment, making it more expensive to operate and upgrade data center facilities in Washington. Removing this tax break could discourage data center investment and expansion in the state.",
       "stage": "Enacted",
       "stance": "concerning",
       "impactTags": [
@@ -31,225 +31,38 @@
       ]
     },
     {
-      "id": "wa-sb6284",
-      "billCode": "SB6284",
-      "title": "Providing consumer protections for artificial intelligence systems.",
-      "summary": "This Washington state bill establishes consumer protections related to artificial intelligence systems, likely requiring transparency and accountability from AI developers and deployers. It aims to safeguard residents from potential harms caused by AI-driven decisions affecting their lives.",
-      "stage": "Committee",
+      "id": "wa-hb1170",
+      "billCode": "HB1170",
+      "title": "Informing users when content is developed or modified by artificial intelligence.",
+      "summary": "Requires users to be informed when content is developed or modified by artificial intelligence. This disclosure requirement aims to increase transparency and help people identify AI-generated or AI-altered content.",
+      "stage": "Enacted",
       "stance": "concerning",
       "dimensionStances": {
         "ai-governance-dim": "concerning",
-        "ai-consumer": "concerning"
+        "ai-synthetic": "concerning"
       },
       "impactTags": [
         "algorithmic-transparency",
-        "ai-safety",
-        "data-privacy"
+        "deepfake-regulation"
       ],
-      "category": "ai-governance",
-      "updatedDate": "2026-01-22",
-      "partyOrigin": "B",
-      "sourceUrl": "https://app.leg.wa.gov/billsummary?BillNumber=6284&Year=2025&Initiative=false",
-      "legiscanUrl": "https://legiscan.com/WA/bill/SB6284/2025",
-      "legiscanId": 2088980,
-      "sponsors": [
-        "Marko Liias",
-        "Matt Boehnke",
-        "Sharon Shewmake",
-        "Paul Harris"
-      ]
-    },
-    {
-      "id": "wa-sb5637",
-      "billCode": "SB5637",
-      "title": "Promoting student access to information about media literacy and civic education.",
-      "summary": "This bill promotes student access to information about media literacy and civic education in Washington schools. It focuses on helping students better understand and evaluate media, which may include digital and AI-generated content.",
-      "stage": "Committee",
-      "stance": "review",
-      "impactTags": [
-        "ai-in-education"
-      ],
-      "category": "ai-education",
-      "updatedDate": "2025-03-12",
-      "partyOrigin": "R",
-      "sourceUrl": "https://app.leg.wa.gov/billsummary?BillNumber=5637&Year=2025&Initiative=false",
-      "legiscanUrl": "https://legiscan.com/WA/bill/SB5637/2025",
-      "legiscanId": 1950935,
-      "sponsors": [
-        "Phil Fortunato"
-      ]
-    },
-    {
-      "id": "wa-sb5431",
-      "billCode": "SB5431",
-      "title": "Modifying tax and revenue laws in a manner that is not estimated to affect state or local tax collections.",
-      "summary": "This bill makes technical modifications to tax and revenue laws that are not expected to change how much money the state or local governments collect. It does not appear to relate to AI or data-center policy.",
-      "stage": "Enacted",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2025-05-20",
-      "partyOrigin": "B",
-      "sourceUrl": "https://app.leg.wa.gov/billsummary?BillNumber=5431&Year=2025&Initiative=false",
-      "legiscanUrl": "https://legiscan.com/WA/bill/SB5431/2025",
-      "legiscanId": 1932136,
-      "sponsors": [
-        "Mark Schoesler",
-        "June Robinson",
-        "Perry Dozier",
-        "T'wina Nobles"
-      ]
-    },
-    {
-      "id": "wa-hb2708",
-      "billCode": "HB2708",
-      "title": "Removing a tax exemption for the replacement of equipment for data centers.",
-      "summary": "This bill would eliminate an existing tax exemption that data centers currently use when replacing their equipment. Removing this tax break would increase operating costs for data centers in Washington state.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "impactTags": [
-        "tax-incentives",
-        "economic-development"
-      ],
-      "category": "data-center-energy",
-      "updatedDate": "2026-01-30",
+      "category": "synthetic-media",
+      "updatedDate": "2026-03-24",
       "partyOrigin": "D",
-      "sourceUrl": "https://app.leg.wa.gov/billsummary?BillNumber=2708&Year=2025&Initiative=false",
-      "legiscanUrl": "https://legiscan.com/WA/bill/HB2708/2025",
-      "legiscanId": 2102202,
+      "sourceUrl": "https://app.leg.wa.gov/billsummary?BillNumber=1170&Year=2025&Initiative=false",
+      "legiscanUrl": "https://legiscan.com/WA/bill/HB1170/2025",
+      "legiscanId": 1903879,
       "sponsors": [
-        "April Berg",
-        "Chipalo Street",
+        "Clyde Shavers",
+        "Jamila Taylor",
         "Cindy Ryu",
-        "Lisa Parshley"
-      ]
-    },
-    {
-      "id": "wa-hb2655",
-      "billCode": "HB2655",
-      "title": "Providing a retail sales and use tax exemption for the construction and equipping of new data centers located in a county east of the Cascades that borders another state and has a population of at least 500,000.",
-      "summary": "This bill offers a sales and use tax exemption for building and equipping new data centers in a specific large county in eastern Washington that borders another state. It is designed to attract data center investment to that region through financial incentives.",
-      "stage": "Committee",
-      "stance": "favorable",
-      "impactTags": [
-        "tax-incentives",
-        "economic-development",
-        "job-creation"
-      ],
-      "category": "data-center-siting",
-      "updatedDate": "2026-01-26",
-      "partyOrigin": "B",
-      "sourceUrl": "https://app.leg.wa.gov/billsummary?BillNumber=2655&Year=2025&Initiative=false",
-      "legiscanUrl": "https://legiscan.com/WA/bill/HB2655/2025",
-      "legiscanId": 2092560,
-      "sponsors": [
-        "Timm Ormsby",
-        "Mike Volz",
-        "Alex Ybarra",
-        "April Berg"
-      ]
-    },
-    {
-      "id": "wa-hb2502",
-      "billCode": "HB2502",
-      "title": "Improving local government funding by removing certain sales and use tax exemptions.",
-      "summary": "This bill would remove certain sales and use tax exemptions that have historically benefited data centers in Washington state. By eliminating these tax breaks, it could significantly increase the cost of building and operating data centers in the state.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "impactTags": [
-        "tax-incentives",
-        "economic-development"
-      ],
-      "category": "data-center-energy",
-      "updatedDate": "2026-01-15",
-      "partyOrigin": "D",
-      "sourceUrl": "https://app.leg.wa.gov/billsummary?BillNumber=2502&Year=2025&Initiative=false",
-      "legiscanUrl": "https://legiscan.com/WA/bill/HB2502/2025",
-      "legiscanId": 2080009,
-      "sponsors": [
-        "Sharon Wylie",
-        "Lisa Parshley",
-        "Shaun Scott",
-        "Natasha Hill"
-      ]
-    },
-    {
-      "id": "wa-hb2515",
-      "billCode": "HB2515",
-      "title": "Addressing emerging large energy use facilities.",
-      "summary": "This bill establishes rules for large energy-consuming facilities, such as data centers, addressing how they connect to and impact the electrical grid. It likely imposes review requirements and restrictions to manage the strain these facilities place on energy infrastructure and rates.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "dimensionStances": {
-        "environmental": "concerning",
-        "energy": "concerning",
-        "community": "concerning",
-        "land-use": "concerning"
-      },
-      "impactTags": [
-        "grid-capacity",
-        "energy-rates",
-        "environmental-review",
-        "carbon-emissions",
-        "local-zoning"
-      ],
-      "category": "data-center-energy",
-      "updatedDate": "2026-02-14",
-      "partyOrigin": "D",
-      "sourceUrl": "https://app.leg.wa.gov/billsummary?BillNumber=2515&Year=2025&Initiative=false",
-      "legiscanUrl": "https://legiscan.com/WA/bill/HB2515/2025",
-      "legiscanId": 2079750,
-      "sponsors": [
-        "Beth Doglio",
-        "Alex Ramel",
-        "Sharon Wylie",
-        "Chris Stearns"
-      ]
-    },
-    {
-      "id": "wa-hb1476",
-      "billCode": "HB1476",
-      "title": "Delaying the rebasing of the nursing home payment rates to 2028.",
-      "summary": "This bill delays the scheduled update of nursing home payment rates until 2028. It has no connection to AI policy or data-center regulation.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-healthcare",
-      "updatedDate": "2025-01-21",
-      "partyOrigin": "D",
-      "sourceUrl": "https://app.leg.wa.gov/billsummary?BillNumber=1476&Year=2025&Initiative=false",
-      "legiscanUrl": "https://legiscan.com/WA/bill/HB1476/2025",
-      "legiscanId": 1930240,
-      "sponsors": [
-        "Timm Ormsby"
-      ]
-    },
-    {
-      "id": "wa-sb6184",
-      "billCode": "SB6184",
-      "title": "Updating the office of homeless youth program provisions.",
-      "summary": "This bill updates program provisions for the Washington State Office of Homeless Youth. It has no relevance to AI regulation or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2026-02-10",
-      "partyOrigin": "D",
-      "sourceUrl": "https://app.leg.wa.gov/billsummary?BillNumber=6184&Year=2025&Initiative=false",
-      "legiscanUrl": "https://legiscan.com/WA/bill/SB6184/2025",
-      "legiscanId": 2083092,
-      "sponsors": [
-        "Claire Wilson",
-        "T'wina Nobles",
-        "Rebecca Saldana",
-        "Yasmin Trudeau"
+        "Alex Ramel"
       ]
     },
     {
       "id": "wa-sb5395",
       "billCode": "SB5395",
       "title": "Making improvements to transparency and accountability in the prior authorization determination process.",
-      "summary": "This bill strengthens transparency and accountability requirements for the prior authorization process used by health insurers to approve or deny medical treatments. It likely targets the use of automated or AI-driven systems that make coverage decisions, requiring greater oversight and fairness in those determinations.",
+      "summary": "This bill improves transparency and accountability in the prior authorization process used by health insurers to approve or deny medical treatments. It likely addresses how automated or AI-driven systems make these coverage decisions, requiring greater openness about how those decisions are reached.",
       "stage": "Enacted",
       "stance": "concerning",
       "dimensionStances": {
@@ -274,24 +87,342 @@
       ]
     },
     {
-      "id": "wa-sb5810",
-      "billCode": "SB5810",
-      "title": "Making 2025-2027 fiscal biennium operating appropriations and 2023-2025 fiscal biennium second supplemental operating appropriations.",
-      "summary": "This bill is Washington State's general operating budget appropriations for the 2025-2027 fiscal period. It is a broad spending bill and not specifically focused on AI or data-center policy.",
+      "id": "wa-hb2515",
+      "billCode": "HB2515",
+      "title": "Addressing emerging large energy use facilities.",
+      "summary": "This bill creates new rules for large energy-consuming facilities, such as data centers, addressing how they connect to the power grid and their impact on energy rates and the environment. It likely imposes review requirements and conditions on these facilities before they can operate or expand.",
       "stage": "Committee",
-      "stance": "none",
+      "stance": "concerning",
+      "dimensionStances": {
+        "environmental": "concerning",
+        "energy": "concerning",
+        "community": "concerning",
+        "land-use": "concerning"
+      },
+      "impactTags": [
+        "grid-capacity",
+        "energy-rates",
+        "environmental-review",
+        "carbon-emissions",
+        "local-zoning"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-03-12",
+      "partyOrigin": "D",
+      "sourceUrl": "https://app.leg.wa.gov/billsummary?BillNumber=2515&Year=2025&Initiative=false",
+      "legiscanUrl": "https://legiscan.com/WA/bill/HB2515/2025",
+      "legiscanId": 2079750,
+      "sponsors": [
+        "Beth Doglio",
+        "Alex Ramel",
+        "Sharon Wylie",
+        "Chris Stearns"
+      ]
+    },
+    {
+      "id": "wa-hb1833",
+      "billCode": "HB1833",
+      "title": "Creating an artificial intelligence grant program.",
+      "summary": "This bill establishes a grant program to fund artificial intelligence research and development initiatives in Washington State. The program aims to support AI innovation and workforce development through direct financial support.",
+      "stage": "Committee",
+      "stance": "favorable",
       "impactTags": [],
       "category": "ai-governance",
-      "updatedDate": "2025-04-15",
-      "partyOrigin": "R",
-      "sourceUrl": "https://app.leg.wa.gov/billsummary?BillNumber=5810&Year=2025&Initiative=false",
-      "legiscanUrl": "https://legiscan.com/WA/bill/SB5810/2025",
-      "legiscanId": 2023840,
+      "updatedDate": "2026-03-12",
+      "partyOrigin": "B",
+      "sourceUrl": "https://app.leg.wa.gov/billsummary?BillNumber=1833&Year=2025&Initiative=false",
+      "legiscanUrl": "https://legiscan.com/WA/bill/HB1833/2025",
+      "legiscanId": 1952329,
       "sponsors": [
-        "Chris Gildon",
-        "Nikki Torres",
+        "Michael Keaton",
+        "Stephanie Barnard",
+        "Joshua Penner",
+        "Carolyn Eslick"
+      ]
+    },
+    {
+      "id": "wa-sb5637",
+      "billCode": "SB5637",
+      "title": "Promoting student access to information about media literacy and civic education.",
+      "summary": "This bill promotes student access to information about media literacy and civic education in Washington schools. It focuses on helping students better understand and evaluate media, which can include digital and AI-generated content.",
+      "stage": "Committee",
+      "stance": "review",
+      "impactTags": [
+        "ai-in-education"
+      ],
+      "category": "ai-education",
+      "updatedDate": "2026-02-26",
+      "partyOrigin": "R",
+      "sourceUrl": "https://app.leg.wa.gov/billsummary?BillNumber=5637&Year=2025&Initiative=false",
+      "legiscanUrl": "https://legiscan.com/WA/bill/SB5637/2025",
+      "legiscanId": 1950935,
+      "sponsors": [
+        "Phil Fortunato"
+      ]
+    },
+    {
+      "id": "wa-hb2157",
+      "billCode": "HB2157",
+      "title": "Regulating high-risk artificial intelligence system development, deployment, and use.",
+      "summary": "This bill establishes regulatory requirements for the development, deployment, and use of high-risk AI systems in Washington State. It aims to ensure transparency, safety standards, and accountability measures for AI applications that pose significant risks to consumers and the public.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "concerning"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "ai-safety",
+        "data-privacy"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-19",
+      "partyOrigin": "D",
+      "sourceUrl": "https://app.leg.wa.gov/billsummary?BillNumber=2157&Year=2025&Initiative=false",
+      "legiscanUrl": "https://legiscan.com/WA/bill/HB2157/2025",
+      "legiscanId": 2059113,
+      "sponsors": [
+        "Cindy Ryu",
+        "Chris Stearns",
+        "Alex Ramel",
+        "Lisa Parshley"
+      ]
+    },
+    {
+      "id": "wa-sb6284",
+      "billCode": "SB6284",
+      "title": "Providing consumer protections for artificial intelligence systems.",
+      "summary": "This Washington state bill establishes consumer protection rules for AI systems, requiring transparency and safeguards for how AI is used in products and services. It aims to protect residents from harmful or deceptive AI practices by setting standards companies must follow.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "concerning"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "ai-safety",
+        "data-privacy"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-06",
+      "partyOrigin": "B",
+      "sourceUrl": "https://app.leg.wa.gov/billsummary?BillNumber=6284&Year=2025&Initiative=false",
+      "legiscanUrl": "https://legiscan.com/WA/bill/SB6284/2025",
+      "legiscanId": 2088980,
+      "sponsors": [
+        "Marko Liias",
         "Matt Boehnke",
-        "Leonard Christian"
+        "Sharon Shewmake",
+        "Paul Harris"
+      ]
+    },
+    {
+      "id": "wa-hb2655",
+      "billCode": "HB2655",
+      "title": "Providing a retail sales and use tax exemption for the construction and equipping of new data centers located in a county east of the Cascades that borders another state and has a population of at least 500,000.",
+      "summary": "This bill offers a sales and use tax exemption for building and equipping new data centers in a specific large county in eastern Washington that borders another state. It is designed to attract data center investment to that region by reducing construction costs.",
+      "stage": "Committee",
+      "stance": "favorable",
+      "impactTags": [
+        "tax-incentives",
+        "economic-development",
+        "job-creation"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-02-06",
+      "partyOrigin": "B",
+      "sourceUrl": "https://app.leg.wa.gov/billsummary?BillNumber=2655&Year=2025&Initiative=false",
+      "legiscanUrl": "https://legiscan.com/WA/bill/HB2655/2025",
+      "legiscanId": 2092560,
+      "sponsors": [
+        "Timm Ormsby",
+        "Mike Volz",
+        "Alex Ybarra",
+        "April Berg"
+      ]
+    },
+    {
+      "id": "wa-sb6171",
+      "billCode": "SB6171",
+      "title": "Addressing emerging large energy use facilities.",
+      "summary": "This bill establishes regulatory requirements for large energy-consuming facilities, including data centers, to ensure they do not strain electrical grids and comply with environmental standards. The measure mandates review and approval processes before such facilities can operate in Washington state.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "environmental": "concerning",
+        "energy": "concerning"
+      },
+      "impactTags": [
+        "grid-capacity",
+        "energy-rates",
+        "environmental-review"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-02-04",
+      "partyOrigin": "D",
+      "sourceUrl": "https://app.leg.wa.gov/billsummary?BillNumber=6171&Year=2025&Initiative=false",
+      "legiscanUrl": "https://legiscan.com/WA/bill/SB6171/2025",
+      "legiscanId": 2080463,
+      "sponsors": [
+        "Sharon Shewmake",
+        "Vandana Slatter",
+        "Emily Alvarado",
+        "Jessica Bateman"
+      ]
+    },
+    {
+      "id": "wa-hb2708",
+      "billCode": "HB2708",
+      "title": "Removing a tax exemption for the replacement of equipment for data centers.",
+      "summary": "This bill would eliminate the existing tax exemption that data centers currently receive when replacing their equipment, making it more expensive to upgrade or maintain data center infrastructure in Washington. Removing this tax break could discourage data center investment and expansion in the state.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "impactTags": [
+        "tax-incentives",
+        "economic-development"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-01-30",
+      "partyOrigin": "D",
+      "sourceUrl": "https://app.leg.wa.gov/billsummary?BillNumber=2708&Year=2025&Initiative=false",
+      "legiscanUrl": "https://legiscan.com/WA/bill/HB2708/2025",
+      "legiscanId": 2102202,
+      "sponsors": [
+        "April Berg",
+        "Chipalo Street",
+        "Cindy Ryu",
+        "Lisa Parshley"
+      ]
+    },
+    {
+      "id": "wa-hb2503",
+      "billCode": "HB2503",
+      "title": "Regulating artificial intelligence training data.",
+      "summary": "This bill establishes regulations governing how AI systems can use data for training, likely requiring transparency about data sources and limiting use of certain personal information. The measure aims to protect individuals' privacy rights while AI models are being developed and deployed.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "review",
+        "ai-consumer": "concerning"
+      },
+      "impactTags": [
+        "data-privacy",
+        "algorithmic-transparency"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-01-30",
+      "partyOrigin": "D",
+      "sourceUrl": "https://app.leg.wa.gov/billsummary?BillNumber=2503&Year=2025&Initiative=false",
+      "legiscanUrl": "https://legiscan.com/WA/bill/HB2503/2025",
+      "legiscanId": 2080106,
+      "sponsors": [
+        "Clyde Shavers",
+        "Davina Duerr",
+        "Lisa Parshley",
+        "Shelley Kloba"
+      ]
+    },
+    {
+      "id": "wa-hb2667",
+      "billCode": "HB2667",
+      "title": "Providing consumer protections for artificial intelligence systems.",
+      "summary": "This bill establishes consumer protection requirements for artificial intelligence systems, likely including transparency, safety, and data handling obligations. It represents substantive regulatory requirements advancing consumer safeguards in AI deployment.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "restrictive"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "ai-safety",
+        "data-privacy"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-26",
+      "partyOrigin": "B",
+      "sourceUrl": "https://app.leg.wa.gov/billsummary?BillNumber=2667&Year=2025&Initiative=false",
+      "legiscanUrl": "https://legiscan.com/WA/bill/HB2667/2025",
+      "legiscanId": 2092630,
+      "sponsors": [
+        "Clyde Shavers",
+        "Stephanie Barnard",
+        "Natasha Hill"
+      ]
+    },
+    {
+      "id": "wa-hb2502",
+      "billCode": "HB2502",
+      "title": "Improving local government funding by removing certain sales and use tax exemptions.",
+      "summary": "This bill would remove certain sales and use tax exemptions, which likely includes exemptions currently benefiting data centers in Washington State. Eliminating these tax breaks would increase operating costs for data center operators in the state.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "impactTags": [
+        "tax-incentives",
+        "economic-development"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-01-15",
+      "partyOrigin": "D",
+      "sourceUrl": "https://app.leg.wa.gov/billsummary?BillNumber=2502&Year=2025&Initiative=false",
+      "legiscanUrl": "https://legiscan.com/WA/bill/HB2502/2025",
+      "legiscanId": 2080009,
+      "sponsors": [
+        "Sharon Wylie",
+        "Lisa Parshley",
+        "Shaun Scott",
+        "Natasha Hill"
+      ]
+    },
+    {
+      "id": "wa-sb6120",
+      "billCode": "SB6120",
+      "title": "Regulating high-risk artificial intelligence system development, deployment, and use.",
+      "summary": "This bill establishes regulatory requirements for high-risk AI systems in Washington, including development standards, deployment oversight, and use restrictions to protect public safety and rights. It imposes mandatory transparency and accountability measures on companies developing and deploying potentially harmful AI technologies.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "concerning"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "ai-safety",
+        "data-privacy"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-14",
+      "partyOrigin": "D",
+      "sourceUrl": "https://app.leg.wa.gov/billsummary?BillNumber=6120&Year=2025&Initiative=false",
+      "legiscanUrl": "https://legiscan.com/WA/bill/SB6120/2025",
+      "legiscanId": 2073579,
+      "sponsors": [
+        "Lisa Wellman",
+        "Robert Hasegawa",
+        "T'wina Nobles",
+        "Yasmin Trudeau"
+      ]
+    },
+    {
+      "id": "wa-hb1706",
+      "billCode": "HB1706",
+      "title": "Aligning the implementation of application programming interfaces for prior authorization with federal guidelines.",
+      "summary": "This bill requires health insurers to implement standardized APIs for prior authorization processes in compliance with federal guidelines, improving transparency and reducing delays in insurance approval decisions. The measure addresses how algorithmic systems manage healthcare access by mandating interoperable technical standards.",
+      "stage": "Enacted",
+      "stance": "concerning",
+      "impactTags": [
+        "algorithmic-transparency"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-04-07",
+      "partyOrigin": "D",
+      "sourceUrl": "https://app.leg.wa.gov/billsummary?BillNumber=1706&Year=2025&Initiative=false",
+      "legiscanUrl": "https://legiscan.com/WA/bill/HB1706/2025",
+      "legiscanId": 1944661,
+      "sponsors": [
+        "Tarra Simmons"
       ]
     }
   ]

@@ -1,5 +1,37 @@
 [
   {
+    "id": "hill-county-tx",
+    "name": "Hill County",
+    "fips": "48217",
+    "state": "Texas",
+    "stateCode": "TX",
+    "type": "county",
+    "actions": [
+      {
+        "title": "Data Center Construction Moratorium Enacted",
+        "date": "2026-05-12",
+        "status": "enacted",
+        "summary": "Hill County commissioners voted 3-2 to enact what appears to be the first county-level data center moratorium in Texas, pausing construction in unincorporated rural areas for one year amid noise, water, and power concerns.",
+        "sourceUrl": "https://www.texastribune.org/2026/05/12/texas-hill-county-approves-data-center-construction-pause-ai/"
+      },
+      {
+        "title": "Moratorium Rescinded After $100M Developer Lawsuit",
+        "date": "2026-06-05",
+        "status": "failed",
+        "summary": "Hill County commissioners rescinded the moratorium less than a month after enacting it, following a $100 million lawsuit filed by a data center developer; commissioners replaced it with a voluntary developer checklist.",
+        "sourceUrl": "https://www.texastribune.org/2026/06/05/texas-hill-county-moratorium-rescinded-data-centers/"
+      }
+    ],
+    "concerns": [
+      "noise-vibration",
+      "water-consumption",
+      "grid-capacity",
+      "residential-proximity",
+      "local-control"
+    ],
+    "contextBlurb": "Hill County, roughly 55 miles south of Fort Worth, passed what appears to be Texas's first county-level data center moratorium in May 2026 after residents raised alarms about a proposed 300-acre Provident Data Centers development in north Hillsboro. The moratorium was rescinded within weeks after a developer sued the county for $100 million in damages, and commissioners replaced the pause with a non-binding developer checklist. The episode illustrated the acute legal vulnerability of Texas counties, which lack general zoning authority, when they attempt to restrict data center development."
+  },
+  {
     "id": "hood-county-tx",
     "name": "Hood County",
     "fips": "48221",
@@ -8,23 +40,87 @@
     "type": "county",
     "actions": [
       {
-        "title": "Proposed 6-Month Development Moratorium on Data Centers Voted Down",
+        "title": "Proposed Data Center Moratorium Voted Down",
         "date": "2026-02-10",
         "status": "failed",
-        "summary": "Hood County commissioners voted 3-2 to reject a proposed 6-month pause on new industrial development including data centers after a state senator warned counties lack legal authority to impose moratoriums and asked the attorney general to investigate.",
+        "summary": "Hood County commissioners rejected a proposed six-month moratorium on industrial development including data centers by a 3-2 vote, after a letter from state Sen. Paul Bettencourt threatened legal action and warned the county lacked statutory authority to impose such a pause.",
         "sourceUrl": "https://www.texastribune.org/2026/02/10/texas-hood-county-rejects-data-center-development-pause-ai/"
       }
     ],
     "concerns": [
       "water-consumption",
-      "water-infrastructure",
+      "noise-vibration",
+      "residential-proximity",
       "local-control",
       "environmental-review",
-      "noise-vibration",
-      "carbon-emissions",
       "grid-capacity"
     ],
-    "contextBlurb": "Hood County faces the potential buildout of four data centers, with residents warning that proposed sites sit in a recharge zone for the Upper Trinity Aquifer and within the Paluxy River watershed feeding Dinosaur Valley State Park. Opponents warned projects could consume up to 1 million gallons of water per day at full buildout and trigger construction of natural gas plants. The county's moratorium attempt was thwarted when State Sen. Paul Bettencourt wrote to Attorney General Ken Paxton arguing counties have no constitutional or statutory authority to impose development moratoriums."
+    "contextBlurb": "Hood County, about 40 miles southwest of Fort Worth, faced proposals for at least four large data center projects including the 2,600-acre Comanche Circle development near Tolar, which would have nine campuses totaling up to five gigawatts next to Vistra's Comanche Peak nuclear plant. Residents warned the site sits over the Upper Trinity Aquifer recharge zone and the Paluxy River watershed, projecting up to one million gallons of daily water consumption at full buildout. After hours of packed public testimony, commissioners voted the moratorium down following a last-minute letter from Sen. Bettencourt to the Texas Attorney General threatening investigation of any county that enacted such a restriction."
+  },
+  {
+    "id": "cameron-county-tx",
+    "name": "Cameron County",
+    "fips": "48061",
+    "state": "Texas",
+    "stateCode": "TX",
+    "type": "county",
+    "actions": [
+      {
+        "title": "Resolution Opposing Unsafe Data Center Development",
+        "date": "2026-04-07",
+        "status": "enacted",
+        "summary": "Cameron County Commissioners Court unanimously passed a resolution opposing any data center development that fails to incorporate adequate safeguards for natural resources and residents, and formally called on the Texas Legislature to grant counties greater regulatory authority over high-impact industrial siting.",
+        "sourceUrl": "https://myrgv.com/local-news/2026/04/09/cameron-county-calls-for-long-term-planning-on-proposed-data-centers/"
+      },
+      {
+        "title": "Resolution Opposing Potable-Water Evaporative Cooling Systems",
+        "date": "2026-04-07",
+        "status": "enacted",
+        "summary": "The Cameron County Commissioners Court also adopted a separate resolution formally opposing the use of open-loop evaporative cooling systems or other high-volume potable water consumption technologies by data centers in the county.",
+        "sourceUrl": "https://hoodline.com/2026/04/harlingen-ponders-time-out-as-14-billion-data-giant-targets-valley/"
+      }
+    ],
+    "concerns": [
+      "water-consumption",
+      "water-infrastructure",
+      "grid-capacity",
+      "local-control",
+      "environmental-review"
+    ],
+    "contextBlurb": "Cameron County in deep South Texas became a focal point for data center opposition after UK developer Eneus Energy proposed a 1,785-acre, 2-gigawatt campus near Valley International Airport outside Harlingen, a project valued at over $14 billion. The county has limited direct regulatory power over projects in unincorporated areas but passed resolutions opposing unsafe development and demanding the Legislature give counties more meaningful authority. County Judge Eddie Treviño Jr. described Cameron County as one of only a handful of Texas counties actively advocating for stronger local oversight, citing serious concerns about water and electricity access in this drought-stressed, rapidly growing border region."
+  },
+  {
+    "id": "harlingen-city-tx",
+    "name": "City of Harlingen",
+    "fips": "48061",
+    "state": "Texas",
+    "stateCode": "TX",
+    "type": "municipal",
+    "actions": [
+      {
+        "title": "Public Hearings Called for Proposed 120-Day Data Center Moratorium",
+        "date": "2026-04-01",
+        "status": "proposed",
+        "summary": "Harlingen City commissioners responded to intense resident pressure by calling for public hearings on a proposed 120-day moratorium on data center applications, to allow the city to study impacts on water supply, wastewater capacity, and electrical infrastructure.",
+        "sourceUrl": "https://myrgv.com/local-news/2026/04/02/harlingen-calls-for-public-hearings-on-proposed-data-center-moratorium/"
+      },
+      {
+        "title": "120-Day Data Center Moratorium Enacted",
+        "date": "2026-05-21",
+        "status": "enacted",
+        "summary": "The Harlingen City Commission voted to enact a 120-day moratorium on accepting data center development applications in order to evaluate land-use compatibility, infrastructure demands on water and electricity systems, and to update city ordinances.",
+        "sourceUrl": "https://www.krgv.com/news/harlingen-officials-approve-120-day-moratorium-to-study-impact-of-potential-data-centers/"
+      }
+    ],
+    "concerns": [
+      "water-consumption",
+      "water-infrastructure",
+      "grid-capacity",
+      "environmental-review",
+      "local-zoning",
+      "residential-proximity"
+    ],
+    "contextBlurb": "Harlingen, a South Texas city near the US-Mexico border, moved toward a moratorium after community activists and residents pushed back against the proposed Eneus Energy 1,785-acre data center project just outside city limits near Valley International Airport. Although no project was formally proposed within city limits, the Harlingen WaterWorks board had already signed a preliminary agreement to potentially supply 4.6 million gallons of sewer water per day to the project. Residents packed city hall, citing concerns about water supply in an already drought-stressed region, prompting commissioners to enact the 120-day pause to modernize land regulations and conduct an infrastructure impact review."
   },
   {
     "id": "hays-county-tx",
@@ -35,181 +131,109 @@
     "type": "county",
     "actions": [
       {
-        "title": "County Judge Proposes Moratorium on High-Water-Use Development Permits",
+        "title": "Community Opposition and Exploration of Moratorium Tools",
         "date": "2026-02-17",
-        "status": "proposed",
-        "summary": "Hays County Judge Ruben Becerra announced plans to bring a moratorium on permits for large water-use developments — including data centers — to Commissioners Court, citing catastrophic drought conditions and strain on the Edwards Aquifer.",
-        "sourceUrl": "https://cbsaustin.com/news/local/hays-county-officials-push-back-on-proposed-ai-data-centers-over-water-concerns"
+        "status": "under-review",
+        "summary": "Hays County and its county seat San Marcos became a statewide flashpoint for data center opposition after hundreds of residents packed a February 2026 city council meeting to oppose a proposed AI data center rezoning, which the council then denied 5-2.",
+        "sourceUrl": "https://www.governing.com/infrastructure/texas-data-center-boom-is-creating-a-new-political-problem"
       }
     ],
     "concerns": [
+      "local-zoning",
+      "residential-proximity",
       "water-consumption",
-      "water-infrastructure",
-      "environmental-review",
-      "local-control",
-      "grid-capacity"
+      "grid-capacity",
+      "local-control"
     ],
-    "contextBlurb": "Hays County Judge Ruben Becerra declared the regional water outlook 'a potential catastrophe,' citing an already drought-strained Edwards Aquifer, and proposed a moratorium on permits for any high-water-demand development including data centers. His proposal came the day before — and was galvanized by — the San Marcos City Council's 5-2 denial of a rezoning request for a 200-acre data center that could have used up to 70,000 gallons of water per day. Becerra framed the moratorium as a broader county-level safeguard ahead of additional data center proposals."
+    "contextBlurb": "Hays County — home to San Marcos — emerged as one of the most visible battlegrounds in Texas's data center debate, with residents citing concerns over water, power, and residential compatibility. Data centers have been described as extremely unpopular in Hays County, driving political pressure on local officials. The county judge publicly attributed some of Gov. Abbott's mid-2026 regulatory pivot to the political heat generated by communities like Hays County ahead of the November election cycle."
   },
   {
-    "id": "san-marcos-tx",
+    "id": "san-marcos-city-tx",
     "name": "City of San Marcos",
     "fips": "48209",
     "state": "Texas",
     "stateCode": "TX",
-    "type": "city",
+    "type": "municipal",
     "actions": [
       {
-        "title": "City Council Denies Land-Use Map Change for CloudBurst / Highlander Data Center",
-        "date": "2026-02-18",
-        "status": "enacted",
-        "summary": "San Marcos City Council voted 5-2 to deny a future land-use map change that would have cleared the way for a roughly 200-acre AI data center southwest of downtown, following an eight-hour public hearing overwhelmingly opposed by residents citing water scarcity and environmental risk.",
-        "sourceUrl": "https://www.kut.org/energy-environment/2026-02-18/san-marcos-city-council-blocks-proposed-data-center"
+        "title": "Rezoning for Proposed AI Data Center Denied",
+        "date": "2026-02-17",
+        "status": "failed",
+        "summary": "San Marcos City Council voted 5-2 to deny a rezoning application that would have allowed an AI data center to be built in the city, following an overflow crowd of residents in opposition at city hall.",
+        "sourceUrl": "https://www.governing.com/infrastructure/texas-data-center-boom-is-creating-a-new-political-problem"
       },
       {
-        "title": "First Attempt: Supermajority Zoning Vote Failed",
-        "date": "2025-08-01",
-        "status": "failed",
-        "summary": "An earlier attempt in summer 2025 to pass a zoning change for the same data center site also failed because it could not achieve the required supermajority vote on the council.",
-        "sourceUrl": "https://communityimpact.com/austin/san-marcos-buda-kyle/government/2026/02/18/san-marcos-council-denies-map-change-stops-data-center-development/"
+        "title": "Citywide Zoning Ban on Data Centers Enacted",
+        "date": "2026-06-30",
+        "status": "enacted",
+        "summary": "San Marcos became the first Texas city to enact a comprehensive zoning ban prohibiting data centers within city limits, using a land-use code change rather than a moratorium to try to withstand anticipated legal challenges under the state's Death Star Law.",
+        "sourceUrl": "https://www.texastribune.org/2026/06/30/texas-san-marcos-data-center-ban-zoning-laws/"
       }
     ],
     "concerns": [
-      "water-consumption",
-      "water-infrastructure",
-      "environmental-review",
       "local-zoning",
-      "grid-capacity",
-      "residential-proximity"
+      "local-control",
+      "residential-proximity",
+      "water-consumption",
+      "grid-capacity"
     ],
-    "contextBlurb": "San Marcos became a flashpoint for Texas data center opposition when hundreds of residents showed up to a late-night council session to oppose a 200-acre AI data center near a recharge zone for the Edwards Aquifer. Grassroots organizers worked for over a year against the proposal, with water advocates warning the region is 'out of water.' The developer, Fort Worth-based Highlander SM One, may refile the request in six months under city rules."
+    "contextBlurb": "San Marcos made national headlines in early 2026 when hundreds of residents packed city hall to oppose a proposed AI data center rezoning, which the council denied. The city subsequently became the first in Texas to enact a full zoning ban on data centers, updating its land-use code rather than issuing a moratorium in an attempt to insulate the action from legal challenge under HB 2559 and the 2023 Death Star Law. State Sen. Paul Bettencourt vowed to challenge the ban, setting up a likely court test of how far Texas municipalities can go in restricting data center development."
   },
   {
-    "id": "round-rock-tx",
-    "name": "City of Round Rock",
-    "fips": "48491",
+    "id": "lockhart-city-tx",
+    "name": "City of Lockhart",
+    "fips": "48055",
     "state": "Texas",
     "stateCode": "TX",
-    "type": "city",
+    "type": "municipal",
     "actions": [
       {
-        "title": "Skybox Data Center Rezoning (29.69 Acres) Approved Over Community Objection",
-        "date": "2026-02-12",
+        "title": "Zoning Code Updated to Restrict Data Centers to Heavy Industrial Zone",
+        "date": "2026-05-01",
         "status": "enacted",
-        "summary": "Round Rock City Council unanimously approved a rezoning of ~29.69 acres from light industrial to a planned unit development for Skybox Datacenters despite more than 3,000 resident petition signatures opposing the project and hours of public comment citing noise, grid demand, air quality, and property values.",
-        "sourceUrl": "https://communityimpact.com/austin/round-rock/government/2026/02/12/after-hours-of-public-debate-round-rock-council-approves-data-center-zoning/"
+        "summary": "Lockhart City Council updated its zoning code to formally define data centers and restrict them exclusively to the heavy industrial land-use category, confining potential development to only two designated areas of the city and requiring a special use permit as an additional barrier.",
+        "sourceUrl": "https://www.texastribune.org/2026/06/30/texas-san-marcos-data-center-ban-zoning-laws/"
       }
     ],
     "concerns": [
-      "noise-vibration",
       "local-zoning",
       "residential-proximity",
-      "property-values",
-      "grid-capacity",
-      "local-control"
+      "local-control",
+      "noise-vibration"
     ],
-    "contextBlurb": "Round Rock approved its ninth data center in February 2026, rezoning land adjacent to the Chandler Creek residential neighborhood for a Skybox facility despite a 3,000-signature petition and warnings from Public Citizen that low-frequency infrasound from large data centers would not be covered by the city's existing noise ordinance. Residents complained that eight prior data centers were approved before the community noticed, and that public-hearing signs were inadequately posted. Round Rock is part of a broader Williamson County cluster that includes facilities in Pflugerville, Hutto, and Georgetown."
+    "contextBlurb": "Lockhart, a small city in Caldwell County southeast of Austin, took a deliberately cautious approach to data center restriction by updating its zoning ordinance rather than enacting an outright ban, aiming to achieve a de facto ban-like effect without triggering costly litigation. By limiting data centers to the heavy industrial zone and adding a special use permit requirement, city officials hoped to create what one official called 'intense filtration' for any development proposals. The strategy reflects a growing playbook among smaller Texas cities that want to control data center siting but lack the legal resources to withstand a direct challenge from industry."
   },
   {
-    "id": "williamson-county-tx",
-    "name": "Williamson County / City of Hutto",
-    "fips": "48491",
+    "id": "fort-worth-city-tx",
+    "name": "City of Fort Worth",
+    "fips": "48439",
     "state": "Texas",
     "stateCode": "TX",
-    "type": "county",
+    "type": "municipal",
     "actions": [
       {
-        "title": "Hutto Planning & Zoning Hears Rezoning Request for Zydeco 40-Acre Data Center Amid Resident Opposition",
-        "date": "2026-04-07",
+        "title": "Proposed Comprehensive Data Center Zoning Ordinance (First of Its Kind)",
+        "date": "2026-07-08",
         "status": "under-review",
-        "summary": "Hutto's Planning and Zoning Commission took up a request from Zydeco Development to rezone 40 acres and amend the city's future land-use map to allow a 'midscale' data center, replacing a planned 173-unit apartment complex; residents crowded City Hall to voice concerns.",
-        "sourceUrl": "https://beta2.communityimpact.com/austin/pflugerville-hutto/development/2026/04/09/hutto-residents-air-concerns-over-proposed-data-center/"
+        "summary": "Fort Worth's Zoning Commission voted 7-4 to recommend denial of the city's first-ever data center zoning ordinance — which proposed setbacks, industrial-zone restrictions, noise standards, screening requirements, and generator siting rules — sending it back to City Council for revision.",
+        "sourceUrl": "https://fortworthreport.org/2026/07/08/zoning-commissioners-deny-data-center-rules-return-ordinance-to-fort-worth-city-council/"
+      },
+      {
+        "title": "Five City Council Members Call for Temporary Data Center Moratorium",
+        "date": "2026-07-10",
+        "status": "proposed",
+        "summary": "Following the zoning commission's denial, five Fort Worth council members announced plans to propose a temporary moratorium on new data center applications at the council's August 11 meeting to allow more time for regulation development and stakeholder engagement.",
+        "sourceUrl": "https://www.nbcdfw.com/news/local/fort-worth-data-center-moratorium-zoning-vote/4046474/"
       }
     ],
     "concerns": [
       "local-zoning",
       "noise-vibration",
+      "residential-proximity",
       "grid-capacity",
       "water-consumption",
-      "residential-proximity",
       "local-control"
     ],
-    "contextBlurb": "Williamson County's cities — Round Rock, Hutto, Pflugerville, and Georgetown — are experiencing a surge of data center proposals tied to Austin's growing tech market. Williamson County itself has limited authority over approvals, with zoning power resting with individual cities, creating a patchwork of policies. In April 2026, Hutto residents packed City Hall to oppose a Zydeco Development rezoning request for a midscale data center on land previously earmarked for housing."
-  },
-  {
-    "id": "bosque-county-tx",
-    "name": "Bosque County",
-    "fips": "48035",
-    "state": "Texas",
-    "stateCode": "TX",
-    "type": "county",
-    "actions": [
-      {
-        "title": "Community Opposition to Infrakey / CyrusOne Data Center in Ross; No Blocking Action Taken",
-        "date": "2025-12-14",
-        "status": "failed",
-        "summary": "Dozens of residents gathered at the Ross Volunteer Fire Department in December 2025 to oppose a large data center already under construction in Bosque County, but county officials declined to take blocking action, citing expected tax revenue increases of 120% over 30 years.",
-        "sourceUrl": "https://www.texastribune.org/2026/02/13/texas-data-centers-local-governments-power/"
-      }
-    ],
-    "concerns": [
-      "water-consumption",
-      "local-control",
-      "grid-capacity",
-      "noise-vibration",
-      "environmental-review",
-      "carbon-emissions"
-    ],
-    "contextBlurb": "A CyrusOne data center northwest of Waco in Bosque County was already under construction by late 2025, with county officials projecting a 120% boost to the county tax base worth $70 million over three decades. Despite organized community opposition meetings at the Ross Volunteer Fire Department, the county did not pursue any restrictive ordinance or pause. Texas Senate District 22 — which includes Bosque County — became a flashpoint, with Republican primary candidates making data center regulation a campaign issue."
-  },
-  {
-    "id": "harlingen-cameron-county-tx",
-    "name": "City of Harlingen",
-    "fips": "48061",
-    "state": "Texas",
-    "stateCode": "TX",
-    "type": "city",
-    "actions": [
-      {
-        "title": "City-Owned Utility Executes Reclaimed Water Supply Agreement for RGV Data Center",
-        "date": "2025-11-01",
-        "status": "enacted",
-        "summary": "Harlingen's city-owned utility entered an agreement to supply a data center developer with more than 4.6 million gallons per day of reclaimed wastewater, after residents addressed the City Commission opposing the project over water and electricity concerns but were told the site is outside city boundaries.",
-        "sourceUrl": "https://wacobridge.org/2026/02/13/can-local-officials-stop-data-centers-texas/"
-      }
-    ],
-    "concerns": [
-      "water-consumption",
-      "water-infrastructure",
-      "grid-capacity",
-      "local-control",
-      "residential-proximity"
-    ],
-    "contextBlurb": "Harlingen's municipal utility became one of the few Texas city utilities to directly negotiate a data-center water supply deal, committing over 4.6 million gallons per day of reclaimed wastewater to a developer behind the RGV Data Center Project, which projects approximately 1,000 new jobs. Residents raised concerns at public commission meetings but city officials said they lacked authority to intervene since the site is outside city limits. The use of reclaimed rather than potable water was offered as a mitigating factor by the developer."
-  },
-  {
-    "id": "college-station-brazos-county-tx",
-    "name": "City of College Station",
-    "fips": "48041",
-    "state": "Texas",
-    "stateCode": "TX",
-    "type": "city",
-    "actions": [
-      {
-        "title": "City Council Rejects Sale of City Property to Data Center Developer",
-        "date": "2025-12-01",
-        "status": "enacted",
-        "summary": "College Station city leaders rejected the sale of city-owned property to a data center developer following mounting resident pressure over water and electricity concerns, and stipulated that any future data center deal would require the developer to secure its own power and water sources.",
-        "sourceUrl": "https://wacobridge.org/2026/02/13/can-local-officials-stop-data-centers-texas/"
-      }
-    ],
-    "concerns": [
-      "water-consumption",
-      "grid-capacity",
-      "local-control",
-      "local-zoning",
-      "residential-proximity"
-    ],
-    "contextBlurb": "College Station became one of the few Texas cities to use its property ownership as a lever to resist data center development, rejecting a land sale after residents pressured the council over power grid strain and water demand. Officials conditioned any future deal on the developer sourcing its own electricity and water, effectively raising the bar for development. The city is named alongside San Marcos, Amarillo, Waco, and Harlingen as an active site of grassroots data center opposition as of April 2026."
+    "contextBlurb": "Fort Worth is navigating one of the most complex municipal data center policy debates in Texas, driven by surging developer interest and organized community opposition from groups like Tarrant4Change and 817 Gather. The city drafted what would have been its first comprehensive data center zoning ordinance — covering setbacks, noise limits, generator placement, and water use — but the Zoning Commission rejected it in July 2026, calling for stricter protections and more deliberation time. Residents have pressed for 1-mile setbacks from homes and hospitals, and five council members subsequently moved to pursue a formal moratorium while stronger rules are crafted."
   }
 ]

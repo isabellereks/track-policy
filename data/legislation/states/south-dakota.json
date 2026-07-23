@@ -5,14 +5,14 @@
   "stance": "concerning",
   "stanceDatacenter": "concerning",
   "stanceAI": "concerning",
-  "lastUpdated": "2026-04-14",
-  "contextBlurb": "South Dakota has no enacted AI or data-center law. Pending bills pull hard in opposite directions: one would temporarily ban new data-center construction to protect the grid, while another would exempt data-center equipment from sales and use tax. A separate bill would regulate insurer use of AI in coverage decisions.",
+  "lastUpdated": "2026-07-22",
+  "contextBlurb": "South Dakota is advancing regulation across both data centers and AI. On data centers: SB135 (enacted) — Aims to shield South Dakota residents from higher utility bills and energy shortages driven by data center demand, while clarifying which authorities can regulate data centers. On AI: SB169 (in committee) — Requires health insurance companies in South Dakota to follow specific rules when using AI systems to make decisions about whether patients receive medical care.",
   "legislation": [
     {
       "id": "sd-sb135",
       "billCode": "SB135",
       "title": "Protect residents from increased utility costs and utility shortages caused by data centers and clarify authority to regulate data centers.",
-      "summary": "This bill aims to protect South Dakota residents from higher utility bills and power shortages that could result from data center electricity demand. It also clarifies which government authorities have the power to regulate data centers and their utility usage.",
+      "summary": "This bill aims to shield South Dakota residents from higher utility bills and energy shortages driven by data center demand, while clarifying which authorities can regulate data centers. It establishes protective measures and oversight to limit the burden data centers place on the electrical grid and utility customers.",
       "stage": "Enacted",
       "stance": "restrictive",
       "dimensionStances": {
@@ -22,7 +22,6 @@
       "impactTags": [
         "grid-capacity",
         "energy-rates",
-        "water-infrastructure",
         "local-control"
       ],
       "category": "data-center-energy",
@@ -39,137 +38,10 @@
       ]
     },
     {
-      "id": "sd-sb169",
-      "billCode": "SB169",
-      "title": "Place requirements on the use of artificial intelligence systems by health carriers in making determinations about the provision of health care services.",
-      "summary": "This bill requires health insurance companies in South Dakota to follow specific rules when using AI systems to make decisions about covering or providing health care services. It aims to ensure AI-driven coverage determinations are fair, transparent, and accountable.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "dimensionStances": {
-        "ai-governance-dim": "concerning",
-        "ai-public": "concerning"
-      },
-      "impactTags": [
-        "ai-in-healthcare",
-        "algorithmic-transparency",
-        "ai-safety"
-      ],
-      "category": "ai-healthcare",
-      "updatedDate": "2026-01-29",
-      "partyOrigin": "D",
-      "sourceUrl": "https://sdlegislature.gov/#/Session/Bill/26550",
-      "legiscanUrl": "https://legiscan.com/SD/bill/SB169/2026",
-      "legiscanId": 2101622,
-      "sponsors": [
-        "Liz Larson"
-      ]
-    },
-    {
-      "id": "sd-hb1301",
-      "billCode": "HB1301",
-      "title": "Limit costs and risks associated with electricity use by data centers and impose a moratorium.",
-      "summary": "This bill places a temporary ban on new data center construction in South Dakota while addressing the financial and grid strain that large data centers place on electricity systems. It aims to protect other electricity users from higher costs and reliability risks caused by the heavy power demands of data centers.",
-      "stage": "Committee",
-      "stance": "restrictive",
-      "dimensionStances": {
-        "environmental": "none",
-        "energy": "restrictive",
-        "community": "concerning",
-        "land-use": "none"
-      },
-      "impactTags": [
-        "grid-capacity",
-        "energy-rates",
-        "local-zoning",
-        "environmental-review"
-      ],
-      "category": "data-center-siting",
-      "updatedDate": "2026-02-04",
-      "partyOrigin": "D",
-      "sourceUrl": "https://sdlegislature.gov/#/Session/Bill/27287",
-      "legiscanUrl": "https://legiscan.com/SD/bill/HB1301/2026",
-      "legiscanId": 2107251,
-      "sponsors": [
-        "Erin Healy",
-        "Liz Larson",
-        "Erik Muckey"
-      ]
-    },
-    {
-      "id": "sd-sb235",
-      "billCode": "SB235",
-      "title": "Protect residents from increased utility costs and utility shortages caused by data centers, to clarify authority to regulate data centers, and to modify provisions pertaining to the purchasing of goods and services by a data center.",
-      "summary": "This South Dakota bill aims to shield residents from higher utility bills and power shortages caused by data centers by giving regulators clearer authority to oversee them. It also updates rules around what goods and services data centers are allowed to purchase.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "dimensionStances": {
-        "energy": "concerning",
-        "community": "concerning"
-      },
-      "impactTags": [
-        "grid-capacity",
-        "energy-rates",
-        "water-infrastructure",
-        "local-control"
-      ],
-      "category": "data-center-energy",
-      "updatedDate": "2026-02-04",
-      "partyOrigin": "R",
-      "sourceUrl": "https://sdlegislature.gov/#/Session/Bill/27290",
-      "legiscanUrl": "https://legiscan.com/SD/bill/SB235/2026",
-      "legiscanId": 2107807,
-      "sponsors": [
-        "Casey Crabtree"
-      ]
-    },
-    {
-      "id": "sd-sb234",
-      "billCode": "SB234",
-      "title": "Modify provisions pertaining to the purchasing of goods and services related to data center operations.",
-      "summary": "Modify provisions pertaining to the purchasing of goods and services related to data center operations.",
-      "stage": "Committee",
-      "stance": "review",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2026-02-04",
-      "partyOrigin": "R",
-      "sourceUrl": "https://sdlegislature.gov/#/Session/Bill/27289",
-      "legiscanUrl": "https://legiscan.com/SD/bill/SB234/2026",
-      "legiscanId": 2107582,
-      "sponsors": [
-        "Casey Crabtree"
-      ]
-    },
-    {
-      "id": "sd-hb1005",
-      "billCode": "HB1005",
-      "title": "Provide a sales and use tax exemption for goods and services related to data center operations.",
-      "summary": "This bill exempts data center equipment and services from South Dakota sales and use taxes. It is designed to attract data center businesses to the state by reducing their operating costs.",
-      "stage": "Committee",
-      "stance": "favorable",
-      "impactTags": [
-        "tax-incentives",
-        "economic-development",
-        "job-creation"
-      ],
-      "category": "data-center-siting",
-      "updatedDate": "2026-01-13",
-      "partyOrigin": "R",
-      "sourceUrl": "https://sdlegislature.gov/#/Session/Bill/26317",
-      "legiscanUrl": "https://legiscan.com/SD/bill/HB1005/2026",
-      "legiscanId": 2061028,
-      "sponsors": [
-        "Casey Crabtree",
-        "Kent Roe",
-        "Tim Czmowski",
-        "Nick Fosness"
-      ]
-    },
-    {
       "id": "sd-hb1038",
       "billCode": "HB1038",
       "title": "Allow the Public Utilities Commission to assess actual costs to data centers that are customers of public utilities.",
-      "summary": "This bill would allow South Dakota's Public Utilities Commission to charge data centers the real costs they impose on the power grid, rather than standard utility rates. It aims to ensure that large data center electricity consumers pay their fair share of grid infrastructure expenses.",
+      "summary": "This bill would let South Dakota's Public Utilities Commission charge data centers the actual costs they impose on the electric grid, rather than standard utility rates. This targets data centers specifically, potentially making their energy costs higher to reflect their large power demands.",
       "stage": "Enacted",
       "stance": "concerning",
       "impactTags": [
@@ -186,62 +58,164 @@
       ]
     },
     {
-      "id": "sd-hb1144",
-      "billCode": "HB1144",
-      "title": "Restrict the use of artificial intelligence in therapy and psychotherapy services and to provide a penalty therefor.",
-      "summary": "This bill bans the use of artificial intelligence in providing therapy and psychotherapy services in South Dakota. Violations would result in a penalty, effectively preventing AI systems from delivering mental health counseling to patients.",
-      "stage": "Filed",
-      "stance": "restrictive",
-      "dimensionStances": {
-        "ai-governance-dim": "restrictive",
-        "ai-public": "restrictive"
-      },
+      "id": "sd-sb239",
+      "billCode": "SB239",
+      "title": "Modify provisions relating to the reinvestment payment program, and relating to the purchasing of goods and services used by projects approved for the reinvestment payment program.",
+      "summary": "This bill modifies South Dakota's reinvestment payment program to adjust tax incentives and purchasing rules for approved projects, likely including data-center developments. The changes appear designed to make the incentive program more attractive or flexible for qualifying projects.",
+      "stage": "Dead",
+      "stance": "favorable",
       "impactTags": [
-        "ai-in-healthcare",
-        "ai-safety"
+        "economic-development",
+        "tax-incentives"
       ],
-      "category": "ai-healthcare",
-      "updatedDate": "2026-01-27",
+      "category": "data-center-siting",
+      "updatedDate": "2026-02-24",
       "partyOrigin": "R",
-      "sourceUrl": "https://sdlegislature.gov/#/Session/Bill/26480",
-      "legiscanUrl": "https://legiscan.com/SD/bill/HB1144/2026",
-      "legiscanId": 2093753,
+      "sourceUrl": "https://sdlegislature.gov/#/Session/Bill/27299",
+      "legiscanUrl": "https://legiscan.com/SD/bill/SB239/2026",
+      "legiscanId": 2107753,
       "sponsors": [
-        "Taylor Rehfeldt"
+        "Casey Crabtree",
+        "Kyle Schoenfish"
       ]
     },
     {
-      "id": "sd-sb168",
-      "billCode": "SB168",
-      "title": "Regulate the use of chatbots by minors.",
-      "summary": "This bill sets rules on how chatbots can be used by minors in South Dakota. It likely requires safeguards or restrictions to protect children interacting with AI-powered chat tools.",
-      "stage": "Committee",
+      "id": "sd-hb1246",
+      "billCode": "HB1246",
+      "title": "Prohibit nondisclosure of certain agreements related to data centers.",
+      "summary": "This bill prohibits companies from using nondisclosure agreements to hide the terms of data-center-related agreements, requiring transparency in public negotiations. The measure aims to increase public accountability in economic development deals involving data centers.",
+      "stage": "Dead",
+      "stance": "concerning",
+      "impactTags": [
+        "nda-transparency",
+        "economic-development"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-02-20",
+      "partyOrigin": "B",
+      "sourceUrl": "https://sdlegislature.gov/#/Session/Bill/27243",
+      "legiscanUrl": "https://legiscan.com/SD/bill/HB1246/2026",
+      "legiscanId": 2103285,
+      "sponsors": [
+        "John Hughes",
+        "Bobbi Andera",
+        "Joy Hohn",
+        "Dylan Jordan"
+      ]
+    },
+    {
+      "id": "sd-hb1301",
+      "billCode": "HB1301",
+      "title": "Limit costs and risks associated with electricity use by data centers and impose a moratorium.",
+      "summary": "This bill places a moratorium on new data center construction in South Dakota to limit the strain that large data centers put on the electrical grid and local energy costs. It aims to protect existing residents and businesses from bearing the financial and infrastructure risks associated with heavy data center electricity consumption.",
+      "stage": "Dead",
       "stance": "restrictive",
       "dimensionStances": {
-        "ai-governance-dim": "concerning",
-        "ai-consumer": "restrictive"
+        "environmental": "none",
+        "energy": "restrictive",
+        "community": "none",
+        "land-use": "none"
       },
       "impactTags": [
-        "child-safety",
-        "algorithmic-transparency"
+        "grid-capacity",
+        "energy-rates",
+        "local-zoning",
+        "environmental-review"
       ],
-      "category": "ai-governance",
-      "updatedDate": "2026-01-29",
+      "category": "data-center-siting",
+      "updatedDate": "2026-02-18",
       "partyOrigin": "D",
-      "sourceUrl": "https://sdlegislature.gov/#/Session/Bill/26549",
-      "legiscanUrl": "https://legiscan.com/SD/bill/SB168/2026",
-      "legiscanId": 2101105,
+      "sourceUrl": "https://sdlegislature.gov/#/Session/Bill/27287",
+      "legiscanUrl": "https://legiscan.com/SD/bill/HB1301/2026",
+      "legiscanId": 2107251,
       "sponsors": [
-        "Liz Larson"
+        "Erin Healy",
+        "Liz Larson",
+        "Erik Muckey"
+      ]
+    },
+    {
+      "id": "sd-sb232",
+      "billCode": "SB232",
+      "title": "Impose a one-year moratorium on the construction or expansion of hyperscale data centers.",
+      "summary": "This bill would temporarily halt all new construction or expansion of very large data centers in South Dakota for one year. The moratorium gives the state time to evaluate the impacts of hyperscale data centers before allowing further development.",
+      "stage": "Dead",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "energy": "restrictive",
+        "community": "restrictive",
+        "land-use": "restrictive"
+      },
+      "impactTags": [
+        "local-zoning",
+        "local-control",
+        "grid-capacity",
+        "water-infrastructure"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-02-18",
+      "partyOrigin": "R",
+      "sourceUrl": "https://sdlegislature.gov/#/Session/Bill/27269",
+      "legiscanUrl": "https://legiscan.com/SD/bill/SB232/2026",
+      "legiscanId": 2107261,
+      "sponsors": [
+        "Taffy Howard",
+        "Phil Jensen"
+      ]
+    },
+    {
+      "id": "sd-sb235",
+      "billCode": "SB235",
+      "title": "Protect residents from increased utility costs and utility shortages caused by data centers, to clarify authority to regulate data centers, and to modify provisions pertaining to the purchasing of goods and services by a data center.",
+      "summary": "This South Dakota bill aims to shield residents from higher utility bills and potential energy shortages caused by large data centers by clarifying the state's power to regulate them. It also updates rules around how data centers buy goods and services.",
+      "stage": "Dead",
+      "stance": "concerning",
+      "dimensionStances": {
+        "energy": "concerning",
+        "community": "concerning"
+      },
+      "impactTags": [
+        "energy-rates",
+        "grid-capacity",
+        "local-control"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-02-18",
+      "partyOrigin": "R",
+      "sourceUrl": "https://sdlegislature.gov/#/Session/Bill/27290",
+      "legiscanUrl": "https://legiscan.com/SD/bill/SB235/2026",
+      "legiscanId": 2107807,
+      "sponsors": [
+        "Casey Crabtree"
+      ]
+    },
+    {
+      "id": "sd-sb234",
+      "billCode": "SB234",
+      "title": "Modify provisions pertaining to the purchasing of goods and services related to data center operations.",
+      "summary": "This bill updates the rules around how South Dakota government entities can purchase goods and services for data center operations. It appears to streamline or adjust procurement processes related to data centers, likely making it easier or more flexible to acquire data center resources.",
+      "stage": "Dead",
+      "stance": "favorable",
+      "impactTags": [
+        "economic-development"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-02-18",
+      "partyOrigin": "R",
+      "sourceUrl": "https://sdlegislature.gov/#/Session/Bill/27289",
+      "legiscanUrl": "https://legiscan.com/SD/bill/SB234/2026",
+      "legiscanId": 2107582,
+      "sponsors": [
+        "Casey Crabtree"
       ]
     },
     {
       "id": "sd-sb127",
       "billCode": "SB127",
       "title": "Limit nuisances caused by data centers.",
-      "summary": "This bill places limits on nuisances created by data centers, such as noise and other disturbances that can affect nearby residents. It aims to regulate how data centers operate to reduce their negative impact on surrounding communities.",
-      "stage": "Committee",
-      "stance": "concerning",
+      "summary": "This bill places limits on the nuisances that data centers can create, such as noise and other disturbances affecting nearby residents. It aims to regulate how data centers operate to reduce their negative impact on surrounding communities.",
+      "stage": "Dead",
+      "stance": "restrictive",
       "dimensionStances": {
         "community": "concerning",
         "land-use": "concerning"
@@ -252,7 +226,7 @@
         "local-zoning"
       ],
       "category": "data-center-siting",
-      "updatedDate": "2026-01-26",
+      "updatedDate": "2026-02-18",
       "partyOrigin": "B",
       "sourceUrl": "https://sdlegislature.gov/#/Session/Bill/26300",
       "legiscanUrl": "https://legiscan.com/SD/bill/SB127/2026",
@@ -265,46 +239,143 @@
       ]
     },
     {
-      "id": "sd-sb232",
-      "billCode": "SB232",
-      "title": "Impose a one-year moratorium on the construction or expansion of hyperscale data centers.",
-      "summary": "This bill places a one-year ban on building or expanding large-scale data centers in South Dakota. During the pause, the state would have time to evaluate the impacts of hyperscale facilities before allowing new construction to proceed.",
+      "id": "sd-sb128",
+      "billCode": "SB128",
+      "title": "Update provisions related to certain large-use customers of utilities.",
+      "summary": "This bill updates utility regulations for large-use customers, which may affect data center energy arrangements and grid management. The provision likely addresses how utilities handle high-consumption industrial customers like data centers.",
+      "stage": "Dead",
+      "stance": "review",
+      "impactTags": [
+        "grid-capacity",
+        "energy-rates"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-02-18",
+      "partyOrigin": "R",
+      "sourceUrl": "https://sdlegislature.gov/#/Session/Bill/26547",
+      "legiscanUrl": "https://legiscan.com/SD/bill/SB128/2026",
+      "legiscanId": 2093363,
+      "sponsors": [
+        "Taffy Howard",
+        "Bobbi Andera",
+        "Julie Auch",
+        "Heather Baxter"
+      ]
+    },
+    {
+      "id": "sd-sb169",
+      "billCode": "SB169",
+      "title": "Place requirements on the use of artificial intelligence systems by health carriers in making determinations about the provision of health care services.",
+      "summary": "This bill requires health insurance companies in South Dakota to follow specific rules when using AI systems to make decisions about whether patients receive medical care. It aims to ensure AI-driven coverage determinations are fair, transparent, and properly overseen.",
       "stage": "Committee",
-      "stance": "restrictive",
+      "stance": "concerning",
       "dimensionStances": {
-        "energy": "restrictive",
-        "community": "restrictive",
-        "land-use": "restrictive"
+        "ai-governance-dim": "concerning",
+        "ai-public": "concerning"
       },
       "impactTags": [
-        "local-zoning",
-        "local-control",
-        "grid-capacity"
+        "ai-in-healthcare",
+        "algorithmic-transparency",
+        "ai-safety"
+      ],
+      "category": "ai-healthcare",
+      "updatedDate": "2026-02-17",
+      "partyOrigin": "D",
+      "sourceUrl": "https://sdlegislature.gov/#/Session/Bill/26550",
+      "legiscanUrl": "https://legiscan.com/SD/bill/SB169/2026",
+      "legiscanId": 2101622,
+      "sponsors": [
+        "Liz Larson"
+      ]
+    },
+    {
+      "id": "sd-sb170",
+      "billCode": "SB170",
+      "title": "Require the provision of a notice to consumers, interacting with certain chatbots or other human-simulating computer technologies that could mislead or deceive the consumer.",
+      "summary": "South Dakota requires businesses to notify consumers when they are interacting with chatbots or AI systems designed to simulate humans, preventing deceptive practices. The bill mandates clear disclosure to protect consumers from being misled about whether they are talking to a real person or an AI system.",
+      "stage": "Dead",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "concerning"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "child-safety"
+      ],
+      "category": "synthetic-media",
+      "updatedDate": "2026-02-17",
+      "partyOrigin": "D",
+      "sourceUrl": "https://sdlegislature.gov/#/Session/Bill/26551",
+      "legiscanUrl": "https://legiscan.com/SD/bill/SB170/2026",
+      "legiscanId": 2101186,
+      "sponsors": [
+        "Liz Larson"
+      ]
+    },
+    {
+      "id": "sd-sb168",
+      "billCode": "SB168",
+      "title": "Regulate the use of chatbots by minors.",
+      "summary": "This bill sets rules on how AI chatbots can be used by minors, likely requiring age verification or parental consent. It aims to protect children from potential harms associated with interacting with AI-powered chat systems.",
+      "stage": "Dead",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "restrictive"
+      },
+      "impactTags": [
+        "child-safety",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-12",
+      "partyOrigin": "D",
+      "sourceUrl": "https://sdlegislature.gov/#/Session/Bill/26549",
+      "legiscanUrl": "https://legiscan.com/SD/bill/SB168/2026",
+      "legiscanId": 2101105,
+      "sponsors": [
+        "Liz Larson"
+      ]
+    },
+    {
+      "id": "sd-hb1005",
+      "billCode": "HB1005",
+      "title": "Provide a sales and use tax exemption for goods and services related to data center operations.",
+      "summary": "This bill would exempt data center equipment and services from South Dakota sales and use taxes. The tax break is designed to attract data center businesses and investment to the state.",
+      "stage": "Dead",
+      "stance": "favorable",
+      "impactTags": [
+        "tax-incentives",
+        "economic-development",
+        "job-creation"
       ],
       "category": "data-center-siting",
       "updatedDate": "2026-02-04",
       "partyOrigin": "R",
-      "sourceUrl": "https://sdlegislature.gov/#/Session/Bill/27269",
-      "legiscanUrl": "https://legiscan.com/SD/bill/SB232/2026",
-      "legiscanId": 2107261,
+      "sourceUrl": "https://sdlegislature.gov/#/Session/Bill/26317",
+      "legiscanUrl": "https://legiscan.com/SD/bill/HB1005/2026",
+      "legiscanId": 2061028,
       "sponsors": [
-        "Taffy Howard",
-        "Phil Jensen"
+        "Casey Crabtree",
+        "Kent Roe",
+        "Tim Czmowski",
+        "Nick Fosness"
       ]
     },
     {
       "id": "sd-hb1125",
       "billCode": "HB1125",
       "title": "Create a taskforce to study the impact of artificial intelligence systems on the state.",
-      "summary": "This bill establishes a taskforce to examine how artificial intelligence systems affect South Dakota. The group would study AI's impacts and likely report findings to inform future policy decisions.",
-      "stage": "Committee",
+      "summary": "This bill establishes a taskforce to examine how artificial intelligence systems affect South Dakota. The group would study AI's impacts and implications for the state without imposing any restrictions or regulations.",
+      "stage": "Dead",
       "stance": "review",
       "impactTags": [
-        "ai-safety",
-        "algorithmic-transparency"
+        "algorithmic-transparency",
+        "ai-safety"
       ],
       "category": "ai-governance",
-      "updatedDate": "2026-01-26",
+      "updatedDate": "2026-02-04",
       "partyOrigin": "R",
       "sourceUrl": "https://sdlegislature.gov/#/Session/Bill/26539",
       "legiscanUrl": "https://legiscan.com/SD/bill/HB1125/2026",
@@ -314,6 +385,31 @@
         "Terri Jorgenson",
         "Bobbi Andera",
         "Heather Baxter"
+      ]
+    },
+    {
+      "id": "sd-hb1144",
+      "billCode": "HB1144",
+      "title": "Restrict the use of artificial intelligence in therapy and psychotherapy services and to provide a penalty therefor.",
+      "summary": "This bill bans or limits the use of AI in providing therapy and psychotherapy services in South Dakota, with penalties for violations. It aims to protect patients by ensuring mental health care is delivered by human professionals rather than AI systems.",
+      "stage": "Filed",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-governance-dim": "restrictive",
+        "ai-public": "restrictive"
+      },
+      "impactTags": [
+        "ai-in-healthcare",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-healthcare",
+      "updatedDate": "2026-02-02",
+      "partyOrigin": "R",
+      "sourceUrl": "https://sdlegislature.gov/#/Session/Bill/26480",
+      "legiscanUrl": "https://legiscan.com/SD/bill/HB1144/2026",
+      "legiscanId": 2093753,
+      "sponsors": [
+        "Taylor Rehfeldt"
       ]
     }
   ]

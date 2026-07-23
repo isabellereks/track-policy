@@ -1,53 +1,5 @@
 [
   {
-    "id": "frederick-county-md",
-    "name": "Frederick County",
-    "fips": "24021",
-    "state": "Maryland",
-    "stateCode": "MD",
-    "type": "county",
-    "actions": [
-      {
-        "title": "Critical Digital Infrastructure Overlay Zone (CDI-OZ) Ordinance 26-01-001 Enacted",
-        "date": "2025-12-23",
-        "status": "enacted",
-        "summary": "The County Council adopted a 2,615-acre Critical Digital Infrastructure Overlay Zone near Adamstown, restricting future data center development to one designated location and limiting it to no more than one percent of the county's total landmass.",
-        "sourceUrl": "https://www.frederickcountymd.gov/9128/Critical-Digital-Infrastructure-Overlay-"
-      },
-      {
-        "title": "County Executive Proposes CDI Overlay Map to Limit Data Center Siting",
-        "date": "2025-07-07",
-        "status": "enacted",
-        "summary": "County Executive Jessica Fitzwater proposed a zoning map that would significantly limit where data centers could be developed, ultimately enacted as part of the CDI-OZ framework confining development to existing industrial infrastructure areas.",
-        "sourceUrl": "https://frederickcountymd.gov/9122/Data-Centers"
-      },
-      {
-        "title": "Data Center Referendum Committee Gathers Signatures to Challenge CDI-OZ",
-        "date": "2026-03-10",
-        "status": "under-review",
-        "summary": "The Frederick County Data Center Referendum Committee collected the minimum 15,000 signatures needed to place a ballot question before voters to potentially repeal the 2,615-acre CDI Overlay Zone, citing inadequate environmental analysis.",
-        "sourceUrl": "https://www.wypr.org/wypr-news/2026-03-12/frederick-county-group-wants-voters-to-decide-data-center-limits"
-      },
-      {
-        "title": "MDE Air Quality Permit for 99 Diesel Backup Generators Approved at Adamstown Site",
-        "date": "2026-01-01",
-        "status": "enacted",
-        "summary": "The Maryland Department of the Environment approved a contested air quality permit authorizing installation of 99 diesel-fired backup generators at a data center site near Adamstown, drawing significant community opposition.",
-        "sourceUrl": "https://www.fredericknewspost.com/news/continuing_coverage/data_centers/"
-      }
-    ],
-    "concerns": [
-      "local-zoning",
-      "grid-capacity",
-      "water-consumption",
-      "carbon-emissions",
-      "residential-proximity",
-      "environmental-review",
-      "local-control"
-    ],
-    "contextBlurb": "Frederick County is home to Quantum Frederick, a 1,600-acre hyperscale data center campus on the site of a former aluminum smelting plant near Adamstown, making it Maryland's ground zero for data center growth. The County Council enacted the CDI-OZ in December 2025 to limit future development to a single 2,615-acre zone, but community opponents quickly mobilized a referendum effort citing concerns over power demand equivalent to four times the city of Baltimore. Active construction continues near Adamstown as of early 2026, and the CDI-OZ's fate may ultimately be decided by voters."
-  },
-  {
     "id": "prince-georges-county-md",
     "name": "Prince George's County",
     "fips": "24033",
@@ -56,78 +8,37 @@
     "type": "county",
     "actions": [
       {
-        "title": "Executive Order 42-2025: Temporary Halt on Data Center Permit Applications",
-        "date": "2025-09-12",
+        "title": "Qualified Data Center Task Force Established",
+        "date": "2025-11-01",
         "status": "enacted",
-        "summary": "County Executive Aisha Braveboy signed an executive order directing permitting staff to stop accepting or processing any data center permit applications through December 31, 2025, pending task force recommendations.",
-        "sourceUrl": "https://www.princegeorgescountymd.gov/sites/default/files/media-document/EO%2042-2025%20Qualified%20Data%20Centers%20Task%20Force.pdf"
+        "summary": "County formed a task force after the proposed Landover Mall hyperscale data center conversion drew resident protests; the task force delivered its final report in November 2025 recommending community input, benefit agreements, and residential-buffer zoning.",
+        "sourceUrl": "https://insideclimatenews.org/news/09072026/maryland-county-adopts-data-center-moratorium/"
       },
       {
-        "title": "Council Resolution CR-98-2025: Legislative Pause on Data Center Approvals",
-        "date": "2025-09-16",
+        "title": "Executive Order 15-2026 Extends Data Center Permit Hold",
+        "date": "2026-06-29",
         "status": "enacted",
-        "summary": "Four council members introduced a resolution establishing a 180-day moratorium on permits and subdivision plans for data centers, complementing the executive order and expiring when new legislation passes or the period elapses.",
-        "sourceUrl": "https://conduitstreet.mdcounties.org/2025/09/24/prince-georges-pauses-data-center-approvals-amid-policy-review/"
+        "summary": "County Executive Aisha Braveboy extended the temporary hold on accepting, considering, and processing qualified data center permit applications while the County Council reviews the task force's final recommendations and develops legislation.",
+        "sourceUrl": "https://www.princegeorgescountymd.gov/sites/default/files/media-document/EO%2015-2026%20In%20Support%20of%20Recommendations%20Forthcoming%20from%20the%20Qualified%20Data%20Centers%20Task%20Force%2C%20Extending%20Temporary%20Hold.pdf"
       },
       {
-        "title": "Data Center Task Force 400-Page Report Released with Zoning Recommendations",
-        "date": "2025-11-30",
-        "status": "proposed",
-        "summary": "The county's Qualified Data Centers Task Force delivered a 400-page report recommending tighter zoning restrictions, increased setbacks from homes and schools, and prohibitions on development in environmentally sensitive areas.",
-        "sourceUrl": "https://foxbaltimore.com/news/local/prince-georges-county-data-centers-zoning-electric-grid-energy-maryland"
+        "title": "Proposed Two-Year Moratorium on New Data Center Operations",
+        "date": "2026-06-30",
+        "status": "under-review",
+        "summary": "Council Chair Krystal Oriadha announced proposed legislation that would prevent new data centers from operating for two years while the county reviews land use, infrastructure, environmental, energy, public-safety, and economic impacts. The proposal has not yet been enacted.",
+        "sourceUrl": "https://pgccouncil.us/CivicAlerts.aspx?AID=2073"
       }
     ],
     "concerns": [
       "residential-proximity",
-      "environmental-review",
       "grid-capacity",
       "water-consumption",
+      "carbon-emissions",
       "local-zoning",
       "local-control",
-      "carbon-emissions",
-      "property-values"
+      "environmental-review"
     ],
-    "contextBlurb": "Prince George's County faced intense community backlash — including a 20,000-signature petition — over a proposed data center at the former Landover Mall site, prompting a coordinated executive and legislative moratorium in September 2025. The county's task force delivered its recommendations by November 2025, calling for stricter zoning, tighter residential setbacks, and environmental protections. Councilmember Wala Blegay has been a leading voice warning that local jurisdictions are forced to act in a vacuum due to the absence of state and federal guardrails."
-  },
-  {
-    "id": "baltimore-county-md",
-    "name": "Baltimore County",
-    "fips": "24005",
-    "state": "Maryland",
-    "stateCode": "MD",
-    "type": "county",
-    "actions": [
-      {
-        "title": "Data Center Permitting Moratorium Enacted Through End of 2026",
-        "date": "2026-02-02",
-        "status": "enacted",
-        "summary": "The County Council voted unanimously to pause data center permitting through as late as the end of 2026, also requiring the planning board to submit a regulatory study by October 1, 2026.",
-        "sourceUrl": "https://www.thebanner.com/economy/growth-development/baltimore-county-data-center-moratorium-EVIJFJDL5VGCDNC22K52NQBMGI/"
-      },
-      {
-        "title": "Bill to Repeal 2024 Data Center Zoning Pathway Introduced",
-        "date": "2026-01-01",
-        "status": "proposed",
-        "summary": "Councilmembers Izzy Patoka and David Marks introduced legislation to repeal the 2024 regulation that had created a permitting pathway allowing data centers in certain areas of the county.",
-        "sourceUrl": "https://www.thebanner.com/economy/growth-development/baltimore-county-data-center-moratorium-EVIJFJDL5VGCDNC22K52NQBMGI/"
-      },
-      {
-        "title": "Bill 54-24: Data Center Zoning Standards Enacted (Prior Baseline)",
-        "date": "2024-07-01",
-        "status": "enacted",
-        "summary": "Baltimore County enacted Bill 54-24, defining data centers as a distinct use, establishing where they may be permitted, and setting bulk, landscaping, noise, and site requirements — later subject to reversal efforts in 2026.",
-        "sourceUrl": "https://servercountry.org/policy/maryland/"
-      }
-    ],
-    "concerns": [
-      "local-zoning",
-      "grid-capacity",
-      "residential-proximity",
-      "noise-vibration",
-      "environmental-review",
-      "local-control"
-    ],
-    "contextBlurb": "Baltimore County reversed course in early 2026, enacting a bipartisan permitting moratorium through the end of the year after a proposed data center at a former Social Security Administration building sparked constituent concern. The 2026 moratorium reverses a 2024 law that had created a data center zoning pathway, and requires the planning board to produce a comprehensive regulatory framework by October 2026. Senator Charles Sydnor cited constituent pressure from a specific data center proposal in his district when supporting the statewide environmental impact study override."
+    "contextBlurb": "Prince George's County is operating under an executive hold on qualified data center permit processing while the council evaluates the task force's recommendations. Council Chair Krystal Oriadha has proposed a separate two-year moratorium on new operations, but that legislation remains under review rather than enacted. The policy response followed opposition to converting the former Landover Mall site into a hyperscale facility and focuses on ratepayer, energy, water, environmental, and neighborhood impacts."
   },
   {
     "id": "montgomery-county-md",
@@ -138,118 +49,215 @@
     "type": "county",
     "actions": [
       {
-        "title": "ZTA 26-01: Zoning Text Amendment to Restrict Data Centers to Industrial Zones",
-        "date": "2026-01-20",
+        "title": "Zoning Text Amendment ZTA 26-01 Proposed",
+        "date": "2026-01-01",
         "status": "under-review",
-        "summary": "Council President Fani-González and two co-sponsors introduced ZTA 26-01 to define data centers as a new conditional use, restrict them to industrially zoned areas, and impose noise, emissions, Tier 4 generator, and residential-distance standards.",
-        "sourceUrl": "https://www2.montgomerycountymd.gov/mcgportalapps/Press_Detail.aspx?Item_ID=48123"
+        "summary": "Council members Balcombe, Fani-Gonzalez, and Sayles introduced ZTA 26-01 to define data centers, restrict large facilities (over 20 MW) to industrial zones under conditional use review, and add conditions for noise limits and environmental protections.",
+        "sourceUrl": "https://actionnetwork.org/letters/strong-regulations-on-data-centers-and-pause-data-center-developments-in-moco"
       },
       {
-        "title": "County Executive Elrich Proposes Six-Month Moratorium on Data Center Permits",
-        "date": "2026-02-01",
-        "status": "proposed",
-        "summary": "County Executive Marc Elrich formally asked the County Council to enact a six-month moratorium on data center permits while zoning regulations are being finalized, citing the need for air pollution limits, 80% self-supply energy requirements, and industrial-only siting.",
-        "sourceUrl": "https://www.bayjournal.com/news/energy/maryland-counties-to-data-center-industry-slow-down/article_c8362372-9a29-4ef9-925a-c81840390a95.html"
+        "title": "Six-Month Moratorium Executive Order on Data Center Permits",
+        "date": "2026-06-12",
+        "status": "enacted",
+        "summary": "County Executive Marc Elrich signed an executive order placing a six-month pause on new data center permit applications to allow time for the state's data center impact assessment and for the County Council to finalize ZTA 26-01.",
+        "sourceUrl": "https://marylandmatters.org/2026/06/15/elrich-unveils-six-month-moratorium-on-montgomery-county-data-center-permits/"
       },
       {
-        "title": "Councilmember Glass Introduces Bill to Create 15-Member Data Center Task Force",
-        "date": "2026-01-20",
+        "title": "Dickerson Data Center Conditional Use Application Under Review",
+        "date": "2026-06-02",
         "status": "under-review",
-        "summary": "Councilmember Evan Glass introduced legislation to create a 15-member task force charged with studying data center impacts and delivering policy recommendations to the council within 12 months.",
-        "sourceUrl": "https://bethesdamagazine.com/2026/01/17/with-two-competing-proposals-county-council-wades-into-data-center-debate/"
+        "summary": "A conditional use amendment application from Terra Energy LLC to site a data center on a former coal-fired power plant in Dickerson was accepted by the Planning Department and discussed at a public Development Review Committee meeting.",
+        "sourceUrl": "https://actionnetwork.org/letters/strong-regulations-on-data-centers-and-pause-data-center-developments-in-moco"
       }
     ],
     "concerns": [
+      "noise-vibration",
       "local-zoning",
+      "residential-proximity",
       "grid-capacity",
       "water-consumption",
-      "noise-vibration",
-      "carbon-emissions",
-      "residential-proximity",
-      "water-infrastructure",
-      "environmental-review"
+      "environmental-review",
+      "local-control"
     ],
-    "contextBlurb": "Montgomery County faces pressure from a proposed 300-megawatt, 170-acre data center complex on the site of a decommissioned coal plant near Dickerson along the Potomac River — the source of 75% of the region's drinking water. Community groups and the Sugarloaf Citizens Association have demanded a moratorium, and County Executive Elrich has supported one while Council President Fani-González has opposed it, creating a split in county leadership. As of early 2026, two competing regulatory approaches — a zoning text amendment and a study task force — are advancing simultaneously through the County Council."
+    "contextBlurb": "Montgomery County is navigating a proposed hyperscale data center at a former Dickerson power plant while racing to enact ZTA 26-01, which would limit large data centers to industrial zones with noise and environmental conditions. County Executive Elrich's six-month permit moratorium in June 2026 was designed to keep pace with Maryland's statewide data center impact assessment due September 2026. Community advocates and multiple council members pushed for a longer two-year moratorium, reflecting deep public concern about regulatory gaps."
   },
   {
-    "id": "calvert-county-md",
-    "name": "Calvert County",
-    "fips": "24009",
+    "id": "frederick-county-md",
+    "name": "Frederick County",
+    "fips": "24021",
     "state": "Maryland",
     "stateCode": "MD",
     "type": "county",
     "actions": [
       {
-        "title": "Zoning Ordinance Update: Data Centers Restricted to I-1/I-2 Industrial Zones with Setbacks and Noise Standards",
-        "date": "2025-03-01",
+        "title": "Critical Digital Infrastructure Overlay Zone (CDI-OZ) Enacted",
+        "date": "2025-12-01",
         "status": "enacted",
-        "summary": "A new zoning ordinance took effect formally defining data centers and restricting them to I-1 and I-2 industrial zones only, with requirements for setbacks, design standards, and noise compliance under use standards § Z-18-11F.",
-        "sourceUrl": "https://www.calvertcountymd.gov/3880/Data-Centers"
+        "summary": "The Frederick County Council passed ordinance 26-01-001 establishing a 2,600-acre data center overlay zone north of Adamstown, concentrating future development near the existing Quantum Frederick campus and restricting it to less than 1% of county land.",
+        "sourceUrl": "https://www.wypr.org/wypr-news/2025-12-24/frederick-county-council-passes-map-for-data-center-development"
       },
       {
-        "title": "BOCC Advances Text Amendment to Strengthen Environmental Requirements",
-        "date": "2026-01-28",
-        "status": "proposed",
-        "summary": "The Board of County Commissioners voted to advance a zoning text amendment requiring closed-loop cooling, prohibiting groundwater use for cooling, mandating developer-funded infrastructure upgrades, and enforcing Tier 4 generator standards.",
-        "sourceUrl": "https://www.calvertcountymd.gov/3880/Data-Centers"
-      },
-      {
-        "title": "BOCC Votes to Initiate Process for 24-Month Data Center Moratorium",
-        "date": "2026-03-03",
-        "status": "under-review",
-        "summary": "Following community backlash over Amazon Web Services job postings in Lusby and a secret NDA, commissioners voted unanimously to begin drafting an ordinance for a possible 24-month moratorium on data center approvals while a comprehensive environmental impact study is conducted.",
-        "sourceUrl": "https://southernmarylandchronicle.com/2026/03/04/job-postings-spark-lusby-data-center-debate-commissioners-respond-fast/"
-      },
-      {
-        "title": "Calvert County Moratorium Voted Down on Split Vote",
+        "title": "Citizen Referendum Petition on CDI-OZ Overlay Map",
         "date": "2026-04-01",
         "status": "failed",
-        "summary": "A majority of county commissioners voted against enacting the proposed two-year moratorium on data center development, drawing fierce public opposition and threats of electoral consequences at the next election.",
-        "sourceUrl": "https://www.somdnews.com/recorder/news/local/data-center-moratorium-shot-down-in-calvert-on-split-vote/article_078da1d3-b2ce-434b-9e72-907b1b6e1964.html"
+        "summary": "The Frederick County Data Center Referendum Committee collected over 20,000 signatures to place the CDI-OZ overlay map on the November ballot, but both the Frederick County Circuit Court and the Maryland Supreme Court ruled the zoning ordinance was not subject to referendum.",
+        "sourceUrl": "https://technical.ly/civics/maryland-supreme-court-frederick-data-center-referendum/"
       },
       {
-        "title": "Commissioner Cox Proposes Zoning Amendment to Remove Data Centers from Light Industrial and Mixed-Use Districts",
-        "date": "2026-04-01",
-        "status": "proposed",
-        "summary": "Following the moratorium's failure, Commissioner Cox moved to draft a permanent zoning text amendment that would remove data centers as a permitted use in light industrial and mixed-use districts, and to send a letter to the Maryland PSC regarding ratepayer impacts.",
-        "sourceUrl": "https://www.somdnews.com/recorder/news/local/data-center-moratorium-shot-down-in-calvert-on-split-vote/article_078da1d3-b2ce-434b-9e72-907b1b6e1964.html"
+        "title": "Executive Order Pausing New Data Center Applications",
+        "date": "2026-07-01",
+        "status": "enacted",
+        "summary": "Following the Maryland Supreme Court ruling blocking the referendum, County Executive Fitzwater signed an executive order pausing acceptance of new Critical Digital Infrastructure facility applications until December 31, 2026, pending the state's Data Center Impact Analysis.",
+        "sourceUrl": "https://frederickcountymd.gov/CivicAlerts.aspx?AID=5845"
       }
     ],
     "concerns": [
-      "water-consumption",
-      "water-infrastructure",
-      "grid-capacity",
-      "environmental-review",
       "local-control",
       "residential-proximity",
-      "noise-vibration"
+      "grid-capacity",
+      "water-consumption",
+      "carbon-emissions",
+      "noise-vibration",
+      "environmental-review",
+      "property-values"
     ],
-    "contextBlurb": "Calvert County's proximity to Calvert Cliffs Nuclear Power Plant attracted Amazon Web Services interest in a Lusby data center campus, triggering a rapid community backlash over a secret NDA between AWS and county commissioners. The county updated its zoning ordinance in March 2025 to restrict data centers to heavy industrial zones with setbacks and noise limits, then moved to further tighten water and cooling requirements in January 2026. A proposed 24-month moratorium was ultimately defeated on a split vote in early April 2026, but a follow-on proposal to permanently remove data centers from lighter industrial zones is now advancing."
+    "contextBlurb": "Frederick County has more planned hyperscale data centers than any other Maryland county, anchored by the Quantum Frederick campus near Adamstown, and residents fear the area will become a 'data center alley' resembling Loudoun County, Virginia. A citizen referendum campaign drew over 20,000 signatures opposing the council's 2,600-acre overlay zone, but courts ruled the zoning change could not appear on the ballot. County Executive Fitzwater responded by pausing all new applications and emphasizing that rising utility rates and community frustration demanded a reset with developers."
   },
   {
-    "id": "charles-county-md",
-    "name": "Charles County",
-    "fips": "24017",
+    "id": "harford-county-md",
+    "name": "Harford County",
+    "fips": "24025",
     "state": "Maryland",
     "stateCode": "MD",
     "type": "county",
     "actions": [
       {
-        "title": "ZTA 25-187: Proposed Zoning Text Amendment to Conditionally Permit Data Centers with Strict Standards",
-        "date": "2025-10-07",
-        "status": "under-review",
-        "summary": "Commissioners forwarded draft ZTA 25-187 to the Planning Commission, which would allow data centers as conditional uses in Business Park, General Industrial, Heavy Industrial, Low-Density Residential, and PUD Industrial zones subject to 200-foot property-line setbacks, 400-foot residential setbacks, noise and vibration studies, and 30% open space requirements.",
-        "sourceUrl": "https://southernmarylandchronicle.com/2026/03/17/maryland-data-centers-test-local-planning-in-st-mary-calvert-charles/"
+        "title": "Proposed 90-Day Data Center Moratorium (Bennett Bill)",
+        "date": "2026-04-21",
+        "status": "failed",
+        "summary": "Council Member Jacob Bennett introduced a bill for a 90-day pause on data center development to allow time for research, but the County Executive rejected the moratorium approach in favor of an outright ban.",
+        "sourceUrl": "https://www.wmar2news.com/infocus/mapping-the-data-center-rush-a-county-by-county-breakdown"
+      },
+      {
+        "title": "Permanent Countywide Data Center Ban (Bill 26-011)",
+        "date": "2026-06-10",
+        "status": "enacted",
+        "summary": "Harford County became the first Maryland county to permanently ban data centers in all zoning districts; the Council voted 7-0 and County Executive Cassilly signed Bill 26-011 into law the same day, codifying a prohibition that already existed by omission in the zoning code.",
+        "sourceUrl": "https://www.harfordcountymd.gov/CivicAlerts.aspx?AID=1700"
+      }
+    ],
+    "concerns": [
+      "grid-capacity",
+      "noise-vibration",
+      "water-consumption",
+      "residential-proximity",
+      "local-control",
+      "local-zoning",
+      "environmental-review"
+    ],
+    "contextBlurb": "Harford County enacted the most aggressive data center policy in Maryland, progressing from a proposed moratorium in April 2026 to a permanent ban signed into law in June 2026 after overwhelming community turnout at public hearings. County Executive Cassilly cited the potential for a single hyperscale facility to double the county's residential electricity demand as a primary reason for the ban. The Maryland Tech Council and industry groups have warned that Bill 26-011's broad language is legally vulnerable and may face court challenges."
+  },
+  {
+    "id": "baltimore-county-md",
+    "name": "Baltimore County",
+    "fips": "24005",
+    "state": "Maryland",
+    "stateCode": "MD",
+    "type": "county",
+    "actions": [
+      {
+        "title": "One-Year Data Center Development Moratorium",
+        "date": "2026-02-03",
+        "status": "enacted",
+        "summary": "The Baltimore County Council unanimously passed a one-year moratorium on data center permits, directing the Planning Board to assess electricity and water use, economic benefits, and recommend zoning and ratepayer-protection regulations by October 1, 2026.",
+        "sourceUrl": "https://www.thebanner.com/economy/growth-development/baltimore-county-data-center-moratorium-EVIJFJDL5VGCDNC22K52NQBMGI/"
+      }
+    ],
+    "concerns": [
+      "grid-capacity",
+      "water-consumption",
+      "local-zoning",
+      "residential-proximity",
+      "environmental-review",
+      "property-values"
+    ],
+    "contextBlurb": "Baltimore County's moratorium was triggered in large part by a developer's plan to convert a vacant Social Security Administration building in Woodlawn into a 42-acre, 150-megawatt data center campus, which drew strong public opposition. The council's unanimous February 2026 vote requires the Planning Board to deliver regulatory recommendations by October 2026, with the pause expiring 90 days after the report is received. The county had previously passed a 2024 zoning bill allowing data centers in its southeast and southwest corners, reflecting how quickly the local political climate shifted."
+  },
+  {
+    "id": "carroll-county-md",
+    "name": "Carroll County",
+    "fips": "24013",
+    "state": "Maryland",
+    "stateCode": "MD",
+    "type": "county",
+    "actions": [
+      {
+        "title": "12-Month Data Center Moratorium",
+        "date": "2026-02-19",
+        "status": "enacted",
+        "summary": "The Carroll County Board of Commissioners approved a one-year moratorium on data center development to study economic and environmental impacts and develop proposed zoning regulations.",
+        "sourceUrl": "https://www.wmar2news.com/infocus/mapping-the-data-center-rush-a-county-by-county-breakdown"
       }
     ],
     "concerns": [
       "local-zoning",
-      "noise-vibration",
-      "residential-proximity",
-      "water-consumption",
       "grid-capacity",
-      "environmental-review"
+      "water-consumption",
+      "environmental-review",
+      "local-control"
     ],
-    "contextBlurb": "Charles County took a proactive regulatory approach in late 2025, forwarding a detailed zoning text amendment to its Planning Commission before any major data center proposals arrived. ZTA 25-187 would impose among the strictest local siting conditions in Southern Maryland, including 400-foot setbacks from residential buildings, mandatory noise and vibration studies, and a minimum 50-acre lot size in residential-adjacent zones. A public hearing was anticipated in late November 2025 following Planning Commission review."
+    "contextBlurb": "Carroll County adopted a 12-month moratorium on data center development in February 2026, directing staff to study economic, water, and electricity impacts before any new applications are considered. County officials cited water limits and rising electric costs as key concerns given the county's largely rural character. Staff are working to develop zoning regulations before the moratorium expires in early 2027."
+  },
+  {
+    "id": "howard-county-md",
+    "name": "Howard County",
+    "fips": "24027",
+    "state": "Maryland",
+    "stateCode": "MD",
+    "type": "county",
+    "actions": [
+      {
+        "title": "Temporary Data Center Development Moratorium (S.M.A.R.T. Siting Act)",
+        "date": "2026-06-02",
+        "status": "enacted",
+        "summary": "The Howard County Council unanimously passed a temporary moratorium on new data center development effective through November 2, 2027, establishing a task force to define data centers, assess impacts on water and energy infrastructure, and recommend zoning changes.",
+        "sourceUrl": "https://www.wmar2news.com/news/region/howard-county/howard-county-council-unanimously-approves-temporary-ban-on-data-center-development"
+      }
+    ],
+    "concerns": [
+      "local-zoning",
+      "grid-capacity",
+      "water-consumption",
+      "noise-vibration",
+      "environmental-review",
+      "local-control"
+    ],
+    "contextBlurb": "Howard County's moratorium sponsor, Councilmember Christiana Rigby, noted the county's existing data center zoning framework dates to 1993 and is entirely inadequate for modern hyperscale facilities. The task force is required to include experts in utilities infrastructure, water resource management, climate resilience, and acoustic mitigation. Although Howard County currently has only small data-processing centers, the moratorium is designed to get ahead of large campus-style proposals before they materialize."
+  },
+  {
+    "id": "baltimore-city-md",
+    "name": "Baltimore City",
+    "fips": "24510",
+    "state": "Maryland",
+    "stateCode": "MD",
+    "type": "county",
+    "actions": [
+      {
+        "title": "One-Year Moratorium on Data Centers Using 10 MW or More",
+        "date": "2026-05-12",
+        "status": "enacted",
+        "summary": "The Baltimore City Council passed a one-year moratorium on construction of data centers consuming 10 megawatts or more annually, paired with a nine-month study of impacts on energy infrastructure, ratepayers, the economy, and public health.",
+        "sourceUrl": "https://baltimorefishbowl.com/stories/baltimore-city-council-passes-one-year-moratorium-on-data-centers/"
+      }
+    ],
+    "concerns": [
+      "grid-capacity",
+      "water-consumption",
+      "residential-proximity",
+      "environmental-review",
+      "local-control",
+      "carbon-emissions"
+    ],
+    "contextBlurb": "Baltimore City Council President Zeke Cohen introduced the moratorium in May 2026 as a complement to the Maryland General Assembly's Utility RELIEF Act, which requires data centers to pay for their own transmission and distribution costs. The bill mandates a nine-month study before any new large data center can be permitted, giving the city time to determine whether — not merely how — such facilities can coexist with Baltimore residents' needs. The Maryland Utility RELIEF Act also separately prohibits data center construction in low-income communities within Baltimore City."
   }
 ]

@@ -1,8 +1,9 @@
 /**
  * Build the FEC ↔ bioguide ID crosswalk from
  * `unitedstates/congress-legislators`. Enriches data/donors/politicians.json
- * (515 in-office FEC-ID'd members) with bioguide IDs, then HEAD-checks
- * Congress.gov portrait URLs.
+ * with the authoritative current-congress roster, preserving available FEC
+ * donor data and adding minimal records for newly seated members, then
+ * HEAD-checks Congress.gov portrait URLs.
  *
  * Outputs:
  *   data/crosswalk/legislators-current.json  (raw upstream)
@@ -53,6 +54,13 @@ interface Politician {
   chamber: string;
   status: string;
   [k: string]: unknown;
+}
+
+function normalizeParty(party?: string): string {
+  if (party === "Democrat") return "D";
+  if (party === "Republican") return "R";
+  if (party === "Independent") return "I";
+  return party?.slice(0, 1).toUpperCase() || "I";
 }
 
 function ensureDir(path: string) {
@@ -178,7 +186,7 @@ async function main() {
   let directHits = 0;
   let fuzzyHits = 0;
   const unmatched: Politician[] = [];
-  const enriched: Array<Politician & { bioguideId?: string }> = [];
+  const matchedByBioguide = new Map<string, Politician>();
 
   for (const p of inOffice) {
     let bg = fecToBio[p.id];
@@ -192,7 +200,7 @@ async function main() {
         unmatched.push(p);
       }
     }
-    enriched.push({ ...p, ...(bg ? { bioguideId: bg } : {}) });
+    if (bg) matchedByBioguide.set(bg, p);
   }
 
   const matched = directHits + fuzzyHits;
@@ -207,25 +215,54 @@ async function main() {
     }
   }
 
+  // The upstream file is the roster authority. Build every current member,
+  // carrying over donor fields where available and creating a minimal row for
+  // new members who have not yet appeared in the donor export.
+  const enriched: Array<Politician & { bioguideId: string }> = upstream.map(
+    (member) => {
+      const bioguideId = member.id.bioguide;
+      const donor = matchedByBioguide.get(bioguideId);
+      if (donor) return { ...donor, bioguideId };
+
+      const currentTerm = member.terms[member.terms.length - 1];
+      return {
+        id: member.id.fec?.[0] ?? `BIO-${bioguideId}`,
+        name:
+          member.name.official_full ??
+          `${member.name.first} ${member.name.last}`,
+        party: normalizeParty(currentTerm.party),
+        state: currentTerm.state,
+        chamber: currentTerm.type === "sen" ? "Senate" : "House",
+        status: "office",
+        bioguideId,
+      };
+    },
+  );
+
+  console.log(
+    `[crosswalk] current roster: ${enriched.length} members — ${matchedByBioguide.size} with donor records, ${enriched.length - matchedByBioguide.size} roster-only`,
+  );
+  const rosterMatchRate = Number(
+    ((matchedByBioguide.size / enriched.length) * 100).toFixed(1),
+  );
+
   // Photo HEAD-check
-  const bioguideIds = enriched
-    .map((e) => e.bioguideId)
-    .filter((b): b is string => Boolean(b));
+  const bioguideIds = enriched.map((e) => e.bioguideId);
   console.log(`[crosswalk] HEAD-checking ${bioguideIds.length} portrait URLs`);
   const validPhotos = await batchPhotoCheck(bioguideIds);
   console.log(`[crosswalk] valid portraits: ${validPhotos.size}/${bioguideIds.length}`);
 
   for (const e of enriched) {
-    if (e.bioguideId && validPhotos.has(e.bioguideId)) {
+    if (validPhotos.has(e.bioguideId)) {
       e.photoUrl = `https://unitedstates.github.io/images/congress/225x275/${e.bioguideId}.jpg`;
     }
   }
 
   writeJson(ENRICHED, {
     generatedAt: new Date().toISOString(),
-    matchRate: Number(matchRate),
-    matched,
-    unmatched: unmatched.length,
+    matchRate: rosterMatchRate,
+    matched: matchedByBioguide.size,
+    unmatched: enriched.length - matchedByBioguide.size,
     politicians: enriched,
   });
   console.log(`[crosswalk] wrote ${ENRICHED}`);

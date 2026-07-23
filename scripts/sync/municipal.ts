@@ -29,7 +29,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, "../..");
 const OUT_DIR = join(ROOT, "data/municipal");
 
-const MODEL = "claude-sonnet-4-6";
+const MODEL = process.env.ANTHROPIC_MODEL ?? "claude-sonnet-4-6";
 const MAX_STATES = process.env.MUNICIPAL_MAX
   ? Number(process.env.MUNICIPAL_MAX)
   : Infinity;
@@ -82,7 +82,10 @@ async function researchState(
   anthropic: Anthropic,
   state: string,
 ): Promise<unknown[]> {
-  const prompt = `Search for county and municipal data-center and AI policy actions in ${state} as of April 2026.
+  const currentDate = new Date().toISOString().slice(0, 10);
+  const prompt = `Search for county and municipal data-center and AI policy actions in ${state} as of ${currentDate}.
+
+Prioritize actions or material status changes from the last 90 days, while retaining older actions that are still in effect.
 
 Include:
 - Enacted moratoriums or construction pauses

@@ -2,45 +2,18 @@
   "state": "Oklahoma",
   "stateCode": "OK",
   "region": "na",
-  "stance": "review",
-  "stanceDatacenter": "review",
-  "stanceAI": "review",
-  "lastUpdated": "2026-04-14",
-  "contextBlurb": "Oklahoma has no enacted AI law. Pending bills would require data centers to post financial assurance for decommissioning, stand up a state directory of hyperscalers tracked by the Corporation Commission, and develop guidance for AI use in schools.",
+  "stance": "concerning",
+  "stanceDatacenter": "concerning",
+  "stanceAI": "concerning",
+  "lastUpdated": "2026-07-22",
+  "contextBlurb": "Oklahoma is advancing regulation across both data centers and AI. On data centers: HB2992 (enacted) — Creates ratepayer protections aimed at preventing regular utility customers from bearing the cost burden of energy use by large data centers. On AI: SB1734 (enacted) — Requires the development of guidance on how artificial intelligence and emerging technologies should be used in schools.",
   "legislation": [
-    {
-      "id": "ok-hb4194",
-      "billCode": "HB4194",
-      "title": "Data centers; Data Center Decommissioning Act; proper decommissioning; Oklahoma Corporation Commission; financial assurance; effective date.",
-      "summary": "This bill creates rules requiring data centers in Oklahoma to be properly decommissioned when they shut down, overseen by the Oklahoma Corporation Commission. It also requires data center operators to provide financial assurance, meaning they must set aside funds to cover the costs of proper closure.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "dimensionStances": {
-        "environmental": "concerning",
-        "community": "concerning",
-        "land-use": "review"
-      },
-      "impactTags": [
-        "environmental-review",
-        "local-zoning",
-        "economic-development"
-      ],
-      "category": "data-center-siting",
-      "updatedDate": "2026-02-02",
-      "partyOrigin": "R",
-      "sourceUrl": "https://www.oklegislature.gov/BillInfo.aspx?Bill=hb4194&Session=2600",
-      "legiscanUrl": "https://legiscan.com/OK/bill/HB4194/2026",
-      "legiscanId": 2082909,
-      "sponsors": [
-        "Mark Chapman"
-      ]
-    },
     {
       "id": "ok-sb1734",
       "billCode": "SB1734",
       "title": "Schools; creating the Oklahoma Responsible Technology in Schools Act; requiring development of guidance for use of artificial intelligence and emerging technologies. Effective date. Emergency.",
-      "summary": "This Oklahoma bill requires the development of guidance for how artificial intelligence and other emerging technologies should be used in schools. It establishes a framework for responsible AI use in educational settings without imposing strict bans or mandates.",
-      "stage": "Committee",
+      "summary": "This Oklahoma bill requires the development of guidance on how artificial intelligence and emerging technologies should be used in schools. It establishes a framework for responsible AI use in educational settings without imposing strict bans or penalties.",
+      "stage": "Enacted",
       "stance": "review",
       "dimensionStances": {
         "ai-governance-dim": "review",
@@ -51,7 +24,7 @@
         "algorithmic-transparency"
       ],
       "category": "ai-education",
-      "updatedDate": "2026-03-24",
+      "updatedDate": "2026-05-13",
       "partyOrigin": "R",
       "sourceUrl": "https://www.oklegislature.gov/BillInfo.aspx?Bill=sb1734&Session=2600",
       "legiscanUrl": "https://legiscan.com/OK/bill/SB1734/2026",
@@ -62,125 +35,22 @@
       ]
     },
     {
-      "id": "ok-hb3621",
-      "billCode": "HB3621",
-      "title": "State government; Oklahoma State Data Center; Legislative Service Bureau; responsibilities; effective date.",
-      "summary": "This bill reorganizes responsibilities related to Oklahoma's State Data Center, transferring certain duties to the Legislative Service Bureau. It deals with government IT infrastructure management rather than AI policy or data-center construction/energy issues.",
-      "stage": "Committee",
-      "stance": "review",
-      "impactTags": [],
-      "category": "ai-government",
-      "updatedDate": "2026-03-17",
-      "partyOrigin": "R",
-      "sourceUrl": "https://www.oklegislature.gov/BillInfo.aspx?Bill=hb3621&Session=2600",
-      "legiscanUrl": "https://legiscan.com/OK/bill/HB3621/2026",
-      "legiscanId": 2080842,
-      "sponsors": [
-        "Mark Lawson",
-        "Kristen Thompson",
-        "Brian Hill"
-      ]
-    },
-    {
-      "id": "ok-hb3394",
-      "billCode": "HB3394",
-      "title": "Hyperscale data centers; Oklahoma Hyperscale Data Center Directory Act; Oklahoma Corporation Commission; directory; electrical utilities; water providers; effective date.",
-      "summary": "This bill creates a directory of large-scale data centers in Oklahoma, tracked by the state's Corporation Commission along with utilities and water providers. It appears to be a data-collection and transparency measure to help the state monitor the infrastructure demands of hyperscale data centers.",
-      "stage": "Committee",
-      "stance": "review",
-      "impactTags": [
-        "grid-capacity",
-        "water-infrastructure",
-        "energy-rates"
-      ],
-      "category": "data-center-energy",
-      "updatedDate": "2026-02-02",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.oklegislature.gov/BillInfo.aspx?Bill=hb3394&Session=2600",
-      "legiscanUrl": "https://legiscan.com/OK/bill/HB3394/2026",
-      "legiscanId": 2079244,
-      "sponsors": [
-        "Amanda Clinton"
-      ]
-    },
-    {
-      "id": "ok-hb1863",
-      "billCode": "HB1863",
-      "title": "Children; Children's Code; multidisciplinary child abuse team; review; functions; secure database; protocol; Commission on Children and Youth; requirements; rules; codification; effective date.",
-      "summary": "This bill updates Oklahoma's Children's Code to establish requirements for multidisciplinary child abuse teams, including a secure database and protocols for reviewing cases. It does not address AI or data-center policy.",
-      "stage": "Enacted",
-      "stance": "none",
-      "impactTags": [
-        "child-safety"
-      ],
-      "category": "ai-governance",
-      "updatedDate": "2025-05-27",
-      "partyOrigin": "R",
-      "sourceUrl": "https://www.oklegislature.gov/BillInfo.aspx?Bill=hb1863&Session=2600",
-      "legiscanUrl": "https://legiscan.com/OK/bill/HB1863/2026",
-      "legiscanId": 2048079,
-      "sponsors": [
-        "Eric Roberts",
-        "Dave Rader"
-      ]
-    },
-    {
-      "id": "ok-hb3711",
-      "billCode": "HB3711",
-      "title": "Schools; School District Transparency Act; instructional expenditure disclosures on district website; bond proposals, and bond guarantee applications; effective date; emergency.",
-      "summary": "This bill requires school districts to publicly disclose how they spend instructional funds and to post information about bond proposals on their websites. It has no substantive connection to AI or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-education",
-      "updatedDate": "2026-03-25",
-      "partyOrigin": "R",
-      "sourceUrl": "https://www.oklegislature.gov/BillInfo.aspx?Bill=hb3711&Session=2600",
-      "legiscanUrl": "https://legiscan.com/OK/bill/HB3711/2026",
-      "legiscanId": 2080580,
-      "sponsors": [
-        "Chad Caldwell",
-        "Adam Pugh",
-        "Mark Lepak"
-      ]
-    },
-    {
-      "id": "ok-sb675",
-      "billCode": "SB675",
-      "title": "Oklahoma Law Enforcement Telecommunication Systems Division; authorizing the Department of Public Safety to provide certain information to Oklahoma Turnpike Authority. Effective date.",
-      "summary": "This bill allows the Department of Public Safety to share information with the Oklahoma Turnpike Authority through the law enforcement telecommunications system. It is an administrative data-sharing measure unrelated to AI or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-criminal-justice",
-      "updatedDate": "2025-03-26",
-      "partyOrigin": "R",
-      "sourceUrl": "https://www.oklegislature.gov/BillInfo.aspx?Bill=sb675&Session=2600",
-      "legiscanUrl": "https://legiscan.com/OK/bill/SB675/2026",
-      "legiscanId": 2049438,
-      "sponsors": [
-        "Darcy Jech",
-        "Carl Newton"
-      ]
-    },
-    {
       "id": "ok-hb2992",
       "billCode": "HB2992",
-      "title": "Corporation Commission; creating the Data Center Customer Protection Act of 2026; effective date; emergency.",
-      "summary": "This bill creates consumer protection rules for data centers under Oklahoma's Corporation Commission, likely addressing how data centers interact with the energy grid and utility customers. It aims to protect regular electricity customers from costs or impacts associated with large data center energy demands.",
-      "stage": "Committee",
+      "title": "Corporation Commission; creating the Data Center Customer Ratepayer Protection Act of 2026; effective date; emergency.",
+      "summary": "This Oklahoma bill creates ratepayer protections aimed at preventing regular utility customers from bearing the cost burden of energy use by large data centers. It establishes rules through the Corporation Commission to ensure data centers pay their fair share of grid and energy costs.",
+      "stage": "Enacted",
       "stance": "concerning",
       "dimensionStances": {
         "energy": "concerning",
         "community": "review"
       },
       "impactTags": [
-        "grid-capacity",
         "energy-rates",
-        "local-control"
+        "grid-capacity"
       ],
       "category": "data-center-energy",
-      "updatedDate": "2026-03-24",
+      "updatedDate": "2026-05-11",
       "partyOrigin": "B",
       "sourceUrl": "https://www.oklegislature.gov/BillInfo.aspx?Bill=hb2992&Session=2600",
       "legiscanUrl": "https://legiscan.com/OK/bill/HB2992/2026",
@@ -193,40 +63,149 @@
       ]
     },
     {
-      "id": "ok-hb4287",
-      "billCode": "HB4287",
-      "title": "Prisons and reformatories; Oklahoma Department of Corrections; electronic record; Oklahoma State Data Center; census geography; effective date.",
-      "summary": "This bill requires the Oklahoma Department of Corrections to maintain electronic records using the Oklahoma State Data Center and census geography standards. It is an administrative record-keeping measure with no substantive connection to AI policy or data-center regulation.",
+      "id": "ok-sb1521",
+      "billCode": "SB1521",
+      "title": "Artificial intelligence; definitions; requiring operators make certain disclosure; preventative measures for minor account holders; prohibitions; enforcement authority to Attorney General; civil penalty. Effective date.",
+      "summary": "Oklahoma requires AI operators to disclose certain information and implement safeguards for minor users, with the state Attorney General empowered to enforce violations through civil penalties. The bill establishes baseline AI transparency and child protection standards for AI systems.",
       "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-government",
-      "updatedDate": "2026-02-02",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.oklegislature.gov/BillInfo.aspx?Bill=hb4287&Session=2600",
-      "legiscanUrl": "https://legiscan.com/OK/bill/HB4287/2026",
-      "legiscanId": 2083320,
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "restrictive"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "child-safety",
+        "data-privacy"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-29",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.oklegislature.gov/BillInfo.aspx?Bill=sb1521&Session=2600",
+      "legiscanUrl": "https://legiscan.com/OK/bill/SB1521/2026",
+      "legiscanId": 2070970,
       "sponsors": [
-        "Andy Fugate"
+        "Warren Hamilton",
+        "Cody Maynard"
       ]
     },
     {
-      "id": "ok-hb3620",
-      "billCode": "HB3620",
-      "title": "The 2030 Census; 2030 Census Complete Count Committee; duties and responsibilities; State Data Center; report; effective date.",
-      "summary": "This bill establishes a committee to help ensure a complete count during the 2030 Census and assigns related duties to the State Data Center. It is not related to AI regulation or data-center infrastructure policy.",
+      "id": "ok-hb1782",
+      "billCode": "HB1782",
+      "title": "Artificial intelligence education; creating the AI Education Innovation Act, the AI Education Innovation Revolving Fund and the AI Education Advisory Council; effective date.",
+      "summary": "Oklahoma establishes the AI Education Innovation Act to promote artificial intelligence education in schools, creating a revolving fund and advisory council to support AI curriculum development and implementation. The bill aims to expand AI literacy and workforce preparation for students.",
       "stage": "Committee",
-      "stance": "none",
+      "stance": "favorable",
+      "impactTags": [
+        "ai-in-education"
+      ],
+      "category": "ai-education",
+      "updatedDate": "2026-04-21",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.oklegislature.gov/BillInfo.aspx?Bill=hb1782&Session=2600",
+      "legiscanUrl": "https://legiscan.com/OK/bill/HB1782/2026",
+      "legiscanId": 2049913,
+      "sponsors": [
+        "Anthony Moore",
+        "Ally Seifried",
+        "Danny Williams",
+        "Nick Archer"
+      ]
+    },
+    {
+      "id": "ok-hb3544",
+      "billCode": "HB3544",
+      "title": "Technology; artificial intelligence; companions; minors; safety; civil penalties; effective date.",
+      "summary": "This bill establishes safety requirements and restrictions for AI companion technologies that interact with minors, including civil penalties for violations. It aims to protect children from potential harms associated with AI-driven companion applications.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-consumer": "restrictive",
+        "ai-public": "none"
+      },
+      "impactTags": [
+        "child-safety",
+        "ai-in-education"
+      ],
+      "category": "ai-education",
+      "updatedDate": "2026-04-21",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.oklegislature.gov/BillInfo.aspx?Bill=hb3544&Session=2600",
+      "legiscanUrl": "https://legiscan.com/OK/bill/HB3544/2026",
+      "legiscanId": 2079747,
+      "sponsors": [
+        "Cody Maynard",
+        "Warren Hamilton",
+        "Jim Olsen",
+        "Daniel Pae"
+      ]
+    },
+    {
+      "id": "ok-hb3176",
+      "billCode": "HB3176",
+      "title": "State development; Oklahoma Gas, Artificial Intelligence, and Space Research Hub; National Laboratory; Oklahoma Department of Commerce; effective date.",
+      "summary": "Oklahoma establishes a Gas, Artificial Intelligence, and Space Research Hub and National Laboratory to promote economic development and research in these strategic sectors. The bill directs the Oklahoma Department of Commerce to oversee the initiative.",
+      "stage": "Committee",
+      "stance": "favorable",
+      "impactTags": [
+        "economic-development",
+        "job-creation"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-16",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.oklegislature.gov/BillInfo.aspx?Bill=hb3176&Session=2600",
+      "legiscanUrl": "https://legiscan.com/OK/bill/HB3176/2026",
+      "legiscanId": 2078089,
+      "sponsors": [
+        "Nick Archer",
+        "Dave Rader",
+        "Mark Lepak",
+        "Meloyde Blancett"
+      ]
+    },
+    {
+      "id": "ok-hb3621",
+      "billCode": "HB3621",
+      "title": "State government; Oklahoma State Data Center; Legislative Service Bureau; responsibilities; effective date.",
+      "summary": "This bill reorganizes responsibilities related to Oklahoma's State Data Center, transferring certain duties to the Legislative Service Bureau. It deals with government IT infrastructure management rather than AI or commercial data center policy.",
+      "stage": "Committee",
+      "stance": "review",
       "impactTags": [],
       "category": "ai-government",
-      "updatedDate": "2026-03-17",
+      "updatedDate": "2026-04-07",
       "partyOrigin": "R",
-      "sourceUrl": "https://www.oklegislature.gov/BillInfo.aspx?Bill=hb3620&Session=2600",
-      "legiscanUrl": "https://legiscan.com/OK/bill/HB3620/2026",
-      "legiscanId": 2080644,
+      "sourceUrl": "https://www.oklegislature.gov/BillInfo.aspx?Bill=hb3621&Session=2600",
+      "legiscanUrl": "https://legiscan.com/OK/bill/HB3621/2026",
+      "legiscanId": 2080842,
       "sponsors": [
         "Mark Lawson",
-        "Kristen Thompson"
+        "Kristen Thompson",
+        "Brian Hill"
+      ]
+    },
+    {
+      "id": "ok-hb3545",
+      "billCode": "HB3545",
+      "title": "Technology; artificial intelligence; state agencies; prohibited uses; permitted uses; Office of Management and Enterprise Services; effective date.",
+      "summary": "Oklahoma HB3545 establishes prohibited and permitted uses of artificial intelligence by state agencies, with oversight responsibilities assigned to the Office of Management and Enterprise Services. The bill creates regulatory guardrails for government deployment of AI systems to ensure transparency and limit high-risk applications in public-sector decision-making.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "impactTags": [
+        "algorithmic-transparency",
+        "ai-safety"
+      ],
+      "category": "ai-government",
+      "updatedDate": "2026-04-01",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.oklegislature.gov/BillInfo.aspx?Bill=hb3545&Session=2600",
+      "legiscanUrl": "https://legiscan.com/OK/bill/HB3545/2026",
+      "legiscanId": 2080072,
+      "sponsors": [
+        "Cody Maynard",
+        "Jerry Alvord",
+        "Brian Hill",
+        "Jim Olsen"
       ]
     },
     {
@@ -241,7 +220,7 @@
         "local-control"
       ],
       "category": "data-center-siting",
-      "updatedDate": "2026-02-02",
+      "updatedDate": "2026-03-03",
       "partyOrigin": "R",
       "sourceUrl": "https://www.oklegislature.gov/BillInfo.aspx?Bill=sb1619&Session=2600",
       "legiscanUrl": "https://legiscan.com/OK/bill/SB1619/2026",
@@ -252,21 +231,155 @@
       ]
     },
     {
-      "id": "ok-sb1350",
-      "billCode": "SB1350",
-      "title": "Oklahoma Department of Commerce; making an appropriation; identifying source of funds. Emergency.",
-      "summary": "This bill makes a funding appropriation to the Oklahoma Department of Commerce and identifies the source of those funds. It does not appear to be related to AI or data-center policy.",
+      "id": "ok-hb3394",
+      "billCode": "HB3394",
+      "title": "Hyperscale data centers; Oklahoma Hyperscale Data Center Directory Act; Oklahoma Corporation Commission; directory; electrical utilities; water providers; effective date.",
+      "summary": "This bill creates a directory of hyperscale data centers in Oklahoma, requiring them to register with the Corporation Commission and share information with electrical utilities and water providers. It is primarily a tracking and transparency measure to help utilities plan for the large energy and water demands of these facilities.",
       "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2026-02-02",
-      "partyOrigin": "R",
-      "sourceUrl": "https://www.oklegislature.gov/BillInfo.aspx?Bill=sb1350&Session=2600",
-      "legiscanUrl": "https://legiscan.com/OK/bill/SB1350/2026",
-      "legiscanId": 2061327,
+      "stance": "review",
+      "dimensionStances": {
+        "energy": "review",
+        "community": "review",
+        "land-use": "review"
+      },
+      "impactTags": [
+        "grid-capacity",
+        "water-infrastructure",
+        "local-zoning"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-02-12",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.oklegislature.gov/BillInfo.aspx?Bill=hb3394&Session=2600",
+      "legiscanUrl": "https://legiscan.com/OK/bill/HB3394/2026",
+      "legiscanId": 2079244,
       "sponsors": [
-        "Bill Coleman"
+        "Amanda Clinton"
+      ]
+    },
+    {
+      "id": "ok-hb4194",
+      "billCode": "HB4194",
+      "title": "Data centers; Data Center Decommissioning Act; proper decommissioning; Oklahoma Corporation Commission; financial assurance; effective date.",
+      "summary": "This bill creates rules requiring data centers in Oklahoma to properly decommission (shut down and clean up) their facilities when they close, overseen by the Oklahoma Corporation Commission. Data center operators would need to provide financial assurance—like a bond or insurance—to ensure they can cover the costs of proper decommissioning.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "environmental": "concerning",
+        "community": "review",
+        "land-use": "none"
+      },
+      "impactTags": [
+        "environmental-review",
+        "local-zoning",
+        "economic-development"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-02-03",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.oklegislature.gov/BillInfo.aspx?Bill=hb4194&Session=2600",
+      "legiscanUrl": "https://legiscan.com/OK/bill/HB4194/2026",
+      "legiscanId": 2082909,
+      "sponsors": [
+        "Mark Chapman"
+      ]
+    },
+    {
+      "id": "ok-sb1706",
+      "billCode": "SB1706",
+      "title": "Foreign ownership of land; prohibiting foreign principals from renting, leasing, or having a controlling interest in data centers. Effective date.",
+      "summary": "Oklahoma prohibits foreign principals from renting, leasing, or holding a controlling interest in data centers operating in the state. This is a blanket restriction on foreign ownership and operational control of data center infrastructure.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "impactTags": [
+        "local-control"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-02-03",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.oklegislature.gov/BillInfo.aspx?Bill=sb1706&Session=2600",
+      "legiscanUrl": "https://legiscan.com/OK/bill/SB1706/2026",
+      "legiscanId": 2078228,
+      "sponsors": [
+        "Warren Hamilton"
+      ]
+    },
+    {
+      "id": "ok-sb2085",
+      "billCode": "SB2085",
+      "title": "Artificial intelligence; establishing certain rights; prohibiting certain actions by certain entities; requiring certain actions by certain entities. Effective date.",
+      "summary": "Oklahoma SB2085 establishes rights protections related to artificial intelligence and imposes prohibitions and mandatory requirements on entities deploying AI systems. The bill addresses transparency, safety, and privacy concerns in AI deployment without creating a blanket moratorium.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "restrictive"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "ai-safety",
+        "data-privacy"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-03",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.oklegislature.gov/BillInfo.aspx?Bill=sb2085&Session=2600",
+      "legiscanUrl": "https://legiscan.com/OK/bill/SB2085/2026",
+      "legiscanId": 2081932,
+      "sponsors": [
+        "Warren Hamilton"
+      ]
+    },
+    {
+      "id": "ok-sb2037",
+      "billCode": "SB2037",
+      "title": "Artificial intelligence; requiring informed consent for use by licensed mental health professional or health care provider; authorizing and prohibiting certain uses. Emergency.",
+      "summary": "This bill requires licensed mental health professionals and health care providers to obtain informed consent before using artificial intelligence in patient care and prohibits certain AI uses in healthcare settings. The measure establishes guardrails around how AI can be deployed in clinical and therapeutic contexts.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "restrictive",
+        "ai-public": "restrictive"
+      },
+      "impactTags": [
+        "ai-in-healthcare",
+        "data-privacy",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-healthcare",
+      "updatedDate": "2026-02-03",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.oklegislature.gov/BillInfo.aspx?Bill=sb2037&Session=2600",
+      "legiscanUrl": "https://legiscan.com/OK/bill/SB2037/2026",
+      "legiscanId": 2080662,
+      "sponsors": [
+        "Regina Goodwin"
+      ]
+    },
+    {
+      "id": "ok-hb1916",
+      "billCode": "HB1916",
+      "title": "Artificial intelligence; Responsible Deployment of AI Systems Act; AI Council; AI Regulatory Sandbox Program; Artificial Intelligence Workforce Development Program; effective date.",
+      "summary": "Oklahoma creates an AI Council, establishes a regulatory sandbox program for AI system testing, and launches a workforce development initiative to prepare workers for AI-related jobs. The framework emphasizes responsible AI deployment without imposing hard restrictions.",
+      "stage": "Committee",
+      "stance": "review",
+      "dimensionStances": {
+        "ai-governance-dim": "review",
+        "ai-workforce": "review"
+      },
+      "impactTags": [
+        "ai-safety",
+        "ai-in-employment"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-02-04",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.oklegislature.gov/BillInfo.aspx?Bill=hb1916&Session=2600",
+      "legiscanUrl": "https://legiscan.com/OK/bill/HB1916/2026",
+      "legiscanId": 2049185,
+      "sponsors": [
+        "Arturo Alonso-Sandoval"
       ]
     }
   ]

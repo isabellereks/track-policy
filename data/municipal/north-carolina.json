@@ -8,23 +8,21 @@
     "type": "county",
     "actions": [
       {
-        "title": "One-Year Moratorium on Data Centers and High-Impact Data Processing Facilities",
+        "title": "One-Year Moratorium on Data Centers and High-Impact Facilities",
         "date": "2025-12-17",
         "status": "enacted",
-        "summary": "Gates County commissioners unanimously enacted a one-year moratorium barring acceptance or approval of any application for data centers, cryptocurrency mining facilities, or other high-impact data processing facilities, effective through December 17, 2026.",
-        "sourceUrl": "https://www.roanoke-chowannewsherald.com/news/data-center-moratorium-approved-a302acb2"
+        "summary": "Gates County commissioners unanimously approved a one-year moratorium on all data center and related high-capacity facility development approvals in unincorporated areas, making it the first NC county to do so.",
+        "sourceUrl": "https://gatescountync.gov/vertical/sites/%7BC4993D33-7F3A-4388-B179-2EC1739C7E2E%7D/uploads/Data_Center_Moratorium.pdf"
       }
     ],
     "concerns": [
-      "grid-capacity",
       "water-consumption",
-      "water-infrastructure",
-      "noise-vibration",
+      "grid-capacity",
+      "environmental-review",
       "local-zoning",
-      "local-control",
-      "environmental-review"
+      "residential-proximity"
     ],
-    "contextBlurb": "Gates County was among North Carolina's earliest jurisdictions to enact a data center moratorium, acting proactively after receiving two inquiries from a firm that prepares ordinances to promote data center development and after the county's planning director heard developers were exploring projects in the state's northeastern corner. Officials cited particular concern about strain on the county's water system, which has itself been under a separate moratorium since 2018. All five speakers at the public hearing opposed data centers, citing impacts on wildlife, the electrical grid, water consumption, and noise."
+    "contextBlurb": "Gates County, in northeastern North Carolina, was the first county in the state to enact a one-year data center moratorium in December 2025, sparked by two unsolicited inquiries from a firm that promotes data center ordinances. Commissioners acted proactively despite no active project being on file, citing concerns about environmental, infrastructure, and economic impacts on the county's rural character. The moratorium covers all unincorporated areas and directs staff to study impacts and draft permanent regulations."
   },
   {
     "id": "chatham-county-nc",
@@ -35,172 +33,29 @@
     "type": "county",
     "actions": [
       {
-        "title": "Twelve-Month Moratorium on Data Centers, Crypto Mining, and Associated Uses",
+        "title": "12-Month Moratorium on Data Centers and Cryptocurrency Mining",
         "date": "2026-02-11",
         "status": "enacted",
-        "summary": "The Chatham County Board of Commissioners approved a one-year moratorium on permitting of data centers, data processing facilities, and cryptocurrency mining operations in unincorporated areas, effective immediately through February 11, 2027 or until new zoning regulations are adopted, whichever comes first.",
+        "summary": "Chatham County commissioners unanimously approved a one-year moratorium on permitting data centers and crypto mining in unincorporated areas, lasting until February 2027 or until new zoning regulations are adopted.",
         "sourceUrl": "https://www.chathamcountync.gov/Home/Components/News/News/17295/19"
-      }
-    ],
-    "concerns": [
-      "water-consumption",
-      "grid-capacity",
-      "local-zoning",
-      "local-control",
-      "environmental-review",
-      "carbon-emissions"
-    ],
-    "contextBlurb": "Chatham County, situated west of Raleigh near the Research Triangle, enacted a moratorium following a public hearing that drew written and verbal comments from more than two dozen individuals. The county cited 'considerable amounts of water and energy usage' as necessitating the pause, which covers AI computing, cryptocurrency mining, web services, and genome sequencing. During the moratorium, planning staff will study environmental and community impacts and develop proposed zoning definitions and performance standards."
-  },
-  {
-    "id": "canton-nc",
-    "name": "Town of Canton",
-    "fips": "37087",
-    "state": "North Carolina",
-    "stateCode": "NC",
-    "type": "municipal",
-    "actions": [
-      {
-        "title": "One-Year Moratorium on Data Centers, Crypto Mining, and High-Density Digital Infrastructure",
-        "date": "2026-02-12",
-        "status": "enacted",
-        "summary": "Canton Town Council voted unanimously to impose a one-year pause on building any data centers, cryptocurrency mining operations, server farms, or other high-density digital infrastructure facilities after more than 150 residents attended a standing-room-only public hearing with 45 speakers in opposition.",
-        "sourceUrl": "https://nclocal.org/2026/02/12/town-of-canton-blocks-any-potential-data-center-for-one-year/"
-      }
-    ],
-    "concerns": [
-      "local-zoning",
-      "local-control",
-      "water-consumption",
-      "noise-vibration",
-      "property-values",
-      "grid-capacity",
-      "environmental-review"
-    ],
-    "contextBlurb": "The Town of Canton in Haywood County passed its moratorium following intense community opposition triggered by reports that data center companies were eyeing the former Pactiv Evergreen paper mill site, a landmark shuttered in 2023 and demolished in early 2025. More than 150 residents attended the public hearing—exceeding the fire capacity of 49—with 45 individuals speaking, nearly all in opposition. During the moratorium, the town will study impacts and draft related zoning and land-use ordinances."
-  },
-  {
-    "id": "stokes-county-nc",
-    "name": "Stokes County",
-    "fips": "37169",
-    "state": "North Carolina",
-    "stateCode": "NC",
-    "type": "county",
-    "actions": [
-      {
-        "title": "Rezoning of ~1,845 Acres for Heavy Industrial Use (Project Delta)",
-        "date": "2026-01-12",
-        "status": "enacted",
-        "summary": "The Stokes County Board of Commissioners voted 3-2 to rezone approximately 1,845 acres of residential-agricultural land along the Dan River for heavy industrial use, clearing the path for the 'Project Delta' hyperscale AI data center, overriding the planning board's recommendation to deny.",
-        "sourceUrl": "https://spectrumlocalnews.com/nc/charlotte/news/2026/01/12/stokes-county-proposed-data-center-creates-backlash"
       },
       {
-        "title": "Community Lawsuit to Void Project Delta Rezoning (Hairston Clan v. Stokes County)",
-        "date": "2026-03-12",
+        "title": "Eco TIP West LLC Lawsuit Over 750 MW Project Freeze",
+        "date": "2026-02-11",
         "status": "under-review",
-        "summary": "Community groups and Walnut Cove residents, represented by SCSJ and SELC, filed suit in Stokes County Superior Court challenging the January 2026 rezoning as procedurally defective, alleging commissioners failed to provide required public notice, assess environmental impacts, or consider sacred cultural sites.",
-        "sourceUrl": "https://www.selc.org/press-release/community-groups-residents-file-lawsuit-over-stokes-county-data-center-rezoning/"
+        "summary": "Developer Eco TIP West LLC filed suit against Chatham County challenging the moratorium as applied to its frozen 750 MW data center project, arguing vested rights under prior Heavy Industrial zoning.",
+        "sourceUrl": "https://gpuleaseindex.com/readiness/nc-data-center-moratoriums"
       }
     ],
     "concerns": [
-      "local-zoning",
-      "local-control",
-      "noise-vibration",
-      "water-consumption",
-      "water-infrastructure",
       "grid-capacity",
-      "carbon-emissions",
+      "water-consumption",
+      "local-zoning",
       "environmental-review",
+      "local-control",
       "residential-proximity"
     ],
-    "contextBlurb": "Stokes County commissioners approved the controversial Project Delta rezoning by a narrow 3-2 vote in January 2026, opening more than 1,800 acres along the Dan River—and over a dozen other rural sites—to potential hyperscale data center development, despite the planning board's recommendation against it and fervent community opposition. Community opposition was so intense that an incumbent commissioner lost a primary challenge to a candidate who ran primarily on opposing the data center. A lawsuit filed in March 2026 by SCSJ and SELC asks the court to invalidate the rezoning, alleging violations of state procedural law and failure to consider noise, air quality, water, and culturally significant sites tied to the Saura people and Hairston family descendants."
-  },
-  {
-    "id": "edgecombe-county-nc",
-    "name": "Edgecombe County",
-    "fips": "37065",
-    "state": "North Carolina",
-    "stateCode": "NC",
-    "type": "county",
-    "actions": [
-      {
-        "title": "Unified Development Ordinance Amendment to Allow Data Centers in Industrial Zones",
-        "date": "2025-11-03",
-        "status": "enacted",
-        "summary": "The Edgecombe County Board of Commissioners unanimously amended its Unified Development Ordinance to permit data centers and cryptocurrency mining facilities within designated industrial zoning districts, enabling a proposed $19.2 billion, 900-MW data center campus at the Kingsboro Industrial Park.",
-        "sourceUrl": "https://www.rockymounttelegram.com/news/local/county-oks-amending-ordinance-to-allow-for-a-data-center-at-kingsboro-business-park/article_64e09f70-9b18-48fd-84a9-a6ec6dae950e.html"
-      },
-      {
-        "title": "Land Sale Vote Postponed After Community Opposition",
-        "date": "2025-12-01",
-        "status": "proposed",
-        "summary": "A vote to sell 120 acres of county-owned land at the Kingsboro Industrial Park to developer Energy Storage Solutions was pulled from the December 1, 2025 agenda following organized community opposition from Edgecombe Neighbors for Data Center Accountability.",
-        "sourceUrl": "https://www.wunc.org/2025-11-25/opposition-mounts-to-proposed-large-data-center-in-edgecombe-county"
-      }
-    ],
-    "concerns": [
-      "water-consumption",
-      "water-infrastructure",
-      "grid-capacity",
-      "noise-vibration",
-      "carbon-emissions",
-      "local-control",
-      "property-values",
-      "environmental-review"
-    ],
-    "contextBlurb": "Edgecombe County amended its zoning ordinance in November 2025 to allow data centers in industrial districts, paving the way for a proposed $19.2 billion, 900-megawatt campus at the Kingsboro Industrial Park—a project that would rival the output of a nuclear reactor. Fierce community opposition led by Edgecombe Neighbors for Data Center Accountability delayed a land-sale vote, and anti-data-center sentiment ran so strong politically that a challenger focused almost entirely on the issue defeated a four-term incumbent county commissioner in the 2026 primary. Concerns center on water usage (up to 5 million gallons per day from the Tar River), potential air pollution from on-site natural gas and diesel generation, noise, and strain on utility rates."
-  },
-  {
-    "id": "haywood-county-nc",
-    "name": "Haywood County",
-    "fips": "37087",
-    "state": "North Carolina",
-    "stateCode": "NC",
-    "type": "county",
-    "actions": [
-      {
-        "title": "Canton (Municipal) Data Center Moratorium Within Haywood County",
-        "date": "2026-02-12",
-        "status": "enacted",
-        "summary": "The Town of Canton, Haywood County's largest municipality, enacted a one-year moratorium on data centers following community opposition focused on the redevelopment of the former paper mill site, prompting broader county-level awareness of data center risks.",
-        "sourceUrl": "https://nclocal.org/2026/02/12/town-of-canton-blocks-any-potential-data-center-for-one-year/"
-      }
-    ],
-    "concerns": [
-      "local-zoning",
-      "local-control",
-      "water-consumption",
-      "noise-vibration",
-      "property-values",
-      "grid-capacity"
-    ],
-    "contextBlurb": "Haywood County, in western North Carolina, became a focus of statewide data center debate when Canton's former Pactiv Evergreen paper mill—the town's largest employer for over a century before closing in 2023—attracted inquiries from data center developers after its demolition in early 2025. Canton's unanimous moratorium vote, driven by more than 150 residents cramming into a town hall with a fire capacity of only 49, drew statewide attention and was cited as a model by other communities. The broader Haywood County area continues to monitor whether additional data center interest will prompt county-level action."
-  },
-  {
-    "id": "apex-town-nc",
-    "name": "Town of Apex",
-    "fips": "37183",
-    "state": "North Carolina",
-    "stateCode": "NC",
-    "type": "municipal",
-    "actions": [
-      {
-        "title": "Council Directs Staff to Draft One-Year Data Center Moratorium Ordinance",
-        "date": "2026-03-10",
-        "status": "proposed",
-        "summary": "Apex Town Council voted unanimously to direct staff to draft a one-year moratorium on new data center permits, following public opposition that caused developer Natelli Investments to withdraw its application for a 300-MW 'New Hill Digital Campus' project.",
-        "sourceUrl": "https://ncnewsline.com/2026/03/16/apex-weighs-pause-on-data-centers-as-resistance-spreads-across-nc/"
-      }
-    ],
-    "concerns": [
-      "local-zoning",
-      "local-control",
-      "grid-capacity",
-      "water-consumption",
-      "residential-proximity",
-      "property-values"
-    ],
-    "contextBlurb": "The Town of Apex in Wake County moved toward a moratorium in March 2026 after community opposition caused Maryland-based developer Natelli Investments to withdraw its application for a 300-megawatt data center on Shearon Harris Road—a project that would have generated an estimated $4 million for the town. Town leaders acknowledged that Apex has no existing rules about data centers in its ordinances, making the need for a regulatory pause clear. A formal moratorium ordinance was expected to come before the council for a vote as soon as April 2026."
+    "contextBlurb": "Chatham County became the second NC county to halt data center permitting when commissioners unanimously passed a 12-month moratorium in February 2026 following a public hearing with more than two dozen speakers. The moratorium also covers cryptocurrency mining and data processing facilities, and directs planning staff to review environmental impacts, study other jurisdictions' regulations, and develop new zoning standards. The county faces a legal challenge from developer Eco TIP West LLC, whose large project was effectively frozen by the moratorium."
   },
   {
     "id": "orange-county-nc",
@@ -211,11 +66,137 @@
     "type": "county",
     "actions": [
       {
-        "title": "Commissioners Vote to Schedule Public Hearing on One-Year Data Center Moratorium",
-        "date": "2026-03-18",
+        "title": "One-Year Moratorium on Large-Scale Data Centers",
+        "date": "2026-04-21",
+        "status": "enacted",
+        "summary": "Orange County commissioners adopted a one-year moratorium on data center development approvals after a public hearing, authorizing staff to evaluate electricity demand, water usage, land-use compatibility, and utility cost impacts.",
+        "sourceUrl": "https://www.orangecountync.gov/m/newsflash/Home/Detail/1391"
+      }
+    ],
+    "concerns": [
+      "grid-capacity",
+      "water-consumption",
+      "water-infrastructure",
+      "local-zoning",
+      "environmental-review",
+      "residential-proximity"
+    ],
+    "contextBlurb": "Orange County's Board of Commissioners approved a one-year data center moratorium in April 2026 under NCGS 160D-107, following a March 2026 unanimous board direction to evaluate large-scale data center impacts. Staff presented findings on electricity demand, water use, land compatibility, and utility cost effects before the board acted. Nearby jurisdictions including Hillsborough (within Orange County), Durham, Chatham County, and Apex in Wake County have passed similar measures, reflecting the dense cluster of moratoriums around the Research Triangle."
+  },
+  {
+    "id": "rowan-county-nc",
+    "name": "Rowan County",
+    "fips": "37159",
+    "state": "North Carolina",
+    "stateCode": "NC",
+    "type": "county",
+    "actions": [
+      {
+        "title": "One-Year Moratorium on New Data Centers",
+        "date": "2026-04-01",
+        "status": "enacted",
+        "summary": "Rowan County commissioners passed a one-year moratorium on new data center permits following intense community opposition to a planned 400-acre Edged Energy facility, though the moratorium explicitly exempts projects already underway.",
+        "sourceUrl": "https://carolinapublicpress.org/75853/data-centers-moratorium-fever-for-nc-local-governments/"
+      }
+    ],
+    "concerns": [
+      "noise-vibration",
+      "water-consumption",
+      "residential-proximity",
+      "local-zoning",
+      "local-control",
+      "grid-capacity",
+      "environmental-review"
+    ],
+    "contextBlurb": "Rowan County residents launched a petition and packed local meetings to oppose two proposed data centers, including a 400-acre facility by Edged Energy, citing concerns about noise, heat island effects, and water usage near residential areas. Community activist Mark Ortiz helped organize the opposition, and commissioners responded by enacting a one-year moratorium on new data centers in April 2026, though the already-in-progress Edged Energy site was grandfathered. Meanwhile, the city of Salisbury (the county seat) separately passed a land-development ordinance text amendment allowing data centers with restrictions on maximum size, noise, and water consumption."
+  },
+  {
+    "id": "stokes-county-nc",
+    "name": "Stokes County",
+    "fips": "37169",
+    "state": "North Carolina",
+    "stateCode": "NC",
+    "type": "county",
+    "actions": [
+      {
+        "title": "Project Delta Rezoning Approved (3-2 Vote)",
+        "date": "2026-01-12",
+        "status": "failed",
+        "summary": "Commissioners narrowly approved rezoning 1,844 acres from residential-agricultural to heavy manufacturing for the proposed Project Delta hyperscale data center, overruling the local planning board over overwhelming public opposition.",
+        "sourceUrl": "https://www.theassemblync.com/news/environment/data-center-rezoning-stokes-county/"
+      },
+      {
+        "title": "Lawsuit Filed Challenging Project Delta Rezoning",
+        "date": "2026-03-13",
         "status": "under-review",
-        "summary": "Orange County commissioners voted to hold a public hearing in April 2026 before formally considering a one-year moratorium on large-scale data centers, with staff already directed to prepare land-use and zoning ordinance changes if the moratorium is approved.",
-        "sourceUrl": "https://www.bisnow.com/raleigh-durham/news/construction-development/north-carolina-towns-counties-consider-moratoriums-on-data-centers-133779"
+        "summary": "Thirteen residents and four nonprofits, represented by SCSJ and SELC, sued Stokes County alleging the rezoning violated statutory notice requirements and failed to account for environmental and cultural impacts along the Dan River.",
+        "sourceUrl": "https://ncnewsline.com/2026/03/13/community-groups-sue-over-planned-data-center-in-stokes-county/"
+      },
+      {
+        "title": "January Rezoning Voided by Commissioners",
+        "date": "2026-04-14",
+        "status": "enacted",
+        "summary": "Stokes County commissioners voted to formally void the January rezoning approval and related text amendments after acknowledging that public notice for the original hearing did not meet state law requirements, resetting Project Delta to square one.",
+        "sourceUrl": "https://southerncoalition.org/stokes-county-walks-back-data-center-rezoning-creating-opportunity-for-better-process/"
+      }
+    ],
+    "concerns": [
+      "noise-vibration",
+      "residential-proximity",
+      "environmental-review",
+      "local-zoning",
+      "local-control",
+      "water-consumption",
+      "grid-capacity"
+    ],
+    "contextBlurb": "Stokes County became a flashpoint in North Carolina's data center debate when commissioners approved a 3-2 rezoning of nearly 1,844 acres near Walnut Cove for the 'Project Delta' hyperscale campus in January 2026, overriding the planning board's recommendation and facing more than 100 protesters inside and outside the hearing chamber. A citizen lawsuit by SCSJ and SELC challenged the approval on procedural grounds, and in April 2026 commissioners voted to void the rezoning entirely after acknowledging it failed to meet state notice requirements. Residents and plaintiffs are now calling for a formal moratorium before any reapplication is considered, citing concerns about the Dan River corridor, Indigenous and historic Black cultural sites, and noise from 24/7 gas generator operations."
+  },
+  {
+    "id": "clay-county-nc",
+    "name": "Clay County",
+    "fips": "37043",
+    "state": "North Carolina",
+    "stateCode": "NC",
+    "type": "county",
+    "actions": [
+      {
+        "title": "One-Year Moratorium on Data Centers",
+        "date": "2025-09-01",
+        "status": "enacted",
+        "summary": "Clay County enacted a one-year moratorium on data center development in September 2025, part of an early wave of bans across western North Carolina mountain communities.",
+        "sourceUrl": "https://gpuleaseindex.com/readiness/nc-data-center-moratoriums"
+      }
+    ],
+    "concerns": [
+      "water-consumption",
+      "grid-capacity",
+      "local-zoning",
+      "environmental-review",
+      "residential-proximity"
+    ],
+    "contextBlurb": "Clay County, a small mountain county in far western North Carolina, was among the earliest jurisdictions in the state to enact a data center moratorium, passing a one-year ban in September 2025 alongside the city of Brevard. The moratorium reflects broader concerns in Appalachian communities about water resources, grid capacity, and the compatibility of hyperscale industrial facilities with rural mountain character. Clay County's action helped catalyze a wave of similar measures across the western NC region."
+  },
+  {
+    "id": "wake-county-nc-apex",
+    "name": "Town of Apex (Wake County)",
+    "fips": "37183",
+    "state": "North Carolina",
+    "stateCode": "NC",
+    "type": "county",
+    "actions": [
+      {
+        "title": "One-Year Data Center Moratorium",
+        "date": "2026-04-14",
+        "status": "enacted",
+        "summary": "The Apex Town Council unanimously approved a one-year moratorium on data center development to allow time to develop guidelines, following a withdrawn 250 MW proposal near the Shearon Harris Nuclear Plant.",
+        "sourceUrl": "https://ncdatacenters.substack.com/p/two-new-moratoriums-in-wake-county"
+      },
+      {
+        "title": "Wendell Data Center Moratorium Through December 31, 2026",
+        "date": "2026-04-13",
+        "status": "enacted",
+        "summary": "The Wendell Board of Commissioners voted unanimously to pause new data center permitting applications through the end of 2026, or until updated regulations are in place, despite no active data center proposals in the town.",
+        "sourceUrl": "https://www.wral.com/news/local/central-north-carolina-data-center-plans-april-2026/"
       }
     ],
     "concerns": [
@@ -223,8 +204,32 @@
       "local-control",
       "grid-capacity",
       "water-consumption",
-      "environmental-review"
+      "residential-proximity"
     ],
-    "contextBlurb": "Orange County, home to Chapel Hill and bordering Durham, joined a growing list of North Carolina jurisdictions weighing a pause on data center development in March 2026. Commissioners scheduled an April public hearing on a potential one-year moratorium and simultaneously directed staff to begin preparing zoning ordinance amendments for when the moratorium period concludes. The action reflects a broader statewide wave of local resistance, with Orange County situated near the Research Triangle where data center developer interest has been particularly intense."
+    "contextBlurb": "Two Wake County municipalities — Apex and Wendell — both enacted data center moratoriums within a day of each other in April 2026, reflecting the Triangle corridor's growing regulatory pushback against AI-driven data center expansion. Apex acted in part following a developer's withdrawal of a 250 MW data center proposal near the Shearon Harris Nuclear Plant, while Wendell passed its freeze proactively with no pending applications. Wake County's Board of Commissioners simultaneously engaged in broader discussions about data center planning and resources in March 2026."
+  },
+  {
+    "id": "lee-county-nc",
+    "name": "Lee County",
+    "fips": "37105",
+    "state": "North Carolina",
+    "stateCode": "NC",
+    "type": "county",
+    "actions": [
+      {
+        "title": "Data Center Definitions and Regulations Added to Unified Development Ordinance",
+        "date": "2026-04-20",
+        "status": "enacted",
+        "summary": "Lee County added specific data center definitions and use regulations to its Unified Development Ordinance in April 2026, choosing to set affirmative standards rather than enact a moratorium.",
+        "sourceUrl": "https://apdillon.substack.com/p/quick-hit-list-of-nc-areas-issuing"
+      }
+    ],
+    "concerns": [
+      "local-zoning",
+      "local-control",
+      "grid-capacity",
+      "water-consumption"
+    ],
+    "contextBlurb": "Lee County took a regulatory rather than prohibitory approach in April 2026, amending its Unified Development Ordinance to formally define 'data center' as a land use and establish governing standards, joining neighboring Sanford in that same month. This path contrasts with the moratorium approach taken by more than 20 other NC jurisdictions and reflects a willingness to accommodate data centers subject to clear rules. The UDO update gives planners a framework to evaluate future proposals against specific performance criteria without a blanket pause on permitting."
   }
 ]

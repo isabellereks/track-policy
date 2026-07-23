@@ -5,55 +5,231 @@
   "stance": "restrictive",
   "stanceDatacenter": "concerning",
   "stanceAI": "restrictive",
-  "lastUpdated": "2026-04-14",
-  "contextBlurb": "California tightened its data-broker and deepfake-pornography laws this session and is debating a standards commission that would license independent auditors to verify AI systems. The legislature is also treating data-center growth primarily as a water-use problem, with pending bills forcing disclosure of water draw and PUE standards.",
+  "lastUpdated": "2026-07-22",
+  "contextBlurb": "California is advancing regulation on data centers and leaning restrictive on AI. On data centers: SB57 (enacted) — Requires electrical corporations to report on data center electricity demand and grid impacts, establishing a baseline for monitoring how data centers affect California's power system. On AI: AB621 (enacted) — Updates California's existing law against deepfake pornography, which prohibits the creation and distribution of realistic fake explicit images of real people without their consent.",
   "legislation": [
     {
-      "id": "ca-sb361",
-      "billCode": "SB361",
-      "title": "Data brokers: data collection and deletion.",
-      "summary": "This bill updates California's data broker law, tightening rules around how data brokers collect and delete personal information. It strengthens consumer rights by requiring data brokers to comply with stricter data deletion and collection standards.",
-      "stage": "Enacted",
+      "id": "ca-ab311",
+      "billCode": "AB311",
+      "title": "Consumer Driving Data Protection Act of 2026.",
+      "summary": "This California bill restricts how insurance companies can collect and use consumer driving data, such as data gathered from vehicle telematics or apps. It aims to protect drivers' personal data from being used in ways they haven't consented to.",
+      "stage": "Committee",
       "stance": "restrictive",
       "impactTags": [
         "data-privacy"
       ],
       "category": "data-privacy",
-      "updatedDate": "2025-10-08",
+      "updatedDate": "2026-07-09",
       "partyOrigin": "D",
-      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB361",
-      "legiscanUrl": "https://legiscan.com/CA/bill/SB361/2025",
-      "legiscanId": 1970450,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB311",
+      "legiscanUrl": "https://legiscan.com/CA/bill/AB311/2025",
+      "legiscanId": 1939188,
       "sponsors": [
-        "Josh Becker"
+        "Tina McKinnor"
       ]
     },
     {
       "id": "ca-sb813",
       "billCode": "SB813",
-      "title": "California AI Standards and Safety Commission: independent verification organizations.",
-      "summary": "This bill establishes a California AI Standards and Safety Commission and creates a framework for independent organizations to verify that AI systems meet safety and standards requirements. It introduces mandatory oversight and verification processes for AI, representing significant regulation of the AI industry in California.",
-      "stage": "Floor",
+      "title": "California Artificial Intelligence Standards and Safety Commission: artificial intelligence safety standards.",
+      "summary": "This bill would create a California commission dedicated to developing safety standards for artificial intelligence systems. The commission would establish rules and oversight requirements that AI developers and deployers would need to follow.",
+      "stage": "Committee",
       "stance": "concerning",
       "impactTags": [
         "ai-safety",
         "algorithmic-transparency"
       ],
       "category": "ai-governance",
-      "updatedDate": "2026-01-27",
+      "updatedDate": "2026-07-02",
       "partyOrigin": "D",
       "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB813",
       "legiscanUrl": "https://legiscan.com/CA/bill/SB813/2025",
       "legiscanId": 1980543,
       "sponsors": [
+        "Jerry McNerney",
+        "Rebecca Bauer-Kahan",
+        "Josh Lowenthal"
+      ]
+    },
+    {
+      "id": "ca-ab1883",
+      "billCode": "AB1883",
+      "title": "Workplace surveillance tools.",
+      "summary": "This California bill regulates how employers can use workplace surveillance tools to monitor employees. It sets rules and restrictions on automated monitoring technologies used in employment settings.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "none",
+        "ai-workforce": "restrictive"
+      },
+      "impactTags": [
+        "ai-in-employment",
+        "algorithmic-transparency",
+        "data-privacy"
+      ],
+      "category": "ai-workforce",
+      "updatedDate": "2026-07-02",
+      "partyOrigin": "D",
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1883",
+      "legiscanUrl": "https://legiscan.com/CA/bill/AB1883/2025",
+      "legiscanId": 2116265,
+      "sponsors": [
+        "Isaac Bryan"
+      ]
+    },
+    {
+      "id": "ca-ab1577",
+      "billCode": "AB1577",
+      "title": "Data centers: reporting.",
+      "summary": "This bill requires data centers in California to report on their energy use, water consumption, and environmental impact. It aims to give the state better visibility into how much resources data centers consume as the industry rapidly expands.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "environmental": "review",
+        "energy": "review"
+      },
+      "impactTags": [
+        "carbon-emissions",
+        "water-consumption",
+        "grid-capacity",
+        "energy-rates"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-07-02",
+      "partyOrigin": "D",
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1577",
+      "legiscanUrl": "https://legiscan.com/CA/bill/AB1577/2025",
+      "legiscanId": 2072055,
+      "sponsors": [
+        "Rebecca Bauer-Kahan"
+      ]
+    },
+    {
+      "id": "ca-ab2619",
+      "billCode": "AB2619",
+      "title": "Water resources: data centers.",
+      "summary": "This California bill requires data centers to report their water usage and directs water agencies to account for data center water demand in their planning. It aims to address the significant water consumption of data centers as part of broader water resource management.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "environmental": "concerning",
+        "energy": "concerning"
+      },
+      "impactTags": [
+        "water-consumption",
+        "water-infrastructure"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-07-02",
+      "partyOrigin": "D",
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB2619",
+      "legiscanUrl": "https://legiscan.com/CA/bill/AB2619/2025",
+      "legiscanId": 2121696,
+      "sponsors": [
+        "Diane Papan"
+      ]
+    },
+    {
+      "id": "ca-sb1168",
+      "billCode": "SB1168",
+      "title": "Data centers: rate structures.",
+      "summary": "This bill establishes a new article in California's Public Utilities Code to create rate structures specifically for data centers. The measure directs regulatory review of how data center energy consumption is priced within the state's utility system.",
+      "stage": "Committee",
+      "stance": "review",
+      "impactTags": [
+        "energy-rates",
+        "grid-capacity"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-06-25",
+      "partyOrigin": "D",
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB1168",
+      "legiscanUrl": "https://legiscan.com/CA/bill/SB1168/2025",
+      "legiscanId": 2119732,
+      "sponsors": [
+        "Jerry McNerney",
+        "Sasha Renee Perez"
+      ]
+    },
+    {
+      "id": "ca-sb1104",
+      "billCode": "SB1104",
+      "title": "California Consumer Privacy Act of 2018: data broker registration: accessible deletion mechanism.",
+      "summary": "This bill strengthens California's data broker rules by requiring brokers to provide an accessible way for consumers to delete their personal information. It updates existing privacy law to make it easier for people to exercise their data deletion rights.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "impactTags": [
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-05-14",
+      "partyOrigin": "D",
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB1104",
+      "legiscanUrl": "https://legiscan.com/CA/bill/SB1104/2025",
+      "legiscanId": 2117191,
+      "sponsors": [
+        "Christopher Cabaldon"
+      ]
+    },
+    {
+      "id": "ca-ab1221",
+      "billCode": "AB1221",
+      "title": "Workplace surveillance tools.",
+      "summary": "This bill establishes requirements for employers using workplace surveillance tools, including AI-based monitoring systems, to disclose their use and functionality to employees. It creates regulations around automated employment decisions and worker monitoring practices.",
+      "stage": "Dead",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-workforce": "restrictive"
+      },
+      "impactTags": [
+        "ai-in-employment",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-workforce",
+      "updatedDate": "2026-02-02",
+      "partyOrigin": "D",
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1221",
+      "legiscanUrl": "https://legiscan.com/CA/bill/AB1221/2025",
+      "legiscanId": 1980118,
+      "sponsors": [
+        "Isaac Bryan",
+        "Sade Elhawary",
+        "Josh Lowenthal",
         "Jerry McNerney"
+      ]
+    },
+    {
+      "id": "ca-ab93",
+      "billCode": "AB93",
+      "title": "Water resources: data centers.",
+      "summary": "This California bill requires data centers to report on and manage their water usage, addressing concerns about how much water these facilities consume. It adds new rules to both business regulations and the state water code to track and potentially limit data center water consumption.",
+      "stage": "Dead",
+      "stance": "concerning",
+      "dimensionStances": {
+        "environmental": "concerning",
+        "energy": "review"
+      },
+      "impactTags": [
+        "water-consumption",
+        "water-infrastructure"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-01-22",
+      "partyOrigin": "D",
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB93",
+      "legiscanUrl": "https://legiscan.com/CA/bill/AB93/2025",
+      "legiscanId": 1904793,
+      "sponsors": [
+        "Diane Papan"
       ]
     },
     {
       "id": "ca-ab621",
       "billCode": "AB621",
       "title": "Deepfake pornography.",
-      "summary": "This bill updates California's law on deepfake pornography, which prohibits creating or sharing sexually explicit fake images of real people without their consent. It strengthens civil legal protections for victims of non-consensual AI-generated intimate imagery.",
+      "summary": "This bill updates California's existing law against deepfake pornography, which prohibits the creation and distribution of realistic fake explicit images of real people without their consent. It strengthens protections for victims by amending the civil code to allow people to sue those who create or share such content.",
       "stage": "Enacted",
       "stance": "restrictive",
       "dimensionStances": {
@@ -79,162 +255,117 @@
       ]
     },
     {
-      "id": "ca-ab1883",
-      "billCode": "AB1883",
-      "title": "Workplace surveillance tools.",
-      "summary": "This California bill would regulate how employers can use surveillance tools to monitor workers, including AI-driven monitoring systems. It adds new rules to the Labor Code aimed at protecting employees from invasive workplace surveillance.",
-      "stage": "Committee",
+      "id": "ca-ab853",
+      "billCode": "AB853",
+      "title": "California AI Transparency Act.",
+      "summary": "This bill amends California's AI transparency requirements in the Business and Professions Code to strengthen disclosure and oversight of AI systems used in high-risk contexts. It establishes new transparency obligations and potential restrictions on AI deployment in sensitive applications.",
+      "stage": "Enacted",
       "stance": "concerning",
-      "dimensionStances": {
-        "ai-governance-dim": "concerning",
-        "ai-consumer": "none",
-        "ai-workforce": "restrictive"
-      },
       "impactTags": [
-        "ai-in-employment",
         "algorithmic-transparency",
-        "data-privacy"
+        "ai-safety"
       ],
-      "category": "ai-workforce",
-      "updatedDate": "2026-02-12",
+      "category": "ai-governance",
+      "updatedDate": "2025-10-13",
       "partyOrigin": "D",
-      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1883",
-      "legiscanUrl": "https://legiscan.com/CA/bill/AB1883/2025",
-      "legiscanId": 2116265,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB853",
+      "legiscanUrl": "https://legiscan.com/CA/bill/AB853/2025",
+      "legiscanId": 1976440,
       "sponsors": [
-        "Isaac Bryan"
+        "Buffy Wicks",
+        "Josh Becker",
+        "Rick Zbur"
       ]
     },
     {
-      "id": "ca-sb660",
-      "billCode": "SB660",
-      "title": "California Health and Human Services Data Exchange Framework.",
-      "summary": "This bill updates California's health data exchange framework, which governs how health and human services organizations share patient data. It sets rules for data sharing among health agencies but does not focus specifically on AI regulation or data-center policy.",
+      "id": "ca-sb57",
+      "billCode": "SB57",
+      "title": "Electrical corporations: data centers: report.",
+      "summary": "This bill requires electrical corporations to report on data center electricity demand and grid impacts, establishing a baseline for monitoring how data centers affect California's power system. The reporting requirement supports regulatory oversight without imposing operational restrictions on data centers.",
       "stage": "Enacted",
       "stance": "review",
+      "impactTags": [
+        "energy-rates",
+        "grid-capacity"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2025-10-11",
+      "partyOrigin": "D",
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB57",
+      "legiscanUrl": "https://legiscan.com/CA/bill/SB57/2025",
+      "legiscanId": 1908210,
+      "sponsors": [
+        "Steve Padilla",
+        "Jerry McNerney",
+        "Henry Stern"
+      ]
+    },
+    {
+      "id": "ca-sb361",
+      "billCode": "SB361",
+      "title": "Data brokers: data collection and deletion.",
+      "summary": "This bill updates California's data broker laws, tightening rules around how data brokers collect and delete personal information. It strengthens consumer rights by making it easier for people to have their data removed from broker databases.",
+      "stage": "Enacted",
+      "stance": "restrictive",
+      "impactTags": [
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2025-10-08",
+      "partyOrigin": "D",
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB361",
+      "legiscanUrl": "https://legiscan.com/CA/bill/SB361/2025",
+      "legiscanId": 1970450,
+      "sponsors": [
+        "Josh Becker"
+      ]
+    },
+    {
+      "id": "ca-ab91",
+      "billCode": "AB91",
+      "title": "State and local agencies: demographic data.",
+      "summary": "This bill requires state and local agencies to collect and report demographic data in a standardized format. The bill supports transparency in government data practices that may inform or be used by AI systems.",
+      "stage": "Enacted",
+      "stance": "review",
+      "dimensionStances": {
+        "ai-governance-dim": "review",
+        "ai-consumer": "concerning"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "data-privacy"
+      ],
+      "category": "ai-government",
+      "updatedDate": "2025-10-06",
+      "partyOrigin": "D",
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB91",
+      "legiscanUrl": "https://legiscan.com/CA/bill/AB91/2025",
+      "legiscanId": 1903336,
+      "sponsors": [
+        "John Harabedian",
+        "Patrick Ahrens",
+        "Jessica Caloza",
+        "Sabrina Cervantes"
+      ]
+    },
+    {
+      "id": "ca-sb446",
+      "billCode": "SB446",
+      "title": "Data breaches: customer notification.",
+      "summary": "This bill amends California's data breach notification law to strengthen consumer protections when personal information is compromised. It updates requirements for how and when companies must notify affected individuals of security breaches.",
+      "stage": "Enacted",
+      "stance": "concerning",
       "impactTags": [
         "data-privacy"
       ],
       "category": "data-privacy",
       "updatedDate": "2025-10-03",
       "partyOrigin": "D",
-      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB660",
-      "legiscanUrl": "https://legiscan.com/CA/bill/SB660/2025",
-      "legiscanId": 1978893,
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB446",
+      "legiscanUrl": "https://legiscan.com/CA/bill/SB446/2025",
+      "legiscanId": 1974556,
       "sponsors": [
-        "Caroline Menjivar",
-        "Rebecca Bauer-Kahan"
-      ]
-    },
-    {
-      "id": "ca-ab93",
-      "billCode": "AB93",
-      "title": "Water resources: data centers.",
-      "summary": "This bill requires data centers in California to report on and manage their water usage. It sets rules around water consumption by data centers, likely including reporting requirements or efficiency standards.",
-      "stage": "Dead",
-      "stance": "concerning",
-      "dimensionStances": {
-        "environmental": "concerning",
-        "energy": "concerning"
-      },
-      "impactTags": [
-        "water-consumption",
-        "water-infrastructure"
-      ],
-      "category": "data-center-energy",
-      "updatedDate": "2025-10-11",
-      "partyOrigin": "D",
-      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB93",
-      "legiscanUrl": "https://legiscan.com/CA/bill/AB93/2025",
-      "legiscanId": 1904793,
-      "sponsors": [
-        "Diane Papan"
-      ]
-    },
-    {
-      "id": "ca-ab2092",
-      "billCode": "AB2092",
-      "title": "Early Childhood Integrated Data System.",
-      "summary": "This bill relates to an integrated data system for early childhood learning and care programs in California. It does not appear to directly address AI regulation or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [
-        "data-privacy",
-        "child-safety"
-      ],
-      "category": "ai-education",
-      "updatedDate": "2026-02-18",
-      "partyOrigin": "D",
-      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB2092",
-      "legiscanUrl": "https://legiscan.com/CA/bill/AB2092/2025",
-      "legiscanId": 2119619,
-      "sponsors": [
-        "Mia Bonta"
-      ]
-    },
-    {
-      "id": "ca-ab2619",
-      "billCode": "AB2619",
-      "title": "Water resources: data centers.",
-      "summary": "This bill requires data centers in California to report their water usage and incorporates data center water consumption into local water supply planning processes. It aims to ensure that water agencies account for the significant water demands of data centers when planning future water resources.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "dimensionStances": {
-        "environmental": "concerning",
-        "energy": "concerning"
-      },
-      "impactTags": [
-        "water-consumption",
-        "water-infrastructure"
-      ],
-      "category": "data-center-energy",
-      "updatedDate": "2026-02-20",
-      "partyOrigin": "D",
-      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB2619",
-      "legiscanUrl": "https://legiscan.com/CA/bill/AB2619/2025",
-      "legiscanId": 2121696,
-      "sponsors": [
-        "Diane Papan"
-      ]
-    },
-    {
-      "id": "ca-ab777",
-      "billCode": "AB777",
-      "title": "Food assistance: disasters: utilities.",
-      "summary": "This bill deals with food assistance programs and utility services during disasters. It has no relevance to AI policy or data-center regulation.",
-      "stage": "Enacted",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2025-10-13",
-      "partyOrigin": "D",
-      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB777",
-      "legiscanUrl": "https://legiscan.com/CA/bill/AB777/2025",
-      "legiscanId": 1974494,
-      "sponsors": [
-        "Celeste Rodriguez",
-        "Henry Stern"
-      ]
-    },
-    {
-      "id": "ca-sb223",
-      "billCode": "SB223",
-      "title": "The Wildfire Smoke and Health Outcomes Data Act.",
-      "summary": "This bill is about tracking health outcomes related to wildfire smoke exposure. It has no relevance to AI regulation or data-center policy.",
-      "stage": "Dead",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2026-02-02",
-      "partyOrigin": "B",
-      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB223",
-      "legiscanUrl": "https://legiscan.com/CA/bill/SB223/2025",
-      "legiscanId": 1943415,
-      "sponsors": [
-        "Marie Alvarado-Gil",
-        "Juan Alanis",
-        "Carl DeMaio",
-        "Stan Ellis"
+        "Melissa Hurtado"
       ]
     },
     {
@@ -254,31 +385,13 @@
         "carbon-emissions"
       ],
       "category": "data-center-energy",
-      "updatedDate": "2025-06-02",
+      "updatedDate": "2025-08-29",
       "partyOrigin": "D",
       "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB222",
       "legiscanUrl": "https://legiscan.com/CA/bill/AB222/2025",
       "legiscanId": 1908207,
       "sponsors": [
         "Rebecca Bauer-Kahan"
-      ]
-    },
-    {
-      "id": "ca-sb691",
-      "billCode": "SB691",
-      "title": "Body-worn cameras: policies.",
-      "summary": "This bill amends existing California law on police body-worn camera policies. It does not appear to address AI, automated decision-making, or data-center infrastructure.",
-      "stage": "Floor",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-criminal-justice",
-      "updatedDate": "2026-01-27",
-      "partyOrigin": "D",
-      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB691",
-      "legiscanUrl": "https://legiscan.com/CA/bill/SB691/2025",
-      "legiscanId": 1980421,
-      "sponsors": [
-        "Aisha Wahab"
       ]
     }
   ]

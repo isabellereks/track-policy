@@ -8,22 +8,21 @@
     "type": "municipality",
     "actions": [
       {
-        "title": "12-Month Moratorium on Zoning Certificates for Data Centers and Telecommunications Centers (Legistar 91135)",
+        "title": "12-Month Moratorium on New Data Center Zoning Approvals",
         "date": "2026-01-13",
         "status": "enacted",
-        "summary": "Madison's Common Council enacted a one-year moratorium blocking new zoning certificates for data centers or telecommunications centers over 10,000 sq ft, giving city staff time to create permanent zoning standards.",
-        "sourceUrl": "https://www.cityofmadison.com/council/district3/blog/2026-01-11/proposal-to-establish-a-temporary-moratorium-on-new-data-centers"
+        "summary": "The Madison Common Council voted to block zoning approvals for new data centers larger than 10,000 sq ft for up to one year while the city develops a formal land-use definition and zoning standards.",
+        "sourceUrl": "https://www.cityofmadison.com/dpced/about/temporary-data-center-moratorium"
       }
     ],
     "concerns": [
+      "local-zoning",
       "grid-capacity",
       "water-consumption",
-      "local-zoning",
       "noise-vibration",
-      "environmental-review",
-      "local-control"
+      "environmental-review"
     ],
-    "contextBlurb": "Madison enacted one of the nation's largest-city data center moratoriums in January 2026, halting zoning certificates for facilities over 10,000 sq ft for up to 12 months while city staff research best practices and draft permanent zoning standards. The city's existing code had no data-center definition, treating such uses only as 'telecommunications centers' under outdated rules. The moratorium is designed to run in parallel with the newly formed Dane County Advisory Committee on Data Centers, enabling regional coordination."
+    "contextBlurb": "Madison's zoning code lacked any definition of 'data centers,' historically treating them under an outdated 'telecommunications centers' category. The Common Council enacted a 12-month moratorium on January 13, 2026, to give city staff time to consult other municipalities, review research, and draft appropriate land-use standards. The city also participates in the Dane County Advisory Committee on Data Centers (ACDC) to share findings."
   },
   {
     "id": "dane-county-wi",
@@ -34,29 +33,22 @@
     "type": "county",
     "actions": [
       {
-        "title": "Dane County Advisory Committee on Data Centers (RES-205)",
-        "date": "2025-11-06",
+        "title": "18-Month Moratorium on Hyperscale Data Center Zoning Permits (RES-039)",
+        "date": "2026-06-04",
         "status": "enacted",
-        "summary": "The Dane County Board adopted a resolution creating an 11-member advisory committee to study data center risks, benefits, and regulatory options, with a final report due February 2027.",
-        "sourceUrl": "https://www.danecounty.gov/PressDetail/11741"
-      },
-      {
-        "title": "DeForest Village Board Rejects QTS Data Center Annexation Petition",
-        "date": "2026-02-03",
-        "status": "enacted",
-        "summary": "The DeForest Village Board unanimously accepted staff's recommendation to reject an annexation petition filed by QTS Data Centers for a proposed $12 billion, 650-acre campus, driven by community opposition and state DoA concerns about water and sewer capacity.",
-        "sourceUrl": "https://isthmus.com/news/news/what-to-do-if-a-large-data-center-comes-knocking/"
+        "summary": "Dane County enacted an 18-month moratorium halting receipt of applications and issuance of zoning permits for data centers in towns under county zoning authority, while the Advisory Committee on Data Centers completes its policy research.",
+      "sourceUrl": "https://www.danecounty.gov/PressDetail/11898"
       }
     ],
     "concerns": [
-      "water-infrastructure",
-      "local-control",
       "local-zoning",
-      "environmental-review",
+      "local-control",
       "grid-capacity",
-      "water-consumption"
+      "water-consumption",
+      "environmental-review",
+      "property-values"
     ],
-    "contextBlurb": "Dane County created a formal Advisory Committee on Data Centers in late 2025 in response to a massive QTS proposal in DeForest and growing community alarm about transparency, energy, and water impacts. The committee convened in February 2026 and will spend its first six months examining energy use, water impacts, economic effects, land use, and regulatory questions before producing recommendations. The DeForest Village Board rejected the QTS annexation petition in February 2026, with the state Department of Administration also concluding the annexation was not in the public interest."
+    "contextBlurb": "Dane County introduced resolution 2026 RES-039 on May 15, 2026, citing that data center development was inconsistent with the county's Comprehensive Plan and zoning ordinances. The moratorium applies only to towns under county zoning and does not affect cities, villages, or towns with their own codes. County Board Chair Patrick Miles encouraged those other jurisdictions to adopt their own moratoriums to benefit from the Advisory Committee's work."
   },
   {
     "id": "manitowoc-county-wi",
@@ -67,70 +59,11 @@
     "type": "county",
     "actions": [
       {
-        "title": "Planning and Parks Commission Recommends 12-Month Data Center Permitting Moratorium",
-        "date": "2026-04-01",
-        "status": "proposed",
-        "summary": "The Manitowoc County Planning and Parks Commission voted to recommend a one-year moratorium on data center permitting to the full county board, citing community concerns over energy, water, noise, and light pollution.",
-        "sourceUrl": "https://www.wpr.org/news/manitowoc-county-committee-recommends-moratorium-data-center-permitting"
-      }
-    ],
-    "concerns": [
-      "noise-vibration",
-      "water-consumption",
-      "grid-capacity",
-      "environmental-review",
-      "local-control",
-      "local-zoning"
-    ],
-    "contextBlurb": "Manitowoc County's Planning and Parks Commission advanced a one-year data center permitting moratorium to the full county board in early April 2026 after developer Cloverleaf Infrastructure approached landowners in multiple county towns about building a hyperscale facility in northeast Wisconsin. Constituent feedback to county supervisors was overwhelmingly negative, citing fears about water and energy use and noise and light pollution. The moratorium would apply only to unincorporated county land, as municipalities retain autonomous zoning authority."
-  },
-  {
-    "id": "city-of-port-washington-wi",
-    "name": "City of Port Washington",
-    "fips": "55089",
-    "state": "Wisconsin",
-    "stateCode": "WI",
-    "type": "municipality",
-    "actions": [
-      {
-        "title": "Voter Referendum: TIF Voter-Approval Requirement for Large Developments ($10M+)",
-        "date": "2026-04-08",
+        "title": "18-Month Moratorium on Data Center Permitting",
+        "date": "2026-04-29",
         "status": "enacted",
-        "summary": "Port Washington voters approved, by roughly 66%, a first-of-its-kind ordinance requiring voter approval before the city can grant tax incremental financing for any project with costs or base value exceeding $10 million, triggered by the $15 billion Stargate AI campus.",
-        "sourceUrl": "https://www.wpr.org/news/port-washington-referendum-concerns-data-center-project"
-      }
-    ],
-    "concerns": [
-      "local-control",
-      "grid-capacity",
-      "water-consumption",
-      "carbon-emissions",
-      "property-values",
-      "residential-proximity"
-    ],
-    "contextBlurb": "Port Washington, a city of about 12,000 on Lake Michigan, is the site of a $15 billion Vantage Data Centers campus for OpenAI and Oracle that is part of the Trump administration's Stargate AI infrastructure initiative. Community group Great Lakes Neighbors United organized opposition, collected over 1,000 petition signatures, and secured a ballot referendum that passed on April 8, 2026 by a 2-to-1 margin, making Port Washington the first city in the nation to enact such a voter-approval requirement for large development incentives. The Metropolitan Milwaukee Association of Commerce filed suit in January 2026 seeking to block the ordinance, with a scheduling conference set for April 16 at the Ozaukee County Justice Center."
-  },
-  {
-    "id": "city-of-menomonie-wi",
-    "name": "City of Menomonie",
-    "fips": "55033",
-    "state": "Wisconsin",
-    "stateCode": "WI",
-    "type": "municipality",
-    "actions": [
-      {
-        "title": "Mayor Places $1.6 Billion Data Center Proposal on Hold",
-        "date": "2025-09-01",
-        "status": "enacted",
-        "summary": "Menomonie's mayor paused a proposed $1.6 billion data center project in September 2025 following community backlash over secrecy and lack of public input.",
-        "sourceUrl": "https://wisconsinwatch.org/2026/01/wisconsin-data-center-secrecy-deals-nda-nondisclosure-agreement/"
-      },
-      {
-        "title": "City Council Adopts Revised Data Center Zoning Ordinance Reversing Warehousing Definition",
-        "date": "2026-01-01",
-        "status": "enacted",
-        "summary": "Menomonie's city council enacted a new zoning ordinance in January 2026 that explicitly removed data centers from the city's 'warehousing' land-use definition, tightening local control over future proposals.",
-        "sourceUrl": "https://wisconsinwatch.org/2026/01/wisconsin-data-center-secrecy-deals-nda-nondisclosure-agreement/"
+        "summary": "The Manitowoc County Board unanimously approved an 18-month moratorium prohibiting the county from accepting applications or issuing permits for construction or siting of data centers, triggered by concerns from three northeastern Wisconsin towns.",
+        "sourceUrl": "https://www.wpr.org/news/manitowoc-county-board-approves-18-month-data-center-moratorium"
       }
     ],
     "concerns": [
@@ -138,58 +71,135 @@
       "local-zoning",
       "grid-capacity",
       "water-consumption",
-      "environmental-review"
+      "environmental-review",
+      "property-values"
     ],
-    "contextBlurb": "Menomonie, in Dunn County, signed a nondisclosure agreement with developer Balloonist LLC in February 2024 and quietly amended its zoning code to classify data centers as 'warehousing' before publicly announcing a $1.6 billion proposal in July 2025. After community outcry over the lack of transparency, the mayor placed the project on hold in September 2025. In January 2026, the city council reversed the warehousing definition through a new zoning ordinance, effectively requiring any future data center to navigate a fresh approval pathway."
+    "contextBlurb": "The towns of Two Creeks, Two Rivers, and Mishicot petitioned Manitowoc County in February 2026 after a data center developer approached landowners in the area. The county's Planning and Park Commission approved a moratorium measure in March before the full board enacted it unanimously on April 29, 2026. The moratorium specifically targets facilities capable of managing more than one petabyte of data and was carefully worded to avoid violating Wisconsin statutes that bar counties from enacting development moratoriums."
   },
   {
-    "id": "city-of-beaver-dam-wi",
-    "name": "City of Beaver Dam",
-    "fips": "55027",
+    "id": "grant-county-wi-town-cassville",
+    "name": "Town of Cassville (Grant County)",
+    "fips": "55043",
     "state": "Wisconsin",
     "stateCode": "WI",
     "type": "municipality",
     "actions": [
       {
-        "title": "City Council Approves TIF District for Meta Data Center (Dodge County)",
-        "date": "2024-11-01",
+        "title": "Two-Year Data Center Ban Ordinance",
+        "date": "2026-04-16",
         "status": "enacted",
-        "summary": "Beaver Dam's city council created a tax incremental finance district in late 2024 to support a $1 billion, 520-acre Meta data center campus, a decision later criticized for being made without public disclosure that Meta was involved.",
-        "sourceUrl": "https://wisconsinwatch.org/2026/01/wisconsin-data-center-secrecy-deals-nda-nondisclosure-agreement/"
+        "summary": "Town electors unanimously authorized the Cassville Town Board to exercise zoning authority and pass an ordinance banning data centers for two years across the town's 36 square miles bordering the Mississippi River.",
+        "sourceUrl": "https://wisconsinwatch.org/2026/04/wisconsin-data-center-rural-town-cassville-rejects-plan-driftless-area-zoning/"
       }
     ],
     "concerns": [
       "local-control",
-      "water-consumption",
+      "local-zoning",
+      "property-values",
       "grid-capacity",
-      "noise-vibration",
-      "environmental-review"
+      "water-consumption",
+      "residential-proximity"
     ],
-    "contextBlurb": "Beaver Dam, in Dodge County, became the center of Wisconsin's data-center transparency controversy after city officials worked with shell companies Balloonist LLC and Degas LLC for over a year before publicly revealing that Meta was behind a $1 billion, 520-acre campus now under construction at Beaver Dam Commerce Park. The city's NDA prevented officials from disclosing even the existence of the project, drawing sharp criticism from residents. Community opposition fueled statewide calls for anti-secrecy legislation and contributed to the broader wave of local data center regulatory action across Wisconsin."
+    "contextBlurb": "Residents of Cassville mobilized in spring 2026 after learning the town was on a shortlist for a proposed $1 billion, 400–500 MW data center campus whose developer and location were kept secret under nondisclosure arrangements. With the backing of the 'No Data Centers in the Driftless' opposition network, town electors voted 44–0 to authorize new zoning authority and immediately ban data centers for two years. Grant County cannot preempt the town's newly established local zoning authority."
   },
   {
-    "id": "village-of-mount-pleasant-wi",
-    "name": "Village of Mount Pleasant",
-    "fips": "55101",
+    "id": "city-of-port-washington-wi",
+    "name": "City of Port Washington (Ozaukee County)",
+    "fips": "55089",
     "state": "Wisconsin",
     "stateCode": "WI",
     "type": "municipality",
     "actions": [
       {
-        "title": "Microsoft $3.3 Billion Data Center Permitted and Under Construction",
-        "date": "2025-09-01",
+        "title": "Voter Referendum Requiring Approval for Large TIF Districts",
+        "date": "2026-04-07",
         "status": "enacted",
-        "summary": "Mount Pleasant permitted and has underway a $3.3 billion Microsoft data center campus; community concerns over persistent noise have emerged as construction progresses.",
-        "sourceUrl": "https://nationaltoday.com/us/wi/port-washington-wi/news/2026/04/09/wisconsin-voters-approve-strict-data-center-limits/"
+        "summary": "Port Washington voters approved a referendum (66% in favor) requiring voter approval before the city can create Tax Incremental Financing districts of $10 million or more, directly limiting the city's ability to provide tax incentives to future data center projects without public consent.",
+        "sourceUrl": "https://www.wpr.org/news/port-washington-referendum-concerns-data-center-project"
       }
     ],
     "concerns": [
-      "noise-vibration",
+      "local-control",
       "grid-capacity",
       "water-consumption",
-      "residential-proximity",
-      "local-control"
+      "environmental-review",
+      "property-values"
     ],
-    "contextBlurb": "Mount Pleasant, in Racine County, is home to a $3.3 billion Microsoft AI data center project that broke ground in late 2025 and is one of at least three major data centers under construction in Wisconsin as of early 2026. Residents have reported concerns about persistent noise emanating from the facility during construction and operation. The project is part of the broader wave of hyperscale AI infrastructure investment that has sparked community opposition and regulatory scrutiny across the state."
+    "contextBlurb": "Port Washington is already home to a $15 billion OpenAI/Oracle/Vantage 'Lighthouse' data center campus that broke ground in December 2024, supported by a $458 million TIF district approved without a public vote. Community group Great Lakes Neighbors United collected over 1,000 signatures to force the referendum onto the April 7, 2026 spring ballot, where it passed 66–34%. The measure does not affect the existing TIF but applies to all future large-scale incentive districts; business groups have filed a legal challenge that could invalidate the result."
+  },
+  {
+    "id": "brown-county-wi",
+    "name": "Brown County",
+    "fips": "55009",
+    "state": "Wisconsin",
+    "stateCode": "WI",
+    "type": "county",
+    "actions": [
+      {
+        "title": "Data Center Moratorium Proposal Declined by County Board",
+        "date": "2026-06-03",
+        "status": "failed",
+        "summary": "Brown County's planning committee declined to pursue a data center moratorium or any resolution opposing data center development, citing the county's lack of zoning jurisdiction over most municipalities and constraints under Wisconsin state law.",
+        "sourceUrl": "https://dailyreporter.com/2026/06/03/brown-county-declines-data-center-moratorium-zoning/"
+      }
+    ],
+    "concerns": [
+      "local-control",
+      "grid-capacity",
+      "water-consumption",
+      "environmental-review"
+    ],
+    "contextBlurb": "A Brown County supervisor requested a pause on all data center activity pending state legislation, but the committee determined the county lacked zoning authority to act and that state law further complicated any formal moratorium. Community members, including a Green Bay School Board member, publicly criticized the county for what they characterized as an abdication of authority. Residents in the Village of Wrightstown, facing Cloverleaf Infrastructure's interest in a nearly 1-gigawatt AI data center, have continued to press their Village Board for a separate local moratorium."
+  },
+  {
+    "id": "city-of-superior-wi",
+    "name": "City of Superior (Douglas County)",
+    "fips": "55031",
+    "state": "Wisconsin",
+    "stateCode": "WI",
+    "type": "municipality",
+    "actions": [
+      {
+        "title": "One-Year Data Center Moratorium Resolution",
+        "date": "2026-06-10",
+        "status": "enacted",
+        "summary": "The Superior City Council unanimously approved a one-year moratorium on data centers, citing the absence of any zoning definition for data centers and concern that nearby communities were being blindsided by large-scale proposals.",
+        "sourceUrl": "https://www.wpr.org/news/superior-joins-growing-number-of-wisconsin-communities-to-pass-data-center-moratorium"
+      }
+    ],
+    "concerns": [
+      "local-zoning",
+      "local-control",
+      "grid-capacity",
+      "water-consumption",
+      "environmental-review"
+    ],
+    "contextBlurb": "Superior acted proactively as a nearby Duluth suburb weighed a massive Google data center proposal, and developer Cloverleaf Infrastructure expressed interest in northeast Wisconsin. Council member Garner Moffat brought the resolution forward, noting the city lacked any definition distinguishing small from large data centers in its zoning regulations. Superior became one of a growing list of Wisconsin communities—alongside Madison, Manitowoc County, Cassville, and Wrightstown—passing moratoriums within a short span."
+  },
+  {
+    "id": "rock-county-wi-city-janesville",
+    "name": "City of Janesville (Rock County)",
+    "fips": "55105",
+    "state": "Wisconsin",
+    "stateCode": "WI",
+    "type": "municipality",
+    "actions": [
+      {
+        "title": "Voter Ballot Initiative on Data Center Approval Threshold (Scheduled November 2026)",
+        "date": "2026-04-01",
+        "status": "proposed",
+        "summary": "A ballot initiative is set for the November 2026 election in Janesville that would require voter approval for data center projects exceeding $450 million, modeled on Port Washington's April 2026 referendum and directed at a proposed $8 billion data center on the former GM plant site.",
+        "sourceUrl": "https://608scanner.com/the-rock-county-data-center-fight-janesvilles-three-proposals-and-the-vote-that-could-decide-them/"
+      }
+    ],
+    "concerns": [
+      "local-control",
+      "grid-capacity",
+      "water-consumption",
+      "environmental-review",
+      "property-values",
+      "carbon-emissions"
+    ],
+    "contextBlurb": "Janesville faces at least three separate data center proposals totaling more than $9 billion in investment and over 1 gigawatt of power demand, including an $8 billion 'Viridian' project on the former General Motors brownfield site. Community pressure following Port Washington's pioneering April 2026 referendum has driven a similar ballot initiative onto Janesville's November 2026 ballot, which would require voter sign-off on projects above $450 million. The Wisconsin PSC approved an Alliant Energy–Meta power deal in May 2026 for a related Dodge County project but criticized the opaque rate structure."
   }
 ]

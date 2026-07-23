@@ -2,45 +2,18 @@
   "state": "Georgia",
   "stateCode": "GA",
   "region": "na",
-  "stance": "concerning",
+  "stance": "restrictive",
   "stanceDatacenter": "concerning",
-  "stanceAI": "concerning",
-  "lastUpdated": "2026-04-14",
-  "contextBlurb": "Georgia is advancing a restrictive floor bill that would ban health insurers from using AI alone to deny coverage, and the Senate has already stood up a study committee on AI's broader impact. Multiple pending data-center bills would stop utilities from passing hyperscaler power costs onto residential ratepayers.",
+  "stanceAI": "restrictive",
+  "lastUpdated": "2026-07-22",
+  "contextBlurb": "Georgia is advancing regulation on data centers and leaning restrictive on AI. On data centers: SB410 (on the floor) — Georgia proposes to repeal the sales and use tax exemption for data center equipment, eliminating a longstanding economic incentive for data center construction and operation in the state. On AI: SB444 (enacted) — Prohibits health insurance companies from using artificial intelligence alone to make coverage decisions about healthcare services.",
   "legislation": [
-    {
-      "id": "ga-hb1323",
-      "billCode": "HB1323",
-      "title": "Electrical service; require new data centers to operate as hybrid power data centers",
-      "summary": "This bill would require new data centers in Georgia to operate as 'hybrid power data centers,' meaning they must use a combination of power sources, and be certified by the Public Service Commission. It aims to reduce the strain that large data centers place on the electrical grid by mandating diversified energy use.",
-      "stage": "Filed",
-      "stance": "concerning",
-      "dimensionStances": {
-        "environmental": "concerning",
-        "energy": "concerning"
-      },
-      "impactTags": [
-        "grid-capacity",
-        "renewable-energy",
-        "carbon-emissions",
-        "energy-rates"
-      ],
-      "category": "data-center-energy",
-      "updatedDate": "2026-02-17",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.legis.ga.gov/legislation/73252",
-      "legiscanUrl": "https://legiscan.com/GA/bill/HB1323/2025",
-      "legiscanId": 2118561,
-      "sponsors": [
-        "Yasmin Neal"
-      ]
-    },
     {
       "id": "ga-sb444",
       "billCode": "SB444",
       "title": "Private Review Agents; certain decisions with regard to the provision of insurance coverage for healthcare services shall not be based solely on artificial intelligence systems; provide",
-      "summary": "This Georgia bill prohibits health insurance companies from using artificial intelligence alone to make coverage decisions for healthcare services. Human review must be part of any such decision-making process.",
-      "stage": "Floor",
+      "summary": "This Georgia bill prohibits health insurance companies from using artificial intelligence alone to make coverage decisions about healthcare services. Human review must be part of any such decision, ensuring AI cannot solely determine whether a patient's care is covered.",
+      "stage": "Enacted",
       "stance": "restrictive",
       "dimensionStances": {
         "ai-governance-dim": "concerning",
@@ -51,7 +24,7 @@
         "algorithmic-transparency"
       ],
       "category": "ai-healthcare",
-      "updatedDate": "2026-04-10",
+      "updatedDate": "2026-05-05",
       "partyOrigin": "B",
       "sourceUrl": "https://www.legis.ga.gov/legislation/72666",
       "legiscanUrl": "https://legiscan.com/GA/bill/SB444/2025",
@@ -64,151 +37,10 @@
       ]
     },
     {
-      "id": "ga-hb276",
-      "billCode": "HB276",
-      "title": "Income tax; change certain definitions",
-      "summary": "This bill amends Georgia's income tax definitions and does not appear to relate to AI regulation or data-center policy. It is a general tax code update with no substantive connection to AI or data centers.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "data-center-energy",
-      "updatedDate": "2025-02-05",
-      "partyOrigin": "R",
-      "sourceUrl": "https://www.legis.ga.gov/legislation/69943",
-      "legiscanUrl": "https://legiscan.com/GA/bill/HB276/2025",
-      "legiscanId": 1958329,
-      "sponsors": [
-        "James Burchett",
-        "Bruce Williamson",
-        "Vance Smith",
-        "Trey Kelley"
-      ]
-    },
-    {
-      "id": "ga-hb1063",
-      "billCode": "HB1063",
-      "title": "Electric utilities; protect residential and retail electricity customers from costs associated with data center construction and operation; require",
-      "summary": "This bill requires Georgia electric utilities to shield residential and retail customers from bearing the costs tied to data center construction and operation. It mandates specific contract terms to ensure that data centers, not everyday ratepayers, cover the expenses their energy demands place on the grid.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "dimensionStances": {
-        "energy": "restrictive",
-        "community": "favorable"
-      },
-      "impactTags": [
-        "energy-rates",
-        "grid-capacity",
-        "local-control"
-      ],
-      "category": "data-center-energy",
-      "updatedDate": "2026-02-17",
-      "partyOrigin": "R",
-      "sourceUrl": "https://www.legis.ga.gov/legislation/72514",
-      "legiscanUrl": "https://legiscan.com/GA/bill/HB1063/2025",
-      "legiscanId": 2100505,
-      "sponsors": [
-        "Brad Thomas",
-        "Jon Burns",
-        "Charles Cannon",
-        "Sandy Donatucci"
-      ]
-    },
-    {
-      "id": "ga-hb1059",
-      "billCode": "HB1059",
-      "title": "Data Center Impact Assessment and Development Moratorium Act of 2026; enact",
-      "summary": "This bill would temporarily ban the construction of new data centers in Georgia while a state commission studies their impact on utilities, the environment, and communities. It establishes a formal review body to assess how data centers affect power grids, water use, and other public resources before development can resume.",
-      "stage": "Filed",
-      "stance": "restrictive",
-      "dimensionStances": {
-        "environmental": "restrictive",
-        "energy": "restrictive",
-        "community": "restrictive",
-        "land-use": "restrictive"
-      },
-      "impactTags": [
-        "grid-capacity",
-        "environmental-review",
-        "local-zoning",
-        "energy-rates",
-        "water-consumption"
-      ],
-      "category": "data-center-siting",
-      "updatedDate": "2026-01-28",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.legis.ga.gov/legislation/72510",
-      "legiscanUrl": "https://legiscan.com/GA/bill/HB1059/2025",
-      "legiscanId": 2100437,
-      "sponsors": [
-        "Derrick Jackson",
-        "Kim Schofield",
-        "Sandra Scott",
-        "Viola Davis"
-      ]
-    },
-    {
-      "id": "ga-sb34",
-      "billCode": "SB34",
-      "title": "Public Service Commission; costs incurred by an electric utility as a result of providing electric services to commercial data centers from being included in any rates; prohibit",
-      "summary": "This bill would prevent electric utilities from spreading the costs of serving commercial data centers across all ratepayers, requiring that those costs be charged specifically to the data centers themselves. It aims to protect regular electricity customers from subsidizing the high energy demands of data center operations.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "dimensionStances": {
-        "energy": "concerning",
-        "community": "none"
-      },
-      "impactTags": [
-        "energy-rates",
-        "grid-capacity",
-        "local-control"
-      ],
-      "category": "data-center-energy",
-      "updatedDate": "2025-01-27",
-      "partyOrigin": "B",
-      "sourceUrl": "https://www.legis.ga.gov/legislation/69551",
-      "legiscanUrl": "https://legiscan.com/GA/bill/SB34/2025",
-      "legiscanId": 1943236,
-      "sponsors": [
-        "Chuck Hufstetler",
-        "Carden Summers",
-        "John Albers",
-        "Jason Anavitarte"
-      ]
-    },
-    {
-      "id": "ga-hb1387",
-      "billCode": "HB1387",
-      "title": "Ad valorem tax; state-wide homestead exemption in an amount as determined from proceeds generated from collection of certain ad valorem property taxes on data centers",
-      "summary": "This Georgia bill would use property tax revenue collected from data centers to fund a statewide homestead exemption, reducing property taxes for homeowners. It essentially links data center tax contributions to direct financial relief for residential property owners across the state.",
-      "stage": "Filed",
-      "stance": "favorable",
-      "dimensionStances": {
-        "community": "favorable",
-        "land-use": "none"
-      },
-      "impactTags": [
-        "tax-incentives",
-        "local-zoning",
-        "property-values",
-        "economic-development"
-      ],
-      "category": "data-center-siting",
-      "updatedDate": "2026-02-19",
-      "partyOrigin": "R",
-      "sourceUrl": "https://www.legis.ga.gov/legislation/73424",
-      "legiscanUrl": "https://legiscan.com/GA/bill/HB1387/2025",
-      "legiscanId": 2120612,
-      "sponsors": [
-        "Joseph Gullett",
-        "Martin Momtahan",
-        "Brad Thomas"
-      ]
-    },
-    {
       "id": "ga-sr789",
       "billCode": "SR789",
       "title": "Senate Study Committee on the Impact of Artificial Intelligence; create",
-      "summary": "This resolution creates a Georgia Senate committee to study the effects and implications of artificial intelligence. The committee will examine AI's impact and report findings, but does not impose any restrictions or regulations on its own.",
+      "summary": "This resolution creates a Georgia Senate committee to study how artificial intelligence affects the state. The committee will examine AI's impacts and likely produce recommendations, but does not enact any restrictions or regulations on its own.",
       "stage": "Enacted",
       "stance": "review",
       "impactTags": [
@@ -229,10 +61,93 @@
       ]
     },
     {
+      "id": "ga-hb1603",
+      "billCode": "HB1603",
+      "title": "Georgia Entertainment Artificial Intelligence Accountability and Performer Protection Act; enact",
+      "summary": "This Georgia bill requires performers to give consent before their likeness can be used to create a digital replica powered by AI. It establishes legal protections and allows performers to sue if their likeness is used without permission.",
+      "stage": "Filed",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-workforce": "none",
+        "ai-synthetic": "restrictive"
+      },
+      "impactTags": [
+        "deepfake-regulation",
+        "ai-in-employment"
+      ],
+      "category": "synthetic-media",
+      "updatedDate": "2026-03-31",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.legis.ga.gov/legislation/74419",
+      "legiscanUrl": "https://legiscan.com/GA/bill/HB1603/2025",
+      "legiscanId": 2138390,
+      "sponsors": [
+        "Yasmin Neal"
+      ]
+    },
+    {
+      "id": "ga-sb398",
+      "billCode": "SB398",
+      "title": "Wiretapping, Eavesdropping, Surveillance, and Related Offenses; criminal offenses of virtual peeping; establish",
+      "summary": "Georgia criminalizes the unauthorized use of generative AI to create images of individuals without their consent, including synthetic intimate imagery. The law establishes penalties for 'virtual peeping' and related offenses involving non-consensual AI-generated content.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-consumer": "restrictive",
+        "ai-synthetic": "restrictive"
+      },
+      "impactTags": [
+        "deepfake-regulation",
+        "child-safety"
+      ],
+      "category": "synthetic-media",
+      "updatedDate": "2026-03-31",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.legis.ga.gov/legislation/72204",
+      "legiscanUrl": "https://legiscan.com/GA/bill/SB398/2025",
+      "legiscanId": 2073958,
+      "sponsors": [
+        "Bo Hatchett",
+        "Jason Anavitarte",
+        "Brian Strickland",
+        "Randy Robertson"
+      ]
+    },
+    {
+      "id": "ga-hb171",
+      "billCode": "HB171",
+      "title": "Crimes and offenses; obscenity; repeal and replace Code Section 16-12-80",
+      "summary": "This Georgia bill bans the distribution of computer-generated obscene material depicting children and adds enhanced criminal sentences for anyone who uses artificial intelligence to commit certain crimes. It updates the state's obscenity laws to specifically address AI-generated content targeting minors.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-governance-dim": "none",
+        "ai-consumer": "restrictive",
+        "ai-synthetic": "restrictive"
+      },
+      "impactTags": [
+        "deepfake-regulation",
+        "child-safety",
+        "ai-safety"
+      ],
+      "category": "synthetic-media",
+      "updatedDate": "2026-03-27",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.legis.ga.gov/legislation/69648",
+      "legiscanUrl": "https://legiscan.com/GA/bill/HB171/2025",
+      "legiscanId": 1947679,
+      "sponsors": [
+        "Brad Thomas",
+        "Todd Jones",
+        "Sandy Donatucci",
+        "Leesa Hagan"
+      ]
+    },
+    {
       "id": "ga-hr1788",
       "billCode": "HR1788",
       "title": "House Study Committee on Responsible Use of Artificial Intelligence; create",
-      "summary": "This resolution creates a state House study committee to examine how artificial intelligence should be used responsibly in Georgia. The committee will research and report on AI policy without imposing any immediate restrictions or requirements.",
+      "summary": "This resolution creates a Georgia House study committee to examine responsible use of artificial intelligence. The committee will study the issue and make recommendations, but does not impose any regulations or restrictions on its own.",
       "stage": "Filed",
       "stance": "review",
       "impactTags": [
@@ -240,7 +155,7 @@
         "algorithmic-transparency"
       ],
       "category": "ai-governance",
-      "updatedDate": "2026-03-18",
+      "updatedDate": "2026-03-20",
       "partyOrigin": "D",
       "sourceUrl": "https://www.legis.ga.gov/legislation/74217",
       "legiscanUrl": "https://legiscan.com/GA/bill/HR1788/2025",
@@ -256,7 +171,7 @@
       "id": "ga-hb147",
       "billCode": "HB147",
       "title": "Georgia Technology Authority; annual inventory of artificial intelligence usage by state agencies; provide",
-      "summary": "This bill requires Georgia state agencies to report their use of artificial intelligence to the Georgia Technology Authority each year. The Authority would also be empowered to develop policies governing how state agencies use AI.",
+      "summary": "This bill requires Georgia state agencies to report their use of artificial intelligence to the Georgia Technology Authority each year. The Authority would also develop policies to guide how state agencies use AI.",
       "stage": "Committee",
       "stance": "review",
       "impactTags": [
@@ -264,7 +179,7 @@
         "ai-safety"
       ],
       "category": "ai-government",
-      "updatedDate": "2025-02-20",
+      "updatedDate": "2026-03-18",
       "partyOrigin": "R",
       "sourceUrl": "https://www.legis.ga.gov/legislation/69569",
       "legiscanUrl": "https://legiscan.com/GA/bill/HB147/2025",
@@ -277,11 +192,311 @@
       ]
     },
     {
-      "id": "ga-hb1603",
-      "billCode": "HB1603",
-      "title": "Georgia Entertainment Artificial Intelligence Accountability and Performer Protection Act; enact",
-      "summary": "This Georgia law requires that performers give their consent before their likeness can be used to create a digital replica through AI. Performers who have their likeness used without permission can sue for violations.",
+      "id": "ga-sb410",
+      "billCode": "SB410",
+      "title": "State Sales and Use Taxes; the data center equipment sales and use tax exemption; repeal",
+      "summary": "Georgia proposes to repeal the sales and use tax exemption for data center equipment, eliminating a longstanding economic incentive for data center construction and operation in the state. Existing exemption certificates would remain valid, but new data center projects would lose this tax benefit.",
+      "stage": "Floor",
+      "stance": "restrictive",
+      "impactTags": [],
+      "category": "data-center-siting",
+      "updatedDate": "2026-03-10",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.legis.ga.gov/legislation/72285",
+      "legiscanUrl": "https://legiscan.com/GA/bill/SB410/2025",
+      "legiscanId": 2083481,
+      "sponsors": [
+        "Matt Brass",
+        "Jason Anavitarte",
+        "Chuck Hufstetler",
+        "John Albers"
+      ]
+    },
+    {
+      "id": "ga-sb488",
+      "billCode": "SB488",
+      "title": "Torts; generative artificial intelligence systems shall constitute personal property for purposes of certain actions for product liability alleging injury to a minor; provide",
+      "summary": "Georgia would classify generative AI systems as consumer products subject to product liability lawsuits when they cause injury to minors, establishing legal responsibility for manufacturers and sellers of AI systems. The bill creates rebuttable presumptions to ease plaintiffs' burden of proof in these liability cases.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "concerning"
+      },
+      "impactTags": [
+        "ai-safety",
+        "child-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-06",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.legis.ga.gov/legislation/73067",
+      "legiscanUrl": "https://legiscan.com/GA/bill/SB488/2025",
+      "legiscanId": 2113600,
+      "sponsors": [
+        "Ed Setzler",
+        "Marty Harbin",
+        "Sally Harrell",
+        "Brian Strickland"
+      ]
+    },
+    {
+      "id": "ga-sb34",
+      "billCode": "SB34",
+      "title": "Public Service Commission; costs incurred by an electric utility as a result of providing electric services to commercial data centers from being included in any rates; prohibit",
+      "summary": "This bill prevents electric utilities from spreading the costs of serving large commercial data centers across all ratepayers, requiring those costs to be charged specifically to the data centers themselves. It aims to protect regular customers from higher electricity bills caused by the heavy power demands of data center operations.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "energy": "concerning",
+        "community": "favorable",
+        "land-use": "none"
+      },
+      "impactTags": [
+        "energy-rates",
+        "grid-capacity",
+        "local-zoning"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-02-25",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.legis.ga.gov/legislation/69551",
+      "legiscanUrl": "https://legiscan.com/GA/bill/SB34/2025",
+      "legiscanId": 1943236,
+      "sponsors": [
+        "Chuck Hufstetler",
+        "Carden Summers",
+        "John Albers",
+        "Jason Anavitarte"
+      ]
+    },
+    {
+      "id": "ga-hb1387",
+      "billCode": "HB1387",
+      "title": "Ad valorem tax; state-wide homestead exemption in an amount as determined from proceeds generated from collection of certain ad valorem property taxes on data centers",
+      "summary": "This bill would use property tax revenue collected from data centers to fund a statewide homestead exemption, effectively reducing residential property taxes for homeowners. It ties homeowner tax relief directly to the tax burden placed on data centers operating in Georgia.",
       "stage": "Filed",
+      "stance": "favorable",
+      "dimensionStances": {
+        "community": "favorable",
+        "land-use": "none"
+      },
+      "impactTags": [
+        "tax-incentives",
+        "local-zoning",
+        "property-values",
+        "economic-development"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-02-24",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.legis.ga.gov/legislation/73424",
+      "legiscanUrl": "https://legiscan.com/GA/bill/HB1387/2025",
+      "legiscanId": 2120612,
+      "sponsors": [
+        "Joseph Gullett",
+        "Martin Momtahan",
+        "Brad Thomas"
+      ]
+    },
+    {
+      "id": "ga-hb1323",
+      "billCode": "HB1323",
+      "title": "Electrical service; require new data centers to operate as hybrid power data centers",
+      "summary": "This Georgia bill would require new data centers to operate as 'hybrid power data centers,' meaning they must use a combination of power sources, and would create a certification process through the Public Service Commission to enforce this requirement. The goal appears to be reducing the strain that large data centers place on the electrical grid by mandating diverse or partially renewable energy use.",
+      "stage": "Filed",
+      "stance": "concerning",
+      "dimensionStances": {
+        "environmental": "concerning",
+        "energy": "concerning"
+      },
+      "impactTags": [
+        "renewable-energy",
+        "grid-capacity",
+        "carbon-emissions"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-02-19",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.legis.ga.gov/legislation/73252",
+      "legiscanUrl": "https://legiscan.com/GA/bill/HB1323/2025",
+      "legiscanId": 2118561,
+      "sponsors": [
+        "Yasmin Neal"
+      ]
+    },
+    {
+      "id": "ga-sb530",
+      "billCode": "SB530",
+      "title": "Georgia Property Tax Fairness Fund; create",
+      "summary": "Georgia creates a Property Tax Fairness Fund by directing tax collections from high-technology data centers into a dedicated fund, effectively establishing tax incentives and favorable treatment for data center operations. The bill repeals certain insurance premium tax credits while creating new mechanisms to support data center development.",
+      "stage": "Committee",
+      "stance": "favorable",
+      "impactTags": [
+        "tax-incentives"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-02-19",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.legis.ga.gov/legislation/73380",
+      "legiscanUrl": "https://legiscan.com/GA/bill/SB530/2025",
+      "legiscanId": 2119522,
+      "sponsors": [
+        "Nabilah Islam Parkes",
+        "Harold Jones",
+        "Tonya Anderson",
+        "Gail Davenport"
+      ]
+    },
+    {
+      "id": "ga-hb1351",
+      "billCode": "HB1351",
+      "title": "State government; require state agencies to provide a notice to employees when using artificial intelligence in personnel matters",
+      "summary": "Georgia requires state agencies to notify employees when artificial intelligence is used in personnel decisions and to issue disclaimers about AI use. This establishes transparency and accountability mechanisms for government use of AI in employment matters.",
+      "stage": "Filed",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-workforce": "concerning"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "ai-in-employment"
+      ],
+      "category": "ai-government",
+      "updatedDate": "2026-02-19",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.legis.ga.gov/legislation/73295",
+      "legiscanUrl": "https://legiscan.com/GA/bill/HB1351/2025",
+      "legiscanId": 2118536,
+      "sponsors": [
+        "Park Cannon",
+        "Scott Holcomb",
+        "Arlene Beckles",
+        "Stacey Evans"
+      ]
+    },
+    {
+      "id": "ga-hb1063",
+      "billCode": "HB1063",
+      "title": "Electric utilities; protect residential and retail electricity customers from costs associated with data center construction and operation; require",
+      "summary": "This bill requires electric utilities in Georgia to shield residential and retail customers from bearing the costs of building and running data centers. It mandates specific contract terms to ensure that data center operators — not everyday customers — pay for the grid infrastructure and energy demands they create.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "energy": "restrictive",
+        "community": "favorable",
+        "land-use": "none"
+      },
+      "impactTags": [
+        "energy-rates",
+        "grid-capacity",
+        "local-zoning"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-02-18",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.legis.ga.gov/legislation/72514",
+      "legiscanUrl": "https://legiscan.com/GA/bill/HB1063/2025",
+      "legiscanId": 2100505,
+      "sponsors": [
+        "Brad Thomas",
+        "Jon Burns",
+        "Charles Cannon",
+        "Sandy Donatucci"
+      ]
+    },
+    {
+      "id": "ga-sb455",
+      "billCode": "SB455",
+      "title": "Georgia Artificial Intelligence Commission; establishment",
+      "summary": "Georgia establishes a dedicated Artificial Intelligence Commission to study and provide guidance on AI policy, assigned to the Georgia Technology Authority with annual reporting requirements. The commission will develop recommendations on AI governance, transparency, and safety through membership from various state agencies and stakeholders.",
+      "stage": "Committee",
+      "stance": "review",
+      "impactTags": [
+        "algorithmic-transparency",
+        "ai-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-04",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.legis.ga.gov/legislation/72792",
+      "legiscanUrl": "https://legiscan.com/GA/bill/SB455/2025",
+      "legiscanId": 2106642,
+      "sponsors": [
+        "Nikki Merritt",
+        "Harold Jones",
+        "Sonya Halpern",
+        "Jaha Howard"
+      ]
+    },
+    {
+      "id": "ga-hb1059",
+      "billCode": "HB1059",
+      "title": "Data Center Impact Assessment and Development Moratorium Act of 2026; enact",
+      "summary": "This bill would temporarily ban the construction of new data centers in Georgia while a newly created commission studies their impacts on utilities, the environment, and local communities. It combines an active moratorium with a formal review process before any new data center development could proceed.",
+      "stage": "Filed",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "environmental": "restrictive",
+        "energy": "restrictive",
+        "community": "restrictive",
+        "land-use": "restrictive"
+      },
+      "impactTags": [
+        "grid-capacity",
+        "environmental-review",
+        "local-zoning",
+        "water-infrastructure",
+        "carbon-emissions"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-02-02",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.legis.ga.gov/legislation/72510",
+      "legiscanUrl": "https://legiscan.com/GA/bill/HB1059/2025",
+      "legiscanId": 2100437,
+      "sponsors": [
+        "Derrick Jackson",
+        "Kim Schofield",
+        "Sandra Scott",
+        "Viola Davis"
+      ]
+    },
+    {
+      "id": "ga-hb1012",
+      "billCode": "HB1012",
+      "title": "Local government; construction or development of new data centers for a specified time; prohibit",
+      "summary": "Georgia HB1012 prohibits the construction or development of new data centers for a specified period, giving local governments authority to restrict data center siting. The bill includes limited exceptions and aims to provide communities with temporary control over data center development.",
+      "stage": "Filed",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "community": "restrictive",
+        "land-use": "restrictive"
+      },
+      "impactTags": [
+        "local-control",
+        "local-zoning"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-01-28",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.legis.ga.gov/legislation/72319",
+      "legiscanUrl": "https://legiscan.com/GA/bill/HB1012/2025",
+      "legiscanId": 2085237,
+      "sponsors": [
+        "Ruwa Romman",
+        "Jordan Ridley",
+        "Mary Oliver",
+        "Spencer Frye"
+      ]
+    },
+    {
+      "id": "ga-sb9",
+      "billCode": "SB9",
+      "title": "\"Ensuring Accountability for Illegal AI Activities Act\"; enact",
+      "summary": "Georgia law that creates criminal penalties for using artificial intelligence to create obscene materials and deepfakes, with enhanced sentencing for offenders who deploy AI in these crimes. The bill specifically targets AI-generated synthetic media used in illegal activities.",
+      "stage": "Committee",
       "stance": "restrictive",
       "dimensionStances": {
         "ai-consumer": "concerning",
@@ -289,46 +504,195 @@
       },
       "impactTags": [
         "deepfake-regulation",
-        "data-privacy"
+        "child-safety"
       ],
       "category": "synthetic-media",
-      "updatedDate": "2026-03-25",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.legis.ga.gov/legislation/74419",
-      "legiscanUrl": "https://legiscan.com/GA/bill/HB1603/2025",
-      "legiscanId": 2138390,
+      "updatedDate": "2026-01-28",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.legis.ga.gov/legislation/69351",
+      "legiscanUrl": "https://legiscan.com/GA/bill/SB9/2025",
+      "legiscanId": 1919150,
       "sponsors": [
-        "Yasmin Neal"
+        "John Albers",
+        "Shawn Still",
+        "Jason Esteves",
+        "Sheikh Rahman"
       ]
     },
     {
-      "id": "ga-hb171",
-      "billCode": "HB171",
-      "title": "Crimes and offenses; obscenity; repeal and replace Code Section 16-12-80",
-      "summary": "This Georgia bill bans the distribution of computer-generated obscene material depicting children and adds enhanced criminal sentences for offenders who use artificial intelligence to commit certain crimes. It updates the state's obscenity laws to specifically address AI-generated content targeting minors.",
-      "stage": "Committee",
-      "stance": "restrictive",
+      "id": "ga-sr431",
+      "billCode": "SR431",
+      "title": "Senate Impact of Social Media and Artificial Intelligence on Children and Platform Privacy Protection Study Committee; create",
+      "summary": "Georgia creates a Senate study committee to examine how social media and artificial intelligence affect children and to evaluate platform privacy protections. The committee will conduct research and recommendations on these issues without establishing new regulations.",
+      "stage": "Enacted",
+      "stance": "review",
+      "impactTags": [
+        "child-safety",
+        "data-privacy"
+      ],
+      "category": "ai-education",
+      "updatedDate": "2025-04-02",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.legis.ga.gov/legislation/71516",
+      "legiscanUrl": "https://legiscan.com/GA/bill/SR431/2025",
+      "legiscanId": 2012228,
+      "sponsors": [
+        "Sally Harrell",
+        "Jason Anavitarte"
+      ]
+    },
+    {
+      "id": "ga-sr391",
+      "billCode": "SR391",
+      "title": "Senate Study Committee on Artificial Intelligence and Digital Currency; create",
+      "summary": "Georgia creates a Senate study committee to examine artificial intelligence and digital currency issues. The committee will conduct exploratory work without imposing immediate restrictions or regulatory requirements.",
+      "stage": "Enacted",
+      "stance": "review",
+      "impactTags": [],
+      "category": "ai-governance",
+      "updatedDate": "2025-04-02",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.legis.ga.gov/legislation/71344",
+      "legiscanUrl": "https://legiscan.com/GA/bill/SR391/2025",
+      "legiscanId": 2006978,
+      "sponsors": [
+        "John Albers",
+        "Shawn Still",
+        "Jason Anavitarte",
+        "Randy Robertson"
+      ]
+    },
+    {
+      "id": "ga-hb715",
+      "billCode": "HB715",
+      "title": "Fair and Future Ready Housing Act; enact",
+      "summary": "Georgia would prohibit use of AI or automated decision tools in housing decisions without human oversight and require disclosure when such tools are used. The law would also ban certain defenses in housing discrimination cases involving AI, with enforcement and fines administered by the Attorney General.",
+      "stage": "Filed",
+      "stance": "concerning",
       "dimensionStances": {
-        "ai-governance-dim": "concerning",
-        "ai-consumer": "restrictive",
-        "ai-synthetic": "restrictive"
+        "ai-governance-dim": "restrictive",
+        "ai-workforce": "none"
       },
       "impactTags": [
-        "deepfake-regulation",
-        "child-safety",
+        "algorithmic-transparency",
+        "ai-in-employment"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-03-06",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.legis.ga.gov/legislation/71101",
+      "legiscanUrl": "https://legiscan.com/GA/bill/HB715/2025",
+      "legiscanId": 1990355,
+      "sponsors": [
+        "Bryce Berry",
+        "Dar'shun Kendrick",
+        "Jasmine Clark",
+        "Stacey Evans"
+      ]
+    },
+    {
+      "id": "ga-sb167",
+      "billCode": "SB167",
+      "title": "Commerce and Trade; private entities that employ certain AI systems to guard against discrimination caused by such systems; provide",
+      "summary": "Georgia requires private entities using automated decision systems to implement safeguards against discrimination in consequential decisions like hiring and lending. The bill establishes regulatory oversight by the state Attorney General while protecting trade secrets of AI developers.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "concerning",
+        "ai-workforce": "concerning"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "ai-in-employment",
+        "data-privacy"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-02-13",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.legis.ga.gov/legislation/70305",
+      "legiscanUrl": "https://legiscan.com/GA/bill/SB167/2025",
+      "legiscanId": 1968119,
+      "sponsors": [
+        "Nikki Merritt",
+        "Harold Jones",
+        "RaShaun Kemp",
+        "Nabilah Islam Parkes"
+      ]
+    },
+    {
+      "id": "ga-sb104",
+      "billCode": "SB104",
+      "title": "State Government; use or installation of any artificial intelligence system on state equipment when the company that developed or deployed such artificial intelligence system is associated with the People's Republic of China; prohibit",
+      "summary": "Georgia prohibits state government agencies from using or installing AI systems developed or deployed by companies associated with the People's Republic of China on state equipment. The bill aims to protect government operations from potential foreign technology risks.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "impactTags": [
+        "algorithmic-transparency"
+      ],
+      "category": "ai-government",
+      "updatedDate": "2025-02-06",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.legis.ga.gov/legislation/69984",
+      "legiscanUrl": "https://legiscan.com/GA/bill/SB104/2025",
+      "legiscanId": 1960995,
+      "sponsors": [
+        "Jason Anavitarte",
+        "John Albers",
+        "Steve Gooch",
+        "Larry Walker"
+      ]
+    },
+    {
+      "id": "ga-sb37",
+      "billCode": "SB37",
+      "title": "\"AI Accountability Act\"; enact",
+      "summary": "Georgia requires all state governmental entities to develop and maintain AI usage plans and establishes a new Georgia Board for Artificial Intelligence to provide guidance and oversight. The law creates mandatory transparency and accountability mechanisms for government AI systems.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "impactTags": [
+        "algorithmic-transparency",
         "ai-safety"
       ],
-      "category": "synthetic-media",
-      "updatedDate": "2025-02-26",
-      "partyOrigin": "R",
-      "sourceUrl": "https://www.legis.ga.gov/legislation/69648",
-      "legiscanUrl": "https://legiscan.com/GA/bill/HB171/2025",
-      "legiscanId": 1947679,
+      "category": "ai-government",
+      "updatedDate": "2025-01-28",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.legis.ga.gov/legislation/69557",
+      "legiscanUrl": "https://legiscan.com/GA/bill/SB37/2025",
+      "legiscanId": 1943273,
       "sponsors": [
-        "Brad Thomas",
-        "Todd Jones",
-        "Sandy Donatucci",
-        "Leesa Hagan"
+        "John Albers",
+        "Shawn Still",
+        "Jason Esteves",
+        "Max Burns"
+      ]
+    },
+    {
+      "id": "ga-hb16",
+      "billCode": "HB16",
+      "title": "Labor and industrial relations; protections for warehouse distribution center workers; provide",
+      "summary": "Georgia requires warehouse employers to disclose quotas and workplace surveillance systems to employees, limit collection of work-speed data, and prohibit unlawful retaliation for non-compliance. The bill creates enforcement mechanisms and private remedies for workers affected by algorithmic management practices.",
+      "stage": "Filed",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "none",
+        "ai-workforce": "concerning"
+      },
+      "impactTags": [
+        "ai-in-employment",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-workforce",
+      "updatedDate": "2025-01-15",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.legis.ga.gov/legislation/69296",
+      "legiscanUrl": "https://legiscan.com/GA/bill/HB16/2025",
+      "legiscanId": 1916886,
+      "sponsors": [
+        "Kim Schofield",
+        "Dewey McClain",
+        "Sandra Scott",
+        "Viola Davis"
       ]
     }
   ]

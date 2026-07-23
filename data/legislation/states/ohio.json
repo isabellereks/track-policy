@@ -5,126 +5,31 @@
   "stance": "concerning",
   "stanceDatacenter": "concerning",
   "stanceAI": "concerning",
-  "lastUpdated": "2026-04-14",
-  "contextBlurb": "Ohio's legislature is grappling with an unusually aggressive wave of data center skepticism, with bills like HB710 and SB381 seeking to outright prohibit public support for new facilities and require utility commission approval before they can connect to the grid. Alongside those, proposals to strip data center tax exemptions (SB374) and mandate water consumption reporting (HB784, SB378) reflect growing concern about the infrastructure and environmental costs of rapid AI-driven buildout. On the AI side, activity remains largely exploratory, with governance and deepfake bills still in early stages and no major legislation enacted yet.",
+  "lastUpdated": "2026-07-22",
+  "contextBlurb": "Ohio is advancing regulation across both data centers and AI. On data centers: HB646 (in committee) — Creates a Data Center Study Commission to examine the impacts of data centers on the state, while also enacting new provisions related to water use, energy, siting, and tax incentive… On AI: SB163 (on the floor) — Ohio law would require AI-generated images to include watermarks and impose criminal prohibitions on simulated child sexual abuse material and identity fraud using AI replicas of real people.",
   "legislation": [
-    {
-      "id": "oh-sb374",
-      "billCode": "SB374",
-      "title": "Prohibit new data center sales tax exemptions",
-      "summary": "This bill would stop Ohio from granting any new sales tax exemptions to data centers, eliminating a financial incentive that has historically encouraged data center construction in the state. It effectively makes building data centers in Ohio less financially attractive by removing a key tax break.",
-      "stage": "Filed",
-      "stance": "restrictive",
-      "impactTags": [
-        "tax-incentives",
-        "economic-development"
-      ],
-      "category": "data-center-siting",
-      "updatedDate": "2026-03-11",
-      "partyOrigin": "B",
-      "sourceUrl": "https://www.legislature.ohio.gov/legislation/136/sb374",
-      "legiscanUrl": "https://legiscan.com/OH/bill/SB374/2025",
-      "legiscanId": 2132321,
-      "sponsors": [
-        "Kent Smith",
-        "Louis Blessing",
-        "Nickie Antonio",
-        "Willis Blackshear"
-      ]
-    },
-    {
-      "id": "oh-hb628",
-      "billCode": "HB628",
-      "title": "License artificial intelligence risk mitigation organizations",
-      "summary": "This bill creates a licensing system for independent organizations that verify whether AI systems have adequate risk controls in place. Companies providing AI risk mitigation verification would need to obtain a state license to operate in Ohio.",
-      "stage": "Filed",
-      "stance": "concerning",
-      "impactTags": [
-        "ai-safety",
-        "algorithmic-transparency"
-      ],
-      "category": "ai-governance",
-      "updatedDate": "2025-12-11",
-      "partyOrigin": "R",
-      "sourceUrl": "https://www.legislature.ohio.gov/legislation/136/hb628",
-      "legiscanUrl": "https://legiscan.com/OH/bill/HB628/2025",
-      "legiscanId": 2058716,
-      "sponsors": [
-        "Ty Mathews",
-        "Kellie Deeter",
-        "Tex Fischer",
-        "Thomas Hall"
-      ]
-    },
-    {
-      "id": "oh-hb185",
-      "billCode": "HB185",
-      "title": "Regards an individual's persona usage; prohibit certain deepfakes",
-      "summary": "This Ohio bill updates existing persona protection laws and creates new prohibitions against making or distributing unauthorized deepfake recordings of real people. It establishes legal consequences for using AI-generated or manipulated media to impersonate individuals without their consent.",
-      "stage": "Filed",
-      "stance": "restrictive",
-      "dimensionStances": {
-        "ai-consumer": "concerning",
-        "ai-synthetic": "restrictive"
-      },
-      "impactTags": [
-        "deepfake-regulation",
-        "data-privacy"
-      ],
-      "category": "synthetic-media",
-      "updatedDate": "2025-03-19",
-      "partyOrigin": "R",
-      "sourceUrl": "https://www.legislature.ohio.gov/legislation/136/hb185",
-      "legiscanUrl": "https://legiscan.com/OH/bill/HB185/2025",
-      "legiscanId": 2011530,
-      "sponsors": [
-        "Adam Mathews",
-        "Ty Mathews"
-      ]
-    },
-    {
-      "id": "oh-hb807",
-      "billCode": "HB807",
-      "title": "Prohibit selling sensitive personal data for profit",
-      "summary": "This bill bans government agencies and private companies from selling sensitive personal data to data brokers or other private entities for profit. Certain permitted uses would still be allowed, but the general commercial sale of sensitive personal information would be prohibited.",
-      "stage": "Filed",
-      "stance": "restrictive",
-      "impactTags": [
-        "data-privacy"
-      ],
-      "category": "data-privacy",
-      "updatedDate": "2026-03-31",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.legislature.ohio.gov/legislation/136/hb807",
-      "legiscanUrl": "https://legiscan.com/OH/bill/HB807/2025",
-      "legiscanId": 2139696,
-      "sponsors": [
-        "Christine Cockley",
-        "Tristan Rader",
-        "Munira Abdullahi",
-        "Sean Brennan"
-      ]
-    },
     {
       "id": "oh-hb646",
       "billCode": "HB646",
       "title": "Create the Data Center Study Commission",
-      "summary": "This bill creates a commission to study data centers in Ohio and their impacts. No restrictions or incentives are imposed — the commission will gather information and likely make future policy recommendations.",
-      "stage": "Floor",
+      "summary": "This Ohio bill creates a Data Center Study Commission to examine the impacts of data centers on the state, while also enacting new provisions related to water use, energy, siting, and tax incentives for data centers. It appears to be a broad regulatory and review package addressing multiple aspects of data center development.",
+      "stage": "Committee",
       "stance": "review",
       "dimensionStances": {
         "environmental": "review",
-        "energy": "review",
-        "community": "review",
+        "energy": "concerning",
+        "community": "concerning",
         "land-use": "review"
       },
       "impactTags": [
-        "local-zoning",
+        "water-consumption",
         "grid-capacity",
-        "environmental-review"
+        "water-infrastructure",
+        "environmental-review",
+        "local-zoning"
       ],
-      "category": "data-center-siting",
-      "updatedDate": "2026-03-18",
+      "category": "data-center-energy",
+      "updatedDate": "2026-06-10",
       "partyOrigin": "B",
       "sourceUrl": "https://www.legislature.ohio.gov/legislation/136/hb646",
       "legiscanUrl": "https://legiscan.com/OH/bill/HB646/2025",
@@ -137,140 +42,157 @@
       ]
     },
     {
-      "id": "oh-sb19",
-      "billCode": "SB19",
-      "title": "Regards academic intervention, math improvement and intervention",
-      "summary": "This bill deals with academic intervention services and math improvement plans in Ohio public schools. It has no relevance to AI regulation or data-center policy.",
-      "stage": "Floor",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-education",
-      "updatedDate": "2025-11-19",
-      "partyOrigin": "B",
-      "sourceUrl": "https://www.legislature.ohio.gov/legislation/136/sb19",
-      "legiscanUrl": "https://legiscan.com/OH/bill/SB19/2025",
-      "legiscanId": 1937109,
-      "sponsors": [
-        "Andrew Brenner",
-        "Brian Chavez",
-        "Jerry Cirino",
-        "Theresa Gavarone"
-      ]
-    },
-    {
-      "id": "oh-hb455",
-      "billCode": "HB455",
-      "title": "Regards the operation of public schools and the DEW",
-      "summary": "This bill makes broad amendments to Ohio's public school operations and the Department of Education and Workforce, covering topics like school funding, staffing, and curriculum standards. It does not substantively address AI regulation or data-center policy.",
-      "stage": "Floor",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-education",
-      "updatedDate": "2025-11-19",
-      "partyOrigin": "B",
-      "sourceUrl": "https://www.legislature.ohio.gov/legislation/136/hb455",
-      "legiscanUrl": "https://legiscan.com/OH/bill/HB455/2025",
-      "legiscanId": 2044413,
-      "sponsors": [
-        "Gayle Manning",
-        "Adam Bird",
-        "Sean Brennan",
-        "Gary Click"
-      ]
-    },
-    {
-      "id": "oh-hb710",
-      "billCode": "HB710",
-      "title": "Prohibit public support, limit construction of, new data centers",
-      "summary": "This Ohio bill would ban public funding or support for new data centers and place limits on their construction. It aims to restrict the growth of data center infrastructure across the state.",
-      "stage": "Filed",
-      "stance": "restrictive",
-      "dimensionStances": {
-        "energy": "restrictive",
-        "community": "restrictive",
-        "land-use": "restrictive"
-      },
+      "id": "oh-hb392",
+      "billCode": "HB392",
+      "title": "Enact the Ohio Right to Compute Act",
+      "summary": "Ohio's Right to Compute Act limits additional regulation of computational systems while requiring risk management policies specifically for AI controlling critical infrastructure. The bill takes a deregulatory approach to computational systems generally while establishing baseline safety requirements for high-risk AI applications.",
+      "stage": "Committee",
+      "stance": "favorable",
       "impactTags": [
-        "local-zoning",
-        "local-control",
-        "grid-capacity",
-        "tax-incentives",
-        "energy-rates"
-      ],
-      "category": "data-center-siting",
-      "updatedDate": "2026-02-24",
-      "partyOrigin": "R",
-      "sourceUrl": "https://www.legislature.ohio.gov/legislation/136/hb710",
-      "legiscanUrl": "https://legiscan.com/OH/bill/HB710/2025",
-      "legiscanId": 2123772,
-      "sponsors": [
-        "Steve Demetriou",
-        "Heidi Workman"
-      ]
-    },
-    {
-      "id": "oh-sb378",
-      "billCode": "SB378",
-      "title": "Enact the Responsible Water Use by Data Centers Act",
-      "summary": "This bill regulates how much water data centers can withdraw and consume in Ohio, establishing rules and oversight for data center water use. It creates new legal requirements and penalties related to water withdrawal by data centers.",
-      "stage": "Filed",
-      "stance": "concerning",
-      "dimensionStances": {
-        "environmental": "concerning",
-        "energy": "review",
-        "community": "none"
-      },
-      "impactTags": [
-        "water-consumption",
-        "water-infrastructure",
-        "environmental-review",
-        "local-control"
-      ],
-      "category": "data-center-energy",
-      "updatedDate": "2026-03-16",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.legislature.ohio.gov/legislation/136/sb378",
-      "legiscanUrl": "https://legiscan.com/OH/bill/SB378/2025",
-      "legiscanId": 2134320,
-      "sponsors": [
-        "Willis Blackshear",
-        "Casey Weinstein",
-        "Kent Smith"
-      ]
-    },
-    {
-      "id": "oh-hb706",
-      "billCode": "HB706",
-      "title": "Impose certain minimum requirements on data center customers",
-      "summary": "This Ohio bill establishes minimum requirements and protections for customers who use data center services in the state. It creates a new chapter of law governing the relationship between data centers and their customers, likely covering data handling, access, and accountability standards.",
-      "stage": "Filed",
-      "stance": "concerning",
-      "dimensionStances": {
-        "ai-governance-dim": "none",
-        "ai-consumer": "concerning"
-      },
-      "impactTags": [
-        "data-privacy",
+        "ai-safety",
         "algorithmic-transparency"
       ],
-      "category": "data-privacy",
-      "updatedDate": "2026-02-17",
+      "category": "ai-governance",
+      "updatedDate": "2026-06-10",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.legislature.ohio.gov/legislation/136/hb392",
+      "legiscanUrl": "https://legiscan.com/OH/bill/HB392/2025",
+      "legiscanId": 2038933,
+      "sponsors": [
+        "Tex Fischer",
+        "Steve Demetriou",
+        "Ty Mathews"
+      ]
+    },
+    {
+      "id": "oh-hb957",
+      "billCode": "HB957",
+      "title": "Prohibit new data center sales tax exemptions from being granted",
+      "summary": "This Ohio bill would end the practice of granting new sales tax exemptions to data centers, removing a common financial incentive used to attract these facilities. It targets the tax break program specifically, meaning future data centers would no longer qualify for this type of public subsidy.",
+      "stage": "Filed",
+      "stance": "restrictive",
+      "impactTags": [
+        "tax-incentives",
+        "economic-development"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-06-03",
       "partyOrigin": "B",
-      "sourceUrl": "https://www.legislature.ohio.gov/legislation/136/hb706",
-      "legiscanUrl": "https://legiscan.com/OH/bill/HB706/2025",
-      "legiscanId": 2118217,
+      "sourceUrl": "https://www.legislature.ohio.gov/legislation/136/hb957",
+      "legiscanUrl": "https://legiscan.com/OH/bill/HB957/2025",
+      "legiscanId": 2151823,
       "sponsors": [
         "Tristan Rader",
-        "David Thomas",
+        "Munira Abdullahi",
+        "Rachel Baker",
+        "Juanita Brent"
+      ]
+    },
+    {
+      "id": "oh-sb163",
+      "billCode": "SB163",
+      "title": "Regards AI images, simulated child porn, replica identity fraud",
+      "summary": "Ohio law would require AI-generated images to include watermarks and impose criminal prohibitions on simulated child sexual abuse material and identity fraud using AI replicas of real people. The bill targets both the creation and distribution of these synthetic media forms.",
+      "stage": "Floor",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "restrictive",
+        "ai-synthetic": "restrictive"
+      },
+      "impactTags": [
+        "deepfake-regulation",
+        "child-safety",
+        "algorithmic-transparency"
+      ],
+      "category": "synthetic-media",
+      "updatedDate": "2026-05-27",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.legislature.ohio.gov/legislation/136/sb163",
+      "legiscanUrl": "https://legiscan.com/OH/bill/SB163/2025",
+      "legiscanId": 2018937,
+      "sponsors": [
+        "Louis Blessing",
+        "Terry Johnson",
+        "Nickie Antonio",
+        "Willis Blackshear"
+      ]
+    },
+    {
+      "id": "oh-sb328",
+      "billCode": "SB328",
+      "title": "Regards Education and Workforce Return on Investment Initiative",
+      "summary": "Ohio SB328 establishes an Education and Workforce Return on Investment Initiative requiring middle school career exploration coursework and student career/academic planning, with potential implications for how AI tools might be integrated into career guidance and workforce development systems. The bill creates a framework for tracking educational outcomes tied to workforce preparation but does not directly regulate or restrict AI use in schools.",
+      "stage": "Floor",
+      "stance": "review",
+      "impactTags": [
+        "ai-in-education"
+      ],
+      "category": "ai-education",
+      "updatedDate": "2026-05-27",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.legislature.ohio.gov/legislation/136/sb328",
+      "legiscanUrl": "https://legiscan.com/OH/bill/SB328/2025",
+      "legiscanId": 2053216,
+      "sponsors": [
+        "Kyle Koehler",
+        "Willis Blackshear",
+        "Andrew Brenner",
+        "Jerry Cirino"
+      ]
+    },
+    {
+      "id": "oh-hb807",
+      "billCode": "HB807",
+      "title": "Prohibit selling sensitive personal data for profit",
+      "summary": "This bill bans government agencies and private companies from selling sensitive personal data to data brokers or other private entities for profit. Sales are only allowed for specific permitted purposes, creating a broad restriction on the commercial trade of personal information.",
+      "stage": "Filed",
+      "stance": "restrictive",
+      "impactTags": [
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-05-13",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.legislature.ohio.gov/legislation/136/hb807",
+      "legiscanUrl": "https://legiscan.com/OH/bill/HB807/2025",
+      "legiscanId": 2139696,
+      "sponsors": [
+        "Christine Cockley",
+        "Tristan Rader",
         "Munira Abdullahi",
         "Sean Brennan"
+      ]
+    },
+    {
+      "id": "oh-sb374",
+      "billCode": "SB374",
+      "title": "Prohibit new data center sales tax exemptions",
+      "summary": "This bill would end Ohio's practice of giving new data centers a sales tax exemption, meaning future data center projects would no longer receive this financial break. It targets the tax incentive specifically, making it more expensive to build new data centers in the state.",
+      "stage": "Filed",
+      "stance": "restrictive",
+      "impactTags": [
+        "tax-incentives",
+        "economic-development"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-03-25",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.legislature.ohio.gov/legislation/136/sb374",
+      "legiscanUrl": "https://legiscan.com/OH/bill/SB374/2025",
+      "legiscanId": 2132321,
+      "sponsors": [
+        "Kent Smith",
+        "Louis Blessing",
+        "Nickie Antonio",
+        "Willis Blackshear"
       ]
     },
     {
       "id": "oh-sb381",
       "billCode": "SB381",
       "title": "Require PUCO approval to connect data centers to electrical grid",
-      "summary": "This bill would require data centers in Ohio to get approval from the Public Utilities Commission before connecting to the electrical grid. It adds regulatory oversight to how data centers access electricity infrastructure, potentially slowing or limiting large-scale connections.",
+      "summary": "This bill would require data centers in Ohio to get approval from the state's Public Utility Commission before connecting to the electrical grid. It adds a regulatory review process to ensure large data center power demands don't negatively impact the grid or other utility customers.",
       "stage": "Filed",
       "stance": "concerning",
       "dimensionStances": {
@@ -284,7 +206,7 @@
         "local-zoning"
       ],
       "category": "data-center-energy",
-      "updatedDate": "2026-03-19",
+      "updatedDate": "2026-03-25",
       "partyOrigin": "D",
       "sourceUrl": "https://www.legislature.ohio.gov/legislation/136/sb381",
       "legiscanUrl": "https://legiscan.com/OH/bill/SB381/2025",
@@ -294,6 +216,36 @@
         "Willis Blackshear",
         "Hearcel Craig",
         "William DeMora"
+      ]
+    },
+    {
+      "id": "oh-sb378",
+      "billCode": "SB378",
+      "title": "Enact the Responsible Water Use by Data Centers Act",
+      "summary": "This bill establishes rules governing how much water data centers can withdraw and consume in Ohio, adding oversight requirements to manage their impact on water resources. It amends existing water law to specifically address data center water use and sets up penalties for violations.",
+      "stage": "Filed",
+      "stance": "concerning",
+      "dimensionStances": {
+        "environmental": "concerning",
+        "energy": "concerning",
+        "community": "review"
+      },
+      "impactTags": [
+        "water-consumption",
+        "water-infrastructure",
+        "environmental-review",
+        "local-control"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-03-25",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.legislature.ohio.gov/legislation/136/sb378",
+      "legiscanUrl": "https://legiscan.com/OH/bill/SB378/2025",
+      "legiscanId": 2134320,
+      "sponsors": [
+        "Willis Blackshear",
+        "Casey Weinstein",
+        "Kent Smith"
       ]
     },
     {
@@ -313,7 +265,7 @@
         "nda-transparency"
       ],
       "category": "data-center-energy",
-      "updatedDate": "2026-03-24",
+      "updatedDate": "2026-03-25",
       "partyOrigin": "D",
       "sourceUrl": "https://www.legislature.ohio.gov/legislation/136/hb784",
       "legiscanUrl": "https://legiscan.com/OH/bill/HB784/2025",
@@ -323,6 +275,113 @@
         "Crystal Lett",
         "Munira Abdullahi",
         "Joseph Miller"
+      ]
+    },
+    {
+      "id": "oh-hb710",
+      "billCode": "HB710",
+      "title": "Prohibit public support, limit construction of, new data centers",
+      "summary": "This Ohio bill would ban public financial support for new data centers and place limits on their construction within the state. It represents a broad effort to restrict data center growth through both funding prohibitions and construction limitations.",
+      "stage": "Filed",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "energy": "restrictive",
+        "community": "restrictive",
+        "land-use": "restrictive"
+      },
+      "impactTags": [
+        "local-zoning",
+        "grid-capacity",
+        "tax-incentives",
+        "local-control"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-02-25",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.legislature.ohio.gov/legislation/136/hb710",
+      "legiscanUrl": "https://legiscan.com/OH/bill/HB710/2025",
+      "legiscanId": 2123772,
+      "sponsors": [
+        "Steve Demetriou",
+        "Heidi Workman"
+      ]
+    },
+    {
+      "id": "oh-hb706",
+      "billCode": "HB706",
+      "title": "Impose certain minimum requirements on data center customers",
+      "summary": "This Ohio bill establishes minimum legal requirements that data centers must follow when handling customer data in the state. It creates a new chapter of law setting standards and obligations for how data center customers' information is managed and protected.",
+      "stage": "Filed",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "none",
+        "ai-consumer": "concerning"
+      },
+      "impactTags": [
+        "data-privacy",
+        "algorithmic-transparency"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-02-25",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.legislature.ohio.gov/legislation/136/hb706",
+      "legiscanUrl": "https://legiscan.com/OH/bill/HB706/2025",
+      "legiscanId": 2118217,
+      "sponsors": [
+        "Tristan Rader",
+        "David Thomas",
+        "Munira Abdullahi",
+        "Sean Brennan"
+      ]
+    },
+    {
+      "id": "oh-hb628",
+      "billCode": "HB628",
+      "title": "License artificial intelligence risk mitigation organizations",
+      "summary": "This Ohio bill creates a licensing system for independent organizations that verify whether AI systems meet risk mitigation standards. It establishes a formal oversight structure requiring third-party verification of AI safety practices.",
+      "stage": "Filed",
+      "stance": "concerning",
+      "impactTags": [
+        "ai-safety",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-04",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.legislature.ohio.gov/legislation/136/hb628",
+      "legiscanUrl": "https://legiscan.com/OH/bill/HB628/2025",
+      "legiscanId": 2058716,
+      "sponsors": [
+        "Ty Mathews",
+        "Kellie Deeter",
+        "Tex Fischer",
+        "Thomas Hall"
+      ]
+    },
+    {
+      "id": "oh-hb185",
+      "billCode": "HB185",
+      "title": "Regards an individual's persona usage; prohibit certain deepfakes",
+      "summary": "This Ohio bill updates existing laws on unauthorized use of a person's identity and adds new prohibitions against creating or distributing deepfake recordings without consent. It creates legal protections for individuals whose likeness or voice is used in AI-generated media without permission.",
+      "stage": "Filed",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-consumer": "concerning",
+        "ai-synthetic": "restrictive"
+      },
+      "impactTags": [
+        "deepfake-regulation",
+        "data-privacy"
+      ],
+      "category": "synthetic-media",
+      "updatedDate": "2025-03-26",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.legislature.ohio.gov/legislation/136/hb185",
+      "legiscanUrl": "https://legiscan.com/OH/bill/HB185/2025",
+      "legiscanId": 2011530,
+      "sponsors": [
+        "Adam Mathews",
+        "Ty Mathews"
       ]
     }
   ]

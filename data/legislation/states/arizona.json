@@ -3,16 +3,197 @@
   "stateCode": "AZ",
   "region": "na",
   "stance": "concerning",
-  "stanceDatacenter": "review",
+  "stanceDatacenter": "favorable",
   "stanceAI": "concerning",
-  "lastUpdated": "2026-04-14",
-  "contextBlurb": "Arizona legislators are actively debating a broad sweep of AI and data privacy measures, with standout proposals like HB2737 targeting chatbot data practices and multiple bills (SB1815, SB1790) pushing new consumer data rights requirements. On the infrastructure side, the state is weighing how to handle data center growth through tax incentives and cost-responsibility frameworks, raising questions about who bears grid and ratepayer burdens. None of these measures have yet been enacted, leaving Arizona without firm guardrails as both industry investment and legislative pressure mount.",
+  "lastUpdated": "2026-07-22",
+  "contextBlurb": "Arizona is leaning innovation-friendly on data centers and advancing regulation on AI. On data centers: SB1799 (filed) — Relates to the Arizona Commerce Authority's process for certifying businesses for tax incentives. On AI: HB2174 (enacted) — Regulates how insurance companies use modeling and data organizations to make decisions, likely requiring oversight or transparency in how data-driven models are applied.",
   "legislation": [
+    {
+      "id": "az-hb2174",
+      "billCode": "HB2174",
+      "title": "Insurance; modeling and data organizations",
+      "summary": "This bill regulates how insurance companies use modeling and data organizations to make decisions, likely requiring oversight or transparency in how data-driven models are applied. It aims to ensure accountability in insurance processes that rely on automated or algorithmic tools.",
+      "stage": "Enacted",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "concerning"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-06-22",
+      "partyOrigin": "R",
+      "sourceUrl": "https://apps.azleg.gov/BillStatus/BillOverview/83837",
+      "legiscanUrl": "https://legiscan.com/AZ/bill/HB2174/2026",
+      "legiscanId": 2069671,
+      "sponsors": [
+        "David Livingston",
+        "Walter Blackman"
+      ]
+    },
+    {
+      "id": "az-hb2592",
+      "billCode": "HB2592",
+      "title": "Artificial intelligence; state agencies; rules",
+      "summary": "This bill requires Arizona state agencies to establish rules governing how they use artificial intelligence in their operations. It sets oversight and accountability standards for government AI use to ensure transparency and safety.",
+      "stage": "Dead",
+      "stance": "concerning",
+      "impactTags": [
+        "algorithmic-transparency",
+        "ai-safety"
+      ],
+      "category": "ai-government",
+      "updatedDate": "2026-06-19",
+      "partyOrigin": "R",
+      "sourceUrl": "https://apps.azleg.gov/BillStatus/BillOverview/84376",
+      "legiscanUrl": "https://legiscan.com/AZ/bill/HB2592/2026",
+      "legiscanId": 2082269,
+      "sponsors": [
+        "Justin Wilmeth"
+      ]
+    },
+    {
+      "id": "az-hb4005",
+      "billCode": "HB4005",
+      "title": "Artificial intelligence; course; public schools",
+      "summary": "This bill requires Arizona public schools to offer or make available a course on artificial intelligence to students. The legislation aims to increase AI literacy and awareness among K-12 students.",
+      "stage": "Dead",
+      "stance": "favorable",
+      "impactTags": [
+        "ai-in-education"
+      ],
+      "category": "ai-education",
+      "updatedDate": "2026-06-19",
+      "partyOrigin": "R",
+      "sourceUrl": "https://apps.azleg.gov/BillStatus/BillOverview/85516",
+      "legiscanUrl": "https://legiscan.com/AZ/bill/HB4005/2026",
+      "legiscanId": 2107900,
+      "sponsors": [
+        "Nickolas Kupper"
+      ]
+    },
+    {
+      "id": "az-hb4040",
+      "billCode": "HB4040",
+      "title": "Public schools; universities; AI policies",
+      "summary": "Arizona public schools and universities must adopt policies governing the use of artificial intelligence in educational settings, including requirements for transparency and oversight of AI systems used in instruction and student services.",
+      "stage": "Filed",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "review",
+        "ai-public": "concerning"
+      },
+      "impactTags": [
+        "ai-in-education",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-education",
+      "updatedDate": "2026-06-13",
+      "partyOrigin": "R",
+      "sourceUrl": "https://apps.azleg.gov/BillStatus/BillOverview/85556",
+      "legiscanUrl": "https://legiscan.com/AZ/bill/HB4040/2026",
+      "legiscanId": 2109776,
+      "sponsors": [
+        "Nickolas Kupper"
+      ]
+    },
+    {
+      "id": "az-hb2409",
+      "billCode": "HB2409",
+      "title": "Artificial intelligence; statewide education program",
+      "summary": "This bill establishes a statewide education program focused on artificial intelligence to prepare students and educators. The program aims to promote AI literacy and workforce development across Arizona's schools.",
+      "stage": "Committee",
+      "stance": "favorable",
+      "impactTags": [
+        "ai-in-education"
+      ],
+      "category": "ai-education",
+      "updatedDate": "2026-03-09",
+      "partyOrigin": "B",
+      "sourceUrl": "https://apps.azleg.gov/BillStatus/BillOverview/84172",
+      "legiscanUrl": "https://legiscan.com/AZ/bill/HB2409/2026",
+      "legiscanId": 2080458,
+      "sponsors": [
+        "Alexander Kolodin",
+        "Joseph Chaplik",
+        "Janeen Connolly",
+        "Laurin Hendrix"
+      ]
+    },
+    {
+      "id": "az-sb1111",
+      "billCode": "SB1111",
+      "title": "License plate readers; privacy; violations",
+      "summary": "This bill regulates the use of license plate readers by law enforcement, imposing privacy protections and restrictions on how data collected by these AI-driven surveillance systems can be stored, shared, and used. It establishes violations and penalties for misuse of license plate reader data.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "review",
+        "ai-consumer": "concerning"
+      },
+      "impactTags": [
+        "data-privacy",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-criminal-justice",
+      "updatedDate": "2026-03-04",
+      "partyOrigin": "R",
+      "sourceUrl": "https://apps.azleg.gov/BillStatus/BillOverview/83862",
+      "legiscanUrl": "https://legiscan.com/AZ/bill/SB1111/2026",
+      "legiscanId": 2069969,
+      "sponsors": [
+        "Kevin Payne"
+      ]
+    },
+    {
+      "id": "az-sb1138",
+      "billCode": "SB1138",
+      "title": "Automated license plate readers",
+      "summary": "This bill establishes regulations for automated license plate readers used by law enforcement, requiring safeguards around data collection, retention, and access to protect privacy while allowing use of the technology.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "impactTags": [
+        "algorithmic-transparency"
+      ],
+      "category": "ai-criminal-justice",
+      "updatedDate": "2026-02-24",
+      "partyOrigin": "R",
+      "sourceUrl": "https://apps.azleg.gov/BillStatus/BillOverview/83915",
+      "legiscanUrl": "https://legiscan.com/AZ/bill/SB1138/2026",
+      "legiscanId": 2071281,
+      "sponsors": [
+        "Mark Finchem"
+      ]
+    },
+    {
+      "id": "az-hb4098",
+      "billCode": "HB4098",
+      "title": "Artificial intelligence business; attorney general",
+      "summary": "This bill establishes oversight of artificial intelligence businesses and grants the Arizona Attorney General authority to investigate AI-related matters. It creates a framework for monitoring and regulating AI development and deployment in the state.",
+      "stage": "Filed",
+      "stance": "review",
+      "impactTags": [
+        "algorithmic-transparency",
+        "ai-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-11",
+      "partyOrigin": "D",
+      "sourceUrl": "https://apps.azleg.gov/BillStatus/BillOverview/85620",
+      "legiscanUrl": "https://legiscan.com/AZ/bill/HB4098/2026",
+      "legiscanId": 2112241,
+      "sponsors": [
+        "Anastasia Travers"
+      ]
+    },
     {
       "id": "az-sb1815",
       "billCode": "SB1815",
       "title": "Personal data; consumers; controllers; requirements",
-      "summary": "This Arizona bill sets rules for how businesses must handle consumers' personal data, giving people rights over their information and placing obligations on companies that collect or process it. It establishes requirements around data use, consumer consent, and transparency for organizations controlling personal data.",
+      "summary": "This Arizona bill establishes rules for how businesses that collect and use personal data must handle consumer information, giving people rights over their data. It sets requirements for companies (controllers) on how they collect, process, and protect personal data.",
       "stage": "Filed",
       "stance": "concerning",
       "dimensionStances": {
@@ -24,7 +205,7 @@
         "algorithmic-transparency"
       ],
       "category": "data-privacy",
-      "updatedDate": "2026-02-09",
+      "updatedDate": "2026-02-10",
       "partyOrigin": "D",
       "sourceUrl": "https://apps.azleg.gov/BillStatus/BillOverview/85485",
       "legiscanUrl": "https://legiscan.com/AZ/bill/SB1815/2026",
@@ -34,52 +215,10 @@
       ]
     },
     {
-      "id": "az-hb2592",
-      "billCode": "HB2592",
-      "title": "Artificial intelligence; state agencies; rules",
-      "summary": "This bill sets rules for how Arizona state agencies can use artificial intelligence, likely requiring oversight, transparency, or accountability measures. It aims to ensure government AI use follows consistent standards to protect the public.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "impactTags": [
-        "algorithmic-transparency",
-        "ai-safety"
-      ],
-      "category": "ai-government",
-      "updatedDate": "2026-02-26",
-      "partyOrigin": "R",
-      "sourceUrl": "https://apps.azleg.gov/BillStatus/BillOverview/84376",
-      "legiscanUrl": "https://legiscan.com/AZ/bill/HB2592/2026",
-      "legiscanId": 2082269,
-      "sponsors": [
-        "Justin Wilmeth"
-      ]
-    },
-    {
-      "id": "az-hb2957",
-      "billCode": "HB2957",
-      "title": "Driver license; enhanced; mobile; prohibition",
-      "summary": "This bill relates to driver's license rules, specifically around enhanced and mobile license formats. It does not address AI regulation or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "data-privacy",
-      "updatedDate": "2026-02-26",
-      "partyOrigin": "R",
-      "sourceUrl": "https://apps.azleg.gov/BillStatus/BillOverview/85125",
-      "legiscanUrl": "https://legiscan.com/AZ/bill/HB2957/2026",
-      "legiscanId": 2097528,
-      "sponsors": [
-        "Lisa Fink",
-        "Walter Blackman",
-        "Rachel Keshel",
-        "Michele Pena"
-      ]
-    },
-    {
       "id": "az-sb1790",
       "billCode": "SB1790",
       "title": "Personal data collection; business; requirements",
-      "summary": "This Arizona bill sets rules for how businesses must handle people's personal data, including requirements around collection, use, and transparency. It places obligations on companies to protect consumer data rights and limits how personal information can be gathered and processed.",
+      "summary": "This Arizona bill sets requirements for how businesses must handle the personal data they collect from consumers. It establishes rules around data collection, use, and likely consumer rights such as access or deletion of their information.",
       "stage": "Filed",
       "stance": "concerning",
       "dimensionStances": {
@@ -91,7 +230,7 @@
         "algorithmic-transparency"
       ],
       "category": "data-privacy",
-      "updatedDate": "2026-02-09",
+      "updatedDate": "2026-02-10",
       "partyOrigin": "D",
       "sourceUrl": "https://apps.azleg.gov/BillStatus/BillOverview/85459",
       "legiscanUrl": "https://legiscan.com/AZ/bill/SB1790/2026",
@@ -104,10 +243,109 @@
       ]
     },
     {
+      "id": "az-sb1799",
+      "billCode": "SB1799",
+      "title": "Commerce authority; tax incentives; certification",
+      "summary": "This bill relates to the Arizona Commerce Authority's process for certifying businesses for tax incentives. It likely streamlines or modifies how companies, potentially including data centers or tech firms, qualify for state tax breaks.",
+      "stage": "Filed",
+      "stance": "favorable",
+      "impactTags": [
+        "tax-incentives",
+        "economic-development"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-02-09",
+      "partyOrigin": "D",
+      "sourceUrl": "https://apps.azleg.gov/BillStatus/BillOverview/85469",
+      "legiscanUrl": "https://legiscan.com/AZ/bill/SB1799/2026",
+      "legiscanId": 2103792,
+      "sponsors": [
+        "Denise Epstein"
+      ]
+    },
+    {
+      "id": "az-hb2949",
+      "billCode": "HB2949",
+      "title": "Energy costs; large data centers",
+      "summary": "This bill addresses energy cost structures for large data centers in Arizona. The legislation appears designed to manage or incentivize data center operations through energy pricing mechanisms.",
+      "stage": "Filed",
+      "stance": "favorable",
+      "impactTags": [
+        "energy-rates",
+        "economic-development"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-02-05",
+      "partyOrigin": "D",
+      "sourceUrl": "https://apps.azleg.gov/BillStatus/BillOverview/85088",
+      "legiscanUrl": "https://legiscan.com/AZ/bill/HB2949/2026",
+      "legiscanId": 2094839,
+      "sponsors": [
+        "Kevin Volk",
+        "Anna Abeytia",
+        "Cesar Aguilar",
+        "Lorena Austin"
+      ]
+    },
+    {
+      "id": "az-hb2920",
+      "billCode": "HB2920",
+      "title": "Software applications; minors; requirements",
+      "summary": "Arizona HB2920 imposes requirements on software applications to protect minors, likely including algorithmic transparency and data privacy safeguards. The bill establishes rules for how applications handle minors' data and algorithmic recommendations.",
+      "stage": "Filed",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "none",
+        "ai-consumer": "concerning"
+      },
+      "impactTags": [
+        "child-safety",
+        "data-privacy",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-education",
+      "updatedDate": "2026-01-28",
+      "partyOrigin": "R",
+      "sourceUrl": "https://apps.azleg.gov/BillStatus/BillOverview/84828",
+      "legiscanUrl": "https://legiscan.com/AZ/bill/HB2920/2026",
+      "legiscanId": 2088584,
+      "sponsors": [
+        "Michael Way",
+        "Leo Biasiucci",
+        "Selina Bliss",
+        "Michael Carbone"
+      ]
+    },
+    {
+      "id": "az-sb1417",
+      "billCode": "SB1417",
+      "title": "Autonomous vehicles; safety; data",
+      "summary": "Arizona SB1417 establishes requirements for autonomous vehicle safety and data handling, likely including transparency standards and data collection oversight for self-driving vehicles on public roads.",
+      "stage": "Filed",
+      "stance": "review",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "concerning"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "data-privacy"
+      ],
+      "category": "ai-government",
+      "updatedDate": "2026-01-28",
+      "partyOrigin": "R",
+      "sourceUrl": "https://apps.azleg.gov/BillStatus/BillOverview/84971",
+      "legiscanUrl": "https://legiscan.com/AZ/bill/SB1417/2026",
+      "legiscanId": 2093597,
+      "sponsors": [
+        "Shawnna Bolick"
+      ]
+    },
+    {
       "id": "az-hb2738",
       "billCode": "HB2738",
       "title": "Cost responsibility agreements; data centers",
-      "summary": "This bill establishes rules for cost responsibility agreements specifically for data centers, likely requiring data centers to pay for or share the costs of grid upgrades and infrastructure needed to support their large energy demands. It aims to ensure that data centers bear a fair share of the utility and grid costs their operations create, rather than spreading those costs to other ratepayers.",
+      "summary": "This bill establishes rules for cost responsibility agreements specifically related to data centers, likely requiring data centers to bear the costs of grid upgrades or infrastructure needed to support their large power demands. It aims to ensure that ratepayers are not unfairly burdened by the electricity infrastructure costs associated with new data center developments.",
       "stage": "Filed",
       "stance": "concerning",
       "impactTags": [
@@ -116,7 +354,7 @@
         "economic-development"
       ],
       "category": "data-center-energy",
-      "updatedDate": "2026-01-20",
+      "updatedDate": "2026-01-22",
       "partyOrigin": "D",
       "sourceUrl": "https://apps.azleg.gov/BillStatus/BillOverview/84585",
       "legiscanUrl": "https://legiscan.com/AZ/bill/HB2738/2026",
@@ -132,7 +370,7 @@
       "id": "az-hb2119",
       "billCode": "HB2119",
       "title": "Computer data center; application; deadline",
-      "summary": "This bill sets a deadline for applications related to computer data center programs in Arizona, likely concerning tax incentives or permitting. It streamlines the process for data centers seeking state benefits by establishing clear application timelines.",
+      "summary": "This bill sets a deadline for applications related to computer data center programs in Arizona, likely concerning tax incentives or approvals. It appears to streamline or formalize the process for data centers seeking state benefits.",
       "stage": "Filed",
       "stance": "favorable",
       "impactTags": [
@@ -140,7 +378,7 @@
         "tax-incentives"
       ],
       "category": "data-center-siting",
-      "updatedDate": "2026-01-12",
+      "updatedDate": "2026-01-22",
       "partyOrigin": "R",
       "sourceUrl": "https://apps.azleg.gov/BillStatus/BillOverview/83749",
       "legiscanUrl": "https://legiscan.com/AZ/bill/HB2119/2026",
@@ -150,49 +388,10 @@
       ]
     },
     {
-      "id": "az-sb1799",
-      "billCode": "SB1799",
-      "title": "Commerce authority; tax incentives; certification",
-      "summary": "This bill updates the rules for how Arizona's commerce authority certifies businesses for tax incentives. It likely streamlines or expands eligibility for tax breaks related to economic development, potentially including data centers or tech facilities.",
-      "stage": "Filed",
-      "stance": "favorable",
-      "impactTags": [
-        "tax-incentives",
-        "economic-development"
-      ],
-      "category": "data-center-energy",
-      "updatedDate": "2026-02-05",
-      "partyOrigin": "D",
-      "sourceUrl": "https://apps.azleg.gov/BillStatus/BillOverview/85469",
-      "legiscanUrl": "https://legiscan.com/AZ/bill/SB1799/2026",
-      "legiscanId": 2103792,
-      "sponsors": [
-        "Denise Epstein"
-      ]
-    },
-    {
-      "id": "az-sb1471",
-      "billCode": "SB1471",
-      "title": "School mapping data; requirements; accessibility",
-      "summary": "This bill sets requirements for how school mapping data must be maintained and made accessible. It does not relate to AI regulation or data-center policy.",
-      "stage": "Floor",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-education",
-      "updatedDate": "2026-03-03",
-      "partyOrigin": "R",
-      "sourceUrl": "https://apps.azleg.gov/BillStatus/BillOverview/85062",
-      "legiscanUrl": "https://legiscan.com/AZ/bill/SB1471/2026",
-      "legiscanId": 2094675,
-      "sponsors": [
-        "Javan Mesnard"
-      ]
-    },
-    {
       "id": "az-hb2737",
       "billCode": "HB2737",
       "title": "Chatbot regulations; personal data; requirements",
-      "summary": "This bill sets rules for chatbots that collect or use personal data, requiring them to meet specific requirements around transparency and data handling. It aims to protect users by regulating how AI-powered chat systems interact with and store personal information.",
+      "summary": "This bill sets rules for how chatbots must handle users' personal data, requiring transparency and placing restrictions on data collection or use. Businesses operating chatbots in Arizona would need to meet specific requirements to protect user privacy.",
       "stage": "Filed",
       "stance": "concerning",
       "dimensionStances": {
@@ -204,7 +403,7 @@
         "data-privacy"
       ],
       "category": "data-privacy",
-      "updatedDate": "2026-01-20",
+      "updatedDate": "2026-01-21",
       "partyOrigin": "D",
       "sourceUrl": "https://apps.azleg.gov/BillStatus/BillOverview/84582",
       "legiscanUrl": "https://legiscan.com/AZ/bill/HB2737/2026",
@@ -217,65 +416,24 @@
       ]
     },
     {
-      "id": "az-hb2033",
-      "billCode": "HB2033",
-      "title": "Statewide assessment; written form; requirements",
-      "summary": "This bill appears to address requirements for statewide assessments in written form, likely related to standardized testing. It does not appear to be substantively about AI or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-education",
-      "updatedDate": "2026-02-26",
-      "partyOrigin": "R",
-      "sourceUrl": "https://apps.azleg.gov/BillStatus/BillOverview/83574",
-      "legiscanUrl": "https://legiscan.com/AZ/bill/HB2033/2026",
-      "legiscanId": 2056025,
-      "sponsors": [
-        "Lisa Fink"
-      ]
-    },
-    {
-      "id": "az-hb2032",
-      "billCode": "HB2032",
-      "title": "Statewide assessment; testing window; revisions",
-      "summary": "This bill makes revisions to the statewide student assessment testing window. It does not address AI or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-education",
-      "updatedDate": "2026-02-24",
-      "partyOrigin": "R",
-      "sourceUrl": "https://apps.azleg.gov/BillStatus/BillOverview/83573",
-      "legiscanUrl": "https://legiscan.com/AZ/bill/HB2032/2026",
-      "legiscanId": 2056078,
-      "sponsors": [
-        "Lisa Fink"
-      ]
-    },
-    {
-      "id": "az-hb2174",
-      "billCode": "HB2174",
-      "title": "Insurance; modeling and data organizations",
-      "summary": "This bill regulates how insurance companies use modeling and data organizations to set rates or make decisions, adding oversight to algorithmic and data-driven insurance practices. It aims to increase accountability and transparency in how insurers collect and apply data in their models.",
-      "stage": "Committee",
+      "id": "az-hb2488",
+      "billCode": "HB2488",
+      "title": "Collective bargaining; warehouse employees; quotas",
+      "summary": "This bill regulates warehouse employee quotas and collective bargaining rights, which affects automated warehouse operations and algorithmic management systems used to set productivity targets. The measure constrains employer use of algorithmic productivity standards in warehouse settings.",
+      "stage": "Filed",
       "stance": "concerning",
-      "dimensionStances": {
-        "ai-governance-dim": "concerning",
-        "ai-consumer": "concerning"
-      },
       "impactTags": [
-        "algorithmic-transparency",
-        "data-privacy"
+        "ai-in-employment"
       ],
-      "category": "data-privacy",
-      "updatedDate": "2026-02-24",
-      "partyOrigin": "R",
-      "sourceUrl": "https://apps.azleg.gov/BillStatus/BillOverview/83837",
-      "legiscanUrl": "https://legiscan.com/AZ/bill/HB2174/2026",
-      "legiscanId": 2069671,
+      "category": "ai-workforce",
+      "updatedDate": "2026-01-21",
+      "partyOrigin": "D",
+      "sourceUrl": "https://apps.azleg.gov/BillStatus/BillOverview/84265",
+      "legiscanUrl": "https://legiscan.com/AZ/bill/HB2488/2026",
+      "legiscanId": 2081295,
       "sponsors": [
-        "David Livingston",
-        "Walter Blackman"
+        "Oscar De Los Santos",
+        "Brian Garcia"
       ]
     }
   ]

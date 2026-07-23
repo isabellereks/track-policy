@@ -5,22 +5,180 @@
   "stance": "concerning",
   "stanceDatacenter": "concerning",
   "stanceAI": "concerning",
-  "lastUpdated": "2026-04-14",
-  "contextBlurb": "Pennsylvania has no enacted AI or data-center law. Pending bills pull in opposite directions: one would repeal the state's data-center equipment tax break, while another would create a fast-track regulatory sandbox for self-powered data centers. A separate measure would ban algorithmic surveillance pricing.",
+  "lastUpdated": "2026-07-22",
+  "contextBlurb": "Pennsylvania is advancing regulation across both data centers and AI. On data centers: SB1345 (in committee) — Gives Pennsylvania municipalities the option to temporarily pause accepting or reviewing new permit applications for large data centers. On AI: HB1942 (in committee) — Bans 'surveillance pricing,' which is the practice of using personal data collected about individuals to set different prices for the same product or service.",
   "legislation": [
+    {
+      "id": "pa-hb2705",
+      "billCode": "HB2705",
+      "title": "Providing for a report on artificial intelligence in the workforce; and imposing duties on the Department of Labor and Industry and Department of Community and Economic Development.",
+      "summary": "Pennsylvania would require the labor and economic-development departments to study and report on artificial intelligence's effects on the workforce. The bill is an information-gathering measure intended to guide later workforce policy rather than impose immediate restrictions on employers or AI systems.",
+      "stage": "Committee",
+      "stance": "review",
+      "impactTags": [
+        "ai-in-employment",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-workforce",
+      "updatedDate": "2026-07-16",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb2705",
+      "legiscanUrl": "https://legiscan.com/PA/bill/HB2705/2025",
+      "legiscanId": 2155843,
+      "sponsors": [
+        "Melissa Shusterman",
+        "Timothy Brennan",
+        "Christopher Pielli",
+        "James Haddock"
+      ]
+    },
+    {
+      "id": "pa-sb1345",
+      "billCode": "SB1345",
+      "title": "In zoning, providing for optional temporary moratorium on acceptance or consideration of new applications for high impact data centers.",
+      "summary": "This bill gives Pennsylvania municipalities the option to temporarily pause accepting or reviewing new permit applications for large data centers. It allows local governments to hit the brakes on data center development while they figure out appropriate zoning rules.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "community": "restrictive",
+        "land-use": "restrictive"
+      },
+      "impactTags": [
+        "local-zoning",
+        "local-control"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-07-12",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.palegis.us/legislation/bills/2025/sb1345",
+      "legiscanUrl": "https://legiscan.com/PA/bill/SB1345/2025",
+      "legiscanId": 2152946,
+      "sponsors": [
+        "Jarrett Coleman",
+        "Chris Gebhard",
+        "Cris Dush",
+        "Tracy Pennycuick"
+      ]
+    },
+    {
+      "id": "pa-hb2359",
+      "billCode": "HB2359",
+      "title": "Amending the act of March 4, 1971 (P.L.6, No.2), entitled \"An act relating to tax reform and State taxation by codifying and enumerating certain subjects of taxation and imposing taxes thereon; providing procedures for the payment, collection, administration and enforcement thereof; providing for tax credits in certain cases; conferring powers and imposing duties upon the Department of Revenue, certain employers, fiduciaries, individuals, persons, corporations and other entities; prescribing crimes, offenses and penalties,\" in computer data center equipment incentive program, further providing for definitions, for application for certification, for eligibility requirements relating to sales and use tax refund program, for notification, for eligibility requirements relating to sales and use tax exemption program and for notification and records.",
+      "summary": "This Pennsylvania bill updates the state's computer data center equipment incentive program, modifying rules around tax refunds and exemptions for data center equipment purchases. It adjusts eligibility requirements and administrative procedures to make it easier for data centers to qualify for sales and use tax benefits.",
+      "stage": "Committee",
+      "stance": "favorable",
+      "impactTags": [
+        "tax-incentives",
+        "economic-development",
+        "job-creation"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-07-10",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb2359",
+      "legiscanUrl": "https://legiscan.com/PA/bill/HB2359/2025",
+      "legiscanId": 2141125,
+      "sponsors": [
+        "Joseph Ciresi",
+        "James Prokopiak",
+        "Carol Hill-Evans",
+        "Joseph Hohenstein"
+      ]
+    },
+    {
+      "id": "pa-sb1384",
+      "billCode": "SB1384",
+      "title": "In tax credit and tax benefit administration, further providing for definitions; in computer data center equipment incentive program, providing for certification prohibition; providing for Governor's Responsible Infrastructure Development certification and standards; and imposing duties.",
+      "summary": "Pennsylvania restricts tax credits for data center equipment and establishes new gubernatorial certification standards for responsible infrastructure development. The bill adds environmental and local accountability requirements to data center incentive programs previously available without such oversight.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "environmental": "review",
+        "community": "concerning"
+      },
+      "impactTags": [
+        "tax-incentives",
+        "environmental-review",
+        "local-control"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-07-10",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.palegis.us/legislation/bills/2025/sb1384",
+      "legiscanUrl": "https://legiscan.com/PA/bill/SB1384/2025",
+      "legiscanId": 2155692,
+      "sponsors": [
+        "John Kane",
+        "Steven Santarsiero",
+        "Christine Tartaglione",
+        "Jay Costa"
+      ]
+    },
+    {
+      "id": "pa-hb2496",
+      "billCode": "HB2496",
+      "title": "In general provisions, providing for pause on data center proposals.",
+      "summary": "Pennsylvania would pause new data center proposals under its municipalities planning code, giving localities time to develop appropriate zoning and siting standards. This prevents data center construction until communities can establish their own regulatory frameworks.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "community": "restrictive",
+        "land-use": "restrictive"
+      },
+      "impactTags": [
+        "local-control",
+        "local-zoning"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-06-30",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb2496",
+      "legiscanUrl": "https://legiscan.com/PA/bill/HB2496/2025",
+      "legiscanId": 2148508,
+      "sponsors": [
+        "Paul Friel",
+        "Kyle Donahue",
+        "Kyle Mullins",
+        "Christopher Pielli"
+      ]
+    },
+    {
+      "id": "pa-hb2678",
+      "billCode": "HB2678",
+      "title": "In powers and duties, further providing for definitions and providing for artificial intelligence.",
+      "summary": "This bill amends Pennsylvania's professional licensing law to add definitions and provisions related to artificial intelligence use in licensed professions. The legislation appears to establish a framework for how AI can be deployed in state-regulated occupations, though the specific requirements and enforcement mechanisms are not detailed in the title alone.",
+      "stage": "Committee",
+      "stance": "review",
+      "impactTags": [
+        "algorithmic-transparency",
+        "ai-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-06-29",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb2678",
+      "legiscanUrl": "https://legiscan.com/PA/bill/HB2678/2025",
+      "legiscanId": 2155027,
+      "sponsors": [
+        "Brenda Pugh",
+        "Tina Pickett",
+        "Andrew Kuzma",
+        "Charity Grimm Krupa"
+      ]
+    },
     {
       "id": "pa-hb2198",
       "billCode": "HB2198",
-      "title": "Repealing provisions relating to Computer Data Center Equipment Incentive Program.",
-      "summary": "This bill would eliminate Pennsylvania's existing tax incentive program for computer data center equipment. By repealing these provisions, data centers would lose special tax breaks they currently receive for equipment purchases.",
+      "title": "Repealing provisions relating to Computer Data Center Equipment Incentive Program; and, in general provisions, providing for data centers.",
+      "summary": "This Pennsylvania bill replaces the existing Computer Data Center Equipment Incentive Program with new general provisions governing data centers. It likely restructures or updates tax incentives and rules related to data center development in the state.",
       "stage": "Committee",
-      "stance": "restrictive",
+      "stance": "favorable",
       "impactTags": [
         "tax-incentives",
         "economic-development"
       ],
       "category": "data-center-siting",
-      "updatedDate": "2026-02-05",
+      "updatedDate": "2026-06-26",
       "partyOrigin": "B",
       "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb2198",
       "legiscanUrl": "https://legiscan.com/PA/bill/HB2198/2025",
@@ -33,119 +191,219 @@
       ]
     },
     {
-      "id": "pa-hb1942",
-      "billCode": "HB1942",
-      "title": "Providing for prohibition on surveillance pricing; and imposing penalties.",
-      "summary": "This bill bans 'surveillance pricing,' where businesses use personal data and algorithms to charge individual customers different prices based on their behavior or characteristics. It establishes penalties for companies that engage in this practice.",
+      "id": "pa-hb1667",
+      "billCode": "HB1667",
+      "title": "In sales and use tax, further providing for exclusions from tax; in gross receipts tax, further providing for imposition of tax and for establishment of revenue-neutral reconciliation; providing for educational tax credits; in manufacturing and investment tax credit, further providing for business firms and for tax credit certificates; repealing provisions relating to Computer Data Center Equipment Incentive Program; in general provisions, providing for data centers; prohibiting the imposition of a tax on gross receipts received from the sale of electric energy; imposing a penalty; and making repeals.",
+      "summary": "Pennsylvania legislation that repeals the prior Computer Data Center Equipment Incentive Program and replaces it with new tax provisions for data centers, including a prohibition on taxing gross receipts from electric energy sales to data centers. The bill provides tax credits and exemptions designed to attract and support data center development in the state.",
+      "stage": "Committee",
+      "stance": "favorable",
+      "impactTags": [
+        "tax-incentives",
+        "economic-development",
+        "energy-rates"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-06-26",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb1667",
+      "legiscanUrl": "https://legiscan.com/PA/bill/HB1667/2025",
+      "legiscanId": 2038380,
+      "sponsors": [
+        "Paul Takac",
+        "Ben Sanchez",
+        "Carol Hill-Evans",
+        "Manuel Guzman"
+      ]
+    },
+    {
+      "id": "pa-hb2650",
+      "billCode": "HB2650",
+      "title": "In tax credit and tax benefit administration, further providing for definitions; in computer data center equipment incentive program, providing for certification prohibition; providing for Governor's Responsible Infrastructure Development certification and standards; and imposing duties.",
+      "summary": "This Pennsylvania bill creates a 'Responsible Infrastructure Development' certification program for data centers and adds new standards and duties that data centers must meet to qualify for state tax incentives. It also establishes rules that could block certain data centers from receiving tax benefits if they fail to meet certification requirements.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "environmental": "concerning",
+        "energy": "concerning",
+        "community": "concerning",
+        "land-use": "concerning"
+      },
+      "impactTags": [
+        "tax-incentives",
+        "environmental-review",
+        "local-zoning",
+        "grid-capacity",
+        "water-consumption"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-06-25",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb2650",
+      "legiscanUrl": "https://legiscan.com/PA/bill/HB2650/2025",
+      "legiscanId": 2153945,
+      "sponsors": [
+        "Joseph Webster",
+        "Tarah Probst",
+        "Mandy Steele",
+        "Tarik Khan"
+      ]
+    },
+    {
+      "id": "pa-sb1359",
+      "billCode": "SB1359",
+      "title": "Imposing a Statewide moratorium on hyperscale data center development and permitting; and providing for enforcement.",
+      "summary": "Pennsylvania would impose a statewide moratorium on hyperscale data center development and permitting. The moratorium prevents new hyperscale data center projects from being approved or constructed across the state.",
       "stage": "Committee",
       "stance": "restrictive",
       "dimensionStances": {
-        "ai-governance-dim": "concerning",
-        "ai-consumer": "restrictive"
+        "environmental": "restrictive",
+        "community": "restrictive"
       },
       "impactTags": [
-        "algorithmic-transparency",
-        "data-privacy"
-      ],
-      "category": "data-privacy",
-      "updatedDate": "2025-10-16",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb1942",
-      "legiscanUrl": "https://legiscan.com/PA/bill/HB1942/2025",
-      "legiscanId": 2046249,
-      "sponsors": [
-        "Danilo Burgos",
-        "Emily Kinkead",
-        "Manuel Guzman",
-        "Carol Hill-Evans"
-      ]
-    },
-    {
-      "id": "pa-sb939",
-      "billCode": "SB939",
-      "title": "Establishing the Office of Transformation and Opportunity and the Artificial Intelligence, Data Center and Emerging Technology Regulatory Sandbox Program; and providing for powers and duties of office and for permits for high impact data centers that have their own power.",
-      "summary": "This Pennsylvania bill creates a new state office and a regulatory sandbox program to fast-track permits and reduce red tape for large data centers that generate their own power. It takes a pro-industry approach designed to attract AI and emerging technology investment to the state.",
-      "stage": "Committee",
-      "stance": "favorable",
-      "dimensionStances": {
-        "energy": "favorable",
-        "community": "review",
-        "land-use": "favorable",
-        "ai-governance-dim": "favorable"
-      },
-      "impactTags": [
-        "grid-capacity",
-        "local-zoning",
-        "economic-development",
-        "ai-safety",
-        "tax-incentives"
+        "local-control",
+        "environmental-review"
       ],
       "category": "data-center-siting",
-      "updatedDate": "2025-07-14",
-      "partyOrigin": "R",
-      "sourceUrl": "https://www.palegis.us/legislation/bills/2025/sb939",
-      "legiscanUrl": "https://legiscan.com/PA/bill/SB939/2025",
-      "legiscanId": 2039357,
+      "updatedDate": "2026-06-04",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.palegis.us/legislation/bills/2025/sb1359",
+      "legiscanUrl": "https://legiscan.com/PA/bill/SB1359/2025",
+      "legiscanId": 2152938,
       "sponsors": [
-        "Greg Rothman",
-        "Tracy Pennycuick",
-        "Elder Vogel"
+        "Katie Muth",
+        "Carolyn Comitta",
+        "Rosemary Brown",
+        "Nikil Saval"
       ]
     },
     {
-      "id": "pa-hb2151",
-      "billCode": "HB2151",
-      "title": "Providing for data center ordinance assistance.",
-      "summary": "This bill helps Pennsylvania municipalities develop local ordinances for regulating data centers by providing guidance and assistance. It aims to make it easier for local governments to establish rules around data center construction and operation in their communities.",
+      "id": "pa-sb1344",
+      "billCode": "SB1344",
+      "title": "Repealing provisions relating to computer data center equipment incentive program; in general provisions, providing for transfer of tax from certain sale of computer data equipment; and establishing a restricted account in the Motor License Fund.",
+      "summary": "This Pennsylvania bill repeals the existing tax incentive program for computer data center equipment, eliminating a benefit that had encouraged data center investment in the state. Tax revenue previously associated with data center equipment sales would be redirected to a new restricted account in the Motor License Fund.",
       "stage": "Committee",
-      "stance": "favorable",
+      "stance": "restrictive",
+      "impactTags": [
+        "tax-incentives",
+        "economic-development"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-06-04",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.palegis.us/legislation/bills/2025/sb1344",
+      "legiscanUrl": "https://legiscan.com/PA/bill/SB1344/2025",
+      "legiscanId": 2152950,
+      "sponsors": [
+        "Jarrett Coleman",
+        "Chris Gebhard",
+        "Michele Brooks"
+      ]
+    },
+    {
+      "id": "pa-hb2533",
+      "billCode": "HB2533",
+      "title": "In zoning, providing for optional moratorium on filing or consideration of new applications for high impact data centers.",
+      "summary": "This bill allows Pennsylvania municipalities to impose optional moratoriums on filing or consideration of new applications for high-impact data centers. The measure gives local governments discretionary power to temporarily pause data center development in their jurisdictions.",
+      "stage": "Committee",
+      "stance": "restrictive",
       "dimensionStances": {
         "community": "favorable",
         "land-use": "favorable"
       },
       "impactTags": [
-        "local-zoning",
-        "local-control"
+        "local-control",
+        "local-zoning"
       ],
       "category": "data-center-siting",
-      "updatedDate": "2026-01-20",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb2151",
-      "legiscanUrl": "https://legiscan.com/PA/bill/HB2151/2025",
-      "legiscanId": 2086447,
-      "sponsors": [
-        "Kyle Donahue",
-        "Kyle Mullins",
-        "Benjamin Waxman",
-        "James Prokopiak"
-      ]
-    },
-    {
-      "id": "pa-sb411",
-      "billCode": "SB411",
-      "title": "Further providing for definitions; providing for Statewide stroke registry; and making an editorial change .",
-      "summary": "This bill updates Pennsylvania's Stroke System of Care Act to revise definitions and establish a statewide stroke registry. It is not related to AI or data-center policy.",
-      "stage": "Enacted",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-healthcare",
-      "updatedDate": "2025-06-30",
+      "updatedDate": "2026-05-27",
       "partyOrigin": "B",
-      "sourceUrl": "https://www.palegis.us/legislation/bills/2025/sb411",
-      "legiscanUrl": "https://legiscan.com/PA/bill/SB411/2025",
-      "legiscanId": 1996588,
+      "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb2533",
+      "legiscanUrl": "https://legiscan.com/PA/bill/HB2533/2025",
+      "legiscanId": 2151677,
       "sponsors": [
-        "Elder Vogel",
-        "Camera Bartolotta",
-        "John Kane",
-        "Vincent Hughes"
+        "Jamie Walsh",
+        "Brenda Pugh",
+        "Stephanie Borowicz",
+        "Robert Kauffman"
       ]
     },
     {
-      "id": "pa-hb1834",
-      "billCode": "HB1834",
+      "id": "pa-hb2532",
+      "billCode": "HB2532",
+      "title": "Repealing provisions relating to computer data center equipment incentive program; in general provisions, providing for transfer of tax from certain sale of computer data equipment; and establishing a restricted account in the Motor License Fund.",
+      "summary": "This Pennsylvania bill repeals the existing tax incentive program for computer data center equipment, removing special tax breaks that data centers currently receive on equipment purchases. The tax revenue previously exempted would instead be redirected to a restricted account in the Motor License Fund.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "impactTags": [
+        "tax-incentives",
+        "economic-development"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-05-27",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb2532",
+      "legiscanUrl": "https://legiscan.com/PA/bill/HB2532/2025",
+      "legiscanId": 2151702,
+      "sponsors": [
+        "Jamie Walsh",
+        "Chad Reichard",
+        "Brenda Pugh",
+        "Robert Kauffman"
+      ]
+    },
+    {
+      "id": "pa-hb2539",
+      "billCode": "HB2539",
+      "title": "In Computer Data Center Equipment Incentive Program, further providing for application for certification, for eligibility requirements relating to Sales and Use Tax Refund Program and for eligibility requirements relating to Sales and Use Tax Exemption Program.",
+      "summary": "This bill expands Pennsylvania's tax incentive programs for computer data center equipment, making it easier for data center operators to qualify for sales and use tax refunds and exemptions. The changes aim to attract data center investment to the state through reduced tax burdens on equipment purchases.",
+      "stage": "Committee",
+      "stance": "favorable",
+      "impactTags": [
+        "tax-incentives",
+        "economic-development"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-05-27",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb2539",
+      "legiscanUrl": "https://legiscan.com/PA/bill/HB2539/2025",
+      "legiscanId": 2151657,
+      "sponsors": [
+        "Mandy Steele",
+        "Benjamin Waxman",
+        "James Prokopiak",
+        "Jose Giral"
+      ]
+    },
+    {
+      "id": "pa-hb2534",
+      "billCode": "HB2534",
+      "title": "Providing for artificial intelligence transparency, for duties of covered providers of generative artificial intelligence systems and for large online platforms and generative artificial intelligence system hosting platforms; and imposing a penalty.",
+      "summary": "Pennsylvania HB2534 establishes comprehensive transparency and accountability requirements for providers of generative AI systems and large online platforms, including disclosure duties and compliance standards backed by penalties. The bill aims to ensure AI systems are developed and deployed responsibly with meaningful oversight mechanisms.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "impactTags": [
+        "algorithmic-transparency",
+        "ai-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-05-26",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb2534",
+      "legiscanUrl": "https://legiscan.com/PA/bill/HB2534/2025",
+      "legiscanId": 2151644,
+      "sponsors": [
+        "Jason Ortitay",
+        "Joseph Ciresi",
+        "Arvind Venkat",
+        "Tina Pickett"
+      ]
+    },
+    {
+      "id": "pa-sb1323",
+      "billCode": "SB1323",
       "title": "Providing for the regulation of commercial data centers; imposing duties on the Pennsylvania Public Utility Commission, the Department of Human Services and the Pennsylvania Energy Development Authority; establishing the Data Center Low-Income Home Energy Assistance Program Enhancement Account and the Pennsylvania Energy Independence Account; providing for clean firm energy requirements, contract filing, commission review, disclosure requirements, backup generation standards, curtailment standards and certification and expedited interconnection for commercial data centers bringing incremental clean firm energy resources; and imposing penalties.",
-      "summary": "This Pennsylvania bill requires commercial data centers to meet clean energy standards, file contracts with state regulators, and follow rules on backup generation and grid management. It also creates special accounts to help low-income households with energy costs and funds energy independence efforts, with penalties for non-compliance.",
+      "summary": "This Pennsylvania bill establishes a comprehensive regulatory framework for commercial data centers, requiring them to use clean firm energy, meet disclosure and backup generation standards, and comply with curtailment rules overseen by the Public Utility Commission. It also creates special accounts to direct energy-related funding toward low-income home energy assistance and state energy independence.",
       "stage": "Committee",
       "stance": "concerning",
       "dimensionStances": {
@@ -161,46 +419,76 @@
         "algorithmic-transparency"
       ],
       "category": "data-center-energy",
-      "updatedDate": "2026-03-24",
+      "updatedDate": "2026-05-20",
       "partyOrigin": "D",
-      "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb1834",
-      "legiscanUrl": "https://legiscan.com/PA/bill/HB1834/2025",
-      "legiscanId": 2043019,
+      "sourceUrl": "https://www.palegis.us/legislation/bills/2025/sb1323",
+      "legiscanUrl": "https://legiscan.com/PA/bill/SB1323/2025",
+      "legiscanId": 2150964,
       "sponsors": [
-        "Robert Matzie",
-        "John Inglis",
-        "Daniel Deasy",
-        "Ed Neilson"
+        "Martin Flynn",
+        "Nikil Saval",
+        "Steven Santarsiero",
+        "Wayne Fontana"
       ]
     },
     {
-      "id": "pa-hb2150",
-      "billCode": "HB2150",
-      "title": "Providing for annual reporting of energy consumption and water consumption by data centers; and imposing a penalty.",
-      "summary": "This bill requires data centers in Pennsylvania to submit annual reports on how much energy and water they use, with penalties for non-compliance. It increases transparency around data center resource consumption but does not impose caps or bans on usage.",
+      "id": "pa-hb2516",
+      "billCode": "HB2516",
+      "title": "In general provisions, further providing for definitions; in comprehensive plan, providing for comprehensive plan element for commercial data centers; and, in zoning, providing for zoning, commercial data centers and agricultural land protections and for zoning, commercial data centers, approval procedure and minimum standards.",
+      "summary": "This bill amends Pennsylvania's municipal planning code to establish zoning rules, approval procedures, and minimum standards for commercial data centers, including protections for agricultural land. It gives local municipalities authority to regulate data center siting through comprehensive planning and zoning requirements.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "community": "concerning",
+        "land-use": "concerning"
+      },
+      "impactTags": [
+        "local-zoning",
+        "local-control"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-05-13",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb2516",
+      "legiscanUrl": "https://legiscan.com/PA/bill/HB2516/2025",
+      "legiscanId": 2149453,
+      "sponsors": [
+        "Jamie Walsh",
+        "Charity Grimm Krupa",
+        "Steven Mentzer",
+        "Jill Cooper"
+      ]
+    },
+    {
+      "id": "pa-hb2515",
+      "billCode": "HB2515",
+      "title": "Providing for commercial data center transparency regarding energy use, water use and noise pollution; imposing duties on the Department of Environmental Protection, the Department of Transportation and the Office of Attorney General; and imposing civil penalties.",
+      "summary": "This Pennsylvania bill requires commercial data centers to publicly disclose their energy use, water use, and noise pollution levels, with oversight from state environmental and legal agencies. Data centers that fail to comply face civil penalties.",
       "stage": "Committee",
       "stance": "concerning",
       "dimensionStances": {
         "environmental": "concerning",
-        "energy": "concerning"
+        "energy": "concerning",
+        "community": "concerning"
       },
       "impactTags": [
         "water-consumption",
         "carbon-emissions",
-        "water-infrastructure",
+        "noise-vibration",
+        "environmental-review",
         "grid-capacity"
       ],
       "category": "data-center-energy",
-      "updatedDate": "2026-01-20",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb2150",
-      "legiscanUrl": "https://legiscan.com/PA/bill/HB2150/2025",
-      "legiscanId": 2086598,
+      "updatedDate": "2026-05-13",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb2515",
+      "legiscanUrl": "https://legiscan.com/PA/bill/HB2515/2025",
+      "legiscanId": 2149508,
       "sponsors": [
-        "Kyle Mullins",
-        "Kyle Donahue",
-        "Benjamin Waxman",
-        "James Prokopiak"
+        "Jamie Walsh",
+        "Charity Grimm Krupa",
+        "Steven Mentzer",
+        "Jill Cooper"
       ]
     },
     {
@@ -223,7 +511,7 @@
         "local-zoning"
       ],
       "category": "data-center-energy",
-      "updatedDate": "2026-02-25",
+      "updatedDate": "2026-05-01",
       "partyOrigin": "D",
       "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb2246",
       "legiscanUrl": "https://legiscan.com/PA/bill/HB2246/2025",
@@ -236,34 +524,150 @@
       ]
     },
     {
-      "id": "pa-sb991",
-      "billCode": "SB991",
-      "title": "Providing for a permitting process for data center siting; and imposing powers and duties on the Department of Environmental Protection.",
-      "summary": "This Pennsylvania bill creates a formal permitting process that data centers must go through before being built, with the state's environmental agency overseeing approvals. It adds regulatory hurdles to data center construction by requiring environmental review and compliance before siting can proceed.",
+      "id": "pa-sb1297",
+      "billCode": "SB1297",
+      "title": "In Computer Data Center Equipment Incentive Program, further providing for application for certification and for separation of facilities, providing for additional eligibility requirements, further providing for notification, for revocation of certification, for application for certification and for separation of facilities, providing for additional eligibility requirements and further providing for notification and records and for revocation of certification.",
+      "summary": "This Pennsylvania bill updates the state's Computer Data Center Equipment Incentive Program, refining the rules around how data centers can apply for tax incentives, qualify for certification, and maintain compliance. It sets additional eligibility requirements and adjusts oversight procedures like notification and revocation of certification.",
+      "stage": "Committee",
+      "stance": "favorable",
+      "impactTags": [
+        "tax-incentives",
+        "economic-development",
+        "job-creation"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-04-23",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.palegis.us/legislation/bills/2025/sb1297",
+      "legiscanUrl": "https://legiscan.com/PA/bill/SB1297/2025",
+      "legiscanId": 2145259,
+      "sponsors": [
+        "Timothy Kearney",
+        "Maria Collett",
+        "Wayne Fontana",
+        "Jay Costa"
+      ]
+    },
+    {
+      "id": "pa-hb2151",
+      "billCode": "HB2151",
+      "title": "Providing for data center ordinance assistance.",
+      "summary": "This bill helps Pennsylvania municipalities develop local ordinances related to data centers, providing guidance and assistance for local governments. It aims to support communities in establishing rules for data center development within their jurisdictions.",
+      "stage": "Committee",
+      "stance": "favorable",
+      "dimensionStances": {
+        "community": "review",
+        "land-use": "review"
+      },
+      "impactTags": [
+        "local-zoning",
+        "local-control"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-04-23",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb2151",
+      "legiscanUrl": "https://legiscan.com/PA/bill/HB2151/2025",
+      "legiscanId": 2086447,
+      "sponsors": [
+        "Kyle Donahue",
+        "Kyle Mullins",
+        "Benjamin Waxman",
+        "James Prokopiak"
+      ]
+    },
+    {
+      "id": "pa-hb2150",
+      "billCode": "HB2150",
+      "title": "Providing for annual reporting of energy consumption and water consumption by data centers; and imposing a penalty.",
+      "summary": "This bill requires data centers in Pennsylvania to submit annual reports on how much energy and water they use, with penalties for non-compliance. It increases transparency around data center resource consumption but does not impose caps or bans on usage.",
       "stage": "Committee",
       "stance": "concerning",
       "dimensionStances": {
         "environmental": "concerning",
-        "community": "review",
-        "land-use": "concerning"
+        "energy": "concerning"
       },
       "impactTags": [
-        "environmental-review",
-        "local-zoning",
         "water-consumption",
-        "carbon-emissions"
+        "carbon-emissions",
+        "water-infrastructure",
+        "grid-capacity"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-04-23",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb2150",
+      "legiscanUrl": "https://legiscan.com/PA/bill/HB2150/2025",
+      "legiscanId": 2086598,
+      "sponsors": [
+        "Kyle Mullins",
+        "Kyle Donahue",
+        "Benjamin Waxman",
+        "James Prokopiak"
+      ]
+    },
+    {
+      "id": "pa-hb1834",
+      "billCode": "HB1834",
+      "title": "Providing for the regulation of commercial data centers; imposing duties on the Pennsylvania Public Utility Commission, the Department of Human Services and the Pennsylvania Energy Development Authority; establishing the Data Center Low-Income Home Energy Assistance Program Enhancement Account and the Pennsylvania Energy Independence Account; providing for clean firm energy requirements, contract filing, commission review, disclosure requirements, backup generation standards, curtailment standards and certification and expedited interconnection for commercial data centers bringing incremental clean firm energy resources; and imposing penalties.",
+      "summary": "This Pennsylvania bill requires commercial data centers to meet clean energy standards, file contracts with state regulators, and follow rules on backup generation and grid management. It also creates special accounts to help low-income households with energy costs and funds energy independence efforts, with penalties for non-compliance.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "environmental": "concerning",
+        "energy": "concerning",
+        "ai-governance-dim": "none"
+      },
+      "impactTags": [
+        "grid-capacity",
+        "renewable-energy",
+        "carbon-emissions",
+        "energy-rates",
+        "algorithmic-transparency"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-03-31",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb1834",
+      "legiscanUrl": "https://legiscan.com/PA/bill/HB1834/2025",
+      "legiscanId": 2043019,
+      "sponsors": [
+        "Robert Matzie",
+        "John Inglis",
+        "Daniel Deasy",
+        "Ed Neilson"
+      ]
+    },
+    {
+      "id": "pa-sb939",
+      "billCode": "SB939",
+      "title": "Establishing the Office of Transformation and Opportunity and the Artificial Intelligence, Data Center and Emerging Technology Regulatory Sandbox Program; and providing for powers and duties of office and for permits for high impact data centers that have their own power.",
+      "summary": "This Pennsylvania bill creates a new state office and a regulatory sandbox program to streamline permitting and oversight for AI, data centers, and emerging technologies. It also establishes a special permit pathway for large data centers that generate their own power, signaling a pro-development, deregulatory approach.",
+      "stage": "Committee",
+      "stance": "favorable",
+      "dimensionStances": {
+        "energy": "favorable",
+        "community": "review",
+        "land-use": "favorable",
+        "ai-governance-dim": "favorable"
+      },
+      "impactTags": [
+        "grid-capacity",
+        "economic-development",
+        "local-zoning",
+        "ai-safety",
+        "tax-incentives"
       ],
       "category": "data-center-siting",
-      "updatedDate": "2025-09-05",
+      "updatedDate": "2026-02-04",
       "partyOrigin": "R",
-      "sourceUrl": "https://www.palegis.us/legislation/bills/2025/sb991",
-      "legiscanUrl": "https://legiscan.com/PA/bill/SB991/2025",
-      "legiscanId": 2043443,
+      "sourceUrl": "https://www.palegis.us/legislation/bills/2025/sb939",
+      "legiscanUrl": "https://legiscan.com/PA/bill/SB939/2025",
+      "legiscanId": 2039357,
       "sponsors": [
-        "Camera Bartolotta",
-        "Patrick Stefano",
-        "Elder Vogel",
-        "Judith Ward"
+        "Greg Rothman",
+        "Tracy Pennycuick",
+        "Elder Vogel"
       ]
     },
     {
@@ -278,7 +682,7 @@
         "economic-development"
       ],
       "category": "ai-workforce",
-      "updatedDate": "2025-05-12",
+      "updatedDate": "2026-02-02",
       "partyOrigin": "B",
       "sourceUrl": "https://www.palegis.us/legislation/bills/2025/sb293",
       "legiscanUrl": "https://legiscan.com/PA/bill/SB293/2025",
@@ -319,6 +723,64 @@
         "Tarah Probst",
         "Christopher Pielli",
         "Carol Hill-Evans"
+      ]
+    },
+    {
+      "id": "pa-hb1942",
+      "billCode": "HB1942",
+      "title": "Providing for prohibition on surveillance pricing; and imposing penalties.",
+      "summary": "This bill bans 'surveillance pricing,' which is the practice of using personal data collected about individuals to set different prices for the same product or service. Businesses that use algorithms or AI to personalize prices based on tracked consumer behavior would face penalties under this law.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "restrictive"
+      },
+      "impactTags": [
+        "data-privacy",
+        "algorithmic-transparency"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2025-10-16",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb1942",
+      "legiscanUrl": "https://legiscan.com/PA/bill/HB1942/2025",
+      "legiscanId": 2046249,
+      "sponsors": [
+        "Danilo Burgos",
+        "Emily Kinkead",
+        "Manuel Guzman",
+        "Carol Hill-Evans"
+      ]
+    },
+    {
+      "id": "pa-sb991",
+      "billCode": "SB991",
+      "title": "Providing for a permitting process for data center siting; and imposing powers and duties on the Department of Environmental Protection.",
+      "summary": "This Pennsylvania bill creates a formal permitting process that data centers must go through before being built, with the state's environmental agency overseeing approvals. It adds regulatory hurdles to data center construction by requiring environmental review and compliance before siting can proceed.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "environmental": "concerning",
+        "community": "review",
+        "land-use": "concerning"
+      },
+      "impactTags": [
+        "environmental-review",
+        "local-zoning",
+        "water-consumption",
+        "carbon-emissions"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2025-09-05",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.palegis.us/legislation/bills/2025/sb991",
+      "legiscanUrl": "https://legiscan.com/PA/bill/SB991/2025",
+      "legiscanId": 2043443,
+      "sponsors": [
+        "Camera Bartolotta",
+        "Patrick Stefano",
+        "Elder Vogel"
       ]
     },
     {

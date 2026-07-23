@@ -2,40 +2,275 @@
   "state": "Delaware",
   "stateCode": "DE",
   "region": "na",
-  "stance": "review",
-  "stanceDatacenter": "none",
-  "stanceAI": "review",
-  "lastUpdated": "2026-04-14",
-  "contextBlurb": "Delaware directed its AI Commission to design a regulatory sandbox for agentic AI systems, one of the few states formally studying autonomous agents. Pending legislation would extend warehouse-worker protections against algorithmic management. No data-center legislation is on the table.",
+  "stance": "concerning",
+  "stanceDatacenter": "concerning",
+  "stanceAI": "concerning",
+  "lastUpdated": "2026-07-22",
+  "contextBlurb": "Delaware is advancing regulation across both data centers and AI. On data centers: HB233 (on the floor) — Updates Delaware law to regulate large energy-consuming facilities, likely including data centers, by imposing new requirements around their connection to and impact on the electric grid. On AI: HB191 (enacted) — Amends Delaware medical licensing law to address the use of nonhuman entities (including AI) in medical practice, establishing requirements around titles, credentials, and oversight of AI…",
   "legislation": [
     {
-      "id": "de-hb231",
-      "billCode": "HB231",
-      "title": "An Act To Amend Title 16 Of The Delaware Code Relating To Uniform Health Data.",
-      "summary": "This bill amends Delaware's health data laws, likely relating to standardization or reporting of health information. It does not appear to directly address AI or data-center policy.",
-      "stage": "Enacted",
-      "stance": "none",
+      "id": "de-hb233",
+      "billCode": "HB233",
+      "title": "An Act To Amend Title 26 Of The Delaware Code Relating To Large Energy Use Facilities.",
+      "summary": "This bill updates Delaware law to regulate large energy-consuming facilities, likely including data centers, by imposing new requirements around their connection to and impact on the electric grid. It could require environmental or utility review before such facilities can begin large-scale energy consumption.",
+      "stage": "Floor",
+      "stance": "concerning",
+      "dimensionStances": {
+        "environmental": "concerning",
+        "energy": "concerning"
+      },
+      "impactTags": [
+        "grid-capacity",
+        "energy-rates",
+        "environmental-review"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-07-01",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legis.delaware.gov/BillDetail?LegislationId=143381",
+      "legiscanUrl": "https://legiscan.com/DE/bill/HB233/2025",
+      "legiscanId": 2038726,
+      "sponsors": [
+        "Frank Burns",
+        "Debra Heffernan",
+        "Melissa Minor-Brown",
+        "Stephanie Hansen"
+      ]
+    },
+    {
+      "id": "de-hb145",
+      "billCode": "HB145",
+      "title": "An Act To Amend Title 11 Of The Delaware Code Relating To Reverse Location And Reverse Keyword Searches And Court Orders.",
+      "summary": "This bill amends Delaware criminal law to establish court order requirements and procedural safeguards for reverse location searches and reverse keyword searches conducted by law enforcement. It addresses transparency and judicial oversight of these surveillance techniques used in criminal investigations.",
+      "stage": "Floor",
+      "stance": "concerning",
+      "impactTags": [
+        "algorithmic-transparency"
+      ],
+      "category": "ai-criminal-justice",
+      "updatedDate": "2026-07-01",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legis.delaware.gov/BillDetail?LegislationId=143080",
+      "legiscanUrl": "https://legiscan.com/DE/bill/HB145/2025",
+      "legiscanId": 2035612,
+      "sponsors": [
+        "Madinah Wilson-Anton",
+        "Marie Pinkney",
+        "Frank Burns",
+        "Eric Morrison"
+      ]
+    },
+    {
+      "id": "de-sb353",
+      "billCode": "SB353",
+      "title": "An Act To Amend The Laws Of Delaware Relating To A Moratorium On Data Center Development.",
+      "summary": "Delaware enacts a moratorium on new data center development, preventing construction of data centers during the moratorium period. The measure gives the state time to conduct environmental and infrastructure review before allowing future data center projects.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "environmental": "restrictive",
+        "community": "restrictive"
+      },
+      "impactTags": [
+        "local-control",
+        "environmental-review"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-06-30",
+      "partyOrigin": "R",
+      "sourceUrl": "https://legis.delaware.gov/BillDetail?LegislationId=143681",
+      "legiscanUrl": "https://legiscan.com/DE/bill/SB353/2025",
+      "legiscanId": 2155198,
+      "sponsors": [
+        "Eric Buckson",
+        "Michael Smith"
+      ]
+    },
+    {
+      "id": "de-hb404",
+      "billCode": "HB404",
+      "title": "An Act To Amend Title 14 Of The Delaware Code Relating To The Artificial Intelligence And Extended Reality In Schools Pilot Program.",
+      "summary": "This bill amends Delaware's existing pilot program for using artificial intelligence and extended reality technologies in schools. It appears to refine or update the program's rules without imposing outright bans or restrictions.",
+      "stage": "Floor",
+      "stance": "review",
+      "impactTags": [
+        "ai-in-education"
+      ],
+      "category": "ai-education",
+      "updatedDate": "2026-06-30",
+      "partyOrigin": "B",
+      "sourceUrl": "https://legis.delaware.gov/BillDetail?LegislationId=143513",
+      "legiscanUrl": "https://legiscan.com/DE/bill/HB404/2025",
+      "legiscanId": 2148684,
+      "sponsors": [
+        "Jeff Hilovsky",
+        "Eric Buckson",
+        "Daniel Short",
+        "Kamela Smith"
+      ]
+    },
+    {
+      "id": "de-hb453",
+      "billCode": "HB453",
+      "title": "An Act To Amend Title 6 Of The Delaware Code Relating To Consumer Protection And Surveillance Based Pricing Discrimination.",
+      "summary": "This bill adds consumer protections against 'surveillance-based pricing discrimination,' which is when companies use personal data collected about individuals to charge them different prices. It restricts businesses from using personal surveillance data to set individualized prices without consumer consent or disclosure.",
+      "stage": "Filed",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "restrictive"
+      },
+      "impactTags": [
+        "data-privacy",
+        "algorithmic-transparency"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-06-25",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legis.delaware.gov/BillDetail?LegislationId=143615",
+      "legiscanUrl": "https://legiscan.com/DE/bill/HB453/2025",
+      "legiscanId": 2153030,
+      "sponsors": [
+        "Nnamdi Chukwuocha",
+        "Spiros Mantzavinos",
+        "Alonna Berry",
+        "Larry Lambert"
+      ]
+    },
+    {
+      "id": "de-sb312",
+      "billCode": "SB312",
+      "title": "An Act To Amend Title 9, Title 22, And Title 29 Of The Delaware Code Relating To Data Centers.",
+      "summary": "This Delaware bill amends state law governing how and where data centers can be built, likely adding new siting rules, zoning requirements, or oversight processes. It touches county, municipal, and state-level authority over data center development.",
+      "stage": "Floor",
+      "stance": "concerning",
+      "dimensionStances": {
+        "environmental": "review",
+        "community": "concerning",
+        "land-use": "concerning"
+      },
+      "impactTags": [
+        "local-zoning",
+        "local-control",
+        "environmental-review",
+        "residential-proximity"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-06-24",
+      "partyOrigin": "B",
+      "sourceUrl": "https://legis.delaware.gov/BillDetail?LegislationId=143259",
+      "legiscanUrl": "https://legiscan.com/DE/bill/SB312/2025",
+      "legiscanId": 2149136,
+      "sponsors": [
+        "Nicole Poore",
+        "Frank Burns",
+        "Debra Heffernan",
+        "Melissa Minor-Brown"
+      ]
+    },
+    {
+      "id": "de-sb308",
+      "billCode": "SB308",
+      "title": "An Act To Amend Title 26 Of The Delaware Code Relating To The Load Forecast Accountability Act.",
+      "summary": "This bill amends Delaware's Load Forecast Accountability Act to strengthen oversight of electricity demand projections. The changes likely enhance utilities' responsibility for accurately forecasting power needs, which is relevant to planning for large energy consumers like data centers.",
+      "stage": "Floor",
+      "stance": "review",
+      "impactTags": [
+        "grid-capacity",
+        "energy-rates"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-06-23",
+      "partyOrigin": "B",
+      "sourceUrl": "https://legis.delaware.gov/BillDetail?LegislationId=143252",
+      "legiscanUrl": "https://legiscan.com/DE/bill/SB308/2025",
+      "legiscanId": 2148665,
+      "sponsors": [
+        "Stephanie Hansen",
+        "Frank Burns",
+        "Charles Paradee",
+        "Bryant Richardson"
+      ]
+    },
+    {
+      "id": "de-hb380",
+      "billCode": "HB380",
+      "title": "An Act To Amend Title 6 Of The Delaware Code Relating To Personal Data Privacy.",
+      "summary": "This bill updates Delaware's personal data privacy law to strengthen protections for consumers over how their data is collected and used. It places new requirements or restrictions on businesses that handle personal data.",
+      "stage": "Floor",
+      "stance": "concerning",
       "impactTags": [
         "data-privacy"
       ],
       "category": "data-privacy",
-      "updatedDate": "2026-03-19",
-      "partyOrigin": "B",
-      "sourceUrl": "https://legis.delaware.gov/BillDetail?LegislationId=142647",
-      "legiscanUrl": "https://legiscan.com/DE/bill/HB231/2025",
-      "legiscanId": 2038528,
+      "updatedDate": "2026-06-16",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legis.delaware.gov/BillDetail?LegislationId=143105",
+      "legiscanUrl": "https://legiscan.com/DE/bill/HB380/2025",
+      "legiscanId": 2143650,
       "sponsors": [
-        "Kamela Smith",
-        "Russ Huxtable",
-        "Nnamdi Chukwuocha",
-        "Kendra Johnson"
+        "Krista Griffith",
+        "Kerri Harris",
+        "William Bush",
+        "Mara Gorman"
+      ]
+    },
+    {
+      "id": "de-hb191",
+      "billCode": "HB191",
+      "title": "An Act To Amend Title 24 Of The Delaware Code Relating To Medical Professionals, Titles, And Nonhuman Entities.",
+      "summary": "This bill amends Delaware medical licensing law to address the use of nonhuman entities (including AI) in medical practice, establishing requirements around titles, credentials, and oversight of AI-assisted or AI-delivered medical services. The legislation aims to ensure transparency and regulatory control over how artificial intelligence is deployed in healthcare settings.",
+      "stage": "Enacted",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "review",
+        "ai-public": "review"
+      },
+      "impactTags": [
+        "ai-in-healthcare",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-healthcare",
+      "updatedDate": "2026-04-23",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legis.delaware.gov/BillDetail?LegislationId=142752",
+      "legiscanUrl": "https://legiscan.com/DE/bill/HB191/2025",
+      "legiscanId": 2068382,
+      "sponsors": [
+        "Melissa Minor-Brown",
+        "Cyndie Romer",
+        "Krista Griffith",
+        "Edward Osienski"
+      ]
+    },
+    {
+      "id": "de-sb194",
+      "billCode": "SB194",
+      "title": "An Act To Amend Title 19 Of The Delaware Code Relating To Warehouse Worker Protections.",
+      "summary": "This bill updates Delaware labor law to add protections for warehouse workers, likely addressing automated work quotas or algorithmic management systems. It aims to regulate how technology-driven performance tracking affects workers in warehouse and distribution settings.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "impactTags": [
+        "ai-in-employment"
+      ],
+      "category": "ai-workforce",
+      "updatedDate": "2026-04-16",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legis.delaware.gov/BillDetail?LegislationId=142621",
+      "legiscanUrl": "https://legiscan.com/DE/bill/SB194/2025",
+      "legiscanId": 2038040,
+      "sponsors": [
+        "Nicole Poore",
+        "Eric Morrison",
+        "Elizabeth Lockman",
+        "Edward Osienski"
       ]
     },
     {
       "id": "de-hjr7",
       "billCode": "HJR7",
       "title": "Directing The Artificial Intelligence Commission To Work In Collaboration With The Secretary Of State To Create A Regulatory Sandbox Framework For The Testing Of Innovative And Novel Technologies That Utilize Agentic Artificial Intelligence.",
-      "summary": "This resolution directs Delaware's AI Commission to work with the Secretary of State to design a regulatory sandbox \u2014 a controlled testing environment \u2014 for new technologies that use agentic AI, which can act autonomously to complete tasks. It is an exploratory step to study how to safely test and oversee these emerging AI systems without imposing hard restrictions yet.",
+      "summary": "This resolution directs Delaware's AI Commission to partner with the Secretary of State to design a 'regulatory sandbox' — a controlled environment where companies can test cutting-edge AI technologies without facing full regulatory requirements. It is an exploratory step to understand and shape how advanced, autonomous AI systems might be safely developed and used.",
       "stage": "Enacted",
       "stance": "review",
       "impactTags": [
@@ -56,215 +291,21 @@
       ]
     },
     {
-      "id": "de-scr86",
-      "billCode": "SCR86",
-      "title": "Designating May 15, 2025, As Tuberous Sclerosis Complex Awareness Day In Delaware.",
-      "summary": "This bill designates a day to raise awareness about Tuberous Sclerosis Complex, a rare genetic disorder. It has no relevance to AI or data-center policy.",
+      "id": "de-sr14",
+      "billCode": "SR14",
+      "title": "Requesting That The Department Of Education Review And Provide Recommendations Regarding The Kindergarten Readiness Data Collection Process.",
+      "summary": "This resolution requests the Delaware Department of Education to review and make recommendations about how kindergarten readiness data is collected and used. The bill does not specifically address AI systems or algorithms but initiates an exploratory review of educational data practices.",
       "stage": "Floor",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2025-06-10",
-      "partyOrigin": "B",
-      "sourceUrl": "https://legis.delaware.gov/BillDetail?LegislationId=142195",
-      "legiscanUrl": "https://legiscan.com/DE/bill/SCR86/2025",
-      "legiscanId": 2036641,
-      "sponsors": [
-        "Kyra Hoffner",
-        "Melanie Ross Levin",
-        "Gerald Hocker",
-        "Russ Huxtable"
-      ]
-    },
-    {
-      "id": "de-sb122",
-      "billCode": "SB122",
-      "title": "An Act To Amend Titles 16 And 29 Of The Delaware Code Relating To Health Care Workforce Planning.",
-      "summary": "This bill deals with health care workforce planning in Delaware, amending state code related to health care staffing and workforce development. It does not appear to address AI or data-center policy.",
-      "stage": "Enacted",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-healthcare",
-      "updatedDate": "2025-09-03",
-      "partyOrigin": "B",
-      "sourceUrl": "https://legis.delaware.gov/BillDetail?LegislationId=142169",
-      "legiscanUrl": "https://legiscan.com/DE/bill/SB122/2025",
-      "legiscanId": 2027923,
-      "sponsors": [
-        "Russ Huxtable",
-        "Kamela Smith",
-        "Eric Buckson",
-        "Stephanie Hansen"
-      ]
-    },
-    {
-      "id": "de-hb29",
-      "billCode": "HB29",
-      "title": "An Act To Amend Title 14 Of The Delaware Code Relating To Delaware Public Education Profiles.",
-      "summary": "This bill amends Delaware's public education profiles law, which relates to school reporting and data. It does not appear to address AI or data-center policy in any substantive way.",
-      "stage": "Enacted",
-      "stance": "none",
+      "stance": "review",
       "impactTags": [],
       "category": "ai-education",
-      "updatedDate": "2025-09-02",
-      "partyOrigin": "B",
-      "sourceUrl": "https://legis.delaware.gov/BillDetail?LegislationId=141734",
-      "legiscanUrl": "https://legiscan.com/DE/bill/HB29/2025",
-      "legiscanId": 1898136,
-      "sponsors": [
-        "Bryan Shupe",
-        "Eric Buckson",
-        "Jeff Hilovsky",
-        "Eric Morrison"
-      ]
-    },
-    {
-      "id": "de-hb300",
-      "billCode": "HB300",
-      "title": "An Act To Amend Title 14 Of The Delaware Code Relating To The Establishment Of A Title Ix Coordinator Within The Department Of Education.",
-      "summary": "This bill establishes a Title IX Coordinator within the Delaware Department of Education to handle gender equity and civil rights compliance. It has no connection to AI or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-education",
-      "updatedDate": "2026-03-05",
-      "partyOrigin": "B",
-      "sourceUrl": "https://legis.delaware.gov/BillDetail?LegislationId=142890",
-      "legiscanUrl": "https://legiscan.com/DE/bill/HB300/2025",
-      "legiscanId": 2129795,
-      "sponsors": [
-        "Melanie Ross Levin",
-        "Laura Sturgeon",
-        "Alonna Berry",
-        "Mara Gorman"
-      ]
-    },
-    {
-      "id": "de-hb163",
-      "billCode": "HB163",
-      "title": "An Act To Amend Title 29 Of The Delaware Code Relating To The Delaware Diabetes Wellness Pilot Program Within The Department Of Human Resources To Study Prediabetic And Diabetic Well Care.",
-      "summary": "This bill establishes a pilot wellness program for state employees with diabetes or prediabetes. It has no connection to AI or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-healthcare",
-      "updatedDate": "2025-06-05",
-      "partyOrigin": "B",
-      "sourceUrl": "https://legis.delaware.gov/BillDetail?LegislationId=142443",
-      "legiscanUrl": "https://legiscan.com/DE/bill/HB163/2025",
-      "legiscanId": 2031577,
-      "sponsors": [
-        "Jeff Hilovsky",
-        "Brian Pettyjohn",
-        "Raymond Seigfried",
-        "David Sokola"
-      ]
-    },
-    {
-      "id": "de-sb194",
-      "billCode": "SB194",
-      "title": "An Act To Amend Title 19 Of The Delaware Code Relating To Warehouse Worker Protections.",
-      "summary": "This bill updates Delaware labor law to add protections for warehouse workers, likely addressing automated work quotas or algorithmic management systems. It aims to regulate how technology-driven performance tracking affects workers in warehouse and distribution settings.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "impactTags": [
-        "ai-in-employment"
-      ],
-      "category": "ai-workforce",
-      "updatedDate": "2025-06-24",
+      "updatedDate": "2025-06-25",
       "partyOrigin": "D",
-      "sourceUrl": "https://legis.delaware.gov/BillDetail?LegislationId=142621",
-      "legiscanUrl": "https://legiscan.com/DE/bill/SB194/2025",
-      "legiscanId": 2038040,
+      "sourceUrl": "https://legis.delaware.gov/BillDetail?LegislationId=142596",
+      "legiscanUrl": "https://legiscan.com/DE/bill/SR14/2025",
+      "legiscanId": 2038201,
       "sponsors": [
-        "Nicole Poore",
-        "Eric Morrison",
-        "Elizabeth Lockman",
-        "Edward Osienski"
-      ]
-    },
-    {
-      "id": "de-sb202",
-      "billCode": "SB202",
-      "title": "An Act To Amend Title 9 Of The Delaware Code Relating To County Property Tax Data.",
-      "summary": "This bill amends Delaware's county property tax data rules and is not related to AI or data-center policy. It deals with local government property tax administration.",
-      "stage": "Enacted",
-      "stance": "none",
-      "impactTags": [],
-      "category": "data-privacy",
-      "updatedDate": "2025-08-13",
-      "partyOrigin": "D",
-      "sourceUrl": "https://legis.delaware.gov/BillDetail?LegislationId=142705",
-      "legiscanUrl": "https://legiscan.com/DE/bill/SB202/2025",
-      "legiscanId": 2041654,
-      "sponsors": [
-        "Kyra Hoffner",
-        "Raymond Seigfried",
-        "David Sokola",
-        "Bryan Townsend"
-      ]
-    },
-    {
-      "id": "de-hb156",
-      "billCode": "HB156",
-      "title": "An Act To Amend Title 16 Of The Delaware Code Relating To The Healthcare Associated Infections Disclosure Act.",
-      "summary": "This bill amends Delaware's Healthcare Associated Infections Disclosure Act, which deals with reporting hospital infection data. It has no relevance to AI regulation or data-center policy.",
-      "stage": "Enacted",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-healthcare",
-      "updatedDate": "2025-08-25",
-      "partyOrigin": "D",
-      "sourceUrl": "https://legis.delaware.gov/BillDetail?LegislationId=142228",
-      "legiscanUrl": "https://legiscan.com/DE/bill/HB156/2025",
-      "legiscanId": 2029644,
-      "sponsors": [
-        "Frank Burns",
-        "Raymond Seigfried",
-        "Nnamdi Chukwuocha",
-        "Kendra Johnson"
-      ]
-    },
-    {
-      "id": "de-hb305",
-      "billCode": "HB305",
-      "title": "An Act To Amend Title 16 Of The Delaware Code Relating To The Delaware Diabetes Wellness Pilot Program Within The Department Of Health And Social Services To Study Diabetic Well Care.",
-      "summary": "This bill amends Delaware's Diabetes Wellness Pilot Program to study diabetic well care. It has no relevance to AI regulation or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-healthcare",
-      "updatedDate": "2026-03-05",
-      "partyOrigin": "B",
-      "sourceUrl": "https://legis.delaware.gov/BillDetail?LegislationId=142889",
-      "legiscanUrl": "https://legiscan.com/DE/bill/HB305/2025",
-      "legiscanId": 2129674,
-      "sponsors": [
-        "Jeff Hilovsky",
-        "Alonna Berry",
-        "Frank Burns",
-        "Raymond Seigfried"
-      ]
-    },
-    {
-      "id": "de-hr14",
-      "billCode": "HR14",
-      "title": "Directing The Department Of Health And Social Services To Prepare Reports On Demographic Data In Early Child Care And Education Populations.",
-      "summary": "This bill directs Delaware's Department of Health and Social Services to prepare reports on demographic data related to early childhood care and education. It has no substantive connection to AI or data-center policy.",
-      "stage": "Floor",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-education",
-      "updatedDate": "2025-06-24",
-      "partyOrigin": "D",
-      "sourceUrl": "https://legis.delaware.gov/BillDetail?LegislationId=142420",
-      "legiscanUrl": "https://legiscan.com/DE/bill/HR14/2025",
-      "legiscanId": 2035565,
-      "sponsors": [
-        "Cyndie Romer",
-        "Stephanie Bolden",
-        "DeShanna Neal",
-        "Melanie Ross Levin"
+        "Laura Sturgeon"
       ]
     }
   ]

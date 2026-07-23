@@ -1,0 +1,57 @@
+{
+  "NY": [
+    {
+      "id": "ny-eo-62",
+      "billCode": "EO 62",
+      "title": "Establishes a temporary statewide moratorium on new hyperscale data centers while New York develops higher standards and a community benefits framework",
+      "summary": "Executive Order 62 pauses pending and new discretionary state environmental permits for data centers of 50 MW or more while regulators complete a statewide environmental review, for up to one year. It also directs work on ratepayer protections, grid investment, water safeguards, and a community investment framework; completed applications and local permits are not covered by the pause.",
+      "stage": "Enacted",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "environmental": "restrictive",
+        "energy": "restrictive",
+        "community": "concerning",
+        "land-use": "restrictive"
+      },
+      "impactTags": [
+        "environmental-review",
+        "grid-capacity",
+        "energy-rates",
+        "water-consumption",
+        "local-control"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-07-14",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.governor.ny.gov/executive-order/no-62-establishing-temporary-moratorium-data-centers-new-york-while-state-develops"
+    }
+  ],
+  "MI": [
+    {
+      "id": "mi-affordable-responsible-growth-plan-2026",
+      "billCode": "Executive Plan",
+      "title": "Launches the Michigan Affordable and Responsible Growth Action Plan for data centers",
+      "summary": "The governor's action plan sets guardrails intended to keep data-center infrastructure costs off residential ratepayers, protect grid reliability and water resources, expand clean energy, and secure jobs and community benefits. It calls on lawmakers to codify the protections; six major technology companies separately signed a voluntary pledge supporting the framework.",
+      "stage": "Enacted",
+      "stance": "review",
+      "dimensionStances": {
+        "environmental": "review",
+        "energy": "concerning",
+        "community": "review",
+        "land-use": "review"
+      },
+      "impactTags": [
+        "energy-rates",
+        "grid-capacity",
+        "water-consumption",
+        "renewable-energy",
+        "job-creation",
+        "local-control"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-07-16",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.michigan.gov/whitmer/news/press-releases/2026/07/15/gov-whitmer-data"
+    }
+  ]
+}

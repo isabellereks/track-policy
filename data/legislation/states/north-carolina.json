@@ -3,60 +3,316 @@
   "stateCode": "NC",
   "region": "na",
   "stance": "restrictive",
-  "stanceDatacenter": "review",
+  "stanceDatacenter": "concerning",
   "stanceAI": "restrictive",
-  "lastUpdated": "2026-04-14",
-  "contextBlurb": "North Carolina has no enacted AI or data-center law. Pending bills would protect ratepayers from the cost of serving hyperscalers, ban deceptive AI-generated ads, stand up a state AI innovation trust fund, and direct schools to study how to teach AI.",
+  "lastUpdated": "2026-07-22",
+  "contextBlurb": "North Carolina is advancing regulation on data centers and leaning restrictive on AI. On data centers: S730 (in committee) — Aims to protect utility customers from bearing the costs of large energy consumers, such as data centers, connecting to the electrical grid. On AI: H805 (enacted) — Aims to prevent the sexual exploitation of women and minors, likely including provisions targeting AI-generated or synthetic sexual content.",
   "legislation": [
     {
-      "id": "nc-s133",
-      "billCode": "S133",
-      "title": "NCCCS LMS/NCLDS",
-      "summary": "This bill appears to relate to the North Carolina Community College System's Learning Management System and the NC Longitudinal Data System, which are educational data infrastructure tools. It does not substantively address AI regulation or data-center policy.",
-      "stage": "Enacted",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-education",
-      "updatedDate": "2025-07-03",
+      "id": "nc-h301",
+      "billCode": "H301",
+      "title": "Social Media & AI Safety",
+      "summary": "This bill establishes safety requirements for social media platforms and AI systems, with focus on protecting children and ensuring algorithmic accountability. It imposes mandatory safeguards and transparency measures for AI-driven content moderation and recommendation systems.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "restrictive"
+      },
+      "impactTags": [
+        "child-safety",
+        "algorithmic-transparency",
+        "ai-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-06-24",
       "partyOrigin": "R",
-      "sourceUrl": "https://www.ncleg.gov/BillLookUp/2025/S133",
-      "legiscanUrl": "https://legiscan.com/NC/bill/S133/2025",
-      "legiscanId": 1979362,
+      "sourceUrl": "https://www.ncleg.gov/BillLookUp/2025/H301",
+      "legiscanUrl": "https://legiscan.com/NC/bill/H301/2025",
+      "legiscanId": 1991722,
       "sponsors": [
-        "Michael Lee",
-        "Brad Overcash",
-        "Kevin Corbin",
-        "Amy Galey"
+        "Jeff Zenger",
+        "Neal Jackson",
+        "Jonathan Almond",
+        "David Willis"
       ]
     },
     {
-      "id": "nc-s747",
-      "billCode": "S747",
-      "title": "AI Learning Agenda",
-      "summary": "This bill establishes a learning agenda focused on artificial intelligence in North Carolina schools. It likely involves studying or planning how AI tools and concepts should be integrated into education.",
+      "id": "nc-h565",
+      "billCode": "H565",
+      "title": "Limit Use of AI Medicaid/Commercial Insurance",
+      "summary": "This bill restricts the use of artificial intelligence in Medicaid and commercial insurance decision-making, likely requiring transparency and oversight of algorithmic insurance determinations. It aims to prevent biased or opaque AI systems from denying or limiting patient coverage.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-public": "restrictive"
+      },
+      "impactTags": [
+        "ai-in-healthcare",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-healthcare",
+      "updatedDate": "2026-06-23",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.ncleg.gov/BillLookUp/2025/H565",
+      "legiscanUrl": "https://legiscan.com/NC/bill/H565/2025",
+      "legiscanId": 2015954,
+      "sponsors": [
+        "Timothy Reeder",
+        "Larry Potts",
+        "Phillip Shepard",
+        "Cody Huneycutt"
+      ]
+    },
+    {
+      "id": "nc-s730",
+      "billCode": "S730",
+      "title": "Ratepayer Protection Act",
+      "summary": "This bill aims to protect utility customers from bearing the costs of large energy consumers, such as data centers, connecting to the electrical grid. It likely places restrictions or requirements on how utilities recover costs associated with serving high-demand customers like AI data centers.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "impactTags": [
+        "energy-rates",
+        "grid-capacity"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-06-08",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.ncleg.gov/BillLookUp/2025/S730",
+      "legiscanUrl": "https://legiscan.com/NC/bill/S730/2025",
+      "legiscanId": 2014064,
+      "sponsors": [
+        "Steve Jarvis",
+        "Buck Newton"
+      ]
+    },
+    {
+      "id": "nc-s981",
+      "billCode": "S981",
+      "title": "AI in Ed Task Force and Standards",
+      "summary": "This bill establishes a task force to study the use of AI in North Carolina's education system and develop standards for its implementation. The task force will explore opportunities and risks associated with AI in schools without imposing immediate restrictions.",
       "stage": "Committee",
       "stance": "review",
       "impactTags": [
         "ai-in-education"
       ],
       "category": "ai-education",
-      "updatedDate": "2025-03-25",
+      "updatedDate": "2026-05-05",
       "partyOrigin": "D",
-      "sourceUrl": "https://www.ncleg.gov/BillLookUp/2025/S747",
-      "legiscanUrl": "https://legiscan.com/NC/bill/S747/2025",
-      "legiscanId": 2014434,
+      "sourceUrl": "https://www.ncleg.gov/BillLookUp/2025/S981",
+      "legiscanUrl": "https://legiscan.com/NC/bill/S981/2025",
+      "legiscanId": 2146834,
       "sponsors": [
+        "Natalie Murdock",
         "DeAndrea Salvador",
-        "Val Applewhite",
+        "Kandie Smith",
+        "Joyce Waddell"
+      ]
+    },
+    {
+      "id": "nc-s976",
+      "billCode": "S976",
+      "title": "Reduce Healthcare Costs & Protect Patients",
+      "summary": "This bill addresses healthcare cost reduction and patient protection, likely including provisions related to how healthcare providers use algorithms and AI in medical decisions and patient data handling. Without the full text, the specific AI governance mechanisms cannot be fully assessed.",
+      "stage": "Committee",
+      "stance": "review",
+      "dimensionStances": {
+        "ai-consumer": "none",
+        "ai-public": "review"
+      },
+      "impactTags": [
+        "ai-in-healthcare",
+        "data-privacy"
+      ],
+      "category": "ai-healthcare",
+      "updatedDate": "2026-05-05",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.ncleg.gov/BillLookUp/2025/S976",
+      "legiscanUrl": "https://legiscan.com/NC/bill/S976/2025",
+      "legiscanId": 2146790,
+      "sponsors": [
+        "Lisa Grafstein",
+        "Natalie Murdock",
+        "Kandie Smith"
+      ]
+    },
+    {
+      "id": "nc-h1180",
+      "billCode": "H1180",
+      "title": "Data Center Amendments",
+      "summary": "This bill modifies existing rules around data centers in North Carolina, likely adjusting requirements or incentives related to their construction and operation. It appears to support data center development by updating the regulatory framework governing these facilities.",
+      "stage": "Committee",
+      "stance": "favorable",
+      "dimensionStances": {
+        "community": "none",
+        "land-use": "none"
+      },
+      "impactTags": [
+        "tax-incentives",
+        "economic-development",
+        "local-zoning"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-05-04",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.ncleg.gov/BillLookUp/2025/H1180",
+      "legiscanUrl": "https://legiscan.com/NC/bill/H1180/2025",
+      "legiscanId": 2147107,
+      "sponsors": [
+        "Carolyn Logan",
+        "Laura Budd",
+        "Maria Cervania",
+        "Mary Harrison"
+      ]
+    },
+    {
+      "id": "nc-h1161",
+      "billCode": "H1161",
+      "title": "Omnibus Artificial Intelligence Protections",
+      "summary": "North Carolina's omnibus AI protections bill establishes comprehensive regulatory requirements for artificial intelligence systems, including transparency and accountability measures. The legislation addresses algorithmic decision-making, safety standards, and protections for consumers and children.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "concerning"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "ai-safety",
+        "data-privacy",
+        "child-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-05-04",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.ncleg.gov/BillLookUp/2025/H1161",
+      "legiscanUrl": "https://legiscan.com/NC/bill/H1161/2025",
+      "legiscanId": 2146882,
+      "sponsors": [
+        "Carolyn Logan",
+        "Maria Cervania",
+        "Julia Greenfield",
+        "Zack Forde-Hawkins"
+      ]
+    },
+    {
+      "id": "nc-s1046",
+      "billCode": "S1046",
+      "title": "A.I. in Environmental Permitting",
+      "summary": "This bill addresses the use of artificial intelligence in environmental permitting processes in North Carolina. It establishes requirements for transparency and oversight of AI systems used to make or inform environmental permitting decisions.",
+      "stage": "Committee",
+      "stance": "review",
+      "dimensionStances": {
+        "environmental": "favorable",
+        "ai-governance-dim": "review"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "environmental-review"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-05-04",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.ncleg.gov/BillLookUp/2025/S1046",
+      "legiscanUrl": "https://legiscan.com/NC/bill/S1046/2025",
+      "legiscanId": 2146949,
+      "sponsors": [
+        "Steve Jarvis",
+        "Michael Lee",
+        "Timothy Moffitt"
+      ]
+    },
+    {
+      "id": "nc-s864",
+      "billCode": "S864",
+      "title": "Safe and Responsible AI in Schools Act",
+      "summary": "This bill establishes safety and responsibility requirements for artificial intelligence systems used in North Carolina schools. It mandates transparency and oversight mechanisms to protect students and ensure appropriate use of AI technology in educational settings.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "review",
+        "ai-consumer": "concerning",
+        "ai-public": "concerning"
+      },
+      "impactTags": [
+        "ai-in-education",
+        "child-safety",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-education",
+      "updatedDate": "2026-04-29",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.ncleg.gov/BillLookUp/2025/S864",
+      "legiscanUrl": "https://legiscan.com/NC/bill/S864/2025",
+      "legiscanId": 2146074,
+      "sponsors": [
+        "Dana Jones",
         "Woodson Bradley",
-        "Natalie Murdock"
+        "Jim Burgin",
+        "Norman Sanderson"
+      ]
+    },
+    {
+      "id": "nc-h1063",
+      "billCode": "H1063",
+      "title": "Ratepayer and Resource Protection Act",
+      "summary": "This bill appears to establish protections for utility ratepayers and energy resources in North Carolina, likely addressing how large energy consumers like data centers affect electricity costs and grid stability. It would impose requirements or restrictions to ensure that regular customers are not burdened by the energy demands of large industrial users.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "environmental": "none",
+        "energy": "concerning"
+      },
+      "impactTags": [
+        "grid-capacity",
+        "energy-rates",
+        "carbon-emissions"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-04-28",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.ncleg.gov/BillLookUp/2025/H1063",
+      "legiscanUrl": "https://legiscan.com/NC/bill/H1063/2025",
+      "legiscanId": 2145872,
+      "sponsors": [
+        "Lindsey Prather",
+        "Monika Johnson-Hostler",
+        "Tim Longest",
+        "Beth Helfrich"
+      ]
+    },
+    {
+      "id": "nc-s844",
+      "billCode": "S844",
+      "title": "Affordable Energy Omnibus",
+      "summary": "This North Carolina bill is a broad energy package aimed at keeping electricity costs affordable for residents and businesses. It likely addresses utility rates, grid management, and energy supply policies that would affect data centers and other large power consumers.",
+      "stage": "Committee",
+      "stance": "favorable",
+      "dimensionStances": {
+        "environmental": "none",
+        "energy": "none"
+      },
+      "impactTags": [
+        "energy-rates",
+        "grid-capacity",
+        "renewable-energy"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-04-28",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.ncleg.gov/BillLookUp/2025/S844",
+      "legiscanUrl": "https://legiscan.com/NC/bill/S844/2025",
+      "legiscanId": 2145817,
+      "sponsors": [
+        "Woodson Bradley"
       ]
     },
     {
       "id": "nc-h805",
       "billCode": "H805",
       "title": "Prevent Sexual Exploitation/Women and Minors",
-      "summary": "This bill aims to prevent the sexual exploitation of women and minors, likely addressing non-consensual synthetic or digital media used for exploitation. It establishes prohibitions or penalties related to such content.",
+      "summary": "This bill aims to prevent the sexual exploitation of women and minors, likely including provisions targeting AI-generated or synthetic sexual content. It establishes prohibitions to protect vulnerable individuals from exploitation through digital or other means.",
       "stage": "Enacted",
       "stance": "restrictive",
       "dimensionStances": {
@@ -81,10 +337,34 @@
       ]
     },
     {
+      "id": "nc-h934",
+      "billCode": "H934",
+      "title": "AI Regulatory Reform Act",
+      "summary": "This bill establishes a framework for reforming how artificial intelligence is regulated in North Carolina. It likely creates guidelines, standards, or oversight processes to ensure AI is developed and used responsibly.",
+      "stage": "Committee",
+      "stance": "review",
+      "impactTags": [
+        "algorithmic-transparency",
+        "ai-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-05-06",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.ncleg.gov/BillLookUp/2025/H934",
+      "legiscanUrl": "https://legiscan.com/NC/bill/H934/2025",
+      "legiscanId": 2022736,
+      "sponsors": [
+        "Jake Johnson",
+        "Jeff Zenger",
+        "Zack Forde-Hawkins",
+        "Vernetta Alston"
+      ]
+    },
+    {
       "id": "nc-h1002",
       "billCode": "H1002",
       "title": "Rate Payer Protection Act",
-      "summary": "This bill aims to protect North Carolina utility ratepayers, likely by limiting how costs from large energy consumers like data centers are passed on to regular customers. It addresses concerns about electricity rate increases driven by surging power demand from data centers and AI facilities.",
+      "summary": "This bill aims to protect North Carolina utility customers from bearing the costs of large energy consumers, such as data centers, on their electricity bills. It would place restrictions or requirements on how utilities can pass infrastructure costs onto regular ratepayers.",
       "stage": "Committee",
       "stance": "concerning",
       "impactTags": [
@@ -92,7 +372,7 @@
         "grid-capacity"
       ],
       "category": "data-center-energy",
-      "updatedDate": "2025-04-10",
+      "updatedDate": "2025-04-14",
       "partyOrigin": "B",
       "sourceUrl": "https://www.ncleg.gov/BillLookUp/2025/H1002",
       "legiscanUrl": "https://legiscan.com/NC/bill/H1002/2025",
@@ -105,52 +385,34 @@
       ]
     },
     {
-      "id": "nc-h698",
-      "billCode": "H698",
-      "title": "Center for Missing Persons to Highway Patrol",
-      "summary": "This bill transfers the Center for Missing Persons to the Highway Patrol division. It has no substantive connection to AI regulation or data-center policy.",
+      "id": "nc-h1004",
+      "billCode": "H1004",
+      "title": "UNC AI & Technology Hubs",
+      "summary": "This bill establishes AI and technology hubs within the University of North Carolina system to advance research, innovation, and workforce development in artificial intelligence and related fields. The initiative provides support and resources to build regional AI capabilities and create economic opportunities.",
       "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-government",
-      "updatedDate": "2025-05-08",
-      "partyOrigin": "R",
-      "sourceUrl": "https://www.ncleg.gov/BillLookUp/2025/H698",
-      "legiscanUrl": "https://legiscan.com/NC/bill/H698/2025",
-      "legiscanId": 2018701,
-      "sponsors": [
-        "Charles Miller",
-        "Reece Pyrtle",
-        "Donnie Loftis",
-        "Ben Moss"
-      ]
-    },
-    {
-      "id": "nc-h819",
-      "billCode": "H819",
-      "title": "DIT Agency Bill",
-      "summary": "This bill appears to be a general administrative or agency bill related to the North Carolina Department of Information Technology. Without specific AI or data-center policy provisions, it does not substantively address AI regulation or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-government",
-      "updatedDate": "2025-06-25",
+      "stance": "favorable",
+      "impactTags": [
+        "job-creation",
+        "economic-development"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-04-14",
       "partyOrigin": "B",
-      "sourceUrl": "https://www.ncleg.gov/BillLookUp/2025/H819",
-      "legiscanUrl": "https://legiscan.com/NC/bill/H819/2025",
-      "legiscanId": 2021202,
+      "sourceUrl": "https://www.ncleg.gov/BillLookUp/2025/H1004",
+      "legiscanUrl": "https://legiscan.com/NC/bill/H1004/2025",
+      "legiscanId": 2022881,
       "sponsors": [
-        "Jake Johnson",
-        "Hugh Blackwell",
         "Zack Forde-Hawkins",
-        "Matthew Winslow"
+        "Jarrod Lowery",
+        "Robert Reives",
+        "Eric Ager"
       ]
     },
     {
       "id": "nc-h638",
       "billCode": "H638",
       "title": "Equit. Escalation of Electricity Demand Act",
-      "summary": "This bill addresses how rapidly growing electricity demand \u2014 likely from data centers and AI facilities \u2014 is managed and paid for on North Carolina's power grid. It aims to ensure that the costs of expanding grid capacity are distributed fairly among those driving the increased demand rather than spread to all ratepayers.",
+      "summary": "This bill addresses how large increases in electricity demand — such as from data centers — are managed on the power grid in North Carolina. It aims to ensure that the costs of accommodating major new electricity users are distributed fairly among ratepayers rather than being subsidized by existing customers.",
       "stage": "Committee",
       "stance": "concerning",
       "impactTags": [
@@ -159,7 +421,7 @@
         "tax-incentives"
       ],
       "category": "data-center-energy",
-      "updatedDate": "2025-04-01",
+      "updatedDate": "2025-04-02",
       "partyOrigin": "R",
       "sourceUrl": "https://www.ncleg.gov/BillLookUp/2025/H638",
       "legiscanUrl": "https://legiscan.com/NC/bill/H638/2025",
@@ -172,46 +434,26 @@
       ]
     },
     {
-      "id": "nc-s509",
-      "billCode": "S509",
-      "title": "Health Information Exchange Act Revisions",
-      "summary": "This bill revises North Carolina's Health Information Exchange Act, which governs how patient health data is shared among healthcare providers. It does not appear to specifically address AI or data-center policy.",
+      "id": "nc-s747",
+      "billCode": "S747",
+      "title": "AI Learning Agenda",
+      "summary": "This bill establishes a learning agenda focused on artificial intelligence in North Carolina schools. It likely directs a study or planning effort to guide how AI is taught or used in educational settings.",
       "stage": "Committee",
-      "stance": "none",
+      "stance": "review",
       "impactTags": [
-        "data-privacy"
+        "ai-in-education"
       ],
-      "category": "ai-healthcare",
-      "updatedDate": "2025-03-25",
-      "partyOrigin": "B",
-      "sourceUrl": "https://www.ncleg.gov/BillLookUp/2025/S509",
-      "legiscanUrl": "https://legiscan.com/NC/bill/S509/2025",
-      "legiscanId": 2013869,
+      "category": "ai-education",
+      "updatedDate": "2025-03-26",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.ncleg.gov/BillLookUp/2025/S747",
+      "legiscanUrl": "https://legiscan.com/NC/bill/S747/2025",
+      "legiscanId": 2014434,
       "sponsors": [
-        "Ralph Hise",
-        "Jim Burgin",
-        "Gale Adcock"
-      ]
-    },
-    {
-      "id": "nc-h74",
-      "billCode": "H74",
-      "title": "House Budget Technical Corrections",
-      "summary": "This bill makes technical corrections to the state budget and is not related to AI or data-center policy. It does not contain substantive provisions relevant to AI regulation or data-center oversight.",
-      "stage": "Enacted",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2025-05-15",
-      "partyOrigin": "R",
-      "sourceUrl": "https://www.ncleg.gov/BillLookUp/2025/H74",
-      "legiscanUrl": "https://legiscan.com/NC/bill/H74/2025",
-      "legiscanId": 1963467,
-      "sponsors": [
-        "Donny Lambeth",
-        "Dean Arp",
-        "Larry Strickland",
-        "Kyle Hall"
+        "DeAndrea Salvador",
+        "Val Applewhite",
+        "Woodson Bradley",
+        "Natalie Murdock"
       ]
     },
     {
@@ -226,7 +468,7 @@
         "ai-safety"
       ],
       "category": "ai-governance",
-      "updatedDate": "2025-03-25",
+      "updatedDate": "2025-03-26",
       "partyOrigin": "D",
       "sourceUrl": "https://www.ncleg.gov/BillLookUp/2025/S735",
       "legiscanUrl": "https://legiscan.com/NC/bill/S735/2025",
@@ -236,6 +478,32 @@
         "Michael Garrett",
         "Natalie Murdock",
         "Val Applewhite"
+      ]
+    },
+    {
+      "id": "nc-s624",
+      "billCode": "S624",
+      "title": "AI Chatbots - Licensing/Safety/Privacy",
+      "summary": "This bill establishes licensing requirements and safety/privacy standards for AI chatbots operating in North Carolina. It creates enforceable regulations to govern chatbot transparency, data handling, and operational safety.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "restrictive"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "ai-safety",
+        "data-privacy"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2025-03-26",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.ncleg.gov/BillLookUp/2025/S624",
+      "legiscanUrl": "https://legiscan.com/NC/bill/S624/2025",
+      "legiscanId": 2014322,
+      "sponsors": [
+        "Jim Burgin"
       ]
     },
     {
@@ -254,7 +522,7 @@
         "algorithmic-transparency"
       ],
       "category": "synthetic-media",
-      "updatedDate": "2025-03-11",
+      "updatedDate": "2025-03-13",
       "partyOrigin": "B",
       "sourceUrl": "https://www.ncleg.gov/BillLookUp/2025/H375",
       "legiscanUrl": "https://legiscan.com/NC/bill/H375/2025",
@@ -264,30 +532,6 @@
         "Robert Davis",
         "Mike Schietzelt",
         "John Blust"
-      ]
-    },
-    {
-      "id": "nc-h934",
-      "billCode": "H934",
-      "title": "AI Regulatory Reform Act",
-      "summary": "This bill establishes a framework for reforming how artificial intelligence is regulated in North Carolina. It likely creates guidelines, standards, or oversight processes to ensure AI is developed and used responsibly.",
-      "stage": "Committee",
-      "stance": "review",
-      "impactTags": [
-        "algorithmic-transparency",
-        "ai-safety"
-      ],
-      "category": "ai-governance",
-      "updatedDate": "2025-04-10",
-      "partyOrigin": "B",
-      "sourceUrl": "https://www.ncleg.gov/BillLookUp/2025/H934",
-      "legiscanUrl": "https://legiscan.com/NC/bill/H934/2025",
-      "legiscanId": 2022736,
-      "sponsors": [
-        "Jake Johnson",
-        "Jeff Zenger",
-        "Zack Forde-Hawkins",
-        "Vernetta Alston"
       ]
     }
   ]

@@ -2,17 +2,340 @@
   "state": "Tennessee",
   "stateCode": "TN",
   "region": "na",
-  "stance": "concerning",
-  "stanceDatacenter": "review",
-  "stanceAI": "concerning",
-  "lastUpdated": "2026-04-14",
-  "contextBlurb": "Tennessee's legislature is grappling with a surge of data center oversight proposals, with multiple bills (including HB2392 and SB2653) pushing for formal environmental and grid-impact review processes before new facilities can site — a notably proactive local-control approach. On AI, activity is narrower, with deepfake election legislation advancing in committee and a school-focused AI governance bill (HB0531) still in early stages. No AI or data center measures have been enacted yet, leaving significant policy questions unresolved as the session continues.",
+  "stance": "restrictive",
+  "stanceDatacenter": "concerning",
+  "stanceAI": "restrictive",
+  "lastUpdated": "2026-07-22",
+  "contextBlurb": "Tennessee is advancing regulation on data centers and leaning restrictive on AI. On data centers: HB1847 (enacted) — This Tennessee law prohibits cities and electric utilities from covering the costs of electrical infrastructure needed to connect data centers to the grid, meaning data centers must pay for those u… On AI: HB1513 (enacted) — Tennessee requires political ads that use deepfakes to show a clear disclaimer, making violations a misdemeanor and allowing candidates to sue for damages.",
   "legislation": [
+    {
+      "id": "tn-sb1700",
+      "billCode": "SB1700",
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 29; Title 37 and Title 47, relative to artificial intelligence.",
+      "summary": "Tennessee requires its advisory commission on intergovernmental relations to study potential regulation of artificial intelligence systems and generative AI chatbots. This exploratory work does not impose immediate restrictions but establishes a foundation for future policy development.",
+      "stage": "Enacted",
+      "stance": "review",
+      "impactTags": [
+        "algorithmic-transparency",
+        "ai-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-05-27",
+      "partyOrigin": "B",
+      "sourceUrl": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=SB1700&ga=114",
+      "legiscanUrl": "https://legiscan.com/TN/bill/SB1700/2025",
+      "legiscanId": 2080645,
+      "sponsors": [
+        "Raumesh Akbari",
+        "Jeff Yarbro",
+        "Heidi Campbell",
+        "Charlane Oliver"
+      ]
+    },
+    {
+      "id": "tn-hb1946",
+      "billCode": "HB1946",
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 29; Title 37 and Title 47, relative to artificial intelligence.",
+      "summary": "Tennessee requires its advisory commission on intergovernmental relations to study how the state should regulate artificial intelligence systems and generative AI chatbots. This is an exploratory effort to inform future regulatory policy rather than imposing immediate restrictions.",
+      "stage": "Enacted",
+      "stance": "review",
+      "impactTags": [
+        "algorithmic-transparency",
+        "ai-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-05-27",
+      "partyOrigin": "D",
+      "sourceUrl": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=HB1946&ga=114",
+      "legiscanUrl": "https://legiscan.com/TN/bill/HB1946/2025",
+      "legiscanId": 2090585,
+      "sponsors": [
+        "Harold Love",
+        "Karen Camper",
+        "Justin Pearson",
+        "John Clemmons"
+      ]
+    },
+    {
+      "id": "tn-hb1455",
+      "billCode": "HB1455",
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 29; Title 33; Title 39 and Title 47, relative to artificial intelligence.",
+      "summary": "Tennessee requires its research commission to study artificial intelligence and report findings to state leadership by January 2027. This exploratory mandate establishes a fact-finding process without imposing immediate restrictions or requirements.",
+      "stage": "Enacted",
+      "stance": "review",
+      "impactTags": [
+        "algorithmic-transparency",
+        "ai-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-05-27",
+      "partyOrigin": "B",
+      "sourceUrl": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=HB1455&ga=114",
+      "legiscanUrl": "https://legiscan.com/TN/bill/HB1455/2025",
+      "legiscanId": 2058694,
+      "sponsors": [
+        "Mary Littleton",
+        "Michele Reneau",
+        "Lowell Russell",
+        "Ryan Williams"
+      ]
+    },
+    {
+      "id": "tn-sb1493",
+      "billCode": "SB1493",
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 29; Title 33; Title 39 and Title 47, relative to artificial intelligence.",
+      "summary": "Tennessee requires a comprehensive study of artificial intelligence across multiple state code sections, with findings and recommendations due to state leadership by January 2027. The study will inform future AI policy and governance frameworks for the state.",
+      "stage": "Enacted",
+      "stance": "review",
+      "impactTags": [
+        "algorithmic-transparency",
+        "ai-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-05-27",
+      "partyOrigin": "R",
+      "sourceUrl": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=SB1493&ga=114",
+      "legiscanUrl": "https://legiscan.com/TN/bill/SB1493/2025",
+      "legiscanId": 2060674,
+      "sponsors": [
+        "Becky Massey",
+        "Ken Yager"
+      ]
+    },
+    {
+      "id": "tn-hb0545",
+      "billCode": "HB0545",
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 49, relative to artificial intelligence.",
+      "summary": "Tennessee requires the state education department to provide free professional development training on classroom AI use for middle and high school teachers, with completion mandated by August 2028 or within two years of licensure. The bill supports educator competency in AI tools rather than restricting their use.",
+      "stage": "Enacted",
+      "stance": "favorable",
+      "impactTags": [
+        "ai-in-education"
+      ],
+      "category": "ai-education",
+      "updatedDate": "2026-05-27",
+      "partyOrigin": "B",
+      "sourceUrl": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=HB0545&ga=114",
+      "legiscanUrl": "https://legiscan.com/TN/bill/HB0545/2025",
+      "legiscanId": 1946783,
+      "sponsors": [
+        "Mark Cochran",
+        "Scott Cepicky",
+        "G.A. Hardaway"
+      ]
+    },
+    {
+      "id": "tn-sb0677",
+      "billCode": "SB0677",
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 49, relative to artificial intelligence.",
+      "summary": "Tennessee requires the state education department to offer free professional development courses on classroom AI use for middle and high school teachers, with mandatory completion by August 2028 or within two years of licensure. The bill promotes educator readiness for AI integration in schools.",
+      "stage": "Enacted",
+      "stance": "favorable",
+      "impactTags": [
+        "ai-in-education"
+      ],
+      "category": "ai-education",
+      "updatedDate": "2026-05-27",
+      "partyOrigin": "B",
+      "sourceUrl": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=SB0677&ga=114",
+      "legiscanUrl": "https://legiscan.com/TN/bill/SB0677/2025",
+      "legiscanId": 1951003,
+      "sponsors": [
+        "Dawn White",
+        "Raumesh Akbari",
+        "London Lamar",
+        "Bo Watson"
+      ]
+    },
+    {
+      "id": "tn-hb1847",
+      "billCode": "HB1847",
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 5; Title 6; Title 7; Title 13 and Title 65, relative to data centers.",
+      "summary": "This Tennessee law prohibits cities and electric utilities from covering the costs of electrical infrastructure needed to connect data centers to the grid, meaning data centers must pay for those upgrades themselves. It shifts financial responsibility away from ratepayers and local governments toward the data center operators.",
+      "stage": "Enacted",
+      "stance": "concerning",
+      "dimensionStances": {
+        "energy": "concerning",
+        "community": "favorable"
+      },
+      "impactTags": [
+        "grid-capacity",
+        "energy-rates",
+        "local-control"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-05-18",
+      "partyOrigin": "R",
+      "sourceUrl": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=HB1847&ga=114",
+      "legiscanUrl": "https://legiscan.com/TN/bill/HB1847/2025",
+      "legiscanId": 2088378,
+      "sponsors": [
+        "Ed Butler",
+        "Jody Barrett",
+        "Michele Reneau",
+        "Dan Howell"
+      ]
+    },
+    {
+      "id": "tn-sb2128",
+      "billCode": "SB2128",
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 5; Title 6; Title 7; Title 13 and Title 65, relative to data centers.",
+      "summary": "Tennessee prohibits municipalities and electric utilities from absorbing the costs of electrical infrastructure needed to serve data centers, shifting infrastructure costs to the data center operators themselves. This removes a potential barrier to data center development by clarifying cost responsibility.",
+      "stage": "Enacted",
+      "stance": "favorable",
+      "impactTags": [],
+      "category": "data-center-siting",
+      "updatedDate": "2026-05-18",
+      "partyOrigin": "R",
+      "sourceUrl": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=SB2128&ga=114",
+      "legiscanUrl": "https://legiscan.com/TN/bill/SB2128/2025",
+      "legiscanId": 2090791,
+      "sponsors": [
+        "Brent Taylor",
+        "Page Walley",
+        "Ken Yager",
+        "Paul Bailey"
+      ]
+    },
+    {
+      "id": "tn-sb2653",
+      "billCode": "SB2653",
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 5; Title 6; Title 7; Title 10; Title 62; Title 65; Title 68 and Title 69, relative to the Tennessee Data Center Impact Review Act.",
+      "summary": "This Tennessee bill creates a formal impact review process that data centers must go through before being built or expanded, evaluating effects on local infrastructure, utilities, and communities. It adds oversight requirements across multiple areas of state law governing municipalities, utilities, and environmental concerns.",
+      "stage": "Filed",
+      "stance": "concerning",
+      "dimensionStances": {
+        "environmental": "review",
+        "energy": "review",
+        "community": "review",
+        "land-use": "review"
+      },
+      "impactTags": [
+        "environmental-review",
+        "local-zoning",
+        "local-control",
+        "grid-capacity",
+        "water-infrastructure"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-04-07",
+      "partyOrigin": "R",
+      "sourceUrl": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=SB2653&ga=114",
+      "legiscanUrl": "https://legiscan.com/TN/bill/SB2653/2025",
+      "legiscanId": 2105729,
+      "sponsors": [
+        "Brent Taylor",
+        "Rusty Crowe"
+      ]
+    },
+    {
+      "id": "tn-sb2681",
+      "billCode": "SB2681",
+      "title": "AN ACT to amend Tennessee Code Annotated, Section 39-17-1002; Section 67-6-102 and Title 68, relative to the Bring Your Own Generation (BYOG) Act.",
+      "summary": "This bill allows large energy consumers like data centers to generate their own electricity on-site, potentially through renewable sources, reducing reliance on the grid and giving them more control over their energy costs. The measure aims to facilitate private power generation for industrial and commercial facilities.",
+      "stage": "Filed",
+      "stance": "favorable",
+      "dimensionStances": {
+        "environmental": "favorable",
+        "energy": "favorable"
+      },
+      "impactTags": [
+        "energy-rates",
+        "grid-capacity",
+        "renewable-energy"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-04-07",
+      "partyOrigin": "D",
+      "sourceUrl": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=SB2681&ga=114",
+      "legiscanUrl": "https://legiscan.com/TN/bill/SB2681/2025",
+      "legiscanId": 2105420,
+      "sponsors": [
+        "Sara Kyle"
+      ]
+    },
+    {
+      "id": "tn-hb1513",
+      "billCode": "HB1513",
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 2, Chapter 19, relative to the Transparency for Deepfakes in Political Advertising Act.",
+      "summary": "Tennessee requires political ads that use deepfakes to show a clear disclaimer, making violations a misdemeanor and allowing candidates to sue for damages. The law targets AI-generated content that falsely depicts candidates saying or doing things they never actually said or did.",
+      "stage": "Enacted",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-synthetic": "restrictive"
+      },
+      "impactTags": [
+        "deepfake-regulation",
+        "algorithmic-transparency"
+      ],
+      "category": "synthetic-media",
+      "updatedDate": "2026-03-30",
+      "partyOrigin": "B",
+      "sourceUrl": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=HB1513&ga=114",
+      "legiscanUrl": "https://legiscan.com/TN/bill/HB1513/2025",
+      "legiscanId": 2071569,
+      "sponsors": [
+        "Jason Zachary",
+        "Lowell Russell",
+        "Elaine Davis",
+        "Jake McCalmon"
+      ]
+    },
+    {
+      "id": "tn-sb1624",
+      "billCode": "SB1624",
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 2, Chapter 19, relative to the Transparency for Deepfakes in Political Advertising Act.",
+      "summary": "Tennessee requires political advertisements containing deepfakes that falsely depict candidates to include a clear disclaimer, with violations punishable as a Class C misdemeanor and candidates able to seek damages. The law aims to prevent misleading synthetic media in political campaigns.",
+      "stage": "Enacted",
+      "stance": "restrictive",
+      "impactTags": [
+        "deepfake-regulation"
+      ],
+      "category": "synthetic-media",
+      "updatedDate": "2026-03-30",
+      "partyOrigin": "B",
+      "sourceUrl": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=SB1624&ga=114",
+      "legiscanUrl": "https://legiscan.com/TN/bill/SB1624/2025",
+      "legiscanId": 2072868,
+      "sponsors": [
+        "Becky Massey",
+        "Heidi Campbell",
+        "Janince Bowling",
+        "Ferrell Haile"
+      ]
+    },
+    {
+      "id": "tn-hb2608",
+      "billCode": "HB2608",
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 10; Title 24 and Title 38, relative to historical location data.",
+      "summary": "This bill creates rules to protect people's historical location data from excessive police access and surveillance. It limits how law enforcement can obtain and use location tracking information collected over time.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-governance-dim": "none",
+        "ai-consumer": "concerning"
+      },
+      "impactTags": [
+        "data-privacy",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-criminal-justice",
+      "updatedDate": "2026-03-25",
+      "partyOrigin": "R",
+      "sourceUrl": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=HB2608&ga=114",
+      "legiscanUrl": "https://legiscan.com/TN/bill/HB2608/2025",
+      "legiscanId": 2105835,
+      "sponsors": [
+        "Bud Hulsey",
+        "Timothy Hill"
+      ]
+    },
     {
       "id": "tn-sb2112",
       "billCode": "SB2112",
       "title": "AN ACT to amend Tennessee Code Annotated, Title 5; Title 6; Title 7; Title 10; Title 62; Title 65; Title 68 and Title 69, relative to data centers.",
-      "summary": "This bill requires large data centers in Tennessee to register with the state and mandates that their fuel, electricity, and water suppliers report usage and rates to the government. The state would then compile and publish that information, increasing public transparency about data center resource consumption.",
+      "summary": "This bill requires large data centers in Tennessee to register with the state and mandates that their fuel, electricity, and water suppliers report usage and rates to state authorities. The collected information would be compiled and published, creating a public transparency record of data center resource consumption.",
       "stage": "Filed",
       "stance": "review",
       "dimensionStances": {
@@ -22,12 +345,12 @@
       "impactTags": [
         "water-consumption",
         "carbon-emissions",
+        "grid-capacity",
         "energy-rates",
-        "water-infrastructure",
-        "nda-transparency"
+        "water-infrastructure"
       ],
       "category": "data-center-energy",
-      "updatedDate": "2026-01-22",
+      "updatedDate": "2026-03-24",
       "partyOrigin": "D",
       "sourceUrl": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=SB2112&ga=114",
       "legiscanUrl": "https://legiscan.com/TN/bill/SB2112/2025",
@@ -37,46 +360,139 @@
       ]
     },
     {
-      "id": "tn-hb0531",
-      "billCode": "HB0531",
-      "title": "AN ACT to amend Tennessee Code Annotated, Title 49, relative to artificial intelligence.",
-      "summary": "As introduced, requires local education agencies and public charter schools to provide age-appropriate instruction to students on how to access, utilize, and critically evaluate various artificial intelligence tools within the curriculum taught by the educator; requires the de...",
-      "stage": "Committee",
-      "stance": "review",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2025-01-29",
-      "partyOrigin": "R",
-      "sourceUrl": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=HB0531&ga=114",
-      "legiscanUrl": "https://legiscan.com/TN/bill/HB0531/2025",
-      "legiscanId": 1946381,
-      "sponsors": [
-        "Andrew Farmer"
-      ]
-    },
-    {
-      "id": "tn-sb2321",
-      "billCode": "SB2321",
-      "title": "AN ACT to amend Tennessee Code Annotated, Title 2 and Title 39, Chapter 17, relative to deepfakes in election communications.",
-      "summary": "This bill bans the distribution of AI-generated fake media depicting candidates or political parties within 90 days of an election if the creator knows or should know it is deceptively fraudulent. Violators face civil penalties, with limited exceptions allowed.",
+      "id": "tn-sb2215",
+      "billCode": "SB2215",
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 10; Title 24 and Title 38, relative to historical location data.",
+      "summary": "This bill sets rules for how law enforcement can access and use historical location data, placing limits on police surveillance of people's movements. It aims to protect individuals from excessive tracking by requiring legal safeguards before location records can be obtained or used.",
       "stage": "Filed",
       "stance": "restrictive",
       "dimensionStances": {
         "ai-governance-dim": "none",
-        "ai-synthetic": "restrictive"
+        "ai-consumer": "concerning"
       },
       "impactTags": [
-        "deepfake-regulation",
+        "data-privacy",
         "algorithmic-transparency"
       ],
-      "category": "synthetic-media",
-      "updatedDate": "2026-02-02",
-      "partyOrigin": "D",
-      "sourceUrl": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=SB2321&ga=114",
-      "legiscanUrl": "https://legiscan.com/TN/bill/SB2321/2025",
-      "legiscanId": 2105559,
+      "category": "ai-criminal-justice",
+      "updatedDate": "2026-03-23",
+      "partyOrigin": "R",
+      "sourceUrl": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=SB2215&ga=114",
+      "legiscanUrl": "https://legiscan.com/TN/bill/SB2215/2025",
+      "legiscanId": 2105884,
       "sponsors": [
-        "Jeff Yarbro"
+        "Page Walley"
+      ]
+    },
+    {
+      "id": "tn-hb2392",
+      "billCode": "HB2392",
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 5; Title 6; Title 7; Title 10; Title 62; Title 65; Title 68 and Title 69, relative to the Tennessee Data Center Impact Review Act.",
+      "summary": "This Tennessee bill establishes a formal review process for data center development, requiring impact assessments before construction can proceed. It covers a broad range of concerns including effects on local infrastructure, utilities, and communities.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "environmental": "review",
+        "energy": "review",
+        "community": "review",
+        "land-use": "review"
+      },
+      "impactTags": [
+        "environmental-review",
+        "local-zoning",
+        "local-control",
+        "grid-capacity",
+        "water-infrastructure"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-03-18",
+      "partyOrigin": "R",
+      "sourceUrl": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=HB2392&ga=114",
+      "legiscanUrl": "https://legiscan.com/TN/bill/HB2392/2025",
+      "legiscanId": 2105941,
+      "sponsors": [
+        "Michele Reneau"
+      ]
+    },
+    {
+      "id": "tn-hb2456",
+      "billCode": "HB2456",
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 5; Title 6; Title 7; Title 10; Title 62; Title 65; Title 68 and Title 69, relative to data centers.",
+      "summary": "This bill requires large data centers in Tennessee to register with the state and mandates that their fuel, electricity, and water suppliers report usage and rates to the government. The state would then compile and publish this information, creating a public transparency record of data center resource consumption.",
+      "stage": "Dead",
+      "stance": "review",
+      "dimensionStances": {
+        "environmental": "review",
+        "energy": "review"
+      },
+      "impactTags": [
+        "energy-rates",
+        "water-infrastructure",
+        "grid-capacity",
+        "nda-transparency"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-03-18",
+      "partyOrigin": "D",
+      "sourceUrl": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=HB2456&ga=114",
+      "legiscanUrl": "https://legiscan.com/TN/bill/HB2456/2025",
+      "legiscanId": 2105529,
+      "sponsors": [
+        "Justin Pearson"
+      ]
+    },
+    {
+      "id": "tn-hb2463",
+      "billCode": "HB2463",
+      "title": "AN ACT to amend Tennessee Code Annotated, Section 39-17-1002; Section 67-6-102 and Title 68, relative to the Bring Your Own Generation (BYOG) Act.",
+      "summary": "Tennessee's Bring Your Own Generation Act allows data centers and large facilities to generate their own power on-site, reducing grid dependency and potentially enabling renewable energy adoption at data center locations.",
+      "stage": "Committee",
+      "stance": "favorable",
+      "dimensionStances": {
+        "environmental": "none",
+        "energy": "favorable"
+      },
+      "impactTags": [
+        "grid-capacity",
+        "renewable-energy"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-03-18",
+      "partyOrigin": "D",
+      "sourceUrl": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=HB2463&ga=114",
+      "legiscanUrl": "https://legiscan.com/TN/bill/HB2463/2025",
+      "legiscanId": 2105185,
+      "sponsors": [
+        "Justin Pearson"
+      ]
+    },
+    {
+      "id": "tn-hb2061",
+      "billCode": "HB2061",
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 5; Title 6; Title 7; Title 10; Title 62; Title 65; Title 68 and Title 69, relative to data centers.",
+      "summary": "This bill requires large data centers in Tennessee to register with the state public utilities commission and mandates that electric and water utilities report usage data and rates for those facilities. The commission would then compile and publish this information, creating a public record of how much energy and water data centers consume and what they pay.",
+      "stage": "Committee",
+      "stance": "review",
+      "dimensionStances": {
+        "environmental": "review",
+        "energy": "review",
+        "ai-governance-dim": "none"
+      },
+      "impactTags": [
+        "grid-capacity",
+        "water-infrastructure",
+        "energy-rates",
+        "water-consumption",
+        "algorithmic-transparency"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-03-11",
+      "partyOrigin": "D",
+      "sourceUrl": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=HB2061&ga=114",
+      "legiscanUrl": "https://legiscan.com/TN/bill/HB2061/2025",
+      "legiscanId": 2092188,
+      "sponsors": [
+        "Joe Towns"
       ]
     },
     {
@@ -95,7 +511,7 @@
         "algorithmic-transparency"
       ],
       "category": "synthetic-media",
-      "updatedDate": "2026-02-02",
+      "updatedDate": "2026-03-10",
       "partyOrigin": "D",
       "sourceUrl": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=HB2214&ga=114",
       "legiscanUrl": "https://legiscan.com/TN/bill/HB2214/2025",
@@ -105,61 +521,10 @@
       ]
     },
     {
-      "id": "tn-sb2215",
-      "billCode": "SB2215",
-      "title": "AN ACT to amend Tennessee Code Annotated, Title 10; Title 24 and Title 38, relative to historical location data.",
-      "summary": "This bill establishes rules for how law enforcement can access and use historical location data, aiming to limit excessive police surveillance. It creates protections for people's location history and restricts when and how that data can be obtained or used.",
-      "stage": "Filed",
-      "stance": "restrictive",
-      "dimensionStances": {
-        "ai-governance-dim": "none",
-        "ai-consumer": "concerning"
-      },
-      "impactTags": [
-        "data-privacy",
-        "algorithmic-transparency"
-      ],
-      "category": "ai-criminal-justice",
-      "updatedDate": "2026-02-02",
-      "partyOrigin": "R",
-      "sourceUrl": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=SB2215&ga=114",
-      "legiscanUrl": "https://legiscan.com/TN/bill/SB2215/2025",
-      "legiscanId": 2105884,
-      "sponsors": [
-        "Page Walley"
-      ]
-    },
-    {
-      "id": "tn-hb2608",
-      "billCode": "HB2608",
-      "title": "AN ACT to amend Tennessee Code Annotated, Title 10; Title 24 and Title 38, relative to historical location data.",
-      "summary": "This bill creates rules to protect people's historical location data from police surveillance by limiting how law enforcement can access and use it. It aims to prevent excessive government tracking of individuals' movements.",
-      "stage": "Committee",
-      "stance": "restrictive",
-      "dimensionStances": {
-        "ai-governance-dim": "none",
-        "ai-consumer": "concerning"
-      },
-      "impactTags": [
-        "data-privacy",
-        "algorithmic-transparency"
-      ],
-      "category": "ai-criminal-justice",
-      "updatedDate": "2026-02-03",
-      "partyOrigin": "R",
-      "sourceUrl": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=HB2608&ga=114",
-      "legiscanUrl": "https://legiscan.com/TN/bill/HB2608/2025",
-      "legiscanId": 2105835,
-      "sponsors": [
-        "Bud Hulsey",
-        "Timothy Hill"
-      ]
-    },
-    {
       "id": "tn-sb1682",
       "billCode": "SB1682",
       "title": "AN ACT to amend Tennessee Code Annotated, Title 5; Title 6; Title 7; Title 10; Title 62; Title 65; Title 68 and Title 69, relative to data centers.",
-      "summary": "This bill requires large data centers in Tennessee to register with the state's public utilities commission and mandates that electric and water utilities report usage data and rates for those facilities. The commission would then compile and publish that information, creating greater transparency around data center resource consumption.",
+      "summary": "This bill requires large data centers in Tennessee to register with the state utilities commission and mandates that electric and water utilities report the usage and rates associated with serving those data centers. The commission must then compile and publicly publish that information, increasing transparency around data center resource consumption.",
       "stage": "Dead",
       "stance": "review",
       "dimensionStances": {
@@ -170,7 +535,8 @@
         "grid-capacity",
         "water-infrastructure",
         "energy-rates",
-        "water-consumption"
+        "water-consumption",
+        "nda-transparency"
       ],
       "category": "data-center-energy",
       "updatedDate": "2026-03-03",
@@ -183,129 +549,35 @@
       ]
     },
     {
-      "id": "tn-hb1847",
-      "billCode": "HB1847",
-      "title": "AN ACT to amend Tennessee Code Annotated, Title 5; Title 6; Title 7; Title 13 and Title 65, relative to data centers.",
-      "summary": "This Tennessee bill requires data center owners and operators to pay the full cost of any infrastructure needed to connect their facilities to the electric grid, preventing those costs from being spread to other utility customers. It aims to ensure that communities and existing ratepayers are not burdened with the infrastructure expenses generated by large data centers.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "dimensionStances": {
-        "energy": "concerning",
-        "community": "favorable",
-        "land-use": "none"
-      },
-      "impactTags": [
-        "grid-capacity",
-        "energy-rates",
-        "local-zoning",
-        "economic-development"
-      ],
-      "category": "data-center-energy",
-      "updatedDate": "2026-01-21",
-      "partyOrigin": "R",
-      "sourceUrl": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=HB1847&ga=114",
-      "legiscanUrl": "https://legiscan.com/TN/bill/HB1847/2025",
-      "legiscanId": 2088378,
-      "sponsors": [
-        "Ed Butler",
-        "Jody Barrett",
-        "Michele Reneau"
-      ]
-    },
-    {
-      "id": "tn-hb2392",
-      "billCode": "HB2392",
-      "title": "AN ACT to amend Tennessee Code Annotated, Title 5; Title 6; Title 7; Title 10; Title 62; Title 65; Title 68 and Title 69, relative to the Tennessee Data Center Impact Review Act.",
-      "summary": "This Tennessee bill establishes a formal impact review process that data centers must go through before being built, examining effects on local infrastructure, utilities, and communities. It creates new regulatory hurdles for data center development across multiple areas of state law.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "dimensionStances": {
-        "environmental": "review",
-        "energy": "review",
-        "community": "review",
-        "land-use": "review"
-      },
-      "impactTags": [
-        "environmental-review",
-        "local-zoning",
-        "local-control",
-        "grid-capacity",
-        "water-infrastructure"
-      ],
-      "category": "data-center-siting",
-      "updatedDate": "2026-02-03",
-      "partyOrigin": "R",
-      "sourceUrl": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=HB2392&ga=114",
-      "legiscanUrl": "https://legiscan.com/TN/bill/HB2392/2025",
-      "legiscanId": 2105941,
-      "sponsors": [
-        "Michele Reneau"
-      ]
-    },
-    {
-      "id": "tn-sb2653",
-      "billCode": "SB2653",
-      "title": "AN ACT to amend Tennessee Code Annotated, Title 5; Title 6; Title 7; Title 10; Title 62; Title 65; Title 68 and Title 69, relative to the Tennessee Data Center Impact Review Act.",
-      "summary": "This Tennessee bill establishes a formal impact review process for data centers, requiring assessment of their effects on local communities and infrastructure before they can be built or expanded. It introduces oversight mechanisms covering areas like energy, water, and land use to evaluate data center projects across the state.",
+      "id": "tn-sb2321",
+      "billCode": "SB2321",
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 2 and Title 39, Chapter 17, relative to deepfakes in election communications.",
+      "summary": "This bill bans the distribution of AI-generated fake media depicting candidates or political parties within 90 days of an election if the creator knows or should know it is deceptively fraudulent. Violators face civil penalties, with limited exceptions allowed.",
       "stage": "Filed",
-      "stance": "concerning",
+      "stance": "restrictive",
       "dimensionStances": {
-        "environmental": "review",
-        "energy": "review",
-        "community": "review",
-        "land-use": "review"
+        "ai-governance-dim": "none",
+        "ai-synthetic": "restrictive"
       },
       "impactTags": [
-        "environmental-review",
-        "local-zoning",
-        "local-control",
-        "grid-capacity",
-        "water-infrastructure"
+        "deepfake-regulation",
+        "algorithmic-transparency"
       ],
-      "category": "data-center-siting",
-      "updatedDate": "2026-02-02",
-      "partyOrigin": "R",
-      "sourceUrl": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=SB2653&ga=114",
-      "legiscanUrl": "https://legiscan.com/TN/bill/SB2653/2025",
-      "legiscanId": 2105729,
-      "sponsors": [
-        "Brent Taylor",
-        "Rusty Crowe"
-      ]
-    },
-    {
-      "id": "tn-hb2456",
-      "billCode": "HB2456",
-      "title": "AN ACT to amend Tennessee Code Annotated, Title 5; Title 6; Title 7; Title 10; Title 62; Title 65; Title 68 and Title 69, relative to data centers.",
-      "summary": "This bill requires large data centers in Tennessee to register with the state and mandates that their fuel, electricity, and water suppliers report usage and rates to the government. The state would then compile and publish this information, creating a public record of data center resource consumption.",
-      "stage": "Dead",
-      "stance": "review",
-      "dimensionStances": {
-        "environmental": "review",
-        "energy": "review"
-      },
-      "impactTags": [
-        "water-consumption",
-        "carbon-emissions",
-        "grid-capacity",
-        "water-infrastructure",
-        "nda-transparency"
-      ],
-      "category": "data-center-energy",
-      "updatedDate": "2026-03-18",
+      "category": "synthetic-media",
+      "updatedDate": "2026-02-05",
       "partyOrigin": "D",
-      "sourceUrl": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=HB2456&ga=114",
-      "legiscanUrl": "https://legiscan.com/TN/bill/HB2456/2025",
-      "legiscanId": 2105529,
+      "sourceUrl": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=SB2321&ga=114",
+      "legiscanUrl": "https://legiscan.com/TN/bill/SB2321/2025",
+      "legiscanId": 2105559,
       "sponsors": [
-        "Justin Pearson"
+        "Jeff Yarbro"
       ]
     },
     {
       "id": "tn-sb1600",
       "billCode": "SB1600",
       "title": "AN ACT to amend Tennessee Code Annotated, Title 5; Title 6; Title 7; Title 10; Title 62; Title 65; Title 68 and Title 69, relative to data centers.",
-      "summary": "This bill requires large data centers in Tennessee to register with the state public utilities commission and mandates that electric and water utilities report how much energy and water those data centers use and at what rates. The commission must then compile and publicly publish this usage and rate information.",
+      "summary": "This bill requires large data centers in Tennessee to register with the state public utilities commission and mandates that electric and water utilities report usage and rates for those facilities. The commission must then compile and publish this information, creating a public record of how much energy and water data centers consume and what they pay.",
       "stage": "Filed",
       "stance": "concerning",
       "dimensionStances": {
@@ -321,13 +593,141 @@
         "algorithmic-transparency"
       ],
       "category": "data-center-energy",
-      "updatedDate": "2026-01-12",
+      "updatedDate": "2026-01-13",
       "partyOrigin": "D",
       "sourceUrl": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=SB1600&ga=114",
       "legiscanUrl": "https://legiscan.com/TN/bill/SB1600/2025",
       "legiscanId": 2071727,
       "sponsors": [
         "London Lamar"
+      ]
+    },
+    {
+      "id": "tn-sb0514",
+      "billCode": "SB0514",
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 49, relative to artificial intelligence.",
+      "summary": "Tennessee requires public schools and charter schools to teach students age-appropriate skills for accessing, using, and critically evaluating AI tools as part of regular curriculum. The state education department must provide guidance and optional professional development for teachers to implement this instruction.",
+      "stage": "Filed",
+      "stance": "favorable",
+      "dimensionStances": {
+        "ai-governance-dim": "review",
+        "ai-public": "favorable"
+      },
+      "impactTags": [
+        "ai-in-education",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-education",
+      "updatedDate": "2025-03-19",
+      "partyOrigin": "R",
+      "sourceUrl": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=SB0514&ga=114",
+      "legiscanUrl": "https://legiscan.com/TN/bill/SB0514/2025",
+      "legiscanId": 1948149,
+      "sponsors": [
+        "Paul Bailey"
+      ]
+    },
+    {
+      "id": "tn-hb0531",
+      "billCode": "HB0531",
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 49, relative to artificial intelligence.",
+      "summary": "This bill requires Tennessee public schools to teach students how to use and critically evaluate AI tools as part of their regular curriculum. It also directs the state education department to provide guidance and professional development training for teachers on AI education.",
+      "stage": "Committee",
+      "stance": "review",
+      "dimensionStances": {
+        "ai-governance-dim": "none",
+        "ai-public": "favorable"
+      },
+      "impactTags": [
+        "ai-in-education",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-education",
+      "updatedDate": "2025-03-18",
+      "partyOrigin": "R",
+      "sourceUrl": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=HB0531&ga=114",
+      "legiscanUrl": "https://legiscan.com/TN/bill/HB0531/2025",
+      "legiscanId": 1946381,
+      "sponsors": [
+        "Andrew Farmer"
+      ]
+    },
+    {
+      "id": "tn-hb0933",
+      "billCode": "HB0933",
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 49, relative to school safety.",
+      "summary": "This bill establishes a grant program to fund AI-powered weapons detection systems in Tennessee schools that don't currently have them. The three-year pilot aims to enhance school safety through technology deployment.",
+      "stage": "Committee",
+      "stance": "favorable",
+      "dimensionStances": {
+        "ai-governance-dim": "review",
+        "ai-consumer": "none"
+      },
+      "impactTags": [
+        "ai-safety",
+        "child-safety"
+      ],
+      "category": "ai-education",
+      "updatedDate": "2025-03-18",
+      "partyOrigin": "D",
+      "sourceUrl": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=HB0933&ga=114",
+      "legiscanUrl": "https://legiscan.com/TN/bill/HB0933/2025",
+      "legiscanId": 1955110,
+      "sponsors": [
+        "Antonio Parkinson",
+        "Harold Love"
+      ]
+    },
+    {
+      "id": "tn-sb0814",
+      "billCode": "SB0814",
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 49, relative to school safety.",
+      "summary": "Tennessee would establish a three-year grant program to help school districts purchase AI weapons detection systems for schools that lack them. The program aims to enhance school safety through artificial intelligence technology.",
+      "stage": "Filed",
+      "stance": "favorable",
+      "dimensionStances": {
+        "ai-governance-dim": "review",
+        "ai-consumer": "none"
+      },
+      "impactTags": [
+        "ai-safety",
+        "child-safety"
+      ],
+      "category": "ai-education",
+      "updatedDate": "2025-02-24",
+      "partyOrigin": "B",
+      "sourceUrl": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=SB0814&ga=114",
+      "legiscanUrl": "https://legiscan.com/TN/bill/SB0814/2025",
+      "legiscanId": 1953992,
+      "sponsors": [
+        "Todd Gardenhire",
+        "Raumesh Akbari",
+        "Bill Powers"
+      ]
+    },
+    {
+      "id": "tn-sb1261",
+      "billCode": "SB1261",
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 8, Chapter 27; Title 56 and Title 71, relative to health insurance.",
+      "summary": "Tennessee requires health insurance companies to meet specific standards when using AI and algorithms to decide whether to approve medical treatments and services. The law imposes transparency and oversight requirements on automated utilization review and management systems.",
+      "stage": "Filed",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-public": "concerning"
+      },
+      "impactTags": [
+        "ai-in-healthcare",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-healthcare",
+      "updatedDate": "2025-02-12",
+      "partyOrigin": "D",
+      "sourceUrl": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=SB1261&ga=114",
+      "legiscanUrl": "https://legiscan.com/TN/bill/SB1261/2025",
+      "legiscanId": 1959470,
+      "sponsors": [
+        "Jeff Yarbro"
       ]
     }
   ]

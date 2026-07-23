@@ -2,44 +2,199 @@
   "state": "Hawaii",
   "stateCode": "HI",
   "region": "na",
-  "stance": "review",
-  "stanceDatacenter": "none",
-  "stanceAI": "review",
-  "lastUpdated": "2026-04-14",
-  "contextBlurb": "Hawaii's legislature is actively examining AI across a notably broad range of domains — from algorithmic transparency in law enforcement (SB2049) and deepfake regulation (SB1156) to agricultural biosecurity, emergency preparedness, and arts funding — reflecting a whole-of-government approach to embedding AI oversight into existing policy areas. The state's geographic isolation and reliance on imported energy also shape its data center conversation, with SB539 touching on chemical safety considerations relevant to facility siting. All active measures remain in committee, signaling a legislature still in the deliberation phase rather than moving toward final votes.",
+  "stance": "concerning",
+  "stanceDatacenter": "review",
+  "stanceAI": "concerning",
+  "lastUpdated": "2026-07-22",
+  "contextBlurb": "Hawaii is under discussion on data centers and advancing regulation on AI. On data centers: SR90 (enacted) — Hawaii is requesting a study to examine how large data centers would affect the state's electricity grid, utility costs, natural resources, and climate commitments. On AI: HB1753 (on the floor) — Requires social media platforms to provide users with accessible account deletion mechanisms and permanently erase associated personal data, while prohibiting deceptive practices that obs…",
   "legislation": [
     {
-      "id": "hi-hb775",
-      "billCode": "HB775",
-      "title": "Relating To Agricultural Biosecurity.",
-      "summary": "This bill appropriates funding for Hawaii's Department of Agriculture to support agricultural biosecurity programs and staff positions. It has no relevance to AI regulation or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2025-01-21",
+      "id": "hi-sr90",
+      "billCode": "SR90",
+      "title": "Requesting The Hawaii State Energy Office To Convene A Working Group To Study The Potential Impacts Of Large Data Centers On Hawaii's Electric Utilities, Ratepayers, Natural Resources, And Climate Goals.",
+      "summary": "Hawaii is requesting a study to examine how large data centers would affect the state's electricity grid, utility costs, natural resources, and climate commitments. The working group will assess potential impacts before any regulatory decisions are made.",
+      "stage": "Enacted",
+      "stance": "review",
+      "dimensionStances": {
+        "environmental": "review",
+        "energy": "review"
+      },
+      "impactTags": [
+        "grid-capacity",
+        "carbon-emissions",
+        "energy-rates"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-05-12",
       "partyOrigin": "D",
-      "sourceUrl": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=775&year=2026",
-      "legiscanUrl": "https://legiscan.com/HI/bill/HB775/2026",
-      "legiscanId": 2063921,
+      "sourceUrl": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SR&billnumber=90&year=2026",
+      "legiscanUrl": "https://legiscan.com/HI/bill/SR90/2026",
+      "legiscanId": 2133388,
       "sponsors": [
-        "Kirstin Kahaloa"
+        "Glenn Wakai",
+        "Stanley Chang",
+        "Brandon Elefante",
+        "Carol Fukunaga"
+      ]
+    },
+    {
+      "id": "hi-hb1753",
+      "billCode": "HB1753",
+      "title": "Relating To Social Media.",
+      "summary": "This bill requires social media platforms to provide users with accessible account deletion mechanisms and permanently erase associated personal data, while prohibiting deceptive practices that obstruct deletion. The Attorney General is empowered to enforce compliance through civil actions and penalties starting July 2027.",
+      "stage": "Floor",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-governance-dim": "none",
+        "ai-consumer": "restrictive"
+      },
+      "impactTags": [
+        "data-privacy",
+        "algorithmic-transparency"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-05-08",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1753&year=2026",
+      "legiscanUrl": "https://legiscan.com/HI/bill/HB1753/2026",
+      "legiscanId": 2089599,
+      "sponsors": [
+        "Shirley Ann Templo",
+        "Terez Amato",
+        "Della au Belatti",
+        "Cory Chun"
+      ]
+    },
+    {
+      "id": "hi-hcr206",
+      "billCode": "HCR206",
+      "title": "Requesting The Hawaii State Energy Office To Convene A Working Group To Study The Potential Impacts Of Large Data Centers On Hawaii's Electric Utilities, Ratepayers, Natural Resources, And Climate Goals.",
+      "summary": "Hawaii requests its State Energy Office to create a working group that studies how large data centers would affect the state's electricity grid, utility costs, natural resources, and climate targets. The bill does not impose restrictions but seeks to understand the potential impacts before policy decisions are made.",
+      "stage": "Enacted",
+      "stance": "review",
+      "dimensionStances": {
+        "environmental": "review",
+        "energy": "review"
+      },
+      "impactTags": [
+        "grid-capacity",
+        "energy-rates",
+        "carbon-emissions",
+        "water-consumption"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-04-27",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HCR&billnumber=206&year=2026",
+      "legiscanUrl": "https://legiscan.com/HI/bill/HCR206/2026",
+      "legiscanId": 2134741,
+      "sponsors": [
+        "Nicole Lowen",
+        "Terez Amato",
+        "Della au Belatti",
+        "Tina Grandinetti"
+      ]
+    },
+    {
+      "id": "hi-scr95",
+      "billCode": "SCR95",
+      "title": "Requesting The Hawaii State Energy Office To Convene A Working Group To Study The Potential Impacts Of Large Data Centers On Hawaii's Electric Utilities, Ratepayers, Natural Resources, And Climate Goals.",
+      "summary": "Hawaii is requesting a study to understand how large data centers affect the state's electricity grid, utility costs, natural resources, and climate commitments. The working group will examine potential impacts before the state decides on future data-center policy.",
+      "stage": "Committee",
+      "stance": "review",
+      "dimensionStances": {
+        "environmental": "review",
+        "energy": "review"
+      },
+      "impactTags": [
+        "grid-capacity",
+        "energy-rates",
+        "carbon-emissions",
+        "water-consumption"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-04-10",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SCR&billnumber=95&year=2026",
+      "legiscanUrl": "https://legiscan.com/HI/bill/SCR95/2026",
+      "legiscanId": 2133435,
+      "sponsors": [
+        "Glenn Wakai",
+        "Stanley Chang",
+        "Brandon Elefante",
+        "Carol Fukunaga"
+      ]
+    },
+    {
+      "id": "hi-hr196",
+      "billCode": "HR196",
+      "title": "Requesting The Hawaii State Energy Office To Convene A Working Group To Study The Potential Impacts Of Large Data Centers On Hawaii's Electric Utilities, Ratepayers, Natural Resources, And Climate Goals.",
+      "summary": "Hawaii requests its State Energy Office to convene a working group to study how large data centers affect the state's electric grid, utility costs, natural resources, and climate commitments. The study will examine the infrastructure and environmental impacts before any policy decisions are made.",
+      "stage": "Enacted",
+      "stance": "review",
+      "dimensionStances": {
+        "environmental": "review",
+        "energy": "review"
+      },
+      "impactTags": [
+        "grid-capacity",
+        "energy-rates",
+        "carbon-emissions",
+        "water-consumption"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-04-09",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HR&billnumber=196&year=2026",
+      "legiscanUrl": "https://legiscan.com/HI/bill/HR196/2026",
+      "legiscanId": 2134607,
+      "sponsors": [
+        "Nicole Lowen",
+        "Terez Amato",
+        "Della au Belatti",
+        "Tina Grandinetti"
+      ]
+    },
+    {
+      "id": "hi-sb2049",
+      "billCode": "SB2049",
+      "title": "Relating To Law Enforcement.",
+      "summary": "This bill bans Hawaii law enforcement agencies and officers from using biometric surveillance technology unless specific legal conditions are satisfied. It places strict limits on how police can use tools like facial recognition to monitor or identify people.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "concerning"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "data-privacy"
+      ],
+      "category": "ai-criminal-justice",
+      "updatedDate": "2026-01-22",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2049&year=2026",
+      "legiscanUrl": "https://legiscan.com/HI/bill/SB2049/2026",
+      "legiscanId": 2084918,
+      "sponsors": [
+        "Jarrett Keohokalole",
+        "Joy San Buenaventura"
       ]
     },
     {
       "id": "hi-hb546",
       "billCode": "HB546",
       "title": "Relating To Artificial Intelligence.",
-      "summary": "This bill creates a new AI institute at the University of Hawaii to promote and advance artificial intelligence programs across the state. It is designed to support AI development and innovation in Hawaii.",
+      "summary": "This bill creates a new AI research and development institute at the University of Hawaii to promote and advance AI initiatives across the state. It is designed to support Hawaii's AI ecosystem through education, research, and statewide coordination.",
       "stage": "Committee",
       "stance": "favorable",
       "impactTags": [
         "ai-safety",
-        "economic-development",
-        "job-creation"
+        "algorithmic-transparency",
+        "economic-development"
       ],
       "category": "ai-governance",
-      "updatedDate": "2025-02-28",
+      "updatedDate": "2025-12-08",
       "partyOrigin": "D",
       "sourceUrl": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=546&year=2026",
       "legiscanUrl": "https://legiscan.com/HI/bill/HB546/2026",
@@ -55,7 +210,7 @@
       "id": "hi-sb1156",
       "billCode": "SB1156",
       "title": "Relating To Deepfakes.",
-      "summary": "This bill makes it a crime in Hawaii to create or share sexually explicit deepfake images or videos without consent. It targets AI-generated fake content that depicts real people in sexual situations.",
+      "summary": "This bill makes it a crime in Hawaii to create or share sexually explicit deepfakes — realistic fake images or videos generated by AI. It targets non-consensual synthetic sexual content to protect individuals from this form of digital abuse.",
       "stage": "Committee",
       "stance": "restrictive",
       "dimensionStances": {
@@ -68,7 +223,7 @@
         "data-privacy"
       ],
       "category": "synthetic-media",
-      "updatedDate": "2025-01-17",
+      "updatedDate": "2025-12-08",
       "partyOrigin": "D",
       "sourceUrl": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1156&year=2026",
       "legiscanUrl": "https://legiscan.com/HI/bill/SB1156/2026",
@@ -76,187 +231,6 @@
       "sponsors": [
         "Mike Gabbard",
         "Joy San Buenaventura"
-      ]
-    },
-    {
-      "id": "hi-sb2049",
-      "billCode": "SB2049",
-      "title": "Relating To Law Enforcement.",
-      "summary": "This bill bans police in Hawaii from using biometric surveillance technology (such as facial recognition) unless specific conditions are satisfied. It places strict limits on how and when law enforcement can deploy these tools.",
-      "stage": "Committee",
-      "stance": "restrictive",
-      "dimensionStances": {
-        "ai-governance-dim": "concerning",
-        "ai-consumer": "concerning"
-      },
-      "impactTags": [
-        "algorithmic-transparency",
-        "data-privacy"
-      ],
-      "category": "ai-criminal-justice",
-      "updatedDate": "2026-01-21",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2049&year=2026",
-      "legiscanUrl": "https://legiscan.com/HI/bill/SB2049/2026",
-      "legiscanId": 2084918,
-      "sponsors": [
-        "Jarrett Keohokalole",
-        "Joy San Buenaventura"
-      ]
-    },
-    {
-      "id": "hi-sb1187",
-      "billCode": "SB1187",
-      "title": "Relating To Agricultural Biosecurity.",
-      "summary": "This bill appropriates funding for agricultural biosecurity positions and programs in Hawaii's Department of Agriculture. It has no relevance to AI regulation or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2025-01-17",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1187&year=2026",
-      "legiscanUrl": "https://legiscan.com/HI/bill/SB1187/2026",
-      "legiscanId": 2061678,
-      "sponsors": [
-        "Mike Gabbard",
-        "Angus McKelvey",
-        "Karl Rhoads",
-        "Joy San Buenaventura"
-      ]
-    },
-    {
-      "id": "hi-sb1236",
-      "billCode": "SB1236",
-      "title": "Relating To The Works Of Art Special Fund.",
-      "summary": "This bill modifies rules for Hawaii's Works of Art Special Fund, limiting a 1% transfer requirement to original construction of state buildings and restricting fund use to art acquisition costs. It has no relevance to AI or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2025-01-23",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1236&year=2026",
-      "legiscanUrl": "https://legiscan.com/HI/bill/SB1236/2026",
-      "legiscanId": 2063641,
-      "sponsors": [
-        "Donovan Cruz"
-      ]
-    },
-    {
-      "id": "hi-hb1299",
-      "billCode": "HB1299",
-      "title": "Relating To The Works Of Art Special Fund.",
-      "summary": "This bill updates rules for Hawaii's public art fund, limiting when money must be set aside for artwork in state building projects. It has no connection to AI or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2025-01-23",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1299&year=2026",
-      "legiscanUrl": "https://legiscan.com/HI/bill/HB1299/2026",
-      "legiscanId": 2062281,
-      "sponsors": [
-        "Kyle Yamashita"
-      ]
-    },
-    {
-      "id": "hi-sb582",
-      "billCode": "SB582",
-      "title": "Relating To The Department Of Business, Economic Development, And Tourism.",
-      "summary": "This bill reorganizes Hawaii's arts and cultural agencies by moving them to a different department and establishes a new performing arts grants program. It has no relevance to AI regulation or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2025-01-17",
-      "partyOrigin": "B",
-      "sourceUrl": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=582&year=2026",
-      "legiscanUrl": "https://legiscan.com/HI/bill/SB582/2026",
-      "legiscanId": 2062165,
-      "sponsors": [
-        "Glenn Wakai",
-        "Stanley Chang",
-        "Kurt Fevella",
-        "Donna Kim"
-      ]
-    },
-    {
-      "id": "hi-sb1379",
-      "billCode": "SB1379",
-      "title": "Relating To Emergency Preparedness.",
-      "summary": "This bill establishes community emergency preparedness centers in Hawaii and creates a special fund to support them. It has no connection to AI regulation or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2025-03-04",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1379&year=2026",
-      "legiscanUrl": "https://legiscan.com/HI/bill/SB1379/2026",
-      "legiscanId": 2062276,
-      "sponsors": [
-        "Ronald Kouchi"
-      ]
-    },
-    {
-      "id": "hi-sb957",
-      "billCode": "SB957",
-      "title": "Relating To Overdose Prevention.",
-      "summary": "This bill establishes overdose prevention centers and related oversight in Hawaii. It has no connection to AI regulation or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2025-01-17",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=957&year=2026",
-      "legiscanUrl": "https://legiscan.com/HI/bill/SB957/2026",
-      "legiscanId": 2063535,
-      "sponsors": [
-        "Joy San Buenaventura",
-        "Stanley Chang",
-        "Dru Kanuha",
-        "Troy Hashimoto"
-      ]
-    },
-    {
-      "id": "hi-sb539",
-      "billCode": "SB539",
-      "title": "Relating To Toxic Chemicals.",
-      "summary": "This bill requires Hawaii state agencies to set and maintain environmental action levels for toxic chemicals and pollutants. It has no relation to AI policy or data-center regulation.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "data-center-siting",
-      "updatedDate": "2025-01-17",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=539&year=2026",
-      "legiscanUrl": "https://legiscan.com/HI/bill/SB539/2026",
-      "legiscanId": 2062930,
-      "sponsors": [
-        "Mike Gabbard",
-        "Michelle Kidani",
-        "Karl Rhoads"
-      ]
-    },
-    {
-      "id": "hi-hb1060",
-      "billCode": "HB1060",
-      "title": "Relating To Emergency Preparedness.",
-      "summary": "This bill creates a Community Readiness Centers Program in Hawaii to support emergency preparedness, funded by a renamed environmental and energy tax. It has no relevance to AI regulation or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2025-01-23",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1060&year=2026",
-      "legiscanUrl": "https://legiscan.com/HI/bill/HB1060/2026",
-      "legiscanId": 2063954,
-      "sponsors": [
-        "Nadine Nakamura"
       ]
     }
   ]

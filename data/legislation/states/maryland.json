@@ -5,48 +5,23 @@
   "stance": "concerning",
   "stanceDatacenter": "concerning",
   "stanceAI": "concerning",
-  "lastUpdated": "2026-04-14",
-  "contextBlurb": "Maryland is weighing a floor bill that would let the state's student and workforce data system share records with third-party data centers, plus legislation requiring large data-center operators to file disclosures and adopt formal siting rules by 2027. Another bill would expand police facial recognition inside homes.",
+  "lastUpdated": "2026-07-22",
+  "contextBlurb": "Maryland is advancing regulation across both data centers and AI. On data centers: HB560 (in committee) — Removes existing sales tax exemptions and property tax breaks that data centers currently receive in Maryland. On AI: SB720 (enacted) — Maryland requires the Department of Education to develop guidance, guidelines, and best practices for AI use in K-12 schools and establish a collaborative to support local systems in evaluating and…",
   "legislation": [
-    {
-      "id": "md-hb293",
-      "billCode": "HB293",
-      "title": "Maryland Longitudinal Data System Center - External Data Sharing With Third-Party Data Centers for Multistate Reporting - Authorization",
-      "summary": "This bill allows Maryland's student and workforce data system to share data with third-party data centers for multistate reporting, subject to written agreements and compliance requirements. It establishes oversight by requiring reports to legislative committees whenever such data-sharing agreements are entered into.",
-      "stage": "Floor",
-      "stance": "concerning",
-      "dimensionStances": {
-        "ai-consumer": "concerning",
-        "ai-public": "review"
-      },
-      "impactTags": [
-        "data-privacy",
-        "ai-in-education"
-      ],
-      "category": "ai-education",
-      "updatedDate": "2026-04-09",
-      "sourceUrl": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0293?ys=2026RS",
-      "legiscanUrl": "https://legiscan.com/MD/bill/HB293/2026",
-      "legiscanId": 2070741,
-      "sponsors": [
-        "Ways and Means"
-      ]
-    },
     {
       "id": "md-sb597",
       "billCode": "SB597",
       "title": "Higher Education - Maryland Artificial Intelligence Partnership",
-      "summary": "This bill creates a statewide AI partnership within the University of Maryland system to coordinate AI initiatives, establish a public service fellowship, and set up an incubation lab to help state agencies adopt AI. It is designed to promote and advance AI development and use across Maryland's public sector and economy.",
-      "stage": "Committee",
-      "stance": "favorable",
+      "summary": "This bill creates a statewide AI partnership within the University of Maryland system to coordinate AI initiatives among government, academia, and industry. It also establishes an AI fellowship program and an incubation lab to help state agencies adopt and develop artificial intelligence tools.",
+      "stage": "Enacted",
+      "stance": "review",
       "impactTags": [
         "ai-safety",
         "algorithmic-transparency",
-        "job-creation",
         "economic-development"
       ],
       "category": "ai-governance",
-      "updatedDate": "2026-03-23",
+      "updatedDate": "2026-05-26",
       "partyOrigin": "B",
       "sourceUrl": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0597?ys=2026RS",
       "legiscanUrl": "https://legiscan.com/MD/bill/SB597/2026",
@@ -59,47 +34,74 @@
       ]
     },
     {
-      "id": "md-hb756",
-      "billCode": "HB756",
-      "title": "Law Enforcement - Use of Facial Recognition Technology - Images Captured in Dwelling Interior",
-      "summary": "This bill allows police in Maryland to use facial recognition technology when investigating certain crimes, specifically when the image analyzed was taken inside a home. It expands law enforcement's ability to use this surveillance tool in residential settings, raising privacy concerns.",
-      "stage": "Committee",
+      "id": "md-sb720",
+      "billCode": "SB720",
+      "title": "Education - Artificial Intelligence - Guidelines, Professional Development, and Collaborative (Artificial Intelligence Ready Schools Act)",
+      "summary": "Maryland requires the Department of Education to develop guidance, guidelines, and best practices for AI use in K-12 schools and establish a collaborative to support local systems in evaluating and implementing AI tools responsibly. The bill mandates professional development and creates an online platform to help educators, parents, and students understand AI risks and applications in education.",
+      "stage": "Enacted",
       "stance": "concerning",
       "dimensionStances": {
-        "ai-governance-dim": "concerning",
-        "ai-consumer": "concerning"
+        "ai-governance-dim": "review",
+        "ai-public": "review"
       },
       "impactTags": [
-        "algorithmic-transparency",
-        "data-privacy"
+        "ai-in-education",
+        "algorithmic-transparency"
       ],
-      "category": "ai-criminal-justice",
-      "updatedDate": "2026-02-04",
+      "category": "ai-education",
+      "updatedDate": "2026-05-26",
       "partyOrigin": "D",
-      "sourceUrl": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0756?ys=2026RS",
-      "legiscanUrl": "https://legiscan.com/MD/bill/HB756/2026",
-      "legiscanId": 2107083,
+      "sourceUrl": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0720?ys=2026RS",
+      "legiscanUrl": "https://legiscan.com/MD/bill/SB720/2026",
+      "legiscanId": 2112745,
       "sponsors": [
-        "Frank Conaway"
+        "Katie Hester",
+        "Dalya Attar",
+        "Benjamin Brooks",
+        "Brian Feldman"
+      ]
+    },
+    {
+      "id": "md-hb293",
+      "billCode": "HB293",
+      "title": "Maryland Longitudinal Data System Center - External Data Sharing With Third-Party Data Centers for Multistate Reporting - Authorization",
+      "summary": "This bill allows Maryland's student and workforce data system to share data with third-party data centers for multistate reporting, subject to written agreements and compliance requirements. It raises data privacy considerations by permitting sensitive student data to flow to external organizations, with oversight through legislative reporting requirements.",
+      "stage": "Enacted",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-consumer": "concerning",
+        "ai-public": "favorable"
+      },
+      "impactTags": [
+        "data-privacy",
+        "ai-in-education"
+      ],
+      "category": "ai-education",
+      "updatedDate": "2026-04-14",
+      "sourceUrl": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0293?ys=2026RS",
+      "legiscanUrl": "https://legiscan.com/MD/bill/HB293/2026",
+      "legiscanId": 2070741,
+      "sponsors": [
+        "Ways and Means"
       ]
     },
     {
       "id": "md-sb56",
       "billCode": "SB56",
       "title": "Maryland Longitudinal Data System Center - External Data Sharing With Third-Party Data Centers for Multistate Reporting - Authorization",
-      "summary": "This bill allows Maryland's student and workforce data system to share data with third-party data centers for multistate reporting, subject to written agreements and compliance requirements. It raises data privacy considerations by enabling sensitive student and workforce information to flow to external organizations under regulated but permissive conditions.",
-      "stage": "Floor",
+      "summary": "This bill allows Maryland's student and workforce data system to share data with third-party data centers for multistate reporting, subject to compliance requirements and a written agreement. It raises privacy considerations by expanding access to sensitive student and workforce data beyond the state system.",
+      "stage": "Enacted",
       "stance": "concerning",
       "dimensionStances": {
-        "ai-governance-dim": "none",
-        "ai-consumer": "concerning"
+        "ai-consumer": "concerning",
+        "ai-public": "favorable"
       },
       "impactTags": [
         "data-privacy",
-        "algorithmic-transparency"
+        "ai-in-education"
       ],
-      "category": "data-privacy",
-      "updatedDate": "2026-04-09",
+      "category": "ai-education",
+      "updatedDate": "2026-04-14",
       "sourceUrl": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0056?ys=2026RS",
       "legiscanUrl": "https://legiscan.com/MD/bill/SB56/2026",
       "legiscanId": 2070623,
@@ -108,10 +110,273 @@
       ]
     },
     {
+      "id": "md-hb1057",
+      "billCode": "HB1057",
+      "title": "Education - Artificial Intelligence - Guidelines, Professional Development, and Collaborative (Artificial Intelligence Ready Schools Act)",
+      "summary": "Maryland requires the Department of Education to develop guidance on artificial intelligence use in schools and mandates that local school systems designate AI coordinators to implement best practices. The law establishes frameworks for educator professional development and parent/student education about AI risks and responsible use.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "review",
+        "ai-public": "review"
+      },
+      "impactTags": [
+        "ai-in-education",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-education",
+      "updatedDate": "2026-04-13",
+      "partyOrigin": "D",
+      "sourceUrl": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1057?ys=2026RS",
+      "legiscanUrl": "https://legiscan.com/MD/bill/HB1057/2026",
+      "legiscanId": 2112595,
+      "sponsors": [
+        "Eric Ebersole",
+        "Caylin Young",
+        "Kris Fair",
+        "Anne Healey"
+      ]
+    },
+    {
+      "id": "md-hb883",
+      "billCode": "HB883",
+      "title": "Consumer Protection - Artificial Intelligence - Behavioral Health Care Prohibitions",
+      "summary": "Maryland prohibits AI developers from making false health claims or providing behavioral health care services without proper warnings, and requires consumer-facing AI products to include notices about their limitations. Violations are treated as unfair or deceptive trade practices under state consumer protection law.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-consumer": "restrictive",
+        "ai-public": "restrictive"
+      },
+      "impactTags": [
+        "ai-in-healthcare",
+        "data-privacy",
+        "child-safety"
+      ],
+      "category": "ai-healthcare",
+      "updatedDate": "2026-03-25",
+      "partyOrigin": "B",
+      "sourceUrl": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0883?ys=2026RS",
+      "legiscanUrl": "https://legiscan.com/MD/bill/HB883/2026",
+      "legiscanId": 2106914,
+      "sponsors": [
+        "Lily Qi",
+        "Adrian Boafo",
+        "Michele Guyton",
+        "Anne Kaiser"
+      ]
+    },
+    {
+      "id": "md-hb995",
+      "billCode": "HB995",
+      "title": "Health Occupations - Behavioral Health Care Providers - Use of Artificial Intelligence",
+      "summary": "Maryland prohibits behavioral health care providers from using AI to directly deliver mental health care to patients, while allowing AI use only for administrative tasks with specific informed consent requirements. The law establishes a ban on AI-delivered behavioral health services to protect patient safety and privacy.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-consumer": "restrictive",
+        "ai-public": "restrictive"
+      },
+      "impactTags": [
+        "ai-in-healthcare",
+        "data-privacy"
+      ],
+      "category": "ai-healthcare",
+      "updatedDate": "2026-03-19",
+      "partyOrigin": "D",
+      "sourceUrl": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0995?ys=2026RS",
+      "legiscanUrl": "https://legiscan.com/MD/bill/HB995/2026",
+      "legiscanId": 2110198,
+      "sponsors": [
+        "Jamila Woods",
+        "Julian Ivey",
+        "Aaron Kaufman",
+        "Cheryl Pasteur"
+      ]
+    },
+    {
+      "id": "md-hb1328",
+      "billCode": "HB1328",
+      "title": "Public Safety - Department of State Police - School Mapping Data Program",
+      "summary": "Maryland establishes a School Mapping Data Program within the Department of State Police to oversee and provide technical assistance for creating school mapping data to support emergency response. The bill transfers program administration and funding authority to State Police while maintaining focus on school safety infrastructure.",
+      "stage": "Committee",
+      "stance": "review",
+      "impactTags": [
+        "child-safety"
+      ],
+      "category": "ai-government",
+      "updatedDate": "2026-03-11",
+      "partyOrigin": "D",
+      "sourceUrl": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1328?ys=2026RS",
+      "legiscanUrl": "https://legiscan.com/MD/bill/HB1328/2026",
+      "legiscanId": 2114800,
+      "sponsors": [
+        "Jessica Feldmark"
+      ]
+    },
+    {
+      "id": "md-sb992",
+      "billCode": "SB992",
+      "title": "Public Utilities - Large Load Customers - Registration and Demand Response Program",
+      "summary": "This bill requires large electricity users, including data centers, to register with Maryland's Public Service Commission before connecting to the power grid and sets up a demand response program that can curtail their power use during grid stress. Data centers must meet certain conditions to qualify for existing tax exemptions under the new rules.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "environmental": "review",
+        "energy": "concerning"
+      },
+      "impactTags": [
+        "grid-capacity",
+        "energy-rates",
+        "tax-incentives",
+        "environmental-review"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-03-06",
+      "partyOrigin": "B",
+      "sourceUrl": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0992?ys=2026RS",
+      "legiscanUrl": "https://legiscan.com/MD/bill/SB992/2026",
+      "legiscanId": 2125989,
+      "sponsors": [
+        "Katie Hester",
+        "Brian Feldman",
+        "Karen Lewis Young",
+        "Charles Sydnor"
+      ]
+    },
+    {
+      "id": "md-hb795",
+      "billCode": "HB795",
+      "title": "Health Insurance - Artificial Intelligence - Grievance Process and Reporting (AI Health Insurance Accountability Act of 2026)",
+      "summary": "This bill requires health insurance carriers to provide human review of claim denials made by AI systems and to report data on AI-related grievances. It establishes accountability mechanisms for algorithmic decision-making in health insurance coverage determinations.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-public": "concerning"
+      },
+      "impactTags": [
+        "ai-in-healthcare",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-healthcare",
+      "updatedDate": "2026-02-23",
+      "partyOrigin": "D",
+      "sourceUrl": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0795?ys=2026RS",
+      "legiscanUrl": "https://legiscan.com/MD/bill/HB795/2026",
+      "legiscanId": 2106898,
+      "sponsors": [
+        "Chao Wu",
+        "Matthew Schindler",
+        "Jen Terrasa"
+      ]
+    },
+    {
+      "id": "md-sb375",
+      "billCode": "SB375",
+      "title": "County Boards of Education - Artificial Intelligence Training Program - Requirement",
+      "summary": "Maryland requires school board members to complete annual AI training programs covering technology fundamentals, educational best practices, and emerging guidance. The State Department of Education must develop or approve these programs, which can be delivered in person, online, or hybrid formats.",
+      "stage": "Committee",
+      "stance": "review",
+      "impactTags": [
+        "ai-in-education"
+      ],
+      "category": "ai-education",
+      "updatedDate": "2026-02-19",
+      "partyOrigin": "D",
+      "sourceUrl": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0375?ys=2026RS",
+      "legiscanUrl": "https://legiscan.com/MD/bill/SB375/2026",
+      "legiscanId": 2095366,
+      "sponsors": [
+        "Ron Watson"
+      ]
+    },
+    {
+      "id": "md-hb1261",
+      "billCode": "HB1261",
+      "title": "Consumer Protection - Artificial Intelligence Toys (Artificial Intelligence Toy Safety Act)",
+      "summary": "Maryland requires AI toys to meet child safety standards, include prominent labeling, and prohibits manufacturers from using children's data for targeted marketing. The law imposes substantive restrictions on how AI toy makers collect, use, and disclose personal information from young users.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "restrictive"
+      },
+      "impactTags": [
+        "child-safety",
+        "data-privacy",
+        "algorithmic-transparency"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-02-18",
+      "partyOrigin": "B",
+      "sourceUrl": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1261?ys=2026RS",
+      "legiscanUrl": "https://legiscan.com/MD/bill/HB1261/2026",
+      "legiscanId": 2114778,
+      "sponsors": [
+        "Derrick Coley",
+        "Marlon Amprey",
+        "Bernice Mireku-North",
+        "Cheryl Pasteur"
+      ]
+    },
+    {
+      "id": "md-hb1595",
+      "billCode": "HB1595",
+      "title": "Property Taxes - Authority of Counties to Establish a Subclass and Set a Special Rate for Personal Property of Data Centers",
+      "summary": "This bill allows Maryland counties and Baltimore City to create a special lower property tax rate for equipment owned by qualifying data centers. It gives local governments flexibility to offer tax incentives to attract data center investment starting in the 2027 tax year.",
+      "stage": "Committee",
+      "stance": "favorable",
+      "impactTags": [
+        "tax-incentives",
+        "economic-development",
+        "local-control"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-02-15",
+      "partyOrigin": "B",
+      "sourceUrl": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1595?ys=2026RS",
+      "legiscanUrl": "https://legiscan.com/MD/bill/HB1595/2026",
+      "legiscanId": 2118702,
+      "sponsors": [
+        "Kevin Hornberger",
+        "Julie Palakovich Carr"
+      ]
+    },
+    {
+      "id": "md-hb1534",
+      "billCode": "HB1534",
+      "title": "Data Centers - Standards for Operation and Siting",
+      "summary": "This bill requires data centers in Maryland to meet sound, vibration, and backup power standards set by the state Department of the Environment, and bans construction of data centers on certain agricultural land. Applicants must also submit reports to local authorities under specified conditions.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "environmental": "concerning",
+        "community": "concerning",
+        "land-use": "restrictive"
+      },
+      "impactTags": [
+        "noise-vibration",
+        "local-zoning",
+        "protected-land",
+        "environmental-review",
+        "carbon-emissions"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-02-13",
+      "partyOrigin": "R",
+      "sourceUrl": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1534?ys=2026RS",
+      "legiscanUrl": "https://legiscan.com/MD/bill/HB1534/2026",
+      "legiscanId": 2116446,
+      "sponsors": [
+        "April Fleming Miller"
+      ]
+    },
+    {
       "id": "md-hb1411",
       "billCode": "HB1411",
       "title": "Data Center Planning and Transparency Act",
-      "summary": "This Maryland bill requires large data center operators to file detailed disclosure reports with state and local agencies, and mandates that larger localities create formal data center planning rules by 2027. It increases oversight and transparency around where and how large data centers are built and operated.",
+      "summary": "This bill requires large data center owners to file detailed disclosure reports with state and local agencies, and mandates that larger local jurisdictions create official data center plans by 2027. It increases oversight and transparency around where and how data centers are built and operated in Maryland.",
       "stage": "Committee",
       "stance": "concerning",
       "dimensionStances": {
@@ -138,10 +403,152 @@
       ]
     },
     {
+      "id": "md-hb1385",
+      "billCode": "HB1385",
+      "title": "Health Insurance - Use of Artificial Intelligence - Human Evaluation",
+      "summary": "Maryland requires health insurers to have licensed healthcare professionals audit and evaluate AI tools used to make utilization review decisions, and to use those findings to revise how the tools perform. This ensures human oversight of automated insurance denial decisions that affect patient care.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-public": "concerning"
+      },
+      "impactTags": [
+        "ai-in-healthcare",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-healthcare",
+      "updatedDate": "2026-02-13",
+      "partyOrigin": "D",
+      "sourceUrl": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1385?ys=2026RS",
+      "legiscanUrl": "https://legiscan.com/MD/bill/HB1385/2026",
+      "legiscanId": 2116470,
+      "sponsors": [
+        "Terri Hill",
+        "Anne Kaiser",
+        "Gabriel Moreno",
+        "Julie Palakovich Carr"
+      ]
+    },
+    {
+      "id": "md-hb1082",
+      "billCode": "HB1082",
+      "title": "Large Load Customers - Data Centers and Rate Schedule Requirements",
+      "summary": "Maryland requires data centers to comply with large load customer rate schedule requirements and delays the submission deadline for electric company rate schedules from September 2026 to January 2027. This adds regulatory oversight of data center electricity pricing and grid management.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "impactTags": [
+        "energy-rates",
+        "grid-capacity"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-02-12",
+      "partyOrigin": "R",
+      "sourceUrl": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1082?ys=2026RS",
+      "legiscanUrl": "https://legiscan.com/MD/bill/HB1082/2026",
+      "legiscanId": 2112590,
+      "sponsors": [
+        "Bob Long"
+      ]
+    },
+    {
+      "id": "md-hb762",
+      "billCode": "HB762",
+      "title": "Law Enforcement – Use of Facial Recognition Technology – Images Captured by Camera Affixed to Dwelling Exterior",
+      "summary": "This bill allows police to use facial recognition technology when investigating certain crimes, specifically when the image comes from a camera mounted on the outside of a home by its owner or tenant. It expands law enforcement's ability to use facial recognition in investigations under these specific circumstances.",
+      "stage": "Committee",
+      "stance": "favorable",
+      "dimensionStances": {
+        "ai-governance-dim": "favorable",
+        "ai-consumer": "concerning"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "data-privacy"
+      ],
+      "category": "ai-criminal-justice",
+      "updatedDate": "2026-02-05",
+      "partyOrigin": "D",
+      "sourceUrl": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0762?ys=2026RS",
+      "legiscanUrl": "https://legiscan.com/MD/bill/HB762/2026",
+      "legiscanId": 2107030,
+      "sponsors": [
+        "Frank Conaway"
+      ]
+    },
+    {
+      "id": "md-hb756",
+      "billCode": "HB756",
+      "title": "Law Enforcement - Use of Facial Recognition Technology - Images Captured in Dwelling Interior",
+      "summary": "This bill allows law enforcement to use facial recognition technology in criminal investigations when the image being analyzed was taken inside a home or private dwelling. It expands the permitted use of facial recognition into more sensitive private spaces, raising significant privacy concerns.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "concerning"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "data-privacy"
+      ],
+      "category": "ai-criminal-justice",
+      "updatedDate": "2026-02-05",
+      "partyOrigin": "D",
+      "sourceUrl": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0756?ys=2026RS",
+      "legiscanUrl": "https://legiscan.com/MD/bill/HB756/2026",
+      "legiscanId": 2107083,
+      "sponsors": [
+        "Frank Conaway"
+      ]
+    },
+    {
+      "id": "md-hb712",
+      "billCode": "HB712",
+      "title": "Civil Actions - Product Liability - Artificial Intelligence Systems",
+      "summary": "Maryland establishes legal liability for AI developers and deployers for defective design, inadequate warnings, and breach of warranty, allowing consumers and the state to sue for harms caused by dangerous or defective AI systems. The law creates enforceable product liability standards specific to artificial intelligence, treating AI systems similarly to other consumer products under tort law.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "impactTags": [
+        "ai-safety",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-05",
+      "partyOrigin": "R",
+      "sourceUrl": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0712?ys=2026RS",
+      "legiscanUrl": "https://legiscan.com/MD/bill/HB712/2026",
+      "legiscanId": 2103215,
+      "sponsors": [
+        "Robin Grammer"
+      ]
+    },
+    {
+      "id": "md-sb427",
+      "billCode": "SB427",
+      "title": "Property Taxes - Authority of Counties to Establish a Subclass and Set a Special Rate for Personal Property of Data Centers",
+      "summary": "This bill allows Maryland counties and Baltimore City to create a special lower property tax category specifically for data center equipment, giving local governments the flexibility to offer tax breaks to attract data centers. The tax incentives would apply starting in the 2027 tax year.",
+      "stage": "Committee",
+      "stance": "favorable",
+      "impactTags": [
+        "tax-incentives",
+        "economic-development",
+        "local-control"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-02-04",
+      "partyOrigin": "D",
+      "sourceUrl": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0427?ys=2026RS",
+      "legiscanUrl": "https://legiscan.com/MD/bill/SB427/2026",
+      "legiscanId": 2102479,
+      "sponsors": [
+        "Karen Lewis Young"
+      ]
+    },
+    {
       "id": "md-hb560",
       "billCode": "HB560",
       "title": "Sales and Use Tax and Property Tax - Exemptions for Data Centers - Repeal",
-      "summary": "This bill would eliminate existing sales tax and property tax breaks that data centers in Maryland currently enjoy. Removing these incentives makes operating data centers more expensive and less financially attractive in the state.",
+      "summary": "This bill removes existing sales tax exemptions and property tax breaks that data centers currently receive in Maryland. By eliminating these incentives, the state would treat data center equipment and property like other taxable businesses.",
       "stage": "Committee",
       "stance": "restrictive",
       "impactTags": [
@@ -159,129 +566,6 @@
         "Gabriel Acevero",
         "Heather Bagnall",
         "Regina Boyce"
-      ]
-    },
-    {
-      "id": "md-hb1534",
-      "billCode": "HB1534",
-      "title": "Data Centers - Standards for Operation and Siting",
-      "summary": "This bill sets operational and siting standards for data centers in Maryland, including noise and vibration limits, backup power generation rules, and a ban on building data centers on certain agricultural land. It also requires applicants to submit reports to local authorities under specific conditions.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "dimensionStances": {
-        "environmental": "concerning",
-        "community": "concerning",
-        "land-use": "restrictive"
-      },
-      "impactTags": [
-        "noise-vibration",
-        "local-zoning",
-        "protected-land",
-        "environmental-review",
-        "carbon-emissions"
-      ],
-      "category": "data-center-siting",
-      "updatedDate": "2026-02-13",
-      "partyOrigin": "R",
-      "sourceUrl": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1534?ys=2026RS",
-      "legiscanUrl": "https://legiscan.com/MD/bill/HB1534/2026",
-      "legiscanId": 2116446,
-      "sponsors": [
-        "April Fleming Miller"
-      ]
-    },
-    {
-      "id": "md-sb992",
-      "billCode": "SB992",
-      "title": "Public Utilities - Large Load Customers - Registration and Demand Response Program",
-      "summary": "This bill requires large electricity users, including data centers, to register with Maryland's Public Service Commission before connecting to the grid and participate in a demand response program that can curtail their power use. Data centers must meet certain conditions to qualify for a tax exemption, and the Commission gains new authority to manage grid impacts from these large power consumers.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "dimensionStances": {
-        "energy": "concerning",
-        "community": "review",
-        "land-use": "none"
-      },
-      "impactTags": [
-        "grid-capacity",
-        "energy-rates",
-        "tax-incentives",
-        "local-zoning"
-      ],
-      "category": "data-center-energy",
-      "updatedDate": "2026-02-19",
-      "partyOrigin": "B",
-      "sourceUrl": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0992?ys=2026RS",
-      "legiscanUrl": "https://legiscan.com/MD/bill/SB992/2026",
-      "legiscanId": 2125989,
-      "sponsors": [
-        "Katie Hester",
-        "Brian Feldman",
-        "Karen Lewis Young",
-        "Charles Sydnor"
-      ]
-    },
-    {
-      "id": "md-sb427",
-      "billCode": "SB427",
-      "title": "Property Taxes - Authority of Counties to Establish a Subclass and Set a Special Rate for Personal Property of Data Centers",
-      "summary": "This bill lets Maryland counties and Baltimore City create a special lower property tax rate specifically for data center equipment, giving local governments flexibility to attract data center investment. The new tax rules would take effect starting in the 2027 tax year.",
-      "stage": "Committee",
-      "stance": "favorable",
-      "impactTags": [
-        "tax-incentives",
-        "economic-development",
-        "local-control"
-      ],
-      "category": "data-center-siting",
-      "updatedDate": "2026-01-30",
-      "partyOrigin": "D",
-      "sourceUrl": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0427?ys=2026RS",
-      "legiscanUrl": "https://legiscan.com/MD/bill/SB427/2026",
-      "legiscanId": 2102479,
-      "sponsors": [
-        "Karen Lewis Young"
-      ]
-    },
-    {
-      "id": "md-hb1595",
-      "billCode": "HB1595",
-      "title": "Property Taxes - Authority of Counties to Establish a Subclass and Set a Special Rate for Personal Property of Data Centers",
-      "summary": "This bill allows Maryland counties and Baltimore City to create a special lower property tax rate for qualified data centers, giving local governments the flexibility to offer tax incentives to attract data center investment. The new tax rules would take effect starting in the 2027 tax year.",
-      "stage": "Committee",
-      "stance": "favorable",
-      "impactTags": [
-        "tax-incentives",
-        "economic-development",
-        "local-control"
-      ],
-      "category": "data-center-siting",
-      "updatedDate": "2026-02-15",
-      "partyOrigin": "B",
-      "sourceUrl": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1595?ys=2026RS",
-      "legiscanUrl": "https://legiscan.com/MD/bill/HB1595/2026",
-      "legiscanId": 2118702,
-      "sponsors": [
-        "Kevin Hornberger",
-        "Julie Palakovich Carr"
-      ]
-    },
-    {
-      "id": "md-hb326",
-      "billCode": "HB326",
-      "title": "Education - Maryland Center for School Safety - Anonymous Reporting System",
-      "summary": "This bill requires Maryland's Center for School Safety to create an anonymous tip reporting system for school safety concerns. It is not related to AI or data-center policy.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-education",
-      "updatedDate": "2026-03-23",
-      "partyOrigin": "D",
-      "sourceUrl": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0326?ys=2026RS",
-      "legiscanUrl": "https://legiscan.com/MD/bill/HB326/2026",
-      "legiscanId": 2083581,
-      "sponsors": [
-        "Eric Ebersole"
       ]
     },
     {
@@ -304,7 +588,7 @@
         "grid-capacity"
       ],
       "category": "data-center-siting",
-      "updatedDate": "2026-01-14",
+      "updatedDate": "2026-01-19",
       "partyOrigin": "R",
       "sourceUrl": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0120?ys=2026RS",
       "legiscanUrl": "https://legiscan.com/MD/bill/HB120/2026",

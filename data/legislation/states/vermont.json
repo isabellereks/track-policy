@@ -2,18 +2,18 @@
   "state": "Vermont",
   "stateCode": "VT",
   "region": "na",
-  "stance": "concerning",
-  "stanceDatacenter": "review",
-  "stanceAI": "concerning",
-  "lastUpdated": "2026-04-14",
-  "contextBlurb": "Vermont has no enacted AI or data-center law. Pending bills would impose a moratorium on new AI data-center construction while the state studies impacts, set sustainability standards for facilities that do proceed, regulate AI in mental health services, and establish rights over neurological data.",
+  "stance": "restrictive",
+  "stanceDatacenter": "concerning",
+  "stanceAI": "restrictive",
+  "lastUpdated": "2026-07-22",
+  "contextBlurb": "Vermont is advancing regulation on data centers and leaning restrictive on AI. On data centers: S0205 (in committee) — Would temporarily ban the construction of new AI data centers in Vermont while the state studies their impacts. On AI: S0023 (enacted) — Vermont prohibits the creation and distribution of synthetic media (deepfakes) depicting candidates or election-related content without clear disclosure, with specific protections against non-conse…",
   "legislation": [
     {
       "id": "vt-h0727",
       "billCode": "H0727",
       "title": "An act relating to sustainable data center deployment",
-      "summary": "This Vermont bill sets sustainability requirements for new data centers, addressing their environmental footprint including energy use, water consumption, and carbon emissions. It likely imposes mandatory reviews or standards that data center operators must meet before or during deployment.",
-      "stage": "Committee",
+      "summary": "This Vermont bill sets environmental and sustainability requirements for data centers, likely covering energy efficiency, water use, and grid impact standards. It aims to ensure that new data center development meets sustainability benchmarks before or during deployment.",
+      "stage": "Dead",
       "stance": "concerning",
       "dimensionStances": {
         "environmental": "concerning",
@@ -23,11 +23,11 @@
         "water-consumption",
         "carbon-emissions",
         "environmental-review",
-        "grid-capacity",
-        "renewable-energy"
+        "renewable-energy",
+        "grid-capacity"
       ],
       "category": "data-center-energy",
-      "updatedDate": "2026-03-31",
+      "updatedDate": "2026-05-29",
       "sourceUrl": "https://legislature.vermont.gov/bill/status/2026/H.727",
       "legiscanUrl": "https://legiscan.com/VT/bill/H0727/2025",
       "legiscanId": 2087040,
@@ -39,7 +39,251 @@
       "id": "vt-h0816",
       "billCode": "H0816",
       "title": "An act relating to regulating the use of artificial intelligence in the provision of mental health services",
-      "summary": "This Vermont bill sets rules for how artificial intelligence can be used when providing mental health services to patients. It aims to ensure AI tools used in mental health care meet safety and transparency standards to protect patients.",
+      "summary": "This bill sets rules for how artificial intelligence can be used when providing mental health services in Vermont. It likely includes requirements around transparency, oversight, and safety to protect patients receiving AI-assisted mental health care.",
+      "stage": "Enacted",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-public": "concerning"
+      },
+      "impactTags": [
+        "ai-in-healthcare",
+        "algorithmic-transparency",
+        "ai-safety"
+      ],
+      "category": "ai-healthcare",
+      "updatedDate": "2026-05-29",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legislature.vermont.gov/bill/status/2026/H.816",
+      "legiscanUrl": "https://legiscan.com/VT/bill/H0816/2025",
+      "legiscanId": 2100382,
+      "sponsors": [
+        "Daisy Berbeco",
+        "Angela Arsenault",
+        "Monique Priestley"
+      ]
+    },
+    {
+      "id": "vt-h0814",
+      "billCode": "H0814",
+      "title": "An act relating to neurological rights and the use of artificial intelligence technology in health and human services",
+      "summary": "This bill establishes protections for people's neurological data and mental privacy, and sets rules for how AI can be used in health and human services. It places significant restrictions on the collection and use of brain and cognitive data, and requires oversight of AI systems making health-related decisions.",
+      "stage": "Enacted",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "restrictive",
+        "ai-public": "concerning"
+      },
+      "impactTags": [
+        "ai-in-healthcare",
+        "data-privacy",
+        "algorithmic-transparency",
+        "ai-safety"
+      ],
+      "category": "ai-healthcare",
+      "updatedDate": "2026-05-19",
+      "partyOrigin": "B",
+      "sourceUrl": "https://legislature.vermont.gov/bill/status/2026/H.814",
+      "legiscanUrl": "https://legiscan.com/VT/bill/H0814/2025",
+      "legiscanId": 2097980,
+      "sponsors": [
+        "Brian Cina",
+        "Daisy Berbeco",
+        "Elizabeth Burrows",
+        "Wendy Critchlow"
+      ]
+    },
+    {
+      "id": "vt-s0023",
+      "billCode": "S0023",
+      "title": "An act relating to the use of synthetic media in elections",
+      "summary": "Vermont prohibits the creation and distribution of synthetic media (deepfakes) depicting candidates or election-related content without clear disclosure, with specific protections against non-consensual intimate imagery. The law establishes penalties for violations and aims to preserve election integrity and protect individuals from deceptive manipulated content.",
+      "stage": "Enacted",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-consumer": "none",
+        "ai-synthetic": "restrictive"
+      },
+      "impactTags": [
+        "deepfake-regulation",
+        "child-safety"
+      ],
+      "category": "synthetic-media",
+      "updatedDate": "2026-03-11",
+      "partyOrigin": "B",
+      "sourceUrl": "https://legislature.vermont.gov/bill/status/2026/S.23",
+      "legiscanUrl": "https://legiscan.com/VT/bill/S0023/2025",
+      "legiscanId": 1934587,
+      "sponsors": [
+        "Ruth Hardy",
+        "Alison Clarkson",
+        "Brian Collamore",
+        "Robert Norris"
+      ]
+    },
+    {
+      "id": "vt-h0875",
+      "billCode": "H0875",
+      "title": "An act relating to the possession and promotion of child sexual abuse materials to include computer-generated images",
+      "summary": "This bill expands Vermont's child sexual abuse material laws to explicitly criminalize computer-generated or synthetic child sexual abuse imagery. It closes a legal gap by treating AI-generated child abuse material with the same prohibitions as real recordings.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-consumer": "restrictive",
+        "ai-synthetic": "restrictive"
+      },
+      "impactTags": [
+        "deepfake-regulation",
+        "child-safety"
+      ],
+      "category": "synthetic-media",
+      "updatedDate": "2026-02-04",
+      "partyOrigin": "B",
+      "sourceUrl": "https://legislature.vermont.gov/bill/status/2026/H.875",
+      "legiscanUrl": "https://legiscan.com/VT/bill/H0875/2025",
+      "legiscanId": 2105137,
+      "sponsors": [
+        "Zachary Harvey",
+        "Voranus Coffin IV",
+        "Kenneth Goslant",
+        "Mary Howard"
+      ]
+    },
+    {
+      "id": "vt-h0855",
+      "billCode": "H0855",
+      "title": "An act relating to defenses in civil actions based on harm caused by artificial intelligence",
+      "summary": "This bill addresses legal defenses available in civil lawsuits when someone is harmed by an artificial intelligence system. It likely sets rules for when AI developers or deployers can or cannot escape liability for damages caused by their systems.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "impactTags": [
+        "algorithmic-transparency",
+        "ai-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-03",
+      "partyOrigin": "R",
+      "sourceUrl": "https://legislature.vermont.gov/bill/status/2026/H.855",
+      "legiscanUrl": "https://legiscan.com/VT/bill/H0855/2025",
+      "legiscanId": 2103381,
+      "sponsors": [
+        "Zachary Harvey"
+      ]
+    },
+    {
+      "id": "vt-h0821",
+      "billCode": "H0821",
+      "title": "An act relating to artificial intelligence",
+      "summary": "This Vermont bill establishes rules and oversight for the use of artificial intelligence, likely including requirements around transparency, safety, and accountability. It aims to regulate how AI systems are developed and deployed to protect residents from potential harms.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "concerning"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "ai-safety",
+        "data-privacy"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-29",
+      "partyOrigin": "B",
+      "sourceUrl": "https://legislature.vermont.gov/bill/status/2026/H.821",
+      "legiscanUrl": "https://legiscan.com/VT/bill/H0821/2025",
+      "legiscanId": 2101287,
+      "sponsors": [
+        "Brian Cina",
+        "Angela Arsenault",
+        "Elizabeth Burrows",
+        "Wendy Critchlow"
+      ]
+    },
+    {
+      "id": "vt-h0822",
+      "billCode": "H0822",
+      "title": "An act relating to the regulation of generative artificial intelligence systems",
+      "summary": "Vermont proposes comprehensive regulation of generative AI systems, requiring transparency measures and safety standards for developers and deployers. The bill advances toward establishing enforceable rules around how generative AI systems are developed and used.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "concerning"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "ai-safety",
+        "data-privacy"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-29",
+      "partyOrigin": "B",
+      "sourceUrl": "https://legislature.vermont.gov/bill/status/2026/H.822",
+      "legiscanUrl": "https://legiscan.com/VT/bill/H0822/2025",
+      "legiscanId": 2101124,
+      "sponsors": [
+        "Brian Cina",
+        "Angela Arsenault",
+        "Elizabeth Burrows",
+        "Wendy Critchlow"
+      ]
+    },
+    {
+      "id": "vt-h0792",
+      "billCode": "H0792",
+      "title": "An act relating to liability standards for developers and deployers of artificial intelligence systems",
+      "summary": "This bill establishes legal responsibility rules for companies that build or use AI systems, holding them accountable when their AI causes harm. It creates a framework for who can be sued and under what circumstances when an AI system injures or damages someone.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "impactTags": [
+        "algorithmic-transparency",
+        "ai-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-28",
+      "partyOrigin": "B",
+      "sourceUrl": "https://legislature.vermont.gov/bill/status/2026/H.792",
+      "legiscanUrl": "https://legiscan.com/VT/bill/H0792/2025",
+      "legiscanId": 2094379,
+      "sponsors": [
+        "Monique Priestley",
+        "Daisy Berbeco",
+        "Elizabeth Burrows",
+        "Esme Cole"
+      ]
+    },
+    {
+      "id": "vt-h0804",
+      "billCode": "H0804",
+      "title": "An act relating to companion chatbots",
+      "summary": "This bill establishes regulatory requirements for companion chatbots, likely addressing safety, data protection, and potential harms from AI systems designed to simulate emotional relationships. The legislation imposes mandatory safeguards to protect users, particularly minors, from risks associated with AI companion technology.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "review",
+        "ai-consumer": "concerning"
+      },
+      "impactTags": [
+        "ai-safety",
+        "child-safety",
+        "data-privacy"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-01-28",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legislature.vermont.gov/bill/status/2026/H.804",
+      "legiscanUrl": "https://legiscan.com/VT/bill/H0804/2025",
+      "legiscanId": 2094544,
+      "sponsors": [
+        "Michael Mrowicki"
+      ]
+    },
+    {
+      "id": "vt-h0776",
+      "billCode": "H0776",
+      "title": "An act relating to the use of artificial intelligence in health care coverage decisions",
+      "summary": "This bill regulates how health insurance companies can use artificial intelligence when making decisions about patient coverage. It likely requires transparency and human oversight to ensure AI tools don't unfairly deny or limit health care benefits.",
       "stage": "Committee",
       "stance": "concerning",
       "dimensionStances": {
@@ -52,22 +296,45 @@
         "ai-safety"
       ],
       "category": "ai-healthcare",
-      "updatedDate": "2026-03-18",
-      "partyOrigin": "D",
-      "sourceUrl": "https://legislature.vermont.gov/bill/status/2026/H.816",
-      "legiscanUrl": "https://legiscan.com/VT/bill/H0816/2025",
-      "legiscanId": 2100382,
+      "updatedDate": "2026-01-27",
+      "partyOrigin": "B",
+      "sourceUrl": "https://legislature.vermont.gov/bill/status/2026/H.776",
+      "legiscanUrl": "https://legiscan.com/VT/bill/H0776/2025",
+      "legiscanId": 2093374,
       "sponsors": [
-        "Daisy Berbeco",
-        "Angela Arsenault",
-        "Monique Priestley"
+        "Monique Priestley",
+        "Elizabeth Burrows",
+        "Ela Chapin",
+        "Esme Cole"
+      ]
+    },
+    {
+      "id": "vt-h0720",
+      "billCode": "H0720",
+      "title": "An act relating to the Cloud Computing Public Utility Act",
+      "summary": "Vermont proposes establishing a regulatory framework to treat cloud computing data centers as public utilities, creating oversight mechanisms for their siting, operations, and public service obligations. The bill aims to balance economic development with community control and infrastructure planning.",
+      "stage": "Committee",
+      "stance": "review",
+      "impactTags": [
+        "local-control",
+        "economic-development"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-01-20",
+      "partyOrigin": "B",
+      "sourceUrl": "https://legislature.vermont.gov/bill/status/2026/H.720",
+      "legiscanUrl": "https://legiscan.com/VT/bill/H0720/2025",
+      "legiscanId": 2084378,
+      "sponsors": [
+        "Monique Priestley",
+        "Laura Sibilia"
       ]
     },
     {
       "id": "vt-s0205",
       "billCode": "S0205",
       "title": "An act relating to a temporary moratorium on AI data centers and a report on the construction and operation of AI data centers in Vermont",
-      "summary": "This bill would temporarily ban the construction of new AI data centers in Vermont while the state studies their impacts. The moratorium pauses new projects until lawmakers can review effects on energy, water, and the environment.",
+      "summary": "This bill would temporarily ban the construction of new AI data centers in Vermont while the state studies their impacts. The moratorium gives lawmakers time to assess how these facilities affect energy use, water, and the environment before allowing new ones to be built.",
       "stage": "Committee",
       "stance": "restrictive",
       "dimensionStances": {
@@ -97,148 +364,33 @@
       ]
     },
     {
-      "id": "vt-h0382",
-      "billCode": "H0382",
-      "title": "An act relating to data collection in the criminal justice system",
-      "summary": "This bill focuses on how data is collected and managed within Vermont's criminal justice system. It likely establishes requirements or oversight for tracking criminal justice data, which could include how automated tools or algorithms interact with that data.",
+      "id": "vt-h0034",
+      "billCode": "H0034",
+      "title": "An act relating to workforce leadership in Vermont",
+      "summary": "This bill establishes workforce leadership initiatives in Vermont but does not substantively address AI regulation or automated employment decisions. It appears to focus on general workforce development rather than AI-specific workplace concerns.",
       "stage": "Committee",
       "stance": "review",
-      "dimensionStances": {
-        "ai-governance-dim": "review",
-        "ai-consumer": "review"
-      },
       "impactTags": [
-        "algorithmic-transparency",
-        "data-privacy"
+        "job-creation"
       ],
-      "category": "ai-criminal-justice",
-      "updatedDate": "2025-02-26",
-      "partyOrigin": "D",
-      "sourceUrl": "https://legislature.vermont.gov/bill/status/2026/H.382",
-      "legiscanUrl": "https://legiscan.com/VT/bill/H0382/2025",
-      "legiscanId": 1982822,
-      "sponsors": [
-        "Kevin Christie"
-      ]
-    },
-    {
-      "id": "vt-h0814",
-      "billCode": "H0814",
-      "title": "An act relating to neurological rights and the use of artificial intelligence technology in health and human services",
-      "summary": "This Vermont bill establishes protections for people's neurological data and mental privacy, while regulating how AI can be used in health and human services decisions. It creates rights around brain data and imposes requirements on AI systems that affect health or social services.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "dimensionStances": {
-        "ai-governance-dim": "concerning",
-        "ai-consumer": "restrictive",
-        "ai-public": "concerning"
-      },
-      "impactTags": [
-        "ai-in-healthcare",
-        "data-privacy",
-        "algorithmic-transparency",
-        "ai-safety"
-      ],
-      "category": "ai-healthcare",
-      "updatedDate": "2026-03-18",
+      "category": "ai-workforce",
+      "updatedDate": "2025-05-13",
       "partyOrigin": "B",
-      "sourceUrl": "https://legislature.vermont.gov/bill/status/2026/H.814",
-      "legiscanUrl": "https://legiscan.com/VT/bill/H0814/2025",
-      "legiscanId": 2097980,
+      "sourceUrl": "https://legislature.vermont.gov/bill/status/2026/H.34",
+      "legiscanUrl": "https://legiscan.com/VT/bill/H0034/2025",
+      "legiscanId": 1919629,
       "sponsors": [
-        "Brian Cina",
-        "Daisy Berbeco",
-        "Elizabeth Burrows",
-        "Wendy Critchlow"
-      ]
-    },
-    {
-      "id": "vt-h0341",
-      "billCode": "H0341",
-      "title": "An act relating to creating oversight and safety standards for developers and deployers of inherently dangerous artificial intelligence systems",
-      "summary": "This bill would establish oversight rules and safety requirements for companies that build or use AI systems deemed inherently dangerous. It places significant compliance obligations on AI developers and deployers operating in Vermont.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "dimensionStances": {
-        "ai-governance-dim": "concerning",
-        "ai-consumer": "concerning"
-      },
-      "impactTags": [
-        "ai-safety",
-        "algorithmic-transparency",
-        "data-privacy"
-      ],
-      "category": "ai-governance",
-      "updatedDate": "2025-02-25",
-      "partyOrigin": "B",
-      "sourceUrl": "https://legislature.vermont.gov/bill/status/2026/H.341",
-      "legiscanUrl": "https://legiscan.com/VT/bill/H0341/2025",
-      "legiscanId": 1981655,
-      "sponsors": [
-        "Monique Priestley",
-        "Angela Arsenault",
-        "Daisy Berbeco",
-        "Esme Cole"
-      ]
-    },
-    {
-      "id": "vt-h0821",
-      "billCode": "H0821",
-      "title": "An act relating to artificial intelligence",
-      "summary": "This Vermont bill establishes rules and oversight for the use of artificial intelligence, likely including transparency and safety requirements for AI systems. It aims to regulate how AI is developed or deployed to protect residents from potential harms.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "dimensionStances": {
-        "ai-governance-dim": "concerning",
-        "ai-consumer": "concerning"
-      },
-      "impactTags": [
-        "algorithmic-transparency",
-        "ai-safety",
-        "data-privacy"
-      ],
-      "category": "ai-governance",
-      "updatedDate": "2026-01-29",
-      "partyOrigin": "B",
-      "sourceUrl": "https://legislature.vermont.gov/bill/status/2026/H.821",
-      "legiscanUrl": "https://legiscan.com/VT/bill/H0821/2025",
-      "legiscanId": 2101287,
-      "sponsors": [
-        "Brian Cina",
-        "Angela Arsenault",
-        "Elizabeth Burrows",
-        "Wendy Critchlow"
-      ]
-    },
-    {
-      "id": "vt-h0792",
-      "billCode": "H0792",
-      "title": "An act relating to liability standards for developers and deployers of artificial intelligence systems",
-      "summary": "This bill establishes legal liability rules for companies that build or use AI systems in Vermont. It would hold AI developers and deployers responsible when their systems cause harm to people.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "impactTags": [
-        "algorithmic-transparency",
-        "ai-safety"
-      ],
-      "category": "ai-governance",
-      "updatedDate": "2026-01-28",
-      "partyOrigin": "B",
-      "sourceUrl": "https://legislature.vermont.gov/bill/status/2026/H.792",
-      "legiscanUrl": "https://legiscan.com/VT/bill/H0792/2025",
-      "legiscanId": 2094379,
-      "sponsors": [
-        "Monique Priestley",
-        "Daisy Berbeco",
-        "Elizabeth Burrows",
-        "Esme Cole"
+        "Michael Marcotte",
+        "David Bosch",
+        "Michael Boutin",
+        "Jonathan Cooper"
       ]
     },
     {
       "id": "vt-h0365",
       "billCode": "H0365",
       "title": "An act relating to the regulation of social media platforms and artificial intelligence systems",
-      "summary": "This Vermont bill would establish rules for how social media platforms and AI systems must operate, likely including transparency requirements, safety standards, and protections for users. It represents a broad regulatory framework aimed at holding these technologies accountable to public standards.",
+      "summary": "This bill would regulate both social media platforms and AI systems in Vermont, likely establishing rules around transparency, safety, and user protections. It appears to impose significant compliance requirements on companies operating these platforms and AI tools.",
       "stage": "Committee",
       "stance": "concerning",
       "dimensionStances": {
@@ -263,72 +415,57 @@
       ]
     },
     {
-      "id": "vt-h0776",
-      "billCode": "H0776",
-      "title": "An act relating to the use of artificial intelligence in health care coverage decisions",
-      "summary": "This bill regulates how artificial intelligence can be used by health insurers when making coverage decisions, such as approving or denying medical treatments. It likely requires transparency and human oversight to ensure AI tools don't unfairly deny patients the care they need.",
+      "id": "vt-h0382",
+      "billCode": "H0382",
+      "title": "An act relating to data collection in the criminal justice system",
+      "summary": "This bill focuses on how data is collected and managed within Vermont's criminal justice system. It likely establishes requirements or studies around tracking criminal justice data, which could include oversight of how that data is used in decision-making processes.",
+      "stage": "Committee",
+      "stance": "review",
+      "dimensionStances": {
+        "ai-governance-dim": "review",
+        "ai-consumer": "none"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "data-privacy"
+      ],
+      "category": "ai-criminal-justice",
+      "updatedDate": "2025-02-26",
+      "partyOrigin": "D",
+      "sourceUrl": "https://legislature.vermont.gov/bill/status/2026/H.382",
+      "legiscanUrl": "https://legiscan.com/VT/bill/H0382/2025",
+      "legiscanId": 1982822,
+      "sponsors": [
+        "Kevin Christie"
+      ]
+    },
+    {
+      "id": "vt-h0341",
+      "billCode": "H0341",
+      "title": "An act relating to creating oversight and safety standards for developers and deployers of inherently dangerous artificial intelligence systems",
+      "summary": "This bill would establish oversight rules and safety standards for companies that build or use AI systems deemed inherently dangerous. It places significant regulatory requirements on AI developers and deployers operating in Vermont.",
       "stage": "Committee",
       "stance": "concerning",
       "dimensionStances": {
         "ai-governance-dim": "concerning",
-        "ai-public": "concerning"
+        "ai-consumer": "concerning"
       },
       "impactTags": [
-        "ai-in-healthcare",
+        "ai-safety",
         "algorithmic-transparency",
-        "ai-safety"
+        "data-privacy"
       ],
-      "category": "ai-healthcare",
-      "updatedDate": "2026-01-27",
+      "category": "ai-governance",
+      "updatedDate": "2025-02-25",
       "partyOrigin": "B",
-      "sourceUrl": "https://legislature.vermont.gov/bill/status/2026/H.776",
-      "legiscanUrl": "https://legiscan.com/VT/bill/H0776/2025",
-      "legiscanId": 2093374,
+      "sourceUrl": "https://legislature.vermont.gov/bill/status/2026/H.341",
+      "legiscanUrl": "https://legiscan.com/VT/bill/H0341/2025",
+      "legiscanId": 1981655,
       "sponsors": [
         "Monique Priestley",
-        "Elizabeth Burrows",
-        "Ela Chapin",
+        "Angela Arsenault",
+        "Daisy Berbeco",
         "Esme Cole"
-      ]
-    },
-    {
-      "id": "vt-h0027",
-      "billCode": "H0027",
-      "title": "An act relating to the Domestic Violence Fatality Review Commission",
-      "summary": "This bill relates to a commission that reviews deaths caused by domestic violence. It has no relevance to AI regulation or data-center policy.",
-      "stage": "Enacted",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2025-05-20",
-      "partyOrigin": "D",
-      "sourceUrl": "https://legislature.vermont.gov/bill/status/2026/H.27",
-      "legiscanUrl": "https://legiscan.com/VT/bill/H0027/2025",
-      "legiscanId": 1908400,
-      "sponsors": [
-        "Martin LaLonde",
-        "Kate Nugent"
-      ]
-    },
-    {
-      "id": "vt-h0855",
-      "billCode": "H0855",
-      "title": "An act relating to defenses in civil actions based on harm caused by artificial intelligence",
-      "summary": "This bill addresses legal defenses available in civil lawsuits when someone is harmed by an artificial intelligence system. It likely sets rules for when AI developers or deployers can or cannot escape liability for damages caused by their systems.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "impactTags": [
-        "algorithmic-transparency",
-        "ai-safety"
-      ],
-      "category": "ai-governance",
-      "updatedDate": "2026-02-03",
-      "partyOrigin": "R",
-      "sourceUrl": "https://legislature.vermont.gov/bill/status/2026/H.855",
-      "legiscanUrl": "https://legiscan.com/VT/bill/H0855/2025",
-      "legiscanId": 2103381,
-      "sponsors": [
-        "Zachary Harvey"
       ]
     }
   ]

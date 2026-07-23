@@ -2,47 +2,134 @@
   "state": "Virginia",
   "stateCode": "VA",
   "region": "na",
-  "stance": "review",
-  "stanceDatacenter": "review",
-  "stanceAI": "review",
-  "lastUpdated": "2026-04-14",
-  "contextBlurb": "Virginia enacted a legislative study of whether to create an AI safety verification framework, with recommendations due in November 2026. Pending bills would tie the state's data-center sales-tax exemption to new clean-energy and carbon standards, and require large platforms to support AI and social-graph data portability.",
+  "stance": "concerning",
+  "stanceDatacenter": "concerning",
+  "stanceAI": "concerning",
+  "lastUpdated": "2026-07-22",
+  "contextBlurb": "Virginia is advancing regulation across both data centers and AI. On data centers: HB323 (enacted) — Virginia directs its Department of Energy to lead a work group effort to accelerate the beneficial reuse of waste heat from data centers, with findings and legislative recommendations due by Septem… On AI: SB338 (enacted) — Prohibits companies from selling or offering to sell precise geolocation data about consumers under Virginia's consumer protection framework.",
   "legislation": [
     {
-      "id": "va-sb85",
-      "billCode": "SB85",
-      "title": "Consumer Data Protection Act; social media platforms & model operators, interoperability interfaces.",
-      "summary": "This Virginia bill requires social media platforms and AI system operators to build open interfaces so users can move their personal connection data and AI-related data to other services. It places significant technical and compliance obligations on covered platforms, taking effect in 2027.",
-      "stage": "Committee",
+      "id": "va-sb338",
+      "billCode": "SB338",
+      "title": "Consumer Data Protection Act; data controller responsibilities, precise geolocation data.",
+      "summary": "This bill prohibits companies from selling or offering to sell precise geolocation data about consumers under Virginia's consumer protection framework. It restricts a specific high-sensitivity data practice that could be used for tracking and surveillance purposes.",
+      "stage": "Enacted",
       "stance": "concerning",
-      "dimensionStances": {
-        "ai-governance-dim": "concerning",
-        "ai-consumer": "favorable"
-      },
       "impactTags": [
-        "data-privacy",
-        "algorithmic-transparency"
+        "data-privacy"
       ],
       "category": "data-privacy",
-      "updatedDate": "2026-02-09",
-      "partyOrigin": "D",
-      "sourceUrl": "https://lis.virginia.gov/bill-details/20261/SB85",
-      "legiscanUrl": "https://legiscan.com/VA/bill/SB85/2026",
-      "legiscanId": 2064572,
+      "updatedDate": "2026-04-13",
+      "partyOrigin": "B",
+      "sourceUrl": "https://lis.virginia.gov/bill-details/20261/SB338",
+      "legiscanUrl": "https://legiscan.com/VA/bill/SB338/2026",
+      "legiscanId": 2085407,
       "sponsors": [
-        "Schuyler VanValkenburg"
+        "Russet Perry",
+        "David Suetterlein"
+      ]
+    },
+    {
+      "id": "va-hb323",
+      "billCode": "HB323",
+      "title": "Data centers; Department of Energy shall lead efforts to accelerate use of waste heat, report.",
+      "summary": "Virginia directs its Department of Energy to lead a work group effort to accelerate the beneficial reuse of waste heat from data centers, with findings and legislative recommendations due by September 2026. The bill supports energy efficiency and emissions reduction without imposing restrictions on data center operations.",
+      "stage": "Enacted",
+      "stance": "favorable",
+      "impactTags": [
+        "carbon-emissions",
+        "renewable-energy"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-04-13",
+      "partyOrigin": "D",
+      "sourceUrl": "https://lis.virginia.gov/bill-details/20261/HB323",
+      "legiscanUrl": "https://legiscan.com/VA/bill/HB323/2026",
+      "legiscanId": 2070805,
+      "sponsors": [
+        "Richard Sullivan",
+        "Nicole Cole",
+        "Amy Laufer"
+      ]
+    },
+    {
+      "id": "va-hb1161",
+      "billCode": "HB1161",
+      "title": "Government. Data Collection & Dissemin. Practices Act; dissemin. of personal info. to federal gov't.",
+      "summary": "This bill restricts Virginia state and local agencies from sharing personal information with the federal government except when required by law, court order, or explicit consent, and prohibits the sale of personal data with civil penalties for knowing violations. The measure aims to protect resident privacy by limiting government data dissemination practices.",
+      "stage": "Enacted",
+      "stance": "concerning",
+      "impactTags": [
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-04-13",
+      "partyOrigin": "D",
+      "sourceUrl": "https://lis.virginia.gov/bill-details/20261/HB1161",
+      "legiscanUrl": "https://legiscan.com/VA/bill/HB1161/2026",
+      "legiscanId": 2079442,
+      "sponsors": [
+        "Kathy Tran",
+        "Alfonso Lopez",
+        "Marcia Price",
+        "Irene Shin"
+      ]
+    },
+    {
+      "id": "va-hb577",
+      "billCode": "HB577",
+      "title": "Social work; applicants for licensure, criminal background check, report.",
+      "summary": "This bill requires social work license applicants to submit fingerprints and personal identifying information for criminal background checks, with strict limits on how the resulting criminal history data can be shared among government agencies and prohibitions on sharing with private entities. The bill also directs the Department of State Police to review concerns about criminal history record dissemination practices.",
+      "stage": "Enacted",
+      "stance": "concerning",
+      "impactTags": [
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-04-13",
+      "partyOrigin": "D",
+      "sourceUrl": "https://lis.virginia.gov/bill-details/20261/HB577",
+      "legiscanUrl": "https://legiscan.com/VA/bill/HB577/2026",
+      "legiscanId": 2072241,
+      "sponsors": [
+        "Jackie Glass",
+        "Virgil Thornton"
+      ]
+    },
+    {
+      "id": "va-hb507",
+      "billCode": "HB507",
+      "title": "Data centers; permit requirements, emission limits for certain engine-generator sets.",
+      "summary": "Virginia prohibits air permits for new data centers after July 1, 2026 unless their engine-generator sets meet strict Tier 4 emission limits. This regulation tightens environmental standards for data center backup power systems.",
+      "stage": "Enacted",
+      "stance": "concerning",
+      "impactTags": [
+        "environmental-review",
+        "carbon-emissions"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-04-08",
+      "partyOrigin": "D",
+      "sourceUrl": "https://lis.virginia.gov/bill-details/20261/HB507",
+      "legiscanUrl": "https://legiscan.com/VA/bill/HB507/2026",
+      "legiscanId": 2072218,
+      "sponsors": [
+        "John Chilton McAuliff",
+        "Shelly Simonds",
+        "J.J. Singh",
+        "Joshua Thomas"
       ]
     },
     {
       "id": "va-hb797",
       "billCode": "HB797",
       "title": "Artificial intelligence; framework for person/entity acting as an independent verification org.",
-      "summary": "This bill directs a Virginia legislative commission to study whether the state should create a framework for independent organizations that verify AI systems meet safety standards. The commission must report its findings and recommendations by November 2026, but no regulations are enacted yet.",
+      "summary": "This bill directs Virginia's Joint Commission on Technology and Science to study whether a framework for independent organizations that verify AI models' safety and compliance with best practices is feasible. The commission must report its findings and recommendations to the legislature by November 2026.",
       "stage": "Enacted",
       "stance": "review",
       "impactTags": [
-        "algorithmic-transparency",
-        "ai-safety"
+        "ai-safety",
+        "algorithmic-transparency"
       ],
       "category": "ai-governance",
       "updatedDate": "2026-04-08",
@@ -56,49 +143,75 @@
       ]
     },
     {
-      "id": "va-sb352",
-      "billCode": "SB352",
-      "title": "Law-enforcement officers; restrictions on wearing of facial coverings, exceptions, penalty.",
-      "summary": "This bill regulates when law enforcement officers can wear physical face coverings (like masks) while on duty, with limited exceptions. It has no connection to AI policy, facial recognition technology, or data-center regulation.",
-      "stage": "Floor",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-criminal-justice",
-      "updatedDate": "2026-03-30",
+      "id": "va-sb445",
+      "billCode": "SB445",
+      "title": "Motor Vehicles, Department of;  release of data to certain institutions of higher education, fee.",
+      "summary": "Virginia authorizes universities to access Department of Motor Vehicles data for surveys and marketing, requiring subject consent and limiting use to institution-related purposes. The bill imposes a $10,000 implementation fee per participating institution and takes effect January 1, 2027.",
+      "stage": "Enacted",
+      "stance": "concerning",
+      "impactTags": [
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-04-06",
       "partyOrigin": "D",
-      "sourceUrl": "https://lis.virginia.gov/bill-details/20261/SB352",
-      "legiscanUrl": "https://legiscan.com/VA/bill/SB352/2026",
-      "legiscanId": 2085455,
+      "sourceUrl": "https://lis.virginia.gov/bill-details/20261/SB445",
+      "legiscanUrl": "https://legiscan.com/VA/bill/SB445/2026",
+      "legiscanId": 2085524,
       "sponsors": [
-        "Saddam Salim",
-        "Jennifer Boysko",
-        "Creigh Deeds",
-        "Adam Ebbin"
+        "Lamont Bagby"
       ]
     },
     {
-      "id": "va-hb603",
-      "billCode": "HB603",
-      "title": "Virginia All-Payer Claims Database; disclosure of information, limitation.",
-      "summary": "This bill limits what health insurance payment data can be shared from Virginia's statewide medical claims database. It is not related to AI or data-center policy.",
-      "stage": "Floor",
-      "stance": "none",
-      "impactTags": [],
+      "id": "va-hb1226",
+      "billCode": "HB1226",
+      "title": "Motor Vehicles, Department of;  release of data to certain institutions of higher education, fee.",
+      "summary": "This bill authorizes Virginia colleges and universities to access Department of Motor Vehicles data for marketing and surveys, subject to consent requirements and a $10,000 implementation fee. The measure creates a new data-sharing pathway with safeguards but allows institutional use of sensitive driver information.",
+      "stage": "Enacted",
+      "stance": "concerning",
+      "impactTags": [
+        "data-privacy"
+      ],
       "category": "data-privacy",
-      "updatedDate": "2026-03-06",
+      "updatedDate": "2026-04-06",
       "partyOrigin": "D",
-      "sourceUrl": "https://lis.virginia.gov/bill-details/20261/HB603",
-      "legiscanUrl": "https://legiscan.com/VA/bill/HB603/2026",
-      "legiscanId": 2072995,
+      "sourceUrl": "https://lis.virginia.gov/bill-details/20261/HB1226",
+      "legiscanUrl": "https://legiscan.com/VA/bill/HB1226/2026",
+      "legiscanId": 2078255,
       "sponsors": [
-        "Rodney Willett"
+        "Briana Sewell"
+      ]
+    },
+    {
+      "id": "va-sb85",
+      "billCode": "SB85",
+      "title": "Consumer Data Protection Act; social media platforms & model operators, interoperability interfaces.",
+      "summary": "This Virginia bill would require social media platforms and AI model operators to build open interfaces that let users transfer their social connections and AI-related data to other services. It expands existing consumer data protection law to mandate interoperability, giving users more control over how their information is shared across platforms.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "favorable"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "data-privacy"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-03-09",
+      "partyOrigin": "D",
+      "sourceUrl": "https://lis.virginia.gov/bill-details/20261/SB85",
+      "legiscanUrl": "https://legiscan.com/VA/bill/SB85/2026",
+      "legiscanId": 2064572,
+      "sponsors": [
+        "Schuyler VanValkenburg"
       ]
     },
     {
       "id": "va-hb897",
       "billCode": "HB897",
       "title": "Retail Sales and Use Tax; exemption for data centers, delayed effective date.",
-      "summary": "This bill ties Virginia's existing data center sales tax exemption to new clean energy requirements, including phased bans on carbon-emitting generators and mandates to source energy from clean resources. Data centers that don't meet these environmental and efficiency standards will lose their tax break starting in 2027.",
+      "summary": "This bill ties Virginia's existing sales tax exemption for data centers to new clean energy requirements, including phasing out carbon-emitting power sources and mandating a certain percentage of energy from clean resources by 2029. Data centers that don't meet these environmental and energy efficiency standards would lose access to the tax break.",
       "stage": "Committee",
       "stance": "concerning",
       "impactTags": [
@@ -108,7 +221,7 @@
         "environmental-review"
       ],
       "category": "data-center-energy",
-      "updatedDate": "2026-02-16",
+      "updatedDate": "2026-03-03",
       "partyOrigin": "D",
       "sourceUrl": "https://lis.virginia.gov/bill-details/20261/HB897",
       "legiscanUrl": "https://legiscan.com/VA/bill/HB897/2026",
@@ -121,141 +234,202 @@
       ]
     },
     {
-      "id": "va-hb567",
-      "billCode": "HB567",
-      "title": "Court records; aggregated case data, request by attorney for the Commonwealth exempted.",
-      "summary": "This bill allows Commonwealth attorneys to request court records with identifying information like names and partial Social Security numbers for official duties. It is not related to AI or data-center policy.",
-      "stage": "Enacted",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-criminal-justice",
-      "updatedDate": "2026-04-06",
-      "partyOrigin": "D",
-      "sourceUrl": "https://lis.virginia.gov/bill-details/20261/HB567",
-      "legiscanUrl": "https://legiscan.com/VA/bill/HB567/2026",
-      "legiscanId": 2072333,
-      "sponsors": [
-        "Karen Carnegie",
-        "Betsy Carr"
-      ]
-    },
-    {
-      "id": "va-sb524",
-      "billCode": "SB524",
-      "title": "Mental health & substance abuse disorders; network adequacy standards, comparative analyses, report.",
-      "summary": "This bill updates Virginia's mental health and substance abuse insurance coverage rules, including network adequacy standards and federal parity law compliance requirements. It has no connection to AI policy or data-center regulation.",
-      "stage": "Floor",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-healthcare",
-      "updatedDate": "2026-03-30",
-      "partyOrigin": "D",
-      "sourceUrl": "https://lis.virginia.gov/bill-details/20261/SB524",
-      "legiscanUrl": "https://legiscan.com/VA/bill/SB524/2026",
-      "legiscanId": 2085730,
-      "sponsors": [
-        "Creigh Deeds"
-      ]
-    },
-    {
-      "id": "va-hb656",
-      "billCode": "HB656",
-      "title": "Mental health & substance abuse disorders; network adequacy standards, comparative analyses, report.",
-      "summary": "This bill sets network adequacy standards for mental health and substance abuse treatment coverage under health insurance plans in Virginia. It is not related to AI or data-center policy.",
-      "stage": "Floor",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-healthcare",
-      "updatedDate": "2026-03-30",
-      "partyOrigin": "B",
-      "sourceUrl": "https://lis.virginia.gov/bill-details/20261/HB656",
-      "legiscanUrl": "https://legiscan.com/VA/bill/HB656/2026",
-      "legiscanId": 2073032,
-      "sponsors": [
-        "Rodney Willett",
-        "Bonita Anthony",
-        "Nadarius Clark",
-        "Nicole Cole"
-      ]
-    },
-    {
-      "id": "va-sb480",
-      "billCode": "SB480",
-      "title": "Adults charged with criminal offenses punishable by incarceration; Va. longitudinal Data System.",
-      "summary": "This bill allows Virginia's Criminal Sentencing Commission to share data about adults charged with criminal offenses with a statewide education data system, while keeping personal information confidential. It is primarily a data-sharing and record-keeping measure, not an AI or data-center policy bill.",
-      "stage": "Enacted",
-      "stance": "none",
+      "id": "va-sb465",
+      "billCode": "SB465",
+      "title": "Retail Sales and Use Tax; exemption for data centers.",
+      "summary": "Virginia requires data center operators to meet strict energy efficiency standards and renewable energy procurement targets to qualify for sales tax exemptions on equipment purchases. The bill ties tax benefits to measurable environmental performance, including power usage effectiveness limits and 90% carbon-free electricity by 2028.",
+      "stage": "Committee",
+      "stance": "concerning",
       "impactTags": [
-        "data-privacy"
+        "renewable-energy",
+        "carbon-emissions",
+        "tax-incentives"
       ],
-      "category": "ai-criminal-justice",
-      "updatedDate": "2026-04-06",
+      "category": "data-center-energy",
+      "updatedDate": "2026-02-17",
       "partyOrigin": "D",
-      "sourceUrl": "https://lis.virginia.gov/bill-details/20261/SB480",
-      "legiscanUrl": "https://legiscan.com/VA/bill/SB480/2026",
-      "legiscanId": 2085628,
-      "sponsors": [
-        "Creigh Deeds"
-      ]
-    },
-    {
-      "id": "va-hb1084",
-      "billCode": "HB1084",
-      "title": "Adults charged with criminal offenses punishable by incarceration; Va. longitudinal Data System.",
-      "summary": "This bill allows a Virginia criminal sentencing body to share its collected data on adults charged with crimes into a statewide longitudinal data system, while keeping personal information confidential. It is primarily a data-sharing and record-keeping measure, not an AI or data-center policy bill.",
-      "stage": "Enacted",
-      "stance": "none",
-      "impactTags": [
-        "data-privacy"
-      ],
-      "category": "ai-criminal-justice",
-      "updatedDate": "2026-04-06",
-      "partyOrigin": "D",
-      "sourceUrl": "https://lis.virginia.gov/bill-details/20261/HB1084",
-      "legiscanUrl": "https://legiscan.com/VA/bill/HB1084/2026",
-      "legiscanId": 2079139,
-      "sponsors": [
-        "Phil Hernandez"
-      ]
-    },
-    {
-      "id": "va-hb483",
-      "billCode": "HB483",
-      "title": "Prescription Drug Affordability Board; established.",
-      "summary": "This bill establishes a Prescription Drug Affordability Advisory Panel to study and recommend policies on drug pricing, and caps certain drug prices at federally set maximum fair prices. It has no relevance to AI regulation or data-center policy.",
-      "stage": "Floor",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2026-03-30",
-      "partyOrigin": "B",
-      "sourceUrl": "https://lis.virginia.gov/bill-details/20261/HB483",
-      "legiscanUrl": "https://legiscan.com/VA/bill/HB483/2026",
-      "legiscanId": 2072063,
-      "sponsors": [
-        "Karrie Delaney",
-        "Nadarius Clark",
-        "Ellen McLaughlin",
-        "Joshua Thomas"
-      ]
-    },
-    {
-      "id": "va-sb271",
-      "billCode": "SB271",
-      "title": "Prescription Drug Affordability Board; established.",
-      "summary": "This bill creates a board to study and limit prescription drug prices in Virginia, requiring price transparency from drug manufacturers and pharmacy benefit managers. It has no connection to AI or data-center policy.",
-      "stage": "Floor",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-healthcare",
-      "updatedDate": "2026-03-30",
-      "partyOrigin": "D",
-      "sourceUrl": "https://lis.virginia.gov/bill-details/20261/SB271",
-      "legiscanUrl": "https://legiscan.com/VA/bill/SB271/2026",
-      "legiscanId": 2077494,
+      "sourceUrl": "https://lis.virginia.gov/bill-details/20261/SB465",
+      "legiscanUrl": "https://legiscan.com/VA/bill/SB465/2026",
+      "legiscanId": 2085555,
       "sponsors": [
         "Creigh Deeds",
-        "Jennifer Carroll Foy"
+        "Russet Perry"
+      ]
+    },
+    {
+      "id": "va-hb961",
+      "billCode": "HB961",
+      "title": "Retail Sales and Use Tax; commercial and industrial exemptions, data centers.",
+      "summary": "Virginia limits a tax exemption for data-center computer equipment to pre-operation purchases and energy-efficiency upgrades, effectively narrowing but preserving tax incentives for data-center development and modernization. The bill encourages investment in more efficient equipment through preferential tax treatment of refresh cycles that improve energy efficiency.",
+      "stage": "Committee",
+      "stance": "favorable",
+      "dimensionStances": {
+        "environmental": "favorable",
+        "energy": "favorable"
+      },
+      "impactTags": [
+        "tax-incentives",
+        "energy-rates",
+        "renewable-energy"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-02-11",
+      "partyOrigin": "D",
+      "sourceUrl": "https://lis.virginia.gov/bill-details/20261/HB961",
+      "legiscanUrl": "https://legiscan.com/VA/bill/HB961/2026",
+      "legiscanId": 2078227,
+      "sponsors": [
+        "Vivian Watts"
+      ]
+    },
+    {
+      "id": "va-hb638",
+      "billCode": "HB638",
+      "title": "Data brokers; regulation, civil penalties.",
+      "summary": "Virginia prohibits data brokers from acquiring or misusing personal information for stalking, fraud, or discrimination, and requires them to implement security programs and register annually starting in 2027. Violations are treated as consumer protection violations subject to civil penalties.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "none",
+        "ai-consumer": "restrictive"
+      },
+      "impactTags": [
+        "data-privacy",
+        "algorithmic-transparency"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-02-09",
+      "partyOrigin": "D",
+      "sourceUrl": "https://lis.virginia.gov/bill-details/20261/HB638",
+      "legiscanUrl": "https://legiscan.com/VA/bill/HB638/2026",
+      "legiscanId": 2073172,
+      "sponsors": [
+        "Michelle Maldonado",
+        "Bonita Anthony",
+        "Rozia Henson"
+      ]
+    },
+    {
+      "id": "va-sb93",
+      "billCode": "SB93",
+      "title": "Data centers; taxes on banks that are tenants of a center.",
+      "summary": "Virginia removes sales tax exemptions for data center equipment when banks are tenants, and makes bank equipment in data centers subject to franchise tax starting July 2026. This effectively reduces tax incentives for data centers that host financial institutions.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "impactTags": [
+        "tax-incentives",
+        "economic-development"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-02-05",
+      "partyOrigin": "D",
+      "sourceUrl": "https://lis.virginia.gov/bill-details/20261/SB93",
+      "legiscanUrl": "https://legiscan.com/VA/bill/SB93/2026",
+      "legiscanId": 2067197,
+      "sponsors": [
+        "Danica Roem",
+        "Michelle Maldonado"
+      ]
+    },
+    {
+      "id": "va-sb232",
+      "billCode": "SB232",
+      "title": "Consumer Data Protection Act; prohibitions and duties relating to minors.",
+      "summary": "Virginia's Consumer Data Protection Act restricts online services from collecting data from minors without verified parental consent and requires controllers to exercise reasonable care in handling minors' data, including limitations on algorithmic targeting and advertising. The law expands parental rights to access and control their children's data, with enforcement beginning in 2027.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "restrictive"
+      },
+      "impactTags": [
+        "data-privacy",
+        "child-safety",
+        "algorithmic-transparency"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-02-04",
+      "partyOrigin": "R",
+      "sourceUrl": "https://lis.virginia.gov/bill-details/20261/SB232",
+      "legiscanUrl": "https://legiscan.com/VA/bill/SB232/2026",
+      "legiscanId": 2078098,
+      "sponsors": [
+        "Chris Head"
+      ]
+    },
+    {
+      "id": "va-sb201",
+      "billCode": "SB201",
+      "title": "Consumer Data Protection Act; protections for children, definitions.",
+      "summary": "This bill requires companies to obtain verifiable parental consent before collecting personal data from children under 18. It establishes stricter data protection rules for minors with defined consent and disclosure requirements.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "impactTags": [
+        "data-privacy",
+        "child-safety"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-02-04",
+      "partyOrigin": "R",
+      "sourceUrl": "https://lis.virginia.gov/bill-details/20261/SB201",
+      "legiscanUrl": "https://legiscan.com/VA/bill/SB201/2026",
+      "legiscanId": 2070222,
+      "sponsors": [
+        "David Suetterlein"
+      ]
+    },
+    {
+      "id": "va-sb552",
+      "billCode": "SB552",
+      "title": "Siting of large data centers; site assessment, standards, civil penalties.",
+      "summary": "Virginia requires localities to conduct public hearings and site assessments before approving large data center projects, with the Department of Environmental Quality establishing standards for noise, light, water use, air emissions, and proximity impacts. The state can issue civil penalties and revoke approvals for ongoing violations of these standards.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "environmental": "concerning",
+        "community": "concerning",
+        "land-use": "restrictive"
+      },
+      "impactTags": [
+        "local-control",
+        "environmental-review",
+        "water-consumption",
+        "noise-vibration",
+        "residential-proximity"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-02-02",
+      "partyOrigin": "R",
+      "sourceUrl": "https://lis.virginia.gov/bill-details/20261/SB552",
+      "legiscanUrl": "https://legiscan.com/VA/bill/SB552/2026",
+      "legiscanId": 2085852,
+      "sponsors": [
+        "Glen Sturtevant"
+      ]
+    },
+    {
+      "id": "va-sb615",
+      "billCode": "SB615",
+      "title": "Consumer Data Protection Act; online device pricing, prohibition.",
+      "summary": "Virginia's Consumer Data Protection Act prohibits companies from using device hardware state, software presence, or precise location data to generate different prices for consumers in online transactions. The bill creates enforceable restrictions on algorithmic pricing discrimination based on personal device and location information.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "review",
+        "ai-consumer": "restrictive"
+      },
+      "impactTags": [
+        "data-privacy",
+        "algorithmic-transparency"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-01-28",
+      "partyOrigin": "D",
+      "sourceUrl": "https://lis.virginia.gov/bill-details/20261/SB615",
+      "legiscanUrl": "https://legiscan.com/VA/bill/SB615/2026",
+      "legiscanId": 2086569,
+      "sponsors": [
+        "Stella Pekarsky"
       ]
     }
   ]

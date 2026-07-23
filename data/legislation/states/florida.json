@@ -2,58 +2,108 @@
   "state": "Florida",
   "stateCode": "FL",
   "region": "na",
-  "stance": "concerning",
-  "stanceDatacenter": "concerning",
+  "stance": "restrictive",
+  "stanceDatacenter": "restrictive",
   "stanceAI": "concerning",
-  "lastUpdated": "2026-04-14",
-  "contextBlurb": "Florida is moving aggressively to hand data-center siting back to local governments, with a floor bill that would block water permits for large projects and require grid-impact studies before construction. A separate measure would shield site-selection details from public records.",
+  "lastUpdated": "2026-07-22",
+  "contextBlurb": "Florida is leaning restrictive on data centers and advancing regulation on AI. On data centers: S0484 (enacted) — Gives local governments control over zoning and land-use decisions for large data centers, restricts their ability to obtain water permits under certain conditions, and requires an indepe… On AI: S1816 (enacted) — Florida designates the Tampa Bay area as a CyberBay innovation region to advance cybersecurity and artificial intelligence development through coordinated public-private partnerships.",
   "legislation": [
     {
-      "id": "fl-h1007",
-      "billCode": "H1007",
+      "id": "fl-s0484",
+      "billCode": "S0484",
       "title": "Data Centers",
-      "summary": "This bill places significant restrictions on large data centers in Florida, including banning the use of fresh water (requiring reclaimed water instead), giving local governments control over data center land-use planning, and requiring energy and grid impact studies before construction permits are issued. It also prohibits state agencies from signing nondisclosure agreements that hide data center-related information from the public.",
-      "stage": "Committee",
+      "summary": "This bill gives local governments control over zoning and land-use decisions for large data centers, restricts their ability to obtain water permits under certain conditions, and requires an independent study on the impacts of large-scale data center construction and operation. It also sets minimum utility service requirements for data centers connecting to the power grid.",
+      "stage": "Enacted",
       "stance": "concerning",
       "dimensionStances": {
-        "environmental": "concerning",
+        "environmental": "restrictive",
         "energy": "concerning",
         "community": "favorable",
-        "land-use": "concerning"
+        "land-use": "favorable"
       },
       "impactTags": [
         "local-zoning",
         "local-control",
         "water-consumption",
         "water-infrastructure",
-        "nda-transparency"
+        "environmental-review"
       ],
       "category": "data-center-siting",
-      "updatedDate": "2026-01-05",
+      "updatedDate": "2026-05-08",
       "partyOrigin": "R",
-      "sourceUrl": "https://www.flsenate.gov/Session/Bill/2026/1007",
-      "legiscanUrl": "https://legiscan.com/FL/bill/H1007/2026",
-      "legiscanId": 2065319,
+      "sourceUrl": "https://www.flsenate.gov/Session/Bill/2026/484",
+      "legiscanUrl": "https://legiscan.com/FL/bill/S0484/2026",
+      "legiscanId": 2070066,
       "sponsors": [
-        "Commerce Committee",
-        "State Affairs Committee",
-        "Philip Griffitts"
+        "Rules",
+        "Community Affairs",
+        "Bryan Avila",
+        "Clay Yarborough"
+      ]
+    },
+    {
+      "id": "fl-s0002",
+      "billCode": "S0002",
+      "title": "Artificial Intelligence Bill of Rights",
+      "summary": "Florida law prohibits government entities from contracting with AI providers unless they meet specified requirements, and mandates parental consent for minors using chatbot platforms along with periodic user notifications. The bill restricts government AI procurement and establishes safeguards for minor users of AI systems.",
+      "stage": "Dead",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-governance-dim": "restrictive",
+        "ai-consumer": "restrictive"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "child-safety",
+        "ai-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-04-29",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.flsenate.gov/Session/Bill/2026D/2D",
+      "legiscanUrl": "https://legiscan.com/FL/bill/S0002/2026/X4",
+      "legiscanId": 2145808,
+      "sponsors": [
+        "Jason Brodeur"
+      ]
+    },
+    {
+      "id": "fl-h1517",
+      "billCode": "H1517",
+      "title": "Approval of Data Center Facilities",
+      "summary": "This bill requires data centers in Florida to disclose detailed information about their operations (such as energy and water use) to the state environmental agency, which must then make that information public. It also blocks data centers from using tax credits or other protections to keep that disclosed information confidential.",
+      "stage": "Dead",
+      "stance": "concerning",
+      "impactTags": [
+        "water-consumption",
+        "carbon-emissions",
+        "environmental-review",
+        "nda-transparency"
+      ],
+      "category": "data-center-energy",
+      "updatedDate": "2026-03-13",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.flsenate.gov/Session/Bill/2026/1517",
+      "legiscanUrl": "https://legiscan.com/FL/bill/H1517/2026",
+      "legiscanId": 2069957,
+      "sponsors": [
+        "Dotie Joseph"
       ]
     },
     {
       "id": "fl-h0527",
       "billCode": "H0527",
       "title": "Mandatory Human Reviews of Insurance Claim Denials",
-      "summary": "This Florida bill allows insurance companies and HMOs to use AI to help process claims, but prohibits AI from being the sole reason a claim is denied or reduced. A qualified human professional must make the final call on any claim denial or payment reduction.",
+      "summary": "This bill allows Florida insurance companies and HMOs to use AI to help process claims, but bans AI from being the sole decision-maker when denying or reducing a claim. A qualified human professional must make any final decision to deny or reduce a payment.",
       "stage": "Dead",
-      "stance": "concerning",
+      "stance": "restrictive",
       "dimensionStances": {
         "ai-governance-dim": "concerning",
         "ai-public": "concerning"
       },
       "impactTags": [
-        "algorithmic-transparency",
         "ai-in-healthcare",
+        "algorithmic-transparency",
         "ai-safety"
       ],
       "category": "ai-healthcare",
@@ -73,11 +123,11 @@
       "id": "fl-h0875",
       "billCode": "H0875",
       "title": "Eyewitness Identification",
-      "summary": "This Florida bill reforms how police conduct eyewitness identification procedures, including placing limits on when facial recognition technology can be used. It sets strict documentation, recording, and procedural requirements for lineups and other identification methods.",
+      "summary": "This Florida bill reforms eyewitness identification procedures, including placing limits on when police can use facial recognition technology during lineups and show-ups. It also sets new documentation, recording, and procedural requirements to improve the reliability of identifications used in criminal cases.",
       "stage": "Dead",
       "stance": "restrictive",
       "dimensionStances": {
-        "ai-governance-dim": "concerning",
+        "ai-governance-dim": "review",
         "ai-synthetic": "none"
       },
       "impactTags": [
@@ -98,7 +148,7 @@
       "id": "fl-s1202",
       "billCode": "S1202",
       "title": "Eyewitness Identification",
-      "summary": "This bill updates eyewitness identification rules for law enforcement, including restrictions on using facial recognition technology \u2014 if it's used to identify a suspect, additional conditions must be met before a lineup can proceed. It aims to improve the reliability of identifications and reduce wrongful convictions by regulating how facial recognition fits into the investigation process.",
+      "summary": "This bill updates Florida's eyewitness identification procedures, including rules for when facial recognition technology can be used to identify suspects. It restricts police from conducting a lineup after using facial recognition unless specific conditions are satisfied, adding oversight to how AI-assisted identification feeds into criminal investigations.",
       "stage": "Dead",
       "stance": "concerning",
       "impactTags": [
@@ -118,14 +168,14 @@
       "id": "fl-s0480",
       "billCode": "S0480",
       "title": "Information Technology",
-      "summary": "This bill reorganizes Florida's state technology operations by moving the Florida Digital Service into a new division called DIGIT within the Governor's office. DIGIT would be responsible for setting IT standards, strategy, and oversight across state agencies.",
+      "summary": "This bill reorganizes Florida's state technology management by moving IT oversight functions into a new division called DIGIT within the Governor's office. The new division would be responsible for setting technology standards, strategy, and governance across state agencies.",
       "stage": "Committee",
       "stance": "review",
       "impactTags": [
         "algorithmic-transparency"
       ],
       "category": "ai-government",
-      "updatedDate": "2026-01-12",
+      "updatedDate": "2026-03-13",
       "partyOrigin": "R",
       "sourceUrl": "https://www.flsenate.gov/Session/Bill/2026/480",
       "legiscanUrl": "https://legiscan.com/FL/bill/S0480/2026",
@@ -137,66 +187,10 @@
       ]
     },
     {
-      "id": "fl-s0484",
-      "billCode": "S0484",
-      "title": "Data Centers",
-      "summary": "This Florida bill gives local governments control over zoning and land-use rules for large data centers, sets utility service requirements for big power customers, and blocks water-use permits for large-scale data centers under certain conditions. It also requires a study on the impacts of building and operating large-scale data centers in the state.",
-      "stage": "Floor",
-      "stance": "concerning",
-      "dimensionStances": {
-        "environmental": "concerning",
-        "energy": "concerning",
-        "community": "favorable",
-        "land-use": "favorable"
-      },
-      "impactTags": [
-        "local-zoning",
-        "local-control",
-        "water-consumption",
-        "water-infrastructure",
-        "environmental-review"
-      ],
-      "category": "data-center-siting",
-      "updatedDate": "2026-03-13",
-      "partyOrigin": "R",
-      "sourceUrl": "https://www.flsenate.gov/Session/Bill/2026/484",
-      "legiscanUrl": "https://legiscan.com/FL/bill/S0484/2026",
-      "legiscanId": 2070066,
-      "sponsors": [
-        "Rules",
-        "Community Affairs",
-        "Bryan Avila",
-        "Clay Yarborough"
-      ]
-    },
-    {
-      "id": "fl-h1517",
-      "billCode": "H1517",
-      "title": "Approval of Data Center Facilities",
-      "summary": "This bill requires data centers in Florida to disclose detailed information about their operations (such as energy and water use) to the state Department of Environmental Protection, which must post it publicly. It penalizes non-compliance and bars companies from using tax credits or exemptions to shield this information from disclosure.",
-      "stage": "Dead",
-      "stance": "concerning",
-      "impactTags": [
-        "water-consumption",
-        "carbon-emissions",
-        "environmental-review",
-        "nda-transparency"
-      ],
-      "category": "data-center-energy",
-      "updatedDate": "2026-03-13",
-      "partyOrigin": "D",
-      "sourceUrl": "https://www.flsenate.gov/Session/Bill/2026/1517",
-      "legiscanUrl": "https://legiscan.com/FL/bill/H1517/2026",
-      "legiscanId": 2069957,
-      "sponsors": [
-        "Dotie Joseph"
-      ]
-    },
-    {
       "id": "fl-s1118",
       "billCode": "S1118",
       "title": "Public Records/Data Centers",
-      "summary": "This bill shields information about plans to build or locate data centers from public records requests in Florida. It keeps site selection details confidential, which can help companies avoid competitors learning their expansion plans but reduces public visibility into where data centers may be built.",
+      "summary": "This bill allows companies planning to build data centers in Florida to keep their location plans and intentions secret from public records requests. It creates a confidentiality exemption to encourage businesses to choose Florida for new data center projects without fear of competitors learning their plans.",
       "stage": "Committee",
       "stance": "favorable",
       "dimensionStances": {
@@ -204,11 +198,11 @@
         "land-use": "favorable"
       },
       "impactTags": [
-        "local-zoning",
-        "nda-transparency"
+        "nda-transparency",
+        "local-control"
       ],
       "category": "data-center-siting",
-      "updatedDate": "2026-01-09",
+      "updatedDate": "2026-03-13",
       "partyOrigin": "R",
       "sourceUrl": "https://www.flsenate.gov/Session/Bill/2026/1118",
       "legiscanUrl": "https://legiscan.com/FL/bill/S1118/2026",
@@ -216,59 +210,6 @@
       "sponsors": [
         "Community Affairs",
         "Bryan Avila"
-      ]
-    },
-    {
-      "id": "fl-s2500",
-      "billCode": "S2500",
-      "title": "Appropriations",
-      "summary": "This is Florida's general state budget bill covering government salaries and expenses for the 2026-2027 fiscal year. It is not specifically about AI or data-center policy.",
-      "stage": "Filed",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2026-02-18",
-      "sourceUrl": "https://www.flsenate.gov/Session/Bill/2026/2500",
-      "legiscanUrl": "https://legiscan.com/FL/bill/S2500/2026",
-      "legiscanId": 2117014,
-      "sponsors": [
-        "Appropriations"
-      ]
-    },
-    {
-      "id": "fl-h5001",
-      "billCode": "H5001",
-      "title": "General Appropriations Act",
-      "summary": "This is Florida's general state budget bill covering government salaries, expenses, and capital projects for the 2026-2027 fiscal year. It is not specifically focused on AI or data-center policy.",
-      "stage": "Dead",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2026-03-13",
-      "partyOrigin": "R",
-      "sourceUrl": "https://www.flsenate.gov/Session/Bill/2026/5001",
-      "legiscanUrl": "https://legiscan.com/FL/bill/H5001/2026",
-      "legiscanId": 2117701,
-      "sponsors": [
-        "House Budget Committee",
-        "Lawrence McClure"
-      ]
-    },
-    {
-      "id": "fl-s2516",
-      "billCode": "S2516",
-      "title": "Higher Education",
-      "summary": "This bill makes administrative changes to Florida's nursing education programs, including fee waivers and grant reporting requirements. It has no connection to AI regulation or data-center policy.",
-      "stage": "Dead",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2026-03-13",
-      "sourceUrl": "https://www.flsenate.gov/Session/Bill/2026/2516",
-      "legiscanUrl": "https://legiscan.com/FL/bill/S2516/2026",
-      "legiscanId": 2116904,
-      "sponsors": [
-        "Appropriations"
       ]
     },
     {
@@ -297,6 +238,245 @@
       "sponsors": [
         "Appropriations",
         "Tom Leek"
+      ]
+    },
+    {
+      "id": "fl-h1395",
+      "billCode": "H1395",
+      "title": "Artificial Intelligence",
+      "summary": "Florida would prohibit government contracts with AI vendors that don't meet transparency and safety standards, require parental consent for minors to use AI chatbots, and ban commercial use of AI-generated versions of people's faces or voices without permission. The law creates private lawsuits and penalties for violations.",
+      "stage": "Dead",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "restrictive"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "child-safety",
+        "data-privacy",
+        "ai-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-13",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.flsenate.gov/Session/Bill/2026/1395",
+      "legiscanUrl": "https://legiscan.com/FL/bill/H1395/2026",
+      "legiscanId": 2069770,
+      "sponsors": [
+        "Alejandro Rizo"
+      ]
+    },
+    {
+      "id": "fl-s7030",
+      "billCode": "S7030",
+      "title": "Public Records/Investigations by the Department of Legal Affairs",
+      "summary": "Florida exempts from public disclosure certain Department of Legal Affairs investigations into companion chatbot violations and bot-related consumer protection violations, keeping investigation details confidential even after cases close. The law restricts transparency around how the state enforces AI chatbot regulations.",
+      "stage": "Dead",
+      "stance": "concerning",
+      "impactTags": [
+        "algorithmic-transparency"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-13",
+      "sourceUrl": "https://www.flsenate.gov/Session/Bill/2026/7030",
+      "legiscanUrl": "https://legiscan.com/FL/bill/S7030/2026",
+      "legiscanId": 2083999,
+      "sponsors": [
+        "Appropriations",
+        "Commerce and Tourism"
+      ]
+    },
+    {
+      "id": "fl-s1458",
+      "billCode": "S1458",
+      "title": "Artificial Intelligence in Higher Education",
+      "summary": "This bill establishes a study group to examine the use of artificial intelligence in Florida's higher education system and requires the group to submit findings and recommendations to state leadership. It is exploratory in nature without imposing new regulations or restrictions on AI use in colleges and universities.",
+      "stage": "Dead",
+      "stance": "review",
+      "impactTags": [
+        "ai-in-education"
+      ],
+      "category": "ai-education",
+      "updatedDate": "2026-03-13",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.flsenate.gov/Session/Bill/2026/1458",
+      "legiscanUrl": "https://legiscan.com/FL/bill/S1458/2026",
+      "legiscanId": 2068792,
+      "sponsors": [
+        "Tracie Davis"
+      ]
+    },
+    {
+      "id": "fl-h0899",
+      "billCode": "H0899",
+      "title": "Task Force on Artificial Intelligence in Public Postsecondary Education",
+      "summary": "Florida establishes a task force to study how artificial intelligence is used in public colleges and universities. The task force will examine AI's role in education and make recommendations for policy.",
+      "stage": "Dead",
+      "stance": "review",
+      "impactTags": [
+        "ai-in-education"
+      ],
+      "category": "ai-education",
+      "updatedDate": "2026-03-13",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.flsenate.gov/Session/Bill/2026/899",
+      "legiscanUrl": "https://legiscan.com/FL/bill/H0899/2026",
+      "legiscanId": 2060846,
+      "sponsors": [
+        "Leonard Spencer",
+        "Daryl Campbell"
+      ]
+    },
+    {
+      "id": "fl-h0281",
+      "billCode": "H0281",
+      "title": "Use of Artificial Intelligence in Psychological, Clinical, Counseling, and Therapy Services",
+      "summary": "Florida prohibits the use of artificial intelligence in psychology, clinical social work, marriage and family therapy, and mental health counseling services, with limited exceptions. The bill defines what constitutes AI and aims to protect patients by requiring human practitioners in these mental health professions.",
+      "stage": "Dead",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-governance-dim": "restrictive",
+        "ai-public": "restrictive"
+      },
+      "impactTags": [
+        "ai-in-healthcare",
+        "ai-safety"
+      ],
+      "category": "ai-healthcare",
+      "updatedDate": "2026-03-13",
+      "partyOrigin": "B",
+      "sourceUrl": "https://www.flsenate.gov/Session/Bill/2026/281",
+      "legiscanUrl": "https://legiscan.com/FL/bill/H0281/2026",
+      "legiscanId": 2047676,
+      "sponsors": [
+        "Christine Hunschofsky",
+        "Dana Trabulsy",
+        "Anna Eskamani",
+        "Marie Woodson"
+      ]
+    },
+    {
+      "id": "fl-s0344",
+      "billCode": "S0344",
+      "title": "Use of Artificial Intelligence in Psychological, Clinical, Counseling, and Therapy Services",
+      "summary": "Florida prohibits the use of artificial intelligence in psychology, clinical social work, marriage and family therapy, and mental health counseling services. The bill treats AI-assisted mental health practice as incompatible with licensed professional standards in these fields.",
+      "stage": "Dead",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-governance-dim": "restrictive",
+        "ai-public": "restrictive"
+      },
+      "impactTags": [
+        "ai-in-healthcare",
+        "ai-safety"
+      ],
+      "category": "ai-healthcare",
+      "updatedDate": "2026-03-13",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.flsenate.gov/Session/Bill/2026/344",
+      "legiscanUrl": "https://legiscan.com/FL/bill/S0344/2026",
+      "legiscanId": 2051500,
+      "sponsors": [
+        "Erin Grall"
+      ]
+    },
+    {
+      "id": "fl-h1189",
+      "billCode": "H1189",
+      "title": "Diversity, Equity, and Inclusion and Affirmative Action",
+      "summary": "This bill prohibits hiring managers from engaging in employment practices that discriminate based on protected characteristics and revises state personnel rules to enforce equal opportunity employment standards. While not AI-specific, it restricts algorithmic or discretionary hiring practices that could perpetuate discrimination in employment decisions.",
+      "stage": "Dead",
+      "stance": "restrictive",
+      "impactTags": [
+        "ai-in-employment"
+      ],
+      "category": "ai-workforce",
+      "updatedDate": "2026-03-13",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.flsenate.gov/Session/Bill/2026/1189",
+      "legiscanUrl": "https://legiscan.com/FL/bill/H1189/2026",
+      "legiscanId": 2068155,
+      "sponsors": [
+        "Judson Sapp",
+        "Jon Albert",
+        "Webster Barnaby"
+      ]
+    },
+    {
+      "id": "fl-s1816",
+      "billCode": "S1816",
+      "title": "CyberBay",
+      "summary": "Florida designates the Tampa Bay area as a CyberBay innovation region to advance cybersecurity and artificial intelligence development through coordinated public-private partnerships. The measure supports economic growth and digital infrastructure leadership in the state.",
+      "stage": "Enacted",
+      "stance": "favorable",
+      "impactTags": [
+        "economic-development",
+        "job-creation"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-12",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.flsenate.gov/Session/Bill/2026/1816",
+      "legiscanUrl": "https://legiscan.com/FL/bill/S1816/2026",
+      "legiscanId": 2132172,
+      "sponsors": [
+        "Daniel Burgess"
+      ]
+    },
+    {
+      "id": "fl-h1007",
+      "billCode": "H1007",
+      "title": "Data Centers",
+      "summary": "This Florida bill regulates large data centers by requiring transparency contracts, giving local governments control over land-use planning, mandating water efficiency studies, and prohibiting data centers from obtaining new freshwater permits while requiring them to use reclaimed water instead. It also directs the Public Service Commission to set minimum energy tariff requirements for large power customers like data centers.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "environmental": "concerning",
+        "energy": "concerning",
+        "community": "favorable",
+        "land-use": "concerning"
+      },
+      "impactTags": [
+        "local-zoning",
+        "local-control",
+        "nda-transparency",
+        "water-consumption",
+        "water-infrastructure"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-03-11",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.flsenate.gov/Session/Bill/2026/1007",
+      "legiscanUrl": "https://legiscan.com/FL/bill/H1007/2026",
+      "legiscanId": 2065319,
+      "sponsors": [
+        "Commerce Committee",
+        "State Affairs Committee",
+        "Philip Griffitts"
+      ]
+    },
+    {
+      "id": "fl-h1081",
+      "billCode": "H1081",
+      "title": "Cybersecurity Experiential Learning",
+      "summary": "This bill requires Florida's cybersecurity center to develop an experiential learning program in cybersecurity and report on its outcomes, contingent on legislative funding. It establishes educational initiatives without imposing restrictions on AI or data-center development.",
+      "stage": "Floor",
+      "stance": "review",
+      "impactTags": [
+        "ai-in-education"
+      ],
+      "category": "ai-education",
+      "updatedDate": "2026-03-10",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.flsenate.gov/Session/Bill/2026/1081",
+      "legiscanUrl": "https://legiscan.com/FL/bill/H1081/2026",
+      "legiscanId": 2066122,
+      "sponsors": [
+        "Education & Employment Committee",
+        "House Budget Committee",
+        "Careers & Workforce Subcommittee",
+        "Tyler Sirois"
       ]
     }
   ]

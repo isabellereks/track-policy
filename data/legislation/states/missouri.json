@@ -5,118 +5,20 @@
   "stance": "concerning",
   "stanceDatacenter": "review",
   "stanceAI": "concerning",
-  "lastUpdated": "2026-04-14",
-  "contextBlurb": "Missouri's legislature is actively debating AI governance and data center accountability, with bills like SB1012 and SB1455 pushing for algorithmic transparency and AI safety standards, while HB2239's Artificial Intelligence Data Center Environmental Accountability Act targets the water, carbon, and grid impacts of large-scale data center growth. Child safety around AI chatbots is also a recurring theme, appearing across multiple bills at the committee stage. No AI or data center legislation has been enacted yet, leaving the state's regulatory direction unsettled.",
+  "lastUpdated": "2026-07-22",
+  "contextBlurb": "Missouri is under discussion on data centers and advancing regulation on AI. On data centers: HB3390 (in committee) — Establishes new rules governing where and how data centers can be built in the state. On AI: HB3258 (in committee) — Sets rules for how warehouse distribution centers can use automated systems to set work quotas and monitor employee performance.",
   "legislation": [
-    {
-      "id": "mo-hb1810",
-      "billCode": "HB1810",
-      "title": "Specifies that the department of health and senior services shall not deny trauma center status to a hospital based on its distance from another trauma center",
-      "summary": "This bill changes rules about how hospitals qualify as trauma centers in Missouri, removing distance-based restrictions. It has no connection to AI or data-center policy.",
-      "stage": "Filed",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-healthcare",
-      "updatedDate": "2026-01-07",
-      "partyOrigin": "D",
-      "sourceUrl": "https://house.mo.gov/Bill.aspx?bill=HB1810&year=2026&code=R",
-      "legiscanUrl": "https://legiscan.com/MO/bill/HB1810/2026",
-      "legiscanId": 2054727,
-      "sponsors": [
-        "Pattie Mansur"
-      ]
-    },
-    {
-      "id": "mo-sb1455",
-      "billCode": "SB1455",
-      "title": "Creates provisions relating to artificial intelligence chatbots",
-      "summary": "This bill establishes rules for AI chatbots, likely requiring disclosures and safety measures around their use. It appears to set standards for transparency and potentially protections for vulnerable users such as children.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "dimensionStances": {
-        "ai-governance-dim": "concerning",
-        "ai-consumer": "concerning"
-      },
-      "impactTags": [
-        "algorithmic-transparency",
-        "ai-safety",
-        "child-safety"
-      ],
-      "category": "ai-governance",
-      "updatedDate": "2026-01-07",
-      "partyOrigin": "R",
-      "sourceUrl": "https://www.senate.mo.gov/BillTracking/Bills/Billinformation?year=2026&billid=27964",
-      "legiscanUrl": "https://legiscan.com/MO/bill/SB1455/2026",
-      "legiscanId": 2060537,
-      "sponsors": [
-        "Brad Hudson"
-      ]
-    },
-    {
-      "id": "mo-hb1805",
-      "billCode": "HB1805",
-      "title": "Specifies that the department of health and senior services shall not deny trauma center status to a hospital based on its distance from another trauma center",
-      "summary": "This bill requires Missouri's health department to stop using distance from other trauma centers as a reason to deny a hospital trauma center status. It is not related to AI or data-center policy.",
-      "stage": "Filed",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-healthcare",
-      "updatedDate": "2026-01-07",
-      "partyOrigin": "D",
-      "sourceUrl": "https://house.mo.gov/Bill.aspx?bill=HB1805&year=2026&code=R",
-      "legiscanUrl": "https://legiscan.com/MO/bill/HB1805/2026",
-      "legiscanId": 2054948,
-      "sponsors": [
-        "Mark Sharp"
-      ]
-    },
-    {
-      "id": "mo-sb1527",
-      "billCode": "SB1527",
-      "title": "Repeals provisions relating to the Infection Control Advisory Panel",
-      "summary": "This bill repeals rules about an Infection Control Advisory Panel, which is a healthcare regulatory body. It has no relevance to AI policy or data-center regulation.",
-      "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2026-01-08",
-      "partyOrigin": "R",
-      "sourceUrl": "https://www.senate.mo.gov/BillTracking/Bills/Billinformation?year=2026&billid=216214",
-      "legiscanUrl": "https://legiscan.com/MO/bill/SB1527/2026",
-      "legiscanId": 2068840,
-      "sponsors": [
-        "Jamie Burger"
-      ]
-    },
-    {
-      "id": "mo-hb2670",
-      "billCode": "HB2670",
-      "title": "Modifies provisions relating to public health programs",
-      "summary": "This bill modifies public health program provisions in Missouri. It does not appear to substantively address AI or data-center policy.",
-      "stage": "Filed",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-healthcare",
-      "updatedDate": "2026-01-07",
-      "partyOrigin": "R",
-      "sourceUrl": "https://house.mo.gov/Bill.aspx?bill=HB2670&year=2026&code=R",
-      "legiscanUrl": "https://legiscan.com/MO/bill/HB2670/2026",
-      "legiscanId": 2065280,
-      "sponsors": [
-        "Tara Peters"
-      ]
-    },
     {
       "id": "mo-hb3390",
       "billCode": "HB3390",
       "title": "Creates new provisions related to the construction of data centers",
-      "summary": "This Missouri bill establishes new rules governing where and how data centers can be built in the state. It likely sets siting requirements, zoning standards, or review processes that developers must follow before constructing new facilities.",
-      "stage": "Filed",
+      "summary": "This Missouri bill establishes new rules governing where and how data centers can be built in the state. It likely introduces siting requirements, zoning standards, or review processes that data center developers must follow before construction.",
+      "stage": "Committee",
       "stance": "concerning",
       "dimensionStances": {
         "environmental": "none",
         "community": "none",
-        "land-use": "none"
+        "land-use": "favorable"
       },
       "impactTags": [
         "local-zoning",
@@ -124,7 +26,7 @@
         "environmental-review"
       ],
       "category": "data-center-siting",
-      "updatedDate": "2026-02-24",
+      "updatedDate": "2026-05-15",
       "partyOrigin": "R",
       "sourceUrl": "https://house.mo.gov/Bill.aspx?bill=HB3390&year=2026&code=R",
       "legiscanUrl": "https://legiscan.com/MO/bill/HB3390/2026",
@@ -134,29 +36,36 @@
       ]
     },
     {
-      "id": "mo-sb1692",
-      "billCode": "SB1692",
-      "title": "Modifies provisions relating to abortion",
-      "summary": "This bill modifies provisions related to abortion law in Missouri. It is not related to AI regulation or data-center policy.",
-      "stage": "Filed",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2026-02-19",
+      "id": "mo-hb3258",
+      "billCode": "HB3258",
+      "title": "Creates new provisions relating to employment practices involving warehouse distribution centers",
+      "summary": "This bill sets rules for how warehouse distribution centers can use automated systems to set work quotas and monitor employee performance. It likely requires employers to disclose how these systems work and gives workers protections against unfair automated productivity standards.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-governance-dim": "none",
+        "ai-workforce": "concerning"
+      },
+      "impactTags": [
+        "ai-in-employment",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-workforce",
+      "updatedDate": "2026-05-15",
       "partyOrigin": "D",
-      "sourceUrl": "https://www.senate.mo.gov/BillTracking/Bills/Billinformation?year=2026&billid=5552596",
-      "legiscanUrl": "https://legiscan.com/MO/bill/SB1692/2026",
-      "legiscanId": 2120035,
+      "sourceUrl": "https://house.mo.gov/Bill.aspx?bill=HB3258&year=2026&code=R",
+      "legiscanUrl": "https://legiscan.com/MO/bill/HB3258/2026",
+      "legiscanId": 2113233,
       "sponsors": [
-        "Patty Lewis"
+        "Eric Woods"
       ]
     },
     {
       "id": "mo-hb2239",
       "billCode": "HB2239",
       "title": "Creates the Artificial Intelligence Data Center Environmental Accountability Act",
-      "summary": "This bill establishes environmental accountability requirements for AI data centers in Missouri, likely including reporting and compliance standards around energy use, water consumption, and environmental impact. It aims to hold data center operators responsible for their environmental footprint as these facilities expand.",
-      "stage": "Filed",
+      "summary": "This Missouri bill establishes environmental accountability requirements for AI data centers, likely including reporting or standards related to energy use, water consumption, and carbon emissions. It aims to hold data center operators responsible for their environmental impact on local communities and the power grid.",
+      "stage": "Committee",
       "stance": "concerning",
       "dimensionStances": {
         "environmental": "concerning",
@@ -170,7 +79,7 @@
         "energy-rates"
       ],
       "category": "data-center-energy",
-      "updatedDate": "2026-01-07",
+      "updatedDate": "2026-05-15",
       "partyOrigin": "D",
       "sourceUrl": "https://house.mo.gov/Bill.aspx?bill=HB2239&year=2026&code=R",
       "legiscanUrl": "https://legiscan.com/MO/bill/HB2239/2026",
@@ -180,77 +89,58 @@
       ]
     },
     {
-      "id": "mo-hb3258",
-      "billCode": "HB3258",
-      "title": "Creates new provisions relating to employment practices involving warehouse distribution centers",
-      "summary": "This bill establishes new rules for how warehouse distribution centers can manage and monitor their workers, likely targeting automated or algorithm-driven work quota and tracking systems. It aims to protect employees from unfair treatment driven by automated performance monitoring in warehouse settings.",
-      "stage": "Filed",
-      "stance": "restrictive",
-      "dimensionStances": {
-        "ai-governance-dim": "none",
-        "ai-workforce": "concerning"
-      },
-      "impactTags": [
-        "ai-in-employment",
-        "algorithmic-transparency"
-      ],
-      "category": "ai-workforce",
-      "updatedDate": "2026-02-10",
-      "partyOrigin": "D",
-      "sourceUrl": "https://house.mo.gov/Bill.aspx?bill=HB3258&year=2026&code=R",
-      "legiscanUrl": "https://legiscan.com/MO/bill/HB3258/2026",
-      "legiscanId": 2113233,
-      "sponsors": [
-        "Eric Woods"
-      ]
-    },
-    {
-      "id": "mo-hb2032",
-      "billCode": "HB2032",
-      "title": "Establishes age verification measures for companion chatbots",
-      "summary": "This bill requires age verification for companion chatbot services to prevent minors from accessing them. It establishes rules to ensure these AI-powered conversational tools are not used by children without appropriate safeguards.",
+      "id": "mo-hb2035",
+      "billCode": "HB2035",
+      "title": "Establishes and modifies provisions relating to artificially generated material",
+      "summary": "Missouri HB2035 establishes rules governing artificially generated material, likely including requirements for disclosure and restrictions on non-consensual synthetic media. The bill creates enforceable standards for identifying and managing deepfakes and other AI-generated content.",
       "stage": "Committee",
-      "stance": "restrictive",
+      "stance": "concerning",
       "dimensionStances": {
         "ai-governance-dim": "concerning",
-        "ai-consumer": "concerning",
-        "ai-public": "none"
+        "ai-synthetic": "restrictive"
       },
       "impactTags": [
-        "child-safety",
-        "ai-in-healthcare",
+        "deepfake-regulation",
         "algorithmic-transparency"
       ],
       "category": "synthetic-media",
-      "updatedDate": "2026-01-07",
-      "partyOrigin": "R",
-      "sourceUrl": "https://house.mo.gov/Bill.aspx?bill=HB2032&year=2026&code=R",
-      "legiscanUrl": "https://legiscan.com/MO/bill/HB2032/2026",
-      "legiscanId": 2054847,
+      "updatedDate": "2026-04-29",
+      "partyOrigin": "B",
+      "sourceUrl": "https://house.mo.gov/Bill.aspx?bill=HB2035&year=2026&code=R",
+      "legiscanUrl": "https://legiscan.com/MO/bill/HB2035/2026",
+      "legiscanId": 2054839,
       "sponsors": [
-        "Melissa Schmidt",
-        "Mike Jones"
+        "Jeff Farnan",
+        "George Hruza",
+        "Marty Murray",
+        "John Hewkin"
       ]
     },
     {
-      "id": "mo-sb1012",
-      "billCode": "SB1012",
-      "title": "Creates new provisions relating to artificial intelligence",
-      "summary": "This Missouri bill establishes new rules and requirements around the use of artificial intelligence. It likely includes oversight, transparency, or risk management provisions aimed at regulating how AI systems are developed or deployed.",
+      "id": "mo-hb1887",
+      "billCode": "HB1887",
+      "title": "Creates the offense of and civil penalties for disclosure of intimate digital depictions",
+      "summary": "Missouri creates criminal and civil penalties for non-consensual disclosure of intimate digital images, including deepfakes and AI-generated intimate content. This protects individuals from harassment and privacy violations involving manipulated or fabricated intimate depictions.",
       "stage": "Committee",
-      "stance": "concerning",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-consumer": "restrictive",
+        "ai-synthetic": "restrictive"
+      },
       "impactTags": [
-        "algorithmic-transparency",
-        "ai-safety"
+        "deepfake-regulation",
+        "child-safety"
       ],
-      "category": "ai-governance",
-      "updatedDate": "2026-01-07",
-      "partyOrigin": "R",
-      "sourceUrl": "https://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=469",
-      "legiscanUrl": "https://legiscan.com/MO/bill/SB1012/2026",
-      "legiscanId": 2055528,
+      "category": "synthetic-media",
+      "updatedDate": "2026-04-27",
+      "partyOrigin": "B",
+      "sourceUrl": "https://house.mo.gov/Bill.aspx?bill=HB1887&year=2026&code=R",
+      "legiscanUrl": "https://legiscan.com/MO/bill/HB1887/2026",
+      "legiscanId": 2054720,
       "sponsors": [
-        "Joe Nicola"
+        "Wendy Hausman",
+        "Marty Murray",
+        "John Simmons"
       ]
     },
     {
@@ -269,13 +159,242 @@
         "algorithmic-transparency"
       ],
       "category": "synthetic-media",
-      "updatedDate": "2026-01-07",
+      "updatedDate": "2026-04-09",
       "partyOrigin": "R",
       "sourceUrl": "https://house.mo.gov/Bill.aspx?bill=HB1747&year=2026&code=R",
       "legiscanUrl": "https://legiscan.com/MO/bill/HB1747/2026",
       "legiscanId": 2055043,
       "sponsors": [
         "Scott Miller"
+      ]
+    },
+    {
+      "id": "mo-sb1444",
+      "billCode": "SB1444",
+      "title": "Creates provisions relating to artificial intelligence in mental health",
+      "summary": "This bill establishes provisions for artificial intelligence use in mental health contexts. The measure appears to set frameworks or guidelines for how AI systems can be deployed in mental health treatment and services.",
+      "stage": "Committee",
+      "stance": "review",
+      "dimensionStances": {
+        "ai-governance-dim": "review",
+        "ai-public": "concerning"
+      },
+      "impactTags": [
+        "ai-in-healthcare",
+        "ai-safety"
+      ],
+      "category": "ai-healthcare",
+      "updatedDate": "2026-04-07",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.senate.mo.gov/BillTracking/Bills/Billinformation?year=2026&billid=19771",
+      "legiscanUrl": "https://legiscan.com/MO/bill/SB1444/2026",
+      "legiscanId": 2059266,
+      "sponsors": [
+        "Patty Lewis"
+      ]
+    },
+    {
+      "id": "mo-hb2032",
+      "billCode": "HB2032",
+      "title": "Establishes age verification measures for companion chatbots",
+      "summary": "This bill requires age verification systems for AI-powered companion chatbots to prevent minors from accessing them. It puts enforceable restrictions on who can use these AI companionship services.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "restrictive",
+        "ai-public": "none"
+      },
+      "impactTags": [
+        "child-safety",
+        "ai-in-healthcare",
+        "algorithmic-transparency"
+      ],
+      "category": "synthetic-media",
+      "updatedDate": "2026-04-02",
+      "partyOrigin": "R",
+      "sourceUrl": "https://house.mo.gov/Bill.aspx?bill=HB2032&year=2026&code=R",
+      "legiscanUrl": "https://legiscan.com/MO/bill/HB2032/2026",
+      "legiscanId": 2054847,
+      "sponsors": [
+        "Melissa Schmidt",
+        "Mike Jones"
+      ]
+    },
+    {
+      "id": "mo-sb1324",
+      "billCode": "SB1324",
+      "title": "Creates regulations of artificially generated online content using artificial intelligence",
+      "summary": "Missouri proposes regulations governing artificially generated online content created with AI, including synthetic media like deepfakes. The bill establishes requirements for disclosure and control of AI-generated content.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-synthetic": "restrictive"
+      },
+      "impactTags": [
+        "deepfake-regulation",
+        "algorithmic-transparency"
+      ],
+      "category": "synthetic-media",
+      "updatedDate": "2026-03-25",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.senate.mo.gov/BillTracking/Bills/Billinformation?year=2026&billid=307",
+      "legiscanUrl": "https://legiscan.com/MO/bill/SB1324/2026",
+      "legiscanId": 2055657,
+      "sponsors": [
+        "Brad Hudson"
+      ]
+    },
+    {
+      "id": "mo-sb1012",
+      "billCode": "SB1012",
+      "title": "Creates new provisions relating to artificial intelligence",
+      "summary": "This Missouri bill establishes new rules and requirements governing how artificial intelligence systems are developed and used in the state. It likely includes transparency, accountability, or risk management obligations for AI developers or deployers.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "concerning"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "ai-safety",
+        "data-privacy"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-03-19",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=469",
+      "legiscanUrl": "https://legiscan.com/MO/bill/SB1012/2026",
+      "legiscanId": 2055528,
+      "sponsors": [
+        "Joe Nicola"
+      ]
+    },
+    {
+      "id": "mo-hb2368",
+      "billCode": "HB2368",
+      "title": "Creates provisions relating to artificial intelligence in mental health",
+      "summary": "This bill establishes provisions governing the use of artificial intelligence in mental health treatment and services. It appears to create a framework for oversight and transparency in how AI systems are deployed in mental health contexts.",
+      "stage": "Committee",
+      "stance": "review",
+      "dimensionStances": {
+        "ai-governance-dim": "review",
+        "ai-public": "review"
+      },
+      "impactTags": [
+        "ai-in-healthcare",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-healthcare",
+      "updatedDate": "2026-03-12",
+      "partyOrigin": "B",
+      "sourceUrl": "https://house.mo.gov/Bill.aspx?bill=HB2368&year=2026&code=R",
+      "legiscanUrl": "https://legiscan.com/MO/bill/HB2368/2026",
+      "legiscanId": 2058263,
+      "sponsors": [
+        "Tara Peters",
+        "Wendy Hausman",
+        "Stephanie Boykin",
+        "Carolyn Caton"
+      ]
+    },
+    {
+      "id": "mo-hb2318",
+      "billCode": "HB2318",
+      "title": "Creates provisions relating to artificial intelligence in mental health",
+      "summary": "Missouri HB2318 creates provisions governing the use of artificial intelligence in mental health services. The bill establishes rules and oversight for AI applications in mental health treatment and decision-making.",
+      "stage": "Committee",
+      "stance": "review",
+      "dimensionStances": {
+        "ai-governance-dim": "review",
+        "ai-public": "review"
+      },
+      "impactTags": [
+        "ai-in-healthcare",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-healthcare",
+      "updatedDate": "2026-03-12",
+      "partyOrigin": "D",
+      "sourceUrl": "https://house.mo.gov/Bill.aspx?bill=HB2318&year=2026&code=R",
+      "legiscanUrl": "https://legiscan.com/MO/bill/HB2318/2026",
+      "legiscanId": 2057981,
+      "sponsors": [
+        "Pattie Mansur",
+        "Kem Smith"
+      ]
+    },
+    {
+      "id": "mo-sb1654",
+      "billCode": "SB1654",
+      "title": "Creates new provisions relating to work performance standards for warehouse employees",
+      "summary": "This bill sets rules about how warehouse workers can be evaluated and held to performance quotas, likely targeting automated or algorithm-driven productivity tracking systems. It aims to protect warehouse employees from unfair or unsafe work standards set by automated management tools.",
+      "stage": "Committee",
+      "stance": "restrictive",
+      "dimensionStances": {
+        "ai-governance-dim": "none",
+        "ai-workforce": "concerning"
+      },
+      "impactTags": [
+        "ai-in-employment",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-workforce",
+      "updatedDate": "2026-02-12",
+      "partyOrigin": "D",
+      "sourceUrl": "https://www.senate.mo.gov/BillTracking/Bills/Billinformation?year=2026&billid=4209224",
+      "legiscanUrl": "https://legiscan.com/MO/bill/SB1654/2026",
+      "legiscanId": 2113121,
+      "sponsors": [
+        "Stephen Webber"
+      ]
+    },
+    {
+      "id": "mo-sb1455",
+      "billCode": "SB1455",
+      "title": "Creates provisions relating to artificial intelligence chatbots",
+      "summary": "This bill establishes rules around artificial intelligence chatbots, likely requiring disclosures or setting standards for how they operate and interact with users. It aims to create accountability and transparency for AI-powered conversational tools.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "concerning"
+      },
+      "impactTags": [
+        "algorithmic-transparency",
+        "ai-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-05",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.senate.mo.gov/BillTracking/Bills/Billinformation?year=2026&billid=27964",
+      "legiscanUrl": "https://legiscan.com/MO/bill/SB1455/2026",
+      "legiscanId": 2060537,
+      "sponsors": [
+        "Brad Hudson"
+      ]
+    },
+    {
+      "id": "mo-sb1474",
+      "billCode": "SB1474",
+      "title": "Creates provisions relating to artificial intelligence",
+      "summary": "This bill establishes provisions relating to artificial intelligence governance in Missouri. Without access to the specific bill text, it appears to create a framework for AI oversight, though the exact scope and enforcement mechanisms require detailed review.",
+      "stage": "Committee",
+      "stance": "review",
+      "impactTags": [
+        "algorithmic-transparency",
+        "ai-safety"
+      ],
+      "category": "ai-governance",
+      "updatedDate": "2026-02-05",
+      "partyOrigin": "R",
+      "sourceUrl": "https://www.senate.mo.gov/BillTracking/Bills/Billinformation?year=2026&billid=52370",
+      "legiscanUrl": "https://legiscan.com/MO/bill/SB1474/2026",
+      "legiscanId": 2061242,
+      "sponsors": [
+        "Joe Nicola"
       ]
     }
   ]

@@ -4,55 +4,15 @@
   "region": "na",
   "stance": "restrictive",
   "stanceDatacenter": "restrictive",
-  "stanceAI": "concerning",
-  "lastUpdated": "2026-04-14",
-  "contextBlurb": "Idaho capped how much water data centers can draw for cooling and enacted a Conversational AI Safety Act this session, a surprisingly restrictive combination for a red state. Pending bills would expand data-center tax exemptions and tighten rules on biometric data collection.",
+  "stanceAI": "restrictive",
+  "lastUpdated": "2026-07-22",
+  "contextBlurb": "Idaho is leaning restrictive across both data centers and AI. On data centers: H0895 (enacted) — Sets limits on how much water data centers in Idaho can use for cooling purposes. On AI: H0727 (enacted) — Strengthens penalties for creating and sharing explicit synthetic media (deepfakes), treating such content as a criminal offense.",
   "legislation": [
-    {
-      "id": "id-h0609",
-      "billCode": "H0609",
-      "title": "Amends existing law to revise a sales tax exemption for data center equipment and to revise a property tax exemption for certain capital investments.",
-      "summary": "This bill updates Idaho's tax breaks for data centers by revising existing sales tax exemptions on equipment and property tax exemptions for certain capital investments. It is designed to make Idaho more attractive for data center development by reducing the tax burden on these facilities.",
-      "stage": "Committee",
-      "stance": "favorable",
-      "impactTags": [
-        "tax-incentives",
-        "economic-development"
-      ],
-      "category": "data-center-siting",
-      "updatedDate": "2026-02-09",
-      "sourceUrl": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0609/",
-      "legiscanUrl": "https://legiscan.com/ID/bill/H0609/2026",
-      "legiscanId": 2111805,
-      "sponsors": [
-        "Revenue and Taxation Committee"
-      ]
-    },
-    {
-      "id": "id-h0820",
-      "billCode": "H0820",
-      "title": "Amends existing law to revise a sales tax exemption for data center equipment and to revise a certain property tax exemption for certain capital investments.",
-      "summary": "This bill updates Idaho's tax exemptions for data center equipment and property, making it easier and cheaper for data centers to invest in the state. It is a pro-industry measure designed to attract or retain data center capital investment through tax relief.",
-      "stage": "Committee",
-      "stance": "favorable",
-      "impactTags": [
-        "tax-incentives",
-        "economic-development"
-      ],
-      "category": "data-center-siting",
-      "updatedDate": "2026-03-04",
-      "sourceUrl": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0820/",
-      "legiscanUrl": "https://legiscan.com/ID/bill/H0820/2026",
-      "legiscanId": 2129456,
-      "sponsors": [
-        "Revenue and Taxation Committee"
-      ]
-    },
     {
       "id": "id-h0897",
       "billCode": "H0897",
       "title": "Amends existing law to revise a sales tax exemption for data center equipment and to revise a certain property tax exemption for certain capital investments.",
-      "summary": "This bill updates Idaho's tax exemptions for data center equipment and large capital investments, making it easier for data centers to receive sales and property tax breaks. It is designed to encourage data center construction and investment in the state.",
+      "summary": "This bill updates Idaho's tax exemptions for data center equipment and related capital investments, making it easier and cheaper to build and operate data centers in the state. It is a pro-industry measure designed to attract data center development through tax relief.",
       "stage": "Committee",
       "stance": "favorable",
       "impactTags": [
@@ -60,7 +20,7 @@
         "economic-development"
       ],
       "category": "data-center-siting",
-      "updatedDate": "2026-03-23",
+      "updatedDate": "2026-04-02",
       "sourceUrl": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0897/",
       "legiscanUrl": "https://legiscan.com/ID/bill/H0897/2026",
       "legiscanId": 2133689,
@@ -72,7 +32,7 @@
       "id": "id-h0895",
       "billCode": "H0895",
       "title": "Adds to existing law to establish limitations on consumptive use of water for cooling certain data centers.",
-      "summary": "This bill sets limits on how much water data centers in Idaho can use for cooling purposes. It places enforceable restrictions on water consumption to reduce the impact data centers have on local water supplies.",
+      "summary": "This bill sets limits on how much water data centers in Idaho can use for cooling purposes. It restricts the consumptive use of water by data centers, aiming to conserve water resources in the state.",
       "stage": "Enacted",
       "stance": "restrictive",
       "dimensionStances": {
@@ -93,54 +53,10 @@
       ]
     },
     {
-      "id": "id-s1227",
-      "billCode": "S1227",
-      "title": "Adds to existing law to establish provisions regarding generative artificial intelligence in public education.",
-      "summary": "This bill sets rules for how generative AI tools can be used in Idaho's public schools. It establishes specific guidelines and requirements governing AI in educational settings.",
-      "stage": "Enacted",
-      "stance": "concerning",
-      "dimensionStances": {
-        "ai-governance-dim": "review",
-        "ai-public": "concerning"
-      },
-      "impactTags": [
-        "ai-in-education",
-        "algorithmic-transparency"
-      ],
-      "category": "ai-education",
-      "updatedDate": "2026-03-19",
-      "sourceUrl": "https://legislature.idaho.gov/sessioninfo/2026/legislation/S1227/",
-      "legiscanUrl": "https://legiscan.com/ID/bill/S1227/2026",
-      "legiscanId": 2090168,
-      "sponsors": [
-        "Education Committee"
-      ]
-    },
-    {
-      "id": "id-h0687",
-      "billCode": "H0687",
-      "title": "Adds to existing law to establish provisions regarding unbiased artificial intelligence in state government purchasing.",
-      "summary": "This bill sets rules requiring that AI systems purchased by Idaho state government be unbiased. It establishes standards and provisions to ensure fairness in AI tools used by state agencies.",
-      "stage": "Committee",
-      "stance": "concerning",
-      "impactTags": [
-        "algorithmic-transparency",
-        "ai-safety"
-      ],
-      "category": "ai-government",
-      "updatedDate": "2026-03-02",
-      "sourceUrl": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0687/",
-      "legiscanUrl": "https://legiscan.com/ID/bill/H0687/2026",
-      "legiscanId": 2117670,
-      "sponsors": [
-        "Judiciary, Rules and Administration Committee"
-      ]
-    },
-    {
       "id": "id-s1297",
       "billCode": "S1297",
       "title": "Adds to existing law to establish the Conversational AI Safety Act.",
-      "summary": "This bill establishes safety requirements for conversational AI systems, likely including disclosure and protective standards for users. It sets rules that AI chatbot and virtual assistant providers must follow to ensure safe interactions, potentially with special protections for vulnerable users like children.",
+      "summary": "This bill establishes safety requirements for conversational AI systems, likely including disclosure and transparency rules for chatbots and virtual assistants. It aims to protect users, potentially including minors, from harms associated with AI-driven conversations.",
       "stage": "Enacted",
       "stance": "concerning",
       "dimensionStances": {
@@ -164,68 +80,82 @@
       ]
     },
     {
-      "id": "id-h0744",
-      "billCode": "H0744",
-      "title": "Adds to existing law to establish provisions regarding the capture or use of biometric identifiers.",
-      "summary": "This bill creates new rules in Idaho law governing how biometric identifiers \u2014 such as fingerprints, facial scans, or iris patterns \u2014 can be collected and used. It establishes legal protections and likely requires consent or disclosure before capturing someone's biometric data.",
-      "stage": "Committee",
-      "stance": "concerning",
+      "id": "id-h0727",
+      "billCode": "H0727",
+      "title": "Amends existing law to revise a provision regarding video voyeurism and to revise a penalty for disclosing explicit synthetic media.",
+      "summary": "This bill strengthens penalties for creating and sharing explicit synthetic media (deepfakes), treating such content as a criminal offense. It addresses both video voyeurism and non-consensual intimate imagery created using AI or digital manipulation techniques.",
+      "stage": "Enacted",
+      "stance": "restrictive",
       "dimensionStances": {
-        "ai-governance-dim": "concerning",
-        "ai-consumer": "concerning"
+        "ai-consumer": "restrictive",
+        "ai-synthetic": "restrictive"
       },
       "impactTags": [
-        "data-privacy",
+        "deepfake-regulation",
+        "child-safety"
+      ],
+      "category": "synthetic-media",
+      "updatedDate": "2026-03-25",
+      "sourceUrl": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0727/",
+      "legiscanUrl": "https://legiscan.com/ID/bill/H0727/2026",
+      "legiscanId": 2119090,
+      "sponsors": [
+        "State Affairs Committee"
+      ]
+    },
+    {
+      "id": "id-h0945",
+      "billCode": "H0945",
+      "title": "Adds to existing law to establish provisions regarding artifical intelligence medical services.",
+      "summary": "Idaho legislation establishing provisions for artificial intelligence use in medical services. The bill addresses regulatory framework and oversight for AI-driven healthcare applications.",
+      "stage": "Committee",
+      "stance": "review",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-public": "concerning"
+      },
+      "impactTags": [
+        "ai-in-healthcare",
         "algorithmic-transparency"
       ],
-      "category": "data-privacy",
-      "updatedDate": "2026-02-20",
-      "sourceUrl": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0744/",
-      "legiscanUrl": "https://legiscan.com/ID/bill/H0744/2026",
-      "legiscanId": 2121106,
+      "category": "ai-healthcare",
+      "updatedDate": "2026-03-25",
+      "sourceUrl": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0945/",
+      "legiscanUrl": "https://legiscan.com/ID/bill/H0945/2026",
+      "legiscanId": 2138044,
       "sponsors": [
         "Ways and Means Committee"
       ]
     },
     {
-      "id": "id-h0942",
-      "billCode": "H0942",
-      "title": "Relates to the appropriation from the Idaho Millennium Income Fund for fiscal year 2027.",
-      "summary": "This bill is a routine state budget appropriation from Idaho's Millennium Income Fund for fiscal year 2027. It has no substantive connection to AI regulation or data-center policy.",
+      "id": "id-s1227",
+      "billCode": "S1227",
+      "title": "Adds to existing law to establish provisions regarding generative artificial intelligence in public education.",
+      "summary": "This bill creates new rules governing how generative AI tools can be used in Idaho's public schools. It sets standards and requirements that schools must follow when incorporating AI into education.",
       "stage": "Enacted",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2026-04-02",
-      "sourceUrl": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0942/",
-      "legiscanUrl": "https://legiscan.com/ID/bill/H0942/2026",
-      "legiscanId": 2137557,
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-public": "concerning"
+      },
+      "impactTags": [
+        "ai-in-education",
+        "algorithmic-transparency"
+      ],
+      "category": "ai-education",
+      "updatedDate": "2026-03-19",
+      "sourceUrl": "https://legislature.idaho.gov/sessioninfo/2026/legislation/S1227/",
+      "legiscanUrl": "https://legiscan.com/ID/bill/S1227/2026",
+      "legiscanId": 2090168,
       "sponsors": [
-        "Appropriations Committee"
-      ]
-    },
-    {
-      "id": "id-h0866",
-      "billCode": "H0866",
-      "title": "Relates to the maintenance appropriation to the Constitutional Officers for fiscal year 2027.",
-      "summary": "This bill is a routine government budget appropriation for Idaho's Constitutional Officers for fiscal year 2027. It has no relevance to AI regulation or data-center policy.",
-      "stage": "Enacted",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-governance",
-      "updatedDate": "2026-03-25",
-      "sourceUrl": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0866/",
-      "legiscanUrl": "https://legiscan.com/ID/bill/H0866/2026",
-      "legiscanId": 2132368,
-      "sponsors": [
-        "Appropriations Committee"
+        "Education Committee"
       ]
     },
     {
       "id": "id-h0917",
       "billCode": "H0917",
       "title": "Adds to existing law to require the use of AI to review administrative rules annually.",
-      "summary": "This bill requires Idaho to use artificial intelligence to review state administrative rules on an annual basis. It aims to use AI as a tool to streamline and modernize the government's regulatory review process.",
+      "summary": "This bill requires Idaho to use artificial intelligence to review the state's administrative rules every year. It aims to make the rule-review process more efficient by automating analysis of existing regulations.",
       "stage": "Committee",
       "stance": "favorable",
       "impactTags": [
@@ -241,22 +171,87 @@
       ]
     },
     {
-      "id": "id-s1264",
-      "billCode": "S1264",
-      "title": "Adds to existing law to establish the Idaho Rural Health Transformation Fund and the Rural Health Transformation Committee.",
-      "summary": "This bill creates a fund and committee focused on rural health transformation in Idaho. It does not address AI, data centers, or related technology policy.",
+      "id": "id-h0820",
+      "billCode": "H0820",
+      "title": "Amends existing law to revise a sales tax exemption for data center equipment and to revise a certain property tax exemption for certain capital investments.",
+      "summary": "This bill updates Idaho's tax exemptions for data center equipment and related capital investments, making it easier or more beneficial for data centers to operate in the state. It is a pro-industry measure aimed at attracting or retaining data center investment through tax relief.",
       "stage": "Committee",
-      "stance": "none",
-      "impactTags": [],
-      "category": "ai-healthcare",
-      "updatedDate": "2026-03-30",
-      "partyOrigin": "R",
-      "sourceUrl": "https://legislature.idaho.gov/sessioninfo/2026/legislation/S1264/",
-      "legiscanUrl": "https://legiscan.com/ID/bill/S1264/2026",
-      "legiscanId": 2110665,
+      "stance": "favorable",
+      "impactTags": [
+        "tax-incentives",
+        "economic-development"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-03-05",
+      "sourceUrl": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0820/",
+      "legiscanUrl": "https://legiscan.com/ID/bill/H0820/2026",
+      "legiscanId": 2129456,
       "sponsors": [
-        "Health and Welfare Committee",
-        "Julie VanOrden"
+        "Revenue and Taxation Committee"
+      ]
+    },
+    {
+      "id": "id-h0687",
+      "billCode": "H0687",
+      "title": "Adds to existing law to establish provisions regarding unbiased artificial intelligence in state government purchasing.",
+      "summary": "This bill sets rules requiring that artificial intelligence used in Idaho state government purchasing decisions be unbiased. It establishes standards to ensure AI tools don't discriminate when the state is buying goods or services.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "impactTags": [
+        "algorithmic-transparency",
+        "ai-safety"
+      ],
+      "category": "ai-government",
+      "updatedDate": "2026-03-03",
+      "sourceUrl": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0687/",
+      "legiscanUrl": "https://legiscan.com/ID/bill/H0687/2026",
+      "legiscanId": 2117670,
+      "sponsors": [
+        "Judiciary, Rules and Administration Committee"
+      ]
+    },
+    {
+      "id": "id-h0744",
+      "billCode": "H0744",
+      "title": "Adds to existing law to establish provisions regarding the capture or use of biometric identifiers.",
+      "summary": "This bill establishes new rules in Idaho law governing how biometric identifiers — such as fingerprints, face scans, or iris scans — can be collected and used. It creates legal protections around the capture and use of this sensitive personal data.",
+      "stage": "Committee",
+      "stance": "concerning",
+      "dimensionStances": {
+        "ai-governance-dim": "concerning",
+        "ai-consumer": "concerning"
+      },
+      "impactTags": [
+        "data-privacy",
+        "algorithmic-transparency"
+      ],
+      "category": "data-privacy",
+      "updatedDate": "2026-02-23",
+      "sourceUrl": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0744/",
+      "legiscanUrl": "https://legiscan.com/ID/bill/H0744/2026",
+      "legiscanId": 2121106,
+      "sponsors": [
+        "Ways and Means Committee"
+      ]
+    },
+    {
+      "id": "id-h0609",
+      "billCode": "H0609",
+      "title": "Amends existing law to revise a sales tax exemption for data center equipment and to revise a property tax exemption for certain capital investments.",
+      "summary": "This bill updates Idaho's tax exemptions for data center equipment and certain capital investments, making it easier and cheaper to build and equip data centers in the state. It is a pro-industry measure designed to attract data center investment through tax relief.",
+      "stage": "Committee",
+      "stance": "favorable",
+      "impactTags": [
+        "tax-incentives",
+        "economic-development"
+      ],
+      "category": "data-center-siting",
+      "updatedDate": "2026-02-10",
+      "sourceUrl": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0609/",
+      "legiscanUrl": "https://legiscan.com/ID/bill/H0609/2026",
+      "legiscanId": 2111805,
+      "sponsors": [
+        "Revenue and Taxation Committee"
       ]
     }
   ]

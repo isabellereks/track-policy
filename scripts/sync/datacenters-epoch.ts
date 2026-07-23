@@ -24,6 +24,7 @@ const ZIP_PATH = join(ROOT, "data/raw/epoch-dc.zip");
 const EXTRACT_DIR = join(ROOT, "data/raw/epoch-dc");
 
 const ZIP_URL = "https://epoch.ai/data/data_centers/data_centers.zip";
+const FORCE = process.env.EPOCH_FORCE_REFRESH === "1";
 
 interface EpochRow {
   Name: string;
@@ -59,6 +60,22 @@ interface GeoCache {
   [address: string]: { lat: number; lng: number; state?: string } | null;
 }
 
+const US_STATE_NAMES: Record<string, string> = {
+  AL: "Alabama", AK: "Alaska", AZ: "Arizona", AR: "Arkansas",
+  CA: "California", CO: "Colorado", CT: "Connecticut", DE: "Delaware",
+  FL: "Florida", GA: "Georgia", HI: "Hawaii", ID: "Idaho",
+  IL: "Illinois", IN: "Indiana", IA: "Iowa", KS: "Kansas",
+  KY: "Kentucky", LA: "Louisiana", ME: "Maine", MD: "Maryland",
+  MA: "Massachusetts", MI: "Michigan", MN: "Minnesota", MS: "Mississippi",
+  MO: "Missouri", MT: "Montana", NE: "Nebraska", NV: "Nevada",
+  NH: "New Hampshire", NJ: "New Jersey", NM: "New Mexico", NY: "New York",
+  NC: "North Carolina", ND: "North Dakota", OH: "Ohio", OK: "Oklahoma",
+  OR: "Oregon", PA: "Pennsylvania", RI: "Rhode Island", SC: "South Carolina",
+  SD: "South Dakota", TN: "Tennessee", TX: "Texas", UT: "Utah",
+  VT: "Vermont", VA: "Virginia", WA: "Washington", WV: "West Virginia",
+  WI: "Wisconsin", WY: "Wyoming", DC: "District of Columbia",
+};
+
 function loadGeoCache(): GeoCache {
   if (!existsSync(GEO_CACHE)) return {};
   return JSON.parse(readFileSync(GEO_CACHE, "utf8")) as GeoCache;
@@ -71,7 +88,7 @@ function saveGeoCache(cache: GeoCache) {
 
 async function downloadAndExtract() {
   mkdirSync(dirname(ZIP_PATH), { recursive: true });
-  if (!existsSync(ZIP_PATH)) {
+  if (FORCE || !existsSync(ZIP_PATH)) {
     console.log("[epoch] downloading zip...");
     const res = await fetch(ZIP_URL);
     if (!res.ok) throw new Error(`download failed: ${res.status}`);
@@ -143,8 +160,9 @@ function parseCsv(path: string): EpochRow[] {
 async function geocode(
   address: string,
   cache: GeoCache,
+  country?: string,
 ): Promise<{ lat: number; lng: number; state?: string } | null> {
-  if (address in cache) return cache[address];
+  if (address in cache && cache[address] !== null) return cache[address];
   if (!address) {
     cache[address] = null;
     return null;
@@ -157,30 +175,64 @@ async function geocode(
   const res = await fetch(url.toString(), {
     headers: { "User-Agent": "gov-index/1.0 (data-center-map-ingest)" },
   });
-  if (!res.ok) {
-    cache[address] = null;
-    return null;
+  if (res.ok) {
+    const data = (await res.json()) as Array<{
+      lat: string;
+      lon: string;
+      address?: { state?: string };
+    }>;
+    if (data.length) {
+      const hit = data[0];
+      const result = {
+        lat: parseFloat(hit.lat),
+        lng: parseFloat(hit.lon),
+        state: hit.address?.state,
+      };
+      cache[address] = result;
+      saveGeoCache(cache);
+      // Nominatim policy: 1 req/sec
+      await new Promise((r) => setTimeout(r, 1100));
+      return result;
+    }
   }
-  const data = (await res.json()) as Array<{
-    lat: string;
-    lon: string;
-    address?: { state?: string };
-  }>;
-  if (!data.length) {
-    cache[address] = null;
-    return null;
+
+  // Nominatim misses some new or private-campus street addresses. The U.S.
+  // Census geocoder is a strong second source for domestic facilities.
+  if (!country || country === "United States") {
+    const censusUrl = new URL(
+      "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress",
+    );
+    censusUrl.searchParams.set("address", address.replace(/[–—]/g, "-"));
+    censusUrl.searchParams.set("benchmark", "Public_AR_Current");
+    censusUrl.searchParams.set("format", "json");
+    const censusRes = await fetch(censusUrl);
+    if (censusRes.ok) {
+      const census = (await censusRes.json()) as {
+        result?: {
+          addressMatches?: Array<{
+            coordinates?: { x: number; y: number };
+            addressComponents?: { state?: string };
+          }>;
+        };
+      };
+      const hit = census.result?.addressMatches?.[0];
+      if (hit?.coordinates) {
+        const stateCode = hit.addressComponents?.state;
+        const result = {
+          lat: hit.coordinates.y,
+          lng: hit.coordinates.x,
+          state: stateCode ? US_STATE_NAMES[stateCode] ?? stateCode : undefined,
+        };
+        cache[address] = result;
+        saveGeoCache(cache);
+        return result;
+      }
+    }
   }
-  const hit = data[0];
-  const result = {
-    lat: parseFloat(hit.lat),
-    lng: parseFloat(hit.lon),
-    state: hit.address?.state,
-  };
-  cache[address] = result;
+
+  cache[address] = null;
   saveGeoCache(cache);
-  // Nominatim policy: 1 req/sec
-  await new Promise((r) => setTimeout(r, 1100));
-  return result;
+  return null;
 }
 
 function slugify(s: string): string {
@@ -229,7 +281,7 @@ async function main() {
     const address = row.Address?.trim();
     const name = row.Name?.trim();
     if (!name) continue;
-    const geo = address ? await geocode(address, cache) : null;
+    const geo = address ? await geocode(address, cache, row.Country) : null;
     if (!geo) {
       console.warn(`[epoch] skipping ${name} — no geo for "${address}"`);
       continue;

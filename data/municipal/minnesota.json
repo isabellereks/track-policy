@@ -1,196 +1,233 @@
 [
   {
-    "id": "st-louis-county-mn",
-    "name": "St. Louis County / City of Hermantown",
-    "fips": "27137",
-    "state": "Minnesota",
-    "stateCode": "MN",
-    "type": "county",
-    "actions": [
-      {
-        "title": "Mortenson (Google) Data Center Permit Withdrawal After Community Opposition",
-        "date": "2025-11-18",
-        "status": "enacted",
-        "summary": "Following a lawsuit by MCEA and the grassroots Stop the Hermantown Data Center group, developer Mortenson voluntarily pulled its permit applications from the Hermantown Planning & Zoning Commission agenda and announced it would seek additional public input before proceeding.",
-        "sourceUrl": "https://www.datacenterdynamics.com/en/news/mortenson-temporarily-pulls-plans-for-hermantown-data-center-after-lawsuit-and-local-opposition/"
-      },
-      {
-        "title": "Updated Alternative Urban Areawide Review (AUAR) Public Comment Period Opened",
-        "date": "2026-03-31",
-        "status": "under-review",
-        "summary": "Hermantown opened a public comment period on a revised, reduced-footprint AUAR (278 acres across 26 parcels) for the proposed Google data center campus after the original environmental review was challenged in court.",
-        "sourceUrl": "https://www.kaxe.org/local-news/2026-03-31/public-comments-updated-review-proposed-hermantown-data-center"
-      },
-      {
-        "title": "St. Louis County Commissioner Proposes NDA Ban",
-        "date": "2025-10-01",
-        "status": "proposed",
-        "summary": "Commissioner Ashley Grimm, shocked that colleagues had known about the Hermantown data center proposal six months before the public, proposed a ban on commissioners signing nondisclosure agreements with data center developers.",
-        "sourceUrl": "https://minnesotareformer.com/2025/10/29/want-an-ai-data-center-in-your-city-sure-but-first-sign-this-non-disclosure-agreement/"
-      }
-    ],
-    "concerns": [
-      "local-control",
-      "environmental-review",
-      "residential-proximity",
-      "noise-vibration",
-      "water-consumption",
-      "grid-capacity"
-    ],
-    "contextBlurb": "Hermantown, a suburb of Duluth in St. Louis County, became a flashpoint when residents discovered a 1.8-million-square-foot Google data center (code-named 'Project Loon') had been negotiated behind NDAs for nearly a year before public disclosure. Community opposition led to lawsuits, the developer temporarily withdrawing permits, and a revised environmental review process launched in March 2026. A St. Louis County commissioner also proposed banning NDAs for commissioners, reflecting the breakdown in public trust."
-  },
-  {
-    "id": "goodhue-county-mn",
-    "name": "Goodhue County / City of Pine Island",
-    "fips": "27049",
-    "state": "Minnesota",
-    "stateCode": "MN",
-    "type": "county",
-    "actions": [
-      {
-        "title": "MCEA Lawsuit Challenging Environmental Review of Google 'Project Skyway'",
-        "date": "2025-10-16",
-        "status": "under-review",
-        "summary": "The Minnesota Center for Environmental Advocacy filed suit in Goodhue County District Court arguing that Pine Island's AUAR was invalid because city officials and the developer knew the 482-acre technology park was being developed specifically for Google, and sought a full environmental impact statement.",
-        "sourceUrl": "https://www.postbulletin.com/news/local/flurry-of-filings-come-as-court-dates-draw-near-for-pine-island-data-center"
-      },
-      {
-        "title": "Pine Island City Council Approves $36 Million Tax Abatement for Google Data Center",
-        "date": "2026-02-04",
-        "status": "enacted",
-        "summary": "The Pine Island City Council voted to approve a $36 million tax abatement for the Google/Ryan Companies 'Project Skyway' data center despite vocal community opposition from the 'Stop the Pine Island Data Center' residents' group.",
-        "sourceUrl": "https://www.cnbc.com/2026/02/24/google-to-build-data-center-in-minnesota-with-solar-wind-and-battery-storage.html"
-      },
-      {
-        "title": "Community Group 'Stop the Pine Island Data Center' Demands Environmental Impact Statement",
-        "date": "2025-09-16",
-        "status": "under-review",
-        "summary": "Residents organized 'Stop the Pine Island Data Center' and, together with MCEA, appealed the city's September 2025 AUAR approval, alleging the review was conducted under a concealing NDA and demanding a more rigorous environmental impact statement before any construction proceeds.",
-        "sourceUrl": "https://www.postbulletin.com/business/what-happens-next-with-googles-pine-island-data-center"
-      }
-    ],
-    "concerns": [
-      "environmental-review",
-      "water-consumption",
-      "local-control",
-      "noise-vibration",
-      "residential-proximity",
-      "property-values",
-      "grid-capacity"
-    ],
-    "contextBlurb": "Pine Island (pop. ~4,000), 70 miles southeast of Minneapolis, is the site of a 250,000-square-foot Google AI data center on a 482-acre technology park developed by Ryan Companies. The project was negotiated under NDAs and only publicly disclosed in February 2026, triggering a lawsuit by the Minnesota Center for Environmental Advocacy and the formation of the 'Stop the Pine Island Data Center' group. As of April 2026, summary judgment hearings are ongoing in Goodhue County District Court over the adequacy of the environmental review."
-  },
-  {
     "id": "wright-county-mn",
-    "name": "Wright County / City of Monticello",
+    "name": "Wright County",
     "fips": "27171",
     "state": "Minnesota",
     "stateCode": "MN",
     "type": "county",
     "actions": [
       {
-        "title": "Comprehensive Plan Amended to Restrict Data Centers to Light Industrial Park Zones",
-        "date": "2025-07-01",
+        "title": "Emergency Data Center Moratorium (Interim Ordinance 26-2)",
+        "date": "2026-05-19",
         "status": "enacted",
-        "summary": "Monticello amended its 2040 Vision + Plan to allow data centers only in Light Industrial Park (LIP) designated areas, with mandatory review of site impacts, utility and electric service demands, and fiscal requirements.",
-        "sourceUrl": "https://monticellomn.gov/728/Data-Centers"
-      },
-      {
-        "title": "Data Center Planned Unit Development (DCPUD) Zoning Ordinance Drafted",
-        "date": "2025-08-19",
-        "status": "under-review",
-        "summary": "Monticello's Planning Commission opened public hearings on a new Data Center Planned Unit Development ordinance establishing setbacks of 200–500 feet from residential properties, noise compliance per MPCA standards, mandatory fiscal benefit statements, and environmental review triggers.",
-        "sourceUrl": "https://www.hometownsource.com/monticello_times/a-guide-to-monticello-s-proposed-data-center-ordinance/article_6c253088-cf5f-47cc-b952-35e49601cf1e.html"
-      },
-      {
-        "title": "Alternative Urban Areawide Review (AUAR) Required for Monticello Tech LLC Proposal",
-        "date": "2025-10-13",
-        "status": "under-review",
-        "summary": "The Monticello City Council acknowledged a new annexation petition tied to the Monticello Tech LLC data center proposal and confirmed that a full AUAR environmental review is required under Minnesota Rules 4410 before the project can advance.",
-        "sourceUrl": "https://monticellomn.gov/728/Data-Centers"
+        "summary": "Wright County Board unanimously adopted Interim Ordinance 26-2, halting new data center applications in all county townships for up to one year while officials develop zoning regulations on setbacks and operating conditions.",
+        "sourceUrl": "https://www.wrightcountymn.gov/m/newsflash/Home/Detail/5177"
       }
     ],
     "concerns": [
-      "local-zoning",
-      "noise-vibration",
       "residential-proximity",
+      "noise-vibration",
       "water-consumption",
       "grid-capacity",
-      "environmental-review",
-      "property-values"
-    ],
-    "contextBlurb": "Monticello, in Wright County, is attractive to data center developers because of its nuclear power plant and robust transmission infrastructure near the Twin Cities. Through 2025–2026, the city undertook a detailed zoning overhaul to regulate data centers before any project could be approved, amending its comprehensive plan to confine them to light industrial zones and drafting a DCPUD ordinance with strict setbacks, noise limits, and fiscal-impact requirements. Community residents raised concerns about power demand, water use, noise, and quality of life throughout multiple public hearings."
-  },
-  {
-    "id": "nobles-county-mn",
-    "name": "Nobles County",
-    "fips": "27105",
-    "state": "Minnesota",
-    "stateCode": "MN",
-    "type": "county",
-    "actions": [
-      {
-        "title": "Zoning Ordinance Change for Geronimo Power Data Center Denied at Public Hearing",
-        "date": "2026-04-08",
-        "status": "under-review",
-        "summary": "The Nobles County Planning Commission declined to approve a zoning ordinance change needed for Geronimo Power's proposed data center north of Worthington, with commissioners set to vote the following week after heavy public opposition.",
-        "sourceUrl": "https://www.dakotanewsnow.com/2026/04/09/nobles-county-residents-pushing-back-proposed-data-center/"
-      },
-      {
-        "title": "Residents Call for 12-Month Township Moratorium",
-        "date": "2026-04-08",
-        "status": "proposed",
-        "summary": "Residents publicly urged every township in Nobles County to adopt a 12-month moratorium on data center development to allow more time to study impacts, while the county attorney noted the existing ag-preservation zoning already blocks the project without a separate moratorium.",
-        "sourceUrl": "https://www.dglobe.com/news/local/nobles-county-commissioners-discuss-moratorium-approve-drafts-for-data-center"
-      },
-      {
-        "title": "Environmental Review Comment Period Open for Geronimo Power Proposal",
-        "date": "2026-04-01",
-        "status": "under-review",
-        "summary": "Nobles County opened an environmental review public comment period (closing April 16, 2026) on the Geronimo Power data center proposal, with a concurrent water feasibility study examining Lincoln Pipestone Rural Water as a supply source.",
-        "sourceUrl": "https://www.dakotanewsnow.com/2026/04/09/nobles-county-residents-pushing-back-proposed-data-center/"
-      }
-    ],
-    "concerns": [
       "local-zoning",
-      "local-control",
       "environmental-review",
-      "water-infrastructure",
-      "water-consumption",
-      "residential-proximity"
+      "local-control"
     ],
-    "contextBlurb": "Nobles County in southwestern Minnesota became the latest rural flashpoint in April 2026 when Geronimo Power sought a zoning change to build a data center north of Worthington on agricultural preservation land. The county attorney confirmed the existing ag-preservation district already prohibits the project, making a moratorium technically redundant, but residents demanded one anyway and packed a public hearing. An environmental review comment period and water feasibility study are simultaneously underway."
+    "contextBlurb": "Wright County became the first Minnesota county to enact an emergency data center moratorium, driven largely by community opposition to two proposals totaling over four million square feet near Monticello. All 14 speakers at the May 19 public hearing supported the moratorium, citing concerns about aquifer protection, noise, and property values. The county board plans to form a stakeholder work group, similar to prior efforts on solar farms and gravel pits, to draft a permanent ordinance."
   },
   {
-    "id": "dakota-county-mn",
-    "name": "Dakota County / City of Eagan",
+    "id": "dakota-county-mn-eagan",
+    "name": "Eagan (Dakota County)",
     "fips": "27037",
     "state": "Minnesota",
     "stateCode": "MN",
-    "type": "county",
+    "type": "city",
     "actions": [
       {
-        "title": "Eagan City Council Enacts One-Year Data Center Development Moratorium",
-        "date": "2026-02-18",
+        "title": "One-Year Data Center Moratorium — Size and Proximity Restrictions",
+        "date": "2026-02-17",
         "status": "enacted",
-        "summary": "The Eagan City Council passed a one-year moratorium on new data center development within city limits to allow time to evaluate the economic and environmental impacts of large-scale facilities.",
-        "sourceUrl": "https://mndaily.com/city/data-center-developers-face-scrutiny-from-minnesota-residents/03/06/2026/shill/"
+        "summary": "Eagan City Council approved a one-year moratorium blocking new data centers requiring more than 20 MW of electricity or upgrades to existing sites above 9 MW within 500 feet of residential areas, making it the first Minnesota city to enact such a size-and-proximity-based pause.",
+        "sourceUrl": "https://www.startribune.com/eagan-data-center-moratorium/601581237"
       },
       {
-        "title": "Meta Rosemount Data Center Under Construction (No Local Restriction Enacted)",
-        "date": "2025-05-29",
-        "status": "enacted",
-        "summary": "Construction continued on Meta's large-scale Rosemount data center campus near Dakota County Technical College, which proceeded under a code name ('Project Bigfoot') negotiated with local officials under NDAs before public disclosure.",
-        "sourceUrl": "https://minnesotareformer.com/2025/10/29/want-an-ai-data-center-in-your-city-sure-but-first-sign-this-non-disclosure-agreement/"
+        "title": "Legal Challenge by Eagan Capital (Swervo Affiliate)",
+        "date": "2026-06-01",
+        "status": "under-review",
+        "summary": "A developer affiliated with Swervo filed suit against Eagan challenging the moratorium as unlawful, arguing it blocks conversion of a former Unisys facility at 3199 Pilot Knob Road into a multi-tenant colocation site.",
+        "sourceUrl": "https://www.datacenterdynamics.com/en/news/lawsuit-filed-to-lift-data-center-moratorium-in-eagan-minnesota/"
       }
     ],
     "concerns": [
-      "local-control",
+      "residential-proximity",
       "grid-capacity",
+      "local-zoning",
+      "local-control",
+      "noise-vibration",
+      "water-consumption"
+    ],
+    "contextBlurb": "Eagan is believed to be the first Minnesota city to enact a data center moratorium based on power capacity and proximity to homes, setting a template that several other cities subsequently followed. The city has at least four existing or in-development data centers but acted preemptively before a new large-scale application was filed. The moratorium now faces a legal challenge from a developer seeking to convert a former Unisys facility, with Eagan stating it will vigorously defend the policy."
+  },
+  {
+    "id": "dakota-county-mn-inver-grove-heights",
+    "name": "Inver Grove Heights (Dakota County)",
+    "fips": "27037",
+    "state": "Minnesota",
+    "stateCode": "MN",
+    "type": "city",
+    "actions": [
+      {
+        "title": "One-Year Data Center Moratorium",
+        "date": "2026-06-26",
+        "status": "enacted",
+        "summary": "The Inver Grove Heights City Council approved a one-year moratorium on data center construction in a 3-2 vote despite a developer threatening up to $150 million in litigation damages over its proposed 54,000 sq ft facility on the former Travel Tags site.",
+        "sourceUrl": "https://www.cbsnews.com/minnesota/news/inver-grove-heights-data-center-moratorium/"
+      }
+    ],
+    "concerns": [
+      "local-zoning",
+      "local-control",
+      "residential-proximity",
       "water-consumption",
       "environmental-review",
-      "local-zoning"
+      "noise-vibration"
     ],
-    "contextBlurb": "Dakota County hosts two distinct data center dynamics: the Meta Rosemount campus proceeding under NDA-shrouded approvals, and the neighboring City of Eagan, which enacted a one-year moratorium on new data center development in February 2026. The Eagan moratorium reflects growing municipal concern about the pace of development outstripping regulatory capacity, making it one of the first Minnesota cities to formally pause such projects."
+    "contextBlurb": "Inver Grove Heights initiated moratorium proceedings in May 2026 after a Fortress Investment Group–backed developer proposed a 5 MW data center on the former Travel Tags site on Carmen Avenue. The city faced a race against a statutory 120-day application deadline of July 1, 2026, and the developer refused to grant an extension. A split council ultimately approved the one-year moratorium despite legal threats, joining a growing wave of Dakota County communities imposing construction pauses."
+  },
+  {
+    "id": "hennepin-county-mn-minneapolis",
+    "name": "Minneapolis (Hennepin County)",
+    "fips": "27053",
+    "state": "Minnesota",
+    "stateCode": "MN",
+    "type": "city",
+    "actions": [
+      {
+        "title": "Six-Month Partial Data Center Moratorium",
+        "date": "2026-06-25",
+        "status": "enacted",
+        "summary": "The Minneapolis City Council voted 8-5 to enact a six-month moratorium on new or expanded data centers outside downtown and on downtown facilities exceeding 350,000 sq ft, running through November 21, 2026.",
+        "sourceUrl": "https://www.datacenterdynamics.com/en/news/minneapolis-city-council-approves-six-month-moratorium-for-data-centers-larger-than-350000-sq-ft/"
+      },
+      {
+        "title": "Proposed Zoning Ordinance Amendments for Data Centers",
+        "date": "2026-05-21",
+        "status": "proposed",
+        "summary": "Nine council members gave notice of intent to co-author zoning code amendments that could limit data center size, require conditional-use permits, and potentially ban centers from some districts, with a draft expected by October–November 2026.",
+        "sourceUrl": "https://www.southwestvoices.news/stories/city-council-debates-data-centers,167574"
+      }
+    ],
+    "concerns": [
+      "water-consumption",
+      "grid-capacity",
+      "carbon-emissions",
+      "noise-vibration",
+      "environmental-review",
+      "local-zoning",
+      "local-control"
+    ],
+    "contextBlurb": "Minneapolis joined the growing list of Minnesota cities imposing data center pauses, scaled back from an original one-year citywide ban to a five-month partial moratorium that exempts smaller downtown facilities to protect the city's struggling commercial tax base. Council members directing the study cited concerns over cumulative energy use, water consumption, and environmental-justice impacts on communities of color. A staff report on environmental impacts, permitting, and utility infrastructure is due in early fall 2026."
+  },
+  {
+    "id": "carver-county-mn-carver",
+    "name": "Carver (Carver County)",
+    "fips": "27019",
+    "state": "Minnesota",
+    "stateCode": "MN",
+    "type": "city",
+    "actions": [
+      {
+        "title": "Interim Ordinance — Data Center Moratorium",
+        "date": "2026-04-06",
+        "status": "enacted",
+        "summary": "The City of Carver adopted an interim ordinance imposing a one-year moratorium prohibiting data center construction or expansion citywide while the planning commission studies and recommends zoning amendments.",
+        "sourceUrl": "https://www.cityofcarver.com/DocumentCenter/View/4127/Interim-Ordinance-Data-Center-Moratorium---Proposed"
+      }
+    ],
+    "concerns": [
+      "local-zoning",
+      "local-control",
+      "residential-proximity",
+      "water-consumption",
+      "grid-capacity"
+    ],
+    "contextBlurb": "Carver enacted one of the earliest Minnesota city-level data center moratoriums in April 2026, declaring data centers a prohibited use for the duration of the interim ordinance under Minnesota Statutes §462.355. The ordinance authorizes the planning commission to study whether and how the zoning code should be amended, with the moratorium expiring upon adoption of permanent data center zoning language or after one year. Carver's action was cited as a model by subsequent Minnesota communities considering similar pauses."
+  },
+  {
+    "id": "wright-county-mn-monticello",
+    "name": "Monticello (Wright County)",
+    "fips": "27171",
+    "state": "Minnesota",
+    "stateCode": "MN",
+    "type": "city",
+    "actions": [
+      {
+        "title": "Data Center Planned Unit Development (DCPUD) Ordinance",
+        "date": "2026-04-27",
+        "status": "enacted",
+        "summary": "Monticello City Council approved a dedicated data center zoning ordinance creating a Data Center PUD district with restrictions including setbacks from residential areas and a requirement that residents bear no financial costs from data center infrastructure.",
+        "sourceUrl": "https://monticellomn.gov/728/Data-Centers"
+      },
+      {
+        "title": "MCEA Lawsuit Over Environmental Review (AUAR) Adequacy",
+        "date": "2026-01-26",
+        "status": "under-review",
+        "summary": "The Minnesota Center for Environmental Advocacy sued Monticello, alleging the city used an overly general environmental review process for the 550-acre Monticello Tech LLC data center campus proposal.",
+        "sourceUrl": "https://www.startribune.com/data-center-city-zoning-monticello/601658680"
+      }
+    ],
+    "concerns": [
+      "residential-proximity",
+      "local-zoning",
+      "water-consumption",
+      "environmental-review",
+      "noise-vibration",
+      "grid-capacity",
+      "property-values"
+    ],
+    "contextBlurb": "Monticello has been at the epicenter of Minnesota's data center debate, with two massive proposals—a 3 million sq ft campus on 550 acres and a 1.3 million sq ft facility near Bertram Chain of Lakes—prompting heated council meetings and protests. In April 2026 the city enacted a bespoke Data Center PUD ordinance establishing setback rules and financial-protection provisions for residents. The city faces a lawsuit from the Minnesota Center for Environmental Advocacy alleging the environmental review was inadequate for facilities of this scale."
+  },
+  {
+    "id": "st-louis-county-mn",
+    "name": "St. Louis County",
+    "fips": "27137",
+    "state": "Minnesota",
+    "stateCode": "MN",
+    "type": "county",
+    "actions": [
+      {
+        "title": "Zoning Reclassification Review — Data Centers Removed from Industrial Class Two",
+        "date": "2026-05-05",
+        "status": "under-review",
+        "summary": "St. Louis County Planning Commission reversed a proposed reclassification that would have moved data centers into the industrial use category, instead withdrawing the amendment and opening public workshops to develop clearer data center zoning standards.",
+        "sourceUrl": "https://www.northernnewsnow.com/2026/05/05/polarizing-data-center-debate-prompts-st-louis-county-revisit-zoning-language/"
+      }
+    ],
+    "concerns": [
+      "local-zoning",
+      "local-control",
+      "residential-proximity",
+      "environmental-review",
+      "water-consumption",
+      "grid-capacity"
+    ],
+    "contextBlurb": "St. Louis County's planning debate was heavily influenced by community opposition to a proposed Google data center in the city of Hermantown, even though the county has no direct jurisdiction over that project. After pulling back a proposed industrial reclassification of data centers following strong public pushback, the county planning commission moved into a series of public workshops to gather input on appropriate zoning standards. Residents and commissioners acknowledged the existing ordinance language was not written with modern hyperscale data centers in mind."
+  },
+  {
+    "id": "carlton-county-mn",
+    "name": "Carlton County",
+    "fips": "27017",
+    "state": "Minnesota",
+    "stateCode": "MN",
+    "type": "county",
+    "actions": [
+      {
+        "title": "Interim Ordinance — Data Center Moratorium Under Consideration",
+        "date": "2026-07-07",
+        "status": "proposed",
+        "summary": "The Carlton County Board of Commissioners advanced a proposed one-year interim ordinance that would pause data center construction countywide while officials complete a comprehensive land use plan review, with a final vote and public hearing expected in August 2026.",
+        "sourceUrl": "https://www.northernnewsnow.com/2026/07/08/carlton-county-board-advances-data-center-pause-after-community-pushback/?outputType=amp"
+      }
+    ],
+    "concerns": [
+      "local-zoning",
+      "local-control",
+      "water-consumption",
+      "environmental-review",
+      "grid-capacity",
+      "water-infrastructure"
+    ],
+    "contextBlurb": "Carlton County advanced a data center moratorium proposal in early July 2026 following pressure from the Carlton County Land Stewards, a grassroots group that previously organized against Enbridge's Line 3 pipeline. The board noted that the county's existing zoning ordinance does not contemplate data centers as a land use, creating regulatory gaps. The county's interest was partly driven by awareness of the nearby Hermantown Google data center controversy, and by reports that Silver Brook Township on the county's eastern edge is being evaluated as a potential data center site."
   }
 ]

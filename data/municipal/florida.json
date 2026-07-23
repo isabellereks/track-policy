@@ -1,0 +1,31 @@
+[
+  {
+    "id": "pasco-county-fl",
+    "name": "Pasco County",
+    "fips": "12101",
+    "state": "Florida",
+    "stateCode": "FL",
+    "type": "county",
+    "actions": [
+      {
+        "title": "One-Year Moratorium on Large-Scale Data Centers",
+        "date": "2026-07-14",
+        "status": "enacted",
+        "summary": "Pasco County commissioners unanimously adopted a one-year moratorium on applications, permits, site plans, rezonings, and related approvals for large-scale data centers in unincorporated areas. Server and computer rooms using no more than 2.5 MW are exempt.",
+        "sourceUrl": "https://www.wusf.org/politics-issues/2026-07-15/pasco-county-one-year-moratorium-large-data-centers"
+      }
+    ],
+    "concerns": [
+      "grid-capacity",
+      "energy-rates",
+      "water-consumption",
+      "water-infrastructure",
+      "noise-vibration",
+      "local-zoning",
+      "local-control",
+      "environmental-review",
+      "property-values"
+    ],
+    "contextBlurb": "Pasco County enacted a one-year pause on large-scale data center approvals in unincorporated areas in July 2026. The county exempted facilities at or below 2.5 MW and is using the moratorium to define large data centers and evaluate electricity, water, noise, environmental, financial, and property impacts before adopting permanent standards."
+  }
+]
